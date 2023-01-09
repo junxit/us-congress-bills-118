@@ -1,0 +1,142 @@
+---
+measure: H.Con.Res. 3
+congress: 118
+version: Introduced in House
+---
+
+# H.Con.Res. 3
+
+Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+
+## Cosponsors (112)
+
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Bishop, Dan [R-NC-8] (B001311)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Murphy, Gregory F. [R-NC-3] (M001210)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. McCormick, Richard [R-GA-6] (M001218)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Miller, Carol D. [R-WV-1] (M001205)
+- Rep. Smith, Jason [R-MO-8] (S001195)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2023-01-09 — Introduced in House
+- 2023-01-09 — Introduced in House
+- 2023-01-09 — Referred to the House Committee on the Judiciary.
