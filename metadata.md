@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 3
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 3
@@ -16,7 +16,7 @@ Expressing the sense of Congress condemning the recent attacks on pro-life facil
 
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Cosponsors (112)
+## Cosponsors (135)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Buck, Ken [R-CO-4] (B001297)
@@ -130,13 +130,48 @@ Expressing the sense of Congress condemning the recent attacks on pro-life facil
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Rosendale Sr., Matthew M. [R-MT-2] (R000103)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2023-01-11 — [House 118-1-30](votes/house-118-1-0030.md) — On Agreeing to the Resolution — **Passed** (222–209)
 
 ## Actions
 
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on the Judiciary.
+- 2023-01-11 — Considered as unfinished business. (consideration: CR H192)
+- 2023-01-11 — Considered under the provisions of rule H. Res. 5. (consideration: CR H169-178)
+- 2023-01-11 — DEBATE - The House proceeded with one hour of debate on H. Con. Res. 3.
+- 2023-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 30). (text: CR H169-170)
+- 2023-01-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 3, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded the yeas and nays and the Chair postponed further proceedings on agreeing to the resolution until a time to be announced.
+- 2023-01-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 30). (text: CR H169-170)
+- 2023-01-11 — The previous question was ordered pursuant to the rule.
