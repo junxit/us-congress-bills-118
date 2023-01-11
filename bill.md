@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 287
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 287
+
+> To amend the Elementary and Secondary Education Act of 1965 to ensure that local educational agencies applying for certain Federal education funds post the curriculum for elementary and secondary schools online, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Curriculum Review of Teachings Transparency Act” or the “CRT Transparency Act”.
+
+## § 2. State and local educational agency plans
+
+- **(a)** *Assurances from States* Section 1111(g)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(g)(2)) is amended—
+  - **(1)** in subparagraph (M), by striking “and” at the end;
+  - **(2)** in subparagraph (N), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(O)** the State will ensure that each local educational agency in the State posts the curriculum for each elementary school and secondary school grade level on a publicly accessible website of the agency.
+
+- **(b)** *Assurances from local educational agencies* Section 1112(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6312(c)) is amended—
+  - **(1)** in paragraph (6), by striking “and” at the end;
+  - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(8)** post the curriculum for each elementary school and secondary school grade level on a publicly accessible website of the agency.
