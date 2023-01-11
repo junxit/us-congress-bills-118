@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 26
@@ -16,7 +16,7 @@ Born-Alive Abortion Survivors Protection Act
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Cosponsors (149)
+## Cosponsors (166)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Cammack, Kat [R-FL-3] (C001039)
@@ -167,13 +167,46 @@ Born-Alive Abortion Survivors Protection Act
 - Rep. Brecheen, Josh [R-OK-2] (B001317)
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (2)
+
+- 2023-01-11 — [House 118-1-28](votes/house-118-1-0028.md) — On Motion to Recommit — **Failed** (212–219)
+- 2023-01-11 — [House 118-1-29](votes/house-118-1-0029.md) — On Passage — **Passed** (220–210)
 
 ## Actions
 
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on the Judiciary.
+- 2023-01-11 — Considered as unfinished business. (consideration: CR H190-191)
+- 2023-01-11 — Considered under the provisions of rule H. Res. 5. (consideration: CR H178-190)
+- 2023-01-11 — DEBATE - The House proceeded with one hour of debate on H.R. 26.
+- 2023-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-11 — Ms. DeGette moved to recommit to the Committee on the Judiciary. (text: CR H187-190)
+- 2023-01-11 — On motion to recommit Failed by the Yeas and Nays: 212 - 219 (Roll no. 28).
+- 2023-01-11 — On passage Passed by the Yeas and Nays: 220 - 210, 1 Present (Roll no. 29). (text: CR H178)
+- 2023-01-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 26, the Chair put the question on passage of the motion to recommit and by voice vote, announced that the nays had prevailed. Ms. DeGette demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-01-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 210, 1 Present (Roll no. 29). (text: CR H178)
+- 2023-01-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-01-11 — The previous question was ordered pursuant to the rule.
