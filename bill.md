@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 350
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 350
+
+> To amend the Federal Election Campaign Act of 1971 to require a candidate for Congress to file additional information about a candidate’s educational background, military service, and employment history, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Another Non-Truthful Office Seeker Act” or the “SANTOS Act”.
+
+## § 2. Additional information required from candidates for Congress
+
+- **(a)** *Information required* Section 302(e) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30102(e)) is amended by adding at the end the following:
+  > - **(6)** *Additional information required from candidates for Congress* Any individual who is a candidate for the House of Representatives or for the Senate shall include, in the designation required under paragraph (1), the following:
+  >   - **(A)** The educational background of the candidate.
+  >   - **(B)** The military service of the candidate, if any.
+  >   - **(C)** The employment history of the candidate.
+
+- **(b)** *Penalty* Section 309(d)(1) of such Act (52 U.S.C. 30109(d)(1)) is amended by adding at the end the following:
+  > - **(E)** Any individual who knowingly and willfully violates section 302(e)(6), including an individual who knowingly and willfully provides false information described in section 302(e)(6), shall be fined $100,000, imprisoned for 1 year, or both.
+
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to elections held on or after the date of the enactment of this Act.
