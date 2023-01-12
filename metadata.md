@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 22
@@ -16,7 +16,7 @@ Protecting America’s Strategic Petroleum Reserve from China Act
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (43)
+## Cosponsors (63)
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
@@ -61,13 +61,43 @@ Protecting America’s Strategic Petroleum Reserve from China Act
 - Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2023-01-12 — [House 118-1-31](votes/house-118-1-0031.md) — On Passage — **Passed** (331–97)
 
 ## Actions
 
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on Energy and Commerce.
+- 2023-01-12 — Considered under the provisions of rule H. Res. 5. (consideration: CR H209-219)
+- 2023-01-12 — DEBATE - The House proceeded with one hour of debate on H.R. 22.
+- 2023-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-12 — On passage Passed by the Yeas and Nays: 331 - 97 (Roll no. 31). (text: CR H209)
+- 2023-01-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 331 - 97 (Roll no. 31). (text: CR H209)
+- 2023-01-12 — The previous question was ordered pursuant to the rule.
