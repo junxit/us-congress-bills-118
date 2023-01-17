@@ -1,0 +1,38 @@
+---
+legis-num: H. RES. 41
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 41
+
+> Underscoring continued support for the people of Ukraine in their fight against Russia’s aggression, reiterating support for Ukraine’s independence, sovereignty, and territorial integrity within its internationally recognized borders and its territorial waters, and calling for justice for all atrocity crimes committed by members of Russia’s forces in Ukraine.
+
+## Preamble
+
+- Whereas, on February 24, 2022, the Russian Federation initiated a full-scale invasion of Ukraine, following on its invasion of Ukraine’s Crimea region and other territories in eastern Ukraine in 2014;
+- Whereas the people of Ukraine have fought bravely and heroically for their independence, sovereignty, territorial integrity, and political independence, including their choice of democracy for Ukraine;
+- Whereas the Russian Federation’s full-scale invasion of Ukraine has caused immense human suffering within Ukraine and around the world, and fueled conflicts within the internationally recognized borders of Ukraine, Georgia, and Moldova and violated their territorial integrity, resulting in Russia’s occupation of parts of eastern and southern Ukraine, Ukraine’s Crimean Peninsula and the city of Sevastopol, and Georgia’s regions of Abkhazia and South Ossetia as well as a violation of its neighbors;
+- Whereas the Lukashenka regime in Belarus is complicit in Russia’s full-scale invasion of Ukraine and has allowed the Russian military to use Belarusian territory to attack Ukraine;
+- Whereas the direct targeting of civilians and civilian infrastructure is a violation of international law, and Russia’s attacks have resulted in the death of countless Ukrainian civilians across the country;
+- Whereas the Russian Federation’s full-scale invasion of Ukraine has resulted in the displacement of millions of Ukrainian civilians both internally and abroad, disproportionally affecting the lives of women and children in Ukraine;
+- Whereas the Russian Federation’s full-scale invasion of Ukraine has impeded the export of vital global food supplies resulting in increased food insecurity for the world’s most vulnerable populations;
+- Whereas the Russian Federation’s military tactics and calculations have led to outright failure in Ukraine;
+- Whereas an immense amount of compelling evidence has already been collected indicating that members of the Russian military have committed a wide variety of atrocity crimes in Ukraine and against the Ukrainian people;
+- Whereas efforts to achieve justice and accountability for atrocity crimes committed by members of Russia’s forces in Ukraine have been organized on a national and international level; and
+- Whereas the Russian Federation’s unprecedented full-scale invasion of Ukraine has reached a critical point requiring immediate and decisive action by the international community: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** condemns in the strongest terms the Russian Federation’s full-scale invasion of Ukraine;
+- **(2)** calls on the Russian Federation to cease its war of aggression against Ukraine and remove all of its troops from the internationally recognized borders of Ukraine;
+- **(3)** supports the people of Ukraine in their defense of their country’s freedom, independence, and democracy;
+- **(4)** recognizes the immense bravery and resilience shown by the people of Ukraine in the face of Russia’s unbridled aggression;
+- **(5)** underscores Ukraine’s sovereignty and territorial integrity within its internationally recognized borders;
+- **(6)** reaffirms that the United States will never recognize the Russian Federation’s illegal and illegitimate attempted annexation of Ukraine’s territory;
+- **(7)** underscores the need for increased punitive actions, in coordination with United States allies and partners, against Russia in response to the full-scale invasion of Ukraine and occupation of sovereign territory of Ukraine;
+- **(8)** strongly supports the seizure of frozen Russian sovereign assets for use by Ukraine, including for its recovery and reconstruction;
+- **(9)** underscores the urgent need for increased security assistance to Ukraine;
+- **(10)** calls for justice and accountability for all responsible for serious violations of international humanitarian law and gross violations of internationally recognized human rights in Ukraine; and
+- **(11)** urges United States allies and partners to increase their assistance to Ukraine and continue to stand together in support of the people of Ukraine in their defense of their country’s freedom, independence, and democracy.
