@@ -1,0 +1,27 @@
+---
+measure: H.Res. 46
+congress: 118
+version: Introduced in House
+---
+
+# H.Res. 46
+
+Amending the Rules of the House of Representatives to prohibit the consideration of bills and resolutions whose titles do not adequately express their contents.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+
+## Committees (1)
+
+- House — Rules Committee
+
+## Actions
+
+- 2023-01-20 — Introduced in House
+- 2023-01-20 — Introduced in House
+- 2023-01-20 — Referred to the House Committee on Rules.
