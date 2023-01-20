@@ -1,0 +1,29 @@
+---
+legis-num: H. RES. 48
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 48
+
+> Expressing support for the Supreme Court’s decision in Dobbs v. Jackson Women’s Health Organization.
+
+## Preamble
+
+- Whereas every person, born and unborn, has a right to life;
+- Whereas Roe v. Wade invented a constitutional right to abortion out of thin air;
+- Whereas Roe v. Wade’s one-size fits all mandate has prevented States from enforcing laws that would save countless lives;
+- Whereas more than 63,000,000 unborn lives have been lost to abortion since Roe v. Wade;
+- Whereas abortion restrictions in the United States are out of step with the international mainstream, as 47 out of 50 European nations limit elective abortion after 15 weeks;
+- Whereas advancements in modern science and technology have revealed unborn babies have a heartbeat at 6 weeks, develop pain receptors at 7 weeks, have arms, fingers, and toes at 10 weeks, and have fully developed hearts at 15 weeks;
+- Whereas help is available to expectant and new mothers and their babies, many times at little or no cost, through 2,700 pregnancy centers nationwide who provide services such as ultrasounds, diapers, baby outfits, STI/STD tests, parenting/prenatal education, maternity housing, and assistance in finding employment;
+- Whereas a recent survey conducted by the Charlotte Lozier Institute shows that an estimated 828,131 lives were saved by pregnancy resource centers from 2016 to 2020;
+- Whereas an opportunity to right the wrongs of Roe v. Wade was presented in the case Dobbs v. Jackson Women’s Health Organization; and
+- Whereas the Supreme Court in Dobbs v. Jackson Women’s Health Organization held that “the Constitution does not confer a right to abortion. Roe and Casey must be overruled, and the authority to regulate abortion must be returned to the people and their elected representatives.”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the Supreme Court’s ruling in Dobbs v. Jackson Women’s Health Organization;
+- **(2)** applauds the courage of the Justices, in the face of intimidation and threats of violence, for standing by their allegiance to the Constitution and the legitimacy of the Supreme Court; and
+- **(3)** commits itself to supporting policies that continue to protect all life, both born and unborn.
