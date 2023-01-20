@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 406
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 406
+
+> To provide for the treatment of the Association of Southeast Asian Nations as an international organization for purposes of the International Organizations Immunities Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Providing Appropriate Recognition and Treatment Needed to Enhance Relations with ASEAN Act” or the “PARTNER with ASEAN Act”.
+
+## § 2. Extension to the Association of Southeast Asian Nations
+
+The provisions of the International Organizations Immunities Act (22 U.S.C. 288 et seq.) may be extended to the Association of Southeast Asian Nations in the same manner, to the same extent, and subject to the same conditions as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
