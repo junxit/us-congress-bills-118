@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 3
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 3
@@ -154,9 +154,10 @@ Expressing the sense of Congress condemning the recent attacks on pro-life facil
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -175,3 +176,4 @@ Expressing the sense of Congress condemning the recent attacks on pro-life facil
 - 2023-01-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 3, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded the yeas and nays and the Chair postponed further proceedings on agreeing to the resolution until a time to be announced.
 - 2023-01-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 30). (text: CR H169-170)
 - 2023-01-11 — The previous question was ordered pursuant to the rule.
+- 2023-01-23 — Received in the Senate and referred to the Committee on the Judiciary.
