@@ -1,0 +1,57 @@
+---
+legis-num: S. 8
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 8
+
+> To amend the Internal Revenue Code of 1986 to expand eligibility for the refundable credit for coverage under a qualified health plan, to improve cost-sharing subsidies under the Patient Protection and Affordable Care Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Health Insurance Affordability Act of 2023”.
+
+## § 2. Increase in eligibility for credit
+
+- **(a)** *In general* Subparagraph (A) of section 36B(c)(1) of the Internal Revenue Code of 1986 is amended by striking “but does not exceed 400 percent” .
+- **(b)** *Applicable percentages*
+  - **(1)** *In general* Subparagraph (A) of section 36B(b)(3) of the Internal Revenue Code of 1986 is amended to read as follows:
+    > - **(A)** *Applicable percentage* The applicable percentage for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:
+
+  - **(2)** *Conforming amendments relating to affordability of coverage*
+    - **(A)** Subparagraph (C) of section 36B(c)(2) of such Code is amended by striking clause (iv).
+    - **(B)** Paragraph (4) of section 36B(c) of such Code is amended by striking subparagraph (F).
+- **(c)** *Limitation on recapture* Clause (i) of section 36B(f)(2)(B) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “400 percent” and inserting “800 percent”;
+  - **(2)** by striking the period at the end of the last row of the table; and
+  - **(3)** by adding at the end of the table the following new rows:
+- **(d)** *Premium cost standard*
+  - **(1)** *In general* The following provisions of section 36B of the Internal Revenue Code of 1986 are each amended by striking “silver” each place it appears and inserting “gold”:
+    - **(A)** Paragraphs (2)(B)(i), (3)(B), and (3)(C) of subsection (b).
+    - **(B)** The heading of subparagraph (B) of subsection (b)(3).
+    - **(C)** Subsection (c)(4)(C)(i)(I).
+  - **(2)** *Conforming amendments to reduced cost-sharing* Section 1402(b)(1) of the Patient Protection and Affordable Care Act (42 U.S.C. 18071(b)(1)) is amended by striking “silver” and inserting “gold”.
+- **(e)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2023.
+
+## § 3. Enhancements for reduced cost-sharing
+
+- **(a)** *Modification of amount*
+  - **(1)** *In general* Section 1402(c)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 18071(c)(2)) is amended—
+    - **(A)** by striking “150 percent” in subparagraph (A) and inserting “200 percent”,
+    - **(B)** by striking “94 percent” in subparagraph (A) and inserting “95 percent”,
+    - **(C)** by striking “150 percent but not more than 200 percent” in subparagraph (B) and inserting “200 percent but not more than 300 percent”,
+    - **(D)** by striking “87 percent” in subparagraph (B) and inserting “90 percent”,
+    - **(E)** by striking “200 percent” in subparagraph (C) and inserting “300 percent”,
+    - **(F)** by striking “250 percent” in subparagraph (C) and inserting “400 percent”, and
+    - **(G)** by striking “73 percent” in subparagraph (C) and inserting “85 percent”.
+  - **(2)** *Conforming amendment* Clause (i) of section 1402(c)(1)(B) of such Act (42 U.S.C. 18071(c)(1)(B)) is amended to read as follows:
+    > - **(i)** *In general* The Secretary shall ensure the reduction under this paragraph shall not result in an increase in the plan’s share of the total allowed costs of benefits provided under the plan above—
+    >   - **(I)** 95 percent in the case of an eligible insured described in paragraph (2)(A);
+    >   - **(II)** 90 percent in the case of an eligible insured described in paragraph (2)(B); and
+    >   - **(III)** 85 percent in the case of an eligible insured described in paragraph (2)(C).
+
+  - **(3)** *Effective date* The amendments made by this subsection shall apply to plan years beginning after December 31, 2023.
+- **(b)** *Funding* Section 1402 of the Patient Protection and Affordable Care Act (42 U.S.C. 18071) is amended by adding at the end the following new subsection:
+  > - **(g)** *Funding* Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary such sums as may be necessary for payments under this section.
