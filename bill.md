@@ -112,14 +112,14 @@ This Act may be cited as the “Chance to Compete Act of 2023”.
   - **(2)** assesses the impact and modifications to the hiring process for the competitive service made by this section and the amendments made by this section; and
   - **(3)** makes recommendations for the improvement of the hiring process for the competitive service.
 
-## § 4. Amendments to Competitive Service Act of 2015
+## § 4. Amendments to competitive service act of 2015
 
 - **(a)** *Platforms for sharing certificates of eligibles*
   - **(1)** *In general* Section 3318(b) of title 5, United States Code, is amended—
     - **(A)** in paragraph (1), by striking “240-day” and inserting “1-year”;
     - **(B)** by redesignating paragraph (5) as paragraph (6); and
     - **(C)** by inserting after paragraph (4) the following:
-      > - **(5)** *Online tool for sharing résumés of individuals on certificates of eligibles* Not later than one year after the date of enactment of the Chance to Compete Act of 2023, the Director of the Office of Personnel Management shall establish and operate an online tool on which an appointing authority can share, with other appointing authorities and the Chief Human Capital Officers Council established under section 1303 of the Chief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note; Public Law 107–296), the résumés of individuals who are on a certificate of eligibles requested by the appointing authority. In carrying out this paragraph, the Director shall consult with the Chief Human Capital Officers Counsel and its membership to develop a plan to establish such online tool.
+      > - **(5)** *Online tool for sharing résumés of individuals on certificates of eligibles* Not later than one year after the date of enactment of the Chance to Compete Act of 2023, the Director of the Office of Personnel Management shall establish and operate an online tool on which an appointing authority can share, with other appointing authorities and the Chief Human Capital Officers Council established under section 1303 of the Chief Human Capital Officers Act of 2002 (5 U.S.C. 1401 note; Public Law 107–296), the resumes of individuals who are on a certificate of eligibles requested by the appointing authority. In carrying out this paragraph, the Director shall consult with the Chief Human Capital Officers Counsel and its membership to develop a plan to establish such online tool.
 
   - **(2)** *Plan* Not later than 270 days after the date of enactment of this Act, the Director shall provide to Congress a plan to develop the online tool required in paragraph (5) of section 3318(b) of title 5, United States Code, as added by paragraph (1) of this subsection. Such plan shall—
     - **(A)** incorporate the input and feedback collected during the required consultation under such paragraph; and
@@ -135,7 +135,7 @@ This Act may be cited as the “Chance to Compete Act of 2023”.
     >     - **(A)** providing for the delegation to other agencies of the authority of the Office to host multi-agency hiring actions to increase the return on investment on high-quality pooled announcements; and
     >     - **(B)** sharing certificates of eligibles and accompanying résumés for appointment.
 
-## § 5. Modernizing and reforming the assessment and hiring of Federal job candidates
+## § 5. Modernizing and reforming the assessment and hiring of federal job candidates
 
 - **(a)** *OPM review* The Director shall conduct a review of all examinations for hiring for a position that the Office or any other examining agency has determined requires a minimum educational requirement because the nature of the duties of such position is of a scientific, technical, or professional position pursuant to section 3308 of title 5, United States Code, to determine whether there are data, evidence, or other information that justifies the need for educational requirements for such position. The Director shall consult with appropriate agencies, employee representatives, external experts, and other stakeholders when making any such determinations.
 - **(b)** *Online tool regarding position duties*
@@ -158,15 +158,11 @@ This Act may be cited as the “Chance to Compete Act of 2023”.
 
 ## § 7. Updates to system of records for hiring actions in the civil service
 
-- **(a)** *Update to select system of records* Not later than 180 days after the date of enactment of this Act, and on a regular basis thereafter, the Director of the Office of Management and Budget shall provide guidance to all Federal departments and agencies to ensure appropriate use of a system of records, including any governmentwide systems of records, to meet the requirements of section 552a of title 5, United States Code (commonly known as the “Privacy Act”), in hiring actions in the civil service.
-- **(b)** *Governmentwide systems of records at the office*
+- **(a)** *Update to select system of records* Not later than 180 days after the date of enactment of this Act, and on a regular basis thereafter, the Director of the Office of Management and Budget shall provide guidance to all Federal departments and agencies to ensure appropriate use of a system of records, including any government-wide systems of records, to meet the requirements of section 552a of title 5, United States Code (commonly known as the “Privacy Act”), in hiring actions in the civil service.
+- **(b)** *Government-wide systems of records at the office*
   - **(1)** *In general* The Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget, shall ensure that any system of records notice updates required pursuant to the guidance provided under subsection (a) account for any use of newer technologies that capture records (as defined in section 552a(a)(4) of title 5, United States Code) in video, audio, and video/audio combination formats and accommodate maintenance of such video, audio, and video/audio combination records.
   - **(2)** *Evaluation for potential updates or revisions*
-    - **(A)** *In general* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Personnel Management shall evaluate whether the governmentwide System of Records Notices (referred to in this paragraph as SORNs) “OPM/GOVT–5 Recruiting, Examining, and Placement Records” and “OPM/GOVT–6 Personnel Research and Test Validation Records”, or any successor materials thereto, require updating or revision to implement the purposes of this Act.
+    - **(A)** *In general* Not later than 1 year after the date of enactment of this Act, the Director of the Office of Personnel Management shall evaluate whether the government-wide System of Records Notices (referred to in this paragraph as SORNs) “OPM/GOVT-5 Recruiting, Examining, and Placement Records” and “OPM/GOVT-6 Personnel Research and Test Validation Records”, or any successor materials thereto, require updating or revision to implement the purposes of this Act.
     - **(B)** *Issuance of updates or revisions; notice to Congress* If the Director, after the evaluation under subparagraph (A), finds that any updates or revisions to the SORNs identified in that subparagraph are necessary and appropriate to support implementation of this Act, the Director shall promptly—
       - **(i)** issue the updates or revisions; and
       - **(ii)** notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives.
-
-## § 8. Determination of budgetary effects
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
