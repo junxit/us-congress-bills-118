@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 26
@@ -210,3 +210,5 @@ Born-Alive Abortion Survivors Protection Act
 - 2023-01-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 210, 1 Present (Roll no. 29). (text: CR H178)
 - 2023-01-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-01-11 — The previous question was ordered pursuant to the rule.
+- 2023-01-23 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-01-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 2.
