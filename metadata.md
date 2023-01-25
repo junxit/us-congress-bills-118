@@ -1,7 +1,7 @@
 ---
 measure: H.R. 22
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 22
@@ -101,3 +101,6 @@ Protecting America’s Strategic Petroleum Reserve from China Act
 - 2023-01-12 — On passage Passed by the Yeas and Nays: 331 - 97 (Roll no. 31). (text: CR H209)
 - 2023-01-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 331 - 97 (Roll no. 31). (text: CR H209)
 - 2023-01-12 — The previous question was ordered pursuant to the rule.
+- 2023-01-23 — Received in the Senate.
+- 2023-01-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-01-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.
