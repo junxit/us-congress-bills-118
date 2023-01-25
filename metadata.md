@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 23
@@ -126,3 +126,5 @@ Family and Small Business Taxpayer Protection Act
 - 2023-01-09 — Referred to the House Committee on Ways and Means.
 - 2023-01-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-01-09 — The previous question was ordered pursuant to the rule.
+- 2023-01-23 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-01-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1.
