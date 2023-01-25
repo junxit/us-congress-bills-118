@@ -1,7 +1,7 @@
 ---
 measure: H.R. 159
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 159
@@ -24,10 +24,11 @@ Chance to Compete Act of 2023
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Chance to Compete Act of 2023
 - 2023-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 32). (text: CR H259-261)
 - 2023-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 32). (text: CR H259-261)
 - 2023-01-24 — Sponsor introductory remarks on measure. (CR H261)
+- 2023-01-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
