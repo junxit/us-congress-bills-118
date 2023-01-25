@@ -18,11 +18,14 @@ This Act may be cited as the “NOTAM Improvement Act of 2023”.
 - **(a)** *Establishment* Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall establish a task force to be known as the FAA Task Force on NOTAM Improvement (in this section referred to as the “Task Force”).
 - **(b)** *Composition* The Task Force shall consist of members appointed by the Administrator, including at least one member of each of the following:
   - **(1)** Air carrier representatives.
-  - **(2)** Labor union representatives.
-  - **(3)** General and business aviation representatives.
-  - **(4)** Aviation safety experts with knowledge of NOTAMs.
-  - **(5)** Human factors experts.
-  - **(6)** Computer system architecture and cybersecurity experts.
+  - **(2)** Airport representatives.
+  - **(3)** Labor union representatives of airline pilots.
+  - **(4)** The labor union certified under section 7111 of title 5, United States Code, to represent FAA air traffic control specialists assigned to the United States NOTAMs Office.
+  - **(5)** The labor union certified under section 7111 of title 5, United States Code, to represent FAA aeronautical information specialists.
+  - **(6)** General and business aviation representatives.
+  - **(7)** Aviation safety experts with knowledge of NOTAMs.
+  - **(8)** Human factors experts.
+  - **(9)** Computer system architecture and cybersecurity experts.
 - **(c)** *Duties* The duties of the Task Force shall include—
   - **(1)** reviewing existing methods for presenting NOTAMs and flight operations information to pilots;
   - **(2)** reviewing regulations and policies relating to NOTAMs, including their content and presentation to pilots;
