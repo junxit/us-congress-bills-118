@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 564
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 564
+
+> To rescind the unobligated balance of appropriations made by the American Rescue Plan Act of 2021.
+
+## § 1. Short title
+
+This Act may be cited as the “Saving Taxpayers’ Money and Paying America’s Debt Act”.
+
+## § 2. Rescission of unobligated amounts under the American Rescue Plan Act
+
+On the date of enactment of this Act, the unobligated balance of amounts made available by the American Rescue Plan Act of 2021 (Public Law 117–2) are hereby rescinded and shall be deposited into the general fund of the Treasury for the sole purpose of deficit reduction.
