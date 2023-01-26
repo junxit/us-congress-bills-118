@@ -1,7 +1,7 @@
 ---
 measure: H.R. 300
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 300
@@ -49,3 +49,5 @@ Settlement Agreement Information Database Act of 2023
 - 2023-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 33). (text: CR H262-263)
 - 2023-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 33). (text: CR H262-263)
 - 2023-01-24 — Sponsor introductory remarks on measure. (CR H264)
+- 2023-01-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-01-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.
