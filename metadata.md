@@ -1,7 +1,7 @@
 ---
 measure: H.R. 449
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 449
@@ -21,9 +21,10 @@ Microloan Transparency and Accountability Act of 2023
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Microloan Transparency and Accountability Act of 2023
 - 2023-01-25 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
 - 2023-01-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H303)
 - 2023-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H303)
+- 2023-01-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
