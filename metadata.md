@@ -1,7 +1,7 @@
 ---
 measure: H.R. 388
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 388
@@ -16,9 +16,10 @@ Securities and Exchange Commission Real Estate Leasing Authority Revocation Act
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Securities and Exchange Commission Real Estate Leasing Authority Revocation Act
 - 2023-01-25 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
 - 2023-01-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H297)
 - 2023-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H297)
+- 2023-01-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
