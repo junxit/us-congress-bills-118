@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 566
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 566
+
+> To prohibit the availability of Federal funds for programs, projects, or activities in the People’s Republic of China until amounts made available for COVID–19 relief in the United States have been reimbursed, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “China Lied People Died Act”.
+
+## § 2. Prohibition on Federal funding
+
+Notwithstanding any other provision of law, no Federal funds may be authorized to be appropriated or otherwise made available for any program, project, or activity in the People’s Republic of China, or otherwise made available to the Government of the People’s Republic of China, until the date on which the Secretary of the Treasury determines and certifies to the President that such Government has reimbursed the United States in full the $4,600,000,000,000 cost of providing relief from the effects of COVID–19. Any amounts provided to the United States in the form of such reimbursement shall be deposited in the general fund of the Treasury.
