@@ -1,7 +1,7 @@
 ---
 measure: H.R. 399
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
