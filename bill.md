@@ -1,0 +1,19 @@
+---
+legis-num: H. RES. 66
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 66
+
+> Expressing support for Congress to focus on artificial intelligence.
+
+## Preamble
+
+- Whereas artificial intelligence (AI) has the potential to greatly improve the lives of Americans and people around the world by increasing productivity, improving health care, and helping to solve some of the world’s most pressing problems;
+- Whereas AI is rapidly advancing and has the potential to change the way we live, work, and interact with one another;
+- Whereas Congress has a responsibility to ensure that the development and deployment of AI is done in a way that is safe, ethical, and respects the rights and privacy of all Americans;
+- Whereas Congress has a responsibility to ensure that the benefits of AI are widely distributed and that the risks are minimized: Now, therefore, be it
+
+That the House of Representatives supports Congress focusing on AI in order to ensure that the development and deployment of AI is done in a way that is safe, ethical, and respects the rights and privacy of all Americans, and that the benefits of AI are widely distributed and the risks are minimized.
