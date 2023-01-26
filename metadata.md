@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 13
 congress: 118
-version: Held at Desk Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 13
@@ -26,7 +26,14 @@ A resolution raising awareness and encouraging the prevention of stalking by des
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
+## Recorded votes (1)
+
+- 2023-01-26 — [Senate 118-1-2](votes/senate-118-1-0002.md) — On the Resolution — **Resolution Agreed to** (94–0)
+
 ## Actions
 
 - 2023-01-25 — Introduced in Senate
 - 2023-01-25 — Submitted in the Senate and ordered held at desk.
+- 2023-01-26 — Measure laid before Senate by unanimous consent. (consideration: CR S108, S115-116)
+- 2023-01-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 94 - 0. Record Vote Number: 2.(text: 1/25/2023 CR S103)
+- 2023-01-26 — Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 94 - 0. Record Vote Number: 2. (text: 1/25/2023 CR S103)
