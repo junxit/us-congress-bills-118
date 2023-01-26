@@ -1,0 +1,129 @@
+---
+legis-num: S. 120
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 120
+
+> To amend the Internal Revenue Code of 1986 to allow a credit against tax for charitable donations to nonprofit organizations providing education scholarships to qualified elementary and secondary students.
+
+## § 1. Short title
+
+This Act may be cited as the “Educational Choice for Children Act”.
+
+## § 2. Tax credit for contributions to scholarship granting organizations
+
+- **(a)** *Credit for individuals*
+  - **(1)** *In general* Subpart A of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 25E the following new section:
+    > ## § 25F. Qualified elementary and secondary education scholarships
+    >
+    > - **(a)** *Allowance of credit* In the case of an individual who is a citizen or resident of the United States (as defined in section 7701(a)(9)), there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the amount of qualified contributions made by the taxpayer during the taxable year.
+    > - **(b)** *Amount of credit* The credit allowed under subsection (a) in any taxable year shall not exceed an amount equal to the greater of—
+    >   - **(1)** 10 percent of the adjusted gross income of the taxpayer for the taxable year, or
+    >   - **(2)** $5,000.
+    > - **(c)** *Definitions* For purposes of this section—
+    >   - **(1)** *Eligible student* The term eligible student means an individual who—
+    >     - **(A)** is a member of a household with an income which is not greater than 300 percent of the area median gross income (as such term is used in section 42), and
+    >     - **(B)** is eligible to enroll in a public elementary or secondary school.
+    >   - **(2)** *Qualified contribution* The term qualified contribution means a charitable contribution (as defined by section 170(c)) to a scholarship granting organization in the form of cash or marketable securities for the purpose of providing scholarships for qualified elementary or secondary education expenses of eligible students.
+    >   - **(3)** *Qualified elementary or secondary education expense* The term qualified elementary or secondary education expense has the same meaning given the term qualified higher education expenses under paragraph (3) of section 529(e), except that—
+    >     - **(A)** such paragraph shall be applied—
+    >       - **(i)** by substituting “elementary school or secondary school (as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801))” for “eligible educational institution” each place it appears, and
+    >       - **(ii)** in subparagraph (B) thereof, by substituting “such school” for “such institution” each place it appears, and
+    >     - **(B)** such term shall include tutoring expenses for student academic needs, including for learning loss.
+    >   - **(4)** *Scholarship granting organization* The term scholarship granting organization means any organization—
+    >     - **(A)** which—
+    >       - **(i)** is described in section 501(c)(3) and exempt from tax under section 501(a), and
+    >       - **(ii)** is not a private foundation,
+    >     - **(B)** whose substantial purpose is to provide scholarships for qualified elementary or secondary education expenses of eligible students,
+    >     - **(C)**
+    >       - **(i)** which meets the requirements of subsection (d), or
+    >       - **(ii)** which, pursuant to State law, was able, as of the date of the enactment of the Educational Choice for Children Act, to receive contributions that are eligible for a State tax credit if such contributions are used by the organization to provide scholarships to individual elementary and secondary students, including scholarships for attending private schools, and
+    >     - **(D)** which, separate from any other funds or contributions received by such organization, maintains and accounts for any contributions made by any person for the purpose of providing scholarships for qualified elementary or secondary education expenses of eligible students.
+    > - **(d)** *Requirements for scholarship granting organizations*
+    >   - **(1)** *In general* An organization meets the requirements of this subsection if—
+    >     - **(A)** such organization provides scholarships to 2 or more students, provided that not all such students attend the same school,
+    >     - **(B)** such organization does not provide scholarships for any expenses other than qualified elementary or secondary education expenses,
+    >     - **(C)** such organization provides a scholarship to eligible students with a priority for—
+    >       - **(i)** students awarded a scholarship the previous school year, and
+    >       - **(ii)** after application of clause (i), any such students who have a sibling who was awarded a scholarship from such organization,
+    >     - **(D)** such organization does not earmark or set aside contributions for scholarships on behalf of any particular student,
+    >     - **(E)** such organization takes appropriate steps to verify the annual household income and family size of eligible students to whom it awards scholarships, and limits them to a member of a household for which the income does not exceed the amount established under subsection (c)(1)(A),
+    >     - **(F)** such organization—
+    >       - **(i)** obtains from an independent certified public accountant annual financial and compliance audits, and
+    >       - **(ii)** certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that the audit described in clause (i) has been completed, and
+    >     - **(G)** no officer or board member of such organization has been convicted of a felony.
+    >   - **(2)** *Independent certified public accountant* For purposes of paragraph (1)(F), the term independent certified public accountant means, with respect to an organization, a certified public accountant who is not a person described in section 465(b)(3)(A) with respect to such organization or any employee of such organization.
+    >   - **(3)** *Prohibition on self-dealing*
+    >     - **(A)** *In general* A scholarship granting organization may not award a scholarship to any disqualified person.
+    >     - **(B)** *Disqualified person* For purposes of this paragraph, a disqualified person shall be determined pursuant to rules similar to the rules of section 4946.
+    > - **(e)** *Denial of double benefit* Any qualified contribution for which a credit is allowed under this section shall not be taken into account as a charitable contribution for purposes of section 170.
+    > - **(f)** *Carryforward of unused credit*
+    >   - **(1)** *In general* If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section, section 23, and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+    >   - **(2)** *Limitation* No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
+    > - **(g)** *Application of volume cap* A qualified contribution shall be taken into account under this section only if such contribution is not in excess of the volume cap established under section 3 of the Educational Choice for Children Act.
+
+  - **(2)** *Clerical amendment* The table of sections for subpart A of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 25E the following new item:
+- **(b)** *Credit for corporations*
+  - **(1)** *In general* Subpart D of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by adding after section 45Z the following:
+    > ## § 45AA. Contributions to scholarship granting organizations
+    >
+    > - **(a)** *General rule* For purposes of section 38, in the case of a corporation, the education scholarship credit determined under this section for the taxable year is the aggregate amount of qualified contributions for the taxable year.
+    > - **(b)** *Amount of credit* The credit allowed under subsection (a) for any taxable year shall not exceed 5 percent of the taxable income (as defined in section 170(b)(2)(D)) of the corporation for such taxable year.
+    > - **(c)** *Qualified contributions* For purposes of this section, the term qualified contribution has the meaning given such term under section 25F.
+    > - **(d)** *Denial of double benefit* No deduction shall be allowed under any provision of this chapter for any expense for which a credit is allowed under this section.
+    > - **(e)** *Application of volume cap* A qualified contribution shall be taken into account under this section only if such contribution is not in excess of the volume cap established under section 3 of the Educational Choice for Children Act.
+
+  - **(2)** *Conforming amendments* Section 38(b) of such Code is amended by striking “plus” at the end of paragraph (39), by striking the period and inserting “, plus” at the end of paragraph (40), and by adding at the end the following new paragraph:
+    > - **(41)** the education scholarship credit determined under section 45AA(a).
+
+  - **(3)** *Clerical amendment* The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by adding at the end the following new item:
+- **(c)** *Failure of scholarship granting organizations To make distributions*
+  - **(1)** *In general* Chapter 42 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter:
+  - **(2)** *Clerical amendment* The table of subchapters for chapter 42 of such Code is amended by adding at the end the following new item:
+
+## § 3. Volume cap
+
+- **(a)** *Allocation*
+  - **(1)** *In general* For purposes of sections 25F(g) and 45AA(e) of the Internal Revenue Code of 1986 (as added by this Act), the volume cap applicable with respect to both such sections shall be $10,000,000,000 for calendar year 2024 and each subsequent year thereafter, with such amount to be allocated as follows:
+    - **(A)** $20,000,000 shall be allocated to each State (as defined in section 7701(a)(10) of the Internal Revenue Code of 1986), with such amount to be made available, in the manner described in subsection (b), for—
+      - **(i)** any individual residing in such State to claim the credit allowed under section 25F of the Internal Revenue Code of 1986 with respect to any qualified contributions (as defined in such section) made by such individual during any taxable year beginning during such calendar year, and
+      - **(ii)** any corporation created or organized in such State to claim the credit determined under section 45AA of such Code with respect to any qualified contributions made by such corporation during any taxable year beginning during such calendar year.
+    - **(B)** With respect to the amount remaining after the allocation under subparagraph (A), such amount (as adjusted pursuant to paragraph (3)) shall be made available, in the manner described in subsection (b), for—
+      - **(i)** any individual to claim the credit allowed under section 25F of the Internal Revenue Code of 1986 with respect to any qualified contributions made by such individual during any taxable year beginning during such calendar year, and
+      - **(ii)** any corporation to claim the credit determined under section 45AA of such Code with respect to any qualified contributions made by such corporation during any taxable year beginning during such calendar year.
+  - **(2)** *Carryover* The amount of any allotment to a State under paragraph (1)(A) for any calendar year which is not claimed by taxpayers described in such paragraph during such calendar year shall be added to the allotment provided under paragraph (1)(B) for the subsequent calendar year.
+  - **(3)** *Increase in nationwide volume cap* For purposes of paragraph (1)(B), if the Secretary determines during any calendar year that the amount of qualified contributions made during such calendar year is equal to or greater than 90 percent of the total amount made available under such paragraph for such calendar year, such amount shall be increased by an amount equal to 5 percent of the total amount made available under such paragraph as of January 1 of such calendar year, with such increase to remain in effect for the subsequent calendar year.
+- **(b)** *First-Come, first-Serve* For purposes of applying the volume cap under this section, such volume cap shall be applied based on a first-come, first-serve basis, as determined based on the date on which the taxpayer made the qualified contribution.
+- **(c)** *Real-Time information* For purposes of this section, the Secretary of the Treasury (or the Secretary's delegate) shall develop a system to track the amount of qualified contributions made during the calendar year for which a credit may be claimed under section 25F or 45AA of the Internal Revenue Code of 1986, with such information to be updated in real time.
+
+## § 4. Exemption from gross income for scholarships for qualified elementary or secondary education expenses of eligible students
+
+- **(a)** *In general* Part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting before section 140 the following new section:
+  > ## § 139J. Scholarships for qualified elementary or secondary education expenses of eligible students
+  >
+  > - **(a)** *In general* In the case of an individual, gross income shall not include any amounts provided to any dependent of such individual pursuant to a scholarship for qualified elementary or secondary education expenses of an eligible student which is provided by a scholarship granting organization.
+  > - **(b)** *Definitions* In this section, the terms qualified elementary or secondary education expense, eligible student, and scholarship granting organization have the same meaning given such terms under section 25F(c).
+
+- **(b)** *Conforming amendment* The table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting before the item relating to section 140 the following new item:
+
+## § 5. Organizational and parental autonomy
+
+- **(a)** *Prohibition of control over scholarship organizations*
+  - **(1)** *In general*
+    - **(A)** *Treatment* A scholarship granting organization shall not, by virtue of participation under any provision of this Act or any amendment made by this Act, be regarded as acting on behalf of any governmental entity.
+    - **(B)** *No governmental control* Nothing in this Act, or any amendment made by this Act, shall be construed to permit, allow, encourage, or authorize any Federal, State, or local government entity, or officer or employee thereof, to mandate, direct, or control any aspect of any scholarship granting organization.
+    - **(C)** *Maximum freedom* To the extent permissible by law, this Act, and any amendment made by this Act, shall be construed to allow scholarship granting organizations maximum freedom to provide for the needs of the participants without governmental control.
+  - **(2)** *Prohibition of control over non-public schools*
+    - **(A)** *No governmental control* Nothing in this Act, or any amendment made by this Act, shall be construed to permit, allow, encourage, or authorize any Federal, State, or local government entity, or officer or employee thereof, to mandate, direct, or control any aspect of any private or religious elementary or secondary education institution.
+    - **(B)** *No exclusion of private or religious schools* No Federal, State, or local government entity, or officer or employee thereof, shall impose or permit the imposition of any conditions or requirements that would exclude or operate to exclude educational expenses at private or religious elementary and secondary education institutions from being considered qualified elementary or secondary education expenses.
+    - **(C)** *No exclusion of qualified expenses due to institution's religious character or affiliation* No Federal, State, or local government entity, or officer or employee thereof, shall exclude, discriminate against, or otherwise disadvantage any elementary or secondary education institution with respect to qualified elementary or secondary education expenses at that institution based in whole or in part on the institution’s religious character or affiliation, including religiously based or mission-based policies or practices.
+  - **(3)** *Parental rights to use scholarships* No Federal, State, or local government entity, or officer or employee thereof, shall disfavor or discourage the use of scholarships granted by participating scholarship granting organizations for qualified elementary or secondary education expenses at private or nonprofit elementary and secondary education institutions, including faith-based schools.
+  - **(4)** *Parental right to intervene* In any action filed in any State or Federal court which challenges the constitutionality (under the constitution of such State or the Constitution of the United States) of any provision of this Act (or any amendment made by this Act), any parent of an eligible student who has received a scholarship from a scholarship granting organization shall have the right to intervene in support of the constitutionality of such provision or amendment. To avoid duplication of efforts and reduce the burdens placed on the parties to the action, the court in any such action may require interveners taking similar positions to file joint papers or to be represented by a single attorney at oral argument, provided that the court does not require such interveners to join any brief filed on behalf of any State which is a defendant in such action.
+- **(b)** *Definitions* For purposes of this section, the terms eligible student, scholarship granting organization, and qualified elementary or secondary education expense shall have the same meanings given such terms under section 25F(c) of the Internal Revenue Code of 1986 (as added by section 2(a) of this Act).
+
+## § 6. Effective date
+
+The amendments made by this Act shall apply to taxable years beginning after December 31, 2023.
