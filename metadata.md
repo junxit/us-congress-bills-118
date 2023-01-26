@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 255
@@ -22,9 +22,10 @@ Federal Disaster Assistance Coordination Act
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Federal Disaster Assistance Coordination Act
 - 2023-01-25 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
 - 2023-01-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H293-294)
 - 2023-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H293-294)
+- 2023-01-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
