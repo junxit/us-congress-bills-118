@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 67
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 67
@@ -25,3 +25,10 @@ Providing amounts for the expenses of the Select Committee on the Strategic Comp
 - 2023-01-26 — Introduced in House
 - 2023-01-26 — Introduced in House
 - 2023-01-26 — Referred to the House Committee on House Administration.
+- 2023-01-27 — Committee on House Administration discharged.
+- 2023-01-27 — Committee on House Administration discharged.
+- 2023-01-27 — Considered by unanimous consent. (consideration: CR H471)
+- 2023-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-27 — Mr. Steil asked unanimous consent to discharge from committee and consider.
+- 2023-01-27 — On agreeing to the resolution Agreed to without objection. (text: CR H471)
+- 2023-01-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
