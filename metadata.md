@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 21
@@ -16,7 +16,7 @@ Strategic Production Response Act
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (22)
+## Cosponsors (40)
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
@@ -40,13 +40,755 @@ Strategic Production Response Act
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Chavez-DeRemer, Lori [R-OR-5] (C001135)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (57)
+
+- 2023-01-26 — [House 118-1-37](votes/house-118-1-0037.md) — On Agreeing to the Amendment — **Failed** (205–220)
+- 2023-01-26 — [House 118-1-38](votes/house-118-1-0038.md) — On Agreeing to the Amendment — **Failed** (213–218)
+- 2023-01-26 — [House 118-1-39](votes/house-118-1-0039.md) — On Agreeing to the Amendment — **Failed** (214–219)
+- 2023-01-26 — [House 118-1-40](votes/house-118-1-0040.md) — On Agreeing to the Amendment — **Failed** (214–219)
+- 2023-01-26 — [House 118-1-41](votes/house-118-1-0041.md) — On Agreeing to the Amendment — **Agreed to** (389–42)
+- 2023-01-26 — [House 118-1-42](votes/house-118-1-0042.md) — On Agreeing to the Amendment — **Failed** (14–418)
+- 2023-01-26 — [House 118-1-43](votes/house-118-1-0043.md) — On Agreeing to the Amendment — **Failed** (213–218)
+- 2023-01-26 — [House 118-1-44](votes/house-118-1-0044.md) — On Agreeing to the Amendment — **Agreed to** (220–212)
+- 2023-01-26 — [House 118-1-45](votes/house-118-1-0045.md) — On Agreeing to the Amendment — **Failed** (213–218)
+- 2023-01-26 — [House 118-1-46](votes/house-118-1-0046.md) — On Agreeing to the Amendment — **Failed** (212–218)
+- 2023-01-26 — [House 118-1-47](votes/house-118-1-0047.md) — On Agreeing to the Amendment — **Failed** (205–225)
+- 2023-01-26 — [House 118-1-48](votes/house-118-1-0048.md) — On Agreeing to the Amendment — **Failed** (213–218)
+- 2023-01-26 — [House 118-1-49](votes/house-118-1-0049.md) — On Agreeing to the Amendment — **Failed** (213–218)
+- 2023-01-26 — [House 118-1-50](votes/house-118-1-0050.md) — On Agreeing to the Amendment — **Failed** (213–219)
+- 2023-01-26 — [House 118-1-51](votes/house-118-1-0051.md) — On Agreeing to the Amendment — **Failed** (210–222)
+- 2023-01-26 — [House 118-1-52](votes/house-118-1-0052.md) — On Agreeing to the Amendment — **Failed** (213–219)
+- 2023-01-26 — [House 118-1-53](votes/house-118-1-0053.md) — On Agreeing to the Amendment — **Failed** (213–219)
+- 2023-01-26 — [House 118-1-54](votes/house-118-1-0054.md) — On Agreeing to the Amendment — **Failed** (197–235)
+- 2023-01-26 — [House 118-1-55](votes/house-118-1-0055.md) — On Agreeing to the Amendment — **Failed** (212–220)
+- 2023-01-26 — [House 118-1-56](votes/house-118-1-0056.md) — On Agreeing to the Amendment — **Failed** (204–228)
+- 2023-01-26 — [House 118-1-57](votes/house-118-1-0057.md) — On Agreeing to the Amendment — **Agreed to** (419–13)
+- 2023-01-26 — [House 118-1-58](votes/house-118-1-0058.md) — On Agreeing to the Amendment — **Agreed to** (418–12)
+- 2023-01-26 — [House 118-1-59](votes/house-118-1-0059.md) — On Agreeing to the Amendment — **Failed** (199–232)
+- 2023-01-26 — [House 118-1-60](votes/house-118-1-0060.md) — On Agreeing to the Amendment — **Failed** (199–230)
+- 2023-01-27 — [House 118-1-61](votes/house-118-1-0061.md) — On Agreeing to the Amendment — **Failed** (207–223)
+- 2023-01-27 — [House 118-1-62](votes/house-118-1-0062.md) — On Agreeing to the Amendment — **Failed** (211–217)
+- 2023-01-27 — [House 118-1-63](votes/house-118-1-0063.md) — On Agreeing to the Amendment — **Failed** (212–215)
+- 2023-01-27 — [House 118-1-64](votes/house-118-1-0064.md) — On Agreeing to the Amendment — **Failed** (209–215)
+- 2023-01-27 — [House 118-1-65](votes/house-118-1-0065.md) — On Agreeing to the Amendment — **Failed** (204–222)
+- 2023-01-27 — [House 118-1-66](votes/house-118-1-0066.md) — On Agreeing to the Amendment — **Failed** (205–220)
+- 2023-01-27 — [House 118-1-67](votes/house-118-1-0067.md) — On Agreeing to the Amendment — **Failed** (171–256)
+- 2023-01-27 — [House 118-1-68](votes/house-118-1-0068.md) — On Agreeing to the Amendment — **Failed** (193–228)
+- 2023-01-27 — [House 118-1-69](votes/house-118-1-0069.md) — On Agreeing to the Amendment — **Failed** (199–229)
+- 2023-01-27 — [House 118-1-70](votes/house-118-1-0070.md) — On Agreeing to the Amendment — **Failed** (205–224)
+- 2023-01-27 — [House 118-1-71](votes/house-118-1-0071.md) — On Agreeing to the Amendment — **Failed** (207–220)
+- 2023-01-27 — [House 118-1-72](votes/house-118-1-0072.md) — On Agreeing to the Amendment — **Failed** (212–218)
+- 2023-01-27 — [House 118-1-73](votes/house-118-1-0073.md) — On Agreeing to the Amendment — **Failed** (199–231)
+- 2023-01-27 — [House 118-1-74](votes/house-118-1-0074.md) — On Agreeing to the Amendment — **Failed** (195–229)
+- 2023-01-27 — [House 118-1-75](votes/house-118-1-0075.md) — On Agreeing to the Amendment — **Failed** (191–237)
+- 2023-01-27 — [House 118-1-76](votes/house-118-1-0076.md) — On Agreeing to the Amendment — **Failed** (206–220)
+- 2023-01-27 — [House 118-1-77](votes/house-118-1-0077.md) — On Agreeing to the Amendment — **Failed** (207–221)
+- 2023-01-27 — [House 118-1-78](votes/house-118-1-0078.md) — On Agreeing to the Amendment — **Failed** (207–221)
+- 2023-01-27 — [House 118-1-79](votes/house-118-1-0079.md) — On Agreeing to the Amendment — **Failed** (173–256)
+- 2023-01-27 — [House 118-1-80](votes/house-118-1-0080.md) — On Agreeing to the Amendment — **Failed** (204–224)
+- 2023-01-27 — [House 118-1-81](votes/house-118-1-0081.md) — On Agreeing to the Amendment — **Failed** (187–240)
+- 2023-01-27 — [House 118-1-82](votes/house-118-1-0082.md) — On Agreeing to the Amendment — **Failed** (211–217)
+- 2023-01-27 — [House 118-1-83](votes/house-118-1-0083.md) — On Agreeing to the Amendment — **Failed** (208–221)
+- 2023-01-27 — [House 118-1-84](votes/house-118-1-0084.md) — On Agreeing to the Amendment — **Failed** (197–230)
+- 2023-01-27 — [House 118-1-85](votes/house-118-1-0085.md) — On Agreeing to the Amendment — **Failed** (209–219)
+- 2023-01-27 — [House 118-1-86](votes/house-118-1-0086.md) — On Agreeing to the Amendment — **Failed** (209–221)
+- 2023-01-27 — [House 118-1-87](votes/house-118-1-0087.md) — On Agreeing to the Amendment — **Failed** (210–219)
+- 2023-01-27 — [House 118-1-88](votes/house-118-1-0088.md) — On Agreeing to the Amendment — **Failed** (201–229)
+- 2023-01-27 — [House 118-1-89](votes/house-118-1-0089.md) — On Agreeing to the Amendment — **Failed** (210–218)
+- 2023-01-27 — [House 118-1-90](votes/house-118-1-0090.md) — On Agreeing to the Amendment — **Failed** (210–220)
+- 2023-01-27 — [House 118-1-91](votes/house-118-1-0091.md) — On Agreeing to the Amendment — **Failed** (198–229)
+- 2023-01-27 — [House 118-1-92](votes/house-118-1-0092.md) — On Agreeing to the Amendment — **Failed** (207–222)
+- 2023-01-27 — [House 118-1-93](votes/house-118-1-0093.md) — On Passage — **Passed** (221–205)
 
 ## Actions
 
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on Energy and Commerce.
+- 2023-01-26 — Amendment (A001) offered by Mr. Gaetz. (consideration: CR H362-363; text: CR H362)
+- 2023-01-26 — Amendment (A002) offered by Mr. Pallone. (consideration: CR H363, H387; text: CR H363)
+- 2023-01-26 — Amendment (A003) offered by Ms. Mace. (consideration: CR H363-364, H387-388; text: CR H363)
+- 2023-01-26 — Amendment (A004) offered by Ms. Castor (FL). (consideration: CR H364-365, H386-387; text: CR H364)
+- 2023-01-26 — Amendment (A005) offered by Mrs. Greene (GA). (consideration: CR H365-366, H388-389; text: CR H365)
+- 2023-01-26 — Amendment (A006) offered by Ms. Blunt Rochester. (consideration: CR H366, H386; text: CR H366)
+- 2023-01-26 — Amendment (A007) offered by Mr. LaLota. (consideration: CR H366-367; text: CR H366)
+- 2023-01-26 — Amendment (A008) offered by Mr. Cleaver. (consideration: CR H367; text: CR H367)
+- 2023-01-26 — Amendment (A009) offered by Mr. Clyde. (consideration: CR H367; text: CR H367)
+- 2023-01-26 — Amendment (A010) offered by Mr. Cleaver. (consideration: CR H367-368; text: CR H367)
+- 2023-01-26 — Amendment (A011) offered by Mrs. Boebert. (consideration: CR H368; text: CR H368)
+- 2023-01-26 — Amendment (A012) offered by Mr. Soto. (consideration: CR H368-369, H389; text: CR H368)
+- 2023-01-26 — Amendment (A013) offered by Mrs. Boebert. (consideration: CR H369-370, H389-390; text: CR H369)
+- 2023-01-26 — Amendment (A014) offered by Ms. Spanberger. (consideration: CR H370-371, H390-391; text: CR H370)
+- 2023-01-26 — Amendment (A015) offered by Mrs. Boebert. (consideration: CR H371-372; text: CR H371)
+- 2023-01-26 — Amendment (A016) offered by Ms. Tlaib. (consideration: CR H372; text: CR H372)
+- 2023-01-26 — Amendment (A017) offered by Mr. Perry. (consideration: CR H372-373; text: CR H372)
+- 2023-01-26 — Amendment (A018) offered by Ms. Tlaib. (consideration: CR H373, H385; text: CR H373)
+- 2023-01-26 — Amendment (A019) offered by Mr. Huffman. (consideration: CR H373-374, H391; text: CR H373)
+- 2023-01-26 — Amendment (A020) offered by Mr. Huffman. (consideration: CR H374-375, H391-392; text: CR H374)
+- 2023-01-26 — Amendment (A021) offered by Mr. Panetta. (consideration: CR H375, H392-393; text: CR H375)
+- 2023-01-26 — Amendment (A022) offered by Mr. Levin. (consideration: CR H375-376, H393; text: CR H375)
+- 2023-01-26 — Amendment (A023) offered by Ms. DelBene. (consideration: CR H376-377, H393-394; text: CR H376)
+- 2023-01-26 — Amendment (A024) offered by Mr. Barr. (consideration: CR H377-378; text: CR H377)
+- 2023-01-26 — Amendment (A025) offered by Mr. Levin. (consideration: CR H378, H394-395; text: CR H378)
+- 2023-01-26 — Amendment (A026) offered by Mr. Grijalva. (consideration: CR H378-379, H395; text: CR H378)
+- 2023-01-26 — Amendment (A027) offered by Mr. Grijalva. (consideration: CR H379, H395-396; text: CR H379)
+- 2023-01-26 — Amendment (A028) offered by Mr. Grijalva. (consideration: CR H379-380, H396-397; text: CR H379)
+- 2023-01-26 — Amendment (A029) offered by Mr. Thompson (CA). (consideration: CR H380; text: CR H380)
+- 2023-01-26 — Amendment (A030) offered by Ms. DeGette. (consideration: CR H380-381, H397; text: CR H380)
+- 2023-01-26 — Amendment (A031) offered by Mrs. Torres (CA). (consideration: CR H381-382, H397-398; text: CR H381)
+- 2023-01-26 — Amendment (A032) offered by Mr. Gottheimer. (consideration: CR H382-383, H397-398; text: CR H382)
+- 2023-01-26 — Amendment (A033) offered by Mr. Gottheimer. (consideration: CR H383, H399; text: CR H383)
+- 2023-01-26 — Amendment (A034) offered by Mr. Cohen. (consideration: CR H383-384, H399-400; text: CR H383)
+- 2023-01-26 — Amendment (A035) offered by Mr. Garcia, Robert. (consideration: CR H384-385, H400-401; text: CR H384)
+- 2023-01-26 — Amendment (A036) offered by Ms. Lee (CA). (consideration: CR H401-402; text: CR H401)
+- 2023-01-26 — Amendment (A037) offered by Mr. Payne. (consideration: CR H402-403; text: CR H402)
+- 2023-01-26 — Amendment (A038) offered by Mr. Magaziner. (consideration: CR H403; text: CR H403)
+- 2023-01-26 — Amendment (A039) offered by Mr. Magaziner. (consideration: CR H403-404; text: CR H403)
+- 2023-01-26 — Amendment (A040) offered by Mr. Goldman (NY). (consideration: CR H404-405; text: CR H404)
+- 2023-01-26 — Amendment (A041) offered by Ms. Ocasio-Cortez. (consideration: CR H405; text: CR H405)
+- 2023-01-26 — Amendment (A042) offered by Ms. Ocasio-Cortez. (consideration: CR H405-406; text: CR H405)
+- 2023-01-26 — Amendment (A043) offered by Ms. Ocasio-Cortez. (consideration: CR H406-407; text: CR H406)
+- 2023-01-26 — Amendment (A044) offered by Ms. Jackson Lee. (consideration: CR H407; text: CR H407)
+- 2023-01-26 — Amendment (A045) offered by Ms. Jackson Lee. (consideration: CR H407-408; text: CR H407)
+- 2023-01-26 — Amendment (A046) offered by Ms. Ross. (consideration: CR H408-409; text: CR H408)
+- 2023-01-26 — Amendment (A047) offered by Mr. Casten. (consideration: CR H409-410; text: CR H409)
+- 2023-01-26 — Amendment (A048) offered by Mr. Casten. (consideration: CR H410; text: CR H410)
+- 2023-01-26 — Amendment (A049) offered by Mr. Casten. (consideration: CR H410-411; text: CR H410)
+- 2023-01-26 — Amendment (A050) offered by Ms. Wasserman Schultz. (consideration: CR H411; text: CR H411)
+- 2023-01-26 — Amendment (A051) offered by Mr. Schneider. (consideration: CR H411-412; text: CR H411)
+- 2023-01-26 — Amendment (A052) offered by Ms. Manning. (consideration: CR H412; text: CR H412)
+- 2023-01-26 — Amendment (A053) offered by Ms. Scholten. (consideration: CR H412-413; text: CR H412)
+- 2023-01-26 — Amendment (A054) offered by Mrs. Lee (NV). (consideration: CR H413; text: CR H413)
+- 2023-01-26 — Amendment (A055) offered by Ms. Porter. (consideration: CR H413-414; text: CR H413)
+- 2023-01-26 — Amendment (A056) offered by Mr. Vasquez. (consideration: CR H414; text: CR H414)
+- 2023-01-26 — Amendment (A057) offered by Mr. Vasquez. (consideration: CR H414-415; text: CR H414)
+- 2023-01-26 — Amendment (A058) offered by Mr. Cicilline. (consideration: CR H415; text: CR H415)
+- 2023-01-26 — Amendment (A059) offered by Mr. Quigley. (consideration: CR H416; text: CR H416)
+- 2023-01-26 — Amendment (A060) offered by Mr. Takano. (consideration: CR H416-417; text: CR H416)
+- 2023-01-26 — Amendment (A061) offered by Mr. Takano. (consideration: CR H417; text: CR H417)
+- 2023-01-26 — Amendment (A062) offered by Mr. Takano. (consideration: CR H417-418; text: CR H417)
+- 2023-01-26 — Amendment (A063) offered by Mr. Castro (TX). (consideration: CR H418-419; text: CR H418)
+- 2023-01-26 — Amendment (A064) offered by Ms. Barragan. (consideration: CR H419; text: CR H419)
+- 2023-01-26 — Amendment (A065) offered by Ms. Plaskett. (consideration: CR H419-420; text: CR H419)
+- 2023-01-26 — Amendment (A066) offered by Ms. Perez. (consideration: CR H420; text: CR H420)
+- 2023-01-26 — Amendment (A067) offered by Mr. Bowman. (consideration: CR H420-421; text: CR H420)
+- 2023-01-26 — Amendment (A068) offered by Ms. Tlaib. (consideration: CR H421; text: CR H421)
+- 2023-01-26 — Amendment (A069) offered by Ms. Tlaib. (consideration: CR H421; text: CR H421)
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment agreed to Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Amendment failed in Committee of the Whole
+- 2023-01-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 21 as unfinished business.
+- 2023-01-26 — Considered under the provisions of rule H. Res. 5. (consideration: CR H351-421; text: CR H361-362)
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Barr amendment No. 48 under the five-minute rule, pending the reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Barragan amendment No. 24 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Blunt Rochester amendment No. 71 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Boebert amendment No. 137 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Boebert amendment No. 32 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Boebert amendment No. 33 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Bowman amendment No. 92 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Casten amendment No. 66 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Casten amendment No. 67 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Casten amendment No. 68 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Castor (FL) amendment No. 3 under the five-minute rule, pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Castro (TX) amendment No. 4 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Cicilline amendment No. 135 under the five-minute rule. Pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Cleaver amendment No. 8 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Cleaver amendment No. 9 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Clyde amendment No. 91 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Cohen amendment No. 129 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the DeGette amendment No. 89 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the DelBene amendment No. 7 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Gaetz amendment No. 1 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Goldman (NY) amendment No. 16 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Gottheimer amendment No. 85 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Gottheimer amendment No. 86 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Greene (GA) amendment No. 2 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Grijalva amendment No. 55 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Grijalva amendment No. 56 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Grijalva amendment No. 57 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Huffman amendment No. 15 under the five-minute rule, pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Huffman amendment No. 15 under the five-minute rule, pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Jackson Lee amendment No. 35 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Jackson Lee amendment No. 36 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the LaLota amendment No. 143 under the five-minute rule, pending a reservation of a point of order, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Lee (CA) amendment No. 84 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Lee (NV) amendment No. 25 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Levin amendment No. 18 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Levin amendment No. 21 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Mace amendment No. 133 under the five-minute rule, pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Magaziner amendment No. 58 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Magaziner amendment No. 59 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Manning amendment No. 27 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Ocasio-Cortez amendment No. 72 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Ocasio-Cortez amendment No. 73 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Ocasio-Cortez amendment No. 74 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Pallone amendment No. 104 under the five-minute rule, pending the reservation of a point of order. Subsequently the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Panetta amendment No. 26 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Payne amendment No. 76 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Perez amendment No. 79 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Perry amendment No. 41 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Plaskett amendment No. 43 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Porter amendment No. 45 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Quigley amendment No. 125 under the five-minute rule. Pending the reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Robert Garcia (CA) amendment No. 53 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Ross amendment No. 70 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Schneider amendment No. 131 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Scholten amendment No. 60 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Soto amendment No. 44 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Spanberger amendment No. 29 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Takano amendment No. 80 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Takano amendment No. 81 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Takano amendment No. 82 under the five-minute rule. Pending the reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Thompson (CA) amendment No. 23 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Tlaib amendment No. 10 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Tlaib amendment No. 11 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Tlaib amendment No. 13 under the five-minute rule. Pending the reservation of a point of order.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Tlaib amendment No. 14 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Torres (CA) amendment No. 50 under the five-minute rule, pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Vasquez amendment No. 63 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Vasquez amendment No. 64 under the five-minute rule.
+- 2023-01-26 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Wasserman Schultz amendment No. 75 under the five-minute rule.
+- 2023-01-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 21.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Boebert amendment (A011) Agreed to by voice vote.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Boebert amendment (A013) Agreed to by recorded vote: 220 - 212 (Roll no. 44).
+- 2023-01-26 — House amendment agreed to: On agreeing to the Boebert amendment (A015) Agreed to by voice vote.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Clyde amendment (A009) Agreed to by voice vote.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Gaetz amendment (A001) Agreed to by voice vote.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Gottheimer amendment (A032) Agreed to by recorded vote: 419 - 13 (Roll no. 57).
+- 2023-01-26 — House amendment agreed to: On agreeing to the Gottheimer amendment (A033) Agreed to by recorded vote: 418 - 12 (Roll no. 58).
+- 2023-01-26 — House amendment agreed to: On agreeing to the LaLota amendment (A007) Agreed to by voice vote.
+- 2023-01-26 — House amendment agreed to: On agreeing to the Mace amendment (A003) Agreed to by recorded vote: 389 - 42 (Roll no. 41).
+- 2023-01-26 — House amendment agreed to: On agreeing to the Perry amendment (A017) Agreed to by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Blunt Rochester amendment (A006) Failed by recorded vote: 213 - 218 (Roll no. 38).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Castor (FL) amendment (A004) Failed by recorded vote: 214 - 219 (Roll no. 39).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Cleaver amendment (A008) Failed by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Cleaver amendment (A010) Failed by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Cohen amendment (A034) Failed by recorded vote: 199 - 232 (Roll no. 59).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the DeGette amendment (A030) Failed by recorded vote: 212 - 220 (Roll no. 55).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the DelBene amendment (A023) Failed by recorded vote: 213 - 219 (Roll no. 50).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Garcia, Robert amendment (A035) Failed by recorded vote: 199 - 230 (Roll no. 60).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A005) Failed by recorded vote: 14 - 418 (Roll no. 42).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Grijalva amendment (A026) Failed by recorded vote: 213 - 219 (Roll no. 52).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Grijalva amendment (A027) Failed by recorded vote: 213 - 219 (Roll no. 53).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Grijalva amendment (A028) Failed by recorded vote: 197 - 235 (Roll no. 54).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Huffman amendment (A019) Failed by recorded vote: 212 - 218 (Roll no. 46).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Huffman amendment (A020) Failed by recorded vote: 205 - 225 (Roll no. 47).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Levin amendment (A022) Failed by recorded vote: 213 - 218 (Roll no. 49).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Levin amendment (A025) Failed by recorded vote: 210 - 222 (Roll no. 51).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Pallone amendment (A002) Failed by recorded vote: 214 - 219 (Roll no. 40).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Panetta amendment (A021) Failed by recorded vote: 213 - 218 (Roll no. 48).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Soto amendment (A012) Failed by recorded vote: 213 - 218 (Roll no. 43).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Spanberger amendment (A014) Failed by recorded vote: 213 - 218 (Roll no. 45).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Takano amendment (A060) Failed by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Takano amendment (A062) Failed by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Tlaib amendment (A018) Failed by recorded vote: 205 - 220 (Roll no. 37).
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Tlaib amendment (A069) Failed by voice vote.
+- 2023-01-26 — House amendment not agreed to: On agreeing to the Torres (CA) amendment (A031) Failed by recorded vote: 204 - 228 (Roll no. 56).
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered
+- 2023-01-26 — House amendment offered/reported by: Amendment (A001) offered by Mr. Gaetz.(consideration: CR H362-363; text: CR H362)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A002) offered by Mr. Pallone.(consideration: CR H363, H387; text: CR H363)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A003) offered by Ms. Mace.(consideration: CR H363-364, H387-388; text: CR H363)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A004) offered by Ms. Castor (FL).(consideration: CR H364-365, H386-387; text: CR H364)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A005) offered by Mrs. Greene (GA).(consideration: CR H365-366, H388-389; text: CR H365)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A006) offered by Ms. Blunt Rochester.(consideration: CR H366, H386; text: CR H366)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A007) offered by Mr. LaLota.(consideration: CR H366-367; text: CR H366)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A008) offered by Mr. Cleaver.(consideration: CR H367; text: CR H367)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A009) offered by Mr. Clyde.(consideration: CR H367; text: CR H367)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A010) offered by Mr. Cleaver.(consideration: CR H367-368; text: CR H367)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A011) offered by Mrs. Boebert.(consideration: CR H368; text: CR H368)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A012) offered by Mr. Soto.(consideration: CR H368-369, H389; text: CR H368)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A013) offered by Mrs. Boebert.(consideration: CR H369-370, H389-390; text: CR H369)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A014) offered by Ms. Spanberger.(consideration: CR H370-371, H390-391; text: CR H370)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A015) offered by Mrs. Boebert.(consideration: CR H371-372; text: CR H371)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A016) offered by Ms. Tlaib.(consideration: CR H372; text: CR H372)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A017) offered by Mr. Perry.(consideration: CR H372-373; text: CR H372)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A018) offered by Ms. Tlaib.(consideration: CR H373, H385; text: CR H373)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A019) offered by Mr. Huffman.(consideration: CR H373-374, H391; text: CR H373)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A020) offered by Mr. Huffman.(consideration: CR H374-375, H391-392; text: CR H374)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A021) offered by Mr. Panetta.(consideration: CR H375, H392-393; text: CR H375)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A022) offered by Mr. Levin.(consideration: CR H375-376, H393; text: CR H375)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A023) offered by Ms. DelBene.(consideration: CR H376-377, H393-394; text: CR H376)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A024) offered by Mr. Barr.(consideration: CR H377-378; text: CR H377)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A025) offered by Mr. Levin.(consideration: CR H378, H394-395; text: CR H378)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A026) offered by Mr. Grijalva.(consideration: CR H378-379, H395; text: CR H378)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A027) offered by Mr. Grijalva.(consideration: CR H379, H395-396; text: CR H379)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A028) offered by Mr. Grijalva.(consideration: CR H379-380, H396-397; text: CR H379)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A029) offered by Mr. Thompson (CA).(consideration: CR H380; text: CR H380)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A030) offered by Ms. DeGette.(consideration: CR H380-381, H397; text: CR H380)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A031) offered by Mrs. Torres (CA).(consideration: CR H381-382, H397-398; text: CR H381)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A032) offered by Mr. Gottheimer.(consideration: CR H382-383, H397-398; text: CR H382)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A033) offered by Mr. Gottheimer.(consideration: CR H383, H399; text: CR H383)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A034) offered by Mr. Cohen.(consideration: CR H383-384, H399-400; text: CR H383)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A035) offered by Mr. Garcia, Robert.(consideration: CR H384-385, H400-401; text: CR H384)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A036) offered by Ms. Lee (CA).(consideration: CR H401-402; text: CR H401)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A037) offered by Mr. Payne.(consideration: CR H402-403; text: CR H402)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A038) offered by Mr. Magaziner.(consideration: CR H403; text: CR H403)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A039) offered by Mr. Magaziner.(consideration: CR H403-404; text: CR H403)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A040) offered by Mr. Goldman (NY).(consideration: CR H404-405; text: CR H404)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A041) offered by Ms. Ocasio-Cortez.(consideration: CR H405; text: CR H405)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A042) offered by Ms. Ocasio-Cortez.(consideration: CR H405-406; text: CR H405)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A043) offered by Ms. Ocasio-Cortez.(consideration: CR H406-407; text: CR H406)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A044) offered by Ms. Jackson Lee.(consideration: CR H407; text: CR H407)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A045) offered by Ms. Jackson Lee.(consideration: CR H407-408; text: CR H407)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A046) offered by Ms. Ross.(consideration: CR H408-409; text: CR H408)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A047) offered by Mr. Casten.(consideration: CR H409-410; text: CR H409)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A048) offered by Mr. Casten.(consideration: CR H410; text: CR H410)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A049) offered by Mr. Casten.(consideration: CR H410-411; text: CR H410)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A050) offered by Ms. Wasserman Schultz.(consideration: CR H411; text: CR H411)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A051) offered by Mr. Schneider.(consideration: CR H411-412; text: CR H411)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A052) offered by Ms. Manning.(consideration: CR H412; text: CR H412)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A053) offered by Ms. Scholten.(consideration: CR H412-413; text: CR H412)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A054) offered by Mrs. Lee (NV).(consideration: CR H413; text: CR H413)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A055) offered by Ms. Porter.(consideration: CR H413-414; text: CR H413)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A056) offered by Mr. Vasquez.(consideration: CR H414; text: CR H414)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A057) offered by Mr. Vasquez.(consideration: CR H414-415; text: CR H414)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A058) offered by Mr. Cicilline.(consideration: CR H415; text: CR H415)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A059) offered by Mr. Quigley.(consideration: CR H416; text: CR H416)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A060) offered by Mr. Takano.(consideration: CR H416-417; text: CR H416)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A061) offered by Mr. Takano.(consideration: CR H417; text: CR H417)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A062) offered by Mr. Takano.(consideration: CR H417-418; text: CR H417)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A063) offered by Mr. Castro (TX).(consideration: CR H418-419; text: CR H418)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A064) offered by Ms. Barragan.(consideration: CR H419; text: CR H419)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A065) offered by Ms. Plaskett.(consideration: CR H419-420; text: CR H419)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A066) offered by Ms. Perez.(consideration: CR H420; text: CR H420)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A067) offered by Mr. Bowman.(consideration: CR H420-421; text: CR H420)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A068) offered by Ms. Tlaib.(consideration: CR H421; text: CR H421)
+- 2023-01-26 — House amendment offered/reported by: Amendment (A069) offered by Ms. Tlaib.(consideration: CR H421; text: CR H421)
+- 2023-01-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 5 and Rule XVIII.
+- 2023-01-26 — Mr. Armstrong moved that the Committee rise.
+- 2023-01-26 — Mr. Armstrong raised a point of order against the Quigley amendment (A059). Mr. Armstrong stated the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — Mr. Armstrong raised a point of order against the Takano amendment (A062). Mr. Armstrong stated the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. Point of order overruled by the Chair.
+- 2023-01-26 — Mr. Armstrong raised a point of order against the Tlaib amendment (A068). Mr. Armstrong stated the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — Mr. Carter (GA) raised a point of order against the Gottheimer amendment (A032). Mr. Carter (GA) stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. Point of order overruled by the Chair.
+- 2023-01-26 — Mr. Duncan raised a point of order against the Goldman (NY) amendment (A040). Mr. Duncan stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — Mr. Johnson (OH) raised a point of order against the Tlaib amendment (A016). Mr. Johnson stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — Mr. Pallone raised a point of order against the Barr amendment (A024). Mr. Pallone raised a point of order against the Barr amendment. Mr. Pallone stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — Mr. Walberg raised a point of order against the DeGette amendment (A030). Mr. Walberg raised a point of order against the DeGette amendment. Mr. Walberg stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. Point of order overruled by the Chair.
+- 2023-01-26 — Mr. Walberg raised a point of order against the Thompson (CA) amendment (A029). Mr. Walberg stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-26 — On agreeing to the Blunt Rochester amendment (A006) Failed by recorded vote: 213 - 218 (Roll no. 38).
+- 2023-01-26 — On agreeing to the Boebert amendment (A011) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Boebert amendment (A013) Agreed to by recorded vote: 220 - 212 (Roll no. 44).
+- 2023-01-26 — On agreeing to the Boebert amendment (A015) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Castor (FL) amendment (A004) Failed by recorded vote: 214 - 219 (Roll no. 39).
+- 2023-01-26 — On agreeing to the Cleaver amendment (A008) Failed by voice vote.
+- 2023-01-26 — On agreeing to the Cleaver amendment (A010) Failed by voice vote.
+- 2023-01-26 — On agreeing to the Clyde amendment (A009) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Cohen amendment (A034) Failed by recorded vote: 199 - 232 (Roll no. 59).
+- 2023-01-26 — On agreeing to the DeGette amendment (A030) Failed by recorded vote: 212 - 220 (Roll no. 55).
+- 2023-01-26 — On agreeing to the DelBene amendment (A023) Failed by recorded vote: 213 - 219 (Roll no. 50).
+- 2023-01-26 — On agreeing to the Gaetz amendment (A001) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Garcia, Robert amendment (A035) Failed by recorded vote: 199 - 230 (Roll no. 60).
+- 2023-01-26 — On agreeing to the Gottheimer amendment (A032) Agreed to by recorded vote: 419 - 13 (Roll no. 57).
+- 2023-01-26 — On agreeing to the Gottheimer amendment (A033) Agreed to by recorded vote: 418 - 12 (Roll no. 58).
+- 2023-01-26 — On agreeing to the Greene (GA) amendment (A005) Failed by recorded vote: 14 - 418 (Roll no. 42).
+- 2023-01-26 — On agreeing to the Grijalva amendment (A026) Failed by recorded vote: 213 - 219 (Roll no. 52).
+- 2023-01-26 — On agreeing to the Grijalva amendment (A027) Failed by recorded vote: 213 - 219 (Roll no. 53).
+- 2023-01-26 — On agreeing to the Grijalva amendment (A028) Failed by recorded vote: 197 - 235 (Roll no. 54).
+- 2023-01-26 — On agreeing to the Huffman amendment (A019) Failed by recorded vote: 212 - 218 (Roll no. 46).
+- 2023-01-26 — On agreeing to the Huffman amendment (A020) Failed by recorded vote: 205 - 225 (Roll no. 47).
+- 2023-01-26 — On agreeing to the LaLota amendment (A007) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Levin amendment (A022) Failed by recorded vote: 213 - 218 (Roll no. 49).
+- 2023-01-26 — On agreeing to the Levin amendment (A025) Failed by recorded vote: 210 - 222 (Roll no. 51).
+- 2023-01-26 — On agreeing to the Mace amendment (A003) Agreed to by recorded vote: 389 - 42 (Roll no. 41).
+- 2023-01-26 — On agreeing to the Pallone amendment (A002) Failed by recorded vote: 214 - 219 (Roll no. 40).
+- 2023-01-26 — On agreeing to the Panetta amendment (A021) Failed by recorded vote: 213 - 218 (Roll no. 48).
+- 2023-01-26 — On agreeing to the Perry amendment (A017) Agreed to by voice vote.
+- 2023-01-26 — On agreeing to the Soto amendment (A012) Failed by recorded vote: 213 - 218 (Roll no. 43).
+- 2023-01-26 — On agreeing to the Spanberger amendment (A014) Failed by recorded vote: 213 - 218 (Roll no. 45).
+- 2023-01-26 — On agreeing to the Takano amendment (A060) Failed by voice vote.
+- 2023-01-26 — On agreeing to the Takano amendment (A062) Failed by voice vote.
+- 2023-01-26 — On agreeing to the Tlaib amendment (A018) Failed by recorded vote: 205 - 220 (Roll no. 37).
+- 2023-01-26 — On agreeing to the Tlaib amendment (A069) Failed by voice vote.
+- 2023-01-26 — On agreeing to the Torres (CA) amendment (A031) Failed by recorded vote: 204 - 228 (Roll no. 56).
+- 2023-01-26 — On motion that the Committee rise Agreed to by voice vote.
+- 2023-01-26 — POSTONED PROCEEDINGS - At the conclusion of debate on the Levin amendment No. 18, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Levin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Barragan amendment No. 24, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Barragan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blunt Rochester amendment No. 71, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Blunt Rochester demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 33, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bowman amendment No. 92, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Bowman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Casten amendment No. 66, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Weber (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Casten amendment No. 67, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Casten demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Casten amendment No. 68, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Casten demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor (FL) amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Castor (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Castro (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment No. 135, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Armstrong demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment No. 129, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeGette amendment No. 89, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DeGette demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DelBene amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DelBene demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gottheimer amendment No. 85, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gottheimer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gottheimer amendment No. 86, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Carter (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment No. 55, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment No. 55, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Levin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment No. 56, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment No. 57, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Huffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment No. 65, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Huffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 35, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 36, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment No. 84, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (NV) amendment No. 25, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Lee (NV) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 133, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Magaziner amendment No. 58, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Magaziner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Magaziner amendment No. 59, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Magaziner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Manning amendment No. 27, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Manning demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment No. 72, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Ocasio-Cortez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment No. 73, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Ocasio-Cortez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ocasio-Cortez amendment No. 74, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Ocasio-Cortez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment No. 104, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Panetta amendment No. 26, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Panetta demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Payne amendment No. 76, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Payne demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perez amendment No. 79, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Perez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Plaskett amendment No. 43, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Plaskett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Porter amendment No. 45, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Porter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Robert Garcia (CA) amendment No.53, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Carter (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ross amendment No. 70, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Ross demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schneider amendment No. 131, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Schneider demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scholten amendment No. 60, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Weber (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Soto amendment No. 44, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Soto demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Spanberger amendment No. 29, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Spanberger demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Takano amendment No. 81, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Takano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tlaib amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Tlaib demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Torres (CA) amendment No. 50, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Torres (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Vasquez amendment No. 63, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Vasquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Vasquez amendment No. 64, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Vasquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wasserman Schultz amendment No. 75, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Wasserman Schultz demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — Roll call votes on amendments in House
+- 2023-01-26 — The Speaker designated the Honorable David Rouzer to act as Chairman of the Committee.
+- 2023-01-27 — Amendment (A070) offered by Mr. Grijalva. (consideration: CR H435-436, H467-468; text: CR H435-436)
+- 2023-01-27 — Amendment (A071) offered by Mr. Jackson (NC). (consideration: CR H436-437, H468; text: CR H436)
+- 2023-01-27 — Amendment (A072) offered by Ms. Greene (GA). (consideration: CR H437-438; text: CR H437)
+- 2023-01-27 — Amendment (A073) offered by Mr. Sherman. (consideration: CR H438-439; text: CR H438)
+- 2023-01-27 — Amendment (A074) offered by Ms. Greene (GA). (consideration: CR H439-440; text: CR H439)
+- 2023-01-27 — Amendment (A075) offered by Mr. Lieu. (consideration: CR H440-441, H468-469; text: CR H440)
+- 2023-01-27 — Amendment (A076) offered by Mr. Lieu. (consideration: CR H441; text: CR H441)
+- 2023-01-27 — Amendment (A077) offered by Mr. Nickel. (consideration: CR H441-442; text: CR H441)
+- 2023-01-27 — Amendment (A078) offered by Mr. Pallone. (consideration: CR H442-448; text: CR H442-447)
+- 2023-01-27 — Amendment agreed to Committee of the Whole
+- 2023-01-27 — Amendment agreed to Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Amendment failed in Committee of the Whole
+- 2023-01-27 — Considered as unfinished business. (consideration: CR H435-471)
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Greene (GA) amendment No. 147 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Grijalva amendment No. 145 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Jackson (NC) amendment No. 46 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Lieu amendment No. 61 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Lieu amendment No. 62 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Nickel amendment No. 77 under the five-minute rule.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Pallone amendment No. 95 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Sherman amendment No. 88 under the five-minute rule, pending a reservation of a point of order.
+- 2023-01-27 — DEBATE - Pursuant to the provisions of H. Res. 5, the Committee of the Whole proceeded with debate on the Sherman amendment No. 88 under the five-minute rule.
+- 2023-01-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A072) Agreed to by voice vote.
+- 2023-01-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A074) Agreed to by voice vote.
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Barragan amendment (A064) Failed by recorded vote: 209 - 219 (Roll no. 85).(consideration: CR H464-465)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Bowman amendment (A067) Failed by recorded vote: 201 - 229 (Roll no. 88).(consideration: CR H466-467)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Casten amendment (A047) Failed by recorded vote: 199 - 231 (Roll no. 73).(consideration: CR H457)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Casten amendment (A048) Failed by recorded vote: 195 - 229 (Roll no. 74).(consideration: CR H457-458)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Casten amendment (A049) Failed by recorded vote: 191 - 237 (Roll no. 75).(consideration: CR H458)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A063) Failed by recorded vote: 197 - 230 (Roll no. 84).(consideration: CR H464)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Cicilline amendment (A058) Failed by recorded vote: 211 - 217 (Roll no. 82).(consideration: CR H462-463)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Grijalva amendment (A070) Failed by recorded vote: 210 - 218 (Roll no. 89).
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Jackson (NC) amendment (A071) Failed by recorded vote: 210 - 220 (Roll no. 90).(consideration: CR H468)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A044) Failed by recorded vote: 205 - 224 (Roll no. 70).(consideration: CR H455)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Jackson Lee amendment (A045) Failed by recorded vote: 207 - 220 (Roll no. 71).(consideration: CR H455-456)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A036) Failed by recorded vote: 207 - 223 (Roll no. 61).(consideration: CR H449)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Lee (NV) amendment (A054) Failed by recorded vote: 207 - 221 (Roll no. 78).(consideration: CR H460)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Lieu amendment (A075) Failed by recorded vote: 198 - 229 (Roll no. 91).
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Lieu amendment (A076) Failed by voice vote.
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Magaziner amendment (A038) Failed by recorded vote: 204 - 222 (Roll no. 65).(consideration: CR H451-452)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Magaziner amendment (A039) Failed by recorded vote: 205 - 220 (Roll no. 66).(consideration: CR H452-453)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Manning amendment (A052) Failed by recorded vote: 206 - 220 (Roll no. 76).(consideration: CR H458-459)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Nickel amendment (A077) Failed by recorded vote: 207 - 222 (Roll no. 92).
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A041) Failed by recorded vote: 171 - 256 (Roll no. 67).(consideration: CR H453)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A042) Failed by recorded vote: 193 - 228 (Roll no. 68).(consideration: CR H453-454)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A043) Failed by recorded vote: 199 - 229 (Roll no. 69).(consideration: CR H454)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Payne amendment (A037) Failed by recorded vote: 211 - 217 (Roll no. 62).(consideration: CR H449-450)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Perez amendment (A066) Failed by recorded vote: 210 - 219 (Roll no. 87).(consideration: CR H466)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Plaskett amendment (A065) Failed by recorded vote: 209 - 221 (Roll no. 86).(consideration: CR H465-466)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Porter amendment (A055) Failed by recorded vote: 173 - 256 (Roll no. 79).(consideration: CR H460-461)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Ross amendment (A046) Failed by recorded vote: 212 - 218 (Roll no. 72).(consideration: CR H456-457)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Schneider amendment (A051) Failed by recorded vote: 209 - 215 (Roll no. 64).(consideration: CR H450-451)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Scholten amendment (A053) Failed by recorded vote: 207 - 221 (Roll no. 77).(consideration: CR H459-460)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Sherman amendment (A073) Failed by voice vote.
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Takano amendment (A061) Failed by recorded vote: 208 - 221 (Roll no. 83).(consideration: CR H463-464)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Vasquez amendment (A056) Failed by recorded vote: 204 - 224 (Roll no. 80).(consideration: CR H461-462)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Vasquez amendment (A057) Failed by recorded vote: 187 - 240 (Roll no. 81).(consideration: CR H462)
+- 2023-01-27 — House amendment not agreed to: On agreeing to the Wasserman Schultz amendment (A050) Failed by recorded vote: 212 - 215 (Roll no. 63).(consideration: CR H450)
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered
+- 2023-01-27 — House amendment offered/reported by: Amendment (A070) offered by Mr. Grijalva.(consideration: CR H435-436, H467-468; text: CR H435-436)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A071) offered by Mr. Jackson (NC).(consideration: CR H436-437, H468; text: CR H436)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A072) offered by Ms. Greene (GA).(consideration: CR H437-438; text: CR H437)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A073) offered by Mr. Sherman.(consideration: CR H438-439; text: CR H438)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A074) offered by Ms. Greene (GA).(consideration: CR H439-440; text: CR H439)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A075) offered by Mr. Lieu.(consideration: CR H440-441, H468-469; text: CR H440)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A076) offered by Mr. Lieu.(consideration: CR H441; text: CR H441)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A077) offered by Mr. Nickel.(consideration: CR H441-442; text: CR H441)
+- 2023-01-27 — House amendment offered/reported by: Amendment (A078) offered by Mr. Pallone.(consideration: CR H442-448; text: CR H442-447)
+- 2023-01-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-27 — Mr. Duncan raised a point of order against the Pallone amendment (A078). Mr. Duncan stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. The Chair sustained the point of order.
+- 2023-01-27 — Mr. Pallone raised a point of order against the Greene (GA) amendment (A074). Mr. Pallone stated that the provisions of the amendment exceeds the scope of the bill and the amendment is therefore, not germane. Point of order overruled by the Chair.
+- 2023-01-27 — On agreeing to the Barragan amendment (A064) Failed by recorded vote: 209 - 219 (Roll no. 85). (consideration: CR H464-465)
+- 2023-01-27 — On agreeing to the Bowman amendment (A067) Failed by recorded vote: 201 - 229 (Roll no. 88). (consideration: CR H466-467)
+- 2023-01-27 — On agreeing to the Casten amendment (A047) Failed by recorded vote: 199 - 231 (Roll no. 73). (consideration: CR H457)
+- 2023-01-27 — On agreeing to the Casten amendment (A048) Failed by recorded vote: 195 - 229 (Roll no. 74). (consideration: CR H457-458)
+- 2023-01-27 — On agreeing to the Casten amendment (A049) Failed by recorded vote: 191 - 237 (Roll no. 75). (consideration: CR H458)
+- 2023-01-27 — On agreeing to the Castro (TX) amendment (A063) Failed by recorded vote: 197 - 230 (Roll no. 84). (consideration: CR H464)
+- 2023-01-27 — On agreeing to the Cicilline amendment (A058) Failed by recorded vote: 211 - 217 (Roll no. 82). (consideration: CR H462-463)
+- 2023-01-27 — On agreeing to the Greene (GA) amendment (A072) Agreed to by voice vote.
+- 2023-01-27 — On agreeing to the Greene (GA) amendment (A074) Agreed to by voice vote.
+- 2023-01-27 — On agreeing to the Grijalva amendment (A070) Failed by recorded vote: 210 - 218 (Roll no. 89).
+- 2023-01-27 — On agreeing to the Jackson (NC) amendment (A071) Failed by recorded vote: 210 - 220 (Roll no. 90). (consideration: CR H468)
+- 2023-01-27 — On agreeing to the Jackson Lee amendment (A044) Failed by recorded vote: 205 - 224 (Roll no. 70). (consideration: CR H455)
+- 2023-01-27 — On agreeing to the Jackson Lee amendment (A045) Failed by recorded vote: 207 - 220 (Roll no. 71). (consideration: CR H455-456)
+- 2023-01-27 — On agreeing to the Lee (CA) amendment (A036) Failed by recorded vote: 207 - 223 (Roll no. 61). (consideration: CR H449)
+- 2023-01-27 — On agreeing to the Lee (NV) amendment (A054) Failed by recorded vote: 207 - 221 (Roll no. 78). (consideration: CR H460)
+- 2023-01-27 — On agreeing to the Lieu amendment (A075) Failed by recorded vote: 198 - 229 (Roll no. 91).
+- 2023-01-27 — On agreeing to the Lieu amendment (A076) Failed by voice vote.
+- 2023-01-27 — On agreeing to the Magaziner amendment (A038) Failed by recorded vote: 204 - 222 (Roll no. 65). (consideration: CR H451-452)
+- 2023-01-27 — On agreeing to the Magaziner amendment (A039) Failed by recorded vote: 205 - 220 (Roll no. 66). (consideration: CR H452-453)
+- 2023-01-27 — On agreeing to the Manning amendment (A052) Failed by recorded vote: 206 - 220 (Roll no. 76). (consideration: CR H458-459)
+- 2023-01-27 — On agreeing to the Nickel amendment (A077) Failed by recorded vote: 207 - 222 (Roll no. 92).
+- 2023-01-27 — On agreeing to the Ocasio-Cortez amendment (A041) Failed by recorded vote: 171 - 256 (Roll no. 67). (consideration: CR H453)
+- 2023-01-27 — On agreeing to the Ocasio-Cortez amendment (A042) Failed by recorded vote: 193 - 228 (Roll no. 68). (consideration: CR H453-454)
+- 2023-01-27 — On agreeing to the Ocasio-Cortez amendment (A043) Failed by recorded vote: 199 - 229 (Roll no. 69). (consideration: CR H454)
+- 2023-01-27 — On agreeing to the Payne amendment (A037) Failed by recorded vote: 211 - 217 (Roll no. 62). (consideration: CR H449-450)
+- 2023-01-27 — On agreeing to the Perez amendment (A066) Failed by recorded vote: 210 - 219 (Roll no. 87). (consideration: CR H466)
+- 2023-01-27 — On agreeing to the Plaskett amendment (A065) Failed by recorded vote: 209 - 221 (Roll no. 86). (consideration: CR H465-466)
+- 2023-01-27 — On agreeing to the Porter amendment (A055) Failed by recorded vote: 173 - 256 (Roll no. 79). (consideration: CR H460-461)
+- 2023-01-27 — On agreeing to the Ross amendment (A046) Failed by recorded vote: 212 - 218 (Roll no. 72). (consideration: CR H456-457)
+- 2023-01-27 — On agreeing to the Schneider amendment (A051) Failed by recorded vote: 209 - 215 (Roll no. 64). (consideration: CR H450-451)
+- 2023-01-27 — On agreeing to the Scholten amendment (A053) Failed by recorded vote: 207 - 221 (Roll no. 77). (consideration: CR H459-460)
+- 2023-01-27 — On agreeing to the Sherman amendment (A073) Failed by voice vote.
+- 2023-01-27 — On agreeing to the Takano amendment (A061) Failed by recorded vote: 208 - 221 (Roll no. 83). (consideration: CR H463-464)
+- 2023-01-27 — On agreeing to the Vasquez amendment (A056) Failed by recorded vote: 204 - 224 (Roll no. 80). (consideration: CR H461-462)
+- 2023-01-27 — On agreeing to the Vasquez amendment (A057) Failed by recorded vote: 187 - 240 (Roll no. 81). (consideration: CR H462)
+- 2023-01-27 — On agreeing to the Wasserman Schultz amendment (A050) Failed by recorded vote: 212 - 215 (Roll no. 63). (consideration: CR H450)
+- 2023-01-27 — On passage Passed by the Yeas and Nays: 221 - 205 (Roll no. 93).
+- 2023-01-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment No. 145, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson (NC) amendment No. 46, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lieu amendment No. 61, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Lieu demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nickel amendment No. 77, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nickel demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-01-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 205 (Roll no. 93).
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — Roll call votes on amendments in House
+- 2023-01-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 21.
+- 2023-01-27 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-01-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-01-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 21.
+- 2023-01-27 — The previous question was ordered pursuant to the rule.
