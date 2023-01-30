@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 21
@@ -59,9 +59,10 @@ Strategic Production Response Act
 - Rep. Granger, Kay [R-TX-12] (G000377)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (57)
 
@@ -792,3 +793,4 @@ Strategic Production Response Act
 - 2023-01-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2023-01-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 21.
 - 2023-01-27 — The previous question was ordered pursuant to the rule.
+- 2023-01-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
