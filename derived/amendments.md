@@ -1,7 +1,7 @@
 ---
 measure: H.R. 298
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
