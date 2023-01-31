@@ -1,7 +1,7 @@
 ---
 measure: H.R. 582
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 582
@@ -79,9 +79,10 @@ Credit Union Board Modernization Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -94,3 +95,4 @@ Credit Union Board Modernization Act
 - 2023-01-30 — Mr. McHenry moved to suspend the rules and pass the bill.
 - 2023-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H501)
 - 2023-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H501)
+- 2023-01-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
