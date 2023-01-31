@@ -2,14 +2,14 @@
 legis-num: H. RES. 75
 congress: 118th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 75
 
 > Providing for consideration of the joint resolution (H.J. Res. 7) relating to a national emergency declared by the President on March 13, 2020; providing for consideration of the bill (H.R. 139) to require Executive agencies to submit to Congress a study of the impacts of expanded telework and remote work by agency employees during the COVID–19 pandemic and a plan for the agency’s future use of telework and remote work, and for other purposes; providing for consideration of the bill (H.R. 382) to terminate the public health emergency declared with respect to COVID–19; and providing for consideration of the bill (H.R. 497) to eliminate the COVID–19 vaccine mandate on health care providers furnishing items and services under certain Federal health care programs.
 
-That upon adoption of this resolution it shall be in order to consider in the House the joint resolution (H. J. Res. 7) relating to a national emergency declared by the President on March 13, 2020. All points of order against consideration of the joint resolution are waived. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure or their respective designees; and (2) one motion to recommit.
+That upon adoption of this resolution it shall be in order to consider in the House the joint resolution (H.J. Res. 7) relating to a national emergency declared by the President on March 13, 2020. All points of order against consideration of the joint resolution are waived. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Transportation and Infrastructure or their respective designees; and (2) one motion to recommit.
 
 ## § 2.
 
