@@ -1,7 +1,7 @@
 ---
 measure: H.R. 298
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 298
@@ -31,9 +31,10 @@ Expanding Access to Capital for Rural Job Creators Act
 - Rep. Fry, Russell [R-SC-7] (F000478)
 - Rep. James, John [R-MI-10] (J000307)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Expanding Access to Capital for Rural Job Creators Act
 - 2023-01-30 — Mr. McHenry moved to suspend the rules and pass the bill.
 - 2023-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H503)
 - 2023-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H503)
+- 2023-01-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
