@@ -1,7 +1,7 @@
 ---
 measure: H.R. 290
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 290
@@ -20,9 +20,10 @@ Commercial Remote Sensing Amendment Act of 2023
 
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Commercial Remote Sensing Amendment Act of 2023
 - 2023-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H495)
 - 2023-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H495)
 - 2023-01-30 — Sponsor introductory remarks on measure. (CR H495)
+- 2023-01-31 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
