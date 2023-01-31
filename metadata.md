@@ -1,7 +1,7 @@
 ---
 measure: H.R. 497
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 497
@@ -16,7 +16,7 @@ Freedom for Health Care Workers Act
 
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
 
-## Cosponsors (59)
+## Cosponsors (75)
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Massie, Thomas [R-KY-4] (M001184)
@@ -77,11 +77,32 @@ Freedom for Health Care Workers Act
 - Rep. Moore, Barry [R-AL-2] (M001212)
 - Rep. Miller, Max L. [R-OH-7] (M001222)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Rep. Rose, John W. [R-TN-6] (R000612)
 
 ## Committees (2)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+
+## Recorded votes (2)
+
+- 2023-01-31 — [House 118-1-97](votes/house-118-1-0097.md) — On Motion to Recommit — **Failed** (210–219)
+- 2023-01-31 — [House 118-1-98](votes/house-118-1-0098.md) — On Passage — **Passed** (227–203)
 
 ## Actions
 
@@ -89,3 +110,17 @@ Freedom for Health Care Workers Act
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-01-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-01-31 — Considered as unfinished business. (consideration: CR H551-553)
+- 2023-01-31 — Considered under the provisions of rule H. Res. 75. (consideration: CR H539-551)
+- 2023-01-31 — DEBATE - The House proceeded with one hour of debate on H.R. 497.
+- 2023-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-01-31 — Ms. Jacobs moved to recommit to the Committee on Energy and Commerce. (text: CR H548-551)
+- 2023-01-31 — On motion to recommit Failed by the Yeas and Nays: 210 - 219 (Roll no. 97).
+- 2023-01-31 — On passage Passed by recorded vote: 227 - 203 (Roll no. 98). (text: CR H539)
+- 2023-01-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 497, the Chair put the question on the motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-01-31 — Passed/agreed to in House: On passage Passed by recorded vote: 227 - 203 (Roll no. 98). (text: CR H539)
+- 2023-01-31 — Rule H. Res. 75 passed House.
+- 2023-01-31 — Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
+- 2023-01-31 — Rules Committee Resolution H. Res. 75 Reported to House. Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
+- 2023-01-31 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-01-31 — The previous question was ordered pursuant to the rule.
