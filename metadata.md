@@ -1,7 +1,7 @@
 ---
 measure: H.R. 342
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 342
@@ -20,9 +20,10 @@ Cost-Share Accountability Act of 2023
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Cost-Share Accountability Act of 2023
 - 2023-01-30 — Mr. Lucas moved to suspend the rules and pass the bill.
 - 2023-01-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H496)
 - 2023-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H496)
+- 2023-01-31 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
