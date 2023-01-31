@@ -1,7 +1,7 @@
 ---
 measure: H.R. 500
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 500
@@ -32,9 +32,10 @@ Financial Exploitation Prevention Act of 2023
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. James, John [R-MI-10] (J000307)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Financial Exploitation Prevention Act of 2023
 - 2023-01-30 — Mr. McHenry moved to suspend the rules and pass the bill.
 - 2023-01-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 94). (text: CR H498-499)
 - 2023-01-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 94). (text: CR H498-499)
+- 2023-01-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
