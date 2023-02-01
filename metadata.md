@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 11
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 11
@@ -24,3 +24,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2023-01-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-01-31 — On agreeing to the resolution Agreed to without objection. (text: CR H554)
 - 2023-01-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H554)
+- 2023-02-01 — Received in the Senate.
