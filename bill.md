@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 723
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 723
+
+> To amend the Food and Nutrition Act of 2008 to require States to include a photograph on electronic benefit cards issued to provide supplemental nutrition assistance program benefits.
+
+## § 1. Short title
+
+This Act may be cited as the “ID for EBT Act of 2023”.
+
+## § 2. Amendments
+
+Section 7(h)(9) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)(9)) is amended—
+
+- **(1)** in the heading by striking “Optional” and inserting “Mandatory”;
+- **(2)** in subparagraph (A) by striking “may” and inserting “shall”; and
+- **(3)** in subparagraph (B) by striking “If” and all that follows through “(A), the” and inserting “The”.
+
+## § 3. Effective date
+
+This Act and the amendments made by this Act shall take effect 180 days after the date of the enactment of this Act.
