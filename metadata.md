@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 7
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 7
@@ -16,7 +16,7 @@ Relating to a national emergency declared by the President on March 13, 2020.
 
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 
-## Cosponsors (34)
+## Cosponsors (68)
 
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 - Rep. Davidson, Warren [R-OH-8] (D000626)
@@ -52,13 +52,62 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - Rep. Issa, Darrell E. [R-CA-48] (I000056)
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Stewart, Chris [R-UT-2] (S001192)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
+
+## Recorded votes (1)
+
+- 2023-02-01 — [House 118-1-104](votes/house-118-1-0104.md) — On Passage — **Passed** (229–197)
 
 ## Actions
 
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-01-31 — Rules Committee Resolution H. Res. 75 Reported to House. Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
+- 2023-02-01 — Considered as unfinished business. (consideration: CR H612-613)
+- 2023-02-01 — Considered under the provisions of rule H. Res. 75. (consideration: CR H607-611)
+- 2023-02-01 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 7.
+- 2023-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-02-01 — On passage Passed by the Yeas and Nays: 229 - 197 (Roll no. 104). (consideration: CR H608)
+- 2023-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 7, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Graves (MO) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-02-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 197 (Roll no. 104). (consideration: CR H608)
+- 2023-02-01 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-02-01 — Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
+- 2023-02-01 — The previous question was ordered pursuant to the rule.
