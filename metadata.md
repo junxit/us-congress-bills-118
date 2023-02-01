@@ -1,7 +1,7 @@
 ---
 measure: H.R. 497
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 497
@@ -94,10 +94,11 @@ Freedom for Health Care Workers Act
 - Rep. Duarte, John S. [R-CA-13] (D000633)
 - Rep. Rose, John W. [R-TN-6] (R000612)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -124,3 +125,4 @@ Freedom for Health Care Workers Act
 - 2023-01-31 — Rules Committee Resolution H. Res. 75 Reported to House. Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
 - 2023-01-31 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-01-31 — The previous question was ordered pursuant to the rule.
+- 2023-02-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
