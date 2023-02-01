@@ -1,7 +1,7 @@
 ---
 measure: H.R. 382
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 382
@@ -63,9 +63,10 @@ Pandemic is Over Act
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -91,3 +92,4 @@ Pandemic is Over Act
 - 2023-01-31 — Rules Committee Resolution H. Res. 75 Reported to House. Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
 - 2023-01-31 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-01-31 — The previous question was ordered pursuant to the rule.
+- 2023-02-01 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
