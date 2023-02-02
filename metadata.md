@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 7
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 7
@@ -87,9 +87,10 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -111,3 +112,4 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - 2023-02-01 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
 - 2023-02-01 — Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
 - 2023-02-01 — The previous question was ordered pursuant to the rule.
+- 2023-02-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
