@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 9
@@ -16,7 +16,7 @@ Denouncing the horrors of socialism.
 
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Cosponsors (74)
+## Cosponsors (108)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
@@ -92,13 +92,61 @@ Denouncing the horrors of socialism.
 - Rep. Self, Keith [R-TX-3] (S001224)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Turner, Michael R. [R-OH-10] (T000463)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Estes, Ron [R-KS-4] (E000298)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2023-02-02 — [House 118-1-106](votes/house-118-1-0106.md) — On Agreeing to the Resolution — **Passed** (328–86)
 
 ## Actions
 
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Referred to the House Committee on Financial Services.
+- 2023-02-01 — Rules Committee Resolution H. Res. 83 Reported to House. Rule provides for consideration of H. Con. Res. 9 and H. Res. 76. All points of order against consideration and provisions are waived and are considered as read. Rule also provides for one hour of general debate on each resolution.
+- 2023-02-02 — Considered as unfinished business. (consideration: CR H651-652)
+- 2023-02-02 — Considered under the provisions of rule H. Res. 83. (consideration: CR H635-643)
+- 2023-02-02 — DEBATE - The House proceeded with one hour of debate on H. Con. Res. 9.
+- 2023-02-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-02-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 328 - 86, 14 Present (Roll no. 106). (text: CR H651-652)
+- 2023-02-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con Res. 9, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. McHenry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-02-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 328 - 86, 14 Present (Roll no. 106). (text: CR H651-652)
+- 2023-02-02 — Rule provides for consideration of H. Con. Res. 9 and H. Res. 76. All points of order against consideration and provisions are waived and are considered as read. Rule also provides for one hour of general debate on each resolution.
+- 2023-02-02 — The previous question was ordered pursuant to the rule on the resolution and the preamble.
