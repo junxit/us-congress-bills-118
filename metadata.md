@@ -1,7 +1,7 @@
 ---
 measure: H.R. 139
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 139
@@ -45,9 +45,10 @@ SHOW UP Act of 2023
 - Rep. Rose, John W. [R-TN-6] (R000612)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ SHOW UP Act of 2023
 - 2023-02-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 206 (Roll no. 103). (text: CR H599-600)
 - 2023-02-01 — Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
 - 2023-02-01 — The previous question was ordered pursuant to the rule.
+- 2023-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
