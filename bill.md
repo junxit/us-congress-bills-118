@@ -2,7 +2,7 @@
 legis-num: S. 223
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 223
