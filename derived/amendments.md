@@ -1,7 +1,7 @@
 ---
 measure: S. 223
 congress: 118
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
