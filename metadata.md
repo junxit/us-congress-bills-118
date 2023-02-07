@@ -1,7 +1,7 @@
 ---
 measure: H.R. 423
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 423
@@ -36,3 +36,12 @@ Pala Band of Mission Indians Land Transfer Act of 2023
 - 2023-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H692)
 - 2023-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H692)
 - 2023-02-07 — Received in the Senate, read twice.
+- 2023-07-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3120-3121)
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3120-3121)
+- 2023-07-20 — Message on Senate action sent to the House.
+- 2023-07-27 — Presented to President.
+- 2023-07-27 — Presented to President.
+- 2023-07-28 — Became Public Law No: 118-11.
+- 2023-07-28 — Became Public Law No: 118-11.
+- 2023-07-28 — Signed by President.
+- 2023-07-28 — Signed by President.
