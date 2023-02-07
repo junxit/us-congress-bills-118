@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 9
@@ -127,9 +127,10 @@ Denouncing the horrors of socialism.
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -150,3 +151,4 @@ Denouncing the horrors of socialism.
 - 2023-02-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 328 - 86, 14 Present (Roll no. 106). (text: CR H651-652)
 - 2023-02-02 — Rule provides for consideration of H. Con. Res. 9 and H. Res. 76. All points of order against consideration and provisions are waived and are considered as read. Rule also provides for one hour of general debate on each resolution.
 - 2023-02-02 — The previous question was ordered pursuant to the rule on the resolution and the preamble.
+- 2023-02-07 — Received in the Senate and referred to the Committee on the Judiciary.
