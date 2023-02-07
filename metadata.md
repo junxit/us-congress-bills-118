@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 302
@@ -20,9 +20,10 @@ Energy Cybersecurity University Leadership Act of 2023
 
 - Rep. Carey, Mike [R-OH-15] (C001126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Energy Cybersecurity University Leadership Act of 2023
 - 2023-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 56 (Roll no. 107). (text: CR H694-695)
 - 2023-02-06 — Sponsor introductory remarks on measure. (CR H695)
 - 2023-02-06 — The title of the measure was amended. Agreed to without objection.
+- 2023-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
