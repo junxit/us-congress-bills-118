@@ -1,7 +1,7 @@
 ---
 measure: H.R. 548
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 548
@@ -16,9 +16,10 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Eastern Band of Cherokee Historic Lands Reacquisition Act
 - 2023-02-06 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2023-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H689-691)
 - 2023-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H689-691)
+- 2023-02-07 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
