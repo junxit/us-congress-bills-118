@@ -1,7 +1,7 @@
 ---
 measure: H.R. 423
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 423
@@ -35,3 +35,4 @@ Pala Band of Mission Indians Land Transfer Act of 2023
 - 2023-02-06 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2023-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H692)
 - 2023-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H692)
+- 2023-02-07 — Received in the Senate, read twice.
