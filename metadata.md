@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 104
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 104
@@ -25,8 +25,18 @@ Condemning the Chinese Communist Party's use of a high-altitude surveillance bal
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-02-09 — [House 118-1-117](votes/house-118-1-0117.md) — On Motion to Suspend the Rules and Agree — **Passed** (419–0)
+
 ## Actions
 
 - 2023-02-08 — Introduced in House
 - 2023-02-08 — Introduced in House
 - 2023-02-08 — Referred to the House Committee on Foreign Affairs.
+- 2023-02-09 — Considered under suspension of the rules. (consideration: CR H794-799)
+- 2023-02-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 104.
+- 2023-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-02-09 — Mr. McCaul moved to suspend the rules and agree to the resolution.
+- 2023-02-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 117). (text: CR H794)
+- 2023-02-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 117). (text: CR H794)
