@@ -1,0 +1,33 @@
+---
+measure: H.R. 962
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 962
+
+Protecting Gun Owners in Bankruptcy Act of 2023
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+
+## Cosponsors (3)
+
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2023-02-09 — Introduced in House
+- 2023-02-09 — Introduced in House
+- 2023-02-09 — Referred to the House Committee on the Judiciary.
