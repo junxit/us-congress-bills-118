@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 911
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 911
+
+> To direct the Administrator of the Federal Aviation Administration to issue an order requiring installation of a secondary cockpit barrier on certain aircraft, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Saracini Enhanced Aviation Safety Act of 2023”.
+
+## § 2. Installation of secondary cockpit barriers on existing aircraft
+
+- **(a)** *In general* Not later than 18 months after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration shall issue an order requiring installation of a secondary cockpit barrier on each covered aircraft.
+- **(b)** *Covered aircraft* In this section, the term “covered aircraft” means a commercial passenger aircraft operating under the provisions of part 121 of title 14, Code of Federal Regulations.
