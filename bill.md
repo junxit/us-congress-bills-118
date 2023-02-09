@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 943
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 943
+
+> To amend the Immigration and Nationality Act with respect to fentanyl.
+
+## § 1. Short title
+
+This Act may be cited as the “It’s Your Fault Act”.
+
+## § 2. Clarifying grounds for inadmissibility of certain aliens
+
+- **(a)** *Controlled substance traffickers* Section 212(a)(2)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(C)) is amended—
+  - **(1)** in clause (i), by inserting “, including fentanyl or a fentanyl analogue,” after “in any controlled substance”; and
+  - **(2)** in clause (ii), by striking “5” and inserting “15”.
