@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 26
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 26
@@ -70,9 +70,10 @@ Disapproving the action of the District of Columbia Council in approving the Rev
 - House — Oversight and Government Reform Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2023-02-09 — [House 118-1-119](votes/house-118-1-0119.md) — On Passage — **Passed** (250–173)
+- 2023-03-08 — [Senate 118-1-49](votes/senate-118-1-0049.md) — On the Joint Resolution — **Joint Resolution Passed** (81–14)
 
 ## Actions
 
@@ -90,3 +91,16 @@ Disapproving the action of the District of Columbia Council in approving the Rev
 - 2023-02-09 — Rule provides for consideration of H.R. 185, H.J. Res. 24 and H.J. Res. 26 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2023-02-09 — The previous question was ordered pursuant to the rule.
 - 2023-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-08 — Measure laid before Senate by motion. (consideration: CR S707-709)
+- 2023-03-08 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S680-692)
+- 2023-03-08 — Passed Senate without amendment by Yea-Nay Vote. 81 - 14. Record Vote Number: 49. (text: CR S680)
+- 2023-03-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 81 - 14. Record Vote Number: 49.(text: CR S680)
+- 2023-03-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Voice Vote.
+- 2023-03-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Voice Vote.
+- 2023-03-09 — Message on Senate action sent to the House.
+- 2023-03-15 — Presented to President.
+- 2023-03-15 — Presented to President.
+- 2023-03-20 — Became Public Law No: 118-1.
+- 2023-03-20 — Became Public Law No: 118-1.
+- 2023-03-20 — Signed by President.
+- 2023-03-20 — Signed by President.
