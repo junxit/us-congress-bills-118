@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 26
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 26
@@ -65,9 +65,10 @@ Disapproving the action of the District of Columbia Council in approving the Rev
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Posey, Bill [R-FL-8] (P000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -88,3 +89,4 @@ Disapproving the action of the District of Columbia Council in approving the Rev
 - 2023-02-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 173 (Roll no. 119). (text: CR H785)
 - 2023-02-09 — Rule provides for consideration of H.R. 185, H.J. Res. 24 and H.J. Res. 26 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Specified amendments are in order.
 - 2023-02-09 — The previous question was ordered pursuant to the rule.
+- 2023-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
