@@ -1,7 +1,7 @@
 ---
 measure: H.R. 185
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 185
@@ -137,3 +137,5 @@ To terminate the requirement imposed by the Director of the Centers for Disease 
 - 2023-02-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-02-08 — The previous question was ordered pursuant to the rule.
 - 2023-02-08 — UNFINISHED BUSINES - The Chair announced that the unfinished business was on the question of agreeing to amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2023-02-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-02-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
