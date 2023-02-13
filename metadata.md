@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 24
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 24
@@ -42,9 +42,10 @@ Disapproving the action of the District of Columbia Council in approving the Loc
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 - Rep. Guest, Michael [R-MS-3] (G000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Disapproving the action of the District of Columbia Council in approving the Loc
 - 2023-02-09 — Considered as unfinished business. (consideration: CR H799-800)
 - 2023-02-09 — On passage Passed by the Yeas and Nays: 260 - 162 (Roll no. 118). (text: 2/8/2023 CR H762)
 - 2023-02-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 260 - 162 (Roll no. 118). (text: 2/8/2023 CR H762)
+- 2023-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
