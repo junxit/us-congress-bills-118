@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 49
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 49
@@ -24,3 +24,7 @@ A resolution expressing the sense of the Senate that the Chinese Communist Party
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Referred to the Committee on Armed Services.
+- 2023-02-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S431; text: 02/09/2023 CR S329)
+- 2023-02-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S431; text: 02/09/2023 CR S329)
+- 2023-02-15 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2023-02-15 — Senate Committee on Armed Services discharged by Unanimous Consent.
