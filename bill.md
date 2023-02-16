@@ -1,0 +1,28 @@
+---
+legis-num: S. 479
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 479
+
+> To modify the fire management assistance cost share, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fire Suppression and Response Funding Assurance Act”.
+
+## § 2. Fire management assistance cost share and eligible activities
+
+- **(a)** *In general* Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187) is amended—
+  - **(1)** by redesignating subsection (e) as subsection (g); and
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *Federal share* The Federal share of assistance under this section shall be not less than 75 percent of the eligible cost of such assistance.
+    > - **(f)** *Eligible expense* A State or local government may use assistance provided under this section for the predeployment of assets and resources.
+
+- **(b)** *Applicability* The amendments made by subsection (a) shall only apply to amounts appropriated on or after the date of enactment of this Act.
+
+## § 3. Rulemaking
+
+Not later than 3 years after the date of enactment of this Act, the President, acting through the Administrator of the Federal Emergency Management Agency, shall conduct and complete a rulemaking to provide criteria for the circumstances under which the Administrator may recommend the President increase the Federal cost share for section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187).
