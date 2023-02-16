@@ -1,0 +1,25 @@
+---
+legis-num: S. 496
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 496
+
+> To amend the Federal Reserve Act to reaffirm the importance of workers.
+
+## § 1. Short title
+
+This Act may be cited as the “Respect for Workers Act”.
+
+## § 2. Board of Governors of the Federal Reserve System
+
+The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended—
+
+- **(1)** in section 2B(b) (12 U.S.C. 225b(b)), by inserting “and distributional effect” after “conduct”; and
+- **(2)** in section 10 (12 U.S.C. 241), in the third sentence of the first undesignated paragraph, by inserting “and at least 1 member with demonstrated primary experience in supporting or protecting the rights of workers, who shall be the lead member of the Board in charge of promoting effectively and developing policy recommendations for the Board to meet the goal of maximum employment described in section 2A” before the period at the end.
+
+## § 3. Applicability
+
+The amendment made by section 2(2) shall apply to any appointment to the Board of Governors of the Federal Reserve System made on or after the date of enactment of this Act.
