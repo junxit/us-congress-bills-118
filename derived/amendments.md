@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1108
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
