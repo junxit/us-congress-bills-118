@@ -1,0 +1,23 @@
+---
+legis-num: H. RES. 170
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 170
+
+> Recognizing it is the congressional intent of the Affordable Care Act that enhanced Federal medical assistance percentage funds are to be directly shared with the counties in States with a Medicaid local share requirement.
+
+## Preamble
+
+- Whereas county governments that receive enhanced Federal medical assistance percentage (eFMAP) funds use such funds to deliver critical services through Medicaid to vulnerable and underserved populations, such as mental health services, home health services, long-term care services, and other necessary support services;
+- Whereas, since the inception of the eFMAP, States have been sharing such funds with the counties to deliver such care to underserved communities;
+- Whereas New York State Governor Kathy Hochul’s latest budget withholds a percentage of funds that are supposed to be given directly to the counties and absorbs such amount into the State budget;
+- Whereas 18 States mandate counties contribute to the non-Federal share of Medicaid costs, such as California, Nevada, Utah, Colorado, Arizona, New Mexico, Minnesota, Michigan, Illinois, Ohio, Pennsylvania, New Jersey, New York, Vermont, Virginia, North Carolina, South Carolina, and Florida;
+- Whereas such withholding of eFMAP funds from the New York State counties adds up to $1,000,000,000;
+- Whereas New York State’s actions to withhold eFMAP funds is preventing counties from providing the necessary support to vulnerable children and seniors;
+- Whereas the withholding of eFMAP funds from counties will force county governments to raise property taxes to make up for such revenue loss; and
+- Whereas counties should be reconciled and retroactively receive such eFMAP funds to ensure Medicaid-dependent populations receive the support and care they need: Now, therefore, be it
+
+That the House of Representatives recognizes that State governments that require a local county share should not withhold such funds from counties to make up for States’ Medicaid budgetary shortfalls.
