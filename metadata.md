@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 538
@@ -20,9 +20,10 @@ Informing Consumers about Smart Devices Act
 
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Informing Consumers about Smart Devices Act
 - 2023-02-27 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2023-02-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 12 (Roll no. 121). (text: CR H891)
 - 2023-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 12 (Roll no. 121). (text: CR H891)
+- 2023-02-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
