@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 30
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 30
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (74)
+## Cosponsors (119)
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. Finstad, Brad [R-MN-1] (F000475)
@@ -92,13 +92,73 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Steel, Michelle [R-CA-45] (S001135)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Rosendale Sr., Matthew M. [R-MT-2] (R000103)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. McCormick, Richard [R-GA-6] (M001218)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Cline, Ben [R-VA-6] (C001118)
 
 ## Committees (1)
 
 - House — Education and Workforce Committee
+
+## Recorded votes (1)
+
+- 2023-02-28 — [House 118-1-124](votes/house-118-1-0124.md) — On Passage — **Passed** (216–204)
 
 ## Actions
 
 - 2023-02-07 — Introduced in House
 - 2023-02-07 — Introduced in House
 - 2023-02-07 — Referred to the House Committee on Education and the Workforce.
+- 2023-02-27 — Rules Committee Resolution H. Res. 166 Reported to House. Rule provides for consideration of H.R. 347 and H.J. Res. 30. Provides for consideration of H.R. 347 and H.J. Res. 30 and one hour of debate on each measure. The rule makes in order amendments to H.R. 347 printed in the report and provides for one motion to recommit on each measure.
+- 2023-02-28 — Considered as unfinished business. (consideration: CR H941)
+- 2023-02-28 — Considered under the provisions of rule H. Res. 166. (consideration: CR H932-940)
+- 2023-02-28 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 30.
+- 2023-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-02-28 — On passage Passed by the Yeas and Nays: 216 - 204 (Roll no. 124). (text: CR H932)
+- 2023-02-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. J. Res. 30, the Chair put the question on passage of the resolution and by voice vote, announced that the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings on passage of the resolution until a time to be announced.
+- 2023-02-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 204 (Roll no. 124). (text: CR H932)
+- 2023-02-28 — Rule H. Res. 166 passed House.
+- 2023-02-28 — Rule provides for consideration of H.R. 347 and H.J. Res. 30. Provides for consideration of H.R. 347 and H.J. Res. 30 and one hour of debate on each measure. The rule makes in order amendments to H.R. 347 printed in the report and provides for one motion to recommit on each measure.
+- 2023-02-28 — The previous question was ordered pursuant to the rule.
