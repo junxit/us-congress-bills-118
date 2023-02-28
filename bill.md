@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1260
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1260
+
+> To amend the Internal Revenue Code of 1986 to increase the limitation on the deduction for State and local taxes.
+
+## § 1. Short title
+
+This Act may be cited as the “SALT Relief Act”.
+
+## § 2. Increase in limitation on deduction for State and local taxes
+
+- **(a)** *In general* Section 164(b)(6)(B) of the Internal Revenue Code of 1986 is amended by striking “$10,000 ($5,000” and inserting “$50,000 ($25,000”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2022.
