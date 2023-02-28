@@ -1,0 +1,15 @@
+---
+legis-num: S. 567
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 567
+
+> To amend the National Labor Relations Act, the Labor Management Relations Act, 1947, and the Labor-Management Reporting and Disclosure Act of 1959, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Richard L. Trumka Protecting the Right to Organize Act of 2023”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
