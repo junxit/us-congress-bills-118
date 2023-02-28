@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1108
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1108
@@ -35,3 +35,4 @@ To amend the Communications Act of 1934 to extend the authority of the Federal C
 - 2023-02-27 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2023-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H890)
 - 2023-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H890)
+- 2023-02-28 — Received in the Senate.
