@@ -1,7 +1,7 @@
 ---
 measure: S. 227
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 227
@@ -30,3 +30,7 @@ Improving Access to Our Courts Act
 
 - 2023-02-02 — Introduced in Senate
 - 2023-02-02 — Read twice and referred to the Committee on the Judiciary.
+- 2023-02-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S538; text: CR S538)
+- 2023-02-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S538; text: CR S538)
+- 2023-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-02-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.
