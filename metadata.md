@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1059
@@ -49,10 +49,11 @@ SECURE Notarization Act of 2023
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ SECURE Notarization Act of 2023
 - 2023-02-27 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2023-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H893-894)
 - 2023-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H893-894)
+- 2023-02-28 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
