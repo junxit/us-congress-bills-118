@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 1275
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1275
+
+> To prohibit the use of Federal funds to carry out Executive Order 14091.
+
+## § 1. No Federal funds for Executive Order 14091
+
+No Federal funds may be used to carry out Executive Order 14091 (relating to further advancing racial equity and support for underserved communities through the Federal Government), issued on February 16, 2023.
