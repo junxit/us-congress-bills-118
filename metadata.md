@@ -1,7 +1,7 @@
 ---
 measure: S. 150
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 150
@@ -32,3 +32,7 @@ Affordable Prescriptions for Patients Act of 2023
 
 - 2023-01-30 — Introduced in Senate
 - 2023-01-30 — Read twice and referred to the Committee on the Judiciary.
+- 2023-02-09 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2023-03-01 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2023-03-01 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2023-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.
