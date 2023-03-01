@@ -1,0 +1,12 @@
+---
+legis-num: H. CON. RES. 21
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 21
+
+> Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Syria.
+
+That, pursuant to section 5(c) of the War Powers Resolution (50 U.S.C. 1544(c)), Congress directs the President to remove the United States Armed Forces from Syria by not later than the date that is 180 days after the date of the adoption of this concurrent resolution.
