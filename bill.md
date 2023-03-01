@@ -1,0 +1,32 @@
+---
+legis-num: H. RES. 189
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 189
+
+> Requiring foreign state media outlets with credentialed members in the House news media galleries to comply with the Foreign Agents Registration Act by prohibiting the admission into such galleries of reporters and correspondents who are representatives of such outlets who are not in compliance with the requirements of such Act, and for other purposes.
+
+## Preamble
+
+- Whereas freedom of the press is essential for a functioning democracy, which is why Congress grants unparalleled access on Capitol Hill to journalists who are credentialed members of the Congressional Media Galleries;
+- Whereas there is broad bipartisan agreement, however, that media outlets owned or controlled by foreign state actors cannot be afforded the same privileges as traditional media;
+- Whereas while the extraordinary access inside Capitol Hill granted to credentialed members of the media helps facilitate accurate reporting to the American public, it is also the kind of access coveted by foreign powers seeking sensitive information from inside Congress, and those with state-sponsored media outlets currently can easily obtain such access, even if they openly flout United States laws;
+- Whereas in order to effectively safeguard the national security interests of the United States, foreign state-sponsored media outlets must be required to strictly comply with the Foreign Agents Registration Act of 1938 (FARA) and other United States laws as a prerequisite for their journalists to receive credentials in the Congressional Media Galleries;
+- Whereas several foreign countries with reported histories of spying on Americans, such as Russia, Qatar, and China, own and control state-sponsored media outlets whose journalists in recent years have been credentialed by the House and Senate Media Galleries;
+- Whereas over the past decade, the People’s Republic of China, Russia, and the State of Qatar have aggressively deployed their espionage forces against United States Government agencies and government officials, as well as targeting thousands of United States businesses and Americans perceived to be opponents or dissidents of their regimes;
+- Whereas in January and February 2023, for example, the People’s Republic of China brazenly launched a surveillance balloon over the continental United States, which was part of a repeated pattern by China, and as a result of China’s long history of targeting Americans, the Department of Justice has indicted dozens of entities affiliated with the Chinese Government for cyberattacks and surveillance, and the United States Government in July 2020 took the extraordinary measure of closing the Chinese Consulate in Houston, Texas, because of espionage operations being carried out in the Mission;
+- Whereas despite China’s extensive surveillance operations targeting Americans, media outlets registered as Chinese agents under FARA had over two dozen journalists who had received credentials from the Congressional Media Galleries in the 118th Congress, and another 16 journalists received credentials in the 118th Congress through media outlets reportedly owned or controlled by senior members of the Chinese Communist Party, including two journalists who received credentials through the China News Service, which is not registered under FARA, but which was designated in June 2020 by the Department of States as a “foreign mission” because the outlet was “effectively controlled by the Chinese government”;
+- Whereas the State of Qatar has reportedly engaged in extensive espionage and surveillance operations to target American political leaders who have been up for consideration for top Cabinet positions in both the Trump and Biden administrations, as well as numerous senior Members of Congress, and in 2018, for example, Qatari agents reportedly helped generate multiple high-profile media articles based on hacked materials to target then-Chairman of the House Foreign Affairs Committee Ed Royce because of his committee’s support of the Hamas Sanctions Bill, which was opposed by the State of Qatar;
+- Whereas the State of Qatar’s state-sponsored media company, Al Jazeera, reportedly also was deployed to carry out surveillance operations targeting young pro-Israel activists at several nonprofit organizations based in Washington, DC;
+- Whereas despite the State of Qatar’s and Al Jazeera’s extensive surveillance operations targeting Americans, at least 136 Al Jazeera journalists received credentials from the House and Senate Media Galleries in the 118th Congress, dramatically more than the 82 New York Times journalists who had received such credentials;
+- Whereas Al Jazeera journalists were afforded the privilege of credentials, even though the Department of Justice had determined since at least 2018 that Al Jazeera’s parent entity, the Al Jazeera Media Network (AJMN), and its various subsidiaries qualify as foreign agents of Qatar under FARA, and in a September 14, 2020, letter, the Department of Justice stated, “AJMN is an agent of the Government of Qatar under FARA”, and also stated, “AJMN and its affiliates are controlled and funded by the Government of Qatar” and that the “Government of Qatar has ultimate authority through its control of AJMN’s Board of Directors and AJMN’s budget [and] exercises ultimate control of AJMN.”;
+- Whereas in order to preserve the extraordinary access provided to credentialed journalists in the Congressional Media Galleries, it is imperative to limit the number of credentials available to reporters affiliated with any given foreign state-sponsored media outlet;
+- Whereas journalists with foreign state-sponsored media outlets should only be eligible to apply for credentials to the Congressional Media Galleries after they have undergone background checks performed by the Federal Bureau of Investigation (FBI); and
+- Whereas this legislation aims to enhance the national security of the United States by limiting the access of foreign state-sponsored media outlets to credentials from the House Media Galleries and by requiring the FBI to perform background checks of journalists with those outlets in order to be eligible to receive such credentials: Now, therefore, be it
+
+## § 1. Requirements for admission of foreign reporters and correspondents into House news media galleries
+
+Rule VI of the Rules of the House of Representatives is amended by adding at the end the following new clause:
