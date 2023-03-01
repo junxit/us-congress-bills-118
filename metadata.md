@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 30
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 30
@@ -142,9 +142,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2023-02-28 — [House 118-1-124](votes/house-118-1-0124.md) — On Passage — **Passed** (216–204)
+- 2023-03-01 — [Senate 118-1-35](votes/senate-118-1-0035.md) — On the Joint Resolution — **Joint Resolution Passed** (50–46)
 
 ## Actions
 
@@ -162,3 +163,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-02-28 — Rule H. Res. 166 passed House.
 - 2023-02-28 — Rule provides for consideration of H.R. 347 and H.J. Res. 30. Provides for consideration of H.R. 347 and H.J. Res. 30 and one hour of debate on each measure. The rule makes in order amendments to H.R. 347 printed in the report and provides for one motion to recommit on each measure.
 - 2023-02-28 — The previous question was ordered pursuant to the rule.
+- 2023-03-01 — Measure laid before Senate by unanimous consent. (consideration: CR S550-556)
+- 2023-03-01 — Passed Senate without amendment by Yea-Nay Vote. 50 - 46. Record Vote Number: 35.
+- 2023-03-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 46. Record Vote Number: 35.
+- 2023-03-01 — Received in the Senate, read twice.
