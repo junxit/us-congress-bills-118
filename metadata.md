@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 27
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Cosponsors (147)
+## Cosponsors (170)
 
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
@@ -165,6 +165,29 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. James, John [R-MI-10] (J000307)
 - Rep. Chavez-DeRemer, Lori [R-OR-5] (C001135)
 - Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
 
 ## Committees (1)
 
@@ -175,3 +198,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-02-03 — Referred to the Subcommittee on Water Resources and Environment.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported by the Yeas and Nays: 30 - 24.
+- 2023-02-28 — Subcommittee on Water Resources and Environment Discharged.
+- 2023-03-03 — Placed on the Union Calendar, Calendar No. 3.
+- 2023-03-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-6.
+- 2023-03-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-6.
