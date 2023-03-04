@@ -1,0 +1,28 @@
+---
+legis-num: S. RES. 200
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 200
+
+> Expressing support for the designation of the week of April 30, 2023, through May 6, 2023, as “National Small Business Week” to celebrate the contributions of small businesses and entrepreneurs in every community in the United States.
+
+## Preamble
+
+- Whereas a “National Small Business Week” has been declared by every President since 1963;
+- Whereas there are more than 33,000,000 small businesses in the United States that support more than 62,000,000 jobs;
+- Whereas small businesses play an integral role in building the economy of the United States; and
+- Whereas April 30, 2023, through May 6, 2023, would be an appropriate week to celebrate “National Small Business Week”: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** honors and celebrates the entrepreneurial spirit and contributions of small businesses in every community in the United States;
+- **(2)** applauds the efforts and achievements of the owners of small businesses and their employees in every community of the United States;
+- **(3)** recognizes that, in the face of significant challenges, the owners of small businesses have demonstrated incredible resilience;
+- **(4)** supports the designation of the week of April 30, 2023, through May 6, 2023, as “National Small Business Week”;
+- **(5)** acknowledges the importance of providing access to underserved small businesses; and
+- **(6)** supports efforts—
+  - **(A)** to hold Federal agencies accountable for fraud, waste, and abuse of taxpayer dollars; and
+  - **(B)** to create an environment that enables small businesses to grow and create jobs.
