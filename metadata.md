@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 347
@@ -187,3 +187,5 @@ Reduce Exacerbated Inflation Negatively Impacting the Nation Act
 - 2023-03-01 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 347.
 - 2023-03-01 — The previous question was ordered pursuant to the rule.
 - 2023-03-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of agreeing to the amendments, which had been debated earlier and on which further proceedings had been postponed.
+- 2023-03-02 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-03-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.
