@@ -1,0 +1,26 @@
+---
+legis-num: S. 655
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 655
+
+> To amend the Internal Revenue Code of 1986 to permit high deductible health plans to provide chronic disease prevention services to plan enrollees prior to satisfying their plan deductible.
+
+## § 1. Short title
+
+This Act may be cited as the “Chronic Disease Management Act of 2023”.
+
+## § 2. Chronic disease prevention
+
+- **(a)** *In general* Section 223(c)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+  > - **(F)** *Preventive care services and items for chronic conditions* For purposes of subparagraph (C)—
+  >   - **(i)** preventive care shall include any service or item used to treat an individual with a chronic condition if—
+  >     - **(I)** such service or item is low-cost,
+  >     - **(II)** in regards to such service or item, there is medical evidence supporting high cost efficiency of preventing exacerbation of the chronic condition or the development of a secondary condition, and
+  >     - **(III)** there is a strong likelihood, documented by clinical evidence, that with respect to the class of individuals utilizing such service or item, the specific service or use of the item will prevent the exacerbation of the chronic condition or the development of a secondary condition that requires significantly higher cost treatments, and
+  >   - **(ii)** an individual who has been prescribed preventive care for any chronic condition may be presumed to have been diagnosed with such condition if such preventive care is customarily prescribed for such condition.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to coverage for months beginning after the date of the enactment of this Act.
