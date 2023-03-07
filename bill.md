@@ -58,8 +58,7 @@ This Act may be cited as the “Understanding Cybersecurity of Mobile Networks A
 - **(e)** *Form of report*
   - **(1)** *Classified information* The report required by subsection (a) shall be produced in unclassified form but may contain a classified annex.
   - **(2)** *Potentially exploitable unclassified information* The Assistant Secretary shall redact potentially exploitable unclassified information from the report required by subsection (a) but shall provide an unredacted form of the report to the committees described in such subsection.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $500,000 for fiscal year 2024. Such amount is authorized to remain available through fiscal year 2025.
-- **(g)** *Definitions* In this section:
+- **(f)** *Definitions* In this section:
   - **(1)** *Adversary* The term “adversary” includes—
     - **(A)** any unauthorized hacker or other intruder into a mobile service network; and
     - **(B)** any foreign government or foreign nongovernment person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons.
