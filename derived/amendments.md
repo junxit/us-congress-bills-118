@@ -1,7 +1,7 @@
 ---
 measure: H.R. 502
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 3327(f)(3) of title 38, United States Code, is amended by striking “together” and all that follows through “(as applicable),”. | the bill names no machine-readable US Code section |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “January 14, 2031” each place it appears and inserting “January 28, 2031”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “November 28, 2031”. | the bill names no machine-readable US Code section |
