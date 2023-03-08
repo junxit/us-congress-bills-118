@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1123
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1123
@@ -20,9 +20,10 @@ Understanding Cybersecurity of Mobile Networks Act
 
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Understanding Cybersecurity of Mobile Networks Act
 - 2023-03-07 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2023-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 22 (Roll no. 133). (text: CR H1128-1129)
 - 2023-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 22 (Roll no. 133). (text: CR H1128-1129)
+- 2023-03-08 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
