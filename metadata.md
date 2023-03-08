@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 197
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 197
@@ -29,3 +29,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2023-03-07 — Introduced in House
 - 2023-03-07 — Introduced in House
 - 2023-03-07 — Referred to the House Committee on House Administration.
+- 2023-03-08 — Committee Consideration and Mark-up Session Held.
+- 2023-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2023-03-08 — Placed on the House Calendar, Calendar No. 6.
+- 2023-03-08 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-8.
+- 2023-03-08 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-8.
