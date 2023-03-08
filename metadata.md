@@ -1,7 +1,7 @@
 ---
 measure: S. 724
 congress: 118
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S. 724
