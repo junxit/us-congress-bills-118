@@ -1,0 +1,14 @@
+---
+legis-num: H. RES. 205
+congress: 118th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 205
+
+> Electing Members to certain standing committees of the House of Representatives and ranking a Member on a certain standing committee of the House of Representatives.
+
+That the following named Members be, and are hereby, elected to the following standing committees of the House of Representatives:
+
+That the following named Member be, and is hereby, ranked as follows on the following standing committee of the House of Representatives:
