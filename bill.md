@@ -24,4 +24,4 @@ This Act may be cited as the “Department of Veterans Affairs Creation of On-Si
 
 ## § 3. No additional funds authorized
 
-No additional funds are authorized to be appropriated to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized to be appropriated.
+No additional funds are authorized to be appropriated to carry out the requirements of this Act.
