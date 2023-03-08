@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1226
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1226
@@ -21,9 +21,10 @@ Wounded Warrior Access Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Wounded Warrior Access Act
 - 2023-03-07 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2023-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 132). (text: CR H1127-1128)
 - 2023-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 132). (text: CR H1127-1128)
+- 2023-03-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
