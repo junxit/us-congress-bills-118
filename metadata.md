@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1226
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1226
@@ -44,3 +44,14 @@ Wounded Warrior Access Act
 - 2023-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 132). (text: CR H1127-1128)
 - 2023-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 132). (text: CR H1127-1128)
 - 2023-03-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-11-02 — Passed Senate without amendment by Unanimous Consent.
+- 2023-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2023-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-11-06 — Message on Senate action sent to the House.
+- 2023-11-09 — Presented to President.
+- 2023-11-09 — Presented to President.
+- 2023-11-13 — Became Public Law No: 118-21.
+- 2023-11-13 — Became Public Law No: 118-21.
+- 2023-11-13 — Signed by President.
+- 2023-11-13 — Signed by President.
