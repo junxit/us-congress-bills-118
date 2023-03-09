@@ -1,7 +1,7 @@
 ---
 measure: H.R. 753
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 753
@@ -16,9 +16,10 @@ VA COST SAVINGS Enhancements Act
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -38,3 +39,4 @@ VA COST SAVINGS Enhancements Act
 - 2023-03-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-03-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 137). (text: 3/7/2023 CR H1125)
 - 2023-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 137). (text: 3/7/2023 CR H1125)
+- 2023-03-09 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
