@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 1489
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1489
+
+> To amend the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to repeal the drug felon ban for participation in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008.
+
+## § 1. Short title
+
+This Act may be cited as the “SNAP Back Act of 2023”.
+
+## § 1. Repeal of denial of SNAP benefits for certain drug-related convictions
+
+- **(a)** *Repealers* Section 115 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (21 U.S.C. 862a) is amended—
+  - **(1)** in the heading by striking “and benefits”,
+  - **(2)** in subsection (a)—
+    - **(A)** in paragraph (1) by striking “, or” at the end and inserting a period,
+    - **(B)** by striking “for—” and all that follows through “(1)”, and inserting “for”, and
+    - **(C)** by striking paragraph (2),
+  - **(3)** in subsection (b)—
+    - **(A)** in the heading by striking “and Benefits for Others” and all that follows through “families”, and
+    - **(B)** by striking paragraph (2),
+  - **(4)** in subsection (c) by striking “or benefits”, and
+  - **(5)** in subsection (e)—
+    - **(A)** in paragraph (1) by striking “, and” at the end and inserting a period,
+    - **(B)** by striking “it—” and all that follows through “(1)”, and inserting “it”, and
+    - **(C)** by striking paragraph (2).
+- **(b)** *Technical amendment* The Personal Responsibility and Work Opportunity Reconciliation Act of 1996 is amended in the table of contents by striking the item relating to section 115 and inserting the following:
