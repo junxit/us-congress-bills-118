@@ -1,7 +1,7 @@
 ---
 measure: S. 509
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 509
@@ -30,3 +30,7 @@ Supporting Americans Wrongfully or Unlawfully Detained Abroad Act of 2023
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-03-08 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2023-03-09 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2023-03-09 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2023-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.

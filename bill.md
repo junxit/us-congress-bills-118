@@ -27,13 +27,13 @@ Section 302(d) of the Robert Levinson Hostage Recovery and Hostage-Taking Accoun
 - **(5)** in subparagraph (B), as redesignated by paragraph (4), by striking “paragraph (1)” and inserting “subparagraph (A)”; and
 - **(6)** by adding at the end the following:
   > - **(2)** *Travel assistance*
-  >   - **(A)** *Family advocacy* For the purpose of facilitating meetings between the United States Government and the family members of United States nationals unlawfully or wrongfully detained abroad, the Secretary shall provide financial assistance to cover the costs of travel to Washington, DC, including travel by air, train, bus, or other transit as appropriate, to any individual who—
+  >   - **(A)** *Family advocacy* For the purpose of facilitating meetings between the United States Government and the family members of United States nationals unlawfully or wrongfully detained abroad, the Secretary shall provide financial assistance to cover the costs of travel to Washington, D.C., including travel by air, train, bus, or other transit as appropriate, to any individual who—
   >     - **(i)** is—
   >       - **(I)** a family member of a United States national unlawfully or wrongfully detained abroad as determined by the Secretary under subsection (a); or
   >       - **(II)** an appropriate individual who—
   >         - **(aa)** is approved by the Special Presidential Envoy for Hostage Affairs; and
   >         - **(bb)** does not represent in any legal capacity a United States national unlawfully or wrongfully detained abroad or the family of such United States national;
-  >     - **(ii)** has a permanent address that is more than 50 miles from Washington, DC; and
+  >     - **(ii)** has a permanent address that is more than 50 miles from Washington, D.C.; and
   >     - **(iii)** requests such assistance.
   >   - **(B)** *Travel and lodging*
   >     - **(i)** *In general* For each such United States national unlawfully or wrongfully detained abroad, the financial assistance described in subparagraph (A) shall be provided for not more than 2 trips per fiscal year, unless the Special Presidential Envoy for Hostage Affairs determines that a third trip is warranted.
@@ -48,6 +48,6 @@ Section 302(d) of the Robert Levinson Hostage Recovery and Hostage-Taking Accoun
   > - **(5)** *Report* Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committees on Foreign Relations and Appropriations of the Senate and the Committee on Foreign Affairs and Appropriations of the House of Representatives a report that includes—
   >   - **(A)** a detailed description of expenditures made pursuant to paragraphs (2) and (3);
   >   - **(B)** a detailed description of support provided pursuant to paragraph (3) and the individuals providing such support; and
-  >   - **(C)** the number and location of visits outside of Washington, DC, during the prior fiscal year made by the Special Presidential Envoy for Hostage Affairs to family members of each United States national unlawfully or wrongfully detained abroad.
+  >   - **(C)** the number and location of visits outside of Washington, D.C., during the prior fiscal year made by the Special Presidential Envoy for Hostage Affairs to family members of each United States national unlawfully or wrongfully detained abroad.
   > - **(6)** *Sunset* The authority and requirements under paragraphs (2), (3), (4), and (5) shall terminate on December 31, 2027.
   > - **(7)** *Family member defined* In this subsection, the term family member means a spouse, father, mother, child, brother, sister, grandparent, grandchild, aunt, uncle, nephew, niece, cousin, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
