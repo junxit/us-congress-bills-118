@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 27
@@ -193,6 +193,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2023-03-09 — [House 118-1-142](votes/house-118-1-0142.md) — On Passage — **Passed** (227–198)
+
 ## Actions
 
 - 2023-02-02 — Introduced in House
@@ -205,3 +209,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-03-03 — Placed on the Union Calendar, Calendar No. 3.
 - 2023-03-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-6.
 - 2023-03-03 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-6.
+- 2023-03-07 — Rules Committee Resolution H. Res. 199 Reported to House. Rule provides for consideration of H.R. 140, H.J. Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.
+- 2023-03-09 — Considered as unfinished business. (consideration: CR H1232)
+- 2023-03-09 — Considered under the provisions of rule H. Res. 199. (consideration: CR H1221-1230)
+- 2023-03-09 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 27.
+- 2023-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-03-09 — On passage Passed by the Yeas and Nays: 227 - 198 (Roll no. 142). (text: CR H1221)
+- 2023-03-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 27, the Chair put the question on passage of the resolution and by voice vote announced that the ayes had prevailed. Mr. Graves (MO) demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced.
+- 2023-03-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 198 (Roll no. 142). (text: CR H1221)
+- 2023-03-09 — Rule provides for consideration of H.R. 140, H.J.Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.
+- 2023-03-09 — The previous question was ordered pursuant to the rule.
