@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 197
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 197
@@ -34,3 +34,14 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2023-03-08 — Placed on the House Calendar, Calendar No. 6.
 - 2023-03-08 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-8.
 - 2023-03-08 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-8.
+- 2023-03-10 — Amendment (A001) offered by Mr. Steil. (consideration: CR H1262-1263; text: CR H1262)
+- 2023-03-10 — Amendment agreed to by House: On agreeing to the Steil amendment (A001) Agreed to without objection.
+- 2023-03-10 — Considered by unanimous consent. (consideration: CR H1261-1263)
+- 2023-03-10 — House amendment agreed to: On agreeing to the Steil amendment (A001) Agreed to without objection.
+- 2023-03-10 — House amendment offered
+- 2023-03-10 — House amendment offered/reported by: Amendment (A001) offered by Mr. Steil.(consideration: CR H1262-1263; text: CR H1262)
+- 2023-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-03-10 — Mr. Steil asked unanimous consent to take from the Speaker's table and consider.
+- 2023-03-10 — On agreeing to the Steil amendment (A001) Agreed to without objection.
+- 2023-03-10 — On agreeing to the resolution Agreed to without objection. (text of amendment in the nature of a substitute: CR H1262)
+- 2023-03-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text of amendment in the nature of a substitute: CR H1262)
