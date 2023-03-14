@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 27
@@ -193,9 +193,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Transportation and Infrastructure Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-03-09 — [House 118-1-142](votes/house-118-1-0142.md) — On Passage — **Passed** (227–198)
+- 2023-03-29 — [Senate 118-1-79](votes/senate-118-1-0079.md) — On the Joint Resolution — **Joint Resolution Passed** (53–43)
+- 2023-04-18 — [House 118-1-187](votes/house-118-1-0187.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (227–196)
 
 ## Actions
 
@@ -220,3 +222,22 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-03-09 — Rule provides for consideration of H.R. 140, H.J.Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.
 - 2023-03-09 — The previous question was ordered pursuant to the rule.
 - 2023-03-14 — Received in the Senate, read twice.
+- 2023-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S1017-1024)
+- 2023-03-29 — Passed Senate without amendment by Yea-Nay Vote. 53 - 43. Record Vote Number: 79.
+- 2023-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 43. Record Vote Number: 79.
+- 2023-03-30 — Message on Senate action sent to the House.
+- 2023-04-05 — Presented to President.
+- 2023-04-05 — Presented to President.
+- 2023-04-06 — Vetoed by President.
+- 2023-04-06 — Vetoed by President.
+- 2023-04-10 — The Chair announced that the objections of the President to H.J. Res. 27 would be spread at large upon the Journal and the veto message would be printed as a House document (118-26). Further consideration of the veto message and the resolution, H.J. Res. 27, is postponed until the legislative day of April 18, 2023. Agreed to without objection.
+- 2023-04-10 — The Chair laid before the House the veto message from the President. (text: CR H1715-1716)
+- 2023-04-18 — DEBATE - Pursuant to a previous order of the House of April 10, 2023, the unfinished business is the further consideration of the veto message of the President on H.J.Res. 27. The House proceeded with one hour of debate on the objection of the President to the contrary notwithstanding. (consideration: CR H1782-1789)
+- 2023-04-18 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 227 - 196 (Roll no. 187).
+- 2023-04-18 — Motion to refer the bill and accompanying veto message to the Committee on Transportation and Infrastructure.
+- 2023-04-18 — On motion to refer the bill and the accompanying veto message to the Committee on Transportation and Infrastructure. Agreed to without objection.
+- 2023-04-18 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 227 - 196 (Roll no. 187).
+- 2023-04-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.J. Res. 27, the Chair put the question on will the House, on reconsideration, pass H.J. Res. 27, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.
+- 2023-04-18 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2023-04-18 — The Chair laid before the House the veto message from the President.
+- 2023-04-18 — The previous question was ordered with objection.
