@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5
@@ -16,7 +16,7 @@ Parents Bill of Rights Act
 
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 
-## Cosponsors (72)
+## Cosponsors (122)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
@@ -90,6 +90,56 @@ Parents Bill of Rights Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Chavez-DeRemer, Lori [R-OR-5] (C001135)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
 
 ## Committees (1)
 
@@ -100,3 +150,9 @@ Parents Bill of Rights Act
 - 2023-03-01 — Introduced in House
 - 2023-03-01 — Introduced in House
 - 2023-03-01 — Referred to the House Committee on Education and the Workforce.
+- 2023-03-08 — Committee Consideration and Mark-up Session Held.
+- 2023-03-09 — Committee Consideration and Mark-up Session Held.
+- 2023-03-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 17.
+- 2023-03-14 — Placed on the Union Calendar, Calendar No. 4.
+- 2023-03-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-9.
+- 2023-03-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-9.

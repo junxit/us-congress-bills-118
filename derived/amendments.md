@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -91,7 +91,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1232g` | add-at-end | Section 444 of the General Education Provisions Act (20 U.S.C. 1232g) (also known as the “Family Educational Rights and Privacy Act of 1974”), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | amend | Section 445(a) of the General Education Provisions Act (20 U.S.C. 1232h(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | insert | by inserting “, which is provided specifically for such survey, analysis, or evaluation” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 1232h` | amend | by amending subparagraph (C)(i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1232h` | amend | in subparagraph (C), by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | amend | by amending subparagraph (E) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | insert | in the paragraph heading, by inserting “consultation and” before “notification”; | the bill quotes the text inserted but describes where it goes |
