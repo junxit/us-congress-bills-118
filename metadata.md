@@ -1,7 +1,7 @@
 ---
 measure: H.R. 140
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 140
@@ -35,9 +35,10 @@ Protecting Speech from Government Interference Act
 - Rep. McClain, Lisa C. [R-MI-9] (M001136)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (4)
 
@@ -157,3 +158,4 @@ Protecting Speech from Government Interference Act
 - 2023-03-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 140.
 - 2023-03-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-03-09 — The previous question was ordered pursuant to the rule.
+- 2023-03-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
