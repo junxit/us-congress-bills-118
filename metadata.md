@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 27
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 27
@@ -219,3 +219,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-03-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 198 (Roll no. 142). (text: CR H1221)
 - 2023-03-09 — Rule provides for consideration of H.R. 140, H.J.Res. 27 and S. 619. The resolution provides for consideration of H.R. 140, under a structured rule. The resolution provides for consideration of H.J.Res. 27 and S. 619, under closed rules. General debate is limited to one hour of debate on all measures.
 - 2023-03-09 — The previous question was ordered pursuant to the rule.
+- 2023-03-14 — Received in the Senate, read twice.
