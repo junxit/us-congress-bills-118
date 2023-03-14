@@ -1,0 +1,27 @@
+---
+measure: H.J.Res. 43
+congress: 118
+version: Introduced in House
+---
+
+# H.J.Res. 43
+
+Prince Jonah Kūhiō Kalaniana‘ole Protecting Family Legacies Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+
+## Committees (1)
+
+- House — Natural Resources Committee
+
+## Actions
+
+- 2023-03-14 — Introduced in House
+- 2023-03-14 — Introduced in House
+- 2023-03-14 — Referred to the House Committee on Natural Resources.
