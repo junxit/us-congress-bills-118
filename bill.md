@@ -1,0 +1,25 @@
+---
+legis-num: S. 813
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 813
+
+> To direct the Secretary of Agriculture to amend regulations to allow for certain packers to have an interest in market agencies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanding Local Meat Processing Act of 2023”.
+
+## § 2. Allowed interest of certain packers in market agencies
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Agriculture shall revise section 201.67 of title 9, Code of Federal Regulations (as in effect on the date of enactment of this Act), to exempt the packers described in subsection (b) from the prohibition described in that section.
+- **(b)** *Packers described* A packer referred to in subsection (a) is a packer that—
+  - **(1)** with respect to cattle or sheep, has a cumulative slaughter capacity of less than—
+    - **(A)** 2,000 animals per day; or
+    - **(B)** 700,000 animals per year; and
+  - **(2)** with respect to hogs, has a cumulative slaughter capacity of less than—
+    - **(A)** 10,000 animals per day; or
+    - **(B)** 3,000,000 animals per year.
