@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 18
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 18
@@ -16,7 +16,7 @@ A joint resolution disapproving of the rule submitted by the Department of Homel
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Budd, Ted [R-NC] (B001305)
@@ -28,6 +28,7 @@ A joint resolution disapproving of the rule submitted by the Department of Homel
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
