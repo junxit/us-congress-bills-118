@@ -1,0 +1,18 @@
+---
+legis-num: S. 874
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 874
+
+> To direct the Secretary of Labor to modify the implementation of the adverse effect wage rate for H–2A nonimmigrants.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm Operations Support Act”.
+
+## § 2. Modified implementation of adverse effect wage rate for H–2A nonimmigrants
+
+The Secretary of Labor shall ensure that the adverse effect wage rate required to be paid under section 655.1308 of title 20, Code of Federal Regulations, to nonimmigrants admitted under section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(a)), that was in effect in a State on December 1, 2022, remains the adverse effect wage rate for such employees in that State through December 31, 2023.
