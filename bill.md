@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1640
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1640
+
+> To prohibit the Secretary of Energy from finalizing, implementing, or enforcing the proposed rule titled “Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products”, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Save Our Gas Stoves Act”.
+
+## § 2. Standards for kitchen ranges and ovens
+
+Section 325(h) of the Energy Policy and Conservation Act (42 U.S.C. 6295(h)) is amended by adding at the end the following:
+
+> - **(3)** The Secretary may not determine that imposition of an energy conservation standard under this section for kitchen ranges or ovens is economically justified for purposes of subsection (o) unless the Secretary determines that imposition of such energy conservation standard is not likely to result in the unavailability in the United States of a type (or class) of product based on what type of fuel the product consumes.
+
+## § 3. Prohibition on rulemaking
+
+The Secretary of Energy may not finalize, implement, or enforce the proposed rule titled “Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products” (88 Fed. Reg. 6818 (February 1, 2023)) or any substantially similar rule.
