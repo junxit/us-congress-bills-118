@@ -1,7 +1,7 @@
 ---
 measure: S. 277
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 277
@@ -24,3 +24,7 @@ Pala Band of Mission Indians Land Transfer Act of 2023
 
 - 2023-02-07 — Introduced in Senate
 - 2023-02-07 — Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S267)
+- 2023-02-15 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-03-21 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-2.
+- 2023-03-21 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-2.
+- 2023-03-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
