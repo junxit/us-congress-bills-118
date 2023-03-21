@@ -1,7 +1,7 @@
 ---
 measure: S. 30
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 30
@@ -32,3 +32,5 @@ Fiscal Year 2023 Veterans Affairs Major Medical Facility Authorization Act
 - 2023-03-07 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2023-03-07 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2023-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
+- 2023-03-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S874-875; text: CR S875)
+- 2023-03-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S874-875; text: CR S875)
