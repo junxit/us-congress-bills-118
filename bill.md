@@ -1,0 +1,45 @@
+---
+legis-num: S. 880
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 880
+
+> To require MedPAC and MACPAC to biennially conduct a coordinated review and analysis of Medicare and Medicaid policy with respect to dually eligible beneficiaries, and to jointly submit recommendations for policy changes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Coordinating Dual Eligible Recommendations Act”.
+
+## § 2. Coordinated MedPAC and MACPAC review and report regarding dually eligible beneficiaries
+
+- **(a)** *In general*
+  - **(1)** *Medicare* Section 1805(b)(11) of the Social Security Act (42 U.S.C. 1395b–6(b)(11)) is amended—
+    - **(A)** by striking “The Commission” and inserting the following:
+      > - **(A)** *In general* The Commission
+
+    - **(B)** by adding at the end the following:
+      > - **(B)** *Biennial coordinated review and joint report on policies affecting dually eligible beneficiaries*
+      >   - **(i)** *In general* Beginning with the report for March 15, 2024, and biennially thereafter, the Commission shall coordinate with MACPAC to jointly—
+      >     - **(I)** review and analyze aggregate trends in spending, utilization, and financial performance under Medicare and Medicaid regarding access to, and the quality of, care provided under such programs for dually eligible beneficiaries; and
+      >     - **(II)** include as an appendix to such report—
+      >       - **(aa)** analyses of such trends; and
+      >       - **(bb)** subject to paragraph (10), recommendations for changes to Medicare and Medicaid policy to ensure adequate and efficient access to care to improve and maintain the health and functional status of dually eligible beneficiaries and to increase the alignment of the Medicare and Medicaid programs in serving such beneficiaries.
+      >   - **(ii)** *Appropriate committees of Congress* Each report required under this subparagraph shall be submitted to the appropriate committees of Congress.
+
+  - **(2)** *Medicaid* Section 1900(b)(11) of the Social Security Act (42 U.S.C. 1396(b)(11)) is amended by adding at the end the following:
+    > - **(C)** *Biennial coordinated review and joint report on policies affecting dually eligible beneficiaries*
+    >   - **(i)** *In general* Beginning with the report for March 15, 2024, and biennially thereafter, MACPAC shall coordinate with the Medicare Payment Advisory Commission established under section 1805 to jointly—
+    >     - **(I)** review and analyze aggregate trends in spending, utilization, and financial performance under Medicare and Medicaid regarding access to, and the quality of, care provided under such programs for dually eligible individuals; and
+    >     - **(II)** include as an appendix to such report—
+    >       - **(aa)** analyses of such trends; and
+    >       - **(bb)** subject to paragraph (13), recommendations for changes to Medicare and Medicaid policy to ensure adequate and efficient access to care to improve and maintain the health and functional status of dually eligible beneficiaries and to increase the alignment of the Medicare and Medicaid programs in serving such beneficiaries.
+    >   - **(ii)** *Appropriate committees of Congress* Each report required under this subparagraph shall be submitted to the appropriate committees of Congress which, for purposes of this subparagraph, shall include the Committee on Ways and Means of the House of Representatives.
+
+- **(b)** *Technical amendments*
+  - **(1)** *Medicare* Section 1805(b) of the Social Security Act (42 U.S.C. 1395b–6(b)) is amended—
+    - **(A)** in paragraph (6), by inserting “Energy and” before “Commerce”; and
+    - **(B)** in paragraph (10), by striking “section 2081” and inserting “section 2602”.
+  - **(2)** *Medicaid* Paragraph (13) of section 1900(b) of the Social Security Act (42 U.S.C. 1396(b)(13)) is amended by striking “section 2081” and inserting “section 2602”.
