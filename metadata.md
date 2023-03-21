@@ -1,7 +1,7 @@
 ---
 measure: H.R. 815
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 815
@@ -41,3 +41,6 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - 2023-03-07 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2023-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1126)
 - 2023-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1126)
+- 2023-03-08 — Received in the Senate.
+- 2023-03-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-03-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
