@@ -1,0 +1,23 @@
+---
+legis-num: S. 906
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 906
+
+> To withdraw normal trade relations treatment from products of the People's Republic of China, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending Normal Trade Relations with China Act of 2023”.
+
+## § 2. Withdrawal of normal trade relations treatment from the People’s Republic of China
+
+Notwithstanding title I of Public Law 106–286 (114 Stat. 880) or any other provision of law, effective on the date that is 2 years after the date of the enactment of this Act—
+
+- **(1)** normal trade relations treatment shall not apply pursuant to section 101 of that Act to the products of the People’s Republic of China;
+- **(2)** normal trade relations treatment may not thereafter be extended to the products of the People's Republic of China under the provisions of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.);
+- **(3)** the rates of duty set forth in column 2 of the Harmonized Tariff Schedule of the United States shall apply to all products of the People’s Republic of China; and
+- **(4)** the President may proclaim increases in the rates of duty applicable to products of the People’s Republic of China to rates that are higher than the rates described in paragraph (3).
