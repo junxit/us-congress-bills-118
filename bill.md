@@ -1,0 +1,21 @@
+---
+legis-num: S. 943
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 943
+
+> To increase the minimum disaster loan amount for which the Small Business Administration may require collateral, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Disaster Damage Fairness Act of 2023”.
+
+## § 2. Collateral requirements for disaster loans
+
+Section 7(d)(6) of the Small Business Act (15 U.S.C. 636(d)(6)) is amended in the third proviso—
+
+- **(1)** by striking “$14,000” and inserting “$25,000”; and
+- **(2)** by striking “major disaster” and inserting “disaster”.
