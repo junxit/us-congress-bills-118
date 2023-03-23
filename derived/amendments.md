@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1130
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 717b` | strike | by striking subsections (a) through (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 717b` | redesignate | by redesignating subsections (e) and (f) as subsections (a) and (b), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 717b` | redesignate | by redesignating subsection (d) as subsection (c), and moving such subsection after subsection (b), as so redesignated; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 717b` | redesignate | in subsection (a), as so redesignated, by amending paragraph (1) to read as follows: “(1) The Commission shall have the exclusive authority to approve or deny an application for the siting, construction, expansion, or operation of a faci… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 717b` | redesignate | in subsection (a), as so redesignated, by amending paragraph (1) to read as follows: “(1) The Federal Energy Regulatory Commission (in this subsection referred to as the Commission) shall have the exclusive authority to approve or deny a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
