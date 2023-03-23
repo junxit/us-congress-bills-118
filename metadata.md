@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1335
@@ -34,3 +34,13 @@ TAPP American Resources Act
 - 2023-03-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-03 — Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-03-09 — Committee Consideration and Mark-up Session Held.
+- 2023-03-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 19.
+- 2023-03-13 — Referred to the Subcommittee on Forestry.
+- 2023-03-23 — Committee on Agriculture discharged.
+- 2023-03-23 — Committee on Agriculture discharged.
+- 2023-03-23 — Committee on the Budget discharged.
+- 2023-03-23 — Committee on the Budget discharged.
+- 2023-03-23 — Placed on the Union Calendar, Calendar No. 18.
+- 2023-03-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-28, Part I.
+- 2023-03-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-28, Part I.

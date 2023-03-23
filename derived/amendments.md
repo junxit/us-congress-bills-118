@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-102 amendatory instructions. 35 executed, 67 stated and not applied.
+103 amendatory instructions. 35 executed, 68 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -400,16 +400,17 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 226` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 188` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 188` | redesignate | by redesignating paragraphs (2) and (3) as paragraph (3) and (4), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | redesignate | by redesignating subsections (f) through (i) as subsections (g) through (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 188` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | replace | by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 905` | insert | Section 255(g)(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(A)) is amended by inserting after “Payments to Social Security Trust Funds (28–0404–0–1–651).” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1337` | replace | in subparagraph (A), by striking “(A) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1337` | replace | in subparagraph (B), by striking “(B) The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1356c` | add-at-end | Section 33 of the Outer Continental Shelf Lands Act (43 U.S.C. 1356c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 905` | insert | Section 255(g)(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(A)) is amended by inserting after “Payments to Social Security Trust Funds (28–0404–0–1–651).” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 191` | strike | in subsection (a), in the first sentence, by striking “and, subject to the provisions of subsection (b),”; | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 191` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
