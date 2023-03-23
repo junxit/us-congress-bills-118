@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1093
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1093
@@ -29,9 +29,10 @@ To direct the Secretary of State to submit to Congress a report on implementatio
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ To direct the Secretary of State to submit to Congress a report on implementatio
 - 2023-03-22 — Mr. McCaul moved to suspend the rules and pass the bill.
 - 2023-03-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 4 (Roll no. 144). (text: CR H1309)
 - 2023-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 4 (Roll no. 144). (text: CR H1309)
+- 2023-03-23 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
