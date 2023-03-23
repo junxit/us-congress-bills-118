@@ -21,7 +21,7 @@ Section 3005(e) of the Solid Waste Disposal Act (42 U.S.C. 6925(e)) is amended�
 
 - **(2)** by adding at the end the following:
   > - **(4)** *Definitions* For the purposes of this subsection:
-  >   - **(A)** *Critical energy resource* The term critical energy resource means any energy resource that, as determined by the Secretary of Energy—
-  >     - **(i)** is essential to the energy sector and energy systems of the United States; and
+  >   - **(A)** *Critical energy resource* The term “critical energy resource” means, as determined by the Secretary of Energy, any energy resource—
+  >     - **(i)** that is essential to the energy sector and energy systems of the United States; and
   >     - **(ii)** the supply chain of which is vulnerable to disruption.
   >   - **(B)** *Critical energy resource facility* The term critical energy resource facility means a facility that processes or refines a critical energy resource.
