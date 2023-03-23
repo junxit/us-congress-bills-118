@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1141
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1141
@@ -16,7 +16,7 @@ Natural Gas Tax Repeal Act
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (35)
+## Cosponsors (41)
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 - Rep. Estes, Ron [R-KS-4] (E000298)
@@ -53,6 +53,12 @@ Natural Gas Tax Repeal Act
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 - Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
 ## Committees (1)
 
@@ -64,3 +70,10 @@ Natural Gas Tax Repeal Act
 - 2023-02-21 — Introduced in House
 - 2023-02-21 — Referred to the House Committee on Energy and Commerce.
 - 2023-02-21 — Referred to the Subcommittee on Energy, Climate and Grid Security.
+- 2023-02-28 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 13 - 7 .
+- 2023-02-28 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-03-09 — Committee Consideration and Mark-up Session Held.
+- 2023-03-09 — Ordered to be Reported by the Yeas and Nays: 26 - 21.
+- 2023-03-23 — Placed on the Union Calendar, Calendar No. 8.
+- 2023-03-23 — Reported by the Committee on Energy and Commerce. H. Rept. 118-15.
+- 2023-03-23 — Reported by the Committee on Energy and Commerce. H. Rept. 118-15.
