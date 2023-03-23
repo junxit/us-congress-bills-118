@@ -46,12 +46,13 @@ This Act may be cited as the “Promoting Cross-border Energy Infrastructure Act
   - **(1)** an oil or natural gas pipeline or electric transmission facility that is operating for the import or export of oil or natural gas or the transmission of electricity as of the date of enactment of this Act;
   - **(2)** an oil or natural gas pipeline or electric transmission facility for which a Presidential permit (or similar permit) has been issued pursuant to any provision of law or Executive order; or
   - **(3)** a border-crossing facility for which a certificate of crossing has previously been issued under subsection (a).
-- **(f)** *Effective date; rulemaking deadlines*
+- **(f)** *Prohibition on revocation of Presidential permits* Notwithstanding any other provision of law, the President may not revoke a Presidential permit (or similar permit) issued pursuant to Executive Order No. 13337 (3 U.S.C. 301 note), Executive Order No. 11423 (3 U.S.C. 301 note), Executive Order No. 12038 (43 Fed. Reg. 4957), Executive Order No. 10485 (18 Fed. Reg. 5397), or any other Executive order for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, or any border-crossing facility thereof, unless such revocation is authorized by an Act of Congress.
+- **(g)** *Effective date; rulemaking deadlines*
   - **(1)** *Effective date* Subsections (a) through (e), and the amendments made by such subsections, shall take effect on the date that is 1 year after the date of enactment of this Act.
   - **(2)** *Rulemaking deadlines* Each relevant official or agency described in subsection (a)(2)(B) shall—
     - **(A)** not later than 180 days after the date of enactment of this Act, publish in the Federal Register notice of a proposed rulemaking to carry out the applicable requirements of subsection (a); and
     - **(B)** not later than 1 year after the date of enactment of this Act, publish in the Federal Register a final rule to carry out the applicable requirements of subsection (a).
-- **(g)** *Definitions* In this section:
+- **(h)** *Definitions* In this section:
   - **(1)** *Border-crossing facility* The term border-crossing facility means the portion of an oil or natural gas pipeline or electric transmission facility that is located at an international boundary of the United States.
   - **(2)** *Modification* The term modification includes a reversal of flow direction, change in ownership, change in flow volume, addition or removal of an interconnection, or an adjustment to maintain flow (such as a reduction or increase in the number of pump or compressor stations).
   - **(3)** *Natural gas* The term natural gas has the meaning given that term in section 2 of the Natural Gas Act (15 U.S.C. 717a).
