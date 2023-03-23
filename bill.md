@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 1760
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1760
+
+> To extend the admission to Guam or the Commonwealth of the Northern Mariana Islands for certain nonimmigrant H–2B workers.
+
+## § 1. Extension of admission to Guam or the Commonwealth of the Northern Mariana Islands for certain nonimmigrant H–2B workers
+
+Section 6(b)(1)(B) of the Joint Resolution entitled “A Joint Resolution to approve the “Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America”, and for other purposes”, approved March 24, 1976 (48 U.S.C. 11 1806(b)(1)(B)), is amended, in the matter preceding clause (i), by striking “December 31, 2024” and inserting “December 31, 2029”.
