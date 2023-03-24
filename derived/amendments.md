@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-43 amendatory instructions. 4 executed, 39 stated and not applied.
+47 amendatory instructions. 4 executed, 43 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -77,13 +77,17 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6312` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6312` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6312` | redesignate | by redesignating paragraphs (1), (2), (3), and (4) as paragraphs (2), (3), (4), and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6312` | redesignate | by inserting before paragraph (2) (as so redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1232h` | redesignate | by inserting before paragraph (2) (as so redesignated), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6312` | redesignate | by redesignating clause (i) and clause (ii) as subclause (I) and subclause (II), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6312` | replace | by striking “(B) Additional Information.—” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 6312` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 6312` | redesignate | by inserting after paragraph (4) (as redesignated by paragraph (1)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | redesignate | by redesignating section 8549C as section 8549D; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | insert | by inserting after section 8549B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | strike | by striking the item relating to section 8549C; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | insert | by inserting after the item relating to section 8549B the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7801` | redesignate | by redesignating paragraphs (45) through (52) as paragraphs (46) through (53), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 2032` | insert | by inserting after paragraph (44) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232g` | add-at-end | Section 444(f) of the General Education Provisions Act (20 U.S.C. 1232g) (also known as the “Family Educational Rights and Privacy Act of 1974”) (20 U.S.C. 1232g(f)) is amended by adding at the end the following: “The Secretary shall com… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232g` | add-at-end | Section 444 of the General Education Provisions Act (20 U.S.C. 1232g) (also known as the “Family Educational Rights and Privacy Act of 1974”) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232g` | add-at-end | Section 444 of the General Education Provisions Act (20 U.S.C. 1232g) (also known as the “Family Educational Rights and Privacy Act of 1974”), as amended by this section, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

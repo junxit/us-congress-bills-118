@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -145,6 +145,21 @@ Parents Bill of Rights Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (12)
+
+- 2023-03-23 — [House 118-1-150](votes/house-118-1-0150.md) — On Agreeing to the Amendment — **Failed** (203–223)
+- 2023-03-23 — [House 118-1-151](votes/house-118-1-0151.md) — On Agreeing to the Amendment — **Failed** (61–365)
+- 2023-03-23 — [House 118-1-152](votes/house-118-1-0152.md) — On Agreeing to the Amendment — **Failed** (89–338)
+- 2023-03-23 — [House 118-1-153](votes/house-118-1-0153.md) — On Agreeing to the Amendment — **Agreed to** (386–39)
+- 2023-03-24 — [House 118-1-154](votes/house-118-1-0154.md) — On Agreeing to the Amendment — **Agreed to** (420–5)
+- 2023-03-24 — [House 118-1-155](votes/house-118-1-0155.md) — On Agreeing to the Amendment — **Failed** (203–217)
+- 2023-03-24 — [House 118-1-156](votes/house-118-1-0156.md) — On Agreeing to the Amendment — **Failed** (161–265)
+- 2023-03-24 — [House 118-1-157](votes/house-118-1-0157.md) — On Agreeing to the Amendment — **Failed** (107–317)
+- 2023-03-24 — [House 118-1-158](votes/house-118-1-0158.md) — On Agreeing to the Amendment — **Failed** (113–311)
+- 2023-03-24 — [House 118-1-159](votes/house-118-1-0159.md) — On Agreeing to the Amendment — **Failed** (83–331)
+- 2023-03-24 — [House 118-1-160](votes/house-118-1-0160.md) — On Motion to Recommit — **Failed** (203–218)
+- 2023-03-24 — [House 118-1-161](votes/house-118-1-0161.md) — On Passage — **Passed** (213–208)
+
 ## Actions
 
 - 2023-03-01 — Introduced in House
@@ -156,3 +171,196 @@ Parents Bill of Rights Act
 - 2023-03-14 — Placed on the Union Calendar, Calendar No. 4.
 - 2023-03-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-9.
 - 2023-03-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-9.
+- 2023-03-22 — Rules Committee Resolution H. Res. 241 Reported to House. Rule provides for consideration of H.R. 5 with 2 hours of general debate. Motion to recommit allowed. Measure will be considered read. Specified amendments are in order.
+- 2023-03-23 — Amendment (A001) offered by Mr. Bacon. (consideration: CR H1375; text: CR H1375)
+- 2023-03-23 — Amendment (A002) offered by Ms. Foxx. (consideration: CR H1375-1376; text: CR H1375)
+- 2023-03-23 — Amendment (A003) offered by Mrs. Boebert. (consideration: CR H1376-1377; text: CR H1376)
+- 2023-03-23 — Amendment (A004) offered by Mrs. Boebert. (consideration: CR H1377-1378; text: CR H1377)
+- 2023-03-23 — Amendment (A005) in the nature of a substitute offered by Ms. Bonamici. (consideration: CR H1378-1381, H1386-1387; text: CR H1378-1380)
+- 2023-03-23 — Amendment (A006) offered by Mr. Crane. (consideration: CR H1381-1382, H1387; text: CR H1381)
+- 2023-03-23 — Amendment (A007) offered by Mr. Davidson. (consideration: CR H1382-1383, H1387-1388; text: CR H1382)
+- 2023-03-23 — Amendment (A008) offered by Mr. Fitzpatrick. (consideration: CR H1383, H1388-1389; text: CR H1383)
+- 2023-03-23 — Amendment (A009) offered by Mr. Garbarino. (consideration: CR H1389; text: CR H1389)
+- 2023-03-23 — Amendment (A010) offered by Mr. Green (TN). (consideration: CR H1389-1390; text: CR H1389)
+- 2023-03-23 — Amendment (A011) offered by Ms. Jacobs. (consideration: CR H1390-1391; text: CR H1390)
+- 2023-03-23 — Amendment (A012) offered by Ms. Jacobs. (consideration: CR H1391; text: CR H1391)
+- 2023-03-23 — Amendment (A013) offered by Mr. Lawler. (consideration: CR H1391-1392; text: CR H1392)
+- 2023-03-23 — Amendment (A014) offered by Mr. Massie. (consideration: CR H1392-1393; text: CR H1392)
+- 2023-03-23 — Amendment (A015) offered by Mr. McCormick. (consideration: CR H1393-1394; text: CR H1393)
+- 2023-03-23 — Amendment (A016) offered by Mr. McCormick. (consideration: CR H1394-1395; text: CR H1394)
+- 2023-03-23 — Amendment (A017) offered by Mr. Miller (OH). (consideration: CR H1395-1396; text: CR H1395)
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment agreed to Committee of the Whole
+- 2023-03-23 — Amendment failed in Committee of the Whole
+- 2023-03-23 — Amendment failed in Committee of the Whole
+- 2023-03-23 — Amendment failed in Committee of the Whole
+- 2023-03-23 — Amendment failed in Committee of the Whole
+- 2023-03-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2023-03-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2023-03-23 — Considered as unfinished business. (consideration: CR H1386-1396)
+- 2023-03-23 — Considered under the provisions of rule H. Res. 241. (consideration: CR H1348-1383; text of amendment in the nature of a substitute: CR H1372-1374)
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H. Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick Amendment No. 8.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Bacon amendment No. 1.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 3.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 4.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment No. 5.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Crane amendment No. 6.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson (OH) amendment No. 7.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 2.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Garbarino amendment No. 9.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Green (TN) amendment No. 10.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Jacobs amendment No. 12.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Jacobs amendment No. 13.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Lawler amendment No. 14.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment No. 15.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 16.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 17.
+- 2023-03-23 — DEBATE - Pursuant to the provisions of H.Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (OH) amendment No. 18.
+- 2023-03-23 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 5.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Bacon amendment (A001) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Boebert amendment (A003) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Boebert amendment (A004) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A008) Agreed to by recorded vote: 386 - 39 (Roll no. 153).
+- 2023-03-23 — House amendment agreed to: On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Garbarino amendment (A009) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Lawler amendment (A013) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the McCormick amendment (A015) Agreed to by voice vote.
+- 2023-03-23 — House amendment agreed to: On agreeing to the Miller (OH) amendment (A017) Agreed to by voice vote.
+- 2023-03-23 — House amendment not agreed to: On agreeing to the Bonamici amendment (A005) Failed by recorded vote: 203 - 223 (Roll no. 150).
+- 2023-03-23 — House amendment not agreed to: On agreeing to the Crane amendment (A006) Failed by recorded vote: 61 - 365 (Roll no. 151).
+- 2023-03-23 — House amendment not agreed to: On agreeing to the Davidson amendment (A007) Failed by recorded vote: 89 - 338 (Roll no. 152).
+- 2023-03-23 — House amendment not agreed to: On agreeing to the Jacobs amendment (A011) Failed by voice vote.
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered
+- 2023-03-23 — House amendment offered/reported by: Amendment (A001) offered by Mr. Bacon.(consideration: CR H1375; text: CR H1375)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A002) offered by Ms. Foxx.(consideration: CR H1375-1376; text: CR H1375)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Boebert.(consideration: CR H1376-1377; text: CR H1376)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A004) offered by Mrs. Boebert.(consideration: CR H1377-1378; text: CR H1377)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A005) in the nature of a substitute offered by Ms. Bonamici.(consideration: CR H1378-1381, H1386-1387; text: CR H1378-1380)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A006) offered by Mr. Crane.(consideration: CR H1381-1382, H1387; text: CR H1381)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A007) offered by Mr. Davidson.(consideration: CR H1382-1383, H1387-1388; text: CR H1382)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A008) offered by Mr. Fitzpatrick.(consideration: CR H1383, H1388-1389; text: CR H1383)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A009) offered by Mr. Garbarino.(consideration: CR H1389; text: CR H1389)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A010) offered by Mr. Green (TN).(consideration: CR H1389-1390; text: CR H1389)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A011) offered by Ms. Jacobs.(consideration: CR H1390-1391; text: CR H1390)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A012) offered by Ms. Jacobs.(consideration: CR H1391; text: CR H1391)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A013) offered by Mr. Lawler.(consideration: CR H1391-1392; text: CR H1392)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A014) offered by Mr. Massie.(consideration: CR H1392-1393; text: CR H1392)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A015) offered by Mr. McCormick.(consideration: CR H1393-1394; text: CR H1393)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A016) offered by Mr. McCormick.(consideration: CR H1394-1395; text: CR H1394)
+- 2023-03-23 — House amendment offered/reported by: Amendment (A017) offered by Mr. Miller (OH).(consideration: CR H1395-1396; text: CR H1395)
+- 2023-03-23 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 241 and Rule XVIII.
+- 2023-03-23 — Ms. Foxx moved that the Committee rise.
+- 2023-03-23 — Ms. Foxx moved that the committee rise.
+- 2023-03-23 — On agreeing to the Bacon amendment (A001) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Boebert amendment (A003) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Boebert amendment (A004) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Bonamici amendment (A005) Failed by recorded vote: 203 - 223 (Roll no. 150).
+- 2023-03-23 — On agreeing to the Crane amendment (A006) Failed by recorded vote: 61 - 365 (Roll no. 151).
+- 2023-03-23 — On agreeing to the Davidson amendment (A007) Failed by recorded vote: 89 - 338 (Roll no. 152).
+- 2023-03-23 — On agreeing to the Fitzpatrick amendment (A008) Agreed to by recorded vote: 386 - 39 (Roll no. 153).
+- 2023-03-23 — On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Garbarino amendment (A009) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Jacobs amendment (A011) Failed by voice vote.
+- 2023-03-23 — On agreeing to the Lawler amendment (A013) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the McCormick amendment (A015) Agreed to by voice vote.
+- 2023-03-23 — On agreeing to the Miller (OH) amendment (A017) Agreed to by voice vote.
+- 2023-03-23 — On motion that the Committee rise Agreed to by voice vote.
+- 2023-03-23 — On motion that the committee rise Agreed to by voice vote.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bonamici demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crane amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson Amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fitzpatrick Amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fitzpatrick demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Green (TN) amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Scott (VA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jacobs amendment No. 13, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Jacobs demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Massie amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Lawler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCormick amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-23 — Roll call votes on amendments in House
+- 2023-03-23 — Roll call votes on amendments in House
+- 2023-03-23 — Roll call votes on amendments in House
+- 2023-03-23 — Roll call votes on amendments in House
+- 2023-03-23 — Rule H. Res. 241 passed House.
+- 2023-03-23 — Rule provides for consideration of H.R. 5 with 2 hours of general debate. Motion to recommit allowed. Measure will be considered read. Specified amendments are in order.
+- 2023-03-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-03-23 — The Speaker designated the Honorable Mike Flood to act as Chairman of the Committee.
+- 2023-03-24 — Amendment (A018) offered by Mr. Roy. (consideration: CR H1415-1417, H1423; text: CR H1415-1416)
+- 2023-03-24 — Amendment (A019) offered by Mr. Roy. (consideration: CR H1417-1418, H1423-1424; text: CR H1417)
+- 2023-03-24 — Amendment (A020) offered by Mr. Smith (NJ). (consideration: CR H1418-1419; text: CR H1418)
+- 2023-03-24 — Amendment (A021) offered by Ms. Tenney. (consideration: CR H1419-1420; text: CR H1419)
+- 2023-03-24 — Amendment agreed to Committee of the Whole
+- 2023-03-24 — Amendment agreed to Committee of the Whole
+- 2023-03-24 — Amendment agreed to Committee of the Whole
+- 2023-03-24 — Amendment failed in Committee of the Whole
+- 2023-03-24 — Amendment failed in Committee of the Whole
+- 2023-03-24 — Amendment failed in Committee of the Whole
+- 2023-03-24 — Amendment failed in Committee of the Whole
+- 2023-03-24 — Amendment failed in Committee of the Whole
+- 2023-03-24 — Considered as unfinished business. (consideration: CR H1415-1426)
+- 2023-03-24 — DEBATE - Pursuant to the provisions of H. Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 19.
+- 2023-03-24 — DEBATE - Pursuant to the provisions of H. Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 20.
+- 2023-03-24 — DEBATE - Pursuant to the provisions of H. Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NJ) amendment No. 21.
+- 2023-03-24 — DEBATE - Pursuant to the provisions of H. Res. 241, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 22.
+- 2023-03-24 — House amendment agreed to: On agreeing to the Green (TN) amendment (A010) Agreed to by recorded vote: 420 - 5 (Roll no. 154).(consideration: CR H1420-1421)
+- 2023-03-24 — House amendment agreed to: On agreeing to the Smith (NJ) amendment (A020) Agreed to by voice vote.
+- 2023-03-24 — House amendment agreed to: On agreeing to the Tenney amendment (A021) Agreed to by voice vote.
+- 2023-03-24 — House amendment not agreed to: On agreeing to the Jacobs amendment (A012) Failed by recorded vote: 203 - 217 (Roll no. 155).(consideration: CR H1421)
+- 2023-03-24 — House amendment not agreed to: On agreeing to the Massie amendment (A014) Failed by recorded vote: 161 - 265 (Roll no. 156).(consideration: CR H1421-1422)
+- 2023-03-24 — House amendment not agreed to: On agreeing to the McCormick amendment (A016) Failed by recorded vote: 107 - 317 (Roll no. 157).(consideration: CR H1422-1423)
+- 2023-03-24 — House amendment not agreed to: On agreeing to the Roy amendment (A018) Failed by recorded vote: 113 - 311 (Roll no. 158).
+- 2023-03-24 — House amendment not agreed to: On agreeing to the Roy amendment (A019) Failed by recorded vote: 83 - 331 (Roll no. 159).
+- 2023-03-24 — House amendment offered
+- 2023-03-24 — House amendment offered
+- 2023-03-24 — House amendment offered
+- 2023-03-24 — House amendment offered
+- 2023-03-24 — House amendment offered/reported by: Amendment (A018) offered by Mr. Roy.(consideration: CR H1415-1417, H1423; text: CR H1415-1416)
+- 2023-03-24 — House amendment offered/reported by: Amendment (A019) offered by Mr. Roy.(consideration: CR H1417-1418, H1423-1424; text: CR H1417)
+- 2023-03-24 — House amendment offered/reported by: Amendment (A020) offered by Mr. Smith (NJ).(consideration: CR H1418-1419; text: CR H1418)
+- 2023-03-24 — House amendment offered/reported by: Amendment (A021) offered by Ms. Tenney.(consideration: CR H1419-1420; text: CR H1419)
+- 2023-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-03-24 — Mrs. Hayes moved to recommit to the Committee on Education and the Workforce. (text: CR H1424)
+- 2023-03-24 — On agreeing to the Green (TN) amendment (A010) Agreed to by recorded vote: 420 - 5 (Roll no. 154). (consideration: CR H1420-1421)
+- 2023-03-24 — On agreeing to the Jacobs amendment (A012) Failed by recorded vote: 203 - 217 (Roll no. 155). (consideration: CR H1421)
+- 2023-03-24 — On agreeing to the Massie amendment (A014) Failed by recorded vote: 161 - 265 (Roll no. 156). (consideration: CR H1421-1422)
+- 2023-03-24 — On agreeing to the McCormick amendment (A016) Failed by recorded vote: 107 - 317 (Roll no. 157). (consideration: CR H1422-1423)
+- 2023-03-24 — On agreeing to the Roy amendment (A018) Failed by recorded vote: 113 - 311 (Roll no. 158).
+- 2023-03-24 — On agreeing to the Roy amendment (A019) Failed by recorded vote: 83 - 331 (Roll no. 159).
+- 2023-03-24 — On agreeing to the Smith (NJ) amendment (A020) Agreed to by voice vote.
+- 2023-03-24 — On agreeing to the Tenney amendment (A021) Agreed to by voice vote.
+- 2023-03-24 — On motion to recommit Failed by the Yeas and Nays: 203 - 218 (Roll no. 160).
+- 2023-03-24 — On passage Passed by recorded vote: 213 - 208 (Roll no. 161).
+- 2023-03-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roy amendment No. 19, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roy amendment No. 20, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Roy demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-24 — Passed/agreed to in House: On passage Passed by recorded vote: 213 - 208 (Roll no. 161).
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — Roll call votes on amendments in House
+- 2023-03-24 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-03-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-03-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
+- 2023-03-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-03-24 — The previous question was ordered pursuant to the rule.
