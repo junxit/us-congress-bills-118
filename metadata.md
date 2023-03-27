@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 25
@@ -43,3 +43,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2023-03-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-03-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 162). (text: 03/22/2023 CR H1314)
 - 2023-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 162). (text: 03/22/2023 CR H1314)
+- 2023-03-27 — Received in the Senate.
