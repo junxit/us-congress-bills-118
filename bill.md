@@ -1,0 +1,34 @@
+---
+legis-num: S. 987
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 987
+
+> To expand the HERO Child-Rescue Corps Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Providing Resources for Exceptional Veterans to End Narcotic Trafficking of Fentanyl Act” or the “PREVENT Fentanyl Act”.
+
+## § 2. Expansion of the HERO Child-Rescue Corps
+
+Section 890A of the Homeland Security Act of 2002 (6 U.S.C. 473) is amended—
+
+- **(1)** by striking “Child-Rescue” each place it appears; and
+- **(2)** in subsection (e)—
+  - **(A)** in the subsection heading, by striking “HERO Child-Rescue Corps” and inserting “HERO Corps Program”;
+  - **(B)** in paragraph (1)(B), by inserting “, as relevant” after “participants”;
+  - **(C)** in paragraph (2), by inserting “and fentanyl trafficking” after “child exploitation”;
+  - **(D)** in paragraph (3)—
+    - **(i)** in the matter preceding subparagraph (A), by inserting “Corps” before “Program”; and
+    - **(ii)** in subparagraph (B)—
+      - **(I)** in clause (v), by striking “and”;
+      - **(II)** in clause (vi), by striking the period at the end and inserting “; and”; and
+      - **(III)** by adding at the end the following:
+        > - **(vii)** fentanyl trafficking.
+
+  - **(E)** by adding at the end the following:
+    > - **(4)** *Limitation* Investigations and analysis described in paragraph (3)(B)(vii) may not make up more than 40 percent of the investigations and analysis conducted by participants of the HERO Corps Program.
