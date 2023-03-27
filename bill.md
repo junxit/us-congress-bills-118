@@ -34,13 +34,13 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
   - **(1)** changing the status of the People’s Republic of China from developing country to upper middle income country, high income country, or developed country if a mechanism exists in such organization to make such a change in status;
   - **(2)** proposing the development of a mechanism described in paragraph (1) to change the status of the People’s Republic of China in such organization from developing country to developed country; or
   - **(3)** regardless of efforts made pursuant to paragraphs (1) and (2), working to ensure that the People’s Republic of China does not receive preferential treatment or assistance within the organization as a result of it having the status of a developing country.
-- **(b)** *Waiver* The President may waive the application of subsection (a) with respect to any international organization if the President notifies the appropriate committees of Congress that such a waiver is in the national interests of the United States.
+- **(b)** *Waiver* The President may waive the application of subsection (a) with respect to any international organization if the President notifies the appropriate committees of Congress, not later than 10 days before the date on which the waiver shall take effect, that such a waiver is in the national interests of the United States.
 
 ## § 5. Definitions
 
 In this Act:
 
 - **(1)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
-  - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(A)** the Committee on Foreign Affairs and the Committee on Ways and Means of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations of the Senate.
 - **(2)** *Secretary* The term Secretary means the Secretary of State.
