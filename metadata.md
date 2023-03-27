@@ -1,7 +1,7 @@
 ---
 measure: H.R. 406
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 406
@@ -43,9 +43,10 @@ Providing Appropriate Recognition and Treatment Needed to Enhance Relations with
 - Rep. Kildee, Daniel T. [D-MI-8] (K000380)
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Providing Appropriate Recognition and Treatment Needed to Enhance Relations with
 - 2023-03-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-03-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 33 (Roll no. 148). (text: 03/22/2023 CR H1313)
 - 2023-03-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 33 (Roll no. 148). (text: 03/22/2023 CR H1313)
+- 2023-03-27 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
