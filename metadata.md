@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 15
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 15
@@ -36,3 +36,9 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2023-03-17 — Placed on the House Calendar, Calendar No. 7.
 - 2023-03-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-11.
 - 2023-03-17 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-11.
+- 2023-03-27 — Considered under suspension of the rules. (consideration: CR H1445-1446)
+- 2023-03-27 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 15.
+- 2023-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-03-27 — Mr. Perry moved to suspend the rules and agree to the resolution.
+- 2023-03-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1445)
+- 2023-03-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1445)
