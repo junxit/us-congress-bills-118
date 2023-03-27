@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5
@@ -141,9 +141,10 @@ Parents Bill of Rights Act
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
 - Rep. Jackson, Ronny [R-TX-13] (J000304)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (12)
 
@@ -364,3 +365,4 @@ Parents Bill of Rights Act
 - 2023-03-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
 - 2023-03-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-03-24 — The previous question was ordered pursuant to the rule.
+- 2023-03-27 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
