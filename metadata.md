@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1154
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1154
@@ -31,10 +31,11 @@ Stop Forced Organ Harvesting Act of 2023
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Stop Forced Organ Harvesting Act of 2023
 - 2023-03-27 — Mr. Smith (NJ) moved to suspend the rules and pass the bill.
 - 2023-03-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 163). (text: CR H1446-1447)
 - 2023-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 163). (text: CR H1446-1447)
+- 2023-03-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
