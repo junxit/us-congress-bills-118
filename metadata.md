@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 15
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 15
@@ -43,3 +43,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2023-03-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1445)
 - 2023-03-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1445)
 - 2023-03-28 — Received in the Senate.
+- 2023-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1044)
+- 2023-03-29 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1044)
+- 2023-03-30 — Message on Senate action sent to the House.
