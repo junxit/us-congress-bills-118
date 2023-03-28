@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 131
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 131
+
+> Authorizing the Sergeant at Arms and Doorkeeper of the Senate to conduct a blood donation drive on March 30, 2023.
+
+## § 1. Senate blood donation drive on March 30, 2023
+
+- **(a)** *Authorization* In addition to blood donation drives conducted under Senate Resolution 78 (118th Congress), agreed to February 16, 2023, the Sergeant at Arms and Doorkeeper of the Senate, in conjunction with the American Red Cross, is authorized to conduct a blood donation drive from 9 a.m. to 3 p.m. on March 30, 2023, in room 902 of the Philip A. Hart Senate Office Building.
+- **(b)** *Implementation* Physical preparations for the conduct of, and the implementation of, the blood donation drive authorized under subsection (a) shall be carried out in accordance with such conditions as the Sergeant at Arms and Doorkeeper of the Senate, in consultation with the Committee on Rules and Administration of the Senate, may prescribe.
