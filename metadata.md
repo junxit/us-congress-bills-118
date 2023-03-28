@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1189
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1189
@@ -22,9 +22,10 @@ Undersea Cable Control Act
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Undersea Cable Control Act
 - 2023-03-27 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2023-03-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1451)
 - 2023-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1451)
+- 2023-03-28 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
