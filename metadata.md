@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 7
 congress: 118
-version: Referred in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 7
@@ -113,3 +113,6 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - 2023-02-01 — Rule provides for consideration of H.J. Res. 7, H.R. 139, H.R. 382 and H.R. 497. All bills are considered under a closed rule with one hour of general debate and one motion to recommit.
 - 2023-02-01 — The previous question was ordered pursuant to the rule.
 - 2023-02-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2023-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2023-03-28 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
+- 2023-03-28 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
