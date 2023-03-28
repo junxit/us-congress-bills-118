@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 7
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 7
@@ -92,9 +92,10 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - House — Transportation and Infrastructure Committee
 - Senate — Finance Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2023-02-01 — [House 118-1-104](votes/house-118-1-0104.md) — On Passage — **Passed** (229–197)
+- 2023-03-29 — [Senate 118-1-80](votes/senate-118-1-0080.md) — On the Joint Resolution — **Joint Resolution Passed** (68–23)
 
 ## Actions
 
@@ -116,3 +117,13 @@ Relating to a national emergency declared by the President on March 13, 2020.
 - 2023-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
 - 2023-03-28 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
 - 2023-03-28 — Senate Committee on Finance discharged pursuant to 50 U.S.C. 1622.
+- 2023-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S1028, S1043-1044)
+- 2023-03-29 — Passed Senate without amendment by Yea-Nay Vote. 68 - 23. Record Vote Number: 80.
+- 2023-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 68 - 23. Record Vote Number: 80.
+- 2023-03-30 — Message on Senate action sent to the House.
+- 2023-04-05 — Presented to President.
+- 2023-04-05 — Presented to President.
+- 2023-04-10 — Became Public Law No: 118-3.
+- 2023-04-10 — Became Public Law No: 118-3.
+- 2023-04-10 — Signed by President.
+- 2023-04-10 — Signed by President.
