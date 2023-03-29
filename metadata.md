@@ -1,7 +1,7 @@
 ---
 measure: S. 316
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 316
@@ -16,7 +16,7 @@ A bill to repeal the authorizations for use of military force against Iraq.
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (27)
+## Cosponsors (49)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Menendez, Robert [D-NJ] (M000639)
@@ -45,10 +45,50 @@ A bill to repeal the authorizations for use of military force against Iraq.
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
+
+## Recorded votes (15)
+
+- 2023-03-16 — [Senate 118-1-61](votes/senate-118-1-0061.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (68–27)
+- 2023-03-21 — [Senate 118-1-63](votes/senate-118-1-0063.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (67–28)
+- 2023-03-22 — [Senate 118-1-65](votes/senate-118-1-0065.md) — On the Amendment — **Amendment Rejected** (9–86)
+- 2023-03-22 — [Senate 118-1-66](votes/senate-118-1-0066.md) — On the Amendment — **Amendment Rejected** (36–60)
+- 2023-03-23 — [Senate 118-1-67](votes/senate-118-1-0067.md) — On the Amendment — **Amendment Rejected** (19–76)
+- 2023-03-23 — [Senate 118-1-68](votes/senate-118-1-0068.md) — On the Amendment — **Amendment Rejected** (32–63)
+- 2023-03-23 — [Senate 118-1-69](votes/senate-118-1-0069.md) — On the Amendment — **Amendment Rejected** (41–52)
+- 2023-03-27 — [Senate 118-1-70](votes/senate-118-1-0070.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–28)
+- 2023-03-28 — [Senate 118-1-71](votes/senate-118-1-0071.md) — On the Amendment — **Amendment Rejected** (47–49)
+- 2023-03-28 — [Senate 118-1-72](votes/senate-118-1-0072.md) — On the Amendment — **Amendment Rejected** (31–65)
+- 2023-03-28 — [Senate 118-1-73](votes/senate-118-1-0073.md) — On the Amendment — **Amendment Rejected** (41–55)
+- 2023-03-28 — [Senate 118-1-74](votes/senate-118-1-0074.md) — On the Amendment — **Amendment Rejected** (38–57)
+- 2023-03-28 — [Senate 118-1-75](votes/senate-118-1-0075.md) — On the Amendment — **Amendment Rejected** (33–62)
+- 2023-03-28 — [Senate 118-1-76](votes/senate-118-1-0076.md) — On the Amendment — **Amendment Rejected** (26–68)
+- 2023-03-29 — [Senate 118-1-77](votes/senate-118-1-0077.md) — On Passage of the Bill — **Bill Passed** (66–30)
 
 ## Actions
 
@@ -58,3 +98,250 @@ A bill to repeal the authorizations for use of military force against Iraq.
 - 2023-03-08 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2023-03-08 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
 - 2023-03-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.
+- 2023-03-14 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S765)
+- 2023-03-14 — Motion to proceed to consideration of measure made in Senate.
+- 2023-03-16 — 
+- 2023-03-16 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 68 - 27. Record Vote Number: 61.
+- 2023-03-16 — Motion to proceed to measure considered in Senate. (CR S815)
+- 2023-03-16 — Senate amendment submitted
+- 2023-03-16 — Senate amendment submitted
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — 
+- 2023-03-21 — Amendment SA 15 proposed by Senator Schumer. (consideration: CR S847) To add an effective date.
+- 2023-03-21 — Measure laid before Senate by motion.
+- 2023-03-21 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 67 - 28. Record Vote Number: 63.
+- 2023-03-21 — Motion to proceed to measure considered in Senate. (CR S847)
+- 2023-03-21 — Senate amendment proposed (on the floor): Amendment SA 15 proposed by Senator Schumer.(consideration: CR S847)
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-21 — Senate amendment submitted
+- 2023-03-22 — 
+- 2023-03-22 — 
+- 2023-03-22 — 
+- 2023-03-22 — 
+- 2023-03-22 — 
+- 2023-03-22 — 
+- 2023-03-22 — Amendment SA 14 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 66.
+- 2023-03-22 — Amendment SA 14 proposed by Senator Graham. (consideration: CR S902-903) To provide for more targeted authority under the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+- 2023-03-22 — Amendment SA 2 proposed by Senator Paul. (consideration: CR S902) To repeal the 2001 Authorization for Use of Military Force.
+- 2023-03-22 — Amendment SA 2 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 86. Record Vote Number: 65.
+- 2023-03-22 — Considered by Senate. (consideration: CR S887)
+- 2023-03-22 — Considered by Senate. (consideration: CR S887-903)
+- 2023-03-22 — Roll call votes on amendments in Senate: Amendment SA 14 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 66.
+- 2023-03-22 — Roll call votes on amendments in Senate: Amendment SA 2 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 86. Record Vote Number: 65.
+- 2023-03-22 — Senate amendment not agreed to: Amendment SA 14 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 66.
+- 2023-03-22 — Senate amendment not agreed to: Amendment SA 2 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 86. Record Vote Number: 65.
+- 2023-03-22 — Senate amendment proposed (on the floor): Amendment SA 14 proposed by Senator Graham.(consideration: CR S902-903)
+- 2023-03-22 — Senate amendment proposed (on the floor): Amendment SA 2 proposed by Senator Paul.(consideration: CR S902)
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-22 — Senate amendment submitted
+- 2023-03-23 — 
+- 2023-03-23 — 
+- 2023-03-23 — 
+- 2023-03-23 — 
+- 2023-03-23 — 
+- 2023-03-23 — Amendment SA 22 proposed by Senator Lee. (consideration: CR S922-923) To provide for the termination of authorizations for use of military force after two years.
+- 2023-03-23 — Amendment SA 22 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 19 - 76. Record Vote Number: 67.
+- 2023-03-23 — Amendment SA 4 proposed by Senator Thune for Senator Rubio. (consideration: CR S923) To require a certification.
+- 2023-03-23 — Amendment SA 4 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 68.
+- 2023-03-23 — Amendment SA 43 not agreed to in Senate by Yea-Nay Vote. 41 - 52. Record Vote Number: 69.
+- 2023-03-23 — Amendment SA 43 proposed by Senator Risch. (consideration: CR S927) To provide for a delayed, conditional repeal of the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+- 2023-03-23 — Cloture motion on the measure presented in Senate. (CR S929)
+- 2023-03-23 — Considered by Senate. (consideration: CR S917)
+- 2023-03-23 — Considered by Senate. (consideration: CR S917-925, S927-929)
+- 2023-03-23 — Roll call votes on amendments in Senate: Amendment SA 22 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 19 - 76. Record Vote Number: 67.
+- 2023-03-23 — Roll call votes on amendments in Senate: Amendment SA 4 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 68.
+- 2023-03-23 — Roll call votes on amendments in Senate: Amendment SA 43 not agreed to in Senate by Yea-Nay Vote. 41 - 52. Record Vote Number: 69.
+- 2023-03-23 — Senate amendment not agreed to: Amendment SA 22 under the order of 3/22/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 19 - 76. Record Vote Number: 67.
+- 2023-03-23 — Senate amendment not agreed to: Amendment SA 4 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 68.
+- 2023-03-23 — Senate amendment not agreed to: Amendment SA 43 not agreed to in Senate by Yea-Nay Vote. 41 - 52. Record Vote Number: 69.
+- 2023-03-23 — Senate amendment proposed (on the floor): Amendment SA 22 proposed by Senator Lee.(consideration: CR S922-923)
+- 2023-03-23 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Thune for Senator Rubio.(consideration: CR S923)
+- 2023-03-23 — Senate amendment proposed (on the floor): Amendment SA 43 proposed by Senator Risch.(consideration: CR S927)
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-23 — Senate amendment submitted
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — 
+- 2023-03-27 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 28. Record Vote Number: 70. (CR S950)
+- 2023-03-27 — Considered by Senate. (consideration: CR S943)
+- 2023-03-27 — Considered by Senate. (consideration: CR S943-950)
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-27 — Senate amendment submitted
+- 2023-03-28 — 
+- 2023-03-28 — Amendment SA 11 proposed by Senator Johnson. (consideration: CR S980-981) To require any convention, agreement, or other international instrument on pandemic prevention, preparedness, and response reached by the World Health Assembly to be subject to Senate ratification.
+- 2023-03-28 — Amendment SA 11 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 71.
+- 2023-03-28 — Amendment SA 13 proposed by Senator Scott FL. (consideration: CR S987-988) To establish a Joint Select Committee on Afghanistan to conduct a full investigation and compile a joint report on the United States withdrawal from Afghanistan.
+- 2023-03-28 — Amendment SA 13 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 33 - 62. Record Vote Number: 75.
+- 2023-03-28 — Amendment SA 30 proposed by Senator Ricketts. (consideration: CR S981-982) To require a certification.
+- 2023-03-28 — Amendment SA 30 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 31 - 65. Record Vote Number: 72.
+- 2023-03-28 — Amendment SA 33 proposed by Senator Sullivan. (consideration: CR S983-984) To provide that nothing shall be construed to hinder the ability of the United States to respond rapidly and decisively to any attacks by Iran or its proxy forces.
+- 2023-03-28 — Amendment SA 33 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 57. Record Vote Number: 74.
+- 2023-03-28 — Amendment SA 40 proposed by Senator Hawley. (consideration: CR S988-989) To establish the Office of the Special Inspector General for Ukraine Assistance.
+- 2023-03-28 — Amendment SA 40 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 68. Record Vote Number: 76.
+- 2023-03-28 — Amendment SA 9 proposed by Senator Cruz. (consideration: CR S982-983) To provide findings related to the President's constitutional authority to use military force to protect the United States and United States interests.
+- 2023-03-28 — Amendment SA 9 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 73.
+- 2023-03-28 — Considered by Senate. (consideration: CR S975)
+- 2023-03-28 — Considered by Senate. (consideration: CR S975-989)
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 11 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 71.
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 13 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 33 - 62. Record Vote Number: 75.
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 30 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 31 - 65. Record Vote Number: 72.
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 33 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 57. Record Vote Number: 74.
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 40 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 68. Record Vote Number: 76.
+- 2023-03-28 — Roll call votes on amendments in Senate: Amendment SA 9 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 73.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 11 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 71.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 13 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 33 - 62. Record Vote Number: 75.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 30 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 31 - 65. Record Vote Number: 72.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 33 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 57. Record Vote Number: 74.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 40 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 68. Record Vote Number: 76.
+- 2023-03-28 — Senate amendment not agreed to: Amendment SA 9 under the order of 3/23/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 55. Record Vote Number: 73.
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 11 proposed by Senator Johnson.(consideration: CR S980-981)
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 13 proposed by Senator Scott FL.(consideration: CR S987-988)
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 30 proposed by Senator Ricketts.(consideration: CR S981-982)
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 33 proposed by Senator Sullivan.(consideration: CR S983-984)
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 40 proposed by Senator Hawley.(consideration: CR S988-989)
+- 2023-03-28 — Senate amendment proposed (on the floor): Amendment SA 9 proposed by Senator Cruz.(consideration: CR S982-983)
+- 2023-03-28 — Senate amendment submitted
+- 2023-03-28 — Senate amendment submitted
+- 2023-03-29 — Considered by Senate. (consideration: CR S1007, S1016)
+- 2023-03-29 — Considered by Senate. (consideration: CR S1007-1016)
+- 2023-03-29 — Passed Senate without amendment by Yea-Nay Vote. 66 - 30. Record Vote Number: 77. (text: CR S1016)
+- 2023-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 66 - 30. Record Vote Number: 77.(text: CR S1016)
+- 2023-03-29 — Proposed amendment SA 15 withdrawn in Senate.
