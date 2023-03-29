@@ -1,0 +1,24 @@
+---
+legis-num: S. 1053
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1053
+
+> To amend title 5, United States Code, to limit the use of taxpayer funded union time for employees of the Internal Revenue Service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “IRS Customer Service Improvement Act”.
+
+## § 2. Limitation on taxpayer funded union official time for Internal Revenue Service employees
+
+- **(a)** *In general* Section 7131 of title 5, United States Code, is amended by adding at the end the following:
+  > - **(e)** The authority provided under subsection (d) shall not apply with respect to the Internal Revenue Service, or an employee of the Internal Revenue Service, during the periods each year—
+  >   - **(1)** beginning on February 12 and ending on May 5; and
+  >   - **(2)** beginning on September 1 and ending on November 1.
+
+- **(b)** *Conforming amendment* Section 7131(d) of title 5, United States Code, is amended, in the matter preceding paragraph (1), by striking “preceding” and inserting “other”.
+- **(c)** *Application* The amendments made by subsections (a) and (b) shall supersede the terms of any collective bargaining agreement (including a collective bargaining agreement that is in effect, as of the date of enactment of this Act) that are inconsistent with those amendments.
