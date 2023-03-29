@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 76
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 76
@@ -31,3 +31,7 @@ A resolution expressing deepest condolences to and solidarity with the people of
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Referred to the Committee on Foreign Relations.
+- 2023-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1044; text: 02/16/2023 CR S464)
+- 2023-03-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1044; text: 02/16/2023 CR S464)
+- 2023-03-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2023-03-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
