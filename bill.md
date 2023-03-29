@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 1953
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1953
+
+> To provide for a limitation on availability of funds for Department of Health and Human Services, Health Resources and Services Administration Primary Health Care for fiscal year 2024.
+
+## § 1. limitation on availability of funds for Department of Health and Human Services, Health Resources and Services Administration Primary Health Care for fiscal year 2024
+
+Notwithstanding any other provision of the law, amounts authorized to be appropriated or otherwise available for Department of Health and Human Services, Health Resources and Services Administration Primary Health Care for fiscal year 2024 may not exceed $1,626,522,000.
