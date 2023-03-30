@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1376
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1376
@@ -43,3 +43,11 @@ COVID–19 Origin Act of 2023
 - 2023-03-03 — Introduced in House
 - 2023-03-03 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-03 — Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-03-07 — Committee Consideration and Mark-up Session Held.
+- 2023-03-07 — Ordered to be Reported by Voice Vote.
+- 2023-03-10 — Referred to the Subcommittee on Health.
+- 2023-03-30 — Committee on Energy and Commerce discharged.
+- 2023-03-30 — Committee on Energy and Commerce discharged.
+- 2023-03-30 — Placed on the Union Calendar, Calendar No. 20.
+- 2023-03-30 — Reported by the Committee on Intelligence. H. Rept. 118-32, Part I.
+- 2023-03-30 — Reported by the Committee on Intelligence. H. Rept. 118-32, Part I.
