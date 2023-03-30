@@ -1,7 +1,7 @@
 ---
 measure: S. 777
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 777
@@ -16,7 +16,7 @@ Veterans' COLA Act of 2023
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
@@ -28,6 +28,7 @@ Veterans' COLA Act of 2023
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Rounds, Mike [R-SD] (R000605)
 
 ## Committees (1)
 
@@ -37,3 +38,10 @@ Veterans' COLA Act of 2023
 
 - 2023-03-14 — Introduced in Senate
 - 2023-03-14 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-03-30 — Held at the desk.
+- 2023-03-30 — Message on Senate action sent to the House.
+- 2023-03-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1066-1067; text: CR S1066)
+- 2023-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1066-1067; text: CR S1066)
+- 2023-03-30 — Received in the House.
+- 2023-03-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-03-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
