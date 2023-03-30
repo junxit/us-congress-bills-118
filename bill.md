@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 2444
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2444
+
+> To amend the Fair Credit Reporting Act to require nationwide consumer reporting agencies, upon request, to use a consumer’s current legal name on consumer reports, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Name Accuracy in Credit Reporting Act”.
+
+## § 2. Requirement to use a consumer’s current legal name on consumer reports
+
+Section 605(a) of the Fair Credit Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at the end the following:
+
+> - **(9)** With respect to a consumer reporting agency described in section 603(p), any prior name of the consumer about whom the report relates, other than the consumer’s current legal name, after receiving a request from the consumer to use only the consumer’s current legal name on all consumer reports.
