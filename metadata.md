@@ -1,7 +1,7 @@
 ---
 measure: S. 777
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 777
@@ -16,7 +16,7 @@ Veterans' COLA Act of 2023
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
@@ -29,6 +29,7 @@ Veterans' COLA Act of 2023
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -45,3 +46,15 @@ Veterans' COLA Act of 2023
 - 2023-03-30 — Received in the House.
 - 2023-03-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
 - 2023-03-30 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-05-22 — Considered under suspension of the rules. (consideration: CR H2479-2481)
+- 2023-05-22 — DEBATE - The House proceeded with forty minutes of debate on S. 777.
+- 2023-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-22 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2023-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2479)
+- 2023-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2479)
+- 2023-06-07 — Presented to President.
+- 2023-06-07 — Presented to President.
+- 2023-06-14 — Became Public Law No: 118-6.
+- 2023-06-14 — Became Public Law No: 118-6.
+- 2023-06-14 — Signed by President.
+- 2023-06-14 — Signed by President.
