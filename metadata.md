@@ -1,7 +1,7 @@
 ---
 measure: S. 659
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 659
@@ -28,3 +28,7 @@ Administrative False Claims Act of 2023
 
 - 2023-03-06 — Introduced in Senate
 - 2023-03-06 — Read twice and referred to the Committee on the Judiciary.
+- 2023-03-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1081-1082; text: CR S1081-1082)
+- 2023-03-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1081-1082; text: CR S1081-1082)
+- 2023-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
