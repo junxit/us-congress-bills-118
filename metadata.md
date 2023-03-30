@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 120
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 120
@@ -16,7 +16,7 @@ A resolution designating March 23, 2023, as "National Women in Agriculture Day".
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (58)
+## Cosponsors (59)
 
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Hagerty, Bill [R-TN] (H000601)
@@ -76,6 +76,7 @@ A resolution designating March 23, 2023, as "National Women in Agriculture Day".
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Scott, Tim [R-SC] (S001184)
 
 ## Committees (1)
 
@@ -85,3 +86,7 @@ A resolution designating March 23, 2023, as "National Women in Agriculture Day".
 
 - 2023-03-23 — Introduced in Senate
 - 2023-03-23 — Referred to the Committee on the Judiciary.
+- 2023-03-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1081; text: 03/23/2023 CR S936)
+- 2023-03-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1081; text: 03/23/2023 CR S936)
+- 2023-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
