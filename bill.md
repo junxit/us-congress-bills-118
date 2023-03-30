@@ -1,0 +1,25 @@
+---
+legis-num: S. 1133
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1133
+
+> To amend the Public Health Service Act to clarify rules relating to drug discounts for covered entities.
+
+## § 1. Short title
+
+This Act may be cited as the “340B Accountability Act of 2023”.
+
+## § 2. Drug discounts and audits for covered entities
+
+Section 340B(a)(5)(C) of the Public Health Service Act (42 U.S.C. 256b(a)(5)(C)) is amended—
+
+- **(1)** by striking “A covered entity shall permit” and inserting the following:
+  > - **(i)** *Duplicate discounts and drug resale* A covered entity shall permit
+
+- **(2)** by adding at the end the following:
+  > - **(i)** *Use of savings* A covered entity shall permit the Secretary to audit, at the Secretary's expense, the records of the entity to determine how net income from purchases under this section are used by the covered entity.
+  > - **(ii)** *Records retention* A covered entity shall retain such records and provide such records and reports as determined necessary by the Secretary for carrying out this subparagraph.
