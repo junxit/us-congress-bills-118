@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-143 amendatory instructions. 50 executed, 93 stated and not applied.
+169 amendatory instructions. 53 executed, 116 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `the Commission has conducted hearings and made the findings required under section 202(e) of the Federal Power Act` |
 | Inserted | `the Secretary has conducted hearings and finds that the proposed transmission facilities would not impair the sufficiency of electric supply within the United States or would not impede or tend to impede the coordination in the public interest of facilities subject to the jurisdiction of the Secretary.` |
+
+### 42 U.S.C. § 300h-1
+
+> by striking “Within ninety days” and inserting “(A) Within ninety days”;
+
+| | |
+|---|---|
+| Removed | `Within ninety days` |
+| Inserted | `(A) Within ninety days` |
 
 ### 43 U.S.C. § 1344
 
@@ -105,6 +114,15 @@ to guess them.
 | Removed | `to be an action that is categorically excluded (as defined in section 1508.1 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act))` |
 | Inserted | `to not be a major Federal action` |
 
+### 43 U.S.C. § 1772
+
+> Section 512(a)(1)(B)(ii) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1772(a)(1)(B)(ii)) is amended by striking “10” and inserting “50”.
+
+| | |
+|---|---|
+| Removed | `10` |
+| Inserted | `50` |
+
 ### 30 U.S.C. § 1607
 
 > in the section heading, by striking “Critical minerals” and inserting “Minerals”;
@@ -158,6 +176,15 @@ to guess them.
 |---|---|
 | Removed | `mineral-related activities on Federal land` |
 | Inserted | `mineral projects` |
+
+### 42 U.S.C. § 4370m
+
+> in clause (iii)(III), by striking “; or” and inserting “;”;
+
+| | |
+|---|---|
+| Removed | `; or` |
+| Inserted | `;` |
 
 ### 43 U.S.C. § 1337
 
@@ -505,6 +532,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7434` | repeal | Section 60103 of Public Law 117–169 (relating to the greenhouse gas reduction fund) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18795a` | repeal | The following are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18795` | strike | Section 50121(c)(7) of Public Law 117–169 (42 U.S.C. 18795(c)(7)) is amended by striking “, including a rebate provided under a high-efficiency electric home rebate program (as defined in section 50122(d)),”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300h-1` | strike | by striking “and after reasonable opportunity for presentation of views”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300h-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300h-1` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300h-9` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6240` | redesignate | by redesignating paragraphs (1) through (6) as clauses (i) through (vi), respectively (and adjusting the margins accordingly); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6240` | replace | by striking “The Secretary shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6240` | replace | by striking “Such procedures shall take into account the need to—” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 6243` | insert | The Energy Policy and Conservation Act is amended by inserting after section 163 (42 U.S.C. 6243) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6241` | insert | Section 161(a) of the Energy Policy and Conservation Act (42 U.S.C. 6241(a)) is amended by inserting “and section 164” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 6241` | insert | The table of contents for the Energy Policy and Conservation Act is amended by inserting after the item relating to section 163 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | insert | Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by inserting “Eligible lands comprise all lands subject to leasing under this Act and not excluded from leasing by a statutory or regulatory prohibition. … | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 226` | insert | Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by inserting “The Secretary shall resolve any protest to a lease sale not later than 60 days after such payment.” after “annual rental for the first lease… | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 226` | add-at-end | Section 17 of the Mineral Leasing Act (30 U.S.C. 226) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -533,6 +570,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 15942` | amend | Section 390 of the Energy Policy Act of 2005 (42 U.S.C. 15942) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | add-at-end | Section 17 of the Mineral Leasing Act (30 U.S.C. 226) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1001` | add-at-end | The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 139(l) of title 23, United States Code, is amended by striking “150 days” each place it appears and inserting “90 days”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(A), by striking “150 days” and inserting “90 days”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(B)(i), by striking “150 days” and inserting “90 days”. | the bill names no machine-readable US Code section |
+| — | strike | Section 24201(a)(4) of title 49, United States Code, is amended by striking “of 150 days”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 4321` | add-at-end | Chapter 601 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | The analysis for chapter 601 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1772` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1772` | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1772` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1772` | amend | Clause (iv) of section 512(c)(4)(A) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1772(c)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1607` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1607` | strike | in subsection (b), by striking “critical” each place such term appears; | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 1607` | insert | by inserting “, and in accordance with subsection (h)” after “to the maximum extent practicable”; | the bill quotes the text inserted but describes where it goes |
@@ -548,6 +595,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4370m` | insert | Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “mineral production,” before “or any other sector”. | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 28f` | add-at-end | Section 10101 of the Omnibus Budget Reconciliation Act of 1993 (30 U.S.C. 28f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1606` | amend | Section 7002(a)(3)(B)(i) of the Energy Act of 2020 (30 U.S.C. 1606(a)(3)(B)(i)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | replace | in clause (iv)(II), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4370m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 226` | strike | by striking “or, in the case of a lease issued during the 10-year period beginning on the date of enactment of the Act titled An Act to provide for reconciliation pursuant to title II of S. Con. Res. 14, 162/3 percent in amount or value … | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 188` | replace | Section 31(e)(3) of the Mineral Leasing Act (30 U.S.C. 188(e)(3)) is amended by striking “20” inserting “162/3”. | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `30 U.S.C. § 226` | amend | Section 17(d) of the Mineral Leasing Act (30 U.S.C. 226(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -576,3 +625,4 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1341` | insert | by inserting after the fourth sentence the following: “Not later than 30 days after the date of enactment of the Water Quality Certification and Energy Project Improvement Act of 2023, each State and interstate agency that has authority … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1341` | replace | by striking the first sentence and inserting “On receipt of a request for certification, the certifying State or interstate agency, as applicable, shall immediately notify the Administrator of the request.”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1341` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | add-at-end | Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

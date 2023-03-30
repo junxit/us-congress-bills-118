@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1
@@ -16,11 +16,57 @@ Lower Energy Costs Act
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Cosponsors (3)
+## Cosponsors (49)
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Graves, Garret [R-LA-6] (G000577)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
 ## Committees (5)
 
@@ -29,6 +75,25 @@ Lower Energy Costs Act
 - House — Transportation and Infrastructure Committee
 - House — Budget Committee
 - House — Agriculture Committee
+
+## Recorded votes (16)
+
+- 2023-03-29 — [House 118-1-167](votes/house-118-1-0167.md) — On Agreeing to the Amendment — **Agreed to** (221–208)
+- 2023-03-29 — [House 118-1-168](votes/house-118-1-0168.md) — On Agreeing to the Amendment — **Agreed to** (228–206)
+- 2023-03-29 — [House 118-1-169](votes/house-118-1-0169.md) — On Agreeing to the Amendment — **Agreed to** (245–189)
+- 2023-03-29 — [House 118-1-170](votes/house-118-1-0170.md) — On Agreeing to the Amendment — **Agreed to** (268–163)
+- 2023-03-29 — [House 118-1-171](votes/house-118-1-0171.md) — On Agreeing to the Amendment — **Agreed to** (251–181)
+- 2023-03-29 — [House 118-1-172](votes/house-118-1-0172.md) — On Agreeing to the Amendment — **Failed** (210–223)
+- 2023-03-29 — [House 118-1-173](votes/house-118-1-0173.md) — On Agreeing to the Amendment — **Failed** (96–336)
+- 2023-03-30 — [House 118-1-174](votes/house-118-1-0174.md) — On Agreeing to the Amendment — **Agreed to** (407–26)
+- 2023-03-30 — [House 118-1-175](votes/house-118-1-0175.md) — On Agreeing to the Amendment — **Agreed to** (323–109)
+- 2023-03-30 — [House 118-1-176](votes/house-118-1-0176.md) — On Agreeing to the Amendment — **Failed** (205–228)
+- 2023-03-30 — [House 118-1-177](votes/house-118-1-0177.md) — On Agreeing to the Amendment — **Agreed to** (405–24)
+- 2023-03-30 — [House 118-1-178](votes/house-118-1-0178.md) — On Agreeing to the Amendment — **Failed** (201–230)
+- 2023-03-30 — [House 118-1-179](votes/house-118-1-0179.md) — On Agreeing to the Amendment — **Agreed to** (244–189)
+- 2023-03-30 — [House 118-1-180](votes/house-118-1-0180.md) — On Agreeing to the Amendment — **Agreed to** (220–213)
+- 2023-03-30 — [House 118-1-181](votes/house-118-1-0181.md) — On Motion to Recommit — **Failed** (207–222)
+- 2023-03-30 — [House 118-1-182](votes/house-118-1-0182.md) — On Passage — **Passed** (225–204)
 
 ## Actions
 
@@ -39,3 +104,323 @@ Lower Energy Costs Act
 - 2023-03-14 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Agriculture, Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-14 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Agriculture, Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-14 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, Agriculture, Transportation and Infrastructure, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-03-15 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2023-03-15 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-03-15 — Referred to the Subcommittee on Highways and Transit.
+- 2023-03-15 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2023-03-15 — Referred to the Subcommittee on Water Resources and Environment.
+- 2023-03-24 — Referred to the Subcommittee on Energy, Climate and Grid Security.
+- 2023-03-28 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2023-03-28 — Considered under the provisions of rule H. Res. 260. (consideration: CR H1485-1516)
+- 2023-03-28 — GENERAL DEBATE - The Committee of the Whole proceeded with seven hours of general debate on H.R. 1.
+- 2023-03-28 — GENERAL DEBATE - The Committee of the Whole resumed with debate on H.R. 1.
+- 2023-03-28 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 260 and Rule XVIII.
+- 2023-03-28 — Mr. Rouzer moved that the committee rise.
+- 2023-03-28 — On motion that the committee rise Agreed to by voice vote.
+- 2023-03-28 — Rule H. Res. 260 passed House.
+- 2023-03-28 — Rule provides for consideration of H.R. 1 with 7 hours of general debate. Motion to recommit allowed. Measure will be considered read. Specified amendments are in order.
+- 2023-03-28 — Rules Committee Resolution H. Res. 260 Reported to House. Rule provides for consideration of H.R. 1 with 7 hours of general debate. Motion to recommit allowed. Measure will be considered read. Specified amendments are in order.
+- 2023-03-28 — The Speaker designated the Honorable Darrell Issa to act as Chairman of the Committee.
+- 2023-03-29 — Amendment (A002) offered by Mr. Donalds. (consideration: CR H1584; text: CR H1584)
+- 2023-03-29 — Amendment (A003) offered by Mrs. Boebert. (consideration: CR H1584-1585, H1597; text: CR H1584)
+- 2023-03-29 — Amendment (A004) offered by Mr. Crenshaw. (consideration: CR H1585-1586; text: CR H1585)
+- 2023-03-29 — Amendment (A005) offered by Mr. Estes. (consideration: CR H1586-1587; text: CR H1586)
+- 2023-03-29 — Amendment (A006) offered by Mr. Hern. (consideration: CR H1587-1588, H1597-1598; text: CR H1587)
+- 2023-03-29 — Amendment (A007) offered by Ms. Houlahan. (consideration: CR H1588-1589; text: CR H1588)
+- 2023-03-29 — Amendment (A008) offered by Mr. Jackson (TX). (consideration: CR H1589-1590, H1598-1599; text: CR H1589)
+- 2023-03-29 — Amendment (A009) offered by Ms. Mace. (consideration: CR H1590; text: CR H1590)
+- 2023-03-29 — Amendment (A010) offered by Mr. Molinaro. (consideration: CR H1590-1591, H1599; text: CR H1590)
+- 2023-03-29 — Amendment (A011) offered by Mr. Palmer. (consideration: CR H1591-1592, H1599-1600; text: CR H1591)
+- 2023-03-29 — Amendment (A012) offered by Mr. Perry. (consideration: CR H1592-1593, H1600-1601; text: CR H1592)
+- 2023-03-29 — Amendment (A013) offered by Mr. Perry. (consideration: CR H1593-1595, H1601; text: CR H1593)
+- 2023-03-29 — Amendment (A014) offered by Mr. Roy. (consideration: CR H1595-1596; text: CR H1595)
+- 2023-03-29 — Amendment (A015) offered by Mr. Barr. (consideration: CR H1596-1597; text: CR H1596)
+- 2023-03-29 — Amendment (A016) offered by Mrs. Boebert. (consideration: CR H1602-1603; text: CR H1602)
+- 2023-03-29 — Amendment (A017) offered by Mr. Crawford. (consideration: CR H1603-1604; text: CR H1603)
+- 2023-03-29 — Amendment (A018) offered by Mr. Donalds. (consideration: CR H1604-1605; text: CR H1604)
+- 2023-03-29 — Amendment (A019) offered by Mr. Grijalva. (consideration: CR H1605; text: CR H1605)
+- 2023-03-29 — Amendment (A020) offered by Mr. Westerman. (consideration: CR H1605-1606; text: CR H1605)
+- 2023-03-29 — Amendment (A021) offered by Ms. Perez. (consideration: CR H1606-1607; text: CR H1606)
+- 2023-03-29 — Amendment (A022) offered by Mr. Westerman. (consideration: CR H1607-1608; text: CR H1607)
+- 2023-03-29 — Amendment (A023) offered by Mr. LaMalfa. (consideration: CR H1608-1609; text: CR H1608)
+- 2023-03-29 — Amendment (A024) offered by Mr. LaMalfa. (consideration: CR H1609-1610; text: CR H1609)
+- 2023-03-29 — Amendment (A025) offered by Ms. Leger Fernandez. (consideration: CR H1610-1611; text: CR H1610)
+- 2023-03-29 — Amendment (A026) offered by Mr. Levin. (consideration: CR H1611-1612; text: CR H1611)
+- 2023-03-29 — Amendment (A027) offered by Mr. Levin. (consideration: CR H1612-1613; text: CR H1612)
+- 2023-03-29 — Amendment (A028) offered by Mrs. Luna. (consideration: CR H1613-1614; text: CR H1613-1614)
+- 2023-03-29 — Amendment (A029) offered by Mrs. Luna. (consideration: CR H1614-1615; text: CR H1615)
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment agreed to Committee of the Whole
+- 2023-03-29 — Amendment failed in Committee of the Whole
+- 2023-03-29 — Amendment failed in Committee of the Whole
+- 2023-03-29 — Amendment failed in Committee of the Whole
+- 2023-03-29 — Amendment failed in Committee of the Whole
+- 2023-03-29 — Amendment reported by the House Committee on Rules.
+- 2023-03-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2023-03-29 — Considered as unfinished business. (consideration: CR H1542-1615)
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 15.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 16.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 2.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment No. 17.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Crenshaw amendment No. 3.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Donalds amendment No. 1.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Donalds amendment No. 18.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Estes amendment No. 4.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 19.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Hern amendment No. 5.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 6.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson (TX) amendment No. 7.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 23.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 24.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Leger Fernandez amendment No. 25.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Levin amendment No. 26.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Levin amendment No. 27.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 28.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 29.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 8.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Molinaro amendment No. 9.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 10.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perez amendment No. 21.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 11.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 12.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 13.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 20.
+- 2023-03-29 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 22.
+- 2023-03-29 — GENERAL DEBATE - The Committee of the Whole resumed with 3 hours remaining on general debate for H.R. 1.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Barr amendment (A015) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Boebert amendment (A003) Agreed to by recorded vote: 221 - 208 (Roll no. 167).
+- 2023-03-29 — House amendment agreed to: On agreeing to the Boebert amendment (A016) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Crawford amendment (A017) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Crenshaw amendment (A004) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Donalds amendment (A002) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Donalds amendment (A018) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Estes amendment (A005) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Hern amendment (A006) Agreed to by recorded vote: 228 - 206 (Roll no. 168).
+- 2023-03-29 — House amendment agreed to: On agreeing to the Houlahan amendment (A007) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Jackson (TX) amendment (A008) Agreed to by recorded vote: 245 - 189 (Roll no. 169).
+- 2023-03-29 — House amendment agreed to: On agreeing to the LaMalfa amendment (A023) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the LaMalfa amendment (A024) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Luna amendment (A028) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Luna amendment (A029) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Mace amendment (A009) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Molinaro amendment (A010) Agreed to by recorded vote: 268 - 163 (Roll no. 170).
+- 2023-03-29 — House amendment agreed to: On agreeing to the Palmer amendment (A011) Agreed to by recorded vote: 251 - 181 (Roll no. 171).
+- 2023-03-29 — House amendment agreed to: On agreeing to the Perez amendment (A021) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Roy amendment (A014) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2023-03-29 — House amendment agreed to: On agreeing to the Westerman amendment (A022) Agreed to by voice vote.
+- 2023-03-29 — House amendment not agreed to: On agreeing to the Grijalva amendment (A019) Failed by voice vote.
+- 2023-03-29 — House amendment not agreed to: On agreeing to the Levin amendment (A027) Failed by voice vote.
+- 2023-03-29 — House amendment not agreed to: On agreeing to the Perry amendment (A012) Failed by recorded vote: 210 - 223 (Roll no. 172).
+- 2023-03-29 — House amendment not agreed to: On agreeing to the Perry amendment (A013) Failed by recorded vote: 96 - 336 (Roll no. 173).
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered
+- 2023-03-29 — House amendment offered/reported by: Amendment (A002) offered by Mr. Donalds.(consideration: CR H1584; text: CR H1584)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Boebert.(consideration: CR H1584-1585, H1597; text: CR H1584)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A004) offered by Mr. Crenshaw.(consideration: CR H1585-1586; text: CR H1585)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A005) offered by Mr. Estes.(consideration: CR H1586-1587; text: CR H1586)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A006) offered by Mr. Hern.(consideration: CR H1587-1588, H1597-1598; text: CR H1587)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A007) offered by Ms. Houlahan.(consideration: CR H1588-1589; text: CR H1588)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A008) offered by Mr. Jackson (TX).(consideration: CR H1589-1590, H1598-1599; text: CR H1589)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A009) offered by Ms. Mace.(consideration: CR H1590; text: CR H1590)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A010) offered by Mr. Molinaro.(consideration: CR H1590-1591, H1599; text: CR H1590)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A011) offered by Mr. Palmer.(consideration: CR H1591-1592, H1599-1600; text: CR H1591)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A012) offered by Mr. Perry.(consideration: CR H1592-1593, H1600-1601; text: CR H1592)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A013) offered by Mr. Perry.(consideration: CR H1593-1595, H1601; text: CR H1593)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A014) offered by Mr. Roy.(consideration: CR H1595-1596; text: CR H1595)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A015) offered by Mr. Barr.(consideration: CR H1596-1597; text: CR H1596)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A016) offered by Mrs. Boebert.(consideration: CR H1602-1603; text: CR H1602)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A017) offered by Mr. Crawford.(consideration: CR H1603-1604; text: CR H1603)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A018) offered by Mr. Donalds.(consideration: CR H1604-1605; text: CR H1604)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A019) offered by Mr. Grijalva.(consideration: CR H1605; text: CR H1605)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A020) offered by Mr. Westerman.(consideration: CR H1605-1606; text: CR H1605)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A021) offered by Ms. Perez.(consideration: CR H1606-1607; text: CR H1606)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A022) offered by Mr. Westerman.(consideration: CR H1607-1608; text: CR H1607)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A023) offered by Mr. LaMalfa.(consideration: CR H1608-1609; text: CR H1608)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A024) offered by Mr. LaMalfa.(consideration: CR H1609-1610; text: CR H1609)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A025) offered by Ms. Leger Fernandez.(consideration: CR H1610-1611; text: CR H1610)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A026) offered by Mr. Levin.(consideration: CR H1611-1612; text: CR H1611)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A027) offered by Mr. Levin.(consideration: CR H1612-1613; text: CR H1612)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A028) offered by Mrs. Luna.(consideration: CR H1613-1614; text: CR H1613-1614)
+- 2023-03-29 — House amendment offered/reported by: Amendment (A029) offered by Mrs. Luna.(consideration: CR H1614-1615; text: CR H1615)
+- 2023-03-29 — MOMENT OF SILENCE - Mr. Kelly (MS) asked unanimous consent to speak out of order for one minute to remember the victims of the severe weather and tornado outbreaks in Mississippi.
+- 2023-03-29 — Mr. Westerman moved that the committee rise.
+- 2023-03-29 — On agreeing to the Barr amendment (A015) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Boebert amendment (A003) Agreed to by recorded vote: 221 - 208 (Roll no. 167).
+- 2023-03-29 — On agreeing to the Boebert amendment (A016) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Crawford amendment (A017) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Crenshaw amendment (A004) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Donalds amendment (A002) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Donalds amendment (A018) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Estes amendment (A005) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Grijalva amendment (A019) Failed by voice vote.
+- 2023-03-29 — On agreeing to the Hern amendment (A006) Agreed to by recorded vote: 228 - 206 (Roll no. 168).
+- 2023-03-29 — On agreeing to the Houlahan amendment (A007) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Jackson (TX) amendment (A008) Agreed to by recorded vote: 245 - 189 (Roll no. 169).
+- 2023-03-29 — On agreeing to the LaMalfa amendment (A023) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the LaMalfa amendment (A024) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Levin amendment (A027) Failed by voice vote.
+- 2023-03-29 — On agreeing to the Luna amendment (A028) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Luna amendment (A029) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Mace amendment (A009) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Molinaro amendment (A010) Agreed to by recorded vote: 268 - 163 (Roll no. 170).
+- 2023-03-29 — On agreeing to the Palmer amendment (A011) Agreed to by recorded vote: 251 - 181 (Roll no. 171).
+- 2023-03-29 — On agreeing to the Perez amendment (A021) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Perry amendment (A012) Failed by recorded vote: 210 - 223 (Roll no. 172).
+- 2023-03-29 — On agreeing to the Perry amendment (A013) Failed by recorded vote: 96 - 336 (Roll no. 173).
+- 2023-03-29 — On agreeing to the Roy amendment (A014) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Rules amendment (A001) Agreed to by voice vote.
+- 2023-03-29 — On agreeing to the Westerman amendment (A022) Agreed to by voice vote.
+- 2023-03-29 — On motion that the committee rise Agreed to by voice vote.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hern amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson (TX) amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Jackson (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Leger Fernandez amendment No. 25, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Leger Fernandez demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Levin amendment No. 26, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Levin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Molinaro mendment No. 9, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayed had prevailed. Mr. Molinaro demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Palmer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Molinaro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Armstrong demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Westerman amendment No. 20, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Westerman demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — Roll call votes on amendments in House
+- 2023-03-29 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-03-30 — Amendment (A030) offered by Mr. Ogles. (consideration: CR H1662-1663; text: CR H1662)
+- 2023-03-30 — Amendment (A031) offered by Mr. Ogles. (consideration: CR H1663-1664; text: CR H1663-1664)
+- 2023-03-30 — Amendment (A032) offered by Mr. Perry. (consideration: CR H1665; text: CR H1665)
+- 2023-03-30 — Amendment (A033) offered by Mr. Perry. (consideration: CR H1665-1666; text: CR H1665)
+- 2023-03-30 — Amendment (A034) offered by Mr. Perry. (consideration: CR H1666-1668; text: CR H1666-1667)
+- 2023-03-30 — Amendment (A035) offered by Mr. Smith (NJ). (consideration: CR H1668-1669; text: CR H1668)
+- 2023-03-30 — Amendment (A036) offered by Mr. Van Drew. (consideration: CR H1669-1670; text: CR H1669)
+- 2023-03-30 — Amendment (A037) offered by Mr. Graves (LA). (consideration: CR H1670-1672; text: CR H1670)
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment agreed to Committee of the Whole
+- 2023-03-30 — Amendment failed in Committee of the Whole
+- 2023-03-30 — Amendment failed in Committee of the Whole
+- 2023-03-30 — Considered as unfinished business. (consideration: CR H1662-1678)
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (LA) amendment No. 37.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 30.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 31.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 32.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 33.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 34.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NJ) amendment No. 35.
+- 2023-03-30 — DEBATE - Pursuant to the provisions of H. Res. 260, the Committee of the Whole proceeded with 10 minutes of debate on the Van Drew amendment No. 36.
+- 2023-03-30 — House amendment agreed to: On agreeing to the Graves (LA) amendment (A037) Agreed to by voice vote.
+- 2023-03-30 — House amendment agreed to: On agreeing to the Leger Fernandez amendment (A025) Agreed to by recorded vote: 323 - 109 (Roll no. 175).(consideration: CR H1673-1674)
+- 2023-03-30 — House amendment agreed to: On agreeing to the Ogles amendment (A030) Agreed to by voice vote.
+- 2023-03-30 — House amendment agreed to: On agreeing to the Ogles amendment (A031) Agreed to by recorded vote: 405 - 24 (Roll no. 177).(consideration: CR H1674-1675)
+- 2023-03-30 — House amendment agreed to: On agreeing to the Perry amendment (A032) Agreed to by voice vote.
+- 2023-03-30 — House amendment agreed to: On agreeing to the Perry amendment (A033) Agreed to by voice vote.
+- 2023-03-30 — House amendment agreed to: On agreeing to the Smith (NJ) amendment (A035) Agreed to by recorded vote: 244 - 189 (Roll no. 179).(consideration: CR H1676)
+- 2023-03-30 — House amendment agreed to: On agreeing to the Van Drew amendment (A036) Agreed to by recorded vote: 220 - 213 (Roll no. 180).(consideration: CR H1676-1677)
+- 2023-03-30 — House amendment agreed to: On agreeing to the Westerman amendment (A020) Agreed to by recorded vote: 407 - 26 (Roll no. 174).(consideration: CR H1672-1673)
+- 2023-03-30 — House amendment not agreed to: On agreeing to the Levin amendment (A026) Failed by recorded vote: 205 - 228 (Roll no. 176).(consideration: CR H1674)
+- 2023-03-30 — House amendment not agreed to: On agreeing to the Perry amendment (A034) Failed by recorded vote: 201 - 230 (Roll no. 178).(consideration: CR H1675-1676)
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered
+- 2023-03-30 — House amendment offered/reported by: Amendment (A030) offered by Mr. Ogles.(consideration: CR H1662-1663; text: CR H1662)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A031) offered by Mr. Ogles.(consideration: CR H1663-1664; text: CR H1663-1664)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A032) offered by Mr. Perry.(consideration: CR H1665; text: CR H1665)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A033) offered by Mr. Perry.(consideration: CR H1665-1666; text: CR H1665)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A034) offered by Mr. Perry.(consideration: CR H1666-1668; text: CR H1666-1667)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A035) offered by Mr. Smith (NJ).(consideration: CR H1668-1669; text: CR H1668)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A036) offered by Mr. Van Drew.(consideration: CR H1669-1670; text: CR H1669)
+- 2023-03-30 — House amendment offered/reported by: Amendment (A037) offered by Mr. Graves (LA).(consideration: CR H1670-1672; text: CR H1670)
+- 2023-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-03-30 — Ms. Porter moved to recommit to the Committee on Natural Resources. (text: CR H1677)
+- 2023-03-30 — On agreeing to the Graves (LA) amendment (A037) Agreed to by voice vote.
+- 2023-03-30 — On agreeing to the Leger Fernandez amendment (A025) Agreed to by recorded vote: 323 - 109 (Roll no. 175). (consideration: CR H1673-1674)
+- 2023-03-30 — On agreeing to the Levin amendment (A026) Failed by recorded vote: 205 - 228 (Roll no. 176). (consideration: CR H1674)
+- 2023-03-30 — On agreeing to the Ogles amendment (A030) Agreed to by voice vote.
+- 2023-03-30 — On agreeing to the Ogles amendment (A031) Agreed to by recorded vote: 405 - 24 (Roll no. 177). (consideration: CR H1674-1675)
+- 2023-03-30 — On agreeing to the Perry amendment (A032) Agreed to by voice vote.
+- 2023-03-30 — On agreeing to the Perry amendment (A033) Agreed to by voice vote.
+- 2023-03-30 — On agreeing to the Perry amendment (A034) Failed by recorded vote: 201 - 230 (Roll no. 178). (consideration: CR H1675-1676)
+- 2023-03-30 — On agreeing to the Smith (NJ) amendment (A035) Agreed to by recorded vote: 244 - 189 (Roll no. 179). (consideration: CR H1676)
+- 2023-03-30 — On agreeing to the Van Drew amendment (A036) Agreed to by recorded vote: 220 - 213 (Roll no. 180). (consideration: CR H1676-1677)
+- 2023-03-30 — On agreeing to the Westerman amendment (A020) Agreed to by recorded vote: 407 - 26 (Roll no. 174). (consideration: CR H1672-1673)
+- 2023-03-30 — On motion to recommit Failed by the Yeas and Nays: 207 - 222 (Roll no. 181).
+- 2023-03-30 — On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 182).
+- 2023-03-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 31, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 34, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Garbarino demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2023-03-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (NJ) amendment No. 35, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Drew amendment No. 36, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-03-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 204 (Roll no. 182).
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — Roll call votes on amendments in House
+- 2023-03-30 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1.
+- 2023-03-30 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-03-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-03-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1.
+- 2023-03-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-03-30 — The previous question was ordered pursuant to the rule.
