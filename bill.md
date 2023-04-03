@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 2466
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2466
+
+> To amend title 49, United States Code, to require the Secretary of Transportation to consider the cost of providing basic essential air service when selecting applicants for the essential air service program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Essential Air Service Reform Act”.
+
+## § 2. Basic essential air service
+
+Section 41732(b) of title 49, United States Code, is amended—
+
+- **(1)** by striking paragraph (5); and
+- **(2)** by redesignating paragraph (6) as paragraph (5).
+
+## § 3. Availability of compensation
+
+Section 41733(c)(1) of title 49, United States Code, is amended—
+
+- **(1)** in subparagraph (D) by striking “, giving substantial weight to the views of the elected officials representing the users”;
+- **(2)** in subparagraph (E) by striking “and” at the end;
+- **(3)** in subparagraph (F) by striking the period at the end and inserting “; and”’ and
+- **(4)** by adding at the end the following:
+  > - **(G)** the overall cost of the bid submitted by the applicant to provide basic essential air service to the eligible place.
+
+## § 4. Notification to Congress
+
+Upon entering into an essential air service contract with an air carrier under subchapter II of chapter 417 of title 49, United States Code, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a notification that the Secretary has entered into such contract and an explanation for awarding such contract.
