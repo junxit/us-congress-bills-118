@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 42
@@ -16,7 +16,7 @@ Disapproving the action of the District of Columbia Council in approving the Com
 
 - Rep. Clyde, Andrew S. [R-GA-9] (C001116)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Rep. Luna, Anna Paulina [R-FL-13] (L000596)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -35,6 +35,8 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. Comer, James [R-KY-1] (C001108)
 - Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
 
 ## Committees (1)
 
@@ -45,3 +47,8 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - 2023-03-09 — Introduced in House
 - 2023-03-09 — Introduced in House
 - 2023-03-09 — Referred to the House Committee on Oversight and Accountability.
+- 2023-03-29 — Committee Consideration and Mark-up Session Held.
+- 2023-03-29 — Ordered to be Reported by the Yeas and Nays: 21 - 17.
+- 2023-04-06 — Placed on the House Calendar, Calendar No. 12.
+- 2023-04-06 — Reported by the Committee on Oversight and Accountability. H. Rept. 118-33.
+- 2023-04-06 — Reported by the Committee on Oversight and Accountability. H. Rept. 118-33.
