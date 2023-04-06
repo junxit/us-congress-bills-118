@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1163
@@ -16,7 +16,7 @@ Protecting Taxpayers and Victims of Unemployment Fraud Act
 
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Cosponsors (25)
+## Cosponsors (35)
 
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
@@ -43,6 +43,16 @@ Protecting Taxpayers and Victims of Unemployment Fraud Act
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 - Rep. Comer, James [R-KY-1] (C001108)
 - Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
 
 ## Committees (1)
 
@@ -53,3 +63,8 @@ Protecting Taxpayers and Victims of Unemployment Fraud Act
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Referred to the House Committee on Ways and Means.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 20 - 17.
+- 2023-04-06 — Placed on the Union Calendar, Calendar No. 21.
+- 2023-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-34.
+- 2023-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-34.

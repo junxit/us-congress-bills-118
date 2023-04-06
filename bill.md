@@ -15,7 +15,7 @@ This Act may be cited as the “Protecting Taxpayers and Victims of Unemployment
 
 ## § 2. Recovering Federal fraudulent COVID unemployment compensation payments
 
-- **(a)** *Allowing States To retain percentage of overpayments for program integrity*
+- **(a)** *Allowing States to retain percentage of overpayments for program integrity*
   - **(1)** *Pandemic unemployment assistance* Section 2102(d) of the CARES Act (15 U.S.C. 9021(d)) is amended by amending paragraph (4) to read as follows:
     > - **(4)** *Fraud and overpayments* Section 2107(e) shall apply with respect to pandemic unemployment assistance under this section by substituting “pandemic unemployment assistance” for “pandemic emergency unemployment compensation” each place it appears in such section 2107(e).
 
@@ -55,7 +55,7 @@ This Act may be cited as the “Protecting Taxpayers and Victims of Unemployment
   - **(2)** by inserting after subparagraph (G) the following new subparagraphs:
     > - **(H)** provided the certifications made by the State as described in section 4 of the Protecting Taxpayers and Victims of Unemployment Fraud Act are in effect at the time of approval of the State law under this subsection, an amount, not to exceed 5 percent, of any overpayment of compensation recovered by the State (other than an overpayment made as the result of agency error) may, immediately following the State’s receipt of such recovered amount, be deposited in a State fund from which money may be withdrawn for—
     >   - **(i)** the payment of costs of deterring, detecting, and preventing improper payments;
-    >   - **(ii)** purposes relating to the classification of employees and the provisions of State law implementing section 303(k) of the Social Security Act;
+    >   - **(ii)** purposes relating to the proper classification of employees and the provisions of State law implementing section 303(k) of the Social Security Act;
     >   - **(iii)** the payment to the Secretary of the Treasury to the credit of the account of the State in the Unemployment Trust Fund;
     >   - **(iv)** modernizing the State’s unemployment insurance technology infrastructure; or
     >   - **(v)** otherwise assisting the State in improving the timely and accurate administration of the State’s unemployment compensation law; and
@@ -89,7 +89,7 @@ This Act may be cited as the “Protecting Taxpayers and Victims of Unemployment
 
 ## § 5. Extension of emergency State staffing flexibility
 
-If a State modifies its unemployment compensation law and policies with respect to personnel standards on a merit basis on an emergency temporary basis as determined by the Secretary, including for detection, pursuit, and recovery of fraudulent overpayments, subject to the succeeding sentence, such modifications shall be disregarded for the purposes of applying section 303 of the Social Security Act (42 U.S.C. 503) and section 3304 of the Internal Revenue Code of 1986 to such State law. Such modifications may continue through December 31, 2030.
+If a State modifies its unemployment compensation law and policies with respect to personnel standards on a merit basis on an emergency temporary basis as determined by the Secretary, including for detection, pursuit, and recovery of fraudulent overpayments under Federal pandemic unemployment compensation programs authorized under the CARES Act (15 U.S.C. 9021 et seq.), subject to the succeeding sentence, such modifications shall be disregarded for the purposes of applying section 303 of the Social Security Act (42 U.S.C. 503) and section 3304 of the Internal Revenue Code of 1986 to such State law. Such modifications may continue through December 31, 2030.
 
 ## § 6. Fraud enforcement harmonization
 
