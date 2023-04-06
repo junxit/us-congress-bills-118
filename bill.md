@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2488
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2488
+
+> To amend the Internal Revenue Code of 1986 to make advanced nuclear facilities eligible for the qualifying advanced energy project credit.
+
+## § 1. Advanced nuclear facilities made eligible for qualifying advanced energy project credit
+
+- **(a)** *In general* Section 48C(c)(1)(A) of the Internal Revenue Code of 1986 is amended by striking “or” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, or”, and by adding at the end the following new clause:
+  > - **(iv)** which consists of an advanced nuclear facility (as defined in section 45J(d)(2)).
+
+- **(b)** *Clarification of continuation of authority To treat other nuclear facilities as qualifying* Section 48C(c)(1)(A)(i)(VII) of such Code is amended by inserting “, including nuclear energy technology,” after “greenhouse gas emissions”.
+- **(c)** *Conforming amendment* Section 48C(c)(2)(A) of such Code is amended by striking “or” at the end of clause (ii), by inserting “or” at the end of clause (iii), and by inserting after clause (iii) the following new clause:
+  > - **(iv)** a facility described in clause (iv) of such paragraph,
+
+- **(d)** *Effective date* The amendments made by this section shall apply to taxable years ending after the date of the enactment of this Act.
