@@ -1,0 +1,12 @@
+---
+legis-num: H.J. RES. 53
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 53
+
+> Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Control of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standards”.
+
+That Congress disapproves the rule submitted by the Administrator of the Environmental Protection Agency relating to “Control of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standards” (88 Fed. Reg. 4296 (January 24, 2023)), and such rule shall have no force or effect.
