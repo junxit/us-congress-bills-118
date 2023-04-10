@@ -1,0 +1,54 @@
+---
+measure: H.R. 2568
+congress: 118
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2568 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+11 amendatory instructions. 1 executed, 10 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 42 U.S.C. § 4101b
+
+> Subsection (k) of section 100216 of the Biggert-Waters Flood Insurance Reform Act of 2012 (42 U.S.C. 4101b), as so redesignated by the preceding provisions of this Act, is further amended by striking “$400,000,000 for each of fiscal years 2013 through 2017” and inserting “$500,000,000 for each of fiscal years 2024 through 2029”.
+
+| | |
+|---|---|
+| Removed | `$400,000,000 for each of fiscal years 2013 through 2017` |
+| Inserted | `$500,000,000 for each of fiscal years 2024 through 2029` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 4101b` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4101b` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4101b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4101b` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 3501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | redesignate | by redesignating subsection (f) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4101b` | amend | such stream flow networks are sufficiently densified by adding new stream gage stations in high-risk areas; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4017` | add-at-end | Section 1310 of the National Flood Insurance Act of 1968 (42 U.S.C. 4017) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
