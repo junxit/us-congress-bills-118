@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2559
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2559
+
+> To extend funding for community health centers and the National Health Service Corps, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening Community Care Act of 2023”.
+
+## § 2. Extension for community health centers and the National Health Service Corps
+
+- **(a)** *Community health centers* Section 10503(b)(1)(F) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)(F)) is amended by striking “2023” and inserting “2028”.
+- **(b)** *National Health Service Corps* Section 10503(b)(2)(H) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(2)(H)) is amended by striking “2023” and inserting “2028”.
