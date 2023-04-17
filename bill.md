@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2641
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2641
+
+> To amend the Internal Revenue Code of 1986 to allow students to take the saver’s credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanded Student Saver’s Tax Credit Act”.
+
+## § 2. Credit for elective deferrals and IRA contributions allowed to individuals who are full-time students
+
+- **(a)** *In general* Section 25B(c)(2) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in the heading, by striking “and full time students”, and
+  - **(2)** by striking “include—” and all that follows through the period and inserting “include any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.”
+- **(b)** *Effective date* The amendments made by this section shall apply to contributions made after the date of the enactment of this Act.
