@@ -37,13 +37,15 @@ It is the sense of Congress that—
 ## § 4. International coordination and pressure
 
 - **(a)** *Diplomatic strategy* The Secretary of State, in consultation with the Director of National Intelligence and the United States Permanent Representative to the United Nations, shall develop a diplomatic strategy to inform allies and partners of the scope of the PRC surveillance program and build global consensus in order to address the PRC’s global surveillance balloon program, including by—
-  - **(1)** sharing intelligence, as appropriate about the PRC’s global balloon program and its past violation of the sovereign airspace of allies and partners;
-  - **(2)** coordinating with United States allies and partners to identify and track future PRC surveillance balloons, counter PRC propaganda and misinformation about its global surveillance program, and publicly share any future violations of sovereignty;
-  - **(3)** using the voice, vote, and influence of the United States at the United Nations and other international and regional organizations to spur greater diplomatic pressure on the PRC to halt its surveillance collection operations that violate international sovereignty;
-  - **(4)** raising the challenges posed by the PRC’s global surveillance balloon program at major multilateral forums, including at the G7 and G20 summits; and
-  - **(5)** coordinating with allies and partners on the imposition and implementation of substantially similar sanctions and export controls to ensure that commodities, software, or technology from the United States and its allies and partners are not supporting the PRC’s global surveillance efforts.
+  - **(1)** using the voice of the United States at the International Civil Aviation Organization to support Taiwan’s participation in the events and meetings of that Organization;
+  - **(2)** sharing intelligence, as appropriate about the PRC’s global balloon program and its past violation of the sovereign airspace of allies and partners;
+  - **(3)** coordinating with United States allies and partners to identify and track future PRC surveillance balloons, counter PRC propaganda and misinformation about its global surveillance program, and publicly share any future violations of sovereignty;
+  - **(4)** using the voice, vote, and influence of the United States at the United Nations and other international and regional organizations to spur greater diplomatic pressure on the PRC to halt its surveillance collection operations that violate international sovereignty;
+  - **(5)** raising the challenges posed by the PRC’s global surveillance balloon program at major multilateral forums, including at the G7 and G20 summits; and
+  - **(6)** coordinating with allies and partners on the imposition and implementation of substantially similar sanctions and export controls to ensure that commodities, software, or technology from the United States and its allies and partners are not supporting the PRC’s global surveillance efforts.
 - **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Director of National Intelligence and the United States Permanent Representative to the United Nations, shall submit to the appropriate congressional committees a report that outlines the strategy developed pursuant to subsection (a) and describes in detail the various steps taken by the United States in line with said strategy.
-- **(c)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
+- **(c)** *Briefing* Not later than 180 days after the date of the enactment of this Act, the relevant officials of the Department of Defense shall provide to the appropriate congressional committees a classified briefing on other Unidentified Flying Objects that have entered United States airspace beginning on January 20, 2017, and ending on such date of enactment.
+- **(d)** *Appropriate congressional committees* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
 
@@ -70,3 +72,6 @@ It is the sense of Congress that—
 - **(c)** *Exceptions*
   - **(1)** *Exception for intelligence, law enforcement, and national security activities* Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
   - **(2)** *Exception to comply with United Nations headquarters agreement* Sanctions under subsection (b)(3) shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
+- **(d)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
