@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 2636
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2636
+
+> To amend the Public Health Service Act to include neuropathy in the list of conditions covered by the World Trade Center Health Program, and for other purposes.
+
+## § 1. Including neuropathy in World Trade Center Health Program
+
+- **(a)** *List of health conditions for WTC responders* Section 3312(a)(3) of title XXXIII of the Public Health Service Act (42 U.S.C. 300mm–22(a)(3)) is amended—
+  - **(1)** by redesignating subparagraph (D) as subparagraph (E); and
+  - **(2)** by inserting after subparagraph (C) the following:
+    > - **(D)** *Neuropathy* Any neuropathy (or type of neuropathy).
+
+- **(b)** *List of WTC-Related health conditions for survivors* Section 3322(b) of title XXXIII of the Public Health Service Act (42 U.S.C. 300mm–32(b)) is amended—
+  - **(1)** by redesignating paragraph (3) as paragraph (4); and
+  - **(2)** by inserting after paragraph (2) the following:
+    > - **(3)** *Neuropathy* Any neuropathy (or type of neuropathy).
