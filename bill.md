@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2665
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2665
+
+> To amend title XIX of the Social Security Act to delay certain disproportionate share hospital payment reductions under the Medicaid program.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Safety Net Hospitals Act”.
+
+## § 2. Delaying certain disproportionate share hospital payment reductions under the Medicaid program
+
+Section 1923(f)(7)(A) of the Social Security Act (42 U.S.C.1396r–4(f)(7)(A)) is amended—
+
+- **(1)** in clause (i), in the matter preceding subclause (I), by striking “2024” and inserting “2026”; and
+- **(2)** in clause (ii), by striking “2024” and inserting “2026”.
