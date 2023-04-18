@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2674
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2674
+
+> To amend the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to prohibit training that includes information on insider threats, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “NO FEAR for Whistleblowers Act”.
+
+## § 2. Training limitation
+
+Section 202(c) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 is amended by inserting before the period at the end the following: “, except that such training may not be offered at the same time as insider threat training and may not include information on insider threats”.
