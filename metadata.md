@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1151
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1151
@@ -22,10 +22,11 @@ USA Act
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ USA Act
 - 2023-04-17 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2023-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 6 (Roll no. 183). (text: CR H1735-1736)
 - 2023-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 6 (Roll no. 183). (text: CR H1735-1736)
+- 2023-04-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
