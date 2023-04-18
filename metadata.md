@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 10
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 10
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Tuberville, Tommy [R-AL] (T000278)
 
-## Cosponsors (25)
+## Cosponsors (37)
 
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
@@ -43,6 +43,18 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Hawley, Josh [R-MO] (H001089)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Young, Todd [R-IN] (Y000064)
 
 ## Committees (1)
 
@@ -52,3 +64,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2023-02-07 — Introduced in Senate
 - 2023-02-07 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-04-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
+- 2023-04-18 — Senate Committee on Veterans' Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2023-04-18 — Senate Committee on Veterans' Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
