@@ -1,7 +1,7 @@
 ---
 measure: S. 385
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 385
@@ -28,3 +28,7 @@ A bill to amend the Native American Tourism and Improving Visitor Experience Act
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2023-02-15 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-04-18 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-9.
+- 2023-04-18 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-9.
+- 2023-04-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
