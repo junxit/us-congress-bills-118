@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 42
@@ -42,6 +42,10 @@ Disapproving the action of the District of Columbia Council in approving the Com
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2023-04-19 — [House 118-1-188](votes/house-118-1-0188.md) — On Passage — **Passed** (229–189)
+
 ## Actions
 
 - 2023-03-09 — Introduced in House
@@ -52,3 +56,13 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - 2023-04-06 — Placed on the House Calendar, Calendar No. 12.
 - 2023-04-06 — Reported by the Committee on Oversight and Accountability. H. Rept. 118-33.
 - 2023-04-06 — Reported by the Committee on Oversight and Accountability. H. Rept. 118-33.
+- 2023-04-17 — Rules Committee Resolution H. Res. 298 Reported to House. Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
+- 2023-04-18 — Rule H. Res. 298 passed House.
+- 2023-04-19 — Considered as unfinished business. H.J. Res. 42 - "Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022."
+- 2023-04-19 — Considered under the provisions of rule H. Res. 298. (consideration: CR H1852-1858, H1872-1873; text: CR H1852)
+- 2023-04-19 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 42.
+- 2023-04-19 — On passage Passed by the Yeas and Nays: 229 - 189 (Roll no. 188).
+- 2023-04-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 42, the Chair put the question on passage of the resolution and by voice vote, announced that the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings on the question of passage of the resolution until a time to be announced.
+- 2023-04-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 189 (Roll no. 188).
+- 2023-04-19 — Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
+- 2023-04-19 — The previous question was ordered pursuant to the rule.
