@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1149
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1149
@@ -20,10 +20,11 @@ Countering Untrusted Telecommunications Abroad Act
 
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Countering Untrusted Telecommunications Abroad Act
 - 2023-04-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-04-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 8 (Roll no. 189). (text: 4/17/2023 CR H1733)
 - 2023-04-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 8 (Roll no. 189). (text: 4/17/2023 CR H1733)
+- 2023-04-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
