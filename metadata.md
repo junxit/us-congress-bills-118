@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 42
@@ -43,9 +43,11 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - House — Oversight and Government Reform Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-04-19 — [House 118-1-188](votes/house-118-1-0188.md) — On Passage — **Passed** (229–189)
+- 2023-05-16 — [Senate 118-1-126](votes/senate-118-1-0126.md) — On the Joint Resolution — **Joint Resolution Passed** (56–43)
+- 2023-06-13 — [House 118-1-253](votes/house-118-1-0253.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (233–197)
 
 ## Actions
 
@@ -68,3 +70,26 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - 2023-04-19 — Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
 - 2023-04-19 — The previous question was ordered pursuant to the rule.
 - 2023-04-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-16 — Measure laid before Senate by unanimous consent. (consideration: CR S1655, S1660-1663)
+- 2023-05-16 — Passed Senate without amendment by Yea-Nay Vote. 56 - 43. Record Vote Number: 126.
+- 2023-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 56 - 43. Record Vote Number: 126.
+- 2023-05-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2023-05-16 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2023-05-17 — Message on Senate action sent to the House.
+- 2023-05-18 — Presented to President.
+- 2023-05-18 — Presented to President.
+- 2023-05-25 — Vetoed by President.
+- 2023-05-25 — Vetoed by President.
+- 2023-05-26 — POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the joint resolution, H. J. Res. 42, is postponed until the legislative day of Tuesday, June 13, 2023. Agreed to without objection.
+- 2023-05-26 — The Chair announced that the objections of the President to H. J. Res. 42 would be spread at large upon the Journal, and the veto message would be printed as a House Document (118-45).
+- 2023-05-26 — The Chair laid before the House the veto message from the President. (text: CR H2645)
+- 2023-06-13 — DEBATE - Pursuant to a previous order of the House of May 26, 2023, the unfinished business is the further consideration of the veto message of the President on H.J. Res. 42. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding. (consideration: CR H2842-2844)
+- 2023-06-13 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 233 - 197 (Roll no. 253).
+- 2023-06-13 — Motion to refer the bill and accompanying veto message to the Committee on Oversight and Accountability.
+- 2023-06-13 — On motion to refer the bill and the accompanying veto message to the Committee on Oversight and Accountability. Agreed to without objection.
+- 2023-06-13 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 233 - 197 (Roll no. 253).
+- 2023-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.J. Res. 42, the Chair put the question on will the House, on reconsideration, pass H.J. Res. 42, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.
+- 2023-06-13 — The Chair announced the unfinished business to be the consideration of the veto. (consideration: CR H2853)
+- 2023-06-13 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2023-06-13 — The Chair laid before the House the veto message from the President.
+- 2023-06-13 — The previous question was ordered without objection.
