@@ -1,7 +1,7 @@
 ---
 measure: H.R. 734
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 734
@@ -116,6 +116,12 @@ Protection of Women and Girls in Sports Act of 2023
 
 - House — Education and Workforce Committee
 
+## Recorded votes (3)
+
+- 2023-04-20 — [House 118-1-190](votes/house-118-1-0190.md) — On Agreeing to the Amendment — **Agreed to** (216–205)
+- 2023-04-20 — [House 118-1-191](votes/house-118-1-0191.md) — On Motion to Recommit — **Failed** (204–218)
+- 2023-04-20 — [House 118-1-192](votes/house-118-1-0192.md) — On Passage — **Passed** (219–203)
+
 ## Actions
 
 - 2023-02-01 — Introduced in House
@@ -127,3 +133,44 @@ Protection of Women and Girls in Sports Act of 2023
 - 2023-04-10 — Placed on the Union Calendar, Calendar No. 22.
 - 2023-04-10 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-35.
 - 2023-04-10 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-35.
+- 2023-04-17 — Rules Committee Resolution H. Res. 298 Reported to House. Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
+- 2023-04-19 — Committee of the Whole House on the state of the Union rises leaving H.R. 734 as unfinished business.
+- 2023-04-19 — Considered under the provisions of rule H. Res. 298. (consideration: CR H1858-1871)
+- 2023-04-19 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 734.
+- 2023-04-19 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 298 and Rule XVIII.
+- 2023-04-19 — Ms. Foxx moved that the committee rise.
+- 2023-04-19 — On motion that the committee rise Agreed to by voice vote.
+- 2023-04-19 — Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
+- 2023-04-19 — The Speaker designated the Honorable C. Scott Franklin to act as Chairman of the Committee.
+- 2023-04-20 — Amendment (A001) offered by Ms. Mace. (consideration: CR H1891-1894; text: CR H1891)
+- 2023-04-20 — Amendment (A002) offered by Mr. Ogles. (consideration: CR H1892-1893; text: CR H1892)
+- 2023-04-20 — Amendment agreed to Committee of the Whole
+- 2023-04-20 — Amendment agreed to Committee of the Whole
+- 2023-04-20 — Committee of the Whole House on the state of the Union rises leaving H.R. 734 as unfinished business.
+- 2023-04-20 — Considered as unfinished business. (consideration: CR H1890-1893; text: CR H1891)
+- 2023-04-20 — Considered as unfinished business. (consideration: CR H1893-1896)
+- 2023-04-20 — DEBATE - Pursuant to the provisions of H. Res. 298, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 1.
+- 2023-04-20 — DEBATE - Pursuant to the provisions of H. Res. 298, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 2.
+- 2023-04-20 — House amendment agreed to: On agreeing to the Mace amendment (A001) Agreed to by recorded vote: 216 - 205 (Roll no. 190).
+- 2023-04-20 — House amendment agreed to: On agreeing to the Ogles amendment (A002) Agreed to by voice vote.
+- 2023-04-20 — House amendment offered
+- 2023-04-20 — House amendment offered
+- 2023-04-20 — House amendment offered/reported by: Amendment (A001) offered by Ms. Mace.(consideration: CR H1891-1894; text: CR H1891)
+- 2023-04-20 — House amendment offered/reported by: Amendment (A002) offered by Mr. Ogles.(consideration: CR H1892-1893; text: CR H1892)
+- 2023-04-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-04-20 — Mr. Ogles moved that the Committee rise.
+- 2023-04-20 — Ms. Balint moved to recommit to the Committee on Education and the Workforce. (text: CR H1894)
+- 2023-04-20 — On agreeing to the Mace amendment (A001) Agreed to by recorded vote: 216 - 205 (Roll no. 190).
+- 2023-04-20 — On agreeing to the Ogles amendment (A002) Agreed to by voice vote.
+- 2023-04-20 — On motion that the Committee rise Agreed to by voice vote.
+- 2023-04-20 — On motion to recommit Failed by the Yeas and Nays: 204 - 218 (Roll no. 191).
+- 2023-04-20 — On passage Passed by the Yeas and Nays: 219 - 203 (Roll no. 192).
+- 2023-04-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Mace demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-04-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 203 (Roll no. 192).
+- 2023-04-20 — Roll call votes on amendments in House
+- 2023-04-20 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-04-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-04-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-04-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 734.
+- 2023-04-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-04-20 — The previous question was ordered pursuant to the rule.
