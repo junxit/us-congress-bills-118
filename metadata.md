@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 42
@@ -38,9 +38,10 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Disapproving the action of the District of Columbia Council in approving the Com
 - 2023-04-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 189 (Roll no. 188).
 - 2023-04-19 — Rule provides for consideration of H.R. 734 and H.J. Res. 42. Resolution provides for one hour of general debate on each measure and one motion to recommit allowed on H.R. 734 and if otherwise in order on H.J. Res. 42. Specified amendments are considered as read.
 - 2023-04-19 — The previous question was ordered pursuant to the rule.
+- 2023-04-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
