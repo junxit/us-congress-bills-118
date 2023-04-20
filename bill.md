@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 2777
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2777
+
+> To amend the Richard B. Russell National School Lunch Act to establish a waiver under such Act to address certain school closures, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “School Meals during School Closures Act”.
+
+## § 2. Waiver exception for certain school closures
+
+Section 12 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760) is amended by inserting after subsection (j) the following:
+
+> - **(k)** *Waiver exception for certain school closures*
+>   - **(1)** *In general* The Secretary may waive any requirement under this Act or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), or any regulation issued under either such Act, for a State or eligible service provider that requests a waiver to provide meals and meal supplements under such Acts during a school closure due to—
+>     - **(A)** a strike or other labor-management dispute (except a waiver shall not apply in the case of a lockout by an employer);
+>     - **(B)** inclement weather, a natural disaster, a public health emergency, unsafe facilities, construction, or repairs; or
+>     - **(C)** an unanticipated event that the Secretary determines appropriate.
+>   - **(2)** *Requirements*
+>     - **(A)** *In general* Except as provided in subparagraph (B), the requirements applicable to a waiver under subsection (l) shall apply to a waiver under this subsection.
+>     - **(B)** *Exceptions* Paragraphs (1)(A)(iii), (4), and (5) of subsection (l) shall not apply to a waiver under this subsection.
