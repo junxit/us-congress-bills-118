@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
