@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1343
@@ -39,3 +39,9 @@ ITS Codification Act
 - 2023-04-24 — Placed on the Union Calendar, Calendar No. 26.
 - 2023-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 118-40.
 - 2023-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 118-40.
+- 2023-04-25 — Considered under suspension of the rules. (consideration: CR H1924-1925)
+- 2023-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.
+- 2023-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-04-25 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2023-04-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1924)
+- 2023-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1924)
