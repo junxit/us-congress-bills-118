@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2811
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-418 amendatory instructions. 118 executed, 300 stated and not applied.
+400 amendatory instructions. 110 executed, 290 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -194,78 +194,6 @@ to guess them.
 |---|---|
 | Removed | `water treatment works facility, or storage facility` |
 | Inserted | `or water treatment works facility` |
-
-### 26 U.S.C. § 142
-
-> Section 142(o)(1)(B) is amended by striking “section 45Q(e)(3)” and inserting “section 45Q(e)(1)”.
-
-| | |
-|---|---|
-| Removed | `section 45Q(e)(3)` |
-| Inserted | `section 45Q(e)(1)` |
-
-### 26 U.S.C. § 40A
-
-> Section 40A(g) is amended by striking “December 31, 2024” and inserting “December 31, 2022”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2022` |
-
-### 26 U.S.C. § 6426
-
-> Section 6426(c)(6) is amended by striking “December 31, 2024” and inserting “December 31, 2022”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2022` |
-
-### 26 U.S.C. § 6427
-
-> Section 6427(e)(6)(B) is amended by striking “December 31, 2024” and inserting “December 31, 2022”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2022` |
-
-### 26 U.S.C. § 6426
-
-> Section 6426(d)(5) is amended by striking “December 31, 2024” and inserting “December 31, 2021”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2021` |
-
-### 26 U.S.C. § 6426
-
-> Section 6426(e)(3) is amended by striking “December 31, 2024” and inserting “December 31, 2021”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2021` |
-
-### 26 U.S.C. § 6427
-
-> Section 6427(e)(6)(C) is amended by striking “December 31, 2024” and inserting “December 31, 2021”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2024` |
-| Inserted | `December 31, 2021` |
-
-### 26 U.S.C. § 40
-
-> Section 40(b)(6)(j)(i) is amended by striking “2025” and inserting “2022”.
-
-| | |
-|---|---|
-| Removed | `2025` |
-| Inserted | `2022` |
 
 ### 26 U.S.C. § 6426
 
@@ -1145,21 +1073,10 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 48` | strike | Section 48(a) is amended by striking paragraph (14). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | strike | Section 48(a) is amended by striking paragraph (15). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | strike | Section 48 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | amend | Section 45Q(d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | redesignate | Section 45Q(e) is amended by striking paragraphs (1) and (2) and redesignating paragraphs (3) through (5) as paragraphs (1) through (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | amend | Section 45Q(b)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | redesignate | Section 45Q is amended by striking subsection (h) and by redesignating subsection (i) as subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | strike | Section 45Q(f) is amended by striking paragraph (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | strike | Section 45Q(g) is amended by striking “the earlier of January 1, 2023, and”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 45Q` | strike | Section 45Q(f) is amended by striking paragraph (9). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | amend | in paragraph (1), by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 45Q` | replace | in paragraph (2), by striking “, and” and inserting a period, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 45Q` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 45U (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | amend | in paragraph (32), by adding “plus” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | replace | in paragraph (33), by striking the comma at the end and inserting a period, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | strike | by striking paragraph (34). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 40A` | repeal | Subsection (g) of section 13201 of Public Law 117–169 is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 40B (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 38` | strike | Section 38(b) is amended by striking paragraph (35). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 40A` | strike | Section 40A(d)(1) is amended by striking “or 40B”. | the bill quotes the text struck but describes what replaces it |
@@ -1272,6 +1189,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 611` | add-at-end | Section 411 of the Social Security Act (42 U.S.C. 611) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 6(o)(3)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(6)(o)(3)(A)) is amended by striking “50” and inserting “56”. | the bill names no machine-readable US Code section |
 | — | amend | Section 6(o)(6) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(6)(o)(6)) is amended by adding at end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 2011` | amend | Section 2 of the Food and Nutrition Act of 2008 (7 U.S.C. 2011) is amended by adding at end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396b` | replace | in paragraph (26), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396b` | replace | in paragraph (27), by striking the period at the end and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396b` | insert | by inserting after paragraph (27) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
