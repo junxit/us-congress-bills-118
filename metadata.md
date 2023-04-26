@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 11
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 11
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 
-## Cosponsors (33)
+## Cosponsors (37)
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Ernst, Joni [R-IA] (E000295)
@@ -51,12 +51,24 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
 
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2023-04-26 — [Senate 118-1-98](votes/senate-118-1-0098.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
+
 ## Actions
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-04-26 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 98. (consideration: CR S1360, S1363-1365; text: CR S1365)
+- 2023-04-26 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 98.(consideration: CR S1360, S1363-1365; text: CR S1365)
+- 2023-04-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2023-04-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
