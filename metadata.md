@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1339
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1339
@@ -27,6 +27,10 @@ Precision Agriculture Satellite Connectivity Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2023-04-26 — [House 118-1-200](votes/house-118-1-0200.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–11)
+
 ## Actions
 
 - 2023-03-03 — Introduced in House
@@ -45,3 +49,7 @@ Precision Agriculture Satellite Connectivity Act
 - 2023-04-25 — Placed on the Union Calendar, Calendar No. 28.
 - 2023-04-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-42.
 - 2023-04-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-42.
+- 2023-04-26 — Considered as unfinished business. (consideration: CR H2039)
+- 2023-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 200). (text: 4/25/2023 CR H1925-1926)
+- 2023-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 200). (text: 4/25/2023 CR H1925-1926)
