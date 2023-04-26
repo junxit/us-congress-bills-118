@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 11
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 11
@@ -60,9 +60,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-04-26 — [Senate 118-1-98](votes/senate-118-1-0098.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
+- 2023-05-23 — [House 118-1-232](votes/house-118-1-0232.md) — On Passage — **Passed** (221–203)
+- 2023-06-21 — [Senate 118-1-167](votes/senate-118-1-0167.md) — On Overriding the Veto — **Veto Sustained** (50–50)
 
 ## Actions
 
@@ -72,3 +74,25 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-04-26 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 98.(consideration: CR S1360, S1363-1365; text: CR S1365)
 - 2023-04-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
 - 2023-04-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2023-04-27 — Held at the desk.
+- 2023-04-27 — Message on Senate action sent to the House.
+- 2023-04-27 — Received in the House.
+- 2023-05-22 — Rules Committee Resolution H. Res. 429 Reported to House. Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-23 — Considered as unfinished business. (consideration: CR H2531)
+- 2023-05-23 — Considered under the provisions of rule H. Res. 429. (consideration: CR H2523-2531)
+- 2023-05-23 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 11.
+- 2023-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-23 — On passage Passed by the Yeas and Nays: 221 - 203 (Roll no. 232). (text: CR H2523)
+- 2023-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on S.J.Res. 11, the Chair put the question on passage of S.J.Res. 11 and by voice vote announced the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-05-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 203 (Roll no. 232). (text: CR H2523)
+- 2023-05-23 — Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-23 — The previous question was ordered pursuant to the rule.
+- 2023-06-07 — Presented to President.
+- 2023-06-07 — Presented to President.
+- 2023-06-14 — Veto message received in Senate. Ordered held at the desk. (text: CR S2089-2090)
+- 2023-06-14 — Vetoed by President.
+- 2023-06-14 — Vetoed by President.
+- 2023-06-21 — Failed of passage in Senate over veto by Yea-Nay Vote. 50 - 50. Record Vote Number: 167.
+- 2023-06-21 — Failed of passage in Senate over veto: Failed of passage in Senate over veto by Yea-Nay Vote. 50 - 50. Record Vote Number: 167.
+- 2023-06-21 — Veto Message considered in Senate. (consideration: CR S2151-2152, S2155-2156)
+- 2023-06-22 — Message on Senate action sent to the House.
