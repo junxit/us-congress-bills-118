@@ -1,7 +1,7 @@
 ---
 measure: S. 933
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 933
@@ -29,3 +29,7 @@ Federal Data Center Enhancement Act of 2023
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-15.
+- 2023-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-15.
+- 2023-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
