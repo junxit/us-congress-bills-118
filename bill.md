@@ -32,3 +32,17 @@ Section 3330d of title 5, United States Code, is amended—
     > - **(3)** a spouse of a member of the Armed Forces on active duty, or a spouse of a disabled or deceased member of the Armed Forces, to a position in which the spouse will engage in remote work.
 
 - **(3)** in subsection (c)(1), by striking “subsection (a)(3)” and inserting “subsection (a)(4)”.
+
+## § 3. GAO study and report
+
+- **(a)** *Definitions* In this section—
+  - **(1)** the terms agency means an agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code;
+  - **(2)** the term employee means an employee of an agency;
+  - **(3)** the term remote work means a particular type of telework under which an employee is not expected to report to an officially established agency location on a regular and recurring basis; and
+  - **(4)** the term telework means a work flexibility arrangement under which an employee performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite other than the location from which the employee would otherwise work.
+- **(b)** *Requirement* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and publish a report regarding the use of remote work by agencies, which shall include a discussion of what is known regarding—
+  - **(1)** the number of employees who are engaging in remote work;
+  - **(2)** the role of remote work in agency recruitment and retention efforts;
+  - **(3)** the geographic location of employees who engage in remote work;
+  - **(4)** the effect that remote work has had on how often employees are reporting to officially established agency locations to perform the duties and responsibilities of the positions of those employees and other authorized activities; and
+  - **(5)** how the use of remote work has affected Federal office space utilization and spending.

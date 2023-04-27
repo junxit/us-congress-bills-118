@@ -1,7 +1,7 @@
 ---
 measure: S. 349
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 349
@@ -16,11 +16,13 @@ Military Spouse Employment Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Military Spouse Employment Act
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2023-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-14.
+- 2023-04-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-14.
+- 2023-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
