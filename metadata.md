@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1353
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1353
@@ -20,9 +20,10 @@ Advanced, Local Emergency Response Telecommunications Parity Act
 
 - Rep. Schrier, Kim [D-WA-8] (S001216)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Advanced, Local Emergency Response Telecommunications Parity Act
 - 2023-04-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 197). (text: 4/25/2023 CR H1922-1923)
 - 2023-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 197). (text: 4/25/2023 CR H1922-1923)
+- 2023-04-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
