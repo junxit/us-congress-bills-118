@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3017
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3017
+
+> To amend title XVIII of the Social Security Act to improve access to skilled nursing facilities for primary immunodeficiency patients.
+
+## § 1. Short title
+
+This Act may be cited as the “PI Post Acute Access Act”.
+
+## § 2. Improving access to skilled nursing facility services for primary immunodeficiency patients
+
+- **(a)** *In general* Section 1888(e)(2)(A)(iii) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)(iii)) is amended by adding at the end the following new subclause:
+  > - **(VII)** Items and services needed for the administration of intravenous immune globin for the treatment of primary immune deficiency disease.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to items and services furnished on or after January 1, 2024.
