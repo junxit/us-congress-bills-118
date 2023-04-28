@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 39
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 39
@@ -33,6 +33,10 @@ Disapproving the rule submitted by the Department of Commerce relating to "Proce
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2023-04-28 — [House 118-1-202](votes/house-118-1-0202.md) — On Passage — **Passed** (221–202)
+
 ## Actions
 
 - 2023-03-07 — Introduced in House
@@ -43,3 +47,12 @@ Disapproving the rule submitted by the Department of Commerce relating to "Proce
 - 2023-04-21 — Placed on the Union Calendar, Calendar No. 24.
 - 2023-04-21 — Reported by the Committee on Ways and Means. H. Rept. 118-38.
 - 2023-04-21 — Reported by the Committee on Ways and Means. H. Rept. 118-38.
+- 2023-04-26 — Rule H. Res. 327 passed House.
+- 2023-04-26 — Rules Committee Resolution H. Res. 327 Reported to House. Rule provides for consideration of H.R. 2811 and H.J. Res. 39. Resolution provides for two hours of general debate on H.R. 2811 and one hour of general debate on H.J. Res. 39. The previous question is considered as ordered with one motion to recommit allowed on each measure.
+- 2023-04-28 — Considered under the provisions of rule H. Res. 327. (consideration: CR H2093-2103)
+- 2023-04-28 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 39.
+- 2023-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-04-28 — On passage Passed by the Yeas and Nays: 221 - 202 (Roll no. 202). (text: CR H2093)
+- 2023-04-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 202 (Roll no. 202). (text: CR H2093)
+- 2023-04-28 — Rule provides for consideration of H.R. 2811 and H.J. Res. 39. Resolution provides for two hours of general debate on H.R. 2811 and one hour of general debate on H.J. Res. 39. The previous question is considered as ordered with one motion to recommit allowed on each measure.
+- 2023-04-28 — The previous question was ordered pursuant to the rule.
