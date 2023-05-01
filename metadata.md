@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 39
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 39
@@ -33,9 +33,11 @@ Disapproving the rule submitted by the Department of Commerce relating to "Proce
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-04-28 — [House 118-1-202](votes/house-118-1-0202.md) — On Passage — **Passed** (221–202)
+- 2023-05-03 — [Senate 118-1-109](votes/senate-118-1-0109.md) — On the Joint Resolution — **Joint Resolution Passed** (56–41)
+- 2023-05-24 — [House 118-1-233](votes/house-118-1-0233.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (214–205)
 
 ## Actions
 
@@ -57,3 +59,22 @@ Disapproving the rule submitted by the Department of Commerce relating to "Proce
 - 2023-04-28 — Rule provides for consideration of H.R. 2811 and H.J. Res. 39. Resolution provides for two hours of general debate on H.R. 2811 and one hour of general debate on H.J. Res. 39. The previous question is considered as ordered with one motion to recommit allowed on each measure.
 - 2023-04-28 — The previous question was ordered pursuant to the rule.
 - 2023-05-01 — Received in the Senate, read twice.
+- 2023-05-03 — Measure laid before Senate by unanimous consent. (consideration: CR S1478-1499)
+- 2023-05-03 — Passed Senate without amendment by Yea-Nay Vote. 56 - 41. Record Vote Number: 109.
+- 2023-05-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 56 - 41. Record Vote Number: 109.
+- 2023-05-04 — Message on Senate action sent to the House.
+- 2023-05-09 — Presented to President.
+- 2023-05-09 — Presented to President.
+- 2023-05-16 — The Chair announced that the objections of the President to H.J. Res. 39 would be spread at large upon the Journal and the veto message would be printed as a House document (118-41). Further consideration of the veto message and the resolution, H.J. Res. 39, is postponed until the legislative day of May 24, 2023. Agreed to without objection.
+- 2023-05-16 — The Chair laid before the House the veto message from the President. (text: CR H2370)
+- 2023-05-16 — Vetoed by President.
+- 2023-05-16 — Vetoed by President.
+- 2023-05-24 — DEBATE - Pursuant to a previous order of the House of May 16, 2023, the unfinished business is the further consideration of the veto message of the President on H. J. Res. 39. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding. (consideration: CR H2571-2577)
+- 2023-05-24 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 214 - 205 (Roll no. 233).
+- 2023-05-24 — Motion to refer the bill and accompanying veto message to the Committee on Ways and Means.
+- 2023-05-24 — On motion to refer the bill and the accompanying veto message to the Committee on Ways and Means. Agreed to without objection.
+- 2023-05-24 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 214 - 205 (Roll no. 233).
+- 2023-05-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H. J. Res. 39, the Chair put the question on will the House, on reconsideration, pass H. J. Res. 39, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.
+- 2023-05-24 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2023-05-24 — The Chair laid before the House the veto message from the President.
+- 2023-05-24 — The previous question was ordered without objection.
