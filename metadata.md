@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 35
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 35
@@ -37,3 +37,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2023-04-26 — On agreeing to the resolution Agreed to without objection. (text: CR H2039)
 - 2023-04-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H2039)
 - 2023-05-01 — Received in the Senate.
+- 2023-05-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1632)
+- 2023-05-11 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1632)
+- 2023-05-15 — Message on Senate action sent to the House.
