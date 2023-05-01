@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1339
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1339
@@ -23,9 +23,10 @@ Precision Agriculture Satellite Connectivity Act
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Precision Agriculture Satellite Connectivity Act
 - 2023-04-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-04-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 200). (text: 4/25/2023 CR H1925-1926)
 - 2023-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 11 (Roll no. 200). (text: 4/25/2023 CR H1925-1926)
+- 2023-05-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
