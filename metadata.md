@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 39
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 39
@@ -56,3 +56,4 @@ Disapproving the rule submitted by the Department of Commerce relating to "Proce
 - 2023-04-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 202 (Roll no. 202). (text: CR H2093)
 - 2023-04-28 — Rule provides for consideration of H.R. 2811 and H.J. Res. 39. Resolution provides for two hours of general debate on H.R. 2811 and one hour of general debate on H.J. Res. 39. The previous question is considered as ordered with one motion to recommit allowed on each measure.
 - 2023-04-28 — The previous question was ordered pursuant to the rule.
+- 2023-05-01 — Received in the Senate, read twice.
