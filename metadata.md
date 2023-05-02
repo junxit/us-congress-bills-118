@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2811
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2811
@@ -92,3 +92,5 @@ Limit, Save, Grow Act of 2023
 - 2023-04-26 — Rules Committee Resolution H. Res. 327 Reported to House. Rule provides for consideration of H.R. 2811 and H.J. Res. 39. Resolution provides for two hours of general debate on H.R. 2811 and one hour of general debate on H.J. Res. 39. The previous question is considered as ordered with one motion to recommit allowed on each measure.
 - 2023-04-26 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-04-26 — The previous question was ordered pursuant to the rule.
+- 2023-05-01 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-05-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
