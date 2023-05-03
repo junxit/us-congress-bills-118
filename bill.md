@@ -1,0 +1,27 @@
+---
+legis-num: S. 1438
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1438
+
+> To make improvements to the small community air service development program.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Community Air Service Enhancement Act”.
+
+## § 2. Improvements to the small community air service development program
+
+Section 41743 of title 49, United States Code, is amended—
+
+- **(1)** in subsection (c)(5)(E), by striking “has been terminated;” and inserting the following: “has been—
+  > - **(i)** terminated; or
+  > - **(ii)** significantly reduced (as measured by enplanements, capacity (seats), schedule, connections, or routes);
+
+- **(2)** in subsection (e)—
+  - **(A)** in paragraph (2), in the first sentence, by striking “$10,000,000 for each of fiscal years 2018 through 2023” inserting “$16,000,000 for each of fiscal years 2024 through 2028”; and
+  - **(B)** by adding at the end the following new paragraph:
+    > - **(3)** *Requirement if funding available* In any fiscal year in which the amount available to the Secretary to make agreements to provide assistance under this section exceeds $5,000,000, the Secretary shall, subject to the total amount so available, issue an order soliciting grant applications under this section during that fiscal year.
