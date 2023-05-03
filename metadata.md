@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 185
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 185
@@ -16,7 +16,7 @@ A resolution designating April 2023 as "Financial Literacy Month".
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (28)
+## Cosponsors (30)
 
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Braun, Mike [R-IN] (B001310)
@@ -46,6 +46,8 @@ A resolution designating April 2023 as "Financial Literacy Month".
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -55,3 +57,7 @@ A resolution designating April 2023 as "Financial Literacy Month".
 
 - 2023-04-27 — Introduced in Senate
 - 2023-04-27 — Referred to the Committee on the Judiciary.
+- 2023-05-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S1496; text: 4/27/2023 CR S1424-1425)
+- 2023-05-03 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S1496; text: 4/27/2023 CR S1424-1425)
+- 2023-05-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
