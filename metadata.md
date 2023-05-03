@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 9
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 9
@@ -16,17 +16,28 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
 
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2023-05-03 — [Senate 118-1-110](votes/senate-118-1-0110.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
+
 ## Actions
 
 - 2023-02-07 — Introduced in Senate
 - 2023-02-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-05-03 — Measure laid before Senate by unanimous consent. (consideration: CR S1478-1500)
+- 2023-05-03 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 110. (text: CR S1500)
+- 2023-05-03 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 110.(text: CR S1500)
+- 2023-05-03 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2023-05-03 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
