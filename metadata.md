@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 157
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 157
@@ -16,7 +16,7 @@ A resolution commemorating the 25th anniversary of the signing of the Good Frida
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murphy, Christopher [D-CT] (M001169)
@@ -31,6 +31,7 @@ A resolution commemorating the 25th anniversary of the signing of the Good Frida
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -40,3 +41,7 @@ A resolution commemorating the 25th anniversary of the signing of the Good Frida
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Referred to the Committee on Foreign Relations.
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
+- 2023-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
