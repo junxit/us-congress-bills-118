@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 152
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 152
@@ -28,3 +28,7 @@ A resolution designating April 2023 as "National Native Plant Month".
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Referred to the Committee on the Judiciary.
+- 2023-05-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S1496; text: 3/30/2023 CR S1104)
+- 2023-05-03 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S1496; text: 3/30/2023 CR S1104)
+- 2023-05-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
