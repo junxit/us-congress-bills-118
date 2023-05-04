@@ -1,7 +1,7 @@
 ---
 measure: S. 797
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 797
@@ -28,3 +28,7 @@ United States Legal Gold and Mining Partnership Act
 
 - 2023-03-14 — Introduced in Senate
 - 2023-03-14 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
