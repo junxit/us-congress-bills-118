@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 7
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 7
@@ -16,9 +16,17 @@ A concurrent resolution condemning Russia's unjust and arbitrary detention of Ru
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (1)
+## Cosponsors (9)
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -28,3 +36,7 @@ A concurrent resolution condemning Russia's unjust and arbitrary detention of Ru
 
 - 2023-03-23 — Introduced in Senate
 - 2023-03-23 — Referred to the Committee on Foreign Relations. (text: CR S939)
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
