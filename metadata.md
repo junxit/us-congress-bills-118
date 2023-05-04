@@ -1,7 +1,7 @@
 ---
 measure: S. 670
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 670
@@ -29,3 +29,7 @@ IMPACTT Human Trafficking Act
 
 - 2023-03-07 — Introduced in Senate
 - 2023-03-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-17.
+- 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-17.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.
