@@ -1,7 +1,7 @@
 ---
 measure: S. 1325
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1325
@@ -16,9 +16,10 @@ Western Hemisphere Partnership Act of 2023
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Western Hemisphere Partnership Act of 2023
 
 - 2023-04-26 — Introduced in Senate
 - 2023-04-26 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 51.
