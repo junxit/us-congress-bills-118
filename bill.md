@@ -120,3 +120,7 @@ Section 1124(a) of title 31, United States Code, is amended—
   - **(1)** in paragraph (8) by inserting “, as applicable” after “section 312”; and
   - **(2)** in paragraph (9), in the matter preceding subparagraph (A), by inserting “with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312,” before “an assessment”.
 - **(b)** *Clarification of Timing of Agency Performance Report* Section 1116(b)(1) of title 31, United States Code, is amended by striking “shall occur no less than 150 days after” and inserting “shall occur not later than 150 days after”.
+
+## § 9. GAO report
+
+Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on the effectiveness of this Act and the amendments made by this Act.

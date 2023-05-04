@@ -1,7 +1,7 @@
 ---
 measure: S. 709
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 709
@@ -28,3 +28,7 @@ Federal Agency Performance Act of 2024
 
 - 2023-03-08 — Introduced in Senate
 - 2023-03-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-18.
+- 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-18.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
