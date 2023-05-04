@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 106
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 106
@@ -16,7 +16,7 @@ A resolution condemning Beijing's destruction of Hong Kong's democracy and rule 
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (39)
+## Cosponsors (40)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Barrasso, John [R-WY] (B001261)
@@ -57,6 +57,7 @@ A resolution condemning Beijing's destruction of Hong Kong's democracy and rule 
 - Sen. Murphy, Christopher [D-CT] (M001169)
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -66,3 +67,7 @@ A resolution condemning Beijing's destruction of Hong Kong's democracy and rule 
 
 - 2023-03-15 — Introduced in Senate
 - 2023-03-15 — Referred to the Committee on Foreign Relations. (text: CR S802-803)
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
