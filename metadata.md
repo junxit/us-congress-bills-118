@@ -1,7 +1,7 @@
 ---
 measure: S. 1240
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1240
@@ -28,3 +28,7 @@ Millennium Challenge Corporation Candidate Country Reform Act
 
 - 2023-04-20 — Introduced in Senate
 - 2023-04-20 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-05-03 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.
+- 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
