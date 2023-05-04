@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 119
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 119
@@ -73,3 +73,5 @@ A resolution recognizing the 202nd anniversary of the independence of Greece and
 - 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
+- 2023-05-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1543; text: 3/23/2023 CR S935-936)
+- 2023-05-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1543; text: 3/23/2023 CR S935-936)
