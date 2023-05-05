@@ -33,3 +33,7 @@ This Act may be cited as the “Testing, Rapid Analysis, and Narcotic Quality Re
   - **(4)** *NIST* The term “NIST” means the National Institute of Standards and Technology.
   - **(5)** *Nonprofit organization* The term “nonprofit organization” means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such code.
   - **(6)** *Xylazine* The term “xylazine” means the nonopioid tranquilizer methyl benzene compound frequently used in veterinary medicine as an emetic and sedative with analgesic and muscle relaxant properties.
+
+## § 3. Report
+
+Not later that 1 year after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the implementation of this Act. Such report may include legislative recommendations to improve the Director’s ability to carry out section 2.

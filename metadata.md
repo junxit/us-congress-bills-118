@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1734
@@ -16,7 +16,7 @@ TRANQ Research Act of 2023
 
 - Rep. Collins, Mike [R-GA-10] (C001129)
 
-## Cosponsors (18)
+## Cosponsors (25)
 
 - Rep. Caraveo, Yadira [D-CO-8] (C001134)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
@@ -36,6 +36,13 @@ TRANQ Research Act of 2023
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Jackson, Jeff [D-NC-14] (J000308)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
+- Rep. Lee, Summer L. [D-PA-12] (L000602)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
 
 ## Committees (1)
 
@@ -46,3 +53,8 @@ TRANQ Research Act of 2023
 - 2023-03-23 — Introduced in House
 - 2023-03-23 — Introduced in House
 - 2023-03-23 — Referred to the House Committee on Science, Space, and Technology.
+- 2023-03-29 — Committee Consideration and Mark-up Session Held.
+- 2023-03-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 0.
+- 2023-05-05 — Placed on the Union Calendar, Calendar No. 34.
+- 2023-05-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-50.
+- 2023-05-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-50.
