@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Regional Immigration Diplomacy and Enforcement Act” or the “RIDE Act”.
+This Act may be cited as the “Orderly Requirements Designed to Enforce and Regulate Latin American Migration Act” or the “ORDER Act”.
 
 ## § 2. United States Policy regarding Western Hemisphere cooperation on immigration and asylum
 
@@ -19,30 +19,19 @@ It is the policy of the United States to enter into agreements, accords, and mem
 
 ## § 3. Negotiations by Secretary of State
 
-- **(a)** *Authorization To negotiate* The Secretary of State shall seek to negotiate agreements, accords, and memoranda of understanding between the United States, Mexico, Honduras, El Salvador, Guatemala, and other countries in the Western Hemisphere with respect to cooperation and burden sharing required for effective regional immigration enforcement, expediting legal claims by aliens for asylum, and the processing, detention, and repatriation of foreign nationals seeking to enter the United States unlawfully. Such agreements shall be designed to facilitate a regional approach to immigration enforcement and shall, at a minimum, provide that—
+- **(a)** *Authorization to negotiate* The Secretary of State shall seek to negotiate agreements, accords, and memoranda of understanding between the United States, Mexico, Honduras, El Salvador, Guatemala, and other countries in the Western Hemisphere with respect to cooperation and burden sharing required for effective regional immigration enforcement, expediting legal claims by aliens for asylum, and the processing, detention, and repatriation of foreign nationals seeking to enter the United States unlawfully. Such agreements shall be designed to facilitate a regional approach to immigration enforcement and shall, at a minimum, provide that—
   - **(1)** the Government of Mexico authorize and accept the rapid entrance into Mexico of nationals of countries other than Mexico who seek asylum in Mexico, and process the asylum claims of such nationals inside Mexico, in accordance with both domestic law and international treaties and conventions governing the processing of asylum claims;
   - **(2)** the Government of Mexico authorize and accept both the rapid entrance into Mexico of all nationals of countries other than Mexico who are ineligible for asylum in Mexico and wish to apply for asylum in the United States, whether or not at a port of entry, and the continued presence of such nationals in Mexico while they wait for the adjudication of their asylum claims to conclude in the United States;
   - **(3)** the Government of Mexico commit to provide the individuals described in paragraphs (1) and (2) with appropriate humanitarian protections;
   - **(4)** the Government of Honduras, the Government of El Salvador, and the Government of Guatemala each authorize and accept the entrance into the respective countries of nationals of other countries seeking asylum in the applicable such country and process such claims in accordance with applicable domestic law and international treaties and conventions governing the processing of asylum claims;
   - **(5)** the Government of the United States commit to work to accelerate the adjudication of asylum claims and to conclude removal proceedings in the wake of asylum adjudications as expeditiously as possible;
   - **(6)** the Government of the United States commit to continue to assist the governments of countries in the Western Hemisphere, such as the Government of Honduras, the Government of El Salvador, and the Government of Guatemala, by supporting the enhancement of asylum capacity in those countries; and
-  - **(7)** the Government of United States commit to monitoring developments in hemispheric immigration trends and regional asylum capabilities to determine whether additional asylum cooperation agreements are warranted.
-- **(b)** *Notification in accordance with Case-Zablocki Act* The Secretary of State shall, in accordance with section 112b of title 1, United States Code, promptly inform the relevant congressional committees of all agreements entered into pursuant to subsection (a). Such notifications shall be submitted not later than 48 hours after such agreements are signed.
+  - **(7)** the Government of the United States commit to monitoring developments in hemispheric immigration trends and regional asylum capabilities to determine whether additional asylum cooperation agreements are warranted.
+- **(b)** *Notification in accordance with Case-Zablocki Act* The Secretary of State shall, in accordance with section 112b of title 1, United States Code, promptly inform the relevant congressional committees of each agreement entered into pursuant to subsection (a). Such notifications shall be submitted not later than 48 hours after such agreements are signed.
+- **(c)** *Alien defined* In this section, the term alien has the meaning given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
 
-## § 4. Mandatory briefing on United States efforts to address the border crisis
+## § 4. Mandatory briefings on United States efforts to address the border crisis
 
-The Secretary of State or the Secretary’s designee shall, not less frequently than every 90 days, brief the relevant congressional committees in person on efforts undertaken pursuant to the negotiation authority provided by section 4 to monitor, deter, and prevent illegal immigration to the United States, including by entering into agreements, accords, and memoranda of understanding with foreign countries and by using United States foreign assistance to allegedly stem the root causes of migration in the Western Hemisphere.
-
-## § 5. Feasibility study and strategy for opening an International Law Enforcement Center in southern Mexico
-
-Not later than 180 days after the date of the enactment of this Act, the Secretary of State, acting through the Director of the Bureau of Overseas Building Operations in conjunction with the Assistant Secretary of State for Western Hemisphere Affairs and the Ambassador to Mexico, in consultation with interagency partners and appropriate counterparts of the Government of Mexico, shall—
-
-- **(1)** conduct a feasibility study of opening a multi-purpose United States International Law Enforcement Center in southern Mexico to assist in United States efforts to facilitate cooperation to combat transnational organized crime and drug trafficking organizations, as well as to reduce illegal immigration without processing any immigration related benefits to the United States; and
-- **(2)** submit to the relevant congressional committees a strategy, including a timeline and expected costs, for opening such a Center, incorporating the results of the feasibility study.
-
-## § 6. Definitions
-
-In this Act:
-
-- **(1)** *Alien* The term alien has the meaning given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
-- **(2)** *Relevant congressional committees* The term relevant congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+- **(a)** *Briefing required* Not later than 90 days after the date of the enactment of this Act, and not less frequently than once every 90 days thereafter until the date described in subsection (b), the Secretary of State, or the designee of the Secretary of State, shall provide to the appropriate congressional committees an in-person briefing on efforts undertaken pursuant to the negotiation authority provided by section 3 to monitor, deter, and prevent illegal immigration to the United States, including by entering into agreements, accords, and memoranda of understanding with foreign countries and by using United States foreign assistance to stem the root causes of migration in the Western Hemisphere.
+- **(b)** *Termination of mandatory briefing* The date described in this subsection is the date on which the Secretary of State, in consultation with the heads of other relevant Federal departments and agencies, determines and certifies to the appropriate congressional committees that illegal immigration flows have subsided to a manageable rate.
+- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
