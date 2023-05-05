@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-93 amendatory instructions. 21 executed, 72 stated and not applied.
+91 amendatory instructions. 20 executed, 71 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,15 +54,6 @@ to guess them.
 ### 8 U.S.C. § 1158
 
 > in paragraph (1), by striking “Attorney General” each place such term appears and inserting “Secretary of Homeland Security”;
-
-| | |
-|---|---|
-| Removed | `Attorney General` |
-| Inserted | `Secretary of Homeland Security` |
-
-### 8 U.S.C. § 1158
-
-> in paragraph (2), by striking “Attorney General” and inserting “Secretary of Homeland Security”; and
 
 | | |
 |---|---|
@@ -116,11 +107,11 @@ to guess them.
 
 ### 8 U.S.C. § 1101
 
-> in the matter preceding clause (i), by striking “, except for an unaccompanied alien child from a contiguous country subject to the exceptions under subsection (a)(2),” and inserting “who does not meet the criteria listed in paragraph (2)(A)”; and
+> in the matter preceding clause (i), by striking “, except for an unaccompanied alien child from a contiguous country subject to exceptions under subsection (a)(2),” and inserting “who does not meet the criteria listed in paragraph (2)(A)”; and
 
 | | |
 |---|---|
-| Removed | `, except for an unaccompanied alien child from a contiguous country subject to the exceptions under subsection (a)(2),` |
+| Removed | `, except for an unaccompanied alien child from a contiguous country subject to exceptions under subsection (a)(2),` |
 | Inserted | `who does not meet the criteria listed in paragraph (2)(A)` |
 
 ### 8 U.S.C. § 1221
@@ -241,17 +232,16 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1158` | replace | Section 208(d)(6) of the Immigration and Nationality Act (8 U.S.C. 1158(d)(6)) is amended by striking “If the” and all that follows and inserting: | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1158` | insert | in paragraph (2)(D), by inserting “Secretary of Homeland Security or the” before “Attorney General”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1158` | insert | in paragraph (3), by inserting “Secretary of Homeland Security or the” before “Attorney General”; | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1158` | insert | in subsection (b)(2), by inserting “Secretary of Homeland Security or the” before “Attorney General” each place such term appears; | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1158` | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “Secretary of Homeland Security or the” before “Attorney General”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1158` | insert | in paragraph (3), by inserting “Secretary of Homeland Security or the” before “Attorney General”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1158` | insert | in paragraph (1), by inserting “Secretary of Homeland Security or the” before “Attorney General” each place such term appears; | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1158` | insert | in paragraph (1), by inserting “Secretary of Homeland Security or the” before “Attorney General” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1158` | insert | in subparagraph (B), by inserting “Secretary of Homeland Security or the” before “Attorney General”. | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1225` | replace | in clauses (i) and (ii), by striking “section 212(a)(6)(C)” inserting “subparagraph (A) or (C) of section 212(a)(6)”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `8 U.S.C. § 1225` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1225` | add-at-end | by adding at the end the following: “The alien shall not be released (including pursuant to parole or release pursuant to section 236(a) but excluding as expressly authorized pursuant to section 212(d)(5)) other than to be removed or ret… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1225` | add-at-end | by adding at the end the following: “The alien shall not be released (including pursuant to parole or release pursuant to section 236(a) but excluding as expressly authorized pursuant to section 212(d)(5)) other than to be removed or ret… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1225` | strike | by striking subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1225` | redesignate | by redesignating paragraph (3) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1225` | redesignate | by redesignating paragraph (3) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1225` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1232` | add-at-end | Section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (8 U.S.C. 1232) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
