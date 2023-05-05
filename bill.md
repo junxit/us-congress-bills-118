@@ -1,0 +1,28 @@
+---
+legis-num: H. CON. RES. 40
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 40
+
+> Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enforcement agencies.
+
+## Preamble
+
+- Whereas our brave men and women in local law enforcement work tirelessly to protect the communities they serve;
+- Whereas local law enforcement officers are tasked with upholding the rule of law and ensuring public safety;
+- Whereas local law enforcement officers selflessly put themselves in harm’s way to fight crime, get drugs off our streets, and protect the innocent;
+- Whereas, in the summer of 2020, looting, rioting, and violence in major cities caused the destruction of many shops, restaurants, and businesses;
+- Whereas, in 2020, the United States tallied more than 21,000 murders—the highest total since 1995 and 4,900 more than in 2019;
+- Whereas leftist activists and progressive politicians called for the defunding and dismantling of local police departments across the country and actively encouraged resentment toward local law enforcement;
+- Whereas the defund the police movement vilifies and demonizes local law enforcement officers and puts them at greater risk of danger;
+- Whereas many local jurisdictions defunded their police departments and saw a subsequent increase in violent crime;
+- Whereas violent leftist extremists have repeatedly attacked and assaulted local law enforcement officers; and
+- Whereas local law enforcement officers deserve our respect and profound gratitude: Now, therefore, be it
+
+That Congress—
+
+- **(1)** recognizes and appreciates the dedication and devotion demonstrated by the men and women of local law enforcement who keep our communities safe; and
+- **(2)** condemns calls to defund, disband, dismantle, or abolish the police.
