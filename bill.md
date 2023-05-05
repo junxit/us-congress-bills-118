@@ -32,7 +32,7 @@ In this Act:
   - **(1)** *Immediate resumption of border wall construction* Not later than seven days after the date of the enactment of this section, the Secretary shall resume all activities related to the construction of the border wall along the international border between the United States and Mexico that were underway or being planned for prior to January 20, 2021.
   - **(2)** *Use of funds* To carry out this section, the Secretary shall expend all unexpired funds appropriated or explicitly obligated for the construction of the border wall that were appropriated or obligated, as the case may be, for use beginning on October 1, 2019.
   - **(3)** *Use of materials* Any unused materials purchased before the date of the enactment of this section for construction of the border wall may be used for activities related to the construction of the border wall in accordance with paragraph (1).
-- **(b)** *Plan To complete tactical infrastructure and technology* Not later than 90 days after the date of the enactment of this section and annually thereafter until construction of the border wall has been completed, the Secretary shall submit to the appropriate congressional committees an implementation plan, including annual benchmarks for the construction of 200 miles of such wall and associated cost estimates for satisfying all requirements of the construction of the border wall, including installation and deployment of tactical infrastructure, technology, and other elements as identified by the Department prior to January 20, 2021, through the expenditure of funds appropriated or explicitly obligated, as the case may be, for use, as well as any future funds appropriated or otherwise made available by Congress.
+- **(b)** *Plan to complete tactical infrastructure and technology* Not later than 90 days after the date of the enactment of this section and annually thereafter until construction of the border wall has been completed, the Secretary shall submit to the appropriate congressional committees an implementation plan, including annual benchmarks for the construction of 200 miles of such wall and associated cost estimates for satisfying all requirements of the construction of the border wall, including installation and deployment of tactical infrastructure, technology, and other elements as identified by the Department prior to January 20, 2021, through the expenditure of funds appropriated or explicitly obligated, as the case may be, for use, as well as any future funds appropriated or otherwise made available by Congress.
 - **(c)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Homeland Security and the Committee on Appropriations of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate.
   - **(2)** *Tactical infrastructure* The term “tactical infrastructure” includes boat ramps, access gates, checkpoints, lighting, and roads associated with a border wall.
@@ -48,7 +48,7 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 - **(2)** in subsection (b)—
   - **(A)** in the subsection heading, by striking “fencing and road improvements” and inserting “physical barriers”;
   - **(B)** in paragraph (1)—
-    - **(i)** in the heading, by striking “fencing” and inserting “Barriers”;
+    - **(i)** in the heading, by striking “fencing” and inserting “barriers”;
     - **(ii)** by amending subparagraph (A) to read as follows:
       > - **(A)** *Reinforced barriers* In carrying out this section, the Secretary of Homeland Security shall construct a border wall, including physical barriers, tactical infrastructure, and technology, along not fewer than 900 miles of the southwest border until situational awareness and operational control of the southwest border is achieved.
 
@@ -88,11 +88,11 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
   > - **(e)** *Technology* In carrying out this section, the Secretary of Homeland Security shall deploy along the southwest border the most practical and effective technology available for achieving situational awareness and operational control.
   > - **(f)** *Definitions* In this section:
   >   - **(1)** *Advanced unattended surveillance sensors* The term “advanced unattended surveillance sensors” means sensors that utilize an onboard computer to analyze detections in an effort to discern between vehicles, humans, and animals, and ultimately filter false positives prior to transmission.
-  >   - **(3)** *Operational control* The term “operational control” has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 (Public Law 109–367; 8 U.S.C. 1701 note).
-  >   - **(4)** *Physical barriers* The term “physical barriers” includes reinforced fencing, the border wall, and levee walls.
-  >   - **(5)** *Situational awareness* The term “situational awareness” has the meaning given such term in section 1092(a)(7) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 6 U.S.C. 223(a)(7)).
-  >   - **(6)** *Tactical infrastructure* The term “tactical infrastructure” includes boat ramps, access gates, checkpoints, lighting, and roads.
-  >   - **(7)** *Technology* The term “technology” includes border surveillance and detection technology, including the following:
+  >   - **(2)** *Operational control* The term “operational control” has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 (Public Law 109–367; 8 U.S.C. 1701 note).
+  >   - **(3)** *Physical barriers* The term “physical barriers” includes reinforced fencing, the border wall, and levee walls.
+  >   - **(4)** *Situational awareness* The term “situational awareness” has the meaning given such term in section 1092(a)(7) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 6 U.S.C. 223(a)(7)).
+  >   - **(5)** *Tactical infrastructure* The term “tactical infrastructure” includes boat ramps, access gates, checkpoints, lighting, and roads.
+  >   - **(6)** *Technology* The term “technology” includes border surveillance and detection technology, including the following:
   >     - **(A)** Tower-based surveillance technology.
   >     - **(B)** Deployable, lighter-than-air ground surveillance equipment.
   >     - **(C)** Vehicle and Dismount Exploitation Radars (VADER).
@@ -103,7 +103,7 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
   >     - **(H)** Tunnel detection systems and other seismic technology.
   >     - **(I)** Fiber-optic cable.
   >     - **(J)** Other border detection, communication, and surveillance technology.
-  >   - **(8)** *Unmanned aircraft system* The term “unmanned aircraft system” has the meaning given such term in section 44801 of title 49, United States Code.
+  >   - **(7)** *Unmanned aircraft system* The term “unmanned aircraft system” has the meaning given such term in section 44801 of title 49, United States Code.
 
 ## § 5. Border and port security technology investment plan
 
@@ -123,7 +123,7 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
   - **(5)** A description of each planned security-related technology program, including objectives, goals, and timelines for each such program.
   - **(6)** An identification of each deployed security-related technology that is at or near the end of the life cycle of such technology.
   - **(7)** A description of the test, evaluation, modeling, and simulation capabilities, including target methodologies, rationales, and timelines, necessary to support the acquisition of security-related technologies pursuant to paragraph (4).
-  - **(8)** An identification and assessment of ways to increase opportunities for communication and collaboration with the private sector, small and disadvantaged businesses, intragovernment entities, university centers of excellence, and Federal laboratories to ensure CBP is able to engage with the market for security-related technologies that are available to satisfy its mission needs before engaging in an acquisition of a security-related technology.
+  - **(8)** An identification and assessment of ways to increase opportunities for communication and collaboration with the private sector, small and disadvantaged businesses, intragovernment entities, university centers of excellence, and federal laboratories to ensure CBP is able to engage with the market for security-related technologies that are available to satisfy its mission needs before engaging in an acquisition of a security-related technology.
   - **(9)** An assessment of the management of planned security-related technology programs by the acquisition workforce of CBP.
   - **(10)** An identification of ways to leverage already-existing acquisition expertise within the Federal Government.
   - **(11)** A description of the security resources, including information security resources, required to protect security-related technology from physical or cyber theft, diversion, sabotage, or attack.
@@ -232,7 +232,7 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
   >     - **(C)** holds, or has undergone within the past five years, a current Tier 4 background investigation or current Tier 5 background investigation;
   >     - **(D)** received, or is eligible to receive, an honorable discharge from service in the Armed Forces and has not engaged in criminal activity or committed a serious military or civil offense under the Uniform Code of Military Justice; and
   >     - **(E)** was not granted any waivers to obtain the clearance referred to in subparagraph (B).
-  > - **(c)** *Termination of waiver requirement; snap-Back* The requirement to issue a waiver under subsection (b) shall terminate if the Commissioner of U.S. Customs and Border Protection (CBP) certifies to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that CBP has met all requirements pursuant to section 8 of the Border Reinforcement Act of 2023 relating to personnel levels. If at any time after such certification personnel levels fall below such requirements, the Commissioner shall waive the application of subsection (a)(1) until such time as the Commissioner re-certifies to such Committees that CBP has so met all such requirements.
+  > - **(c)** *Termination of waiver requirement; snap-back* The requirement to issue a waiver under subsection (b) shall terminate if the Commissioner of U.S. Customs and Border Protection (CBP) certifies to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that CBP has met all requirements pursuant to section 8 of the Border Reinforcement Act of 2023 relating to personnel levels. If at any time after such certification personnel levels fall below such requirements, the Commissioner shall waive the application of subsection (a)(1) until such time as the Commissioner re-certifies to such Committees that CBP has so met all such requirements.
 
 - **(b)** *Supplemental Commissioner authority; reporting; definitions* The Anti-Border Corruption Act of 2010 is amended by adding at the end the following new sections:
   > ## § 5. Supplemental Commissioner authority
@@ -319,7 +319,7 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 ## § 12. Air and Marine Operations flight hours
 
-- **(a)** *Air and marine operations flight hours* Not later than 120 days after the date of enactment of this Act, The Secretary shall ensure that not fewer than 110,000 annual flight hours are carried out by Air and Marine Operations of CBP.
+- **(a)** *Air and marine operations flight hours* Not later than 120 days after the date of enactment of this Act, the Secretary shall ensure that not fewer than 110,000 annual flight hours are carried out by Air and Marine Operations of CBP.
 - **(b)** *Unmanned aircraft systems* The Secretary, after coordination with the Administrator of the Federal Aviation Administration, shall ensure that Air and Marine Operations operate unmanned aircraft systems on the southern border of the United States for not less than 24 hours per day.
 - **(c)** *Primary missions* The Commissioner shall ensure the following:
   - **(1)** The primary missions for Air and Marine Operations are to directly support the following:
@@ -396,13 +396,13 @@ Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 ## § 15. U.S. Customs and Border Protection spiritual readiness
 
-Not later than one year after the enactment of this Act and annually thereafter, the Commissioner shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the availability and usage of the assistance of chaplains, prayer groups, houses of worship, and other spiritual resources for members of CBP who identify as religiously affiliated and have attempted suicide, have suicidal ideation, or are at risk of suicide, and metrics on the impact such resources have in assisting religiously affiliated members who have access to and utilize such resources compared to religiously affiliated members who do not.
+Not later than one year after the enactment of this Act and annually thereafter for five years, the Commissioner shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the availability and usage of the assistance of chaplains, prayer groups, houses of worship, and other spiritual resources for members of CBP who identify as religiously-affiliated and have attempted suicide, have suicidal ideation, or are at risk of suicide, and metrics on the impact such resources have in assisting religiously-affiliated members who have access to and utilize such resources compared to religiously-affiliated members who do not.
 
 ## § 16. Restrictions on funding
 
 - **(a)** *Arriving aliens* No funds are authorized to be appropriated to the Department to process the entry into the United States of aliens arriving in between ports of entry.
 - **(b)** *Restriction on nongovernmental organization support for unlawful activity* No funds are authorized to be appropriated to the Department for disbursement to any nongovernmental organization that facilitates or encourages unlawful activity, including unlawful entry, human trafficking, human smuggling, drug trafficking, and drug smuggling.
-- **(c)** *Restriction on nongovernmental organization support for aliens* No funds are authorized to be appropriated to the Department for disbursement to any nongovernmental organization that provides services for aliens who are entering or have entered the United States, whether at or between ports of entry.
+- **(c)** *Restriction on nongovernmental organization facilitation of illegal immigration* No funds are authorized to be appropriated to the Department for disbursement to any nongovernmental organization to provide, or facilitate the provision of, transportation, lodging, or immigration legal services to inadmissible aliens who enter the United States after the date of the enactment of this Act.
 
 ## § 17. Collection of DNA and biometric information at the border
 
@@ -411,7 +411,7 @@ Not later than 14 days after the date of the enactment of this Act, the Secretar
 ## § 18. Eradication of narcotic drugs and formulating effective new tools to address yearly losses of life; ensuring timely updates to U.S. Customs and Border Protection field manuals
 
 - **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and not less frequently than triennially thereafter, the Commissioner of U.S. Customs and Border Protection shall review and update, as necessary, the current policies and manuals of the Office of Field Operations related to inspections at ports of entry, and the U.S. Border Patrol related to inspections between ports of entry, to ensure the uniform implementation of inspection practices that will effectively respond to technological and methodological changes designed to disguise unlawful activity, such as the smuggling of drugs and humans, along the border.
-- **(b)** *Reporting requirement* Not later than 90 days after each update required under subsection (a), the Commissioner of U.S. Customs and Border Protection shall submit the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report that summarizes any policy and manual changes pursuant to subsection (a).
+- **(b)** *Reporting requirement* Not later than 90 days after each update required under subsection (a), the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report that summarizes any policy and manual changes pursuant to subsection (a).
 
 ## § 19. Publication by U.S. Customs and Border Protection of operational statistics
 
@@ -464,7 +464,7 @@ Not later than 14 days after the date of the enactment of this Act, the Secretar
     - **(F)** An iris image.
   - **(3)** *Covered identification document* The term “covered identification document” means any of the following, if the document is valid and unexpired:
     - **(A)** A United States passport or passport card.
-    - **(B)** A biometrically secure card issued by a trusted or registered traveler program of the Department of Homeland Security, including—
+    - **(B)** A biometrically secure card issued by a trusted traveler program of the Department of Homeland Security, including—
       - **(i)** Global Entry;
       - **(ii)** Nexus;
       - **(iii)** Secure Electronic Network for Travelers Rapid Inspection (SENTRI); and
@@ -477,10 +477,9 @@ Not later than 14 days after the date of the enactment of this Act, the Secretar
     - **(H)** A driver’s license issued by a province of Canada.
     - **(I)** A Secure Certificate of Indian Status issued by the Government of Canada.
     - **(J)** A Transportation Worker Identification Credential.
-    - **(K)** An Employment Authorization Document issued by U.S. Citizenship and Immigration Services.
-    - **(L)** A Merchant Mariner Credential issued by the Coast Guard.
-    - **(M)** A Veteran Health Identification Card issued by the Department of Veterans Affairs.
-    - **(N)** Any other document the Administrator determines, pursuant to a rule making in accordance with section 553 of title 5, United States Code, will satisfy the identity verification procedures of the Transportation Security Administration.
+    - **(K)** A Merchant Mariner Credential issued by the Coast Guard.
+    - **(L)** A Veteran Health Identification Card issued by the Department of Veterans Affairs.
+    - **(M)** Any other document the Administrator determines, pursuant to a rule making in accordance with section 553 of title 5, United States Code, will satisfy the identity verification procedures of the Transportation Security Administration.
   - **(4)** *Immigration laws* The term “immigration laws” has the meaning given that term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
   - **(5)** *Prohibited identification document* The term “prohibited identification document” means any of the following (or any applicable successor form):
     - **(A)** U.S. Immigration and Customs Enforcement Form I–200, Warrant for Arrest of Alien.
@@ -512,7 +511,7 @@ Not later than 14 days after the date of the enactment of this Act, the Secretar
 ## § 24. Report on designation of Mexican cartels as foreign terrorist organizations
 
 - **(a)** *Report*
-  - **(1)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report on whether a Mexican drug cartel described in paragraph (2) meets the criteria for designation as foreign terrorist organization.
+  - **(1)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report on whether a Mexican drug cartel described in paragraph (2) meets the criteria for designation as a foreign terrorist organization.
   - **(2)** *Mexican drug cartels described* The Mexican drug cartels described in this paragraph include the following:
     - **(A)** Jalisco New Generation Cartel.
     - **(B)** Sinaloa Cartel.
@@ -552,6 +551,15 @@ Not later than 14 days after the date of the enactment of this Act, the Secretar
 ## § 27. Offsetting authorizations of appropriations
 
 - **(a)** *Office of the Secretary and Emergency Management* No funds are authorized to be appropriated for the Alternatives to Detention Case Management Pilot Program or the Office of the Immigration Detention Ombudsman for the Office of the Secretary and Emergency Management of the Department of Homeland Security.
-- **(b)** *Management Directorate* No funds are authorized to be appropriated for electric vehicles or St. Elizabeth’s campus construction for the Management Directorate of the Department of Homeland Security.
+- **(b)** *Management Directorate* No funds are authorized to be appropriated for electric vehicles or St. Elizabeths campus construction for the Management Directorate of the Department of Homeland Security.
 - **(c)** *Intelligence, Analysis, and Situational Awareness* There is authorized to be appropriated $216,000,000 for Intelligence, Analysis, and Situational Awareness of the Department of Homeland Security.
 - **(d)** *U.S. Customs and Border Protection* No funds are authorized to be appropriated for the Shelter Services Program for U.S. Customs and Border Protection.
+
+## § 28. Report to Congress on foreign terrorist organizations
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act and annually thereafter for five years, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an assessment of foreign terrorist organizations attempting to move their members or affiliates into the United States through the southern, northern, or maritime border.
+- **(b)** *Definition* The term “foreign terrorist organization” means an organization described in section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+
+## § 29. Assessment by Inspector General of the Department of Homeland Security on the mitigation of unmanned aircraft systems at the southwest border
+
+Not later than 90 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an assessment of U.S. Customs and Border Protection’s ability to mitigate unmanned aircraft systems at the southwest border. Such assessment shall include information regarding any intervention between January 1, 2021, and the date of the enactment of this Act, by any Federal agency affecting in any manner U.S. Customs and Border Protection’s authority to so mitigate such systems.

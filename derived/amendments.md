@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2794
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 8 U.S.C. § 1103
 
-> in the heading, by striking “fencing” and inserting “Barriers”;
+> in the heading, by striking “fencing” and inserting “barriers”;
 
 | | |
 |---|---|
 | Removed | `fencing` |
-| Inserted | `Barriers` |
+| Inserted | `barriers` |
 
 ### 8 U.S.C. § 1103
 
