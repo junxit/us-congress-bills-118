@@ -1,7 +1,7 @@
 ---
 measure: S. 824
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 824
@@ -28,3 +28,7 @@ National Risk Management Act of 2023
 
 - 2023-03-15 — Introduced in Senate
 - 2023-03-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-20.
+- 2023-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-20.
+- 2023-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.

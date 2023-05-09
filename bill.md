@@ -46,7 +46,7 @@ This Act may be cited as the “National Risk Management Act of 2023”.
   >       - **(v)** request any additional authorities necessary to successfully execute the strategy.
   >     - **(C)** *Form* Each strategy delivered under subparagraph (A) shall be unclassified, but may contain a classified annex.
   >   - **(3)** *Congressional briefing* Not later than 1 year after the date on which the President delivers the first strategy required under paragraph (2)(A), and each year thereafter, the Secretary, in coordination with Sector Risk Management Agencies, shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives on—
-  >     - **(A)** the national risk management cycle activities undertaken pursuant to the strategy delivered under subparagraph (A); and
-  >     - **(B)** the amounts and timeline for funding that the Secretary has determined would be necessary to address risks and successfully execute the full range of activities proposed by the strategy delivered subparagraph (A).
+  >     - **(A)** the national risk management cycle activities undertaken pursuant to the strategy delivered under subparagraph (A)paragraph (2)(A); and
+  >     - **(B)** the amounts and timeline for funding that the Secretary has determined would be necessary to address risks and successfully execute the full range of activities proposed by the strategy delivered subparagraph (A)under paragraph (2)(A).
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by inserting after the item relating to section 2220E the following:
