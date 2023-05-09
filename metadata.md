@@ -1,7 +1,7 @@
 ---
 measure: S. 108
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 108
@@ -31,3 +31,7 @@ Guidance Clarity Act of 2023
 
 - 2023-01-26 — Introduced in Senate
 - 2023-01-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-19.
+- 2023-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-19.
+- 2023-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
