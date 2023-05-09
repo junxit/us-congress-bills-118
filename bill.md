@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 202
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 202
+
+> Expressing the sense of the Senate that the United States must continue to demonstrate leadership to achieve significant reforms to the rules of the World Trade Organization in order to promote the advancement of truly developing countries.
+
+That it is the sense of the Senate that—
+
+- **(1)** although the United States finds value and usefulness in the World Trade Organization in fulfilling the needs of the United States and other free and open economies in the 21st century, significant reforms at the World Trade Organization are needed; and
+- **(2)** the United States must continue to demonstrate leadership to achieve reforms that restore the effectiveness of the rules of the World Trade Organization for special and differential treatment to ensure those rules promote advancement for truly developing countries, rather than becoming tools for globally competitive countries, such as the People’s Republic of China, to engage in protectionism and market distortions.
