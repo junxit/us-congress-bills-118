@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 346
-congress: 118th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 346
 
-That the bill from the House of Representatives (H.R. 346) entitled “An Act to establish a task force on improvements for notices to air missions, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To establish a task force on improvements for notices to air missions, and for other purposes.
 
 ## § 1. Short title
 

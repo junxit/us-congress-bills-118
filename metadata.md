@@ -1,7 +1,7 @@
 ---
 measure: H.R. 346
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 346
@@ -65,3 +65,15 @@ NOTAM Improvement Act of 2023
 - 2023-05-09 — Senate amendment proposed (on the floor): Amendment SA 89 proposed by Senator Schumer for Senator Cantwell.(consideration: CR S1571-1572)
 - 2023-05-09 — Senate amendment submitted
 - 2023-05-09 — Senate amendment submitted
+- 2023-05-10 — Message on Senate action sent to the House.
+- 2023-05-22 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H. R. 346.
+- 2023-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-22 — Mr. Stauber moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H2481-2482)
+- 2023-05-22 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2023-05-22 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2023-05-25 — Presented to President.
+- 2023-05-25 — Presented to President.
+- 2023-06-03 — Became Public Law No: 118-4.
+- 2023-06-03 — Became Public Law No: 118-4.
+- 2023-06-03 — Signed by President.
+- 2023-06-03 — Signed by President.
