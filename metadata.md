@@ -1,7 +1,7 @@
 ---
 measure: H.R. 346
 congress: 118
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 346
@@ -53,3 +53,15 @@ NOTAM Improvement Act of 2023
 - 2023-01-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 4 (Roll no. 34). (text: CR H299)
 - 2023-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 4 (Roll no. 34). (text: CR H299)
 - 2023-01-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-05-09 — 
+- 2023-05-09 — Amendment SA 89 agreed to in Senate by Unanimous Consent.
+- 2023-05-09 — Amendment SA 89 proposed by Senator Schumer for Senator Cantwell. (consideration: CR S1571-1572) In the nature of a substitute.
+- 2023-05-09 — Measure laid before Senate by unanimous consent. (consideration: CR S1571-1572)
+- 2023-05-09 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S1571-1572)
+- 2023-05-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S1571-1572)
+- 2023-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2023-05-09 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2023-05-09 — Senate amendment agreed to: Amendment SA 89 agreed to in Senate by Unanimous Consent.
+- 2023-05-09 — Senate amendment proposed (on the floor): Amendment SA 89 proposed by Senator Schumer for Senator Cantwell.(consideration: CR S1571-1572)
+- 2023-05-09 — Senate amendment submitted
+- 2023-05-09 — Senate amendment submitted
