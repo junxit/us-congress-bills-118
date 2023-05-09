@@ -1,7 +1,7 @@
 ---
 measure: H.R. 676
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

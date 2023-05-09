@@ -1,7 +1,7 @@
 ---
 measure: H.R. 676
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 676
@@ -44,6 +44,10 @@ Coastal Communities Ocean Acidification Act of 2023
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2023-05-09 — [House 118-1-203](votes/house-118-1-0203.md) — On Motion to Suspend the Rules and Pass — **Passed** (351–58)
+
 ## Actions
 
 - 2023-01-31 — Introduced in House
@@ -54,3 +58,11 @@ Coastal Communities Ocean Acidification Act of 2023
 - 2023-05-05 — Placed on the Union Calendar, Calendar No. 32.
 - 2023-05-05 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-48.
 - 2023-05-05 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-48.
+- 2023-05-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-05-09 — Considered as unfinished business. (consideration: CR H2151-2152)
+- 2023-05-09 — Considered under suspension of the rules. (consideration: CR H2144-2147)
+- 2023-05-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 676.
+- 2023-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-09 — Mr. Miller (OH) moved to suspend the rules and pass the bill.
+- 2023-05-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 58 (Roll no. 203). (text: CR H2144-2145)
+- 2023-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 58 (Roll no. 203). (text: CR H2144-2145)
