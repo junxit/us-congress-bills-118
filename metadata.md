@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 157
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 157
@@ -45,3 +45,5 @@ A resolution commemorating the 25th anniversary of the signing of the Good Frida
 - 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-03 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 43.
+- 2023-05-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1572; text: 03/30/2023 CR S1107-1108)
+- 2023-05-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1572; text: 03/30/2023 CR S1107-1108)
