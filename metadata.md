@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 115
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 115
@@ -43,3 +43,5 @@ A resolution supporting the goals and ideals of "Countering International Parent
 - 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2023-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1608; text: 03/16/2023 CR S834)
+- 2023-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1608; text: 03/16/2023 CR S834)
