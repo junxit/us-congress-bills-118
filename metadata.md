@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 23
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 23
@@ -32,3 +32,5 @@ A resolution demanding that the Government of the People's Republic of China and
 - 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-04 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.
 - 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
+- 2023-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1588; text: 02/01/2023 CR S210)
+- 2023-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1588; text: 02/01/2023 CR S210)
