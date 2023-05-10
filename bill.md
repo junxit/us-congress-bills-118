@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 383
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 383
+
+> Providing for consideration of the bill (H.R. 2) to secure the borders of the United States, and for other purposes, and providing for consideration of the bill (H.R. 1163) to provide incentives for States to recover fraudulently paid Federal and State unemployment compensation, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2) to secure the borders of the United States, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) five hours of debate, with two hours equally divided and controlled by the chair and ranking minority member of the Committee on Homeland Security or their respective designees, two hours equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees, and one hour equally divided and controlled by the chair and ranking minority member of the Committee on Foreign Affairs or their respective designees; and (2) one motion to recommit.
+
+## § 2.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1163) to provide incentives for States to recover fraudulently paid Federal and State unemployment compensation, and for other purposes. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means or their respective designees; and (2) one motion to recommit.
