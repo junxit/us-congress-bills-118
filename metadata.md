@@ -1,7 +1,7 @@
 ---
 measure: H.R. 676
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 676
@@ -40,9 +40,10 @@ Coastal Communities Ocean Acidification Act of 2023
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Coastal Communities Ocean Acidification Act of 2023
 - 2023-05-09 — Mr. Miller (OH) moved to suspend the rules and pass the bill.
 - 2023-05-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 58 (Roll no. 203). (text: CR H2144-2145)
 - 2023-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 58 (Roll no. 203). (text: CR H2144-2145)
+- 2023-05-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
