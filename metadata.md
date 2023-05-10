@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 23
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 23
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Mullin, Markwayne [R-OK] (M001190)
@@ -35,6 +35,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -44,3 +47,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
+- 2023-05-10 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-05-10 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
