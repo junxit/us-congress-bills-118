@@ -1,7 +1,7 @@
 ---
 measure: S. 467
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 467
@@ -16,13 +16,14 @@ CADETS Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ CADETS Act
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2023-05-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. With written report No. 118-22.
+- 2023-05-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. With written report No. 118-22.
+- 2023-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.

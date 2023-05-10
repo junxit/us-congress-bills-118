@@ -17,4 +17,4 @@ This Act may be cited as the “Changing Age-Determined Eligibility To Student I
 
 Section 51509 of title 46, United States Code, is amended by adding at the end the following:
 
-> - **(i)** *Age requirement* The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment in the Navy Reserve at the time of graduation from the academy.
+> - **(i)** *Age requirement* The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment or commission in the Navy Reserve at the time of graduation from the academy.
