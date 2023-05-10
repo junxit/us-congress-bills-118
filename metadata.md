@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1715
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1715
@@ -26,9 +26,10 @@ Advanced Weather Model Computing Development Act
 - Rep. Caraveo, Yadira [D-CO-8] (C001134)
 - Rep. Foushee, Valerie P. [D-NC-4] (F000477)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Advanced Weather Model Computing Development Act
 - 2023-05-09 — Mr. Miller (OH) moved to suspend the rules and pass the bill.
 - 2023-05-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 50 (Roll no. 204). (text: CR H2147-2148)
 - 2023-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 50 (Roll no. 204). (text: CR H2147-2148)
+- 2023-05-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
