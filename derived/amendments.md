@@ -1,0 +1,45 @@
+---
+measure: S. 1510
+congress: 118
+version: Introduced in Senate
+derived: true
+---
+
+# What S. 1510 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+12 amendatory instructions. 0 executed, 12 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | insert | by inserting “(A)” before “The Inspector General”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), as so designated, by striking the second sentence; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(A)” before “The Inspector General”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), as so designated, by striking “be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General” and inserting “have a rate of basic pay that is not less than the average r… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Comptroller General” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), in the second sentence, by striking “, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
