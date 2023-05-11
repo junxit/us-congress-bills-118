@@ -1,7 +1,7 @@
 ---
 measure: S. 794
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 794
@@ -16,9 +16,11 @@ CTPAT Pilot Program Act of 2023
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ CTPAT Pilot Program Act of 2023
 
 - 2023-03-14 — Introduced in Senate
 - 2023-03-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-27.
+- 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-27.
+- 2023-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
