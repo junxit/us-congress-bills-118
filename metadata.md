@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1734
@@ -48,6 +48,10 @@ TRANQ Research Act of 2023
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2023-05-11 — [House 118-1-212](votes/house-118-1-0212.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (425–0)
+
 ## Actions
 
 - 2023-03-23 — Introduced in House
@@ -58,3 +62,11 @@ TRANQ Research Act of 2023
 - 2023-05-05 — Placed on the Union Calendar, Calendar No. 34.
 - 2023-05-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-50.
 - 2023-05-05 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-50.
+- 2023-05-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-05-09 — Considered under suspension of the rules. (consideration: CR H2149-2151)
+- 2023-05-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1734.
+- 2023-05-09 — Mr. Miller (OH) moved to suspend the rules and pass the bill, as amended.
+- 2023-05-11 — Considered as unfinished business. (consideration: CR H2295-2296)
+- 2023-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
+- 2023-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
