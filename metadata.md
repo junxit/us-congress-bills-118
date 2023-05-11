@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 24
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 24
@@ -37,6 +37,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2023-05-11 — [Senate 118-1-123](votes/senate-118-1-0123.md) — On the Joint Resolution — **Joint Resolution Passed** (51–49)
+
 ## Actions
 
 - 2023-03-30 — Introduced in Senate
@@ -44,3 +48,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
 - 2023-05-10 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2023-05-10 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-05-11 — Measure laid before Senate by unanimous consent. (consideration: CR S1609, S1613-1614)
+- 2023-05-11 — Passed Senate without amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 123. (text: CR S1614)
+- 2023-05-11 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 123.(text: CR S1614)
