@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 24
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 24
@@ -37,9 +37,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-05-11 — [Senate 118-1-123](votes/senate-118-1-0123.md) — On the Joint Resolution — **Joint Resolution Passed** (51–49)
+- 2023-07-27 — [House 118-1-382](votes/house-118-1-0382.md) — On Passage — **Passed** (220–209)
+- 2023-09-28 — [Senate 118-1-243](votes/senate-118-1-0243.md) — On Overriding the Veto — **Veto Sustained** (47–45)
 
 ## Actions
 
@@ -51,3 +53,23 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-05-11 — Measure laid before Senate by unanimous consent. (consideration: CR S1609, S1613-1614)
 - 2023-05-11 — Passed Senate without amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 123. (text: CR S1614)
 - 2023-05-11 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 49. Record Vote Number: 123.(text: CR S1614)
+- 2023-05-15 — Held at the desk.
+- 2023-05-15 — Message on Senate action sent to the House.
+- 2023-05-15 — Received in the House.
+- 2023-07-26 — Rule H. Res. 614 passed House.
+- 2023-07-26 — Rules Committee Resolution H. Res. 614 Reported to House. Rule provides for consideration of H.R. 4366, S.J. Res. 9 and S.J. Res. 24. The resolution provides for consideration of H.R. 4366, under a structured rule with one hour of general debate and a motion to recommit. The resolution provides for consideration of S.J. Res. 9 and S.J. Res. 24, under a closed rule with one hour of general debate for both joint resolutions and one motion to commit for both joint resolutions.
+- 2023-07-27 — Considered under the provisions of rule H. Res. 614. (consideration: CR H4052-4058)
+- 2023-07-27 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 24.
+- 2023-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-27 — On passage Passed by the Yeas and Nays: 220 - 209 (Roll no. 382). (text: CR H4052)
+- 2023-07-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 209 (Roll no. 382). (text: CR H4052)
+- 2023-07-27 — Rule provides for consideration of H.R. 4366, S.J. Res. 9 and S.J. Res. 24. The resolution provides for consideration of H.R. 4366, under a structured rule with one hour of general debate and a motion to recommit. The resolution provides for consideration of S.J. Res. 9 and S.J. Res. 24, under a closed rule with one hour of general debate for both joint resolutions and one motion to commit for both joint resolutions.
+- 2023-07-27 — The previous question was ordered pursuant to the rule.
+- 2023-09-14 — Presented to President.
+- 2023-09-14 — Presented to President.
+- 2023-09-26 — Veto message received in Senate. Ordered held at the desk.
+- 2023-09-26 — Vetoed by President.
+- 2023-09-26 — Vetoed by President.
+- 2023-09-28 — Failed of passage in Senate over veto by Yea-Nay Vote. 47 - 45. Record Vote Number: 243.
+- 2023-09-28 — Failed of passage in Senate over veto: Failed of passage in Senate over veto by Yea-Nay Vote. 47 - 45. Record Vote Number: 243.
+- 2023-09-28 — Veto Message considered in Senate. (consideration: CR S4740)
