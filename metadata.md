@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 195
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 195
@@ -16,7 +16,7 @@ A resolution congratulating the students, parents, teachers, and leaders of char
 
 - Sen. Scott, Tim [R-SC] (S001184)
 
-## Cosponsors (24)
+## Cosponsors (26)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Johnson, Ron [R-WI] (J000293)
@@ -42,6 +42,8 @@ A resolution congratulating the students, parents, teachers, and leaders of char
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Boozman, John [R-AR] (B001236)
 
 ## Committees (1)
 
@@ -51,3 +53,7 @@ A resolution congratulating the students, parents, teachers, and leaders of char
 
 - 2023-05-04 — Introduced in Senate
 - 2023-05-04 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-05-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1632; text: 05/04/2023 CR S1536-1537)
+- 2023-05-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1632; text: 05/04/2023 CR S1536-1537)
+- 2023-05-11 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2023-05-11 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
