@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1163
@@ -58,6 +58,11 @@ Protecting Taxpayers and Victims of Unemployment Fraud Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2023-05-11 — [House 118-1-210](votes/house-118-1-0210.md) — On Motion to Recommit — **Failed** (210–221)
+- 2023-05-11 — [House 118-1-211](votes/house-118-1-0211.md) — On Passage — **Passed** (230–200)
+
 ## Actions
 
 - 2023-02-24 — Introduced in House
@@ -68,3 +73,21 @@ Protecting Taxpayers and Victims of Unemployment Fraud Act
 - 2023-04-06 — Placed on the Union Calendar, Calendar No. 21.
 - 2023-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-34.
 - 2023-04-06 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-34.
+- 2023-05-10 — Rule H. Res. 383 passed House.
+- 2023-05-10 — Rules Committee Resolution H. Res. 383 Reported to House. Rule provides for consideration of H.R. 2 and H.R. 1163. The resolution provides for consideration of H.R. 2 under a closed rule with five hours of general debate, and the resolution provides for consideration of H.R. 1163 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on each measure.
+- 2023-05-11 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2023-05-11 — Considered as unfinished business. (consideration: CR H2294-2295)
+- 2023-05-11 — Considered under the provisions of rule H. Res. 383. (consideration: CR H2281-2292)
+- 2023-05-11 — DEBATE - The House proceeded with one hour of debate on H.R. 1163.
+- 2023-05-11 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-05-11 — House amendment offered
+- 2023-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-11 — Mrs. Sykes moved to recommit to the Committee on Ways and Means. (text: CR H2292)
+- 2023-05-11 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-05-11 — On motion to recommit Failed by the Yeas and Nays: 210 - 221 (Roll no. 210).
+- 2023-05-11 — On passage Passed by recorded vote: 230 - 200 (Roll no. 211). (text: CR H2281-2283)
+- 2023-05-11 — POSTPONED PROCEEDINGS - The Chair put the question on the motion to recommit the bill and by voice vote announced the noes had prevailed. Mrs. Sykes demanded the yeas and nays, and the Chair postoned further proceedings until a time to be announced.
+- 2023-05-11 — Passed/agreed to in House: On passage Passed by recorded vote: 230 - 200 (Roll no. 211). (text: CR H2281-2283)
+- 2023-05-11 — Rule provides for consideration of H.R. 2 and H.R. 1163. The resolution provides for consideration of H.R. 2 under a closed rule with five hours of general debate, and the resolution provides for consideration of H.R. 1163 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on each measure.
+- 2023-05-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-05-11 — The previous question was ordered pursuant to the rule.

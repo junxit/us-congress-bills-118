@@ -98,3 +98,7 @@ Notwithstanding any other provision of law, any criminal charge or civil enforce
 ## § 7. Budget offset
 
 Section 2118 of the CARES Act (15 U.S.C. 9034) is repealed.
+
+## § 8. State fund contingency
+
+Subject to appropriations, the unobligated balance as of the day before the date of the enactment of this Act of amounts made available under section 2118 of the CARES Act (15 U.S.C. 9034) shall be transferred to the Secretary of the Treasury and periodically credited, on an as-needed basis, to the appropriate State account in the Unemployment Trust Fund established by section 904 of the Social Security Act (42 U.S.C. 1104) in an amount that replaces the amount deposited by a State in a State fund in accordance with subparagraph (H) or (I) of section 3304(a)(4) of the Internal Revenue Code of 1986 (as amended by section 3(a) of this Act) if the amount in such State account is less than the amount that would be in such State account if such subparagraphs had not been enacted.
