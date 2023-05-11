@@ -1,7 +1,7 @@
 ---
 measure: H.R. 498
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 498
@@ -30,3 +30,10 @@ version: Introduced in House
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Referred to the House Committee on Energy and Commerce.
 - 2023-01-25 — Referred to the Subcommittee on Health.
+- 2023-03-08 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 27 - 0 .
+- 2023-03-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-03-23 — Committee Consideration and Mark-up Session Held.
+- 2023-03-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 0.
+- 2023-05-11 — Placed on the Union Calendar, Calendar No. 35.
+- 2023-05-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-52.
+- 2023-05-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-52.
