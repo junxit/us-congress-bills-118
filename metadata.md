@@ -1,7 +1,7 @@
 ---
 measure: S. 243
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 243
@@ -31,3 +31,7 @@ A bill to require the Commissioner of U.S. Customs and Border Protection to esta
 
 - 2023-02-02 — Introduced in Senate
 - 2023-02-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-23.
+- 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-23.
+- 2023-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.
