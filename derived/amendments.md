@@ -1,7 +1,7 @@
 ---
 measure: S. 1170
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-78 amendatory instructions. 0 executed, 78 stated and not applied.
+79 amendatory instructions. 0 executed, 79 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -109,3 +109,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (11), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “visual depiction of a minor engaging in sexually explicit conduct (if the production of the visual depiction involved the use of a minor engaging in sexually explicit conduct), intending that the visual de… | the bill names no machine-readable US Code section |
+| `34 U.S.C. § 20942` | amend | Section 143 of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20942) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
