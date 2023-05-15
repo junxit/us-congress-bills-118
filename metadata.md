@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1734
@@ -70,3 +70,4 @@ TRANQ Research Act of 2023
 - 2023-05-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
 - 2023-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
+- 2023-05-15 — Received in the Senate, read twice.
