@@ -17,7 +17,7 @@ This Act may be cited as the “Federal Law Enforcement Officer Service Weapon P
 
 - **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator of General Services shall establish a program under which a Federal law enforcement officer may purchase a retired handgun from the Federal agency that issued the handgun to such officer.
 - **(b)** *Limitations* A Federal law enforcement officer may purchase a retired handgun under subsection (a) if—
-  - **(1)** the purchase is made during the 6-month period beginning on the date the handgun was so retired; and
+  - **(1)** the purchase is made during the six-month period beginning on the date the handgun was so retired; and
   - **(2)** with respect to such purchase, the officer is in good standing with the Federal agency that employs such officer.
 - **(c)** *Cost* A handgun purchased under this section shall be sold at the fair market value for such handgun taking into account the age and condition of the handgun.
 - **(d)** *Definitions* In this section—
