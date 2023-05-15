@@ -1,7 +1,7 @@
 ---
 measure: S. 1207
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1207
@@ -16,7 +16,7 @@ EARN IT Act of 2023
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -38,6 +38,7 @@ EARN IT Act of 2023
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Ricketts, Pete [R-NE] (R000618)
 
 ## Committees (1)
 
@@ -47,3 +48,7 @@ EARN IT Act of 2023
 
 - 2023-04-19 — Introduced in Senate
 - 2023-04-19 — Read twice and referred to the Committee on the Judiciary.
+- 2023-05-04 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-05-15 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
+- 2023-05-15 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
+- 2023-05-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.
