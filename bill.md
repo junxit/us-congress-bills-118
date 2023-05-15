@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3354
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3354
+
+> To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the “Secretary of State Madeleine Albright Post Office Building”.
+
+## § 1. Secretary of State Madeleine Albright Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, shall be known and designated as the “Secretary of State Madeleine Albright Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Secretary of State Madeleine Albright Post Office Building”.
