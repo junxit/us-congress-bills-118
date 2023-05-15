@@ -2,12 +2,12 @@
 legis-num: H. RES. 363
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 363
 
-> Expressing support for recognizing “National Police Week”.
+> Resolution memorializing law enforcement officers killed in the line of duty.
 
 ## Preamble
 
@@ -21,10 +21,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** expresses support for recognizing “National Police Week”;
-- **(2)** expresses unwavering support for law enforcement officers across the United States in the pursuit of preserving safe and secure communities;
+- **(1)** acknowledges that police officers and other law enforcement personnel, especially those who have made the ultimate sacrifice, should be remembered and honored;
+- **(2)** expresses unwavering support for law enforcement officers across the United States in the 8 pursuit of preserving safe and secure communities;
 - **(3)** recognizes the need to ensure that law enforcement officers have the equipment, training, and resources that are necessary in order to protect the health and safety of the officers while the officers protect the public;
-- **(4)** recognizes the law enforcement community for continual unseen acts of sacrifice and heroism;
-- **(5)** acknowledges that police officers and other law enforcement personnel, especially those who have made the ultimate sacrifice, should be remembered and honored;
-- **(6)** expresses condolences and solemn appreciation to the loved ones of each law enforcement officer who has made the ultimate sacrifice in the line of duty; and
-- **(7)** encourages the people of the United States to observe “National Police Week” by honoring law enforcement personnel and promoting awareness of the essential mission that law enforcement personnel undertake in service to their communities and the United States.
+- **(4)** recognizes the law enforcement community for continual unseen acts of sacrifice and heroism; and
+- **(5)** expresses condolences and solemn appreciation to the loved ones of each law enforcement officer who has made the ultimate sacrifice in the line of duty.
