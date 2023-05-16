@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2
@@ -84,3 +84,5 @@ Secure the Border Act of 2023
 - 2023-05-11 — Pursuant to clause 1(c) of rule XIX, the Chair announced that consideration of H.R. 2 would now resume.
 - 2023-05-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-05-11 — The previous question was ordered pursuant to the rule.
+- 2023-05-15 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-05-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
