@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3389
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3389
+
+> To require the Secretary of Agriculture, acting through the Chief of the Forest Service, and the Secretary of the Interior to conduct an evaluation with respect to the use of the container aerial firefighting system (CAFFS), and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Wildfire Fighting Technology Act of 2023”.
+
+## § 2. Container aerial firefighting system (CAFFS)
+
+- **(a)** *Evaluation* Not later than 60 days after the date of the enactment of this Act, the Secretary of Agriculture and the Secretary of the Interior, in consultation with the National Interagency Aviation Committee, and the Interagency Airtanker Board, shall jointly conduct an evaluation of the container aerial firefighting system to assess the use of such system to mitigate and suppress wildfires.
+- **(b)** *Update of deployment protocols* Not later than 90 days after the date of the enactment of this Act, the Secretary of Agriculture, the Secretary of the Interior, the National Interagency Aviation Committee, and the Interagency Airtanker Board shall, based on the results of the evaluation required under subsection (a), each update the respective deployment protocols for appropriate use of the container aerial fighting system.
+- **(c)** *Reports* Not later than 90 days after the date of the enactment of this Act—
+  - **(1)** the Secretary of Agriculture and the Secretary of the Interior, in consultation with the National Interagency Aviation Committee, and the Interagency Airtanker Board, shall jointly submit to the appropriate committees a report that includes the results of the evaluation required under subsection (a); and
+  - **(2)** the Secretary of Agriculture, the Secretary of the Interior, the National Interagency Aviation Committee, and the Interagency Airtanker Board shall each submit to the appropriate committees a report that includes a summary of any updates made to deployment protocols pursuant to subsection (b).
+- **(d)** *Appropriate committees defined* In this section, the term appropriate committees means—
+  - **(1)** the Committees on Agriculture and Natural Resources of the House of Representatives; and
+  - **(2)** the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate.
