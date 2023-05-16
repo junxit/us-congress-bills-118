@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 366
@@ -16,7 +16,7 @@ Korean American VALOR Act
 
 - Rep. Takano, Mark [D-CA-39] (T000472)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Dean, Madeleine [D-PA-4] (D000631)
@@ -29,6 +29,10 @@ Korean American VALOR Act
 - Rep. Meng, Grace [D-NY-6] (M001188)
 - Rep. Kim, Andy [D-NJ-3] (K000394)
 - Rep. Chu, Judy [D-CA-28] (C001080)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Murphy, Gregory F. [R-NC-3] (M001210)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
 ## Committees (1)
 
@@ -39,3 +43,12 @@ Korean American VALOR Act
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Referred to the House Committee on Veterans' Affairs.
+- 2023-02-08 — Referred to the Subcommittee on Health.
+- 2023-03-29 — Subcommittee Hearings Held.
+- 2023-04-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-04-28 — Committee Consideration and Mark-up Session Held.
+- 2023-04-28 — Ordered to be Reported by Voice Vote.
+- 2023-04-28 — Subcommittee on Health Discharged.
+- 2023-05-16 — Placed on the Union Calendar, Calendar No. 44.
+- 2023-05-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-64.
+- 2023-05-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-64.
