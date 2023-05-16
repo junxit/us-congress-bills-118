@@ -34,14 +34,14 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(5)** *Mathematical modeling* The term mathematical modeling has the meaning given the term in the 2019 Guidelines to Assessment and Instruction in Mathematical Modeling Education (GAIMME) report, 2nd edition.
   - **(6)** *Operations research* The term operations research means the application of scientific methods to the management and administration of organized military, governmental, commercial, and industrial processes to maximize operational efficiency.
   - **(7)** *Statistical modeling* The term statistical modeling has the meaning given the term in the 2021 Guidelines to Assessment and Instruction in Statistical Education (GAISE II) report.
-  - **(8)** *Stem* The term STEM means the academic and professional disciplines of science, technology, engineering, and mathematics.
-- **(c)** *Preparing educators To engage students in mathematical and statistical modeling* The Director shall provide grants on a merit-reviewed, competitive basis to institutions of higher education, and nonprofit organizations (or a consortium thereof) for research and development to advance innovative approaches to support and sustain high-quality mathematical modeling education in schools operated by local education agencies, including statistical modeling, data science, operations research, and computational thinking. The Director shall encourage applicants to form partnerships to address critical transitions, such as middle school to high school, high school to college, and school to internships and jobs.
-- **(d)** *Application* An entity seeking a grant under subsection (c) shall submit an application at such time, in such manner, and containing such information as the Director may require. The application shall include the following:
-  - **(1)** A description of the target population to be served by the research activity for which such grant is sought, including student subgroups described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), and students experiencing homelessness and children and youth in foster care.
+  - **(8)** *Stem* The term STEM means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
+- **(c)** *Preparing educators To engage students in mathematical and statistical modeling* The Director shall make awards on a merit-reviewed, competitive basis to institutions of higher education, and nonprofit organizations (or a consortium thereof) for research and development to advance innovative approaches to support and sustain high-quality mathematical modeling education in schools that are private, faith-based, or homeschools, or operated by local educational agencies, including statistical modeling, data science, operations research, and computational thinking. The Director shall encourage applicants to form partnerships to address critical transitions, such as middle school to high school, high school to college, and school to internships and jobs.
+- **(d)** *Application* An entity seeking an award under subsection (c) shall submit an application at such time, in such manner, and containing such information as the Director may require. The application shall include the following:
+  - **(1)** A description of the target population to be served by the research activity for which such an award is sought, including student subgroups described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), and students experiencing homelessness and children and youth in foster care.
   - **(2)** A description of the process for recruitment and selection of students, educators, or local educational agencies to participate in such research activity.
-  - **(3)** A description of how such research activity may inform efforts to promote the engagement and achievement of students in prekindergarten through grade 12 in mathematical modeling and statistical modeling using problem-based learning with con­tex­tu­al­ized data and computational tools.
+  - **(3)** A description of how such research activity may inform efforts to promote the engagement and achievement of students, including students from groups historically underrepresented in STEM, in prekindergarten through grade 12 in mathematical modeling and statistical modeling using problem-based learning with contextualized data and computational tools.
   - **(4)** In the case of a proposal consisting of a partnership or partnerships with 1 or more local educational agencies and 1 or more researchers, a plan for establishing a sustained partnership that is jointly developed and managed, draws from the capacities of each partner, and is mutually beneficial.
-- **(e)** *Partnerships* In awarding grants under subsection (c), the Director shall encourage applications that include—
+- **(e)** *Partnerships* In making awards under subsection (c), the Director shall encourage applications that include—
   - **(1)** partnership with a nonprofit organization or an institution of higher education that has extensive experience and expertise in increasing the participation of students in prekindergarten through grade 12 in mathematical modeling and statistical modeling;
   - **(2)** partnership with a local educational agency, a consortium of local educational agencies, or Tribal educational agencies;
   - **(3)** an assurance from school leaders to making reforms and activities proposed by the applicant a priority;
@@ -49,7 +49,7 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(5)** input from education researchers and cognitive scientists, as well as practitioners in research and industry, so that what is being taught is up-to-date in terms of content and pedagogy;
   - **(6)** a communications strategy for early conversations with parents, school leaders, school boards, community members, employers, and other stakeholders; and
   - **(7)** resources for parents, school leaders, school boards, community members, and other stakeholders to build skills in modeling and analytics.
-- **(f)** *Use of funds* An entity that receives a grant under this section shall use the grant funds for research and development activities to advance innovative approaches to support and sustain high-quality mathematical modeling education in public schools, including statistical modeling, data science, operations research, and computational thinking, which may include—
+- **(f)** *Use of funds* An entity that receives an award under this section shall use the award for research and development activities to advance innovative approaches to support and sustain high-quality mathematical modeling education in public schools, private schools (including faith-based schools), or homeschools, including statistical modeling, data science, operations research, and computational thinking, which may include—
   - **(1)** engaging prekindergarten through grade 12 educators in professional learning opportunities to enhance mathematical modeling and statistical problem solving knowledge, and developing training and best practices to provide more interdisciplinary learning opportunities;
   - **(2)** conducting research on curricula and teaching practices that empower students to choose the mathematical, statistical, computational, and technological tools that they will apply to a problem, as is required in life and the workplace, rather than prescribing a particular approach or method;
   - **(3)** providing students with opportunities to explore and analyze real data sets from contexts that are meaningful to the students, which may include—
@@ -65,17 +65,20 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(9)** providing hands-on training and research opportunities for mathematics and statistics educators at Federal laboratories, institutions of higher education, or in industry;
   - **(10)** developing mechanisms for partnerships between educators and employers to help educators and students make connections between their mathematics and statistics projects and topics of relevance in today’s world;
   - **(11)** designing and implementing professional development courses and experiences, including mentoring for educators, that combine face-to-face and online experiences;
-  - **(12)** addressing critical transitions, such as middle school to high school, high school to college, and school to internships and jobs; and
-  - **(13)** any other activity the Director determines will accomplish the goals of this section.
-- **(g)** *Evaluations* All proposals for grants under this section shall include an evaluation plan that includes the use of outcome oriented measures to assess the impact and efficacy of the grant. Each recipient of a grant under this section shall include results from these evaluative activities in annual and final projects.
+  - **(12)** reduce gaps in access to learning opportunities for students from groups historically underrepresented in STEM;
+  - **(13)** provide support and resources for students from groups historically underrepresented in STEM;
+  - **(14)** addressing critical transitions, such as middle school to high school, high school to college, and school to internships and jobs;
+  - **(15)** researching effective approaches for engaging students from groups historically underrepresented in STEM; and
+  - **(16)** any other activity the Director determines will accomplish the goals of this section.
+- **(g)** *Evaluations* All proposals for awards under this section shall include an evaluation plan that includes the use of outcome oriented measures to assess the impact and efficacy of the award. Each recipient of an award under this section shall include results from these evaluative activities in annual and final projects.
 - **(h)** *Accountability and dissemination*
-  - **(1)** *Evaluation required* The Director shall evaluate the portfolio of grants awarded under this section. Such evaluation shall—
-    - **(A)** use a common set of benchmarks and tools to assess the results of research conducted under such grants and identify best practices; and
-    - **(B)** to the extent practicable, integrate the findings of research resulting from the activities funded through such grants with the findings of other research on student’s pursuit of degrees or careers in STEM.
+  - **(1)** *Evaluation required* The Director shall evaluate the portfolio of awards made under this section. Such evaluation shall—
+    - **(A)** use a common set of benchmarks and tools to assess the results of research conducted under such awards and identify best practices; and
+    - **(B)** to the extent practicable, integrate the findings of research resulting from the activities funded through such awards with the findings of other research on student’s pursuit of degrees or careers in STEM.
   - **(2)** *Report on evaluations* Not later than 180 days after the completion of the evaluation under paragraph (1), the Director shall submit to Congress and make widely available to the public a report that includes—
     - **(A)** the results of the evaluation; and
-    - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the grants awarded under this section.
-- **(i)** *Authorization of appropriations* For each of fiscal years 2024 through 2028, there are authorized to be appropriated to the National Science Foundation $10,000,000 to carry out the activities under this section.
+    - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the awards made under this section.
+- **(i)** *Funding* From amounts appropriated or otherwise made available for the Directorate for STEM Education of the National Science Foundation, the Director shall allocate up to $10,000,000 for each of fiscal years 2024 through 2028 to carry out this section.
 
 ## § 3. NASEM report on mathematical and statistical modeling education in prekindergarten through 12th grade
 
@@ -91,4 +94,9 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(1)** the results of the study conducted under subsection (a);
   - **(2)** recommendations to modernize the processes described in subsection (a)(1); and
   - **(3)** recommendations for such legislative and administrative action as NASEM, or such other appropriate entity, determines appropriate.
-- **(d)** *Authorization of appropriations* For fiscal year 2024, there are authorized to be appropriated to the National Science Foundation $1,000,000 to carry out the activities under this section.
+- **(d)** *Funding* From amounts appropriated or otherwise made available for the Directorate for STEM Education of the National Science Foundation, the Director shall allocate up to $1,000,000 for fiscal year 2024 to carry out this section.
+
+## § 4. Limitations
+
+- **(a)** *Limitation on funding* Amounts made available to carry out sections 2 and 3 shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+- **(b)** *Sunset* The authority to provide awards under this Act shall expire on September 30, 2028.
