@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1153
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1153
@@ -16,6 +16,10 @@ DATA Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
+## Cosponsors (1)
+
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+
 ## Committees (1)
 
 - House — Foreign Affairs Committee
@@ -25,3 +29,8 @@ DATA Act
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Referred to the House Committee on Foreign Affairs.
+- 2023-03-01 — Committee Consideration and Mark-up Session Held.
+- 2023-03-01 — Ordered to be Reported by the Yeas and Nays: 24 - 16.
+- 2023-05-16 — Placed on the Union Calendar, Calendar No. 43.
+- 2023-05-16 — Reported by the Committee on Foreign Affairs. H. Rept. 118-63.
+- 2023-05-16 — Reported by the Committee on Foreign Affairs. H. Rept. 118-63.
