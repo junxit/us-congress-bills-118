@@ -1,7 +1,7 @@
 ---
 measure: S. 917
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -39,6 +39,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 650` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 650` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by inserting after the item relating to section 2220E the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665e` | add-at-end | Section 2219(d)(1) of the Homeland Security Act of 2002 (6 U.S.C. 665e(d)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 101` | strike | in paragraph (7), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 101` | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 650` | strike | in paragraph (7), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 650` | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 650` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

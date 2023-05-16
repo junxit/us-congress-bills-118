@@ -1,7 +1,7 @@
 ---
 measure: S. 917
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 917
@@ -28,3 +28,7 @@ Securing Open Source Software Act of 2023
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-32.
+- 2023-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-32.
+- 2023-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.

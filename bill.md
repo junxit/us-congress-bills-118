@@ -39,7 +39,7 @@ Congress finds that—
     - **(A)** in paragraph (13), by striking “and” at the end;
     - **(B)** by redesignating paragraph (14) as paragraph (15); and
     - **(C)** by inserting after paragraph (13) the following:
-      > - **(14)** support, including by offering services, the secure usage and deployment of software, including open source software, in the software development lifecycle at Federal agencies in accordance with section 2220E; and
+      > - **(14)** support, including by offering services, the secure usage and deployment of software, including open source software, in the software development lifecycle at Federal agencies in accordance with section 2220Esection 2220F; and
 
   - **(3)** by adding at the end the following:
     > ## § 2220F. Open source software security duties
@@ -53,7 +53,7 @@ Congress finds that—
     >     - **(A)** perform outreach and engagement to bolster the security of open source software;
     >     - **(B)** support Federal efforts to strengthen the security of open source software;
     >     - **(C)** coordinate, as appropriate, with non-Federal entities on efforts to ensure the long-term security of open source software;
-    >     - **(D)** serve as a public point of contact regarding the security of open source software for non-Federal entities, including State, local, Tribal, and territorial partners, the private sector, international partners, open source software organizations, and open source software developers; and
+    >     - **(D)** serve as a public point of contact regarding the security of open source software for non-Federal entities, including State, local, Tribal, and territorial partners, the private sector, international partners, open source software organizations, and open source software developersand the open source software community; and
     >     - **(E)** support Federal and non-Federal supply chain security efforts by encouraging efforts to bolster open source software security, such as—
     >       - **(i)** assisting in coordinated vulnerability disclosures in open source software components pursuant to section 2209(n); and
     >       - **(ii)** supporting the activities of the Federal Acquisition Security Council.
@@ -64,7 +64,7 @@ Congress finds that—
     >       - **(iii)** the number and severity of publicly known, unpatched vulnerabilities in a given open source software component;
     >       - **(iv)** the breadth of deployment of a given open source software component;
     >       - **(v)** the level of risk associated with where a given open source software component is integrated or deployed, such as whether the component operates on a network boundary or in a privileged location; and
-    >       - **(vi)** the health of the community for a given open source software component, including, where applicable, the level of current and historical investment and maintenance in the open source software component, such as the number and activity of individual maintainers.
+    >       - **(vi)** the health of the open source software community for a given open source software component, including, where applicable, the level of current and historical investment and maintenance in the open source software component, such as the number and activity of individual maintainers.
     >     - **(B)** *Updating framework* Not less frequently than annually after the date on which the framework is published under subparagraph (A), the Director shall—
     >       - **(i)** determine whether updates are needed to the framework described in subparagraph (A), including the augmentation, addition, or removal of the elements described in clauses (i) through (vi) of such subparagraph; and
     >       - **(ii)** if the Director determines that additional updates are needed under clause (i), make those updates to the framework.
@@ -75,24 +75,24 @@ Congress finds that—
     >     - **(D)** *Usability* The Director shall ensure, to the greatest extent practicable, that the framework described in subparagraph (A) is usable by the open source software community, including through the consultation described in subparagraph (C).
     >     - **(E)** *Federal open source software assessment* Not later than 1 year after the publication of the framework described in subparagraph (A), and not less frequently than every 2 years thereafter, the Director shall, to the greatest extent practicable and using the framework described in subparagraph (A)—
     >       - **(i)** perform an assessment of open source software components used directly or indirectly by Federal agencies based on readily available, and, to the greatest extent practicable, machine readable, information, such as—
-    >         - **(I)** software bills of material that are, at the time of the assessment, made available to the Agency or are otherwise accessible via the internet;
+    >         - **(I)** software bills of materials that are, at the time of the assessment, made available to the Agency or are otherwise accessible via the internet;
     >         - **(II)** software inventories, available to the Director at the time of the assessment, from the Continuous Diagnostics and Mitigation program of the Agency; and
     >         - **(III)** other publicly available information regarding open source software components; and
     >       - **(ii)** develop 1 or more ranked lists of components described in clause (i) based on the assessment, such as ranked by the criticality, level of risk, or usage of the components, or a combination thereof.
     >     - **(F)** *Automation* The Director shall, to the greatest extent practicable, automate the assessment conducted under subparagraph (E).
     >     - **(G)** *Publication* The Director shall publicly publish and maintain any tools developed to conduct the assessment described in subparagraph (E) as open source software.
     >     - **(H)** *Sharing*
-    >       - **(i)** *Results* The Director shall facilitate the sharing of the results of the assessment described in subparagraph (E) with appropriate Federal and non-Federal entities working to support the security of open source software, including by offering means for appropriate Federal and non-Federal entities to download the assessment in an automated manner.
-    >       - **(ii)** *Datasets* The Director may publicly publish, as appropriate, any datasets or versions of the datasets developed or consolidated as a result of the assessment described in subparagraph (E).
+    >       - **(i)** *Results* The Director shall facilitate the sharing of the results of theeach assessment described in subparagraph (E)(i) with appropriate Federal and non-Federal entities working to support the security of open source software, including by offering means for appropriate Federal and non-Federal entities to download the assessment in an automated manner.
+    >       - **(ii)** *Datasets* The Director may publicly publish, as appropriate, any datasets or versions of the datasets developed or consolidated as a result of thean assessment described in subparagraph (E)(i).
     >     - **(I)** *Critical infrastructure assessment study and pilot*
     >       - **(i)** *Study* Not later than 2 years after the publication of the framework described in subparagraph (A), the Director shall conduct a study regarding the feasibility of the Director conducting the assessment described in subparagraph (E) for critical infrastructure entities.
     >       - **(ii)** *Pilot*
     >         - **(I)** *In general* If the Director determines that the assessment described in clause (i) is feasible, the Director may conduct a pilot assessment on a voluntary basis with 1 or more critical infrastructure sectors, in coordination with the Sector Risk Management Agency and the sector coordinating council of each participating sector.
-    >         - **(II)** *Termination* If the Director proceeds with the pilot described in clause (ii), the pilot shall terminate on the date that is 2 years after the date on which the Director begins the pilot.
+    >         - **(II)** *Termination* If the Director proceeds with the pilot described in clause (ii)subclause (I), the pilot shall terminate on the date that is 2 years after the date on which the Director begins the pilot.
     >       - **(iii)** *Reports*
     >         - **(I)** *Study* Not later than 180 days after the date on which the Director completes the study conducted under clause (i), the Director shall submit to the appropriate congressional committees a report that—
     >           - **(aa)** summarizes the study; and
-    >           - **(bb)** states whether the Director plans to proceed with the pilot described in clause (ii).
+    >           - **(bb)** states whether the Director plans to proceed with the pilot described in clause (ii)(I).
     >         - **(II)** *Pilot* If the Director proceeds with the pilot described in clause (ii), not later than 1 year after the date on which the Director begins the pilot, the Director shall submit to the appropriate congressional committees a report that includes—
     >           - **(aa)** a summary of the results of the pilot; and
     >           - **(bb)** a recommendation as to whether the activities carried out under the pilot should be continued after the termination of the pilot described in clause (ii)(II).
@@ -104,9 +104,9 @@ Congress finds that—
     >       - **(i)** a summary of the work on open source software security performed by the Director during the period covered by the report, including a list of the Federal and non-Federal entities with which the Director interfaced;
     >       - **(ii)** the framework developed under paragraph (2)(A);
     >       - **(iii)** a summary of any updates made to the framework developed under paragraph (2)(A) pursuant to paragraph (2)(B) since the last report submitted under this subparagraph;
-    >       - **(iv)** a summary of the assessment conducted pursuant to paragraph (2)(E);
+    >       - **(iv)** a summary of theeach assessment conducted pursuant to paragraph (2)(E) since the last report was submitted under this subparagraph;
     >       - **(v)** a summary of changes made to the assessment conducted pursuant to paragraph (2)(E) since the last report submitted under this subparagraph, including overall security trends; and
-    >       - **(vi)** a summary of the types of entities with which the assessment was shared pursuant to paragraph (2)(H), including a list of the Federal and non-Federal entities with which the assessment was shared.
+    >       - **(vi)** a summary of the types of entities with which thean assessment conducted pursuant to paragraph (2)(E) since the last reported submitted under this subparagraph was shared pursuant to paragraph (2)(H), including a list of the Federal and non-Federal entities with which the assessment was shared.
     >     - **(B)** *Public report* Not later than 30 days after the date on which the Director submits a report required under subparagraph (A), the Director shall make a version of the report publicly available on the website of the Agency.
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (Public Law 107–296; 116 Stat. 2135) is amended by inserting after the item relating to section 2220E the following:
@@ -157,7 +157,7 @@ Section 2219(d)(1) of the Homeland Security Act of 2002 (6 U.S.C. 665e(d)(1)) is
   - **(1)** in paragraph (7), by striking “and” at the end;
   - **(2)** in paragraph (8), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(9)** plans and procedures to ensure the secure usage and development of software, including open source software.
+    > - **(9)** plans and procedures to ensure the secure usage and development of software, including open source software (as defined in section 2200 of the Homeland Security Act of 2002 (6 U.S.C. 650)).
 
 ## § 6. Rule of construction
 
