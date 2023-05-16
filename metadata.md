@@ -1,7 +1,7 @@
 ---
 measure: S. 467
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 467
@@ -37,3 +37,5 @@ CADETS Act
 - 2023-05-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. With written report No. 118-22.
 - 2023-05-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. With written report No. 118-22.
 - 2023-05-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60.
+- 2023-05-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1682; text: CR S1682)
+- 2023-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S1682; text: CR S1682)
