@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3089
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3089
@@ -20,9 +20,10 @@ NDO Fairness Act
 
 - Rep. Nadler, Jerrold [D-NY-12] (N000002)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ NDO Fairness Act
 - 2023-05-15 — Placed on the Union Calendar, Calendar No. 37.
 - 2023-05-15 — Reported by the Committee on Judiciary. H. Rept. 118-54.
 - 2023-05-15 — Reported by the Committee on Judiciary. H. Rept. 118-54.
+- 2023-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
