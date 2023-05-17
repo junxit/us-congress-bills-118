@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 18
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 18
@@ -16,7 +16,7 @@ A joint resolution disapproving of the rule submitted by the Department of Homel
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Budd, Ted [R-NC] (B001305)
@@ -29,12 +29,23 @@ A joint resolution disapproving of the rule submitted by the Department of Homel
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2023-05-17 — [Senate 118-1-130](votes/senate-118-1-0130.md) — On the Joint Resolution — **Joint Resolution Passed** (50–47)
+
 ## Actions
 
 - 2023-03-08 — Introduced in Senate
 - 2023-03-08 — Read twice and referred to the Committee on the Judiciary.
+- 2023-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.
+- 2023-05-16 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-05-16 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-05-17 — Measure laid before Senate by unanimous consent. (consideration: CR S1698-1701)
+- 2023-05-17 — Passed Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 130. (text: CR S1701)
+- 2023-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 130.(text: CR S1701)
