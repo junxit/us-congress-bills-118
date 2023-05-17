@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3426
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3426
+
+> To amend the Internal Revenue Code of 1986 to include expenses relating to membership in health care sharing ministries to qualify for the deduction for medical expenses, and for other purposes.
+
+## § 1. Expenses relating to health care sharing ministries included in deduction for medical expenses
+
+- **(a)** *In general* Section 213(d)(1) of the Internal Revenue Code of 1986 is amended by striking “or” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting “, or”, and by adding at the end the following new subparagraph:
+  > - **(E)** for membership in a health care sharing ministry which—
+  >   - **(i)** is defined in section 5000A(d)(2)(B)),
+  >   - **(ii)** posts its audit as required under clause (ii)(V) of such section on the website of the ministry, and
+  >   - **(iii)** is accredited by an independent third-party accreditation or standard setting organization that uses multiple criteria and whose officers or directors have no financial ties to sharing ministries being reviewed and accredited.
+
+- **(b)** *Effective date* The amendments made by this section shall apply to expenditures paid in taxable years beginning after December 31, 2023.
