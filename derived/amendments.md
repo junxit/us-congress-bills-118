@@ -1,7 +1,7 @@
 ---
 measure: S. 412
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `47 U.S.C. § 153` | add-at-end | Chapter 88 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1801` | insert | The table of sections for chapter 88 of title 18, United States Code, is amended by inserting after the item relating to section 1801 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 153` | add-at-end | Chapter 88 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1801` | insert | The table of sections for chapter 88 of title 18, United States Code, is amended by inserting after the item relating to section 1801 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 153` | insert | Section 2264(a) of title 18, United States Code, is amended by inserting “, or under section 1802 of this title” before the period. | the bill quotes the text inserted but describes where it goes |
