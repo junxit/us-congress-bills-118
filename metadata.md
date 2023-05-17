@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 44
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Clyde, Andrew S. [R-GA-9] (C001116)
 
-## Cosponsors (182)
+## Cosponsors (188)
 
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
@@ -200,6 +200,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
 
 ## Committees (1)
 
@@ -210,3 +216,8 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Referred to the House Committee on the Judiciary.
+- 2023-04-19 — Committee Consideration and Mark-up Session Held.
+- 2023-04-19 — Ordered to be Reported by the Yeas and Nays: 23 - 15.
+- 2023-05-17 — Placed on the Union Calendar, Calendar No. 49.
+- 2023-05-17 — Reported by the Committee on Judiciary. H. Rept. 118-69.
+- 2023-05-17 — Reported by the Committee on Judiciary. H. Rept. 118-69.
