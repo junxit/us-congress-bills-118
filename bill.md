@@ -34,39 +34,41 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
 
 ## § 3. Registration requirements related to research
 
-- **(a)** *Alternative registration process for schedule I research* Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following:
-  > - **(m)** *Special provisions for practitioners conducting certain research with schedule I controlled substances*
-  >   - **(1)** *In general* Notwithstanding subsection (f), a practitioner may conduct research described in paragraph (2) of this subsection with 1 or more schedule I substances in accordance with subparagraph (A) or (B) of paragraph (3) of this subsection.
-  >   - **(2)** *Research subject to expedited procedures* Research described in this paragraph is research that—
-  >     - **(A)** is with respect to a drug that is the subject of an investigational use exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act; or
-  >     - **(B)** is—
-  >       - **(i)** conducted by the Department of Health and Human Services or the Department of Veterans Affairs; or
-  >       - **(ii)** funded partly or entirely by a grant, contract, cooperative agreement, or other transaction from the Department of Health and Human Services or the Department of Veterans Affairs.
-  >   - **(3)** *Expedited procedures*
-  >     - **(A)** *Researcher with a current schedule I or II research registration*
-  >       - **(i)** *In general* If a practitioner is registered to conduct research with a controlled substance in schedule I or II, the practitioner may conduct research under this subsection on and after the date that is 30 days after the date on which the practitioner sends a notice to the Attorney General containing the following information, with respect to each substance with which the practitioner will conduct the research:
-  >         - **(I)** The chemical name of the substance.
-  >         - **(II)** The quantity of the substance to be used in the research.
-  >         - **(III)** Demonstration that the research is in the category described in paragraph (2), which demonstration may be satisfied—
-  >           - **(aa)** in the case of a grant, contract, cooperative agreement, or other transaction, or intramural research project, by identifying the sponsoring agency and supplying the number of the grant, contract, cooperative agreement, other transaction, or project; or
-  >           - **(bb)** in the case of an application under section 505(i) of the Federal Food, Drug, and Cosmetic Act, by supplying the application number and the sponsor of record on the application.
-  >         - **(IV)** Demonstration that the researcher is authorized to conduct research with respect to the substance under the laws of the State in which the research will take place.
-  >       - **(ii)** *Verification of information by HHS or VA* Upon request from the Attorney General, the Secretary of Health and Human Services or the Secretary of Veterans Affairs, as appropriate, shall verify information submitted by an applicant under clause (i)(III).
-  >     - **(B)** *Researcher without a current schedule I or II research registration*
-  >       - **(i)** *In general* If a practitioner is not registered to conduct research with a controlled substance in schedule I or II, the practitioner may send a notice to the Attorney General containing the information listed in subparagraph (A)(i), with respect to each substance with which the practitioner will conduct the research.
-  >       - **(ii)** *Attorney General action* The Attorney General shall—
-  >         - **(I)** treat notice received under clause (i) as a sufficient application for a research registration; and
-  >         - **(II)** not later than 45 days of receiving such a notice that contains all information required under subparagraph (A)(i)—
-  >           - **(aa)** register the applicant; or
-  >           - **(bb)** serve an order to show cause upon the applicant in accordance with section 304(c).
-  >   - **(4)** *Electronic submissions* The Attorney General shall provide a means to permit a practitioner to submit a notification under paragraph (3) electronically.
-  >   - **(5)** *Limitation on amounts* A practitioner conducting research with a schedule I substance under this subsection may only possess the amounts of schedule I substance identified in—
-  >     - **(A)** the notification to the Attorney General under paragraph (3); or
-  >     - **(B)** a supplemental notification that the practitioner may send if the practitioner needs additional amounts for the research, which supplemental notification shall include—
-  >       - **(i)** the name of the practitioner;
-  >       - **(ii)** the additional quantity needed of the substance; and
-  >       - **(iii)** an attestation that the research to be conducted with the substance is consistent with the scope of the research that was the subject of the notification under paragraph (3).
-  >   - **(6)** *Importation and exportation requirements not affected* Nothing in this subsection alters the requirements of part A of title III, regarding the importation and exportation of controlled substances.
+- **(a)** *Alternative registration process for schedule I research* Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended—
+  - **(1)** by redesignating the second subsection (l) (relating to required training for prescribers) as subsection (m); and
+  - **(2)** by adding at the end the following:
+    > - **(n)** *Special provisions for practitioners conducting certain research with schedule I controlled substances*
+    >   - **(1)** *In general* Notwithstanding subsection (f), a practitioner may conduct research described in paragraph (2) of this subsection with 1 or more schedule I substances in accordance with subparagraph (A) or (B) of paragraph (3) of this subsection.
+    >   - **(2)** *Research subject to expedited procedures* Research described in this paragraph is research that—
+    >     - **(A)** is with respect to a drug that is the subject of an investigational use exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act; or
+    >     - **(B)** is—
+    >       - **(i)** conducted by the Department of Health and Human Services or the Department of Veterans Affairs; or
+    >       - **(ii)** funded partly or entirely by a grant, contract, cooperative agreement, or other transaction from the Department of Health and Human Services or the Department of Veterans Affairs.
+    >   - **(3)** *Expedited procedures*
+    >     - **(A)** *Researcher with a current schedule I or II research registration*
+    >       - **(i)** *In general* If a practitioner is registered to conduct research with a controlled substance in schedule I or II, the practitioner may conduct research under this subsection on and after the date that is 30 days after the date on which the practitioner sends a notice to the Attorney General containing the following information, with respect to each substance with which the practitioner will conduct the research:
+    >         - **(I)** The chemical name of the substance.
+    >         - **(II)** The quantity of the substance to be used in the research.
+    >         - **(III)** Demonstration that the research is in the category described in paragraph (2), which demonstration may be satisfied—
+    >           - **(aa)** in the case of a grant, contract, cooperative agreement, or other transaction, or intramural research project, by identifying the sponsoring agency and supplying the number of the grant, contract, cooperative agreement, other transaction, or project; or
+    >           - **(bb)** in the case of an application under section 505(i) of the Federal Food, Drug, and Cosmetic Act, by supplying the application number and the sponsor of record on the application.
+    >         - **(IV)** Demonstration that the researcher is authorized to conduct research with respect to the substance under the laws of the State in which the research will take place.
+    >       - **(ii)** *Verification of information by HHS or VA* Upon request from the Attorney General, the Secretary of Health and Human Services or the Secretary of Veterans Affairs, as appropriate, shall verify information submitted by an applicant under clause (i)(III).
+    >     - **(B)** *Researcher without a current schedule I or II research registration*
+    >       - **(i)** *In general* If a practitioner is not registered to conduct research with a controlled substance in schedule I or II, the practitioner may send a notice to the Attorney General containing the information listed in subparagraph (A)(i), with respect to each substance with which the practitioner will conduct the research.
+    >       - **(ii)** *Attorney General action* The Attorney General shall—
+    >         - **(I)** treat notice received under clause (i) as a sufficient application for a research registration; and
+    >         - **(II)** not later than 45 days of receiving such a notice that contains all information required under subparagraph (A)(i)—
+    >           - **(aa)** register the applicant; or
+    >           - **(bb)** serve an order to show cause upon the applicant in accordance with section 304(c).
+    >   - **(4)** *Electronic submissions* The Attorney General shall provide a means to permit a practitioner to submit a notification under paragraph (3) electronically.
+    >   - **(5)** *Limitation on amounts* A practitioner conducting research with a schedule I substance under this subsection may only possess the amounts of schedule I substance identified in—
+    >     - **(A)** the notification to the Attorney General under paragraph (3); or
+    >     - **(B)** a supplemental notification that the practitioner may send if the practitioner needs additional amounts for the research, which supplemental notification shall include—
+    >       - **(i)** the name of the practitioner;
+    >       - **(ii)** the additional quantity needed of the substance; and
+    >       - **(iii)** an attestation that the research to be conducted with the substance is consistent with the scope of the research that was the subject of the notification under paragraph (3).
+    >   - **(6)** *Importation and exportation requirements not affected* Nothing in this subsection alters the requirements of part A of title III, regarding the importation and exportation of controlled substances.
 
 - **(b)** *Separate registrations not required for additional researcher in same institution* Section 302(c) of the Controlled Substances Act (21 U.S.C. 822(c)) is amended by adding at the end the following:
   > - **(4)** An agent or employee of a research institution that is conducting research with a controlled substance if—
@@ -79,7 +81,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
   >   - **(D)** the Attorney General does not, within 30 days of receiving the information, authorization, and affirmation described in subparagraph (C), refuse, for a reason listed in section 304(a), to allow the agent or employee to possess the substance without a separate registration.
 
 - **(c)** *Single registration for related research sites* Section 302(e) of the Controlled Substances Act (21 U.S.C. 822(e)) is amended by adding at the end the following:
-  > - **(3)**
+  > - **(4)**
   >   - **(A)** Notwithstanding paragraph (1), a person registered to conduct research with a controlled substance under section 303(f) may conduct the research under a single registration if—
   >     - **(i)** the research occurs exclusively on sites all of which are—
   >       - **(I)** within the same city or county; and
@@ -130,7 +132,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
   >   - **(3)** *Exception regarding marihuana* The authority under paragraph (1) to manufacture substances does not include the authority to grow marihuana.
 
 - **(g)** *Transparency regarding special procedures* Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by subsection (a), is amended by adding at the end the following:
-  > - **(n)** *Transparency regarding special procedures*
+  > - **(o)** *Transparency regarding special procedures*
   >   - **(1)** *In general* If the Attorney General determines, with respect to a controlled substance, that an application by a practitioner to conduct research with the substance should be considered under a process, or subject to criteria, different from the process or criteria applicable to applications to conduct research with other controlled substances in the same schedule, the Attorney General shall make public, including by posting on the website of the Drug Enforcement Administration—
   >     - **(A)** the identities of all substances for which such determinations have been made;
   >     - **(B)** the process and criteria that shall be applied to applications to conduct research with those substances; and
@@ -146,3 +148,18 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
   - **(1)** *Effectiveness of interim final rules* A rule issued by the Attorney General as an interim final rule under subsection (a) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor, notwithstanding subparagraph (B) of section 553(b) of title 5, United States Code.
   - **(2)** *Opportunity for comment and hearing* An interim final rule issued under subsection (a) shall give interested persons the opportunity to comment and to request a hearing.
   - **(3)** *Final rule* After the conclusion of such proceedings, the Attorney General shall issue a final rule to implement this Act and the amendments made by this Act in accordance with section 553 of title 5, United States Code.
+
+## § 5. Penalties
+
+- **(a)** *In general* Section 401(b)(1) of the Controlled Substances Act (21 U.S.C. 841(b)(1)) is amended—
+  - **(1)** in subparagraph (A)(vi), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and
+  - **(2)** in subparagraph (B)(vi), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+- **(b)** *Importation and exportation* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
+  - **(1)** in paragraph (1)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and
+  - **(2)** in paragraph (2)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+
+## § 6. Applicability; other matters
+
+- **(a)** *In general* Irrespective of the date on which the rules required by section 4 are finalized, the amendments made by this Act apply beginning as of the enactment of this Act.
+- **(b)** *Rule of construction* Nothing in the amendments made by this Act may be construed as evidence that, in applying sections 401(b)(1) and 1010(b) of the Controlled Substances Act (21 U.S.C. 841(b)(1) and 960(b)) with respect to conduct occurring before the date of the enactment of this Act, a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.
+- **(c)** *Sense of Congress* The Congress agrees with the interpretation of the Controlled Substances Act (21 U.S.C. 801 et seq.) in United States v. McCray, 346 F. Supp. 3d 363 (2018).

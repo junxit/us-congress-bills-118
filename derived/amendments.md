@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 1 executed, 8 stated and not applied.
+14 amendatory instructions. 1 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,10 +43,15 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 812` | add-at-end | Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end of schedule I the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | redesignate | by redesignating the second subsection (l) (relating to required training for prescribers) as subsection (m); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 823` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | Section 302(c) of the Controlled Substances Act (21 U.S.C. 822(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | Section 302(e) of the Controlled Substances Act (21 U.S.C. 822(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | Section 302 of the Controlled Substances Act (21 U.S.C. 822) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 822` | add-at-end | Section 302 of the Controlled Substances Act (21 U.S.C. 822), as amended by subsection (e), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 823` | add-at-end | Section 303 of the Controlled Substances Act (21 U.S.C. 823), as amended by subsection (a), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 841` | insert | in subparagraph (A)(vi), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 841` | insert | in subparagraph (B)(vi), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 960` | insert | in paragraph (1)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 960` | insert | in paragraph (2)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”. | the bill quotes the text inserted but describes where it goes |
