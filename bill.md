@@ -28,3 +28,7 @@ Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) i
 >     - **(II)** the term “law enforcement officer” is a person authorized by law—
 >       - **(aa)** to apprehend, arrest, or prosecute an individual for any criminal violation of law; or
 >       - **(bb)** to be a firefighter or other first responder.
+
+## § 3. Report on aliens deported for assaulting a law enforcement officer
+
+On an annual basis, the Secretary of Homeland Security shall submit to Congress and make publicly available on the website of the Department of Homeland Security a report on the number of aliens who were deported during the previous year under section 237(a)(2)(G) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)(G)).
