@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3091
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3091
@@ -37,9 +37,10 @@ Federal Law Enforcement Officer Service Weapon Purchase Act
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (5)
 
@@ -112,3 +113,4 @@ Federal Law Enforcement Officer Service Weapon Purchase Act
 - 2023-05-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3091.
 - 2023-05-17 — The Speaker designated the Honorable Mike Garcia to act as Chairman of the Committee.
 - 2023-05-17 — The previous question was ordered pursuant to the rule.
+- 2023-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
