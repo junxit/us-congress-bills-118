@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3460
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3460
+
+> To amend title 50, United States Code, to provide authority to include funding requests for the chemical and biological defense program in military budget accounts.
+
+## § 1. Short title
+
+This Act may be cited as the “Chemical and Biological Defense Program Improvement Act of 2023”.
+
+## § 2. Authority to include funding requests for the chemical and biological defense program in budget accounts of military departments
+
+Section 1701(d)(2) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 1522(d)(2)) is amended by striking “may not be included in the budget accounts” and inserting “may be included in the budget accounts”.
