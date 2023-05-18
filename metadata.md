@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 45
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Good, Bob [R-VA-5] (G000595)
 
-## Cosponsors (41)
+## Cosponsors (94)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -59,6 +59,59 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Granger, Kay [R-TX-12] (G000377)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Franklin, C. Scott [R-FL-18] (F000472)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. Rosendale Sr., Matthew M. [R-MT-2] (R000103)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 
 ## Committees (1)
 
@@ -69,3 +122,9 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-03-27 — Introduced in House
 - 2023-03-27 — Introduced in House
 - 2023-03-27 — Referred to the House Committee on Education and the Workforce.
+- 2023-05-10 — Committee Consideration and Mark-up Session Held.
+- 2023-05-10 — Ordered to be Reported by the Yeas and Nays: 24 - 18.
+- 2023-05-18 — FILING AUTHORITY - Mr. Grothman asked unanimous consent that the Committee on Education and the Workforce be permitted to file its report to accompany H.J. Res. 45 at any time today, May 18, 2023. Agreed to without objection.
+- 2023-05-18 — Placed on the Union Calendar, Calendar No. 51.
+- 2023-05-18 — Reported by the Committee on Education and the Workforce. H. Rept. 118-71.
+- 2023-05-18 — Reported by the Committee on Education and the Workforce. H. Rept. 118-71.
