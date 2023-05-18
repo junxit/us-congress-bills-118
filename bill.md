@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 421
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 421
+
+> Expressing the sense of the House of Representatives that the Chinese Communist Party should be held accountable for present day efforts of knowingly and intentionally manipulating their currency.
+
+That the House of Representatives—
+
+- **(1)** condemns the Chinese Communist Party for knowingly and intentionally manipulating its currency;
+- **(2)** supports the actions by Former Secretary Mnuchin under the Trump administration to engage with the International Monetary Fund to eliminate the unfair competitive advantage created by China in 2019; and
+- **(3)** calls on the Biden administration to take similar action to hold the Chinese Communist Party accountable for their present day efforts to manipulate their currency.
