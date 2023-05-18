@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2494
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2494
@@ -35,9 +35,10 @@ POLICE Act of 2023
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (3)
 
@@ -90,3 +91,4 @@ POLICE Act of 2023
 - 2023-05-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2494.
 - 2023-05-17 — The Speaker designated the Honorable James C. Moylan to act as Chairman of the Committee.
 - 2023-05-17 — The previous question was ordered pursuant to the rule.
+- 2023-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
