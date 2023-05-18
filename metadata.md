@@ -1,0 +1,27 @@
+---
+measure: H.R. 3506
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 3506
+
+To make technical amendments to update statutory references to certain provisions classified to title 7, title 20, and title 43, United States Code, and to correct related technical errors.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2023-05-18 — Introduced in House
+- 2023-05-18 — Introduced in House
+- 2023-05-18 — Referred to the House Committee on the Judiciary.
