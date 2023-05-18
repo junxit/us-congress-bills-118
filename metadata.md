@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 209
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 209
@@ -16,7 +16,7 @@ A resolution recognizing the significance of Asian American, Native Hawaiian, an
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 
-## Cosponsors (30)
+## Cosponsors (33)
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -48,6 +48,9 @@ A resolution recognizing the significance of Asian American, Native Hawaiian, an
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -57,3 +60,15 @@ A resolution recognizing the significance of Asian American, Native Hawaiian, an
 
 - 2023-05-11 — Introduced in Senate
 - 2023-05-11 — Referred to the Committee on the Judiciary. (text: CR S1630-1631)
+- 2023-05-18 — 
+- 2023-05-18 — Amendment SA 90 agreed to in Senate by Unanimous Consent.
+- 2023-05-18 — Amendment SA 90 proposed by Senator Hirono. (consideration: CR S1728) To amend the preamble.
+- 2023-05-18 — Measure laid before Senate by unanimous consent. (consideration: CR S1728-1729)
+- 2023-05-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S1728-1729)
+- 2023-05-18 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S1728-1729)
+- 2023-05-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-18 — Senate amendment agreed to: Amendment SA 90 agreed to in Senate by Unanimous Consent.
+- 2023-05-18 — Senate amendment proposed (on the floor): Amendment SA 90 proposed by Senator Hirono.(consideration: CR S1728)
+- 2023-05-18 — Senate amendment submitted
+- 2023-05-18 — Senate amendment submitted
