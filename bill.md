@@ -1,0 +1,21 @@
+---
+legis-num: S. 1717
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1717
+
+> To prohibit the Secretary of Energy from disbursing financial awards to entities related to the People’s Republic of China.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting American Independence in Innovation Act of 2023”.
+
+## § 2. Prohibition on disbursing financial awards from the Department of Energy to entities related to China
+
+Beginning on the date of enactment of this Act, notwithstanding any other provision of law, the Secretary of Energy shall not disburse any financial award (including a grant, loan, or loan guarantee) to any entity—
+
+- **(1)** that is in a joint venture with a State-owned enterprise owned by the Government of the People’s Republic of China; or
+- **(2)** the board of directors (including senior leadership) of which includes an individual that has participated in a foreign talent recruitment program administered by the Government of the People's Republic of China.
