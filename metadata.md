@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1156
 congress: 118
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 1156
