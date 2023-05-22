@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 366
@@ -52,3 +52,9 @@ Korean American VALOR Act
 - 2023-05-16 — Placed on the Union Calendar, Calendar No. 44.
 - 2023-05-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-64.
 - 2023-05-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-64.
+- 2023-05-22 — Considered under suspension of the rules. (consideration: CR H2472-2474)
+- 2023-05-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 366.
+- 2023-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-22 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2023-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
+- 2023-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
