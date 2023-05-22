@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 662
@@ -16,9 +16,39 @@ Block Grant Assistance Act of 2023
 
 - Rep. Franklin, C. Scott [R-FL-18] (F000472)
 
-## Cosponsors (1)
+## Cosponsors (31)
 
 - Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
+- Rep. Gonzalez, Vicente [D-TX-34] (G000581)
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
 ## Committees (1)
 
@@ -29,3 +59,10 @@ Block Grant Assistance Act of 2023
 - 2023-01-31 — Introduced in House
 - 2023-01-31 — Introduced in House
 - 2023-01-31 — Referred to the House Committee on Agriculture.
+- 2023-02-23 — Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.
+- 2023-05-11 — Committee Consideration and Mark-up Session Held.
+- 2023-05-11 — Ordered to be Reported by Voice Vote.
+- 2023-05-11 — Subcommittee on General Farm Commodities, Risk Management, and Credit Discharged.
+- 2023-05-22 — Placed on the Union Calendar, Calendar No. 53.
+- 2023-05-22 — Reported by the Committee on Agriculture. H. Rept. 118-73.
+- 2023-05-22 — Reported by the Committee on Agriculture. H. Rept. 118-73.
