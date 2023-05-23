@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 3597
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3597
+
+> To direct the President to impose sanctions on the People’s Republic of China.
+
+## § 1. Imposition of sanctions on China
+
+The President, acting through the head of the Office of Economic Sanctions Policy and Implementation of the Department of State, shall impose sanctions on the People’s Republic of China in response to China’s crimes against the American people, currency manipulation, intellectual property theft, patent infringement, foreign surveillance and invasion of United States airspace, the enslavement of the Uyghur Muslims, use of child labor, and the responsibility of the more than one million deaths of United States citizens as a result of COVID–19.
