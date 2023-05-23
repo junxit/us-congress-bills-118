@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 435
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 435
@@ -29,3 +29,10 @@ Requiring each Member, officer, and employee of the House of Representatives to 
 - 2023-05-22 — Introduced in House
 - 2023-05-22 — Introduced in House
 - 2023-05-22 — Referred to the House Committee on House Administration.
+- 2023-05-23 — Committee on House Administration discharged.
+- 2023-05-23 — Committee on House Administration discharged.
+- 2023-05-23 — Considered by unanimous consent. (consideration: CR H2531-2532)
+- 2023-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-23 — Mr. Steil asked unanimous consent to discharge from committee and consider.
+- 2023-05-23 — On agreeing to the resolution Agreed to without objection. (text: CR H2532)
+- 2023-05-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H2532)
