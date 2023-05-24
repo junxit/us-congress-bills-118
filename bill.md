@@ -166,7 +166,7 @@ Subsection (i) of section 3319 of title 38, United States Code, is amended—
 - **(a)** *Short title* This section may be cited as the “Filipino Education Fairness Act”.
 - **(b)** *Increase* Section 3532 of title 38, United States Code, is amended—
   - **(1)** by striking subsection (d); and
-  - **(2)** by resdesignating subsections (e) through (g) as subsections (d) through (f), respectively.
+  - **(2)** by redesignating subsections (e) through (g) as subsections (d) through (f), respectively.
 
 ## § 7. Provision of certificates of eligibility and award letters using electronic means
 

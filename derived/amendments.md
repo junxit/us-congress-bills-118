@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1669
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 0 executed, 20 stated and not applied.
+21 amendatory instructions. 0 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,5 +49,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding clause (i), by striking “Subparagraph (A) shall not apply” and inserting “Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of section 368… | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting “of this title” after “section 3311(c)(4)”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e) through (g) as subsections (d) through (f), respectively. | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 3698` | insert | Chapter 36 of title 38, United States Code, is amended by inserting after section 3698 the following new section (and conforming the table of sections at the beginning of such chapter accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “April 30, 2032”. | the bill names no machine-readable US Code section |
