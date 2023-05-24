@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 45
@@ -117,6 +117,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2023-05-24 — [House 118-1-234](votes/house-118-1-0234.md) — On Passage — **Passed** (218–203)
+
 ## Actions
 
 - 2023-03-27 — Introduced in House
@@ -128,3 +132,16 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-05-18 — Placed on the Union Calendar, Calendar No. 51.
 - 2023-05-18 — Reported by the Committee on Education and the Workforce. H. Rept. 118-71.
 - 2023-05-18 — Reported by the Committee on Education and the Workforce. H. Rept. 118-71.
+- 2023-05-22 — Rules Committee Resolution H. Res. 429 Reported to House. Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-23 — Rule H. Res. 429 passed House.
+- 2023-05-24 — Considered as unfinished business. (consideration: CR H2577-2578)
+- 2023-05-24 — Considered under the provisions of rule H. Res. 429. (consideration: CR H2562-2571)
+- 2023-05-24 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 45.
+- 2023-05-24 — DEBATE - The House resumed debate on H.J. Res. 45.
+- 2023-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-24 — On passage Passed by the Yeas and Nays: 218 - 203 (Roll no. 234). (text: CR H2562)
+- 2023-05-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. J. Res. 45, the Chair put the question on passage of the joint resolution, and by voice vote announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-05-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 203 (Roll no. 234). (text: CR H2562)
+- 2023-05-24 — Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-24 — The previous question was ordered pursuant to the rule.
+- 2023-05-24 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Frost asked unanimous consent to withdraw the offending words. Agreed to without objection.
