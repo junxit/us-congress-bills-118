@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3692
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3692
+
+> To require bipartisan membership in the Federal Trade Commission in order for the Commission to act following a vacancy, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Cultural Marxism at the FTC Act”.
+
+## § 2. Requirement
+
+The first section of the Federal Trade Commission Act (15 U.S.C. 41) is amended by striking “the powers of the commission.” and inserting “the powers of the commission, except that, if there is more than one remaining commissioner and all of the remaining commissioners are members of the same political party (as determined at the time each commissioner was appointed to the commission by the President), the remaining commissioners may not exercise the powers of the commission.”.
