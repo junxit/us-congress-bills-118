@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 467
@@ -76,6 +76,11 @@ HALT Fentanyl Act
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (2)
+
+- 2023-05-25 — [House 118-1-236](votes/house-118-1-0236.md) — On Agreeing to the Amendment — **Failed** (190–233)
+- 2023-05-25 — [House 118-1-237](votes/house-118-1-0237.md) — On Passage — **Passed** (289–133)
+
 ## Actions
 
 - 2023-01-24 — Introduced in House
@@ -93,3 +98,48 @@ HALT Fentanyl Act
 - 2023-05-17 — Placed on the Union Calendar, Calendar No. 47.
 - 2023-05-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-67, Part I.
 - 2023-05-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-67, Part I.
+- 2023-05-22 — Rules Committee Resolution H. Res. 429 Reported to House. Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-24 — Committee of the Whole House on the state of the Union rises leaving H.R. 467 as unfinished business.
+- 2023-05-24 — Considered under the provisions of rule H. Res. 429. (consideration: CR H2579-2587)
+- 2023-05-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 467.
+- 2023-05-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 429 and Rule XVIII.
+- 2023-05-24 — Mr. Guthrie moved that the committee rise.
+- 2023-05-24 — On motion that the committee rise Agreed to by voice vote.
+- 2023-05-24 — Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
+- 2023-05-24 — The Speaker designated the Honorable Marjorie Taylor Greene to act as Chairwoman of the Committee.
+- 2023-05-25 — Amendment (A001) offered by Mr. Miller (OH). (consideration: CR H2603; text: CR H2603)
+- 2023-05-25 — Amendment (A002) offered by Mr. Mills. (consideration: CR H2603-2604; text: CR H2603)
+- 2023-05-25 — Amendment (A003) offered by Ms. Pettersen. (consideration: CR H2604-2605; text: CR H2604)
+- 2023-05-25 — Amendment agreed to Committee of the Whole
+- 2023-05-25 — Amendment agreed to Committee of the Whole
+- 2023-05-25 — Amendment failed in Committee of the Whole
+- 2023-05-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 467 as unfinished business.
+- 2023-05-25 — Considered as unfinished business. (consideration: CR H2602-2605)
+- 2023-05-25 — Considered as unfinished business. (consideration: CR H2605-2607)
+- 2023-05-25 — DEBATE - Pursuant to the provisions of H. Res. 429, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (OH) amendment No. 1.
+- 2023-05-25 — DEBATE - Pursuant to the provisions of H. Res. 429, the Committee of the Whole proceeded with 10 minutes of debate on the Mills amendment No. 2.
+- 2023-05-25 — DEBATE - Pursuant to the provisions of H. Res. 429, the Committee of the Whole proceeded with 10 minutes of debate on the Pettersen amendment No. 3.
+- 2023-05-25 — House amendment agreed to: On agreeing to the Miller (OH) amendment (A001) Agreed to by voice vote.
+- 2023-05-25 — House amendment agreed to: On agreeing to the Mills amendment (A002) Agreed to by voice vote.
+- 2023-05-25 — House amendment not agreed to: On agreeing to the Pettersen amendment (A003) Failed by recorded vote: 190 - 233 (Roll no. 236).
+- 2023-05-25 — House amendment offered
+- 2023-05-25 — House amendment offered
+- 2023-05-25 — House amendment offered
+- 2023-05-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Miller (OH).(consideration: CR H2603; text: CR H2603)
+- 2023-05-25 — House amendment offered/reported by: Amendment (A002) offered by Mr. Mills.(consideration: CR H2603-2604; text: CR H2603)
+- 2023-05-25 — House amendment offered/reported by: Amendment (A003) offered by Ms. Pettersen.(consideration: CR H2604-2605; text: CR H2604)
+- 2023-05-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-05-25 — Mr. Bucshon moved that the committee rise.
+- 2023-05-25 — On agreeing to the Miller (OH) amendment (A001) Agreed to by voice vote.
+- 2023-05-25 — On agreeing to the Mills amendment (A002) Agreed to by voice vote.
+- 2023-05-25 — On agreeing to the Pettersen amendment (A003) Failed by recorded vote: 190 - 233 (Roll no. 236).
+- 2023-05-25 — On motion that the committee rise Agreed to by voice vote.
+- 2023-05-25 — On passage Passed by the Yeas and Nays: 289 - 133 (Roll no. 237).
+- 2023-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pettersen amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-05-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 289 - 133 (Roll no. 237).
+- 2023-05-25 — Roll call votes on amendments in House
+- 2023-05-25 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-05-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-05-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-05-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 467.
+- 2023-05-25 — The previous question was ordered pursuant to the rule.

@@ -42,8 +42,8 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
     >   - **(2)** *Research subject to expedited procedures* Research described in this paragraph is research that—
     >     - **(A)** is with respect to a drug that is the subject of an investigational use exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act; or
     >     - **(B)** is—
-    >       - **(i)** conducted by the Department of Health and Human Services or the Department of Veterans Affairs; or
-    >       - **(ii)** funded partly or entirely by a grant, contract, cooperative agreement, or other transaction from the Department of Health and Human Services or the Department of Veterans Affairs.
+    >       - **(i)** conducted by the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs; or
+    >       - **(ii)** funded partly or entirely by a grant, contract, cooperative agreement, or other transaction from the Department of Health and Human Services, the Department of Defense, or the Department of Veterans Affairs.
     >   - **(3)** *Expedited procedures*
     >     - **(A)** *Researcher with a current schedule I or II research registration*
     >       - **(i)** *In general* If a practitioner is registered to conduct research with a controlled substance in schedule I or II, the practitioner may conduct research under this subsection on and after the date that is 30 days after the date on which the practitioner sends a notice to the Attorney General containing the following information, with respect to each substance with which the practitioner will conduct the research:
@@ -53,7 +53,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
     >           - **(aa)** in the case of a grant, contract, cooperative agreement, or other transaction, or intramural research project, by identifying the sponsoring agency and supplying the number of the grant, contract, cooperative agreement, other transaction, or project; or
     >           - **(bb)** in the case of an application under section 505(i) of the Federal Food, Drug, and Cosmetic Act, by supplying the application number and the sponsor of record on the application.
     >         - **(IV)** Demonstration that the researcher is authorized to conduct research with respect to the substance under the laws of the State in which the research will take place.
-    >       - **(ii)** *Verification of information by HHS or VA* Upon request from the Attorney General, the Secretary of Health and Human Services or the Secretary of Veterans Affairs, as appropriate, shall verify information submitted by an applicant under clause (i)(III).
+    >       - **(ii)** *Verification of information by HHS or VA* Upon request from the Attorney General, the Secretary of Health and Human Services, the Department of Defense, or the Secretary of Veterans Affairs, as appropriate, shall verify information submitted by an applicant under clause (i)(III).
     >     - **(B)** *Researcher without a current schedule I or II research registration*
     >       - **(i)** *In general* If a practitioner is not registered to conduct research with a controlled substance in schedule I or II, the practitioner may send a notice to the Attorney General containing the information listed in subparagraph (A)(i), with respect to each substance with which the practitioner will conduct the research.
     >       - **(ii)** *Attorney General action* The Attorney General shall—
@@ -69,6 +69,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
     >       - **(ii)** the additional quantity needed of the substance; and
     >       - **(iii)** an attestation that the research to be conducted with the substance is consistent with the scope of the research that was the subject of the notification under paragraph (3).
     >   - **(6)** *Importation and exportation requirements not affected* Nothing in this subsection alters the requirements of part A of title III, regarding the importation and exportation of controlled substances.
+    >   - **(7)** *Inspector General report* Not later than 1 year after the date of enactment of this Act, the Inspector General of the Department of Justice shall complete a study, and submit a report thereon, about research described in paragraph (2) of this subsection with fentanyl.
 
 - **(b)** *Separate registrations not required for additional researcher in same institution* Section 302(c) of the Controlled Substances Act (21 U.S.C. 822(c)) is amended by adding at the end the following:
   > - **(4)** An agent or employee of a research institution that is conducting research with a controlled substance if—
@@ -142,7 +143,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
 ## § 4. Rulemaking
 
 - **(a)** *Interim final rules* The Attorney General—
-  - **(1)** shall, not later than 1 year of the date of enactment of this Act, issue rules to implement this Act and the amendments made by this Act; and
+  - **(1)** shall, not later than 6 months after the date of enactment of this Act, issue rules to implement this Act and the amendments made by this Act; and
   - **(2)** may issue the rules under paragraph (1) as interim final rules.
 - **(b)** *Procedure for final rule*
   - **(1)** *Effectiveness of interim final rules* A rule issued by the Attorney General as an interim final rule under subsection (a) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor, notwithstanding subparagraph (B) of section 553(b) of title 5, United States Code.
