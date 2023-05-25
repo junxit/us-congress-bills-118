@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3664
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3664
+
+> To prohibit the availability of Federal funds to the World Health Organization pending the conduct of an investigation relating to the influence over such organization by Chinese Communist Party, and for other purposes.
+
+## § 1. Prohibition on Federal funding to World Health Organization pending investigation
+
+- **(a)** *Prohibition* Notwithstanding any other provision of law, no Federal funds may be made available, directly or indirectly, to the World Health Organization until the President—
+  - **(1)** conducts an investigation, with the compliance of the Director-General of the World Health Organization, to assess and determine the level of influence by the Chinese Communist Party over the operations of the World Health Organization (including with respect to influence regarding the origin of COVID–19 and any coverup relating to such origin); and
+  - **(2)** submits to the appropriate congressional recipients a report containing the findings of such investigation.
+- **(b)** *Appropriate congressional recipients defined* In this section, the term “appropriate congressional recipients” means—
+  - **(1)** the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives;
+  - **(2)** the Committee on the Judiciary and the Committee on Finance of the Senate;
+  - **(3)** the Speaker and minority leader of the House of Representatives; and
+  - **(4)** the majority leader and minority leader of the Senate.
