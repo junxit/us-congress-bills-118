@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 3744
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3744
+
+> To amend title 49, United States Code, to provide housing for students enrolled in an accredited avionic program.
+
+## § 1. Short title
+
+This Act may be cited as the “Avionic Students Housing Act.”
+
+## § 2. Avionic student housing
+
+- **(a)** *In general* Chapter 401 of title 49, United States Code, is amended by adding at the end the following:
+  > ## § 40131. Avionic student housing at airports
+  >
+  > - **(a)** *Housing* An airport, airport authority, airport sponsor, school or other airport operator may provide housing for students enrolled in an accredited avionic program, on the non-aeronautical area grounds of an airport. Such housing may be for a term of 12 months, renewable to a total duration of the lesser of—
+  >   - **(1)** 36 months; or
+  >   - **(2)** completion of the avionic program.
+  > - **(b)** *Avionic program defined* In this section, the term “avionic program” means a program leading to a degree, certification or qualifications for a career as a pilot, mechanic, air traffic controller, airline support personnel, or other avionics-related field.
+
+- **(b)** *Clerical amendment* The analysis for chapter 401 of title 49, United States Code, is amended by adding at the end the following:
