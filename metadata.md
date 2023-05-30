@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 40
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 40
@@ -22,9 +22,10 @@ Expressing support for local law enforcement officers and condemning efforts to 
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -58,3 +59,4 @@ Expressing support for local law enforcement officers and condemning efforts to 
 - 2023-05-18 — Roll call votes on amendments in House
 - 2023-05-18 — Rule provides for consideration of H.R. 2494, H.R. 3091 and H. Con. Res. 40. The resolution provides for consideration of H.R. 2494 under a structured rule with one hour of general debate; H.R. 3091 under a structured rule with one hour of general debate; and H.Con.Res. 40 under a structured rule with one hour of general debate. The resolution provides for a motion to recommit on H.R. 2494 and H.R. 3091.
 - 2023-05-18 — The previous question was ordered pursuant to the rule on the concurrent resolution and the preamble.
+- 2023-05-30 — Received in the Senate and referred to the Committee on the Judiciary.
