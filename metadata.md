@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 366
@@ -60,3 +60,14 @@ Korean American VALOR Act
 - 2023-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
 - 2023-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
 - 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-10-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5103)
+- 2023-10-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5103)
+- 2023-10-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-10-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-10-23 — Message on Senate action sent to the House.
+- 2023-11-07 — Presented to President.
+- 2023-11-07 — Presented to President.
+- 2023-11-13 — Became Public Law No: 118-20.
+- 2023-11-13 — Became Public Law No: 118-20.
+- 2023-11-13 — Signed by President.
+- 2023-11-13 — Signed by President.
