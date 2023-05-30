@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1076
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1076
@@ -27,11 +27,12 @@ Preventing the Financing of Illegal Synthetic Drugs Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Preventing the Financing of Illegal Synthetic Drugs Act
 - 2023-05-22 — Placed on the Union Calendar, Calendar No. 55.
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-75, Part I.
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-75, Part I.
+- 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
