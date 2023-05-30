@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 366
@@ -34,9 +34,10 @@ Korean American VALOR Act
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Korean American VALOR Act
 - 2023-05-22 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2023-05-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
 - 2023-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2472)
+- 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
