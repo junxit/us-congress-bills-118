@@ -18,7 +18,7 @@ This Act may be cited as the “Promoting Opportunities for Non-Traditional Capi
 Section 4(j)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)(4)) is amended—
 
 - **(1)** in subparagraph (G), by striking “and” at the end;
-- **(2)** in subparagraph (H), by striking the period at the end and insert a semicolon; and
+- **(2)** in subparagraph (H), by striking the period at the end and inserting a semicolon; and
 - **(3)** by adding at the end the following:
   > - **(I)** provide educational resources and host events to raise awareness of capital raising options for—
   >   - **(i)** underrepresented small businesses, including women-owned and minority-owned small businesses;

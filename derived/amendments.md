@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2796
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 78d` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 78d` | replace | in subparagraph (H), by striking the period at the end and insert a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78d` | replace | in subparagraph (H), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
