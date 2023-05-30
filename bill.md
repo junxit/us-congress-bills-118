@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To require the Securities and Exchange Commission to carry out a study and rulemaking on the definition of the term “small entity” for purposes of the securities laws, and for other purposes.
 
-## § 1. Short title
+## § 1. Short Title
 
 This Act may be cited as the “Small Entity Update Act”.
 
@@ -31,4 +31,3 @@ This Act may be cited as the “Small Entity Update Act”.
       - **(i)** be consistent with the results described in subparagraph (A); and
       - **(ii)** expand the number of entities covered by such definition.
 - **(c)** *Rulemaking* After the completion of each study required under subsection (b), the Commission shall, subject to public notice and comment, revise the rules of the Commission consistent with the results of such study.
-- **(d)** *Inflation adjustments* As soon as practicable following the date of enactment of this Act, and every 5 years thereafter, the Commission shall adjust all dollar figures under the definition of small entity established by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
