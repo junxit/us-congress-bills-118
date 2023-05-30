@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 467
@@ -71,10 +71,11 @@ HALT Fentanyl Act
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -143,3 +144,4 @@ HALT Fentanyl Act
 - 2023-05-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2023-05-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 467.
 - 2023-05-25 — The previous question was ordered pursuant to the rule.
+- 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
