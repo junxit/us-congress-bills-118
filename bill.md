@@ -15,32 +15,24 @@ This Act may be cited as the “Equal Opportunity for All Investors Act of 2023�
 
 ## § 2. Certification examinations for accredited investors
 
-Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended—
-
-- **(1)** by striking “(15) The term accredited investor shall mean—” and inserting the following:
-  > - **(15)** *Accredited investor*
-  >   - **(A)** *In general* The term accredited investor means—
-
-- **(2)** in clause (i), by striking “or” at the end;
-- **(3)** in clause (ii), by striking the period at the end and inserting “; or”; and
-- **(4)** by adding at the end the following:
-  > - **(iii)** any individual who is certified as an accredited investor through an examination that—
-  >   - **(I)** not later than 180 days after the date of the enactment of this clause, the criteria of which shall be established by the Commission;
-  >   - **(II)** is designed with an appropriate level of difficulty such that an individual with financial sophistication would be unlikely to fail;
-  >   - **(III)** may include methods to determine whether an individual seeking to be certified as an accredited investor demonstrates competency with respect to—
-  >     - **(aa)** the different types of securities;
-  >     - **(bb)** the disclosure requirements under the securities laws applicable to issuers and private companies as compared to public companies;
-  >     - **(cc)** corporate governance;
-  >     - **(dd)** financial statements and the components of such statements;
-  >     - **(ee)** aspects of unregistered securities, securities issued by private companies, and investments into private funds, including risks associated with—
-  >       - **(AA)** limited liquidity;
-  >       - **(BB)** limited disclosures;
-  >       - **(CC)** variance in valuation methods;
-  >       - **(DD)** information asymmetry;
-  >       - **(EE)** leverage risks;
-  >       - **(FF)** concentration risk; and
-  >       - **(GG)** longer investment horizons;
-  >     - **(ff)** potential conflicts of interest, when the interests of the financial professionals and their clients are misaligned or when their professional responsibilities are compromised by financial motivations; and
-  >     - **(gg)** other criteria the Commission determines necessary or appropriate in the public interest or for the protection of investors; and
-  >   - **(IV)** beginning not later than 180 days after the date the examination is established under subclause (I), shall be administered, and offered free of charge to the public, by a registered national securities association under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3).
-  > - **(B)** *Examination defined* In subparagraph (A)(iii), the term “examination” includes any test, certification, or examination program, the criteria of which shall be established by the Commission, that tests the understanding of any individual of aspects related to investing in unregistered securities, private companies, or private funds.
+- **(a)** *In general* The Securities and Exchange Commission shall revise the definition of “accredited investor” under Regulation D (section 230.501 of title 15, Code of Federal Regulations) to include any natural person who is certified through the examination required under subsection (b).
+- **(b)** *Establishment of examination* Not later than 1 year after the date of the enactment of this Act, the Securities and Exchange Commission shall establish an examination (including a test, certification, or examination program)—
+  - **(1)** to certify an individual as an accredited investor; and
+  - **(2)** that—
+    - **(A)** is designed with an appropriate level of difficulty such that an individual with financial sophistication would be unlikely to fail; and
+    - **(B)** includes methods to determine whether an individual seeking to be certified as an accredited investor demonstrates competency with respect to—
+      - **(i)** the different types of securities;
+      - **(ii)** the disclosure requirements under the securities laws applicable to issuers and private companies as compared to public companies;
+      - **(iii)** corporate governance;
+      - **(iv)** financial statements and the components of such statements;
+      - **(v)** aspects of unregistered securities, securities issued by private companies, and investments into private funds, including risks associated with—
+        - **(I)** limited liquidity;
+        - **(II)** limited disclosures;
+        - **(III)** variance in valuation methods;
+        - **(IV)** information asymmetry;
+        - **(V)** leverage risks;
+        - **(VI)** concentration risk; and
+        - **(VII)** longer investment horizons;
+      - **(vi)** potential conflicts of interest, when the interests of the financial professionals and their clients are misaligned or when their professional responsibilities are compromised by financial motivations; and
+      - **(vii)** other criteria the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+- **(c)** *Administration* Beginning not later than 180 days after the date the examination is established under subsection (b), such examination shall be administered and offered free of charge to the public by a registered national securities association under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3).
