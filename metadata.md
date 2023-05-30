@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1669
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1669
@@ -24,9 +24,10 @@ VET–TEC Authorization Act of 2023
 - Rep. Carl, Jerry L. [R-AL-1] (C001054)
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ VET–TEC Authorization Act of 2023
 - 2023-05-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-05-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 9 (Roll no. 235). (text: 05/22/2023 CR H2474-2476)
 - 2023-05-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 9 (Roll no. 235). (text: 05/22/2023 CR H2474-2476)
+- 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
