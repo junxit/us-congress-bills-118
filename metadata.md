@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1076
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1076
@@ -64,3 +64,14 @@ Preventing the Financing of Illegal Synthetic Drugs Act
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-75, Part I.
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-75, Part I.
 - 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2024-07-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5319; text: CR S5319)
+- 2024-07-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-07-23 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-07-23 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-07-24 — Message on Senate action sent to the House.
+- 2024-09-11 — Presented to President.
+- 2024-09-11 — Presented to President.
+- 2024-09-13 — Became Public Law No: 118-79.
+- 2024-09-13 — Became Public Law No: 118-79.
+- 2024-09-13 — Signed by President.
+- 2024-09-13 — Signed by President.
