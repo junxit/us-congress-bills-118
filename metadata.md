@@ -1,7 +1,7 @@
 ---
 measure: S. 211
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 211
@@ -30,3 +30,7 @@ SMART Leasing Act
 
 - 2023-02-01 — Introduced in Senate
 - 2023-02-01 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-35.
+- 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-35.
+- 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
