@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1156
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1156
@@ -23,9 +23,10 @@ China Financial Threat Mitigation Act of 2023
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Ryan, Patrick [D-NY-18] (R000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ China Financial Threat Mitigation Act of 2023
 - 2023-05-22 — Placed on the Union Calendar, Calendar No. 52.
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-72.
 - 2023-05-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-72.
+- 2023-05-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
