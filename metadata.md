@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 45
@@ -117,9 +117,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2023-05-24 — [House 118-1-234](votes/house-118-1-0234.md) — On Passage — **Passed** (218–203)
+- 2023-05-31 — [Senate 118-1-134](votes/senate-118-1-0134.md) — On the Motion — **Motion Agreed to** (51–46)
+- 2023-06-01 — [Senate 118-1-135](votes/senate-118-1-0135.md) — On the Joint Resolution — **Joint Resolution Passed** (52–46)
+- 2023-06-21 — [House 118-1-277](votes/house-118-1-0277.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (221–206)
 
 ## Actions
 
@@ -146,3 +149,23 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-05-24 — The previous question was ordered pursuant to the rule.
 - 2023-05-24 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Frost asked unanimous consent to withdraw the offending words. Agreed to without objection.
 - 2023-05-30 — Received in the Senate, read twice.
+- 2023-05-31 — Measure laid before Senate by motion.
+- 2023-05-31 — Motion to proceed to consideration of measure made in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 134. (consideration: CR S1817)
+- 2023-06-01 — Considered by Senate. (consideration: CR S1857-1858, S1862, S1867-1868)
+- 2023-06-01 — Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 135.
+- 2023-06-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 135.
+- 2023-06-02 — Message on Senate action sent to the House.
+- 2023-06-07 — Presented to President.
+- 2023-06-07 — Presented to President.
+- 2023-06-07 — The Chair announced that the objections of the President to H. J. Res. 45 would be spread at large upon the Journal and the veto message would be printed as a House document (118-46).
+- 2023-06-07 — The Chair laid before the House the veto message from the President. (text: CR H2775)
+- 2023-06-07 — Vetoed by President.
+- 2023-06-07 — Vetoed by President.
+- 2023-06-21 — DEBATE - Pursuant to a previous order of the House of June 7, 2023 the unfinished business is the further consideration of the veto message of the President on H.J. Res. 45. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding.
+- 2023-06-21 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 221 - 206 (Roll no. 277).
+- 2023-06-21 — Motion to refer the bill and accompanying veto message to the Committee on Education and the Workforce.
+- 2023-06-21 — On motion to refer the bill and the accompanying veto message to the Committee on Education and the Workforce. Agreed to without objection.
+- 2023-06-21 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 221 - 206 (Roll no. 277).
+- 2023-06-21 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2023-06-21 — The Chair laid before the House the veto message from the President.
+- 2023-06-21 — The previous question was ordered without objection. (consideration: CR H3036-3044)
