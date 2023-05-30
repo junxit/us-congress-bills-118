@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 45
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 45
@@ -145,3 +145,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-05-24 — Rule provides for consideration of H.R. 467, S.J. Res. 11 and H.J. Res. 45. The resolution provides for consideration of H.R. 467 under a structured rule with one of hour of general debate. S.J. Res. 11 and H.J. Res. 45 are considered under closed rules with one hour of general debate. Motion to recommit provided on H.R. 467 and H.J. Res. 45, and one motion to commit on S.J. Res. 11.
 - 2023-05-24 — The previous question was ordered pursuant to the rule.
 - 2023-05-24 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Frost asked unanimous consent to withdraw the offending words. Agreed to without objection.
+- 2023-05-30 — Received in the Senate, read twice.
