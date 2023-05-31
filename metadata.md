@@ -1,7 +1,7 @@
 ---
 measure: S. 769
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 769
@@ -30,3 +30,7 @@ U.S. Hostage and Wrongful Detainee Day Act of 2023
 
 - 2023-03-09 — Introduced in Senate
 - 2023-03-09 — Read twice and referred to the Committee on the Judiciary.
+- 2023-05-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1824; text: CR S1824)
+- 2023-05-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1824; text: CR S1824)
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
