@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3746
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
