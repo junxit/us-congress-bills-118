@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3746
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3746
@@ -15,6 +15,20 @@ Fiscal Responsibility Act of 2023
 ## Sponsor
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+
+## Cosponsors (11)
+
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (14)
 
@@ -33,9 +47,20 @@ Fiscal Responsibility Act of 2023
 - House — Budget Committee
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (12)
 
 - 2023-05-31 — [House 118-1-243](votes/house-118-1-0243.md) — On Passage — **Passed** (314–117)
+- 2023-06-01 — [Senate 118-1-136](votes/senate-118-1-0136.md) — On the Amendment — **Amendment Rejected** (21–75)
+- 2023-06-01 — [Senate 118-1-137](votes/senate-118-1-0137.md) — On the Amendment — **Amendment Rejected** (35–62)
+- 2023-06-01 — [Senate 118-1-138](votes/senate-118-1-0138.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2023-06-01 — [Senate 118-1-139](votes/senate-118-1-0139.md) — On the Amendment — **Amendment Rejected** (49–48)
+- 2023-06-01 — [Senate 118-1-140](votes/senate-118-1-0140.md) — On the Amendment — **Amendment Rejected** (17–81)
+- 2023-06-01 — [Senate 118-1-141](votes/senate-118-1-0141.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2023-06-01 — [Senate 118-1-142](votes/senate-118-1-0142.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2023-06-01 — [Senate 118-1-143](votes/senate-118-1-0143.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2023-06-01 — [Senate 118-1-144](votes/senate-118-1-0144.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2023-06-01 — [Senate 118-1-145](votes/senate-118-1-0145.md) — On the Amendment — **Amendment Rejected** (30–69)
+- 2023-06-01 — [Senate 118-1-146](votes/senate-118-1-0146.md) — On Passage of the Bill — **Bill Passed** (63–36)
 
 ## Actions
 
@@ -96,3 +121,180 @@ Fiscal Responsibility Act of 2023
 - 2023-05-31 — Senate amendment submitted
 - 2023-05-31 — Senate amendment submitted
 - 2023-05-31 — The previous question was ordered pursuant to the rule.
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — 
+- 2023-06-01 — Amendment SA 101 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 145.
+- 2023-06-01 — Amendment SA 101 proposed by Senator Kaine. (consideration: CR S1890) To strike a provision relating to expediting completion of the Mountain Valley Pipeline.
+- 2023-06-01 — Amendment SA 102 not agreed to in Senate by Voice Vote.
+- 2023-06-01 — Amendment SA 102 proposed by Senator Kennedy. (consideration: CR S1890-1892) To require up-to-date employment data for waivers of work requirements.
+- 2023-06-01 — Amendment SA 104 proposed by Senator Kennedy. (consideration: CR S1887) To remove the sunset on modification of work requirement exemptions.
+- 2023-06-01 — Amendment SA 104, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 141.
+- 2023-06-01 — Amendment SA 106 proposed by Senator Cotton. (consideration: CR S1888) To provide appropriate adjustments to the discretionary spending limits, in the event of funding under a continuing resolution.
+- 2023-06-01 — Amendment SA 106, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 142.
+- 2023-06-01 — Amendment SA 107 proposed by Senator Paul. (consideration: CR S1883) In the nature of a substitute.
+- 2023-06-01 — Amendment SA 107, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 136.
+- 2023-06-01 — Amendment SA 110 proposed by Senator Marshall. (consideration: CR S1885) To secure the borders of the United States, and for other purposes.
+- 2023-06-01 — Amendment SA 110, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 138.
+- 2023-06-01 — Amendment SA 125 proposed by Senator Sullivan. (consideration: CR S1885-1886) To provide adequate funding for defense and increase the rescission of funding for the Internal Revenue Service.
+- 2023-06-01 — Amendment SA 125, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 139.
+- 2023-06-01 — Amendment SA 134 proposed by Senator Budd. (consideration: CR S1889) To rescind unnecessary coronavirus funds.
+- 2023-06-01 — Amendment SA 134, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 143.
+- 2023-06-01 — Amendment SA 91 proposed by Senator Braun. (consideration: CR S1884-1885) To rescind discretionary appropriations in the event of a debt ceiling crisis period and to honor the full faith and credit of the debts of the United States in the event of a debt ceiling crisis.
+- 2023-06-01 — Amendment SA 91, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 137.
+- 2023-06-01 — Amendment SA 93 proposed by Senator Hawley. (consideration: CR S1886-1887) To require the imposition of additional duties with respect to articles imported from the People's Republic of China until trade between the United States and the People's Republic of China comes into balance.
+- 2023-06-01 — Amendment SA 93, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 140.
+- 2023-06-01 — Amendment SA 98 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 144.
+- 2023-06-01 — Amendment SA 98 proposed by Senator Lee. (consideration: CR S1889-1890) To strike the waiver authority for Administrative PAYGO.
+- 2023-06-01 — Measure laid before Senate by motion. (consideration: CR S1882-1892)
+- 2023-06-01 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.
+- 2023-06-01 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1868-1882)
+- 2023-06-01 — Passed Senate, under the order of 6/1/2023, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 63 - 36. Record Vote Number: 146.
+- 2023-06-01 — Passed/agreed to in Senate: Passed Senate, under the order of 6/1/2023, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 63 - 36. Record Vote Number: 146.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 101 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 145.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 104, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 141.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 106, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 142.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 107, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 136.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 110, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 138.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 125, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 139.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 134, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 143.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 91, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 137.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 93, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 140.
+- 2023-06-01 — Roll call votes on amendments in Senate: Amendment SA 98 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 144.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 101 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 145.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 102 not agreed to in Senate by Voice Vote.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 104, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 141.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 106, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 142.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 107, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 136.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 110, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 138.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 125, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 139.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 134, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 143.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 91, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 137.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 93, under the order of 6/1/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 17 - 81. Record Vote Number: 140.
+- 2023-06-01 — Senate amendment not agreed to: Amendment SA 98 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 144.
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 101 proposed by Senator Kaine.(consideration: CR S1890)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 102 proposed by Senator Kennedy.(consideration: CR S1890-1892)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 104 proposed by Senator Kennedy.(consideration: CR S1887)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 106 proposed by Senator Cotton.(consideration: CR S1888)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 107 proposed by Senator Paul.(consideration: CR S1883)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 110 proposed by Senator Marshall.(consideration: CR S1885)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 125 proposed by Senator Sullivan.(consideration: CR S1885-1886)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 134 proposed by Senator Budd.(consideration: CR S1889)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 91 proposed by Senator Braun.(consideration: CR S1884-1885)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 93 proposed by Senator Hawley.(consideration: CR S1886-1887)
+- 2023-06-01 — Senate amendment proposed (on the floor): Amendment SA 98 proposed by Senator Lee.(consideration: CR S1889-1890)
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-01 — Senate amendment submitted
+- 2023-06-02 — Message on Senate action sent to the House.
+- 2023-06-03 — Became Public Law No: 118-5.
+- 2023-06-03 — Became Public Law No: 118-5.
+- 2023-06-03 — Presented to President.
+- 2023-06-03 — Presented to President.
+- 2023-06-03 — Signed by President.
+- 2023-06-03 — Signed by President.
