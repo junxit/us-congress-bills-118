@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 206
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 206
@@ -29,3 +29,7 @@ A resolution designating June 10, 2023, as "Veterans Get Outside Day".
 
 - 2023-05-10 — Introduced in Senate
 - 2023-05-10 — Referred to the Committee on the Judiciary.
+- 2023-05-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1824-1825; text: 5/10/2023 CR S1607)
+- 2023-05-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1824-1825; text: 5/10/2023 CR S1607)
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
