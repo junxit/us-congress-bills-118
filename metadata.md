@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 223
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 223
@@ -37,3 +37,7 @@ A resolution designating the week of May 21 through May 27, 2023, as "National P
 
 - 2023-05-18 — Introduced in Senate
 - 2023-05-18 — Referred to the Committee on the Judiciary.
+- 2023-05-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1824-1825; text: 5/18/2023 CR S1752)
+- 2023-05-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1824-1825; text: 5/18/2023 CR S1752)
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
