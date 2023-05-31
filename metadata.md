@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 226
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 226
@@ -34,3 +34,7 @@ A resolution designating May 20, 2023, as "Kids to Parks Day".
 
 - 2023-05-18 — Introduced in Senate
 - 2023-05-18 — Referred to the Committee on the Judiciary.
+- 2023-05-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1824-1825; text: 5/18/2023 CR S1753)
+- 2023-05-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1824-1825; text: 5/18/2023 CR S1753)
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-05-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
