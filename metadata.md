@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2792
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2792
@@ -50,3 +50,4 @@ Small Entity Update Act
 - 2023-05-30 — Placed on the Union Calendar, Calendar No. 59.
 - 2023-05-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-80.
 - 2023-05-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-80.
+- 2023-05-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
