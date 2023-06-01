@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2797
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2797
@@ -22,9 +22,10 @@ Equal Opportunity for All Investors Act of 2023
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Equal Opportunity for All Investors Act of 2023
 - 2023-05-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-05-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 18 (Roll no. 244). (text: 05/30/2023 CR H2656)
 - 2023-05-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 18 (Roll no. 244). (text: 05/30/2023 CR H2656)
+- 2023-06-01 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
