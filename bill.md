@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Separation of Powers Restoration Act of 2023”.
+This Act may be cited as the “Separation of Powers Restoration Act of 2023” or “SOPRA” .
 
 ## § 2. Judicial review of statutory and regulatory interpretations
 
