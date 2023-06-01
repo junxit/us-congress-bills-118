@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Regulations from the Executive in Need of Scrutiny Act of 2023”.
+This Act may be cited as the “Regulations from the Executive in Need of Scrutiny Act of 2023” or the “REINS Act of 2023”.
 
 ## § 2. Purpose
 

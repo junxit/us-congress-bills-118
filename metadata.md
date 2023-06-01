@@ -1,7 +1,7 @@
 ---
 measure: H.R. 277
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 277
@@ -16,7 +16,7 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 
-## Cosponsors (174)
+## Cosponsors (182)
 
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 - Rep. Comer, James [R-KY-1] (C001108)
@@ -192,6 +192,14 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Rose, John W. [R-TN-6] (R000612)
 
 ## Committees (3)
 
@@ -206,3 +214,12 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 - 2023-01-11 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-01-11 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-01-11 — Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held
+- 2023-05-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 13 - 5.
+- 2023-06-01 — Committee on Rules discharged.
+- 2023-06-01 — Committee on Rules discharged.
+- 2023-06-01 — Committee on the Budget discharged.
+- 2023-06-01 — Committee on the Budget discharged.
+- 2023-06-01 — Placed on the Union Calendar, Calendar No. 61.
+- 2023-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-84, Part I.
+- 2023-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-84, Part I.
