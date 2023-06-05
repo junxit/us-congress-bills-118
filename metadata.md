@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1644
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1644
@@ -16,9 +16,10 @@ version: Introduced in House
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ version: Introduced in House
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Referred to the House Committee on Small Business.
+- 2023-05-23 — Committee Consideration and Mark-up Session Held
+- 2023-05-23 — Ordered to be Reported Without Recommendation by the Yeas and Nays: 22 - 0.
+- 2023-06-05 — Placed on the Union Calendar, Calendar No. 76.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-99.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-99.
