@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Accredited Investor Definition Review Act”.
 
-## § 2. Definition of accredited investor
+## § 2. Certifications, designations, and credentials under the definition of accredited investor
 
 Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended—
 
