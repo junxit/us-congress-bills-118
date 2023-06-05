@@ -50,7 +50,7 @@ Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by a
 
 ## § 3. GAO study
 
-- **(a)** *In general* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress and the Senior Investor Taskforce the results of a study of financial exploitation of senior citizens.
+- **(a)** *Study* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress and the Senior Investor Taskforce the results of a study of financial exploitation of senior citizens.
 - **(b)** *Contents* The study required under subsection (a) shall include information with respect to—
   - **(1)** economic costs of the financial exploitation of senior citizens—
     - **(A)** associated with losses by victims that were incurred as a result of the financial exploitation of senior citizens;
@@ -63,7 +63,7 @@ Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by a
     - **(A)** information about percentage of senior citizens financially exploited each year; and
     - **(B)** information about factors contributing to increased risk of exploitation, including such factors as race, social isolation, income, net worth, religion, region, occupation, education, home-ownership, illness, and loss of spouse; and
   - **(3)** policy responses and reporting of senior financial exploitation—
-    - **(A)** the degree to which financial exploitation of senior citizens goes unreported to authorities;
+    - **(A)** the degree to which financial exploitation of senior citizens unreported to authorities;
     - **(B)** the reasons that financial exploitation may be unreported to authorities;
     - **(C)** to the extent that suspected elder financial exploitation is currently being reported—
       - **(i)** information regarding which Federal, State, and local agencies are receiving reports, including adult protective services, law enforcement, industry, regulators, and professional licensing boards;
