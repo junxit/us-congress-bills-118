@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1651
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1651
@@ -29,3 +29,8 @@ Small Business 7(a) Loan Agent Transparency Act
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Introduced in House
 - 2023-03-17 — Referred to the House Committee on Small Business.
+- 2023-05-23 — Committee Consideration and Mark-up Session Held
+- 2023-05-23 — Ordered to be Reported Without Recommendation by the Yeas and Nays: 21 - 0.
+- 2023-06-05 — Placed on the Union Calendar, Calendar No. 77.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-100.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-100.
