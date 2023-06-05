@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2793
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 15 U.S.C. § 77f
 
-> in the heading, by striking “Emerging growth companies” and inserting “Draft registration statements”;
+> in the heading, by striking “Emerging Growth Companies” and inserting “Confidential review of draft registration statements”;
 
 | | |
 |---|---|
-| Removed | `Emerging growth companies` |
-| Inserted | `Draft registration statements` |
+| Removed | `Emerging Growth Companies` |
+| Inserted | `Confidential review of draft registration statements` |
 
 ## Stated, not applied
 
