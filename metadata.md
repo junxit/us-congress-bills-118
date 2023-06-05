@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1541
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1541
@@ -31,3 +31,8 @@ Small Business Workforce Pipeline Act of 2023
 - 2023-03-10 — Introduced in House
 - 2023-03-10 — Introduced in House
 - 2023-03-10 — Referred to the House Committee on Small Business.
+- 2023-05-23 — Committee Consideration and Mark-up Session Held
+- 2023-05-23 — Ordered to be Reported Without Recommendation by the Yeas and Nays: 21 - 1.
+- 2023-06-05 — Placed on the Union Calendar, Calendar No. 74.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-97.
+- 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-97.
