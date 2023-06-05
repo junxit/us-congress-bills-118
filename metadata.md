@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 62
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 62
@@ -30,3 +30,10 @@ Providing for the reappointment of Michael Govan as a citizen regent of the Boar
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Referred to the House Committee on House Administration.
+- 2023-06-05 — Committee on House Administration discharged.
+- 2023-06-05 — Committee on House Administration discharged.
+- 2023-06-05 — Considered by unanimous consent. (consideration: CR H2732)
+- 2023-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-05 — Mr. Steil asked unanimous consent to discharge from committee and consider.
+- 2023-06-05 — On passage Passed without objection. (text: CR H2732)
+- 2023-06-05 — Passed/agreed to in House: On passage Passed without objection. (text: CR H2732)
