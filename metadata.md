@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 29
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 29
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Mann, Tracey [R-KS-1] (M000871)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Bice, Stephanie I. [R-OK-5] (B000740)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
@@ -26,6 +26,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Estes, Ron [R-KS-4] (E000298)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
 ## Committees (1)
 
@@ -36,3 +37,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-02-07 — Introduced in House
 - 2023-02-07 — Introduced in House
 - 2023-02-07 — Referred to the House Committee on Natural Resources.
+- 2023-02-21 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2023-04-18 — Subcommittee Hearings Held.
+- 2023-04-28 — Committee Consideration and Mark-up Session Held.
+- 2023-04-28 — Ordered to be Reported by the Yeas and Nays: 16 - 12.
+- 2023-04-28 — Subcommittee on Water, Wildlife, and Fisheries Discharged.
+- 2023-06-05 — Placed on the Union Calendar, Calendar No. 71.
+- 2023-06-05 — Reported by the Committee on Natural Resources. H. Rept. 118-94.
+- 2023-06-05 — Reported by the Committee on Natural Resources. H. Rept. 118-94.
