@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2610
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2610
@@ -25,3 +25,14 @@ To amend the Securities Exchange Act of 1934 to specify certain registration sta
 - 2023-04-13 — Introduced in House
 - 2023-04-13 — Introduced in House
 - 2023-04-13 — Referred to the House Committee on Financial Services.
+- 2023-04-26 — Committee Consideration and Mark-up Session Held.
+- 2023-04-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 42 - 0.
+- 2023-06-05 — Considered under suspension of the rules. (consideration: CR H2725-2726)
+- 2023-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2610.
+- 2023-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-05 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
+- 2023-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2725)
+- 2023-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2725)
+- 2023-06-05 — Placed on the Union Calendar, Calendar No. 66.
+- 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-89.
+- 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-89.
