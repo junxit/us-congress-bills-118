@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2812
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2812
@@ -20,9 +20,10 @@ Middle Market IPO Cost Act
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Middle Market IPO Cost Act
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 68.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-91.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-91.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
