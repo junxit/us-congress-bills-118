@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 835
@@ -26,9 +26,10 @@ Fair Investment Opportunities for Professional Experts Act
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Fair Investment Opportunities for Professional Experts Act
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 64.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-87.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-87.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
