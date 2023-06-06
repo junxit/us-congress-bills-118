@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 64
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 64
@@ -21,9 +21,10 @@ Providing for the reappointment of Roger W. Ferguson as a citizen regent of the 
 - Rep. Matsui, Doris O. [D-CA-7] (M001163)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Providing for the reappointment of Roger W. Ferguson as a citizen regent of the 
 - 2023-06-05 — Mr. Steil asked unanimous consent to discharge from committee and consider.
 - 2023-06-05 — On passage Passed without objection. (text: CR H2733)
 - 2023-06-05 — Passed/agreed to in House: On passage Passed without objection. (text: CR H2733)
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
