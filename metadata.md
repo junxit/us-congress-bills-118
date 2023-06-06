@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1579
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1579
@@ -20,9 +20,10 @@ Accredited Investor Definition Review Act
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Accredited Investor Definition Review Act
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 69.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-92.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-92.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
