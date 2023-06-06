@@ -2,7 +2,7 @@
 legis-num: H.R. 2793
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2793
@@ -13,26 +13,31 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Encouraging Public Offerings Act of 2023”.
 
-## § 2. Expanding testing the waters and confidential submissions
+## § 2. Expanding testing the waters
 
-The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended—
+Section 5(d) of the Securities Act of 1933 (15 U.S.C. 77e(d)) is amended—
 
-- **(1)** in section 5(d) (15 U.S.C. 77e(d))—
-  - **(A)** by striking “Notwithstanding” and inserting the following:
-    > - **(1)** *In general* Notwithstanding
+- **(1)** by striking “Notwithstanding” and inserting the following:
+  > - **(1)** *In general* Notwithstanding
 
-  - **(B)** by striking “an emerging growth company or any person authorized to act on behalf of an emerging growth company” and inserting “an issuer or any person authorized to act on behalf of an issuer”; and
-  - **(C)** by adding at the end the following:
-    > - **(2)** *Additional requirements*
-    >   - **(A)** *Regulations* The Commission may promulgate regulations, subject to public notice and comment, to impose such other terms, conditions, or requirements on the engaging in oral or written communications described under paragraph (1) by an issuer other than an emerging growth company as the Commission determines appropriate.
-    >   - **(B)** *Report to Congress* Prior to any rulemaking described under subparagraph (A), the Commission shall submit to Congress a report containing a list of the findings supporting the basis of the rulemaking.
+- **(2)** by striking “an emerging growth company or any person authorized to act on behalf of an emerging growth company” and inserting “an issuer or any person authorized to act on behalf of an issuer”; and
+- **(3)** by adding at the end the following:
+  > - **(2)** *Additional requirements*
+  >   - **(A)** *In general* The Commission may promulgate regulations, subject to public notice and comment, to impose such other terms, conditions, or requirements on the engaging in oral or written communications described under paragraph (1) by an issuer other than an emerging growth company as the Commission determines appropriate.
+  >   - **(B)** *Report to Congress* Prior to any rulemaking described under subparagraph (A), the Commission shall submit to Congress a report containing a list of the findings supporting the basis of the rulemaking.
 
-- **(2)** in section 6(e) (15 U.S.C. 77f(e))—
-  - **(A)** in the heading, by striking “Emerging growth companies” and inserting “Draft registration statements”;
-  - **(B)** by redesignating paragraph (2) as paragraph (4); and
-  - **(C)** by striking paragraph (1) and inserting the following:
-    > - **(1)** *Prior to initial public offering* Any issuer, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as defined in section 230.433(h) of title 17, Code of Federal Regulations, or, in the absence of a road show, at least 15 days prior to the requested effective date of the registration statement.
-    > - **(2)** *Within 1 year after initial public offering or exchange registration* Any issuer, within the 1-year period following its initial public offering or its registration of a security under section 12(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(b)), may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as defined in section 230.433(h) of title 17, Code of Federal Regulations, or, in the absence of a road show, at least 15 days prior to the requested effective date of the registration statement.
-    > - **(3)** *Additional requirements*
-    >   - **(A)** *Regulations* The Commission may promulgate regulations, subject to public notice and comment, to impose such other terms, conditions, or requirements on the submission of draft registration statements described under this subsection by an issuer other than an emerging growth company as the Commission determines appropriate.
-    >   - **(B)** *Report to Congress* Prior to any rulemaking described under subparagraph (A), the Commission shall submit to Congress a report containing a list of the findings supporting the basis of the rulemaking.
+## § 3. Confidential review of draft registration statements
+
+Section 6(e) of the Securities Act of 1933 (15 U.S.C. 77f(e)) is amended—
+
+- **(1)** in the heading, by striking “Emerging Growth Companies” and inserting “Confidential review of draft registration statements”;
+- **(2)** by redesignating paragraph (2) as paragraph (4); and
+- **(3)** by striking paragraph (1) and inserting the following:
+  > - **(1)** *In general* Any issuer may, with respect to an initial public offering, initial registration of a security of the issuer under section 12(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(b)), or follow-on offering, confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than—
+  >   - **(A)** in the case of an initial public offering, 10 days before the effective date of such registration statement;
+  >   - **(B)** in the case of an initial registration of a security of the issuer under such section 12(b), 10 days before listing on an exchange; or
+  >   - **(C)** in the case of a follow-on offering, 48 hours before the effective date of such registration statement.
+  > - **(2)** *Follow-on offering defined* In this subsection, the term “follow-on offering” means an offering by an issuer during the 12-month period beginning on the effective date of the initial public offering of the issuer or the initial registration of a security of the issuer under section 12(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(b)).
+  > - **(3)** *Additional requirements*
+  >   - **(A)** *In general* The Commission may promulgate regulations, subject to public notice and comment, to impose such other terms, conditions, or requirements on the submission of draft registration statements described under this subsection by an issuer other than an emerging growth company as the Commission determines appropriate.
+  >   - **(B)** *Report to Congress* Prior to any rulemaking described under subparagraph (A), the Commission shall submit to Congress a report containing a list of the findings supporting the basis of the rulemaking.

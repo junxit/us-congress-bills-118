@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2793
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2793
@@ -23,9 +23,10 @@ Encouraging Public Offerings Act of 2023
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Encouraging Public Offerings Act of 2023
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 67.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-90.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-90.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
