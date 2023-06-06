@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 43
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 43
@@ -50,3 +50,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2023-06-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2726-2727)
 - 2023-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2726-2727)
 - 2023-06-06 — Received in the Senate.
+- 2023-06-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2103)
+- 2023-06-14 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2103)
+- 2023-06-15 — Message on Senate action sent to the House.
