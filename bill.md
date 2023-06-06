@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3838
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3838
+
+> To amend title III of the Public Health Service Act to reauthorize Federal support of States in their work to save and sustain the health of mothers during pregnancy, childbirth, and the postpartum period, to eliminate disparities in maternal health outcomes for pregnancy-related and pregnancy-associated deaths, to identify solutions to improve health care quality and health outcomes for mothers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Preventing Maternal Deaths Reauthorization Act of 2023”.
+
+## § 2. Safe motherhood
+
+- **(a)** *Maternal mortality review committees* Section 317K(d) of the Public Health Service Act (42 U.S.C. 247b–12(d)) is amended—
+  - **(1)** in paragraph (1)(A), by inserting “(including obstetricians and gynecologists)” after “clinical specialties”; and
+  - **(2)** in paragraph (3)(A)(i)—
+    - **(A)** in subclause (I), by striking “as applicable” and inserting “if available”; and
+    - **(B)** in subclause (III), by striking “, as appropriate” and inserting “and coordinating with death certifiers to improve the collection of death record reports and the quality of death records, including by amending cause-of-death information on a death certificate, as appropriate”.
+- **(b)** *Best practices relating to the prevention of maternal mortality* Section 317K of the Public Health Service Act (42 U.S.C. 247b–12) is amended—
+  - **(1)** by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *Best practices relating to the prevention of maternal mortality*
+    >   - **(1)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, in consultation with the Administrator of the Health Resources and Services Administration, disseminate to hospitals, State professional society groups, and perinatal quality collaboratives, best practices on how to prevent maternal mortality and morbidity that consider and reflect best practices identified through other relevant Federal maternal health programs.
+    >   - **(2)** *Frequency* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall disseminate the best practices referred to in paragraph (1) not less than once per fiscal year.
+
+- **(c)** *Extension* Subsection (g) of section 317K of the Public Health Service Act (42 U.S.C. 247b–12), as redesignated by subsection (b), is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
