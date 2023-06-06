@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 63
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 63
@@ -39,3 +39,14 @@ Providing for the appointment of Antoinette Bush as a citizen regent of the Boar
 - 2023-06-05 — On passage Passed without objection. (text: CR H2732)
 - 2023-06-05 — Passed/agreed to in House: On passage Passed without objection. (text: CR H2732)
 - 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2023-12-14 — Passed Senate without amendment by Voice Vote. (consideration: CR S6010-6011)
+- 2023-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6010-6011)
+- 2023-12-14 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2023-12-14 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2023-12-18 — Message on Senate action sent to the House.
+- 2023-12-19 — Presented to President.
+- 2023-12-19 — Presented to President.
+- 2023-12-21 — Became Public Law No: 118-29.
+- 2023-12-21 — Became Public Law No: 118-29.
+- 2023-12-21 — Signed by President.
+- 2023-12-21 — Signed by President.
