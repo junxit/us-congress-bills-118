@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2610
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2610
@@ -16,9 +16,10 @@ To amend the Securities Exchange Act of 1934 to specify certain registration sta
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend the Securities Exchange Act of 1934 to specify certain registration sta
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 66.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-89.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-89.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
