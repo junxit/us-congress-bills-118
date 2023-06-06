@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2593
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2593
@@ -21,9 +21,10 @@ National Senior Investor Initiative Act of 2023
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ National Senior Investor Initiative Act of 2023
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 70.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-93.
 - 2023-06-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-93.
+- 2023-06-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
