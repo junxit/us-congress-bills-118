@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3843
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3843
+
+> To amend title III of the Public Health Service Act to reauthorize grants to address dental workforce needs.
+
+## § 1. Short title
+
+This Act may be cited as the “Action for Dental Health Act of 2023”.
+
+## § 2. Reauthorization of grants to address dental workforce needs
+
+Section 340G(f) of the Public Health Service Act (42 U.S.C. 256g(f)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
