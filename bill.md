@@ -1,0 +1,24 @@
+---
+legis-num: S. 1864
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1864
+
+> To expand the prohibition on funding for international institutions of higher education that host Confucius Institutes and remove the authority to waive the prohibition.
+
+## § 1. Short title
+
+This Act may be cited as the “No Federal Funding for CCP Spying and Persuasion In Education Settings (SPIES) Act of 2023”.
+
+## § 2. Prohibition on funding for international institutions of higher education that host Confucius Institutes and removal of waiver authority
+
+Section 1062 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 2241 note) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by striking “Except as provided in subsection (b), none” and inserting “None”; and
+  - **(B)** by inserting “or international institution of higher education” after “institution of higher education”;
+- **(2)** by striking subsection (b); and
+- **(3)** by redesignating subsections (c) and (d) as subsections (b) and (c), respectively.
