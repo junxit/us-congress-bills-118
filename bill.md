@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 478
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 478
+
+> Expressing disapproval of the withdrawal by the Secretary of the Interior of approximately 22,684 acres of Bureau of Land Management lands in the Railroad Valley of Nye County, Nevada, from all forms of mineral entry under United States law, subject to valid existing rights.
+
+## Preamble
+
+- Whereas, on April 29, 2021, the National Aeronautics and Space Administration (NASA) applied for a mineral withdrawal of approximately 22,995 acres in Railroad Valley, Nevada, located in Nye County;
+- Whereas, on July 20, 2021, Nye County requested to be included as a cooperating agency in the subsequent National Environmental Policy Act (NEPA) process, which NASA subsequently denied;
+- Whereas, on January 7, 2022, Representatives Mark Amodei, Steven Horsford, and Senators Cortez Masto and Rosen sent a letter to NASA reiterating Nye County’s request to be a cooperating agency, which was once again denied;
+- Whereas, on March 17, 2022, Representative Mark Amodei requested that NASA include his office as a cooperating agency, which was subsequently denied;
+- Whereas, on April 27, 2023, the Department of the Interior approved the withdrawal of 22,684.07 acres within Railroad Valley Public Land Order No. 7921 (88 Fed. Reg. 25682), taking effect that same day;
+- Whereas there is a longtime precedent in Nevada for the counties, cities, and municipalities of jurisdictions to be included as cooperating agencies when significant actions are proposed on federal lands within their boundaries;
+- Whereas NASA should have taken into account Nye County’s zoning and planning jurisdictional input;
+- Whereas the Bureau of Land Management also prepared a potential mineral report in May 2022, which identified moderate to high potential for three critical minerals—barite, lithium, and magnesium—to be present in Railroad Valley;
+- Whereas, within the withdrawn area, there are 618 placer mining claims spread over 12,360 acres, or approximately 54 percent, of the withdrawal area;
+- Whereas the availability of minerals and mineral materials are essential for economic growth, national security, technological innovation, and the manufacturing and agricultural supply chain;
+- Whereas China currently controls the majority of worldwide lithium production; and
+- Whereas withdrawing areas of high lithium potential from mineral production significantly disadvantages the United States national security and gives China more control over critical mineral production; Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** disapproves of NASA’s decision to decline Nye County’s request to act as a cooperating agency throughout the withdrawal process for Railroad Valley;
+- **(2)** disapproves of the Department of the Interior authorizing the withdrawal of approximately 22,684 acres in Railroad Valley, Nevada; and
+- **(3)** strongly recommends Federal agencies to include requesting States, counties, cities, and municipalities to be included as cooperating agencies for proposed land withdrawals in their jurisdiction or vicinity, at their request.
