@@ -1,7 +1,7 @@
 ---
 measure: S. 1308
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+4 amendatory instructions. 4 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,21 @@ to guess them.
 |---|---|
 | Removed | `30 months` |
 | Inserted | `47 months` |
+
+### 25 U.S.C. § 5373
+
+> in paragraph (2), by striking “21 months” and inserting “38 months”; and
+
+| | |
+|---|---|
+| Removed | `21 months` |
+| Inserted | `38 months` |
+
+### 25 U.S.C. § 5373
+
+> in paragraph (3), by striking “30 months” and inserting “50 months”.
+
+| | |
+|---|---|
+| Removed | `30 months` |
+| Inserted | `50 months` |
