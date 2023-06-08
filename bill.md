@@ -18,8 +18,8 @@ This Act may be cited as the “Strong Communities Act of 2023”.
 Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended—
 
 - **(1)** by redesignating subsection (m) as subsection (n); and
-- **(2)** by inserting after subsection (l) the following:
-  > - **(m)** *COPS Strong Communities Program*
+- **(2)** by inserting after subsection (l)adding at the end the following:
+  > - **(mo)** *COPS Strong Communities Program*
   >   - **(1)** *Definitions* In this subsection:
   >     - **(A)** *Eligible entity* The term eligible entity means—
   >       - **(i)** an institution of higher education, as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001), that, in coordination or through an agreement with a local law enforcement agency, offers a law enforcement training program; or
