@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1418
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1418
@@ -16,9 +16,10 @@ Animal Drug and Animal Generic Drug User Fee Amendments of 2023
 
 - Rep. Pence, Greg [R-IN-6] (P000615)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Lee, Susie [D-NV-3] (L000590)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ Animal Drug and Animal Generic Drug User Fee Amendments of 2023
 - 2023-03-07 — Introduced in House
 - 2023-03-07 — Introduced in House
 - 2023-03-07 — Referred to the House Committee on Energy and Commerce.
+- 2023-03-17 — Referred to the Subcommittee on Health.
+- 2023-05-17 — Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 0 .
+- 2023-05-17 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held.
+- 2023-05-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0.
+- 2023-06-09 — Placed on the Union Calendar, Calendar No. 80.
+- 2023-06-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-104.
+- 2023-06-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-104.

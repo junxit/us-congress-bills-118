@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Animal Drug User Fee Amendments of 2023”.
+This Act may be cited as the “Animal Drug and Animal Generic Drug User Fee Amendments of 2023”.
 
 ## § 2. Table of contents
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1418
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 27 executed, 29 stated and not applied.
+68 amendatory instructions. 31 executed, 37 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 21 U.S.C. § 379j-11
+
+> in paragraph (3), by striking “national drug code” and inserting “National Drug Code”; and
+
+| | |
+|---|---|
+| Removed | `national drug code` |
+| Inserted | `National Drug Code` |
 
 ### 21 U.S.C. § 379j-12
 
@@ -215,6 +224,24 @@ to guess them.
 
 ### 21 U.S.C. § 379j-21
 
+> by striking “2023” each place it appears and inserting “2028”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2028` |
+
+### 21 U.S.C. § 379j-21
+
+> by striking “2024” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2029` |
+
+### 21 U.S.C. § 379j-21
+
 > Section 741(e) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21(e)) is amended by striking “The Secretary may discontinue” and inserting “A request to establish a generic investigational new animal drug file that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for action by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue”.
 
 | | |
@@ -267,6 +294,15 @@ to guess them.
 | Removed | `2023` |
 | Inserted | `2028` |
 
+### 21 U.S.C. § 379j-13
+
+> by striking “Before presenting the recommendations developed under paragraphs (1) through (5) to Congress, the Secretary” and inserting “The Secretary”; and
+
+| | |
+|---|---|
+| Removed | `Before presenting the recommendations developed under paragraphs (1) through (5) to Congress, the Secretary` |
+| Inserted | `The Secretary` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -276,7 +312,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 379j-11` | amend | Section 739(8)(I) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11(8)(I)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-11` | amend | by amending paragraph (8)(I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-12` | strike | in subclause (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-12` | replace | in subclause (II), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 379j-12` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -290,18 +326,26 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379j-12` | amend | Section 740(d)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–12(d)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-12` | strike | in paragraph (3), by striking “and paragraph (5)”; and | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-12` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-12` | repeal | Effective October 1, 2023, subsections (a) and (b) of section 107 of the Animal Drug User Fee Amendments of 2018 (Public Law 115–234) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-11` | repeal | Effective October 1, 2023, subsections (a) and (b) of section 107 of the Animal Drug User Fee Amendments of 2018 (Public Law 115–234) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | add-at-end | Section 741(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-21` | insert | by inserting before the semicolon at the end the following: “and subsection (a)(4) (relating to generic investigational new animal drug files)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-21` | insert | by inserting before the semicolon at the end the following: “and fees under subsection (a)(4) (relating to generic investigational new animal drug files)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | amend | Section 741(c)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21(c)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-21` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | amend | Subsection (d) of section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-21` | strike | by striking the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-21` | strike | by striking the second paragraph (4) (relating to Offset), as added by section 202 of the Animal Generic Drug User Fee Amendments of 2013 (Public Law 113–14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | redesignate | by redesignating paragraphs (8), (9), (10), and (11) as paragraphs (9), (10), (11), and (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | redesignate | in paragraph (11) (as so redesignated), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | redesignate | by inserting after paragraph (11) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-21` | repeal | Effective October 1, 2023, subsections (a) and (b) of section 206 of the Animal Generic Drug User Fee Amendments of 2018 (Public Law 115–234) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | replace | by striking “Beginning with” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 379j-13` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | insert | in paragraph (5), by inserting a comma after “paragraph (4)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | redesignate | by redesignating paragraph (6) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | insert | by inserting before the period at the end the following: “, not later than 30 days after each such negotiation meeting”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-13` | insert | in subparagraph (B), by inserting “, in sufficient detail, ” after “shall summarize”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 321` | insert | Section 201(nn) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(nn)) is amended by inserting “, or remove species from,” after “add species to”. | the bill quotes the text inserted but describes where it goes |
