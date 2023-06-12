@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Extension of taxes funding airport and airways trust fund
 
-- **(a)** *Fuel* Section 4081(d)(2)(B) of the Internal Revenue Code of 1986 is amended by striking “September 30, 2023” and inserting “September 30, 2028”.
-- **(b)** *Ticket*
+- **(a)** *Fuel taxes* Section 4081(d)(2)(B) of the Internal Revenue Code of 1986 is amended by striking “September 30, 2023” and inserting “September 30, 2028”.
+- **(b)** *Ticket taxes*
   - **(1)** *Persons* Section 4261(k)(1)(A)(ii) of such Code is amended by striking “September 30, 2023” and inserting “September 30, 2028”.
   - **(2)** *Property* Section 4271(d)(1)(A)(ii) of such Code is amended by striking “September 30, 2023” and inserting “September 30, 2028”.
 - **(c)** *Fractional ownership programs*
