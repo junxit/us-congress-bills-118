@@ -22,12 +22,12 @@ This Act may be cited as the “Custom Health Option and Individual Care Expense
 
   - **(2)** by adding at the end the following new paragraph:
     > - **(2)** *Custom health option and individual care expense arrangements*
-    >   - **(A)** *In general* For purposes of this subchapter, a custom health option and individual care expense arrangement shall be treated as meeting the requirements of sections 2711 and 2713 of title XXVII of the Public Health Service Act.
+    >   - **(A)** *In general* For purposes of this subchapter, a custom health option and individual care expense arrangement shall be treated as meeting the requirements of section 2711 and 2713 of title XXVII of the Public Health Service Act.
     >   - **(B)** *Custom health option and individual care expense arrangements defined* For purposes of this section, the term “custom health option and individual care expense arrangement” means a health reimbursement arrangement—
     >     - **(i)** which is an employer-provided group health plan funded solely by employer contributions to provide payments or reimbursements for medical care subject to a maximum fixed dollar amount for a period,
     >     - **(ii)** under which such payments or reimbursements may only be made for medical care provided during periods during which the individual is covered—
     >       - **(I)** under individual health insurance coverage (other than coverage that consists solely of excepted benefits), or
-    >       - **(II)** under parts A and B of title XVIII of the Social Security Act or part C of such title,
+    >       - **(II)** under part A and B of title XVIII of the Social Security Act or part C of such title,
     >     - **(iii)** which meets the nondiscrimination requirements of subparagraph (C),
     >     - **(iv)** which meets the substantiation requirements of subparagraph (D), and
     >     - **(v)** which meets the notice requirements of subparagraph (E).
@@ -42,17 +42,17 @@ This Act may be cited as the “Custom Health Option and Individual Care Expense
     >       - **(IV)** Non-salaried employees.
     >       - **(V)** Employees whose primary site of employment is in the same rating area.
     >       - **(VI)** Employees who are included in a unit of employees covered under a collective bargaining agreement to which the employer is subject (determined under rules similar to the rules of section 105(h)).
-    >       - **(VII)** Employees who have not met a group health plan, or health insurance issuer offering group health insurance coverage, waiting period requirement that satisfies the requirements of section 2708 of the Public Health Service Act.
+    >       - **(VII)** Employees who have not met a group health plan, or health insurance issuer offering group health insurance coverage, waiting period requirement that satisfies the of section 2708 of the Public Health Service Act.
     >       - **(VIII)** Seasonal employees.
     >       - **(IX)** Employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
-    >       - **(X)** Such other classes of employees as the Secretary may designated.
+    >       - **(X)** Such other classes of employees as the Secretary may designate.
     >     - **(iii)** *Special rule for new hires* An employer may designate prospectively so much of a specified class of employees as are hired after a date set by the employer. Such subclass of employees shall be treated as the specified class for purposes of applying clause (i).
-    >     - **(iv)** *Rules for determining type of employee* For purposes of clause (ii), any determination of full-time, part-time, or seasonal employment status shall be made under rules similar to the rules of section 105(h) or 4980H, whichever the employer elects for the plan year. Such election shall apply with respect to all employees of the employer for the plan year.
+    >     - **(iv)** *Rules for determining type of employee* For purposes for clause (ii), any determination of full-time, part-time, or seasonal employment status shall be made under rules similar to the rules of section 105(h) or 4980H, whichever the employer elects for the plan year. Such election shall apply with respect to all employees of the employer for the plan year.
     >     - **(v)** *Permitted variation* For purposes of clause (i)(I), an arrangement shall not fail to be treated as provided on the same terms within a specified class merely because the maximum dollar amount of payments and reimbursements which may be made under the terms of the arrangement for the year with respect to each employee within such class—
     >       - **(I)** increases as additional dependents of the employee are covered under the arrangement, and
-    >       - **(II)** increases with respect to a participant as the age of the participant increases, but not in excess of an amount equal to 300 percent of the lowest maximum dollar amount with respect to such a participant determined without regard to age.
+    >       - **(II)** increases with respect to a participant as the age of the participant increases, but not in excess of an amount equal to 300 percent the lowest maximum dollar amount with respect to such a participant determined without regard to age.
     >   - **(D)** *Substantiation requirements* An arrangement meets the requirements of this subparagraph if the arrangement has reasonable procedures to substantiate—
-    >     - **(i)** that the participant is, or will be, enrolled in coverage described in subparagraph (B)(ii) as of the beginning of the plan year of the arrangement (or as of the beginning of coverage under the arrangement in the case of an employee who first becomes eligible to participate in the arrangement after the date notice is given with respect to the plan under subparagraph (E) (determined without regard to clause (iii) thereof)), and
+    >     - **(i)** that the participant is, or will be, enrolled in coverage described in subparagraph (B)(ii) as of the beginning of the plan year of the arrangement (or as of the beginning of coverage under the arrangement in the case of an employee who first becomes eligible to participate in the arrangement after the date notice is given with respect to the plan under subparagraph (E) (determined without regard to clause (iii) thereof), and
     >     - **(ii)** any requests made for payment or reimbursement of medical care under the arrangement and that the participant remains so enrolled.
     >   - **(E)** *Notice*
     >     - **(i)** *In general* Except as provided in clause (iii), an arrangement meets the requirements of this subparagraph if, under the arrangement, each employee eligible to participate is, not later than 90 days before the beginning of the plan year, given written notice of the employee’s rights and obligations under the arrangement which—
@@ -64,6 +64,6 @@ This Act may be cited as the “Custom Health Option and Individual Care Expense
     >       - **(II)** whose employer is first established fewer than 120 days before the beginning of the first plan year of the arrangement,
 
 - **(b)** *No inference* To the extent not inconsistent with the amendments made by this section—
-  - **(1)** no inference shall be made from such amendments with respect to the rules prescribed in the Federal Register on June 20, 2019 (84 Fed. Reg. 28888), relating to health reimbursement arrangements and other account-based group health plans, and
+  - **(1)** no inference shall be made from such amendments with respect to the rules prescribed in the Federal Register on June 20, 2019, (84 Fed. Reg. 28888) relating to health reimbursement arrangements and other account-based group health plans, and
   - **(2)** any reference to custom health option and individual care expense arrangements shall for purposes of such rules be treated as including a reference to individual coverage health reimbursement arrangements.
-- **(c)** *Effective date* The amendments made by this subsection shall apply to plan years beginning after December 31, 2023.
+- **(c)** *Effective date* The amendments made by this section shall apply to plan years beginning after December 31, 2023.
