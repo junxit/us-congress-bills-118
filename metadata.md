@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 662
@@ -66,3 +66,9 @@ Block Grant Assistance Act of 2023
 - 2023-05-22 — Placed on the Union Calendar, Calendar No. 53.
 - 2023-05-22 — Reported by the Committee on Agriculture. H. Rept. 118-73.
 - 2023-05-22 — Reported by the Committee on Agriculture. H. Rept. 118-73.
+- 2023-06-12 — Considered under suspension of the rules. (consideration: CR H2803-2805)
+- 2023-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 662.
+- 2023-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-12 — Mrs. Cammack moved to suspend the rules and pass the bill, as amended.
+- 2023-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2804)
+- 2023-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2804)
