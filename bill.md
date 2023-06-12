@@ -22,8 +22,8 @@ This Act may be cited as the “Small Business Flexibility Act”.
   > - **(b)** *Definitions* In this section:
   >   - **(1)** *Employer* The term “employer” has the meaning given such term in section 3(5) of the Employee Retirement Income Security Act (29 U.S.C. 1002(5)).
   >   - **(2)** *Flexible health insurance benefits* The term “flexible health insurance benefits” means—
-  >     - **(A)** an individual contribution health reimbursement arrangement (as described in the rule entitled “Health Reimbursement Arrangements and Other Account-Based Group Health Plans” (84 Fed. Reg. 28888 (June 20, 2019)));
-  >     - **(B)** a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)); or
-  >     - **(C)** the small employer health insurance credit.
+  >     - **(A)** an individual contribution health reimbursement arrangement (as described in the rule entitled “Health Reimbursement Arrangements and Other Account-Based Group Health Plans” (84 Fed. Reg. 28888 (June 20, 2019));
+  >     - **(B)** a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)); and
+  >     - **(C)** the small employer health insurance credit determined under section 45R.
 
 - **(b)** *Clerical amendment* The table of sections for subchapter C of chapter 100 of such Code is amended by adding at the end the following new item:

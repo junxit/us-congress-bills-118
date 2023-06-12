@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3798
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
