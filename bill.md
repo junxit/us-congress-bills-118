@@ -33,6 +33,28 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Russian authorities refused to release Paul Whelan as part of the prisoner exchange in December 2022;
 - Whereas Secretary of State Antony Blinken stated, “His detention remains unacceptable, and we continue to press for his immediate release at every opportunity”; and
 - Whereas President Biden stated that his administration had “not forgotten about Paul Whelan,” and promised to “keep negotiating in good faith for his release”: Now, therefore, be it
+- Whereas United States citizen Paul Whelan is a resident of Novi, Michigan, and a veteran of the Marine Corps;
+- Whereas, on December 22, 2018, Paul Whelan traveled to Moscow, Russia, for the wedding of a personal friend;
+- Whereas, on December 28, 2018, the Federal Security Service of the Russian Federation arrested Paul Whelan at the Metropol Hotel in Moscow and charged him with espionage;
+- Whereas the Federal Security Service has never provided any evidence of supposed wrongdoing with respect to Paul Whelan;
+- Whereas Paul Whelan was imprisoned in Lefortovo Prison and was held in pretrial detention at the prison for more than 19 months after his arrest;
+- Whereas a Moscow court extended Paul Whelan’s pretrial detention multiple times without publicly presenting justification or evidence of wrongdoing;
+- Whereas even Vladimir Zherebenkov, the lawyer appointed by the Federal Security Service to represent Paul Whelan, said on May 24, 2019, “[The Federal Security Service] always roll[s] out what they have, but in this case, we’ve seen nothing concrete against Whelan in five months. That means there is nothing.”;
+- Whereas then-United States Ambassador to the Russian Federation, Jon Huntsman, responded on April 12, 2019, to a question about the detention of Paul Whelan, “If the Russians have evidence, they should bring it forward. We have seen nothing. If there was a case, I think the evidence would have been brought forward by now.”;
+- Whereas then-Secretary of State Mike Pompeo met with Russian Foreign Minister Sergey Lavrov on May 14, 2019, and urged him to ensure United States citizens are not unjustly held abroad;
+- Whereas the Kremlin has refused to provide Paul Whelan with full access to his lawyer, and the so-called evidence against Paul Whelan and any evidence he has seen is in Russian, a language Whelan does not read or speak;
+- Whereas the Lefortovo pretrial detention facility and the Ministry of Foreign Affairs refused to provide medical treatment for Paul Whelan’s medical condition, despite being aware of its worsening state, resulting in emergency surgery on May 29, 2020;
+- Whereas Paul Whelan was wrongfully convicted on June 15, 2020, and sentenced to 16 years in a Russian labor camp by a three-judge panel, in a trial witnessed by then-United States Ambassador John Sullivan, who referred to the trial as “a mockery of justice” due to the denial of a fair trial and the exclusion of defense witnesses;
+- Whereas, in August 2020, on an unknown day, Paul Whelan was secretly transferred to camp IK–17, a penal labor camp in Mordovia, Russia, where he is forced to work 6 days a week in a garment factory;
+- Whereas then-Ambassador John Sullivan, while visiting Paul Whelan in September 2020 at the labor camp in Mordovia, stated that “Russian authorities ... have never shown the world evidence of his guilt,” and reiterated his call for the Russian authorities to correct this injustice and release Paul Whelan;
+- Whereas Secretary of State Antony Blinken spoke with Russian Foreign Minister Sergei Lavrov on February 4, 2021, and urged him to release United States citizens detained in the Russian Federation, including Paul Whelan and Trevor Reed, so that they are able to return home to their families in the United States;
+- Whereas, on July 23, 2021, the Senate unanimously passed a bipartisan resolution calling for Whelan’s release;
+- Whereas, in August 2021, Whelan was released from a month-long stay in a solitary confinement at the IK–17 penal colony in the region of Mordovia;
+- Whereas Secretary Blinken pressed the Kremlin to accept an offer by the United States that would bring Paul Whelan and Brittney Griner home in July 2022;
+- Whereas, in November 2022, Paul Whelan was unable to contact his family for more than a week, during which time Russian authorities claimed Whelan had been sent to the hospital;
+- Whereas Russian authorities refused to release Paul Whelan as part of prisoner exchanges for Trevor Reed and Brittney Griner;
+- Whereas Secretary of State Antony Blinken stated that Whelan's “detention remains unacceptable, and we continue to press for his immediate release at every opportunity”; and
+- Whereas President Biden stated that his administration had “not forgotten about Paul Whelan,” and promised to “keep negotiating in good faith for his release”: Now, therefore, be it
 
 That the Senate—
 

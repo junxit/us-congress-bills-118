@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 156
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 156
@@ -16,9 +16,10 @@ A resolution calling on the Government of the Russian Federation to release Unit
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution calling on the Government of the Russian Federation to release Unit
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Referred to the Committee on Foreign Relations. (text: CR S1106-1107)
+- 2023-06-08 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2023-06-13 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-06-13 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
