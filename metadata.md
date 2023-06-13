@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 662
@@ -50,9 +50,10 @@ Block Grant Assistance Act of 2023
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Appropriations Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Block Grant Assistance Act of 2023
 - 2023-06-12 — Mrs. Cammack moved to suspend the rules and pass the bill, as amended.
 - 2023-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2804)
 - 2023-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2804)
+- 2023-06-13 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
