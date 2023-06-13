@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Disaster Assistance Simplification Act”.
 
-## § 2. Findings and purpose
+## § 2. Findings and purposes
 
 - **(a)** *Findings* Congress finds the following:
   - **(1)** The disaster response and recovery framework of the United States relies on a unified, integrated, agile, and adaptable whole-of-community effort by Federal, State, and local disaster assistance agencies, and by voluntary organizations, to respond to any natural and man-made disasters that may strike communities.
@@ -24,7 +24,7 @@ This Act may be cited as the “Disaster Assistance Simplification Act”.
   - **(4)** Section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), require multiple layers of review, notice, and publication in the Federal Register before Federal disaster assistance agencies can amend or adapt their information sharing practices.
   - **(5)** Such extended review processes can have the effect of inhibiting efficiency, innovation, and interoperability among Federal, State, Tribal, territorial, local, private, and volunteer partners in delivering disaster assistance within a whole-of-community disaster assistance effort.
   - **(6)** Legal, regulatory, and policy limitations on the interagency sharing of information submitted by applicants for disaster assistance may require those applicants to submit separate applications to multiple Federal, State, Tribal, territorial, and local disaster assistance agencies, which increases the burden on those applicants, reduces the efficiency of disaster assistance programs, and places additional costs on taxpayers.
-- **(b)** *Purpose* The purposes of this Act are to—
+- **(b)** *Purposes* The purposes of this Act are to—
   - **(1)** streamline the sharing of information among Federal, State, Tribal, territorial, and local disaster assistance agencies;
   - **(2)** modernize the legal safeguards against the unauthorized disclosure or misuse of information about applicants for disaster assistance; and
   - **(3)** modernize, streamline, and consolidate the overlapping requirements of section 552a of title 5, United States Code, subchapter I of chapter 35 of title 44, United States Code, and the agency policies that implement those authorities to improve the speed, convenience, efficiency, and effectiveness of disaster relief programs.
@@ -40,10 +40,10 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5
 >   - **(2)** *Applicant* The term applicant means—
 >     - **(A)** an individual, business, or organization that applies for disaster assistance from a disaster assistance program;
 >     - **(B)** an individual, business, or organization on behalf of which an individual described in subparagraph (A) applies for disaster assistance from a disaster assistance program; and
->     - **(C)** an individual, business, or organization that seeks assistance as a beneficiary of a State, local government, or Indian Tribe that received assistance under a disaster assistance program.
+>     - **(C)** an individual, business, or organization that seeks assistance as a beneficiary of a State, local government, or Indian Tribetribal government that received assistance under a disaster assistance program.
 >   - **(3)** *Disaster assistance agency* The term disaster assistance agency means—
 >     - **(A)** the Federal Emergency Management Agency; and
->     - **(B)** any Federal agency that provides disaster assistance to individuals, businesses, organizations, States, local governments, Indian Tribes, communities, or organizations that the Administrator certifies as a disaster assistance agency in accordance with subsection (f) to carry out the purposes of a disaster assistance program.
+>     - **(B)** any Federal agency that provides disaster assistance to individuals, businesses, organizations, States, local governments, Indian Tribestribal governments, communities, or organizations that the Administrator certifies as a disaster assistance agency in accordance with subsection (f) to carry out the purposes of a disaster assistance program.
 >   - **(4)** *Disaster assistance information* The term disaster assistance information includes any personal, biographical, demographic, geographical, financial, application decision, or other information that a disaster assistance agency, or a recipient of a Federal block grant from a disaster assistance agency, is authorized to collect, maintain, disclose, or use to—
 >     - **(A)** process an application for disaster assistance from a disaster assistance program; or
 >     - **(B)** otherwise carry out the purpose of a disaster assistance program.
@@ -58,15 +58,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5
 >       - **(vi)** food benefit allotments under section 412 of this Act and section 5(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(h)).
 >   - **(6)** *Record* The term record has the meaning given the term in section 552a of title 5, United States Code.
 > - **(b)** *Unified disaster assistance intake process and system*
->   - **(1)** *In general* Not later than 360 days after the date of enactment of the Disaster Assistance Simplification Act, the Administrator shall, in consultation with appropriate Federal, State, local, and Tribal governments and entities, develop and establish a unified intake process and system for applicants for disaster assistance provided by a disaster assistance agency to—
+>   - **(1)** *In general* Not later than 360 days after the date of enactment of the Disaster Assistance Simplification Act, the Administrator shall, in consultation with appropriate Federal, State, local, and TribalIndian tribal governments and entities, develop and establish a unified intake process and system for applicants for disaster assistance provided by a disaster assistance agency to—
 >     - **(A)** facilitate a consolidated application for any form of disaster assistance provided by a disaster assistance agency when appropriate to support the nature and purposes of the assistance;
 >     - **(B)** carry out the purposes of disaster assistance programs swiftly, efficiently, equitably, and in accordance with applicable laws and privacy and data protections; and
 >     - **(C)** support the detection, prevention, and investigation of waste, fraud, abuse, or discrimination in the administration of disaster assistance programs.
->   - **(2)** *Capabilities of the consolidated application system* The unified intake and process system established under paragraph (1) shall—
+>   - **(2)** *Capabilities of the consolidated application system* The unified intake and process and system established under paragraph (1) shall—
 >     - **(A)** accept applications for disaster assistance programs;
 >     - **(B)** allow for applicants to receive status updates on applications for disaster assistance programs;
 >     - **(C)** allow for applicants to update disaster assistance information throughout the recovery journeys of those applicants;
->     - **(D)** allow for the distribution of information on additional recovery resources to disaster survivors that may be available in a disaster-stricken jurisdiction in coordination with appropriate Federal, State, local, and Tribal partners;
+>     - **(D)** allow for the distribution of information on additional recovery resources to disaster survivors that may be available in a disaster-stricken jurisdiction, in coordination with appropriate Federal, State, local, and Tribal partners;
 >     - **(E)** provide disaster survivors with information and documentation on the applications of those disaster survivors for a disaster assistance program;
 >     - **(F)** allow for the distribution of application data to support faster and more effective distribution of Federal disaster assistance, including block grant assistance, for disaster recovery;
 >     - **(G)** allow for disaster assistance agencies to communicate directly with disaster survivors; and
@@ -74,15 +74,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5
 >   - **(3)** *Updates* Not later than 30 days after the date on which the Administrator receives a request from a disaster assistance agency to update questions in the consolidated application described in paragraph (1) needed to administer the disaster assistance programs of the disaster assistance agency, the Administrator shall make those updates.
 > - **(c)** *Authorities of Administrator* The Administrator may—
 >   - **(1)** collect, maintain, disclose, and use disaster assistance information, including such information received from any disaster assistance agency, with any other disaster assistance agency for purposes of subsection (b)(1); and
->   - **(2)** subject to subsection (d), authorize the collection, sharing, and use of disaster assistance information collected on or after the date of enactment of the Disaster Assistance Simplification Act by publishing a notice on a public website that—
+>   - **(2)** subject to subsection (d), authorize the collection, sharingmaintenance, disclosure, and use of disaster assistance information collected on or after the date of enactment of the Disaster Assistance Simplification Act by publishing a notice on a public website that—
 >     - **(A)** includes a detailed description of—
->       - **(i)** the specific disaster assistance information authorized to be collected, maintained, and disclosed;
->       - **(ii)** why the collection, maintenance, or disclosure of the disaster assistance information is necessary to carry out the purpose of a disaster assistance program;
->       - **(iii)** how the collection, maintenance, and disclosure of disaster assistance information incorporates fair information practices; and
+>       - **(i)** the specific disaster assistance information authorized to be collected, maintained, and disclosed, and used;
+>       - **(ii)** why the collection, maintenance, or disclosure, or use of the disaster assistance information is necessary to carry out the purpose of a disaster assistance program;
+>       - **(iii)** how the collection, maintenance, and disclosure, and use of disaster assistance information incorporates fair information practices; and
 >       - **(iv)** the disaster assistance agencies that will be granted access to the disaster assistance information to carry out the purpose of any disaster assistance program; and
 >     - **(B)** provides that the submission of an application through a unified disaster application constitutes prior written consent to disclose disaster assistance information to disaster assistance agencies for the purpose of section 552a(b) of title 5, United States Code.
 > - **(d)** *Collection and sharing of records and information*
->   - **(1)** *Effect of publication of notice on public website* The publication of a notice by the Administrator on a public website of a revision to the system of records of the uniform intake process and system established under subsection (b)(1) prior to any new collection, or uses, of records to carry out the purposes of a disaster assistance program with respect to a major disaster or emergency declared by the President under section 401 or 501, respectively, of this Act shall be deemed to satisfy the notice and publication requirements of section 552a(e)(4) of title 5, United States Code, for the entire period of performance for any assistance provided under a disaster assistance program.
+>   - **(1)** *Effect of publication of notice on public website* The publication of a notice by the Administrator on a public website of a revision to the system of records of the uniformunified intake process and system established under subsection (b)(1) prior to any new collection, maintenance, disclosure, or uses, of records to carry out the purposes of a disaster assistance program with respect to a major disaster or emergency declared by the President under section 401 or 501, respectively, of this Act shall be deemed to satisfy the notice and publication requirements of section 552a(e)(4) of title 5, United States Code, for the entire period of performance for any assistance provided under a disaster assistance program.
 >   - **(2)** *Paperwork Reduction Act waiver*
 >     - **(A)** *In general* Upon the declaration of a major disaster or emergency pursuant to section 401 or 501, respectively, of this Act, the Administrator may waive the requirements of subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), with respect to the voluntary collection of information specific to the declared major disaster or emergency needed to carry out the purposes of a disaster assistance program.
 >     - **(B)** *Duration* A waiver described in subparagraph (A) shall be in effect for the entire period of performance for any assistance provided under a disaster assistance program with respect to a declared major disaster or emergency.

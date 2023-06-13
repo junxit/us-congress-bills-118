@@ -1,7 +1,7 @@
 ---
 measure: S. 1528
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1528
@@ -29,3 +29,7 @@ Disaster Assistance Simplification Act
 
 - 2023-05-10 — Introduced in Senate
 - 2023-05-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-39.
+- 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-39.
+- 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
