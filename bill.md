@@ -13,10 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Telehealth Expansion Act of 2023”.
 
-## § 2. Exemption for telehealth services
+## § 2. Making permanent the safe harbor for absence of deductible for telehealth
 
-- **(a)** *In general* Subparagraph (E) of section 223(c)(2) of the Internal Revenue Code of 1986 is amended to read as follows:
-  > - **(E)** *Safe harbor for absence of deductible for telehealth* A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
-
-- **(b)** *Certain coverage disregarded* Clause (ii) of section 223(c)(1)(B) of the Internal Revenue Code of 1986 is amended by striking “(in the case of months or plan years to which paragraph (2)(E) applies)”.
-- **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
+- **(a)** *In general* Section 223(c)(2)(E) of the Internal Revenue Code of 1986 is amended by striking “In the case of” and all that follows through “a plan” and inserting “A plan”.
+- **(b)** *Certain coverage disregarded* Section 223(c)(1)(B)(ii) of the Internal Revenue Code of 1986 is amended by striking “(in the case of months or plan years to which paragraph (2)(E) applies)”.
+- **(c)** *Effective date* The amendments made by this section shall apply to plan years beginning after December 31, 2024.
