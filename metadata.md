@@ -1,7 +1,7 @@
 ---
 measure: S. 376
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 376
@@ -32,3 +32,7 @@ A bill to designate the area between the intersections of 16th Street, Northwest
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-06-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2077-2078; text: CR S2077-2078)
+- 2023-06-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2077-2078; text: CR S2077-2078)
+- 2023-06-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2023-06-13 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
