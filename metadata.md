@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 44
@@ -211,6 +211,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2023-06-13 — [House 118-1-252](votes/house-118-1-0252.md) — On Passage — **Passed** (219–210)
+
 ## Actions
 
 - 2023-03-17 — Introduced in House
@@ -221,3 +225,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-05-17 — Placed on the Union Calendar, Calendar No. 49.
 - 2023-05-17 — Reported by the Committee on Judiciary. H. Rept. 118-69.
 - 2023-05-17 — Reported by the Committee on Judiciary. H. Rept. 118-69.
+- 2023-06-12 — Rules Committee Resolution H. Res. 495 Reported to House. Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — Considered as unfinished business. (consideration: CR H2852-2853)
+- 2023-06-13 — Considered under the provisions of rule H. Res. 495. (consideration: CR H2835-2842)
+- 2023-06-13 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 44.
+- 2023-06-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-13 — On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 252). (text: CR H2835)
+- 2023-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. J. Res. 44, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Nadler demanded the yeas and nays and the Chair postoned further proceedings until a time to be announced.
+- 2023-06-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 252). (text: CR H2835)
+- 2023-06-13 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 100 pursuant to 5 U.S.C. 802(f).
+- 2023-06-13 — Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — The previous question was ordered pursuant to the rule.
