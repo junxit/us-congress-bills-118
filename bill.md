@@ -2,7 +2,7 @@
 legis-num: H. RES. 377
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 377
@@ -32,5 +32,5 @@ That the House of Representatives—
 - **(6)** urges the Government of the Russian Federation to desist from detaining, imprisoning, and otherwise seeking to intimidate journalists in order to curtail or censor an independent press;
 - **(7)** condemns the Government of the Russian Federation’s continued use of detentions and prosecutions of United States citizens and lawful permanent residents for political purposes;
 - **(8)** calls for the immediate release of Paul Whelan, who has been wrongfully detained in Russia since December 2018;
-- **(9)** expresses continued support for all American citizens and lawful permanent residents detained in Russia and abroad, including Marc Fogel, Vladimir Kara-Murza, and others; and
+- **(9)** expresses continued support for all American citizens and lawful permanent residents detained in Russia and abroad, including Marc Fogel, who faces a politicized, excessive sentence for his alleged offense, Vladimir Kara-Murza, who has endured multiple attempts on his life and years of persecution by the Putin regime, and others; and
 - **(10)** expresses sympathy for and solidarity with the families of Evan Gershkovich, Paul Whelan, and all other American citizens and lawful permanent residents wrongfully detained abroad for the personal hardship experienced as a result of the arbitrary and baseless arrest and detention of their loved ones.
