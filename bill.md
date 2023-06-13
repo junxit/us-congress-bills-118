@@ -45,22 +45,21 @@ The Congress finds the following:
 - **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 
-## § 4. Design of coins
+## § 4. Designs of coins
 
-- **(a)** *Design requirements* The design of the coins minted under this Act shall be emblematic of the 250th anniversary of the United States Marine Corps.
+- **(a)** *Design requirements* The designs of the coins minted under this Act shall be emblematic of the 250th anniversary of the United States Marine Corps.
 - **(b)** *Designation and inscriptions* On each coin minted under this Act there shall be—
   - **(1)** a designation of the value of the coin;
   - **(2)** an inscription of the year “2025”; and
   - **(3)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
-- **(c)** *Selection* The design for the coin minted under this Act shall be—
+- **(c)** *Selection* The designs for the coin minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with the Commission of Fine Arts, the Commandant of the Marine Corps, and the Marine Corps Heritage Foundation; and
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
 
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint facility* Any facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2025.
+- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2025.
 
 ## § 6. Sale of coins
 
