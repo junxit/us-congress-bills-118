@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 44
