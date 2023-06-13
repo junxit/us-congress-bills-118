@@ -16,8 +16,6 @@ This Act may be cited as the “Employer Reporting Improvement Act”.
 ## § 2. TIN reporting flexibility
 
 - **(a)** *In general* Section 6055(b)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following flush sentence:
-  > For purposes of subparagraph (B)(i), in the case of any individual whose name is required to be set forth in a return under subsection (a), if the person required to make a return under such subsection is unable to collect information on the TINs of such individuals, the Secretary may allow the individual’s full name and date of birth to be substituted for the name and TIN.
-
 - **(b)** *Effective date* The amendment made by this section shall apply to returns the due date for which is after December 31, 2024.
 
 ## § 3. Electronic statements
@@ -42,4 +40,4 @@ This Act may be cited as the “Employer Reporting Improvement Act”.
 - **(a)** *In general* Section 6501 of the Internal Revenue Code of 1986 is amended by redesignating subsection (n) as subsection (o) and by inserting after subsection (m) the following new subsection:
   > - **(n)** *Assessable payment of employer shared responsibility* In the case of any assessable payment under section 4980H, the period for assessment shall expire at the end of the 6-year period beginning on the due date for filing the return under section 6056 (or, if later, the date such return was filed) for the calendar year with respect to which such payment is determined.
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply with respect to returns which are due after December 31, 2024.
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to returns which are due after December 31, 2024.

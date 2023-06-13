@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3801
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3801
@@ -29,3 +29,8 @@ Employer Reporting Improvement Act
 - 2023-06-05 — Introduced in House
 - 2023-06-05 — Introduced in House
 - 2023-06-05 — Referred to the House Committee on Ways and Means.
+- 2023-06-07 — Committee Consideration and Mark-up Session Held
+- 2023-06-07 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 37 - 0.
+- 2023-06-13 — Placed on the Union Calendar, Calendar No. 86.
+- 2023-06-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-111.
+- 2023-06-13 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-111.
