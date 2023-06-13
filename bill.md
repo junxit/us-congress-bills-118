@@ -1,0 +1,20 @@
+---
+legis-num: H. CON. RES. 52
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 52
+
+> Condemning Cuba and the Chinese Communist Party for discussing and implementing an agreement to build a Chinese Communist Party spy base on the island of Cuba, 90 miles from the United States.
+
+## Preamble
+
+- Whereas it is the concurrent sense of Congress that the actions by Cuba and the Chinese Communist Party for discussing and implementing an agreement to build a Chinese Communist Party spy base on the island of Cuba, 90 miles from the United States is strongly condemned;
+- Whereas it is of the sense of Congress that this action is seen as militarily hostile and is cause for grave concern due to its implications to harm our national security;
+- Whereas Cuba has a history of targeting United States intelligence and serving the interests of communist superpowers like Russia and China;
+- Whereas the Chinese Communist Party is the greatest threat to American sovereignty and serves an evil agenda to eradicate freedom worldwide; and
+- Whereas it is the sense of Congress that the location of the spy base in Cuba is deliberately purposed to eavesdrop on our conversations and secure networks, collect data on shipping and military operations, and interfere in military operations: Now, therefore, be it
+
+That Congress condemns Cuba and the Chinese Communist Party for discussing and implementing an agreement to build a Chinese Communist Party spy base on the island of Cuba, 90 miles from the United States.
