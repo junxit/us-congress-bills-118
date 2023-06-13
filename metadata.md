@@ -1,7 +1,7 @@
 ---
 measure: S. 1549
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1549
@@ -16,9 +16,10 @@ Congressional Budget Office Data Access Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Congressional Budget Office Data Access Act
 
 - 2023-05-10 — Introduced in Senate
 - 2023-05-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-40.
+- 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-40.
+- 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
