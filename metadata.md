@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3099
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3099
@@ -57,9 +57,10 @@ Special Envoy for the Abraham Accords Act
 - Rep. Nickel, Wiley [D-NC-13] (N000194)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Special Envoy for the Abraham Accords Act
 - 2023-06-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-06-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 13 (Roll no. 251). (text: 6/12/2023 CR H2800-2801)
 - 2023-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 13 (Roll no. 251). (text: 6/12/2023 CR H2800-2801)
+- 2023-06-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
