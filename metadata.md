@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 461
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 461
@@ -16,9 +16,21 @@ Condemning the use of elementary and secondary school facilities to provide shel
 
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 
-## Cosponsors (1)
+## Cosponsors (13)
 
 - Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
 
 ## Committees (1)
 
@@ -29,3 +41,8 @@ Condemning the use of elementary and secondary school facilities to provide shel
 - 2023-06-01 — Introduced in House
 - 2023-06-01 — Introduced in House
 - 2023-06-01 — Referred to the House Committee on Education and the Workforce.
+- 2023-06-06 — Committee Consideration and Mark-up Session Held.
+- 2023-06-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 16.
+- 2023-06-14 — Placed on the House Calendar, Calendar No. 25.
+- 2023-06-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-113.
+- 2023-06-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-113.
