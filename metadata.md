@@ -1,7 +1,7 @@
 ---
 measure: H.R. 277
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 277
@@ -207,6 +207,18 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 - House — Budget Committee
 - House — Rules Committee
 
+## Recorded votes (9)
+
+- 2023-06-14 — [House 118-1-257](votes/house-118-1-0257.md) — On Agreeing to the Amendment — **Failed** (211–223)
+- 2023-06-14 — [House 118-1-258](votes/house-118-1-0258.md) — On Agreeing to the Amendment — **Failed** (211–223)
+- 2023-06-14 — [House 118-1-259](votes/house-118-1-0259.md) — On Agreeing to the Amendment — **Failed** (207–225)
+- 2023-06-14 — [House 118-1-260](votes/house-118-1-0260.md) — On Agreeing to the Amendment — **Failed** (213–221)
+- 2023-06-14 — [House 118-1-261](votes/house-118-1-0261.md) — On Agreeing to the Amendment — **Failed** (151–285)
+- 2023-06-14 — [House 118-1-262](votes/house-118-1-0262.md) — On Agreeing to the Amendment — **Failed** (217–219)
+- 2023-06-14 — [House 118-1-263](votes/house-118-1-0263.md) — On Agreeing to the Amendment — **Agreed to** (219–217)
+- 2023-06-14 — [House 118-1-264](votes/house-118-1-0264.md) — On Motion to Recommit — **Failed** (210–220)
+- 2023-06-14 — [House 118-1-265](votes/house-118-1-0265.md) — On Passage — **Passed** (221–210)
+
 ## Actions
 
 - 2023-01-11 — Introduced in House
@@ -223,3 +235,148 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 - 2023-06-01 — Placed on the Union Calendar, Calendar No. 61.
 - 2023-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-84, Part I.
 - 2023-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-84, Part I.
+- 2023-06-05 — Rules Committee Resolution H. Res. 463 Reported to House. Rule provides for consideration of H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. R. 277 under a structured rule with one hour of general debate; H. R. 288 under a structured rule with one hour of general debate; H. R. 1615 under a structured rule with one hour of general debate; and H. R. 1640 under a structured rule with one hour of general debate. One motion to recommit on each measure.
+- 2023-06-12 — Rules Committee Resolution H. Res. 495 Reported to House. Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 277 as unfinished business.
+- 2023-06-13 — Considered under the provisions of rule H. Res. 495. (consideration: CR H2865-2872)
+- 2023-06-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 277.
+- 2023-06-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 495 and Rule XVIII.
+- 2023-06-13 — Mr. Massie moved that the committee rise.
+- 2023-06-13 — On motion that the committee rise Agreed to by voice vote.
+- 2023-06-13 — Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — The Speaker designated the Honorable James C. Moylan to act as Chairman of the Committee.
+- 2023-06-14 — Amendment (A001) offered by Mrs. Boebert. (consideration: CR H2905-2906; text: CR H2905)
+- 2023-06-14 — Amendment (A002) offered by Mrs. Boebert. (consideration: CR H2906; text: CR H2906)
+- 2023-06-14 — Amendment (A003) offered by Mrs. Boebert. (consideration: CR H2906; text: CR H2906)
+- 2023-06-14 — Amendment (A004) offered by Mr. Biggs. (consideration: CR H2906-2907, H2916-2917; text: CR H2906)
+- 2023-06-14 — Amendment (A005) offered by Ms. Hageman. (consideration: CR H2907-2908; text: CR H2907)
+- 2023-06-14 — Amendment (A006) offered by Mr. Good (VA). (consideration: CR H2908; text: CR H2908)
+- 2023-06-14 — Amendment (A007) offered by Mr. Gonzales, Tony. (consideration: CR H2908; text: CR H2908)
+- 2023-06-14 — Amendment (A008) offered by Mr. Good (VA). (consideration: CR H2909; text: CR H2909)
+- 2023-06-14 — Amendment (A009) offered by Mr. Good (VA). (consideration: CR H2909-2910, H2917; text: CR H2909)
+- 2023-06-14 — Amendment (A010) offered by Mr. Green, Al (TX). (consideration: CR H2910-2911, H2917-2918; text: CR H2910)
+- 2023-06-14 — Amendment (A011) offered by Mr. Green, Al (TX). (consideration: CR H2911, H2918-2919; text: CR H2911)
+- 2023-06-14 — Amendment (A012) offered by Ms. Houlahan. (consideration: CR H2911-2912; text: CR H2911)
+- 2023-06-14 — Amendment (A013) offered by Mr. Joyce (OH). (consideration: CR H2912-2913, H2919-2920; text: CR H2912)
+- 2023-06-14 — Amendment (A014) offered by Mr. Roy. (consideration: CR H2913-2914, H2920-2921; text: CR H2913)
+- 2023-06-14 — Amendment (A015) offered by Mr. Roy. (consideration: CR H2914-2915; text: CR H2914)
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment agreed to Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 277 as unfinished business.
+- 2023-06-14 — Considered as unfinished business. (consideration: CR H2902-2916; text: CR H2903-2905)
+- 2023-06-14 — Considered as unfinished business. (consideration: CR H2916-2922)
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment No. 10.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment No. 11.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 4.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 1.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 2.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 3.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Good (VA) amendment No. 6.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Good (VA) amendment No. 8.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Good (VA) amendment No. 9.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 5.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Houlahan amendment No. 12.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Joyce (OH) amendment No. 13.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 14.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 15.
+- 2023-06-14 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Tony Gonzales (TX) amendment No. 7.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Boebert amendment (A001) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Boebert amendment (A002) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Boebert amendment (A003) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Gonzales, Tony amendment (A007) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Good (VA) amendment (A006) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Good (VA) amendment (A008) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Hageman amendment (A005) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Joyce (OH) amendment (A013) Agreed to by voice vote.
+- 2023-06-14 — House amendment agreed to: On agreeing to the Roy amendment (A015) Agreed to by recorded vote: 219 - 217 (Roll no. 263).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Biggs amendment (A004) Failed by recorded vote: 211 - 223 (Roll no. 257).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Good (VA) amendment (A009) Failed by recorded vote: 211 - 223 (Roll no. 258).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Green, Al (TX) amendment (A010) Failed by recorded vote: 207 - 225 (Roll no. 259).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Green, Al (TX) amendment (A011) Failed by recorded vote: 213 - 221 (Roll no. 260).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Houlahan amendment (A012) Failed by recorded vote: 151 - 285 (Roll no. 261).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Roy amendment (A014) Failed by recorded vote: 217 - 219 (Roll no. 262).
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered
+- 2023-06-14 — House amendment offered/reported by: Amendment (A001) offered by Mrs. Boebert.(consideration: CR H2905-2906; text: CR H2905)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Boebert.(consideration: CR H2906; text: CR H2906)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A003) offered by Mrs. Boebert.(consideration: CR H2906; text: CR H2906)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A004) offered by Mr. Biggs.(consideration: CR H2906-2907, H2916-2917; text: CR H2906)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A005) offered by Ms. Hageman.(consideration: CR H2907-2908; text: CR H2907)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A006) offered by Mr. Good (VA).(consideration: CR H2908; text: CR H2908)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A007) offered by Mr. Gonzales, Tony.(consideration: CR H2908; text: CR H2908)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A008) offered by Mr. Good (VA).(consideration: CR H2909; text: CR H2909)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A009) offered by Mr. Good (VA).(consideration: CR H2909-2910, H2917; text: CR H2909)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A010) offered by Mr. Green, Al (TX).(consideration: CR H2910-2911, H2917-2918; text: CR H2910)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A011) offered by Mr. Green, Al (TX).(consideration: CR H2911, H2918-2919; text: CR H2911)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A012) offered by Ms. Houlahan.(consideration: CR H2911-2912; text: CR H2911)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A013) offered by Mr. Joyce (OH).(consideration: CR H2912-2913, H2919-2920; text: CR H2912)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A014) offered by Mr. Roy.(consideration: CR H2913-2914, H2920-2921; text: CR H2913)
+- 2023-06-14 — House amendment offered/reported by: Amendment (A015) offered by Mr. Roy.(consideration: CR H2914-2915; text: CR H2914)
+- 2023-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-14 — Mr. Deluzio moved to recommit to the Committee on the Judiciary. (text: CR H2921)
+- 2023-06-14 — Mr. Roy moved that the committee rise.
+- 2023-06-14 — On agreeing to the Biggs amendment (A004) Failed by recorded vote: 211 - 223 (Roll no. 257).
+- 2023-06-14 — On agreeing to the Boebert amendment (A001) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Boebert amendment (A002) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Boebert amendment (A003) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Gonzales, Tony amendment (A007) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Good (VA) amendment (A006) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Good (VA) amendment (A008) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Good (VA) amendment (A009) Failed by recorded vote: 211 - 223 (Roll no. 258).
+- 2023-06-14 — On agreeing to the Green, Al (TX) amendment (A010) Failed by recorded vote: 207 - 225 (Roll no. 259).
+- 2023-06-14 — On agreeing to the Green, Al (TX) amendment (A011) Failed by recorded vote: 213 - 221 (Roll no. 260).
+- 2023-06-14 — On agreeing to the Hageman amendment (A005) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Houlahan amendment (A012) Failed by recorded vote: 151 - 285 (Roll no. 261).
+- 2023-06-14 — On agreeing to the Joyce (OH) amendment (A013) Agreed to by voice vote.
+- 2023-06-14 — On agreeing to the Roy amendment (A014) Failed by recorded vote: 217 - 219 (Roll no. 262).
+- 2023-06-14 — On agreeing to the Roy amendment (A015) Agreed to by recorded vote: 219 - 217 (Roll no. 263).
+- 2023-06-14 — On motion that the committee rise Agreed to by voice vote.
+- 2023-06-14 — On motion to recommit Failed by the Yeas and Nays: 210 - 220 (Roll no. 264).
+- 2023-06-14 — On passage Passed by the Yeas and Nays: 221 - 210 (Roll no. 265).
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Al Green (TX) amendment No. 10, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mrs. Hageman demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Al Green (TX) amendment No. 11, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Al Green (TX) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Biggs amendment No. 4, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Good (VA) amendment No. 9, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Houlahan amendment No. 12, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Houlahan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Roy amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — POSTPONED PROCEEDINGS - At conclusion of debate on the Roy amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 210 (Roll no. 265).
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 277.
+- 2023-06-14 — The previous question was ordered pursuant to clause 2(b) of Rule XIX.
+- 2023-06-14 — The previous question was ordered pursuant to the rule.

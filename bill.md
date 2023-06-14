@@ -33,4 +33,4 @@ Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 19
   - **(1)** how many rules (as such term is defined in section 804 of title 5, United States Code) were in effect;
   - **(2)** how many major rules (as such term is defined in section 804 of title 5, United States Code) were in effect; and
   - **(3)** the total estimated economic cost imposed by all such rules.
-- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to Congress that contains the findings of the study conducted under subsection (a).
+- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report (and publish the report on the website of the Comptroller General) to Congress that contains the findings of the study conducted under subsection (a).
