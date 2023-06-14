@@ -2,7 +2,7 @@
 legis-num: H. RES. 272
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 272
@@ -24,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Lefortovo pretrial detention facility and the Ministry of Foreign Affairs refused to provide medical treatment for Paul Whelan’s medical condition, despite being aware of its worsening state, resulting in emergency surgery on May 29, 2020;
 - Whereas Paul Whelan was wrongfully convicted on June 15, 2020, and sentenced to 16 years in a Russian labor camp by a three-judge panel, in a trial witnessed by United States Ambassador John Sullivan, who referred to the trial as “a mockery of justice” due to the denial of a fair trial and the exclusion of defense witnesses;
 - Whereas, in August 2020, on an unknown day, Paul Whelan was secretly transferred to camp IK–17, a penal labor camp in Mordovia, Russia, where he is forced to work 6 days a week in a garment factory;
-- Whereas Ambassador John Sullivan, while visiting Paul Whelan at the labor camp in Mordovia, stated that “Russian authorities … have never shown the world evidence of his guilt”, and reiterated his call for the Russian authorities to correct this injustice and release Paul Whelan;
+- Whereas Ambassador John Sullivan, while visiting Paul Whelan at the labor camp in Mordovia, stated that “Russian authorities * * * have never shown the world evidence of his guilt”, and reiterated his call for the Russian authorities to correct this injustice and release Paul Whelan;
 - Whereas Secretary of State Antony Blinken spoke with Russian Foreign Minister Sergei Lavrov on February 4, 2021, and urged him to release United States citizens detained in the Russian Federation, including Paul Whelan and Trevor Reed, so that they are able to return home to their families in the United States;
 - Whereas, in August 2021, Whelan was released from a month-long stay in a solitary confinement at the IK–17 penal colony in the region of Mordovia;
 - Whereas, on April 27, 2022, the House of Representatives unanimously passed a bipartisan resolution calling for the release of Whelan;
