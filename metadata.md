@@ -1,7 +1,7 @@
 ---
 measure: S. 112
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 112
@@ -16,11 +16,16 @@ A bill to amend title 38, United States Code, to strengthen benefits for childre
 
 - Sen. Braun, Mike [R-IN] (B001310)
 
-## Cosponsors (3)
+## Cosponsors (8)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -30,3 +35,7 @@ A bill to amend title 38, United States Code, to strengthen benefits for childre
 
 - 2023-01-26 — Introduced in Senate
 - 2023-01-26 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-02-16 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2023-06-14 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2023-06-14 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
+- 2023-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
