@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1640
@@ -86,6 +86,12 @@ Save Our Gas Stoves Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2023-06-14 — [House 118-1-266](votes/house-118-1-0266.md) — On Agreeing to the Amendment — **Failed** (207–224)
+- 2023-06-14 — [House 118-1-267](votes/house-118-1-0267.md) — On Agreeing to the Amendment — **Failed** (209–225)
+- 2023-06-14 — [House 118-1-268](votes/house-118-1-0268.md) — On Passage — **Passed** (249–181)
+
 ## Actions
 
 - 2023-03-17 — Introduced in House
@@ -99,3 +105,48 @@ Save Our Gas Stoves Act
 - 2023-06-01 — Placed on the Union Calendar, Calendar No. 63.
 - 2023-06-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-86.
 - 2023-06-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-86.
+- 2023-06-05 — Rules Committee Resolution H. Res. 463 Reported to House. Rule provides for consideration of H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. R. 277 under a structured rule with one hour of general debate; H. R. 288 under a structured rule with one hour of general debate; H. R. 1615 under a structured rule with one hour of general debate; and H. R. 1640 under a structured rule with one hour of general debate. One motion to recommit on each measure.
+- 2023-06-06 — Rule H. Res. 463 failed passage of House.
+- 2023-06-12 — Rules Committee Resolution H. Res. 495 Reported to House. Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — Amendment (A001) offered by Mr. Huizenga. (consideration: CR H2862-2863; text: CR H2862)
+- 2023-06-13 — Amendment (A002) offered by Mr. McGovern. (consideration: CR H2863-2864; text: CR H2863)
+- 2023-06-13 — Amendment (A003) offered by Mr. Pallone. (consideration: CR H2864-2865; text: CR H2864)
+- 2023-06-13 — Amendment agreed to Committee of the Whole
+- 2023-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 1640 as unfinished business.
+- 2023-06-13 — Considered under the provisions of rule H. Res. 495. (consideration: CR H2856-2865; text: CR H2862)
+- 2023-06-13 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 1.
+- 2023-06-13 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 2.
+- 2023-06-13 — DEBATE - Pursuant to the provisions of H. Res. 495, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment No. 3.
+- 2023-06-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1640.
+- 2023-06-13 — House amendment agreed to: On agreeing to the Huizenga amendment (A001) Agreed to by voice vote.
+- 2023-06-13 — House amendment offered
+- 2023-06-13 — House amendment offered
+- 2023-06-13 — House amendment offered
+- 2023-06-13 — House amendment offered/reported by: Amendment (A001) offered by Mr. Huizenga.(consideration: CR H2862-2863; text: CR H2862)
+- 2023-06-13 — House amendment offered/reported by: Amendment (A002) offered by Mr. McGovern.(consideration: CR H2863-2864; text: CR H2863)
+- 2023-06-13 — House amendment offered/reported by: Amendment (A003) offered by Mr. Pallone.(consideration: CR H2864-2865; text: CR H2864)
+- 2023-06-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 495 and Rule XVIII.
+- 2023-06-13 — Mrs. Lesko moved that the committee rise.
+- 2023-06-13 — On agreeing to the Huizenga amendment (A001) Agreed to by voice vote.
+- 2023-06-13 — On motion that the committee rise Agreed to by voice vote.
+- 2023-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pallone amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pallone demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-13 — Rule H. Res. 495 passed House.
+- 2023-06-13 — Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
+- 2023-06-13 — The Speaker designated the Honorable Austin Scott to act as Chairman of the Committee.
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Amendment failed in Committee of the Whole
+- 2023-06-14 — Considered as unfinished business. (consideration: CR H2922-2924)
+- 2023-06-14 — House amendment not agreed to: On agreeing to the McGovern amendment (A002) Failed by recorded vote: 207 - 224 (Roll no. 266).
+- 2023-06-14 — House amendment not agreed to: On agreeing to the Pallone amendment (A003) Failed by recorded vote: 209 - 225 (Roll no. 267).
+- 2023-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-14 — On agreeing to the McGovern amendment (A002) Failed by recorded vote: 207 - 224 (Roll no. 266).
+- 2023-06-14 — On agreeing to the Pallone amendment (A003) Failed by recorded vote: 209 - 225 (Roll no. 267).
+- 2023-06-14 — On passage Passed by the Yeas and Nays: 249 - 181 (Roll no. 268).
+- 2023-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 249 - 181 (Roll no. 268).
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — Roll call votes on amendments in House
+- 2023-06-14 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1640.
+- 2023-06-14 — The previous question was ordered pursuant to the rule.

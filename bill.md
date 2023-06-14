@@ -17,7 +17,12 @@ This Act may be cited as the “Save Our Gas Stoves Act”.
 
 Section 325(h) of the Energy Policy and Conservation Act (42 U.S.C. 6295(h)) is amended by adding at the end the following:
 
-> - **(3)** The Secretary may not determine that imposition of an energy conservation standard under this section for kitchen ranges or ovens is economically justified for purposes of subsection (o) unless the Secretary determines that imposition of such energy conservation standard is not likely to result in the unavailability in the United States of a type (or class) of product based on what type of fuel the product consumes.
+> - **(3)** The Secretary may not determine that imposition of an energy conservation standard under this section for kitchen ranges or ovens is economically justified for purposes of subsection (o) unless—
+>   - **(A)** the Secretary determines that imposition of such energy conservation standard is not likely to result in the unavailability in the United States of a type (or class) of product based on what type of fuel the product consumes; and
+>   - **(B)** the Secretary discloses all stakeholder meetings with entities that—
+>     - **(i)** have ties to the People’s Republic of China or the Chinese Communist Party;
+>     - **(ii)** have produced studies regarding, or advocated for, regulations or policy to limit, restrict, or ban the use of any type of energy; and
+>     - **(iii)** have applied for or received Federal funds.
 
 ## § 3. Prohibition on rulemaking
 
