@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1640
@@ -82,9 +82,10 @@ Save Our Gas Stoves Act
 - Rep. Fry, Russell [R-SC-7] (F000478)
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -150,3 +151,4 @@ Save Our Gas Stoves Act
 - 2023-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2023-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1640.
 - 2023-06-14 — The previous question was ordered pursuant to the rule.
+- 2023-06-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
