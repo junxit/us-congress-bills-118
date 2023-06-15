@@ -1,7 +1,7 @@
 ---
 measure: H.R. 288
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “To the extent necessary” and inserting “(a) To the extent necessary”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “decide all relevant questions of law, interpret constitutional and statutory provisions, and”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “of the terms of an agency action” the following “and decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions, and rules made by agencies. Notwithstanding a… | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “of the terms of an agency action” the following “and decide de novo all relevant questions of law, including the interpretation of constitutional and statutory provisions, rules made by agencies, and interpretative ru… | the bill names no machine-readable US Code section |
 | — | replace | by striking “The reviewing court shall—” and inserting the following: | the bill names no machine-readable US Code section |
