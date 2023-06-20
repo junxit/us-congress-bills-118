@@ -1,0 +1,15 @@
+---
+legis-num: S. 2057
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2057
+
+> To require the Secretary of Defense to deliver on foreign military sales to Taiwan.
+
+## § 1. Delivery on foreign military sales to Taiwan
+
+- **(a)** *In general* Subject to subsection (b), with respect to defense articles and services contracted to be sold to Taiwan under the foreign military sales process as of the date of the enactment of this Act, the Secretary of Defense, with the concurrence of the Government of Taiwan, shall ensure the delivery of such defense articles and services to Taiwan ahead of the delivery of substantially similar articles and services to any other foreign military sales customer.
+- **(b)** *Limitation* The Secretary of Defense may not apply subsection (a) in a manner that, directly or indirectly, inhibits or delays the delivery of substantially similar articles and services to Ukraine or Israel.
