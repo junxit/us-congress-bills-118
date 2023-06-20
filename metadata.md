@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1606
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1606
@@ -31,6 +31,10 @@ Veteran Entrepreneurship Training Act of 2023
 
 - House — Small Business Committee
 
+## Recorded votes (1)
+
+- 2023-06-20 — [House 118-1-272](votes/house-118-1-0272.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–0)
+
 ## Actions
 
 - 2023-03-14 — Introduced in House
@@ -41,3 +45,11 @@ Veteran Entrepreneurship Training Act of 2023
 - 2023-06-05 — Placed on the Union Calendar, Calendar No. 75.
 - 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-98.
 - 2023-06-05 — Reported by the Committee on Small Business. H. Rept. 118-98.
+- 2023-06-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-06-20 — Considered as unfinished business. (consideration: CR H2978-2979)
+- 2023-06-20 — Considered under suspension of the rules. (consideration: CR H2973-2975)
+- 2023-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1606.
+- 2023-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-20 — Mr. Ellzey moved to suspend the rules and pass the bill, as amended.
+- 2023-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 272). (text: CR H2973)
+- 2023-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 272). (text: CR H2973)
