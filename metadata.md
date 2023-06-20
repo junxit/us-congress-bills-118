@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3672
@@ -35,8 +35,21 @@ To designate the clinic of the Department of Veterans Affairs in Indian River, M
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-06-20 — [House 118-1-273](votes/house-118-1-0273.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–0)
+
 ## Actions
 
 - 2023-05-25 — Introduced in House
 - 2023-05-25 — Introduced in House
 - 2023-05-25 — Referred to the House Committee on Veterans' Affairs.
+- 2023-06-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-06-20 — Considered as unfinished business. (consideration: CR H2979)
+- 2023-06-20 — Considered under suspension of the rules. (consideration: CR H2976-2977)
+- 2023-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3672.
+- 2023-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-20 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2023-06-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 273). (text: CR H2976)
+- 2023-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 273). (text: CR H2976)
+- 2023-06-20 — Referred to the Subcommittee on Health.
