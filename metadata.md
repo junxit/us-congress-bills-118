@@ -1,7 +1,7 @@
 ---
 measure: H.R. 288
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 288
@@ -32,9 +32,10 @@ Separation of Powers Restoration Act of 2023
 - Rep. Brecheen, Josh [R-OK-2] (B001317)
 - Rep. Fry, Russell [R-SC-7] (F000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -76,3 +77,4 @@ Separation of Powers Restoration Act of 2023
 - 2023-06-15 — Rule provides for consideration of H.J. Res. 44, H.R. 277, H.R. 288, H.R. 1615 and H.R. 1640. The resolution provides for consideration of H. J. Res. 44 under a closed rule with one hour of general debate and H.R. 277, H.R. 288, H.R. 1615, and H.R. 1640 under structured rules with one hour of general debate. Motion to recommit allowed on each measure. The resolution also provides that the ordering of the yeas and nays on the question of reconsideration of the vote on adoption of H. Res. 463 be considered vacated and the motion to reconsider be laid on the table.
 - 2023-06-15 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-06-15 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2023-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
