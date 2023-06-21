@@ -39,18 +39,18 @@ The purpose of this Act is—
 
 In this Act:
 
-- **(1)** *Agreement* The term Agreement means the Agreement between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States regarding Trade between the United States of America and Taiwan approved by Congress under section 5.
-- **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
+- **(1)** *Agreement* The term “Agreement” means the Agreement between the American Institute in Taiwan and the Taipei Economic and Cultural Representative Office in the United States regarding Trade between the United States of America and Taiwan approved by Congress under section 5.
+- **(2)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
   - **(A)** the Committee on Finance of the Senate; and
   - **(B)** the Committee on Ways and Means of the House of Representatives.
-- **(3)** *Further Agreement* The term Further Agreement means—
+- **(3)** *Further agreement* The term “Further Agreement” means—
   - **(A)** any trade agreement, other than the Agreement approved by Congress under section 5, arising from or relating to the August 17, 2022, negotiating mandate relating to the United States-Taiwan Initiative on 21st-Century Trade; or
   - **(B)** any nonministerial modification or nonministerial amendment to the Agreement.
-- **(4)** *Negotiating text* The term negotiating text means any document that proposes the consideration, examination, or adoption of a particular element or language in an international instrument.
-- **(5)** *State law* The term State law includes—
+- **(4)** *Negotiating text* The term “negotiating text” means any document that proposes the consideration, examination, or adoption of a particular element or language in an international instrument.
+- **(5)** *State law* The term “State law” includes—
   - **(A)** any law of a political subdivision of a State; and
   - **(B)** any State law regulating or taxing the business of insurance.
-- **(6)** *Trade Representative* The term Trade Representative means the United States Trade Representative.
+- **(6)** *Trade representative* The term “Trade Representative” means the United States Trade Representative.
 
 ## § 5. Approval of agreement
 
@@ -58,7 +58,7 @@ Congress approves the Agreement between the American Institute in Taiwan and the
 
 ## § 6. Entry into force of agreement
 
-- **(a)** *Conditions for entry into force of agreement* The President may provide for the Agreement to enter into force not earlier than 30 days after the date on which the President submits to Congress a certification under section (c).
+- **(a)** *Conditions for entry into force of agreement* The President may provide for the Agreement to enter into force not earlier than 30 days after the date on which the President submits to Congress a certification under subsection (c).
 - **(b)** *Consultation and report* The President, not later than 30 days before submitting a certification under subsection (c), shall—
   - **(1)** consult with the appropriate congressional committees;
   - **(2)** submit to the appropriate congressional committees a report that—
@@ -73,9 +73,11 @@ Congress approves the Agreement between the American Institute in Taiwan and the
   - **(2)** *Form* The report required by paragraph (1) shall be submitted with any confidential business information clearly identified or contained in a separate annex.
   - **(3)** *Publication* Not later than 5 days after the report required by paragraph (1) is submitted to the appropriate congressional committees, the Trade Representative shall publish the report, with any confidential business information redacted, on a publicly available website of the Office of the United States Trade Representative.
 
-## § 7. Transparency and consultation with respect to Further Agreements
+## § 7. Transparency and consultation with respect to further agreements
 
-- **(a)** *Sense of Congress on deepening relationship with Taiwan* It is the sense of Congress that the United States should continue to deepen its relationship with Taiwan. Any Further Agreements should be high-standard, enforceable, and meaningful to both the United States and Taiwan, as well as subject to robust requirements on public transparency and congressional consultation.
+- **(a)** *Sense of congress on deepening relationship with taiwan* It is the sense of Congress that—
+  - **(1)** the United States should continue to deepen its relationship with Taiwan; and
+  - **(2)** any Further Agreements should be high-standard, enforceable, and meaningful to both the United States and Taiwan, as well as subject to robust requirements on public transparency and congressional consultation.
 - **(b)** *Access to texts of further agreements* The Trade Representative shall provide to the appropriate congressional committees the following with respect to a Further Agreement:
   - **(1)** Negotiating text drafted by the United States prior to sharing the negotiating text with Taiwan or otherwise sharing the text outside the executive branch.
   - **(2)** Negotiating text drafted by Taiwan not later than 3 days after receiving the text from Taiwan.
@@ -86,7 +88,7 @@ Congress approves the Agreement between the American Institute in Taiwan and the
   - **(2)** *Review* The appropriate congressional committees shall have not less than—
     - **(A)** 2 business days prior to the briefing under paragraph (1) to review the texts provided under subsection (b); and
     - **(B)** 4 business days after the briefing to provide comments with respect to the texts before the Trade Representative transmits any such texts to Taiwan.
-  - **(3)** *Additional time to review United States negotiating text* If, during the period specified in paragraph (2)(B), 2 members who are not of the same political party and each of whom is the Chair or Ranking Member of 1 of the appropriate congressional committees jointly request additional time to review the negotiating text provided under subsection (b)(1), the Trade Representative shall not transmit the text to Taiwan for a period of 15 business days following the request, unless the request indicates less time is necessary or the Chair and Ranking Member issue a subsequent joint notification to the Trade Representative that they have concluded their review sooner.
+  - **(3)** *Additional time to review united states negotiating text* If, during the period specified in paragraph (2)(B), two Members of Congress who are not of the same political party and each of whom is the Chair or Ranking Member of one of the appropriate congressional committees jointly request additional time to review the negotiating text provided under subsection (b)(1), the Trade Representative shall not transmit the text to Taiwan for a period of 15 business days following the request, unless the request indicates less time is necessary or such Members issue a subsequent joint notification to the Trade Representative that they have concluded their review sooner.
 - **(d)** *Notification and briefing during negotiations* The Trade Representative shall—
   - **(1)** not later than one business day after scheduling any negotiating round with respect to a Further Agreement, promptly notify the appropriate congressional committees and provide those committees with the dates and locations for the negotiating round;
   - **(2)** ensure that any individual described in section 104(c)(2)(C) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (19 U.S.C. 4203(c)(2)(C)) that attends a negotiating round is accredited as a member of the United States delegation during any such negotiating round; and
@@ -95,15 +97,15 @@ Congress approves the Agreement between the American Institute in Taiwan and the
   - **(1)** the President, at least 60 days before the day on which the President enters into the Further Agreement, publishes the text of the Further Agreement on a publicly available website of the Office of the United States Trade Representative; and
   - **(2)** a bill is enacted into law expressly approving the Further Agreement and, if necessary, making any required changes to United States law.
 
-## § 8. Relationship of the agreement to United States and State law
+## § 8. Relationship of the agreement to united states and state law
 
-- **(a)** *Relationship of the agreement to United States law*
-  - **(1)** *United States law to prevail in conflict* No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is inconsistent with any law of the United States, shall have effect.
+- **(a)** *Relationship of the agreement to united states law*
+  - **(1)** *United states law to prevail in conflict* No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is inconsistent with any law of the United States, shall have effect.
   - **(2)** *Internal revenue code* The Agreement does not constitute a free trade agreement for purposes of section 30D(e)(1)(A)(i)(II) of the Internal Revenue Code of 1986.
   - **(3)** *Construction* Unless specifically provided for in this Act, nothing in this Act shall be construed—
     - **(A)** to amend or modify any law of the United States; or
     - **(B)** to limit any authority conferred under any law of the United States.
-- **(b)** *Relationship of the agreement to State law* No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+- **(b)** *Relationship of the agreement to state law* No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 - **(c)** *Effect of the agreement with respect to private remedies* No person other than the United States—
   - **(1)** shall have any cause of action or defense under the Agreement or by virtue of congressional approval thereof; or
   - **(2)** may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
