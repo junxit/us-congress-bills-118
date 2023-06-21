@@ -1,0 +1,36 @@
+---
+legis-num: S. 2100
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2100
+
+> To amend the Small Business Investment Act of 1958 to modify fees and funding for certain small business refinancing loans and loans to qualified State or local development companies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “504 Loan Availability Act”.
+
+## § 2. Modifications to fees and funding for certain small business refinancing loans and loans to qualified State or local development companies
+
+Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is amended—
+
+- **(1)** in section 502(7)(C) (15 U.S.C. 696(7)(C))—
+  - **(A)** in clause (ii)—
+    - **(i)** in subclause (I), by adding “and” at the end;
+    - **(ii)** in subclause (II), by striking “; and” and inserting a period; and
+    - **(iii)** by striking subclause (III); and
+  - **(B)** in clause (v), by striking “a total of $7,500,000,000 of financing” and inserting “the total amount described in section 511 in financing”; and
+- **(2)** by adding at the end the following:
+  > ## § 511. Maximum funding level
+  >
+  > -  The Administrator may provide not more than a total, in the aggregate, of $15,000,000,000 for each fiscal year of financing to guarantee loans under section 503 and loans authorized under section 502(7)(C).
+
+## § 3. Sunset
+
+Effective on October 1, 2026, title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is amended—
+
+- **(1)** in section 502(7)(C) (15 U.S.C. 696(7)(C)), by striking clause (v); and
+- **(2)** by striking section 511, as added by section 2 of this Act.
