@@ -1,0 +1,18 @@
+---
+legis-num: S. 2083
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2083
+
+> To direct the Under Secretary of Defense for Acquisition and Sustainment to submit to Congress a report on incinerators and waste-to-energy waste disposal alternatives to burn pits.
+
+## § 1. Short title
+
+This Act may be cited as the “Reducing Exposure to Burn Pits Act”.
+
+## § 2. Report by Department of Defense on alternatives to burn pits
+
+Not later than 60 days after the date on which the President submits the budget of the President under section 1105(a) of title 31, United States Code, for fiscal year 2024, the Under Secretary of Defense for Acquisition and Sustainment shall submit to Congress a report on incinerators and waste-to-energy waste disposal alternatives to burn pits.
