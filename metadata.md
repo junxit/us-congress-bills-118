@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3672
@@ -55,3 +55,14 @@ To designate the clinic of the Department of Veterans Affairs in Indian River, M
 - 2023-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 273). (text: CR H2976)
 - 2023-06-20 — Referred to the Subcommittee on Health.
 - 2023-06-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-07-13 — Passed Senate without amendment by Unanimous Consent.
+- 2023-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2023-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2962)
+- 2023-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S2962)
+- 2023-07-18 — Message on Senate action sent to the House.
+- 2023-07-27 — Presented to President.
+- 2023-07-27 — Presented to President.
+- 2023-07-28 — Became Public Law No: 118-12.
+- 2023-07-28 — Became Public Law No: 118-12.
+- 2023-07-28 — Signed by President.
+- 2023-07-28 — Signed by President.
