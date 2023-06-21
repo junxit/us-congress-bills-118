@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 533
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 533
+
+> Recognizing and commending the name change of the USS Chancellorsville to the USS Robert Smalls, in honor of the late Representative Robert Smalls, an extraordinary native of Beaufort, South Carolina, and his significant contributions to American history.
+
+## Preamble
+
+- Whereas Robert Smalls was born in Beaufort, South Carolina, in 1839, during a time when African Americans were enslaved, and their rights and freedoms were systematically denied;
+- Whereas despite the oppressive conditions of slavery, Robert Smalls exhibited exceptional bravery, intelligence, and unwavering determination throughout his life, defying the constraints placed upon him;
+- Whereas Robert Smalls gained national acclaim on May 13, 1862, when he orchestrated a daring escape from Charleston Harbor aboard the Confederate vessel CSS Planter, which he commandeered while its White crew was ashore;
+- Whereas, by impersonating the captain and using intricate knowledge of the ship’s workings, Robert Smalls successfully navigated past Confederate defenses, freeing himself, his family, and several enslaved individuals onboard, ultimately delivering the ship to the Union Navy;
+- Whereas Robert Smalls’ courageous act was a turning point in the Civil War and a significant contribution to the Union cause, demonstrating both his ingenuity and his commitment to the principles of freedom and justice;
+- Whereas following the war, Robert Smalls played an instrumental role in the Reconstruction period, serving as a Delegate to the South Carolina Constitutional Convention and later becoming the first African American elected to the House of Representatives from South Carolina;
+- Whereas throughout his life, Robert Smalls continued to advocate for civil rights and equal opportunities for all, leaving an indelible mark on American history as a visionary leader, legislator, and champion of justice; and
+- Whereas the renaming of the USS Chancellorsville to the USS Robert Smalls pays homage to a remarkable individual who exemplified courage, resilience, and a tireless commitment to freedom and equality: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** commends and supports the name change of the USS Chancellorsville to the USS Robert Smalls in recognition of Robert Smalls’ extraordinary contributions to American history and his status as a native of Beaufort, South Carolina;
+- **(2)** recognizes Robert Smalls’ heroic escape aboard the CSS Planter as an act of remarkable bravery and ingenuity that played a significant role in the Union’s efforts during the Civil War;
+- **(3)** celebrates Robert Smalls’ subsequent accomplishments as a legislator, advocate for civil rights, and pioneering leader during the Reconstruction period, leaving an enduring legacy of courage, perseverance, and dedication to justice;
+- **(4)** acknowledges that the renaming of the USS Chancellorsville to the USS Robert Smalls serves as a reminder of the importance of honoring individuals who have made significant contributions to American history, particularly those whose stories have been historically marginalized;
+- **(5)** encourages the citizens of Beaufort, South Carolina, and the Nation as a whole to learn from Robert Smalls’ remarkable life and continue striving for equality, justice, and the protection of fundamental rights for all individuals;
+- **(6)** expresses gratitude to the United States Navy for recognizing the significance of Robert Smalls’ story and for commemorating his legacy by renaming the USS Chancellorsville to the USS Robert Smalls; and
+- **(7)** requests the Clerk of the House of Representatives to transmit a copy of this resolution to the Secretary of the Navy and the commanding officers of the USS Robert Smalls, expressing the support and appreciation of the House of Representatives for this momentous name change.
