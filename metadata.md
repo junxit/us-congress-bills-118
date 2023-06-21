@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1606
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1606
@@ -27,9 +27,10 @@ Veteran Entrepreneurship Training Act of 2023
 - Rep. Mann, Tracey [R-KS-1] (M000871)
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Veteran Entrepreneurship Training Act of 2023
 - 2023-06-20 — Mr. Ellzey moved to suspend the rules and pass the bill, as amended.
 - 2023-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 272). (text: CR H2973)
 - 2023-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 272). (text: CR H2973)
+- 2023-06-21 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
