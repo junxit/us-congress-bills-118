@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3672
@@ -31,9 +31,10 @@ To designate the clinic of the Department of Veterans Affairs in Indian River, M
 - Rep. Tlaib, Rashida [D-MI-12] (T000481)
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ To designate the clinic of the Department of Veterans Affairs in Indian River, M
 - 2023-06-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 273). (text: CR H2976)
 - 2023-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 273). (text: CR H2976)
 - 2023-06-20 — Referred to the Subcommittee on Health.
+- 2023-06-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
