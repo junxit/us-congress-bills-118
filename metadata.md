@@ -1,7 +1,7 @@
 ---
 measure: H.R. 277
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 277
@@ -380,3 +380,5 @@ Regulations from the Executive in Need of Scrutiny Act of 2023
 - 2023-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 277.
 - 2023-06-14 — The previous question was ordered pursuant to clause 2(b) of Rule XIX.
 - 2023-06-14 — The previous question was ordered pursuant to the rule.
+- 2023-06-20 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-06-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.
