@@ -1,7 +1,7 @@
 ---
 measure: S. 1271
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1705` | add-at-end | Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4315` | add-at-end | Section 16 of the Trading with the Enemy Act (50 U.S.C. 4315) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 2335` | repeal | Section 7235 of the Fentanyl Sanctions Act (21 U.S.C. 2335) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 2311` | insert | Subtitle A of the Fentanyl Sanctions Act (21 U.S.C. 2311 et seq.) is amended by inserting after section 7213 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1705` | add-at-end | Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4315` | add-at-end | Section 16 of the Trading with the Enemy Act (50 U.S.C. 4315) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 2311` | insert | Subtitle A of the Fentanyl Sanctions Act (21 U.S.C. 2311 et seq.) is amended by inserting after section 7213 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
