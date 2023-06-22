@@ -1,7 +1,7 @@
 ---
 measure: S. 1549
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1549
@@ -35,3 +35,18 @@ Congressional Budget Office Data Access Act
 - 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
 - 2023-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2252; text: CR S2252)
 - 2023-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2252; text: CR S2252)
+- 2023-06-26 — Message on Senate action sent to the House.
+- 2023-06-27 — Held at the desk.
+- 2023-06-27 — Received in the House.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5567-5568)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1549.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. LaTurner moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5567)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5567)
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-10-02 — Became Public Law No: 118-104.
+- 2024-10-02 — Became Public Law No: 118-104.
+- 2024-10-02 — Signed by President.
+- 2024-10-02 — Signed by President.
