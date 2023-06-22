@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1734
@@ -82,3 +82,15 @@ TRANQ Research Act of 2023
 - 2023-06-22 — Senate amendment proposed (on the floor): Amendment SA 139 proposed by Senator Schumer for Senator Cruz.(consideration: CR S2250)
 - 2023-06-22 — Senate amendment submitted
 - 2023-06-22 — Senate amendment submitted
+- 2023-06-26 — Message on Senate action sent to the House.
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1734.
+- 2023-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-04 — Mr. Lucas moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6087-6089)
+- 2023-12-04 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6087-6088)
+- 2023-12-04 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6087-6088)
+- 2023-12-14 — Presented to President.
+- 2023-12-14 — Presented to President.
+- 2023-12-19 — Became Public Law No: 118-23.
+- 2023-12-19 — Became Public Law No: 118-23.
+- 2023-12-19 — Signed by President.
+- 2023-12-19 — Signed by President.

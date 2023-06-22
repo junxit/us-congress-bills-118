@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1734
-congress: 118th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1734
 
-That the bill from the House of Representatives (H.R. 1734) entitled “An Act to require coordinated National Institute of Standards and Technology science and research activities regarding illicit drugs containing xylazine, novel synthetic opioids, and other substances of concern, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require coordinated National Institute of Standards and Technology science and research activities regarding illicit drugs containing xylazine, novel synthetic opioids, and other substances of concern, and for other purposes.
 
 ## § 1. Short title
 
