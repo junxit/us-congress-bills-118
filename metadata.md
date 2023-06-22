@@ -1,7 +1,7 @@
 ---
 measure: S. 1194
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1194
@@ -16,16 +16,31 @@ Recycling and Composting Accountability Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (2)
+## Cosponsors (11)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Boozman, John [R-AR] (B001236)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
 - 2023-04-19 — Introduced in Senate
 - 2023-04-19 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-04-26 — Committee on Energy and Natural Resources. Committee consideration held. Business Meeting printed. S. Hrg. 118-708.
+- 2023-04-26 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-42.
+- 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-42.
+- 2023-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
