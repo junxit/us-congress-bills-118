@@ -1,7 +1,7 @@
 ---
 measure: S. 1549
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1549
@@ -33,3 +33,5 @@ Congressional Budget Office Data Access Act
 - 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-40.
 - 2023-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-40.
 - 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.
+- 2023-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2252; text: CR S2252)
+- 2023-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2252; text: CR S2252)
