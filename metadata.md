@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4004
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4004
@@ -83,3 +83,12 @@ United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementa
 - 2023-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-116.
 - 2023-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-116.
 - 2023-06-22 — Received in the Senate, read twice.
+- 2023-07-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2977-2978)
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2977-2978)
+- 2023-07-20 — Message on Senate action sent to the House.
+- 2023-07-27 — Presented to President.
+- 2023-07-27 — Presented to President.
+- 2023-08-07 — Became Public Law No: 118-13.
+- 2023-08-07 — Became Public Law No: 118-13.
+- 2023-08-07 — Signed by President.
+- 2023-08-07 — Signed by President.
