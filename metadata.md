@@ -1,7 +1,7 @@
 ---
 measure: S. 1067
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1067
@@ -32,3 +32,7 @@ Ensuring Timely Access to Generics Act of 2023
 
 - 2023-03-29 — Introduced in Senate
 - 2023-03-29 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-05-11 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-06-22 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2023-06-22 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2023-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
