@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 461
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 461
@@ -36,6 +36,10 @@ Condemning the use of elementary and secondary school facilities to provide shel
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2023-06-22 — [House 118-1-286](votes/house-118-1-0286.md) — On Agreeing to the Resolution — **Passed** (223–201)
+
 ## Actions
 
 - 2023-06-01 — Introduced in House
@@ -46,3 +50,18 @@ Condemning the use of elementary and secondary school facilities to provide shel
 - 2023-06-14 — Placed on the House Calendar, Calendar No. 25.
 - 2023-06-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-113.
 - 2023-06-14 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-113.
+- 2023-06-20 — Rules Committee Resolution H. Res. 524 Reported to House. Rule provides for consideration of H.R. 3564, H.R. 3799 and H. Res. 461. The resolution provides for consideration of H.R. 3564 under a structured rule with one hour of general debate; H.R. 3799 under a structured rule with eighty minutes of general debate; and H.Res. 461, under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on H.R. 3564 and H.R. 3799.
+- 2023-06-21 — Rule H. Res. 524 passed House.
+- 2023-06-22 — Amendment reported by the House Committee on Rules.
+- 2023-06-22 — Considered as unfinished business. (consideration: CR H3094)
+- 2023-06-22 — Considered under the provisions of rule H. Res. 524. (consideration: CR H3088-3092)
+- 2023-06-22 — DEBATE - The House proceeded with one hour of debate on H. Res. 461.
+- 2023-06-22 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-06-22 — House amendment offered
+- 2023-06-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-06-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-06-22 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 201 (Roll no. 286). (text: CR H3088)
+- 2023-06-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 461, the Chair put the question on agreeing to the resolution, and by voice vote announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-06-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 201 (Roll no. 286). (text: CR H3088)
+- 2023-06-22 — Rule provides for consideration of H.R. 3564, H.R. 3799 and H. Res. 461. The resolution provides for consideration of H.R. 3564 under a structured rule with one hour of general debate; H.R. 3799 under a structured rule with eighty minutes of general debate; and H.Res. 461, under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on H.R. 3564 and H.R. 3799.
+- 2023-06-22 — The previous question was ordered on the resolution and the preamble pursuant to the rule.
