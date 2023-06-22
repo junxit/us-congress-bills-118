@@ -20,6 +20,7 @@ This Act may be cited as the “Reporting Efficiently to Proper Officials in Res
     - **(A)** submit to the appropriate congressional committees, by not later than 1 year after the completion of the investigation concerning such act by the primary Government agency conducting such investigation, an unclassified report (which may be accompanied by a classified annex) concerning such act; and
     - **(B)** make the report required under subparagraph (A) available on a publicly accessible website.
   - **(2)** *Other reports* Reports required under this subsection may be combined into a quarterly report submitted to Congress.
+  - **(3)** *Availability* Each unclassified report and classified annex described in paragraph (1)(A) shall be made available upon request by any Member of Congress.
 - **(b)** *Content of reports* A report under this section shall—
   - **(1)** include a statement of the facts of the act of terrorism referred to in subsection (a), as known at the time of the report;
   - **(2)** identify any gaps in homeland or national security that could be addressed to prevent future acts of terrorism; and
@@ -41,3 +42,4 @@ This Act may be cited as the “Reporting Efficiently to Proper Officials in Res
       - **(ii)** the Committee on the Judiciary; and
       - **(iii)** the Select Committee on Intelligence.
 - **(e)** *Sunset* This section shall terminate on the date that is 5 years after the date of the enactment of this Act.
+- **(f)** *Savings clause* Nothing in this Act shall be construed to provide the National Counterterrorism Center with prosecutorial or investigatory authority.

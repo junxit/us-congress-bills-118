@@ -1,7 +1,7 @@
 ---
 measure: S. 945
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 945
@@ -28,3 +28,7 @@ REPORT Act
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2023-06-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-46.
+- 2023-06-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-46.
+- 2023-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.
