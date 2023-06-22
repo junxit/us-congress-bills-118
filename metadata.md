@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4004
 congress: 118
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4004
@@ -82,3 +82,4 @@ United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementa
 - 2023-06-21 — Placed on the Union Calendar, Calendar No. 89.
 - 2023-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-116.
 - 2023-06-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-116.
+- 2023-06-22 — Received in the Senate, read twice.
