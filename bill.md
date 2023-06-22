@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 544
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 544
+
+> Expressing the sense of the House of Representatives regarding the relationship between certain obligations under the North Atlantic Treaty and constitutional declarations of war by Congress.
+
+That it is the sense of the House of Representatives that, pursuant to article 11 of the North Atlantic Treaty, done at Washington, District of Columbia, on April 4, 1949 (63 Stat. 2241; 34 U.N.T.S. 243), if the President determines it is necessary to engage United States forces in hostilities in order to restore or maintain the security of the North Atlantic area as stated in article 5 of such treaty, such action does not supersede the constitutional requirement that Congress declare war or authorize the use of military force prior to the United States engaging in hostilities.
