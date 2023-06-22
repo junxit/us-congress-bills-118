@@ -1,0 +1,32 @@
+---
+measure: S. 2133
+congress: 118
+version: Introduced in Senate
+---
+
+# S. 2133
+
+Medically Tailored Home-Delivered Meals Demonstration Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+
+## Cosponsors (3)
+
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+
+## Committees (1)
+
+- Senate — Finance Committee
+
+## Actions
+
+- 2023-06-22 — Introduced in Senate
+- 2023-06-22 — Read twice and referred to the Committee on Finance.
