@@ -1,0 +1,18 @@
+---
+legis-num: S. 2146
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2146
+
+> To amend the Small Business Act to increase the Governmentwide goal for participation in Federal contracts by small business concerns owned and controlled by service-disabled veterans.
+
+## § 1. Short title
+
+This Act may be cited as the “Investing in Veteran Entrepreneurial Talents Act” or the “Investing in VETS Act”.
+
+## § 2. Increase in Governmentwide goal for participation in Federal contracts by small business concerns owned and controlled by service-disabled veterans
+
+Section 15(g)(1)(A)(ii) of the Small Business Act (15 U.S.C. 644(g)(1)(A)(ii)) is amended by striking “3 percent” and inserting “5 percent”.
