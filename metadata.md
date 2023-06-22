@@ -1,7 +1,7 @@
 ---
 measure: S. 206
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 206
@@ -36,3 +36,5 @@ END FENTANYL Act
 - 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-16.
 - 2023-05-04 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-16.
 - 2023-05-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
+- 2023-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2252; text: CR S2252)
+- 2023-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2252; text: CR S2252)
