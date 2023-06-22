@@ -1,7 +1,7 @@
 ---
 measure: S. 264
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 264
@@ -32,3 +32,5 @@ Lobbying Disclosure Improvement Act
 - 2023-04-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-12.
 - 2023-04-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-12.
 - 2023-04-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
+- 2023-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2251; text: CR S2251)
+- 2023-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2251; text: CR S2251)
