@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 247
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 247
@@ -30,3 +30,7 @@ A resolution designating June 2023 as National Cybersecurity Education Month.
 
 - 2023-06-13 — Introduced in Senate
 - 2023-06-13 — Referred to the Committee on the Judiciary.
+- 2023-06-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 6/13/2023 CR S2074)
+- 2023-06-22 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 6/13/2023 CR S2074)
+- 2023-06-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2250)
+- 2023-06-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2250)
