@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1734
@@ -16,7 +16,7 @@ TRANQ Research Act of 2023
 
 - Rep. Collins, Mike [R-GA-10] (C001129)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Caraveo, Yadira [D-CO-8] (C001134)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
@@ -43,6 +43,7 @@ TRANQ Research Act of 2023
 - Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -71,3 +72,13 @@ TRANQ Research Act of 2023
 - 2023-05-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
 - 2023-05-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 212). (text: 5/9/2023 CR H2149)
 - 2023-05-15 — Received in the Senate, read twice.
+- 2023-06-22 — 
+- 2023-06-22 — Amendment SA 139 agreed to in Senate by Unanimous Consent.
+- 2023-06-22 — Amendment SA 139 proposed by Senator Schumer for Senator Cruz. (consideration: CR S2250) in the nature of a substitute.
+- 2023-06-22 — Measure laid before Senate by unanimous consent. (consideration: CR S2250)
+- 2023-06-22 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2250-2251)
+- 2023-06-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S2250-2251)
+- 2023-06-22 — Senate amendment agreed to: Amendment SA 139 agreed to in Senate by Unanimous Consent.
+- 2023-06-22 — Senate amendment proposed (on the floor): Amendment SA 139 proposed by Senator Schumer for Senator Cruz.(consideration: CR S2250)
+- 2023-06-22 — Senate amendment submitted
+- 2023-06-22 — Senate amendment submitted
