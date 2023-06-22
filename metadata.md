@@ -1,7 +1,7 @@
 ---
 measure: S. 111
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 111
@@ -36,3 +36,5 @@ Providing Accountability Through Transparency Act of 2023
 - 2023-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-28.
 - 2023-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-28.
 - 2023-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
+- 2023-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2252; text: CR S2252)
+- 2023-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2252; text: CR S2252)
