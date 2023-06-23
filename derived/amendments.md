@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 12 U.S.C. § 4547
+
+> Subsection (f) of section 1327 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4547(f)) is amended by striking “October 1, 2032” and inserting “October 1, 2033”.
+
+| | |
+|---|---|
+| Removed | `October 1, 2032` |
+| Inserted | `October 1, 2033` |
 
 ## Stated, not applied
 

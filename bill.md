@@ -35,13 +35,15 @@ The Director and the enterprises shall not impose any loan-level pricing adjustm
     - **(A)** the methodology, policy considerations, and any other objectives used by the Federal Housing Finance Agency as the basis for such revisions, including the authority cited by the Director under the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) to require such revisions;
     - **(B)** the data, econometric modeling, and other inputs supplied by the enterprises during the revisions process;
     - **(C)** the extent to which such revisions comply with the objectives of the Enterprise Regulatory Capital Framework, including the interaction with and treatment of any private mortgage insurance required in connection with a residential mortgage transaction; and
-    - **(D)** the economic impact of such revisions on various classes of lenders and borrowers affected by such revisions; and
+    - **(D)** the economic impact of such revisions on various classes of lenders and borrowers affected by such revisions;
   - **(2)** determine the extent to which such revisions—
     - **(A)** were conducted on the basis of, and how they might deviate from, the principle of risk-based pricing;
     - **(B)** deviate from the data, econometric modeling, and other inputs supplied by the enterprises during the revisions process;
-    - **(C)** achieve the objectives of the Enterprise Regulatory Capital Framework, including if such revisions have resulted in either a negative profitability gap or negative rate of return on the targeted rate of return on capital for any business segment under the recalibrated single-family pricing framework; and
-    - **(D)** represent any increased risks to the safety and soundness of the enterprises.
-- **(b)** *Report* The Comptroller General shall submit a report to the Congress setting forth the findings and conclusions of the study not later than the expiration of the 14-month period beginning on the date of the enactment of this Act.
+    - **(C)** achieve the objectives of the Enterprise Regulatory Capital Framework, including if such revisions have resulted in either a negative profitability gap or negative rate of return on the targeted rate of return on capital for any business segment under the recalibrated single-family pricing framework;
+    - **(D)** represent any increased risks to the safety and soundness of the enterprises; and
+  - **(3)** assess the benefits that would accrue to first-time, low-income homebuyers based on the recalibrated single-family pricing framework taking effect.
+  - **(4)** assess the impacts that the recalibrated single-family pricing framework taking effect would have on affordable housing preservation, rural housing, and manufactured housing.
+- **(b)** *Report* The Comptroller General shall submit a report to the Congress setting forth the findings and conclusions of the study, and make the report publicly available online on a website of the Department, not later than the expiration of the 14-month period beginning on the date of the enactment of this Act.
 
 ## § 6. Definitions
 
@@ -53,3 +55,7 @@ In this Act:
 - **(4)** *Recalibrated single-family pricing framework* The term “recalibrated single-family pricing framework” means the loan-level pricing adjustment fee structure as referred to in the announcement of the Federal Housing Finance Agency on January 19, 2023, relating to “Updates to the Enterprises’ Single-Family Pricing Framework”, and set forth in Federal National Mortgage Association Lender Letter LL-2023-01 and Federal Home Loan Mortgage Corporation Bulletin 2023-1.
 - **(5)** *Risk-based pricing* The term “risk-based pricing” means the calibration of fees based on the expected credit losses to an enterprise of each single-family mortgage category as defined by an enterprise based on the credit score and loan-to-value ratio characteristics of a mortgage.
 - **(6)** *Standard single-family pricing framework* The term “standard single-family pricing framework” means the loan-level pricing adjustment fee structure in effect on April 30, 2023.
+
+## § 7. Enterprise guarantee fees
+
+Subsection (f) of section 1327 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4547(f)) is amended by striking “October 1, 2032” and inserting “October 1, 2033”.
