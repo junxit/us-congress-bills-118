@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4450
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4450
+
+> To require the Secretary of the Treasury to conduct a study and submit a report on certain risks to United States investors in the event of hostilities in Taiwan or the Taiwan Strait.
+
+## § 1. Short title
+
+This Act may be cited as the “Mitigating Investor Risk Act of 2023” .
+
+## § 2. Study and report on investor risk exposure in the event of hostilities in Taiwan or the Taiwan strait
+
+- **(a)** *Study* The Secretary of the Treasury shall conduct a study to assess the risk posed by the exposure of United States investors to investments in People’s Republic of China companies in the event of hostilities in Taiwan or the Taiwan Strait.
+- **(b)** *Report* Not later than one year after the date of enactment of this Act, the Secretary shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the findings of the study conducted under subsection (a) and any recommendations for mitigating the risk posed by the exposure of United States investors to investments in People’s Republic of China companies.
