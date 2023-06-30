@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 4397
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4397
+
+> To amend the Internal Revenue Code of 1986 to deny tax deductions for certain settlements paid in connection with defamation.
+
+## § 1. Short title
+
+This Act may be cited as the “No Taxpayer Bailout for Defamation Act”.
+
+## § 2. Denial of deduction for certain settlements paid in connection with defamation
+
+- **(a)** *Denial of deduction* Section 162 of the Internal Revenue Code of 1986 is amended by redesignating subsection (s) as subsection (t) and by inserting after subsection (r) the following new subsection:
+  > - **(s)** *Certain payments related to defamation* No deduction shall be allowed under this chapter for—
+  >   - **(1)** any settlement or payment related to defamation if the taxpayer has admitted to guilt or culpability with respect to such settlement or payment, or
+  >   - **(2)** attorney’s fees related to such settlement or payment.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to payments in taxable years beginning after December 31, 2022.
