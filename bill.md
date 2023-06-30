@@ -48,10 +48,10 @@ This Act may be cited as the “Tax Cuts for Working Families Act”.
   > - **(8)** *Bonus guaranteed deduction for taxable years 2024 and 2025*
   >   - **(A)** *In general* In the case of a taxable year beginning after December 31, 2023, and before January 1, 2026, the guaranteed deduction shall be increased by the amount of the bonus guaranteed deduction.
   >   - **(B)** *Bonus guaranteed deduction* For purposes of this paragraph, the bonus guaranteed deduction is—
-  >     - **(i)** $4,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+  >     - **(i)** twice the dollar amount in effect under clause (iii) in the case of a joint return or a surviving spouse (as defined in section 2(a)),
   >     - **(ii)** $3,000 in the case of a head of household, and
   >     - **(iii)** $2,000 in any other case.
-  >   - **(C)** *Adjustment for inflation* In the case of a taxable year beginning after 2024, each dollar amount in subparagraph (B) shall be increased by an amount equal to—
+  >   - **(C)** *Adjustment for inflation* In the case of a taxable year beginning after 2024, the dollar amounts in clauses (ii) and (iii) of subparagraph (B) shall each be increased by an amount equal to—
   >     - **(i)** such dollar amount, multiplied by
   >     - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2023” for “2016” in subparagraph (A)(ii) thereof.
   >   - **(D)** *Limitation on bonus guaranteed deduction based on modified adjusted gross income*
@@ -60,5 +60,6 @@ This Act may be cited as the “Tax Cuts for Working Families Act”.
   >       - **(I)** $400,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
   >       - **(II)** $300,000 in the case of a head of household, and
   >       - **(III)** $200,000 in any other case.
+  >   - **(E)** *Bonus guaranteed deduction not allowed to dependents* In the case of any individual with respect to whom paragraph (5) applies for any taxable year, subparagraph (A) shall not apply.
 
-- **(b)** *Effective date* The amendments made by this subsection shall apply to taxable years beginning after December 31, 2023.
+- **(b)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2023.
