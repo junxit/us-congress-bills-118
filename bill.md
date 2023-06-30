@@ -26,7 +26,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Application to reporting on remuneration for services and direct sales* Section 6041A is amended—
   - **(1)** in subsection (a)(2), by striking “is $600 or more” and inserting “equals or exceeds the dollar amount in effect for such calendar year under section 6041(a)”, and
   - **(2)** in subsection (b)(1)(B), by striking “is $5,000 or more” and inserting “equals or exceeds the dollar amount in effect for such calendar year under section 6041(a)”.
-- **(d)** *Application To backup withholding* Section 3406(b)(6) is amended—
+- **(d)** *Application to backup withholding* Section 3406(b)(6) is amended—
   - **(1)** by striking “$600” in subparagraph (A) and inserting “the dollar amount in effect for such calendar year under section 6041(a)”, and
   - **(2)** by striking “only where aggregate for calendar year is $600 or more” in the heading and inserting “only if in excess of threshold”.
 - **(e)** *Conforming amendments*
@@ -90,7 +90,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(c)** *Gain exclusion allowed with respect to qualified small business stock in corporation*
   - **(1)** *In general* Section 1202(c) is amended—
-    - **(A)** by striking “C corporation” in paragraphs (1) and inserting “corporation”, and
+    - **(A)** by striking “C corporation” in paragraph (1) and inserting “corporation”, and
     - **(B)** by striking “and such corporation is a C corporation” in paragraph (2)(A).
   - **(2)** *Qualified small business definition* Section 1202(d)(1) is amended by striking “which is a C corporation”.
   - **(3)** *Clarification of aggregation rules applicable to S corporations* Section 1202(d)(3) is amended by adding at the end the following new subparagraph:
@@ -114,7 +114,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** by striking “$2,500,000” in paragraph (2) and inserting “$4,000,000”.
 - **(b)** *Inflation adjustment* Section 179(b)(6) is amended—
   - **(1)** by striking “2018” and inserting “2024 (2018 in the case of the dollar amount in paragraph (5)(A))”, and
-  - **(2)** by striking “calendar year 2017” and inserting ““calendar year 2024” (“calendar year 2017” in the case of the dollar amount in paragraph (5)(A))”.
+  - **(2)** by striking “‘calendar year 2017” and inserting ““calendar year 2024” (“calendar year 2017” in the case of the dollar amount in paragraph (5)(A))”.
 - **(c)** *Effective date* The amendments made by this section shall apply to property placed in service in taxable years beginning after December 31, 2023.
 
 ## § 6. Establishment of special rules for capital gains invested in rural opportunity zones
@@ -195,7 +195,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(A)** rules for the certification of qualified rural opportunity funds for the purposes of this section,
   >     - **(B)** rules to ensure a qualified rural opportunity fund has a reasonable period of time to reinvest the return of capital from investments in qualified rural opportunity zone stock and qualified rural opportunity zone partnership interests, and to reinvest proceeds received from the sale or disposition of qualified rural opportunity zone property, and
   >     - **(C)** rules to prevent abuse.
-  > - **(f)** *Failure of qualified rural opportunity fund To maintain investment standard*
+  > - **(f)** *Failure of qualified rural opportunity fund to maintain investment standard*
   >   - **(1)** *In general* If a qualified rural opportunity fund fails to meet the 90-percent requirement of subsection (d)(1), the qualified rural opportunity fund shall pay a penalty for each month it fails to meet the requirement in an amount equal to the product of—
   >     - **(A)** the excess of—
   >       - **(i)** the amount equal to 90 percent of its aggregate assets, over
@@ -240,7 +240,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(B)** the date or dates on which the investment disposed was acquired, and
     >     - **(C)** the date or dates on which any such investment was disposed and the amount of the investment disposed, and
     >   - **(9)** such other information as the Secretary may require.
-    > - **(c)** *Statement required To be furnished to investors* Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return by reason of subsection (b)(8) a written statement showing—
+    > - **(c)** *Statement required to be furnished to investors* Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return by reason of subsection (b)(8) a written statement showing—
     >   - **(1)** the name, address and phone number of the information contact of the person required to make such return, and
     >   - **(2)** the information required to be shown on such return by reason of subsection (b)(8) with respect to the person whose name is required to be so set forth.
     > - **(d)** *Definitions* For purposes of this section—
@@ -334,7 +334,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(4)** *Protection of identifiable return information* In making reports required under this subsection, the Secretary—
     - **(A)** shall establish appropriate procedures to ensure that any amounts reported do not disclose taxpayer return information that can be associated with any particular taxpayer or competitive or proprietary information, and
     - **(B)** if necessary to protect taxpayer return information, may combine information required with respect to individual population census tracts into larger geographic areas.
-  - **(5)** *Definitions* Any term used in this paragraph which is also used in subchapter Z of chapter 1 of the Internal Revenue Code of 1986 shall have the meaning given such term under such subchapter.
+  - **(5)** *Definitions* Any term used in this subsection which is also used in subchapter Z of chapter 1 of the Internal Revenue Code of 1986 shall have the meaning given such term under such subchapter.
   - **(6)** *Reports on qualified rural opportunity funds* The Secretary shall make publicly available, with respect to qualified rural opportunity funds, separate reports as required under this subsection, applied—
     - **(A)** by substituting “qualified rural opportunity” for “qualified opportunity” each place it appears, and
     - **(B)** by substituting “the Small Business Jobs Act” for “Public Law 115–97”.

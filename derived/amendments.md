@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -143,7 +143,7 @@ to guess them.
 
 ### 26 U.S.C. § 1202
 
-> by striking “C corporation” in paragraphs (1) and inserting “corporation”, and
+> by striking “C corporation” in paragraph (1) and inserting “corporation”, and
 
 | | |
 |---|---|
@@ -179,11 +179,11 @@ to guess them.
 
 ### 26 U.S.C. § 179
 
-> by striking “calendar year 2017” and inserting “calendar year 2024 (calendar year 2017 in the case of the dollar amount in paragraph (5)(A))”.
+> by striking “‘calendar year 2017” and inserting “calendar year 2024 (calendar year 2017 in the case of the dollar amount in paragraph (5)(A))”.
 
 | | |
 |---|---|
-| Removed | `calendar year 2017` |
+| Removed | `‘calendar year 2017` |
 | Inserted | `calendar year 2024 (calendar year 2017 in the case of the dollar amount in paragraph (5)(A))` |
 
 ## Stated, not applied
