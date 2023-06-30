@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Schools Not Shelters Act”.
 
-## § 2. Prohibition on use of school facilities to shelter certain aliens
+## § 2. Prohibition on use of school and institution facilities to shelter certain aliens
 
 - **(a)** *In general* As a condition on receipt of Federal financial assistance under any applicable program by a public elementary school, a public secondary school, or an institution of higher education, the facilities of the school or institution may not be used to provide shelter or housing for specified aliens.
 - **(b)** *Construction* Subsection (a) shall apply notwithstanding subparagraphs (B) and (D) of section 401(b)(1) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611(b)(1)) and paragraphs (2) and (4) of section 411(b) of such Act (8 U.S.C. 1621(b)).
