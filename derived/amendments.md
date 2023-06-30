@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3938
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-84 amendatory instructions. 17 executed, 67 stated and not applied.
+82 amendatory instructions. 17 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -190,7 +190,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 174` | insert | Part VI of subchapter B of chapter 1 is amended by inserting after section 174 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 174` | redesignate | Section 174, as amended by subsection (a), is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 174` | strike | Section 13206 of Public Law 115–97 is amended by striking subsection (b) (relating to change in method of accounting). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 174` | insert | The table of sections for part VI of subchapter B of chapter 1 is amended by inserting after the time relating to section 174 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 174` | insert | The table of sections for part VI of subchapter B of chapter 1 is amended by inserting after the item relating to section 174 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | amend | by adding “and” at the end, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | redesignate | by striking clauses (ii), (iii), and (iv), and redesignating clause (v) as clause (ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 168` | amend | by adding “and” at the end, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -204,17 +204,16 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6724` | add-at-end | Subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3508` | insert | The table of chapters for subtitle D is amended by inserting after the item relating to chapter 50A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 3508` | add-at-end | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6418` | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 45Y (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6418` | strike | by striking paragraph (37), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6418` | redesignate | by redesignating paragraphs (38) and (39) as paragraphs (37) and (38), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6418` | redesignate | Section 6417(b), as amended by the preceding provisions of this Act, is amended by striking paragraph (7) and redesignating paragraphs (8) through (11) as paragraphs (7) through (10), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 45Y (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 38` | redesignate | Section 38(b) is amended by striking paragraph (39) and redesignating paragraphs (40) and (41) as paragraphs (39) and (40), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6417` | redesignate | Section 6417(b) is amended by striking paragraph (8) and redesignating paragraphs (9) through (12) as paragraphs (8) through (11), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6418` | redesignate | in subparagraph (A), by striking clause (vii) and by redesignating clauses (viii) through (xi) as clauses (vii) through (x), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | strike | Subpart E of part IV of subchapter A of chapter 1 is amended by striking section 48E (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | amend | in paragraph (5), by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | replace | in paragraph (6), by striking “, and” and inserting a period, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 48` | strike | by striking paragraph (7). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | strike | Section 48(e)(4)(D) is amended by striking “except as provided in section 48E(h)(4)(D)(ii)”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 48C` | strike | Section 48C(f) is amended by striking “48E, ”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 48C` | strike | Section 48C(f) is amended by striking “48E,”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 48` | amend | by adding “and” at the end of clause (v), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | replace | by striking the comma at the end of clause (vi) and inserting a period, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 48` | strike | by striking clauses (vii) and (viii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -222,8 +221,8 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 48` | insert | in clause (vi)(III), by inserting “and” at the end, | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 48` | replace | in clause (vii), by striking “, and” and inserting a period, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 48` | strike | by striking clause (viii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 48` | strike | Section 6417(b), as amended by the preceding provisions of this Act, is amended by striking paragraph (9). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 48` | strike | Section 6418(f)(1)(A), as amended by the preceding provisions of this Act, is amended by striking clause (ix). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | strike | Section 6417(b), as amended by the preceding provisions of this Act, is amended by striking paragraph (11). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 48` | strike | Section 6418(f)(1)(A), as amended by the preceding provisions of this Act, is amended by striking clause (x). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30D` | replace | Section 30D(b) is amended by striking paragraphs (2) and (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30D` | strike | in paragraph (1), by striking subparagraph (G), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 30D` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -246,10 +245,9 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6213` | amend | in subparagraph (T), by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6213` | strike | by striking subparagraph (U), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6213` | redesignate | by redesignating subparagraph (V) as subparagraph (U). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 45W (and by striking the item relating to such section in the table of sections for such subpart). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | strike | by striking paragraph (37), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | redesignate | by redesignating paragraphs (38), (39), (40), and (41) as paragraphs (37), (38), (39), and (40), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | amend | in subparagraph (S), by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 38` | replace | in subparagraph (T), by striking “, and” and inserting a period, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 38` | strike | by striking subparagraph (U). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6417` | redesignate | Section 6417(b) is amended by striking paragraph (6) and redesignating paragraphs (7) through (12) as paragraphs (6) through (11), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Subpart D of part IV of subchapter A of chapter 1 is amended by striking section 45W (and by striking the item relating to such section in the table of sections for such subpart). | the bill names no machine-readable US Code section |
+| — | redesignate | Section 38(b), as amended by the preceding provisions of this section, is amended by striking paragraph (37) and redesignating paragraphs (38) through (40) as paragraphs (37) through (39), respectively. | the bill names no machine-readable US Code section |
+| — | amend | in subparagraph (S), by adding “and” at the end, | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (T), by striking “, and” and inserting a period, and | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (U). | the bill names no machine-readable US Code section |
+| — | redesignate | Section 6417(b), as amended by the preceding provisions of this Act, is amended by striking paragraph (6) and redesignating paragraphs (7) through (10) as paragraphs (6) through (9), respectively. | the bill names no machine-readable US Code section |
