@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4401
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4401
+
+> To amend title 38, United States Code, to establish the timing of the resumption of payment of compensation or pension, after discontinuance by reason of receipt of active service pay.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Earned Veterans Benefits Act”.
+
+## § 2. Payment of certain veterans compensation after discontinuance by reason of receipt of active service pay
+
+- **(a)** *Timing of resumption of payment*
+  - **(1)** *Establishment* Subchapter II of chapter 51 of title 38, United States Code, is amended by adding at the end the following new section:
+    > ## § 5114. Resumption of period of payment after discontinuance by reason of receipt of active service pay
+    >
+    > Payment of compensation or pension, discontinued by reason of receipt of active service pay (pursuant to subsection (c) of section 5304 of this title), shall resume on the first day after the period of active service. The Secretary may resume such payment if the veteran has not filed a claim for such payment if the Secretary determines that the record contains sufficient evidence to re-establish the entitlement of the veteran to such benefit.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5113 the following new item:
+- **(b)** *Implementation plan* Not later than 180 days after the date of the enactment of this Act, the Secretaries of Veterans Affairs and Defense shall jointly implement a plan to—
+  - **(1)** to improve the process by which the Secretary of Defense notifies the Secretary of Veterans Affairs of the end of a period of active service by a veteran who was in receipt of compensation or pension benefits under title 38, United States Code, immediately before such period; and
+  - **(2)** to ensure timely resumption of payment in accordance with section 5114 of such title, as added by subsection (a).
