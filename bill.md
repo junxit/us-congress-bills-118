@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4470
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4470
+
+> To extend the authorization of the Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2023”.
+
+## § 2. Extension of authorization of Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security
+
+Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “July 27, 2023” and inserting “September 30, 2025”.
