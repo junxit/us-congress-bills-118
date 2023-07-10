@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3564
@@ -32,9 +32,10 @@ Middle Class Borrower Protection Act of 2023
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -96,3 +97,4 @@ Middle Class Borrower Protection Act of 2023
 - 2023-06-23 — The Speaker designated the Honorable Dan Newhouse to act as Chairman of the Committee.
 - 2023-06-23 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-06-23 — The previous question was ordered pursuant to the rule.
+- 2023-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
