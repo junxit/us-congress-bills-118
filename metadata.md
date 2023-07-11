@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3935
@@ -32,3 +32,11 @@ FAA Reauthorization Act of 2024
 - 2023-06-09 — Introduced in House
 - 2023-06-09 — Introduced in House
 - 2023-06-09 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-06-12 — Referred to the Subcommittee on Aviation.
+- 2023-06-13 — Committee Consideration and Mark-up Session Held
+- 2023-06-13 — Subcommittee on Aviation Discharged
+- 2023-06-14 — Committee Consideration and Mark-up Session Held
+- 2023-06-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 63 - 0.
+- 2023-07-11 — Placed on the Union Calendar, Calendar No. 109.
+- 2023-07-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-138.
+- 2023-07-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-138.

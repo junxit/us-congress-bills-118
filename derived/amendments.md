@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-657 amendatory instructions. 83 executed, 574 stated and not applied.
+677 amendatory instructions. 86 executed, 591 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,12 @@ to guess them.
 
 ### 49 U.S.C. § 50101
 
-> in subsection (c) (as so redesignated) by striking “paragraph (1)” and inserting “subsection (c)”.
+> in subsection (c) (as so redesignated) by striking “paragraph (1)” and inserting “subsection (a)”.
 
 | | |
 |---|---|
 | Removed | `paragraph (1)` |
-| Inserted | `subsection (c)` |
+| Inserted | `subsection (a)` |
 
 ### 49 U.S.C. § 46301
 
@@ -170,6 +170,15 @@ to guess them.
 
 ### 42 U.S.C. § 7501
 
+> in subparagraph (P) by striking “improve the reliability and efficiency of the airport’s power supply” and inserting “improve reliability and efficiency of the airport’s power supply or meet current and future electrical power demand”; and
+
+| | |
+|---|---|
+| Removed | `improve the reliability and efficiency of the airport’s power supply` |
+| Inserted | `improve reliability and efficiency of the airport’s power supply or meet current and future electrical power demand` |
+
+### 42 U.S.C. § 7501
+
 > in paragraph (29)(B) (as so redesignated) by striking “described in section 47119(a)(1)(B)” and inserting “for moving passengers and baggage between terminal facilities and between terminal facilities and aircraft”; and
 
 | | |
@@ -258,6 +267,15 @@ to guess them.
 | Removed | `Subject to paragraph (2)` |
 | Inserted | `Subject to paragraph (2) and except as provided in section 47116(a)(2)` |
 
+### 49 U.S.C. § 47107
+
+> Section 47109(a)(2) of title 49, United States Code, is amended by striking “90 percent” and inserting “91 percent”.
+
+| | |
+|---|---|
+| Removed | `90 percent` |
+| Inserted | `91 percent` |
+
 ### 49 U.S.C. § 47102
 
 > Section 162 of the FAA Reauthorization Act of 2018 (49 U.S.C. 47102 note) is amended in the matter preceding paragraph (1) by striking “2023” and inserting “2028”.
@@ -323,7 +341,7 @@ to guess them.
 
 ### 42 U.S.C. § 4321
 
-> by striking “projects at congested airports” and all that follows through “aviation security projects” and inserting and inserting “projects, terminal development projects, general aviation airport construction or improvement projects, and aviation safety projects”; and
+> by striking “projects at congested airports” and all that follows through “aviation security projects” and inserting “projects, terminal development projects, general aviation airport construction or improvement projects, and aviation safety projects”; and
 
 | | |
 |---|---|
@@ -528,9 +546,27 @@ to guess them.
 | Removed | `vertiport infrastructure` |
 | Inserted | `urban air mobility and regional air mobility operations` |
 
+### 49 U.S.C. § 40101
+
+> by striking “years 2023 and 2024” and inserting “years 2023 through 2026”; and
+
+| | |
+|---|---|
+| Removed | `years 2023 and 2024` |
+| Inserted | `years 2023 through 2026` |
+
+### 49 U.S.C. § 40101
+
+> in subsection (d) by striking “2024” and inserting “2026” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2026` |
+
 ### 49 U.S.C. § 42301
 
-> in subsection (h) by striking “2023” and inserting “2028”.
+> in subsection (h) by striking “2023” and inserting “2028”; and
 
 | | |
 |---|---|
@@ -656,21 +692,12 @@ to guess them.
 
 ### 42 U.S.C. § 14616
 
-> by striking “section 40119(b) of this title” and inserting “section 44912(d)(2)”; and
+> in paragraph (3) by striking “Subject to section 40119(b) of this title and regulations prescribed under section 40119(b),” and inserting “Subject to section 44912(d)(2) and regulations prescribed under such section,”.
 
 | | |
 |---|---|
-| Removed | `section 40119(b) of this title` |
-| Inserted | `section 44912(d)(2)` |
-
-### 42 U.S.C. § 14616
-
-> by striking “under section 40119(b),” and inserting “pursuant to section 44912(d)(2),”.
-
-| | |
-|---|---|
-| Removed | `under section 40119(b),` |
-| Inserted | `pursuant to section 44912(d)(2),` |
+| Removed | `Subject to section 40119(b) of this title and regulations prescribed under section 40119(b),` |
+| Inserted | `Subject to section 44912(d)(2) and regulations prescribed under such section,` |
 
 ### 42 U.S.C. § 14616
 
@@ -782,7 +809,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in paragraph (5) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47104(c) of title 49, United States Code, is amended in the matter preceding paragraph (1) by striking “2023” and inserting “2028”. | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (1) through (5); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (6) as paragraph (1); and | the bill names no machine-readable US Code section |
@@ -809,9 +836,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Neither” and inserting “In exercising duties, powers, and authorities that are assigned to the Secretary or the Administrator under this title, neither”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “a committee, board, or organization established by executive order.” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(ii) by striking “the acquisition” and all that follows through the semicolon and inserting “the acquisition, establishment, improvement, operation, maintenance, security (including cybersecurity) and disposal of prope… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii) by striking “the acquisition” and all that follows through the semicolon and inserting “the acquisition, establishment, improvement, operation, maintenance, security (including cybersecurity), and disposal of prop… | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A)(iii) by striking “paragraph (3)” and inserting “paragraph (4)”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B) by inserting “civil aviation, any matter for which the Administrator is the final authority under subparagraph (A), any duty carried out by the Administrator pursuant to paragraph (3) or the provisions of this title, … | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B) by inserting “civil aviation, any matter for which the Administrator is the final authority under subparagraph (A), any duty carried out by the Administrator pursuant to paragraph (3), or the provisions of this title,… | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(formally or informally)” after “required”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or any other Federal agency” after “Department of Transportation”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “In the performance” and inserting “(i) Issuance of regulations.—In the performance”; | the bill names no machine-readable US Code section |
@@ -822,14 +849,14 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (h) of section 106 of title 49, United States Code, is repealed. | the bill names no machine-readable US Code section |
-| — | insert | Section 106 of title 49, United States Code, is further amended by inserting after subsection (g) (as added by section 127) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 106 of title 49, United States Code, is further amended by striking subsection (g) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 106 of title 49, United States Code, is further amended by inserting after subsection (g) (as added by section 126) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a) Civil Aeromedical Institute” and all that follows through “The Civil Aeromedical Institute established” and inserting “The Civil Aeromedical Institute established”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
-| — | replace | Section 106 of title 49, United States Code, is amended by striking subsection (i) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 106(j) is amended by striking “There is” and inserting “Civil Aeromedical Institute.—There is”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (8) of subsection (p) as paragraph (7) of subsection (r); and | the bill names no machine-readable US Code section |
+| — | replace | Section 106 of title 49, United States Code, is further amended by striking subsection (i) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 106(j) of title 49, United States Code, is amended by striking “There is” and inserting “Civil Aeromedical Institute.—There is”. | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (p) and inserting the following: | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 106` | replace | Section 106 of title 49, United States Code, is amended by striking subsection (q) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 106` | replace | Section 106 of title 49, United States Code, is further amended by striking subsection (q) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 106` | repeal | Section 180 of the FAA Reauthorization Act of 2018 (49 U.S.C. 106 note) and the items relating to such section in the table of contents contained in section 1(b) of that Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E) by striking “shall be appointed for the remainder of that term” and inserting “may be appointed for either the remainder of the term or for a full term”; | the bill names no machine-readable US Code section |
@@ -843,7 +870,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C)(ii) by striking “and the Committee”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 106(r) of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “There shall be” and all that follows through the period at the end and inserting “The Chief Technology Officer shall be appointed by the Chief Operating Officer of the with the consent of the Administrato… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A) by striking “There shall be” and all that follows through the period at the end and inserting “The Chief Technology Officer shall be appointed by the Chief Operating Officer of the air traffic control system with the … | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “management” and inserting “management, systems management,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (D); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) through (C) as subparagraphs (B) through (D), respectively; and | the bill names no machine-readable US Code section |
@@ -864,7 +891,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 50101` | redesignate | by redesignating subsection (e) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | strike | Section 40110(d) of title 49, United States Code, is amended by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 50101` | redesignate | by redesignating paragraph (5) (as amended by section 104(a)) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 50101` | redesignate | by redesignating paragraph (5) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | repeal | Section 47131 of title 49, United States Code, and the item relating to such section in the analysis for chapter 471 of such title, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -873,11 +900,11 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 44701` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44701` | redesignate | by redesignating subsection (c) as subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | repeal | Section 710 of the Vision 100–Century of Aviation Reauthorization Act (49 U.S.C. 40101 note), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 44703` | repeal | Section 4022 of the Intelligence Reform and Terrorism Prevention Act of 2004 (49 U.S.C. 44703 note), and the item relating to such section in the table of contents in section 1(b) of such act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44703` | repeal | Section 4022 of the Intelligence Reform and Terrorism Prevention Act of 2004 (49 U.S.C. 44703 note), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44703` | repeal | Section 321 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 44703 note), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | strike | by striking subsection (a); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 50101` | strike | by striking “(b) Workload of Systems Specialists.—”; and | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 50101` | redesignate | by redesignating paragraphs (1) through (3) as subsections (a) through (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 50101` | redesignate | by redesignating paragraphs (1) through (3) as subsections (a) through (c) (and adjust the margins appropriately); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44701` | repeal | Section 345 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 44701 note), and the item relating to such section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 46301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47112` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -893,12 +920,13 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 46101 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44103 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 5121` | replace | in subsection (c)(2) by striking “charitable medical transportation.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 44703` | add-at-end | Section 2(b) of the Pilot’s Bill of Rights (49 U.S.C. 44703 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47101` | add-at-end | Section 47125 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47101` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47101` | amend | Section 47153(c) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 47101` | repeal | Section 1203 of the Federal Aviation Reauthorization Act of 1996 (49 U.S.C. 47101 note) and the item relating to such section in the table of contents under section 1(b) of such Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 47125` | repeal | Section 817 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 47125 note) and the item relating to such section in the table of contents under section 1(b) of such Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 47101` | repeal | Section 1203 of the Federal Aviation Reauthorization Act of 1996 (49 U.S.C. 47101 note), and the item relating to such section in the table of contents under section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 47125` | repeal | Section 817 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 47125 note), and the item relating to such section in the table of contents under section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 44103 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44703 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44701 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -908,7 +936,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 44701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40103` | add-at-end | Chapter 453 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40103` | add-at-end | The analysis of chapter 453 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40103` | repeal | Section 530 of the FAA Reauthorization of 2018 (49 U.S.C. 40103 note) and the item relating to that section in the table of contents in section 1(b) of such Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40103` | repeal | Section 530 of the FAA Reauthorization of 2018 (49 U.S.C. 40103 note), and the item relating to that section in the table of contents in section 1(b) of such Act, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40128` | strike | in subparagraph (C) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40128` | replace | in subparagraph (D) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 40128` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -929,9 +957,21 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Sections 44510 and 44515 of title 49, United States Code, are repealed. | the bill names no machine-readable US Code section |
 | — | strike | The analysis for chapter 445 of title 49, United States Code, is amended by striking the items relating to sections 44510 and 44515. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a) by striking “In carrying out” and all that follows through “other interested organizations.”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (e); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (b) as subsection (d); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (c) as subsection (b). | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (b) and reordering the subsections accordingly. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 40104 of title 49, United States Code, is further amended by inserting after subsection (b) (as redesignated by section 325) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Subject to the limitation in subsection (c), a” and inserting “A”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “65” and inserting “67”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1) by striking “; or” and inserting “, unless the operation takes place in airspace where such operations are not permitted; or”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subsection (c) and redesignating subsections (d) through (h) as subsections (c) through (g), respectively; | the bill names no machine-readable US Code section |
+| — | replace | in the heading by striking “60” and inserting “65”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the date of enactment of this section,” and inserting “the date of enactment of the Securing Growth and Robust Leadership in American Aviation Act,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 121.383(c)” and inserting “subsections (d) and (e) of section 121.383”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(or any successor regulations)” after “Regulations”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “section, taken in conformance with a regulation issued to carry out this section, or taken prior to the date of enactment of this section in conformance with section 121.383(c) of title 14, Code of Federal R… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 7501` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7501` | strike | in clause (i) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7501` | replace | in clause (ii) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -941,6 +981,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7501` | strike | in subparagraph (K) by striking “if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a)) and if the airport would be able to r… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7501` | strike | in subparagraph (L) by striking “the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a)), if the airport would be able to receive… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7501` | insert | in paragraph (5) by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7501` | redesignate | by redesignating paragraphs (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), and (28) as paragraphs (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7501` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7501` | redesignate | in paragraph (28) (as so redesignated) by striking “the Trust Territory of the Pacific Islands,”; | the bill quotes the text struck but describes what replaces it |
@@ -952,7 +993,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (D) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 47107(v) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “47114(d)(3)(A) of this title” and inserting “47114(d)(2)(A)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking subsections (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding paragraph (1) by striking “after May 13, 1946, and”; and | the bill names no machine-readable US Code section |
@@ -984,7 +1025,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or subsection (c)(1)(D)” after “under this subsection”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (2) through (6), respectively. | the bill names no machine-readable US Code section |
-| — | replace | Section 47106(a)(7) of title 49, United States Code, is amended by striking “section 47114(d)(3)(B)” and inserting “section 47114(d)(2)(B)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 47106(a)(7) of title 49, United States Code, is amended by striking “section 47114(d)(3)(B)” and inserting “section 47114(d)(2)(B)” | the bill names no machine-readable US Code section |
 | — | replace | by striking “sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and” and inserting “sponsor of a medium or large hub airport”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “75 percent” and inserting “60 percent” each place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraphs (2) and (3) and inserting the following: | the bill names no machine-readable US Code section |
@@ -999,7 +1040,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7401` | strike | by striking “of this title”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7401` | strike | by striking “for compatible land use planning and projects carried out by State and local governments under section 47141,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7401` | strike | by striking “to comply with the Clean Air Act (42 U.S.C. 7401 et seq.)”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 7401` | add-at-end | by adding at the end the following: “The Secretary shall provide not less than two-thirds of amounts under this subparagraph and paragraph (3) for grants to sponsors of small hub, medium hub, and large hub airports.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7401` | add-at-end | by adding at the end the following:“The Secretary shall provide not less than two-thirds of amounts under this subparagraph and paragraph (3) for grants to sponsors of small hub, medium hub, and large hub airports.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7401` | strike | by striking subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7401` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (1) by striking “in a nonrevenue-producing public-use area of a commercial service airport” and all that follows through “of the Government” and inserting the following: | the bill names no machine-readable US Code section |
@@ -1007,9 +1048,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsections (b), (e) and (f); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) and (d) as subsections (b) and (c), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (b) (as so redesignated) by striking paragraphs (1) through (5) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 47109(a)(2) of title 49, United States Code, is amended by striking “90 percent” and inserting “91 percent”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 47128 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 47128 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 47107` | add-at-end | Section 47128 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 47107` | add-at-end | Section 47128 of title 49, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
@@ -1036,6 +1076,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 47113 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 47107` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 47107` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 47134(b) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 47140 of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The analysis for chapter 471 of title 49, United States Code, is amended by striking the item relating to section 47140 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 40117(d) of title 49, United States Code, is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “Pilot Program” and inserting “Alternative procedures”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
@@ -1043,7 +1086,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “airport sponsors receive” and inserting “airport sponsors may receive”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “carrying out projects” and inserting “carrying out projects, including projects”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “conditions” and inserting “considerations”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “airport sponsor” and inserting “airport sponsor, including for an airport outside of a non-attainment area,”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “airport sponsor” and inserting “airport sponsor, including for an airport outside of a nonattainment area,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “only”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or as offsets” and inserting “, as offsets”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “, or as part of a State implementation plan.”; | the bill names no machine-readable US Code section |
@@ -1051,7 +1094,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (c) as subsection (b). | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 4321` | strike | by striking “develop and”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | replace | by striking “For any” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 4321` | replace | by striking “For any” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 4321` | replace | by striking “project shall consider” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 4321` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -1059,9 +1102,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 4321` | replace | in subsection (l) by striking the period at the end and inserting “and section 1503 of title 40, Code of Federal Regulations.”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 4321` | replace | by striking subsection (m) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (3)(A) by striking “and” at the end and inserting “or”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A) by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “(B)”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (i) and (ii) as subsection (B) and (C), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (B) and (C), respectively; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3), (1), (4), (2), (6), and (8) as paragraphs (1), (2), (3), (4), (5), and (6), respectively; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1069,7 +1112,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g) by striking “subsection (a)(5)” and inserting “subsection (a)(6)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (h) by striking “subsection (a)(6)” and inserting “subsection (a)(7)”. | the bill names no machine-readable US Code section |
-| `49 U.S.C. § 44701` | insert | in subsection heading by inserting“and assistance” after “International role”; | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 44701` | insert | in the subsection heading by inserting“and assistance” after “International role”; | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 44701` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44701` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44701` | redesignate | Section 40104(d) of title 49, United States Code, (as redesignated by section 325) is further amended by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1107,9 +1150,12 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 447 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 40122(g) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 447 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (b)(2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b) by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(4) by striking “2023” and inserting “2028”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d) by striking “2023” and inserting “2028”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 447 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 447 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 44704 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1) by inserting “cybersecurity,” after “quality of work,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “cybersecurity and” after “standards for”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “procedure” and inserting “procedures”. | the bill names no machine-readable US Code section |
@@ -1118,8 +1164,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The analysis for chapter 401 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end of the following: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 4321` | replace | Section 44803 of title 49, United States Code, is amended by striking subsections (a) through (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 4321` | amend | Section 44803 of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in section heading by striking “Small unmanned” and inserting “Unmanned”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “small” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 448 of title 49, United States Code, is amended by striking the item relating to section 44804 and insert the following: | the bill names no machine-readable US Code section |
@@ -1156,11 +1202,13 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7801` | insert | in paragraph (2) by inserting “an elementary school, or a secondary school,” after “with respect to the operation of an unmanned aircraft system by an institution of higher education,”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7801` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 44810(h) of title 49, United States Code, is amended by striking “2023” and inserting “2028”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including temporarily,” after “restrict”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or eligible outdoor gathering” after “fixed site facility”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv), by striking “Other locations that warrant such restrictions” and inserting “State correctional facilities”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 40103(b) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “or”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the first instance of “or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(including data collection on civil aviation systems undergoing research, development, test, or evaluation at a test range (as such term is defined in section 44801)), infrastructure inspections, or any other activity under… | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 40101` | strike | in subsection (b) by striking “, particularly passenger-carrying aircraft,”; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | replace | in subsection (d)(1) by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1185,11 +1233,10 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 40101` | strike | in clause (i) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | replace | in clause (ii) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 40101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | insert | by inserting before the period “out of funds made available under section 106(k) of title 49, United States Code”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | strike | by striking paragraphs (9) and (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 580(c)(3) of the FAA Reauthorization Act of 2018 (Public Law 115–254) is amended by striking “2024” and inserting “2028”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 447 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 447 of title 49, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “aeronautical” and inserting “aerospace”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking “civil aeronautics” and inserting “civil aerospace”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and | the bill names no machine-readable US Code section |
@@ -1208,6 +1255,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | The analysis for chapter 417 of title 49, United States Code, is amended by striking the item relating to section 41705 and inserting the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 41705` | replace | in subsection (c)(1) by striking subparagraph (G) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 41705` | replace | Section 1(b) of the FAA Reauthorization Act of 2018 (Public Law 115–254) is amended by striking the item relating to section 439 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 41705(c) of title 49, United States Code, is amended by striking paragraph (1), and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1) by inserting “in a noncontiguous State” after “An airport”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B) by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
@@ -1224,7 +1272,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (D) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 41731(c) of title 49, United States Code, is amended by inserting “and section 41737(a)(1)(F)” after “subsection (a)(1)”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c) by inserting “and section 41737(a)(1)(F)” after “subsection (a)(1)”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d) by inserting “and section 41737(a)(1)(F)” after “Subsection (a)(1)(B)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 41742(a)(2) of title 49, United States Code, is amended by striking “$155,000,000 for fiscal year 2018” an all that follows through “$172,000,000 for fiscal year 2023” and inserting “$332,000,000 for fiscal year 2024, $312,000,00… | the bill names no machine-readable US Code section |
 | — | replace | Section 41743(c)(4)(B) of title 49, United States Code, is amended by striking “10-year” and inserting “6-year”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B) through (G) as subparagraphs (C) through (H), respectively; and | the bill names no machine-readable US Code section |
@@ -1240,7 +1289,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “new”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and implemented” and inserting “, implemented, and periodically updated”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “Within” and all that follows through “the Administrator” and inserting “The Administrator”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “development and location of air navigation facilities” and inserting “development of air navigation facilities and services”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and development” and inserting “procurement, and development” each place it appears; | the bill names no machine-readable US Code section |
@@ -1253,6 +1302,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “develop, alter” and inserting “develop when necessary, alter”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and devices” and inserting “services, and devices” each place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b) by striking “develop dynamic simulation models” and inserting “develop or procure dynamic simulation models and tools” each place it appears. | the bill names no machine-readable US Code section |
+| — | insert | Section 352(a)(3)(B) of Consolidated Appropriations Resolution, 2003 (Public Law 108–7) is amended by inserting “(or attendees approved by)” after “guests”. | the bill names no machine-readable US Code section |
 | — | replace | Section 44506(f)(2)(A) of title 49, United States Code, is amended by striking “paragraph (1)(B)(ii)” and inserting “paragraph (1)(B)”. | the bill names no machine-readable US Code section |
 | — | amend | Section 42121(b)(5) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (9) by striking “or” at the end; | the bill names no machine-readable US Code section |
@@ -1270,7 +1320,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 14616` | strike | The analysis for subtitle I of title 49, United States Code, is amended by striking the item relating to chapter 7. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14616` | replace | The analysis for subtitle VII of title 49, United States Code, is amended by striking the item relating to chapter 448 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14616` | insert | in subparagraph (B) by inserting “, as in effect on October 9, 1996” after “Policy Act”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 14616` | strike | in subsection (c)(2)(B)(i), by striking “40119,”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 14616` | strike | in paragraph (2)(B)(i), by striking “40119,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 14616` | strike | Section 44508 of title 49, United States Code, is amended by striking “40119,” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 14616` | amend | Section 44718(h) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14616` | add-at-end | The analysis for chapter 453 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1301,11 +1351,6 @@ complete account of the bill's effect, which it is not.
 | — | amend | The analysis for chapter 11 of title 49, United States Code, is amended by adding after the item relating to section 1119 the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1131(a)(1)(B) of title 49, United States Code, is amended by striking “selects in cooperation with a State” and inserting “selects, concurrent with any State investigation”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1131(a)(1)(C) of title 49, United States Code, is amended by striking “accident in which there is a fatality or substantial property damage, or that involves a passenger train” and inserting “accident, including a railroad grade … | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (E) by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1131(a)(2) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 1131(a)(2)(A) of title 49, United States Code, is amended by striking “or (F)” and inserting “, (F), or (G)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1131(e) of title 49, United States Code, is amended by striking “public at reasonable cost.” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1131 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1134 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -1349,7 +1394,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | The analysis for chapter 11 of title 49, United States Code, is further amended by striking the item relating to section 1139 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Aviation penalties” and inserting “Penalties”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “or section 1136(g) (related to an aircraft accident)” and inserting “section 1136(g), or 1139(g)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1131(a)(1)(E) of title 49, United States Code, is further amended by striking “section 2101(46)” and inserting “section 116”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1138(a) of title 49, United States Code, is amended by striking “expenditures of the National Transportation Safety” and inserting “expenditures of the”. | the bill names no machine-readable US Code section |
 | — | strike | by striking the items relating to sections 117 and 1117; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 1116 the following: | the bill names no machine-readable US Code section |
