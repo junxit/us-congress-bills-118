@@ -1,7 +1,7 @@
 ---
 measure: S. 884
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 884
@@ -28,3 +28,7 @@ Improving Digital Identity Act of 2023
 
 - 2023-03-21 — Introduced in Senate
 - 2023-03-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-03-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-47.
+- 2023-07-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-47.
+- 2023-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.

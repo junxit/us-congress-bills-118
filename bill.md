@@ -20,7 +20,7 @@ Congress finds the following:
 - **(1)** The lack of an easy, affordable, reliable, and secure way for organizations, businesses, and government agencies to identify whether an individual is who they claim to be online creates an attack vector that is widely exploited by adversaries in cyberspace and precludes many high-value transactions from being available online.
 - **(2)** Incidents of identity theft and identity fraud continue to rise in the United States, where more than 293,000,000 people were impacted by data breaches in 2021.
 - **(3)** Since 2017, losses resulting from identity fraud have increased by 333 percent, and, in 2020, those losses totaled $56,000,000,000.
-- **(4)** The Director of the Treasury Department Financial Crimes Enforcement Network has stated that the abuse of personally identifiable information and other building blocks of identity is a key enabler behind much of the fraud and cybercrime affecting the United States today.
+- **(4)** The Director of the Treasury Department Financial Crimes Enforcement Network of the Department of the Treasury has stated that the abuse of personally identifiable information and other building blocks of identity is a key enabler behind much of the fraud and cybercrime affecting the United States today.
 - **(5)** The inadequacy of current digital identity solutions degrades security and privacy for all people in the United States, and next generation solutions are needed that improve security, privacy, equity, and accessibility.
 - **(6)** Government entities, as authoritative issuers of identity in the United States, are uniquely positioned to deliver critical components that address deficiencies in the digital identity infrastructure of the United States and augment private sector digital identity and authentication solutions.
 - **(7)** State governments are particularly well-suited to play a role in enhancing digital identity solutions used by both the public and private sectors, given the role of State governments as the issuers of driver’s licenses and other identity documents commonly used today.
@@ -35,7 +35,7 @@ In this Act:
 - **(1)** *Appropriate notification entities* The term appropriate notification entities means—
   - **(A)** the President;
   - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
-  - **(C)** the Committee on Oversight and Reform of the House of Representatives.
+  - **(C)** the Committee on Oversight and ReformAccountability of the House of Representatives.
 - **(2)** *Digital identity verification* The term digital identity verification means a process to verify the identity or an identity attribute of an individual accessing a service online or through another electronic means.
 - **(3)** *Director* The term Director means the Director of the Task Force.
 - **(4)** *Federal agency* The term Federal agency has the meaning given the term in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122).
@@ -78,7 +78,7 @@ In this Act:
     - **(J)** The National Cyber Director.
     - **(K)** The Attorney General.
     - **(L)** The heads of other Federal agencies or offices as the President may designate or invite, as appropriate.
-  - **(2)** *State, local, Tribal, and territorial government representatives* The Director shall appoint to the Task Force 6 State, local, Tribal, and territorial government officials who represent agencies that issue identity credentials and who have—
+  - **(2)** *State, local, Tribal, and territorial government representatives* The Director shall appoint to the Task Force 6 State, local, Tribal, andor territorial government officials who represent agencies that issue identity credentials and who have—
     - **(A)** experience in identity technology and services;
     - **(B)** knowledge of the systems used to provide identity credentials; or
     - **(C)** any other qualifications or competencies that may help achieve balance or otherwise support the mission of the Task Force.
@@ -103,7 +103,7 @@ In this Act:
     - **(B)** prioritizes equity and accessibility;
     - **(C)** requires individual consent for the provision of digital identify verification services by a Federal, State, local, Tribal, or territorial agency;
     - **(D)** is interoperable among participating Federal, State, local, Tribal, and territorial agencies, as appropriate and in accordance with applicable laws; and
-    - **(E)** prioritizes technical standards developed by voluntary consensus standards bodies in accordance with section 12(d) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note) and guidance under OMB Circular A–119 , entitled “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities”, or any successor thereto.
+    - **(E)** prioritizes technical standards developed by voluntary consensus standards bodies in accordance with section 12(d) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note) and guidance under OMB Circular A–119, entitled “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities”, or any successor thereto.;
   - **(5)** recommend principles to promote policies for shared identity proofing across public sector agencies, which may include single sign-on or broadly accepted attestations;
   - **(6)** identify funding or other resources needed to support the agencies described in paragraph (4) that provide digital identity verification, including recommendations with respect to the need for and the design of a Federal grant program to implement the recommendations of the Task Force and facilitate the development and upgrade of State, local, Tribal, and territorial highly-secure interoperable systems that enable digital identity verification;
   - **(7)** recommend funding models to provide digital identity verification to private sector entities, which may include fee-based funding models;
@@ -139,7 +139,7 @@ In this Act:
       - **(i)** the matters described in paragraphs (1), (2), (4), and (6) of subsection (g); and
       - **(ii)** any other matters the Director determines necessary to support the work of the Task Force and educate the public.
   - **(3)** *Final report* Not later than 180 days before the date described in subsection (k), the Director shall submit to the appropriate notification entities a final report that includes recommendations for the President and Congress relating to any relevant matter within the scope of the duties of the Task Force.
-  - **(4)** *Public availability* The Task Force shall make the reports required under this subsection publicly available on centralized website as an open Government data asset (as defined in section 3502 of title 44, United States Code).
+  - **(4)** *Public availability* The Task Force shall make the reports required under this subsection publicly available on a centralized website as an open Government data asset (as defined in section 3502 of title 44, United States Code).
 - **(k)** *Sunset* The Task Force shall conclude business on the date that is 3 years after the date of enactment of this Act.
 
 ## § 5. Security enhancements to Federal systems
@@ -155,7 +155,7 @@ In this Act:
       - **(iv)** recommendations to improve the effectiveness of digital identity verification services by Federal agencies.
     - **(B)** *Consultation* In developing the first report required under subparagraph (A), the Director shall consult the Task Force.
   - **(3)** *Congressional report on Federal agency digital identity capabilities*
-    - **(A)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report relating to the implementation and effectiveness of the digital identity capabilities of Federal agencies.
+    - **(A)** *Reform* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform Accountability of the House of Representatives a report relating to the implementation and effectiveness of the digital identity capabilities of Federal agencies.
     - **(B)** *Consultation* In developing the report required under subparagraph (A), the Director of the Office of Management and Budget shall—
       - **(i)** consult with the Task Force; and
       - **(ii)** to the greatest extent practicable, include in the report recommendations of the Task Force.
