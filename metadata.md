@@ -1,7 +1,7 @@
 ---
 measure: S. 162
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 162
@@ -30,3 +30,7 @@ Smith River National Recreation Area Expansion Act
 
 - 2023-01-31 — Introduced in Senate
 - 2023-01-31 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-49.
+- 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-49.
+- 2023-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
