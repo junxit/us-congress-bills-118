@@ -1,0 +1,18 @@
+---
+legis-num: S. 2246
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2246
+
+> To authorize the appropriation of funds to the National Institutes of Health and the Centers for Disease Control and Prevention for conducting or supporting research on barriers to gender-affirming care.
+
+## § 1. Short title
+
+This Act may be cited as the “Gender-Affirming Care Access Research for Equity Act” or the “Gender-Affirming CARE Act”.
+
+## § 2. Funding for research by NIH and CDC on barriers to gender-affirming care
+
+There is authorized to be appropriated to each of the National Institutes of Health and the Centers for Disease Control and Prevention $25,000,000 for each of fiscal years 2024 through 2029 for the purpose of conducting or supporting research on barriers to gender-affirming care, and the impact of those barriers on health outcomes, under the Public Health Service Act (42 U.S.C. 201 et seq.). The amounts authorized to be appropriated by the preceding sentence are in addition to any other amounts authorized to be appropriated for such purpose.
