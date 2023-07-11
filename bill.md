@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 In this Act:
 
 - **(1)** *Administrator* The term “Administrator” means the Administrator of the Federal Aviation Administration.
-- **(2)** *Appropriate committees of Congress* The terms “appropriate committees of Congress” means the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+- **(2)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 - **(3)** *FAA* The term “FAA” means the Federal Aviation Administration.
 - **(4)** *NASA* The term “NASA” means the National Aeronautics and Space Administration.
 - **(5)** *Secretary* The term “Secretary” means the Secretary of Transportation.

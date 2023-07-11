@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3559
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 1 executed, 7 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 49 U.S.C. § 44505
 
-> in paragraph (4), by striking “durable airfield pavements.” and inserting “resilient and sustainable airfield pavements; and”; and
+> in paragraph (4), by striking “durable airfield pavements.” and inserting “resilient and sustainable airfield and vertiport pavements; and”; and
 
 | | |
 |---|---|
 | Removed | `durable airfield pavements.` |
-| Inserted | `resilient and sustainable airfield pavements; and` |
+| Inserted | `resilient and sustainable airfield and vertiport pavements; and` |
 
 ## Stated, not applied
 
@@ -45,7 +45,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (14), by striking “and”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (15) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | strike | by striking “jet”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “subsonic”. | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 44505` | strike | in paragraph (3), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 44505` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
