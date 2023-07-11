@@ -1,7 +1,7 @@
 ---
 measure: H.R. 752
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 752
@@ -30,3 +30,10 @@ Securing Semiconductor Supply Chains Act of 2023
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Referred to the House Committee on Energy and Commerce.
 - 2023-02-02 — Referred to the Subcommittee on Innovation, Data, and Commerce.
+- 2023-02-07 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 19 - 0 .
+- 2023-02-07 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-03-09 — Committee Consideration and Mark-up Session Held.
+- 2023-03-09 — Ordered to be Reported by the Yeas and Nays: 49 - 0.
+- 2023-07-11 — Placed on the Union Calendar, Calendar No. 107.
+- 2023-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-136.
+- 2023-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-136.
