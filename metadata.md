@@ -1,7 +1,7 @@
 ---
 measure: S. 199
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 199
@@ -28,3 +28,7 @@ Root and Stem Project Authorization Act of 2023
 
 - 2023-02-01 — Introduced in Senate
 - 2023-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-50.
+- 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-50.
+- 2023-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
