@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 284
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 284
@@ -44,3 +44,7 @@ A resolution expressing support for the designation of June 2023 as "National Da
 
 - 2023-06-22 — Introduced in Senate
 - 2023-06-22 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2023-07-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2328-2329; text: 06/22/2023 CR S2246-2247)
+- 2023-07-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2328-2329; text: 06/22/2023 CR S2246-2247)
+- 2023-07-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2023-07-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
