@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2622
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2622
@@ -29,3 +29,14 @@ To amend the Investment Advisers Act of 1940 to codify certain Securities and Ex
 - 2023-04-13 — Introduced in House
 - 2023-04-13 — Introduced in House
 - 2023-04-13 — Referred to the House Committee on Financial Services.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held
+- 2023-05-24 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 45 - 2.
+- 2023-07-11 — Considered under suspension of the rules. (consideration: CR H3184-3185)
+- 2023-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2622.
+- 2023-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-11 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
+- 2023-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3184)
+- 2023-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3184)
+- 2023-07-11 — Placed on the Union Calendar, Calendar No. 105.
+- 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-134.
+- 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-134.
