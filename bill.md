@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 4567
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4567
+
+> To amend Public Law 117–78 to strengthen the requirements under that Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening the Uyghur Forced Labor Prevention Act”.
+
+## § 2. Amendments to Public Law 117–78
+
+- **(a)** *Strategy* Section 2 of Public Law 117–78 (135 Stat. 1526) is amended—
+  - **(1)** in subsection (d)(2)—
+    - **(A)** in subparagraph (A), by striking “of “pairing assistance” and “poverty alleviation” or any other government labor scheme that includes the forced labor of” and inserting “of all state-sponsored labor programs, including programs associated with “surplus labor transfer”, “poverty alleviation”, “mutual aid”, “Xinjiang Aid”, and “re-education” programs targeting”; and
+    - **(B)** in subparagraph (B)—
+      - **(i)** in clause (i), by adding at the end before the semicolon the following: “or receive labor under any of the programs described in subparagraph (A)”;
+      - **(ii)** by amending clause (ii) to read as follows:
+        > - **(ii)** a list of entities working with the regional, prefectural, county, or local government agencies of the Xinjiang Uyghur Autonomous Region or the Xinjiang Production and Construction Corps to recruit, transport, transfer, harbor, or receive forced labor under any of the programs described in subparagraph (A) outside of the Xinjiang Uyghur Autonomous Region;
+
+      - **(iii)** in clause (iv), by striking “described in clause (iii)” and inserting “mined or manufactured by entities listed in clause (i) or (ii)”; and
+      - **(iv)** by amending clause (v) to read as follows:
+        > - **(v)** a list of facilities and entities outside of the Xinjiang Uyghur Autonomous Region that source material from the Xinjiang Uyghur Autonomous Region or from persons or entities working with regional, prefectural, county, or local government agencies of the Xinjiang Uyghur Autonomous Region or the Xinjiang Production and Construction Corps or receive labor under any of the programs described in subparagraph (A);
+
+  - **(2)** in subsection (e)(2), by adding at the end the following:
+    > Each such update—
+    > - **(A)** shall give effect to all determinations made by U.S. Customs and Border Protection regarding whether the statutory prerequisites for the rebuttable presumption under section 3 have been met, whether any such presumption has been rebutted, and which companies have exported goods found to be made in the Xinjiang Uyghur Autonomous Region; and
+    > - **(B)** may include additional entities, facilities, and products to, or removal of entities, facilities, and products from, the lists required by clauses (i), (ii), (iii), (iv), and (v) of subsection (d)(2)(B), and may include revisions to the processes and standards for doing so, provided that such processes and standards are explained fully in the revised strategy and that they do not impede giving effect to determinations made by U.S. Customs and Border Protection as required by subsection (d)(2)(A).
+
+- **(b)** *Definitions* Section 7(2) of Public Law 117–78 (135 Stat. 1532) is amended—
+  - **(1)** in subparagraph (A), by striking “and” at the end;
+  - **(2)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(C)** includes all state-imposed labor programs, including programs associated with “surplus labor transfer”, “poverty alleviation”, “mutual aid”, “Xinjiang Aid”, and “re-education” programs targeting Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups inside or outside of the Xinjiang Uyghur Autonomous Region or similar programs of the People’s Republic of China in which work or services are extracted from Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups through the threat of penalty or for which the Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups have not offered themselves voluntarily.
