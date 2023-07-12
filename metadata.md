@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1096
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1096
@@ -341,3 +341,4 @@ version: Engrossed in House
 - 2023-07-11 — Mrs. Wagner moved to suspend the rules and pass the bill.
 - 2023-07-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 291). (text: CR H3187-3188)
 - 2023-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 291). (text: CR H3187-3188)
+- 2023-07-12 — Received in the Senate, read twice.
