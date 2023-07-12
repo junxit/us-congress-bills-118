@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1548
 congress: 118
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

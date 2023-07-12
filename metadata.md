@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1548
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1548
@@ -20,10 +20,11 @@ Improving Access to Small Business Information Act
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Improving Access to Small Business Information Act
 - 2023-07-11 — Placed on the Union Calendar, Calendar No. 106.
 - 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-135, Part I.
 - 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-135, Part I.
+- 2023-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
