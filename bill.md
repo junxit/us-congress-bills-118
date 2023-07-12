@@ -1,0 +1,19 @@
+---
+legis-num: S. 2263
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2263
+
+> To require the Secretary of Veterans Affairs to reimburse the cost of transportation by ambulance for highly rural veterans seeking care under the laws administered by the Secretary, regardless of whether such veteran qualifies for payments or allowances for beneficiary travel.
+
+## § 1. Short title
+
+This Act may be cited as the “The Rural Vital Emergency Transportation Services (VETS) Act”.
+
+## § 2. Reimbursement of ambulance cost for care for highly rural veterans
+
+- **(a)** *In general* Under regulations prescribed by the Secretary of Veterans Affairs, the Secretary shall pay, or reimburse a highly rural veteran for, the cost of transporting the veteran by ambulance, including air ambulance, to a provider of the Department of Veterans Affairs or a non-Department provider for care authorized under the laws administered by the Secretary, or for which subsequent payment or reimbursement is authorized under the laws administered by the Secretary, regardless of whether the veteran qualifies for payments or allowances for beneficiary travel under section 111 of title 38, United States Code.
+- **(b)** *Highly rural veteran defined* In this section, the term highly rural veteran means a veteran who is located in an area rated as a 10 or higher under the rural-urban commuting areas coding system of the Department of Agriculture.
