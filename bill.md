@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 4590
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4590
+
+> To amend the Securities Exchange Act of 1934 to provide for liability for certain failures to disclose material information in connection with proxy voting advice, and for other purposes.
+
+## § 1. Liability for certain failures to disclose material information or making of material misstatements
+
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following:
+
+> - **(l)** *False or misleading statements* For purposes of section 18, the failure to disclose material information (such as a proxy voting advice business’s methodology, sources of information, or conflicts of interest) or the making of a material misstatement regarding proxy voting advice that makes a recommendation to a security holder as to the security holder’s vote, consent, or authorization on a specific matter for which security holder approval is solicited, and that is furnished by a person that markets the person’s expertise as a provider of such proxy voting advice separately from other forms of investment advice, and sells such proxy voting advice for a fee, shall be considered to be false or misleading with respect to a material fact.
