@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2622
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2622
@@ -20,9 +20,10 @@ To amend the Investment Advisers Act of 1940 to codify certain Securities and Ex
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Investment Advisers Act of 1940 to codify certain Securities and Ex
 - 2023-07-11 — Placed on the Union Calendar, Calendar No. 105.
 - 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-134.
 - 2023-07-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-134.
+- 2023-07-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
