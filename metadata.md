@@ -1,7 +1,7 @@
 ---
 measure: S. 932
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 932
@@ -35,3 +35,18 @@ No CORRUPTION Act
 - 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
 - 2023-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2962; text: CR S2962)
 - 2023-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3962; text: CR S3962)
+- 2023-07-18 — Held at the desk.
+- 2023-07-18 — Message on Senate action sent to the House.
+- 2023-07-18 — Received in the House.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7151-7153)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 932.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7151-7152)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7151-7152)
+- 2024-12-23 — Became Public Law No: 118-192.
+- 2024-12-23 — Became Public Law No: 118-192.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
