@@ -11,17 +11,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Department of Veterans Affairs Office of Inspector General Training Act of 2023”.
+This Act may be cited as the “Department of Veterans Affairs Office of Inspector General Training Act of 2023 ”.
 
 ## § 2. Department of Veterans Affairs employee training regarding Office of Inspector General
 
-- **(a)** *Training* The Secretary of Veterans Affairs shall require each employee of the Department of Veterans Affairs who begins employment with the Department on or after the date of the enactment of this Act to receive training that the Inspector General of the Department shall develop on the reporting of wrongdoing to, responding to requests from, and cooperating with the Office of Inspector General of the Department.
+- **(a)** *Training* The Secretary of Veterans Affairs shall require each employee of the Department of Veterans Affairs who begins employment with the Department on or after the date of the enactment of this Act to receive training that the Inspector General of the Department shall develop on the reporting of wrongdoing to, responding to requests from, and the duty of cooperating with the Office of Inspector General of the Department.
 - **(b)** *Timing of training* In carrying out subsection (a), the Secretary shall require each employee of the Department covered under such subsection to undergo the training required by such subsection not later than one year after the date on which the employee begins employment with the Department.
 - **(c)** *Elements* Training developed and required under subsection (a) shall include the following:
   - **(1)** Definition of the role, responsibilities, and legal authority of the Inspector General of the Department and the duties of employees of the Department for engaging with the Office of Inspector General.
-  - **(2)** Identification of the circumstances and mechanisms for reporting fraud, waste, abuse, and other wrongdoing to the Inspector General, including making confidential complaints to the Inspector General.
-  - **(3)** Identification of the prohibitions and remedies that help to protect employees of the Department from retaliation when reporting wrongdoing to the Inspector General.
-  - **(4)** Recognition of opportunities to engage with staff of the Office of Inspector General to improve programs, operations, and services of the Department.
+  - **(2)** Identification of Federal whistleblower protection rights, including the right to report fraud, waste, abuse, and other wrongdoing to Congress.
+  - **(3)** Identification of the circumstances and mechanisms for reporting fraud, waste, abuse, and other wrongdoing to the Inspector General, including making confidential complaints to the Inspector General.
+  - **(4)** Identification of the prohibitions and remedies that help to protect employees of the Department from retaliation when reporting wrongdoing to the Inspector General.
+  - **(5)** Recognition of opportunities to engage with staff of the Office of Inspector General to improve programs, operations, and services of the Department.
+  - **(6)** Notification of the authority of the Inspector General to subpoena the attendance and testimony of witnesses, including former employees of the Department, as necessary to carry out the duties of the Office of Inspector General under section 312 of title 38, United States Code.
 - **(d)** *Design and update* The Inspector General of the Department shall design, and update as the Inspector General considers appropriate, the training developed and required by subsection (a).
 - **(e)** *System* The Secretary shall provide, via the talent management system of the Department, or successor system, the training developed and required under subsection (a).
 - **(f)** *Relation to certain training* The Secretary shall ensure that training developed and required under subsection (a) is separate and distinct from training provided under section 733 of title 38, United States Code.
