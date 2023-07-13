@@ -1,7 +1,7 @@
 ---
 measure: S. 932
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 932
@@ -33,3 +33,5 @@ No CORRUPTION Act
 - 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-37.
 - 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-37.
 - 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
+- 2023-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2962; text: CR S2962)
+- 2023-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3962; text: CR S3962)
