@@ -1,7 +1,7 @@
 ---
 measure: S. 475
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 475
@@ -28,3 +28,7 @@ A bill to designate the clinic of the Department of Veterans Affairs in Gallup, 
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-07-13 — Passed Senate without amendment by Unanimous Consent. (text CR S2962)
+- 2023-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text CR S3962)
+- 2023-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S2962)
+- 2023-07-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S3962)
