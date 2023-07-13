@@ -1,7 +1,7 @@
 ---
 measure: S. 112
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 112
@@ -39,3 +39,5 @@ A bill to amend title 38, United States Code, to strengthen benefits for childre
 - 2023-06-14 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2023-06-14 — Committee on Veterans' Affairs. Reported by Senator Tester without amendment. Without written report.
 - 2023-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 101.
+- 2023-07-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2963; text: CR S2963-2964)
+- 2023-07-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2963; text: CR S2963-2964)
