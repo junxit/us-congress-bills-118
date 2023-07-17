@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 4677
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4677
+
+> To provide additional Federal flexibility to enhance the development and deployment of advanced nuclear reactor technology, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Leverage Obligated appropriations for Advanced Nuclear Act” or the “LOAN Act”.
+
+## § 2. Temporary exception to the denial of double benefit for certain loan guarantees related to the Advanced Reactor Demonstration Program
+
+- **(a)** *Funding for department of energy loan programs office* Section 50141(d)(3) of the Public Law 117–169 is amended—
+  - **(1)** in subparagraph (C), by striking the “or” at the end;
+  - **(2)** in subparagraph (D), by striking “guarantee.” and inserting “guarantee; or”; and
+  - **(3)** by adding at the end the following:
+    > - **(E)** during the period of 15 years that begins on the date of enactment of the LOAN Act, demonstration projects carried out under the program established under section 959A(b) of the Energy Policy Act of 2005 (42 U.S.C. 16279a(b)).
+
+- **(b)** *Omnibus Appropriations Act, 2009* The 9th proviso in the matter under the heading “Department of Energy, Title 17 Innovative Technology Loan Guarantee Authority Loan Program”, in title III of division C of Public Law 111–8, is amended—
+  - **(1)** by striking “or (d) for electric generation projects” and inserting “(d) for electric generation projects”; and
+  - **(2)** by inserting “; or (e) during the period of 15 years that begins on the date of enactment of the LOAN Act, demonstration projects carried out under the program established under section 959A(b) of the Energy Policy Act of 2005 (42 U.S.C. 16279a(b))” after “independent of the project receiving the guarantee”.
+- **(c)** *Department of Defense and Full-Year Continuing Appropriations Act, 2011* Section 1425 of the Department of Defense and Full-Year Continuing Appropriations Act, 2011 is amended—
+  - **(1)** by striking “or (4) electric generation projects” and inserting “(4) electric generation projects”; and
+  - **(2)** by inserting “; or (5) during the period of 15 years that begins on the date of enactment of the LOAN Act, demonstration projects carried out under the program established under section 959A(b) of the Energy Policy Act of 2005 (42 U.S.C. 16279a(b))” after “independent of the project receiving the guarantee”.
+
+## § 3. Eligibility of advanced reactor demonstration projects for certain loan guarantees
+
+- **(a)** *Incentives for innovative technologies* Section 1703(b) of the Energy Policy Act of 2005 (42 U.S.C. 16513(b)) is amended by adding at the end the following:
+  > - **(14)** During the period of 15 years that begins on the date of enactment of the LOAN Act, demonstration projects carried out under the program established under section 959A(b).
+
+- **(b)** *Energy infrastructure reinvestment financing* Section 1706(b) of the Energy Policy Act of 2005 (42 U.S.C. 16517(b)) is amended by inserting “and, during the period of 15 years that begins on the date of enactment of the LOAN Act, a demonstration project carried out under the program established under section 959A(b)” after “energy infrastructure”.
