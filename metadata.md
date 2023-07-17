@@ -1,7 +1,7 @@
 ---
 measure: H.R. 813
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 813
@@ -28,6 +28,10 @@ Global Investment in American Jobs Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2023-07-17 — [House 118-1-330](votes/house-118-1-0330.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (386–22)
+
 ## Actions
 
 - 2023-02-02 — Introduced in House
@@ -41,3 +45,11 @@ Global Investment in American Jobs Act of 2023
 - 2023-07-11 — Placed on the Union Calendar, Calendar No. 108.
 - 2023-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-137.
 - 2023-07-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-137.
+- 2023-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-07-17 — Considered as unfinished business. (consideration: CR H3628)
+- 2023-07-17 — Considered under suspension of the rules. (consideration: CR H3624-3626)
+- 2023-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 813.
+- 2023-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-17 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2023-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 22 (Roll no. 330). (text: CR H3624)
+- 2023-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 22 (Roll no. 330). (text: CR H3624)
