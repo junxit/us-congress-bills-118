@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 57
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 57
@@ -16,7 +16,7 @@ Expressing the sense of Congress supporting the State of Israel.
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (25)
+## Cosponsors (45)
 
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Miller, Max L. [R-OH-7] (M001222)
@@ -43,11 +43,35 @@ Expressing the sense of Congress supporting the State of Israel.
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Thanedar, Shri [D-MI-13] (T000488)
 
 ## Committees (2)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2023-07-18 — [House 118-1-338](votes/house-118-1-0338.md) — On Motion to Suspend the Rules and Agree — **Passed** (412–9)
 
 ## Actions
 
@@ -55,3 +79,11 @@ Expressing the sense of Congress supporting the State of Israel.
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-07-17 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-07-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-07-18 — Considered as unfinished business. (consideration: CR  H3684-3685)
+- 2023-07-18 — Considered under suspension of the rules. (consideration: CR H3670-3673)
+- 2023-07-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 57.
+- 2023-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-18 — Mr. McCaul moved to suspend the rules and agree to the resolution.
+- 2023-07-18 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 9, 1 Present (Roll no. 338). (text: CR H3670)
+- 2023-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 9, 1 Present (Roll no. 338). (text: CR H3670)
