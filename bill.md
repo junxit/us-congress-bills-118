@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Chairman of the Federal Maritime Commission to seek to enter into an agreement with a federally funded research and development center to evaluate foreign ownership of marine terminals at the 15 largest United States container ports, and for other purposes.
 
-## § 1. Study on foreign ports
+## § 1. Short title
+
+This Act may be cited as the “U.S. Supply Chain Security Review Act of 2023”.
+
+## § 2. Study on foreign ports
 
 - **(a)** *In general* Not later than 90 days after the date of enactment of this Act, the Chairman of the Federal Maritime Commission shall seek to enter into an agreement with a federally funded research and development center to evaluate how foreign ownership of marine terminals at the 15 largest United States container ports affects or could affect United States economic security.
 - **(b)** *Contents* In carrying out the study under subsection (a), the center selected under such subsection shall—
