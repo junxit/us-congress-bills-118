@@ -1,7 +1,7 @@
 ---
 measure: S. 70
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 70
@@ -37,3 +37,6 @@ Tribal Trust Land Homeownership Act of 2023
 - 2023-05-30 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-33.
 - 2023-05-30 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-33.
 - 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
+- 2023-06-13 — Committee on Banking, Housing, and Urban Affairs Senate Subcommittee on Housing, Transportation, and Community Development. Hearings held. With printed Hearing: S.Hrg. 118-452.
+- 2023-07-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3118-3120; text: CR S3119-3120)
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3118-3120; text: CR S3119-3120)
