@@ -1,7 +1,7 @@
 ---
 measure: S. 460
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 460
@@ -33,3 +33,5 @@ Urban Indian Health Confer Act
 - 2023-05-30 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-34.
 - 2023-05-30 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-34.
 - 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
+- 2023-07-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3120; text: CR S3120)
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3120; text: CR S3120)
