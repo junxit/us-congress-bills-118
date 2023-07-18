@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4693
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4693
+
+> To provide that the Federal Reports Elimination and Sunset Act of 1995 does not apply to certain reports required to be submitted by the Tennessee Valley Authority, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tennessee Valley Authority Salary Transparency Act”.
+
+## § 2. Exception to report elimination; salary disclosure
+
+- **(a)** *Application of law* Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under section 9(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831h(a)).
+- **(b)** *Salary disclosure amount* Section 9(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831h(a)) is amended by striking “$1,500 a year” and inserting “the maximum rate of basic pay for grade GS–13 of the General Schedule”.
