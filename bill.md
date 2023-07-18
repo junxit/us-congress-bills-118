@@ -29,4 +29,4 @@ This Act may be cited as the “Major Richard Star Act”.
       - **(ii)** by striking subparagraphs (A) and (B);
     - **(B)** by striking subsection (c) and redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and
     - **(C)** in subsection (d), as redesignated, by striking paragraphs (3) and (4).
-- **(c)** *Effective date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after that date.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after such date.
