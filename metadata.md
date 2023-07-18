@@ -1,7 +1,7 @@
 ---
 measure: S. 1308
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1308
@@ -32,3 +32,5 @@ A bill to amend the Indian Self-Determination and Education Assistance Act to ex
 - 2023-06-08 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-38.
 - 2023-06-08 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-38.
 - 2023-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 90.
+- 2023-07-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3120; text CR S3120)
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3120; text CR S3120)
