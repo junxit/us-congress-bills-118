@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 246
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 246
@@ -28,3 +28,7 @@ A resolution honoring the men and women of the Drug Enforcement Administration o
 
 - 2023-06-13 — Introduced in Senate
 - 2023-06-13 — Referred to the Committee on the Judiciary.
+- 2023-07-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3121; text: 6/13/2023 CR S2073-2074)
+- 2023-07-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3121; text: 6/13/2023 CR S2073-2074)
+- 2023-07-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-07-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
