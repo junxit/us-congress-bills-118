@@ -54,3 +54,7 @@ In this Act:
   - **(2)** An analysis of causes for the suspension or removal of entities from participating in CTPAT as a result of security incidents during that 5-year period.
   - **(3)** An analysis of the number of active CTPAT participants involved in one or more security incidents while maintaining their status as participants.
   - **(4)** Recommendations to the Commissioner of U.S. Customs and Border Protection for improvements to CTPAT to improve prevention of security incidents in the cargo supply chain involving participants in CTPAT.
+
+## § 5. No additional funds authorized
+
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act.

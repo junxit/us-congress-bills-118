@@ -1,7 +1,7 @@
 ---
 measure: S. 794
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 794
@@ -34,3 +34,13 @@ CTPAT Pilot Program Act of 2023
 - 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-27.
 - 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-27.
 - 2023-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.
+- 2023-07-18 — 
+- 2023-07-18 — Amendment SA 934 agreed to in Senate by Unanimous Consent.
+- 2023-07-18 — Amendment SA 934 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S3118) To specify that no additional funds are authorized to be appropriated for the purpose of carrying out the Act.
+- 2023-07-18 — Measure laid before Senate by unanimous consent. (consideration: CR S3118; text: CR S3118)
+- 2023-07-18 — Passed Senate with an amendment by Unanimous Consent.
+- 2023-07-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2023-07-18 — Senate amendment agreed to: Amendment SA 934 agreed to in Senate by Unanimous Consent.
+- 2023-07-18 — Senate amendment proposed (on the floor): Amendment SA 934 proposed by Senator Schumer for Senator Cornyn.(consideration: CR S3118)
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
