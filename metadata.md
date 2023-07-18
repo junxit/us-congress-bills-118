@@ -1,7 +1,7 @@
 ---
 measure: H.R. 813
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 813
@@ -24,9 +24,10 @@ Global Investment in American Jobs Act of 2023
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Global Investment in American Jobs Act of 2023
 - 2023-07-17 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2023-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 22 (Roll no. 330). (text: CR H3624)
 - 2023-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 22 (Roll no. 330). (text: CR H3624)
+- 2023-07-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
