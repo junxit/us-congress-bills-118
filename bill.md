@@ -15,4 +15,4 @@ This Act may be cited as the “Protecting and Securing Chemical Facilities from
 
 ## § 2. Extension of authorization of Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security
 
-Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “July 27, 2023” and inserting “September 30, 2025”.
+Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “2023” and inserting “2025”.

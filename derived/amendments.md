@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 6 U.S.C. § 621
 
-> Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “July 27, 2023” and inserting “September 30, 2025”.
+> Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (Public Law 113–254; 6 U.S.C. 621 note) is amended by striking “2023” and inserting “2025”.
 
 | | |
 |---|---|
-| Removed | `July 27, 2023` |
-| Inserted | `September 30, 2025` |
+| Removed | `2023` |
+| Inserted | `2025` |
