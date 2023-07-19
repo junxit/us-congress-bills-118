@@ -1,7 +1,7 @@
 ---
 measure: S. 534
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 534
@@ -28,3 +28,7 @@ Buffalo Tract Protection Act
 
 - 2023-02-27 — Introduced in Senate
 - 2023-02-27 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-07-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-63.
+- 2023-07-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-63.
+- 2023-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 137.
