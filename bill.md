@@ -17,12 +17,12 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
 
 - **(a)** *Prohibition on agency operation or procurement* Except as provided in subsection (b) and subsection (c)(3), the Secretary of Homeland Security may not operate, provide financial assistance for, or enter into or renew a contract for the procurement of—
   - **(1)** an unmanned aircraft system (UAS) that—
-    - **(A)** is manufactured in a covered foreign country or by a corporation domiciled in a covered foreign country;
-    - **(B)** uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by a corporation domiciled in a covered foreign country;
-    - **(C)** uses a ground control system or operating software developed in a covered foreign country or by a corporation domiciled in a covered foreign country; or
-    - **(D)** uses network connectivity or data storage located in a covered foreign country or administered by a corporation domiciled in a covered foreign country;
-  - **(2)** a software operating system associated with a UAS that uses network connectivity or data storage located in a covered foreign country or administered by a corporation domiciled in a covered foreign country; or
-  - **(3)** a system for the detection or identification of a UAS, which system is manufactured in a covered foreign country or by a corporation domiciled in a covered foreign country.
+    - **(A)** is manufactured in a covered foreign country or by a business entity domiciled in a covered foreign country;
+    - **(B)** uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by a business entity domiciled in a covered foreign country;
+    - **(C)** uses a ground control system or operating software developed in a covered foreign country or by a business entity domiciled in a covered foreign country; or
+    - **(D)** uses network connectivity or data storage located in a covered foreign country or administered by a business entity domiciled in a covered foreign country;
+  - **(2)** a software operating system associated with a UAS that uses network connectivity or data storage located in a covered foreign country or administered by a business entity domiciled in a covered foreign country; or
+  - **(3)** a system for the detection or identification of a UAS, which system is manufactured in a covered foreign country or by a business entity domiciled in a covered foreign country.
 - **(b)** *Waiyer*
   - **(1)** *In general* The Secretary of Homeland Security is authorized to waive the prohibition under subsection (a) if the Secretary certifies in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS described in any of paragraphs (1) through (3) of such subsection that is the subject of such a waiver is required—
     - **(A)** in the national interest of the United States;
@@ -42,8 +42,9 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
   - **(2)** The number of UAS, software operating systems associated with a UAS, or systems for the detection or identification of a UAS described in any of paragraphs (1) through (3) of subsection (a) in operation by the Department, including an identification of the component or office of the Department at issue, as of such date.
   - **(3)** The extent to which information gathered by a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS described in any of paragraphs (1) through (3) of subsection (a) could be employed to harm the national or economic security of the United States.
 - **(e)** *Definitions* In this section:
-  - **(1)** *Covered foreign country* The term “covered foreign country” means a country that—
+  - **(1)** *Business entity* The term “business entity” has the meaning given such term in section 334 of the Graham-Leach-Bliley Act (15 U.S.C. 6764).
+  - **(2)** *Covered foreign country* The term “covered foreign country” means a country that—
     - **(A)** the intelligence community has identified as a foreign adversary in its most recent Annual Threat Assessment; or
     - **(B)** the Secretary of Homeland Security, in coordination with the Director of National Intelligence, has identified as a foreign adversary that is not included in such Annual Threat Assessment.
-  - **(2)** *Intelligence community* The term “intelligence community” has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
-  - **(3)** *Unmanned aircraft system; UAS* The terms “unmanned aircraft system” and “UAS” have the meaning given the term “unmanned aircraft system” in section 44801 of title 49, United States Code.
+  - **(3)** *Intelligence community* The term “intelligence community” has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
+  - **(4)** *Unmanned aircraft system; UAS* The terms “unmanned aircraft system” and “UAS” have the meaning given the term “unmanned aircraft system” in section 44801 of title 49, United States Code.
