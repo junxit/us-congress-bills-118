@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4754
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4754
+
+> To amend the Radiation Exposure Compensation Act to include certain communities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Downwinders Parity Act of 2023”.
+
+## § 2. Inclusion under the radiation exposure compensation act
+
+Section 4(b)(1) of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note; Public Law 101–426) is amended—
+
+- **(1)** in subparagraph (B)—
+  - **(A)** by striking “that portion of”; and
+  - **(B)** by striking “that consists of townships 13 through 16 at ranges 63 through 71”; and
+- **(2)** in subparagraph (C), by inserting “all acreage in any county all or part of which is located in” before “that part”.
+
+## § 3. Report
+
+Within 60 days after the date of enactment of this Act, the Attorney General shall submit to the relevant committees of the House of Representatives and of the Senate a report that outlines efforts to educate and conduct outreach to persons made newly eligible for benefits under the amendments made by section 2 of this Act.
