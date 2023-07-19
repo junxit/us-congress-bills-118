@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 57
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 57
@@ -64,10 +64,11 @@ Expressing the sense of Congress supporting the State of Israel.
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -87,3 +88,4 @@ Expressing the sense of Congress supporting the State of Israel.
 - 2023-07-18 — Mr. McCaul moved to suspend the rules and agree to the resolution.
 - 2023-07-18 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 9, 1 Present (Roll no. 338). (text: CR H3670)
 - 2023-07-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 9, 1 Present (Roll no. 338). (text: CR H3670)
+- 2023-07-19 — Received in the Senate and referred to the Committee on Foreign Relations.
