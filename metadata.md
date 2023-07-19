@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3254
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3254
@@ -29,3 +29,8 @@ First Responder Access to Innovative Technologies Act
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Referred to the House Committee on Homeland Security.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported by Voice Vote.
+- 2023-07-19 — Placed on the Union Calendar, Calendar No. 120.
+- 2023-07-19 — Reported by the Committee on Homeland Security. H. Rept. 118-152.
+- 2023-07-19 — Reported by the Committee on Homeland Security. H. Rept. 118-152.
