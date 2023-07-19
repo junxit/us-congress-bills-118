@@ -27,8 +27,9 @@ This Act may be cited as the “Schools Not Shelters Act”.
   - **(5)** The term “shelter or housing”—
     - **(A)** means emergency shelter or housing provided exclusively to specified aliens under order of the Federal Government, a State, or a unit of local government; and
     - **(B)** does not include short-term emergency shelter made necessary by a specified disaster.
-  - **(6)** The term “specified alien” means an alien (as defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))) who has not been admitted (as so defined).
-  - **(7)** The term “specified disaster” means—
+  - **(6)** The term “short-term” means for a duration not to exceed 72 hours.
+  - **(7)** The term “specified alien” means an alien (as defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))) who has not been admitted (as so defined).
+  - **(8)** The term “specified disaster” means—
     - **(A)** a fire on public or private forest land or grassland described in section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187); and
     - **(B)** any fire, flood, explosion, hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought for which a disaster declaration is made by the Federal Government or a State.
-  - **(8)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+  - **(9)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
