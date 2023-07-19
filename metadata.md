@@ -1,7 +1,7 @@
 ---
 measure: S. 683
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 683
@@ -28,3 +28,7 @@ Berryessa Snow Mountain National Monument Expansion Act
 
 - 2023-03-07 — Introduced in Senate
 - 2023-03-07 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S670-671)
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-07-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-64.
+- 2023-07-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-64.
+- 2023-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
