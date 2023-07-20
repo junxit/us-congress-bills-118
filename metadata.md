@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3941
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3941
@@ -25,9 +25,10 @@ Schools Not Shelters Act
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -73,3 +74,4 @@ Schools Not Shelters Act
 - 2023-07-19 — On motion to recommit Failed by the Yeas and Nays: 200 - 212 (Roll no. 339).
 - 2023-07-19 — On passage Passed by the Yeas and Nays: 222 - 201 (Roll no. 340).
 - 2023-07-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 201 (Roll no. 340).
+- 2023-07-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
