@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3935
@@ -27,6 +27,33 @@ FAA Reauthorization Act of 2024
 - House — Transportation and Infrastructure Committee
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (24)
+
+- 2023-07-19 — [House 118-1-341](votes/house-118-1-0341.md) — On Agreeing to the Amendment — **Agreed to** (243–191)
+- 2023-07-19 — [House 118-1-342](votes/house-118-1-0342.md) — On Agreeing to the Amendment — **Failed** (203–231)
+- 2023-07-19 — [House 118-1-343](votes/house-118-1-0343.md) — On Agreeing to the Amendment — **Agreed to** (392–41)
+- 2023-07-19 — [House 118-1-344](votes/house-118-1-0344.md) — On Agreeing to the Amendment — **Failed** (193–236)
+- 2023-07-19 — [House 118-1-345](votes/house-118-1-0345.md) — On Agreeing to the Amendment — **Failed** (177–258)
+- 2023-07-19 — [House 118-1-346](votes/house-118-1-0346.md) — On Agreeing to the Amendment — **Failed** (141–294)
+- 2023-07-19 — [House 118-1-347](votes/house-118-1-0347.md) — On Agreeing to the Amendment — **Agreed to** (220–215)
+- 2023-07-19 — [House 118-1-348](votes/house-118-1-0348.md) — On Agreeing to the Amendment — **Failed** (214–219)
+- 2023-07-19 — [House 118-1-349](votes/house-118-1-0349.md) — On Agreeing to the Amendment — **Failed** (211–224)
+- 2023-07-19 — [House 118-1-350](votes/house-118-1-0350.md) — On Agreeing to the Amendment — **Agreed to** (240–195)
+- 2023-07-19 — [House 118-1-351](votes/house-118-1-0351.md) — On Agreeing to the Amendment — **Failed** (49–386)
+- 2023-07-19 — [House 118-1-352](votes/house-118-1-0352.md) — On Agreeing to the Amendment — **Failed** (216–219)
+- 2023-07-19 — [House 118-1-353](votes/house-118-1-0353.md) — On Agreeing to the Amendment — **Failed** (181–254)
+- 2023-07-19 — [House 118-1-354](votes/house-118-1-0354.md) — On Agreeing to the Amendment — **Agreed to** (229–205)
+- 2023-07-19 — [House 118-1-355](votes/house-118-1-0355.md) — On Agreeing to the Amendment — **Failed** (191–244)
+- 2023-07-19 — [House 118-1-356](votes/house-118-1-0356.md) — On Agreeing to the Amendment — **Failed** (206–227)
+- 2023-07-19 — [House 118-1-357](votes/house-118-1-0357.md) — On Agreeing to the Amendment — **Failed** (205–229)
+- 2023-07-19 — [House 118-1-358](votes/house-118-1-0358.md) — On Agreeing to the Amendment — **Failed** (127–308)
+- 2023-07-19 — [House 118-1-359](votes/house-118-1-0359.md) — On Agreeing to the Amendment — **Failed** (52–381)
+- 2023-07-19 — [House 118-1-360](votes/house-118-1-0360.md) — On Agreeing to the Amendment — **Failed** (45–387)
+- 2023-07-20 — [House 118-1-361](votes/house-118-1-0361.md) — On Agreeing to the Amendment — **Agreed to** (348–57)
+- 2023-07-20 — [House 118-1-362](votes/house-118-1-0362.md) — On Agreeing to the Amendment — **Failed** (64–329)
+- 2023-07-20 — [House 118-1-363](votes/house-118-1-0363.md) — On Agreeing to the Amendment — **Failed** (195–226)
+- 2023-07-20 — [House 118-1-364](votes/house-118-1-0364.md) — On Passage — **Passed** (351–69)
+
 ## Actions
 
 - 2023-06-09 — Introduced in House
@@ -40,3 +67,282 @@ FAA Reauthorization Act of 2024
 - 2023-07-11 — Placed on the Union Calendar, Calendar No. 109.
 - 2023-07-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-138.
 - 2023-07-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-138.
+- 2023-07-18 — Rules Committee Resolution H. Res. 597 Reported to House. Rule provides for consideration of H.R. 3935 and H.R. 3941. The resolution provides for consideration of H.R. 3935 and H.R. 3941 both under a structured rule with one hour of general debate. The resolution provides for a motion to recommit on each measure.
+- 2023-07-19 — Amendment (A001) offered by Mr. Graves (MO). (consideration: CR H3802-3805; text: CR H3802-3805)
+- 2023-07-19 — Amendment (A005) offered by Mr. Langworthy. (consideration: CR H3814-3816, H3841; text: CR H3814)
+- 2023-07-19 — Amendment (A006) offered by Mr. Donalds. (consideration: CR H3816-3817; text: CR H3816)
+- 2023-07-19 — Amendment (A007) offered by Mr. Feenstra. (consideration: CR H3817, H3841; text: CR H3817)
+- 2023-07-19 — Amendment (A008) offered by Mr. Fitzpatrick. (consideration: CR H3817-3818, H3842-3843; text: CR H3817)
+- 2023-07-19 — Amendment (A009) offered by Mr. Gosar. (consideration: CR H3818-3819, H3843; text: CR H3818)
+- 2023-07-19 — Amendment (A010) offered by Mrs. Miller (IL). (consideration: CR H3819-3820, H3843-3844; text: CR H3819-3820)
+- 2023-07-19 — Amendment (A011) offered by Mrs. Miller (IL). (consideration: CR H3820, H3844-3845; text: CR H3820)
+- 2023-07-19 — Amendment (A012) offered by Mr. Huizenga. (consideration: CR H3820-3822, H3845; text: CR H3820)
+- 2023-07-19 — Amendment (A013) offered by Mr. Issa. (consideration: CR H3822-3823, H3845-3846; text: CR H3822)
+- 2023-07-19 — Amendment (A014) offered by Mr. Jackson (TX). (consideration: CR H3823-3824, H3846-3847; text: CR H3823)
+- 2023-07-19 — Amendment (A015) offered by Mr. Kean (NJ). (consideration: CR H3824-3825, H3847; text: CR H3824)
+- 2023-07-19 — Amendment (A016) offered by Mr. LaMalfa. (consideration: CR H3825-3826; text: CR H3825)
+- 2023-07-19 — Amendment (A017) offered by Mr. McClintock. (consideration: CR H3826-3828, H3847-3848; text: CR H3826)
+- 2023-07-19 — Amendment (A018) offered by Mrs. Miller (IL). (consideration: CR H3828, H3848-3849; text: CR H3828)
+- 2023-07-19 — Amendment (A019) offered by Mrs. Miller (IL). (consideration: CR H3828-3829, H3849; text: CR H3828)
+- 2023-07-19 — Amendment (A020) offered by Mr. Obernolte. (consideration: CR H3829-3830; text: CR H3829)
+- 2023-07-19 — Amendment (A021) offered by Mr. Obernolte. (consideration: CR H3830-3831, H3849-3850; text: CR H3830)
+- 2023-07-19 — Amendment (A022) offered by Mr. Ogles. (consideration: CR H3831-3832, H3850-3851; text: CR H3831)
+- 2023-07-19 — Amendment (A023) offered by Mr. Ogles. (consideration: CR H3832-3833, H3851; text: CR H3832)
+- 2023-07-19 — Amendment (A024) offered by Mr. Owens. (consideration: CR H3833-3835, H3851-3852; text: CR H3833)
+- 2023-07-19 — Amendment (A025) offered by Mr. Perry. (consideration: CR H3835-3836, H3852-3853; text: CR H3835)
+- 2023-07-19 — Amendment (A026) offered by Mr. Perry. (consideration: CR H3836-3837, H3853; text: CR H3836)
+- 2023-07-19 — Amendment (A027) offered by Mr. Perry. (consideration: CR H3837-3838, H3853-3854; text: CR H3837)
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment agreed to Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendment failed in Committee of the Whole
+- 2023-07-19 — Amendments en bloc (A002) offered by Mr. Graves (MO). (consideration: CR H3806-3808; text: CR H3806-3808)
+- 2023-07-19 — Amendments en bloc (A003) offered by Mr. Graves (MO). (consideration: CR H3808-3810; text: CR H3808-3810)
+- 2023-07-19 — Amendments en bloc (A004) offered by Mr. Graves (MO). (consideration: CR H3810-3814; text: CR H3810-3814)
+- 2023-07-19 — Committee of the Whole House on the state of the Union rises leaving H.R. 3935 as unfinished business.
+- 2023-07-19 — Committee of the Whole House on the state of the Union rises leaving H.R. 3935 as unfinished business.
+- 2023-07-19 — Considered as unfinished business. (consideration: CR H3840-3854)
+- 2023-07-19 — Considered under the provisions of rule H. Res. 597. (consideration: CR H3707-3839)
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. R. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson (TX) amendment No. 48.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Donalds amendment No. 23.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Feenstra amendment No. 27.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 29.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 33.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment No. 1.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 44.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment No. 47.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Kean (NJ) amendment No. 50.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 53.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Langworthy amendment No. 10.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 62.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 35.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 36.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 64.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 65.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Obernolte amendment No. 67.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Obernolte amendment No. 68.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 69.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 70.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Owens amendment No. 71.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 73.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 74.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 75.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 30 minutes of debate on the Graves (MO) amendment en bloc No. 1.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 30 minutes of debate on the Graves (MO) amendment en bloc No. 2.
+- 2023-07-19 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 30 minutes of debate on the Graves (MO) amendment en bloc No. 3.
+- 2023-07-19 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3935.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Donalds amendment (A006) Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Fitzpatrick amendment (A008) Agreed to by recorded vote: 392 - 41 (Roll no. 343).
+- 2023-07-19 — House amendment agreed to: On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Huizenga amendment (A012) Agreed to by recorded vote: 220 - 215 (Roll no. 347).
+- 2023-07-19 — House amendment agreed to: On agreeing to the Kean (NJ) amendment (A015) Agreed to by recorded vote: 240 - 195 (Roll no. 350).
+- 2023-07-19 — House amendment agreed to: On agreeing to the LaMalfa amendment (A016) Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Langworthy amendment (A005) Agreed to by recorded vote: 243 - 191 (Roll no. 341).
+- 2023-07-19 — House amendment agreed to: On agreeing to the Obernolte amendment (A020) Agreed to by voice vote.
+- 2023-07-19 — House amendment agreed to: On agreeing to the Obernolte amendment (A021) Agreed to by recorded vote: 229 - 205 (Roll no. 354).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Feenstra amendment (A007) Failed by recorded vote: 203 - 231 (Roll no. 342).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Gosar amendment (A009) Failed by recorded vote: 193 - 236 (Roll no. 344).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Issa amendment (A013) Failed by recorded vote: 214 - 219 (Roll no. 348).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Jackson (TX) amendment (A014) Failed by recorded vote: 211 - 224 (Roll no. 349).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the McClintock amendment (A017) Failed by recorded vote: 49 - 386 (Roll no. 351).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Miller (IL) amendment (A010) Failed by recorded vote: 177 - 258 (Roll no. 345).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Miller (IL) amendment (A011) Failed by recorded vote: 141 - 294 (Roll no. 346).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Miller (IL) amendment (A018) Failed by recorded vote: 216 - 219 (Roll no. 352).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Miller (IL) amendment (A019) Failed by recorded vote: 181 - 254 (Roll no. 353).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Ogles amendment (A022) Failed by recorded vote: 191 - 244 (Roll no. 355).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Ogles amendment (A023) Failed by recorded vote: 206 - 227 (Roll no. 356).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Owens amendment (A024) Failed by recorded vote: 205 - 229 (Roll no. 357).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Perry amendment (A025) Failed by recorded vote: 127 - 308 (Roll no. 358).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Perry amendment (A026) Failed by recorded vote: 52 - 381 (Roll no. 359).
+- 2023-07-19 — House amendment not agreed to: On agreeing to the Perry amendment (A027) Failed by recorded vote: 45 - 387 (Roll no. 360).
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered
+- 2023-07-19 — House amendment offered/reported by: Amendment (A001) offered by Mr. Graves (MO).(consideration: CR H3802-3805; text: CR H3802-3805)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A005) offered by Mr. Langworthy.(consideration: CR H3814-3816, H3841; text: CR H3814)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A006) offered by Mr. Donalds.(consideration: CR H3816-3817; text: CR H3816)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A007) offered by Mr. Feenstra.(consideration: CR H3817, H3841; text: CR H3817)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A008) offered by Mr. Fitzpatrick.(consideration: CR H3817-3818, H3842-3843; text: CR H3817)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A009) offered by Mr. Gosar.(consideration: CR H3818-3819, H3843; text: CR H3818)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A010) offered by Mrs. Miller (IL).(consideration: CR H3819-3820, H3843-3844; text: CR H3819-3820)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A011) offered by Mrs. Miller (IL).(consideration: CR H3820, H3844-3845; text: CR H3820)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A012) offered by Mr. Huizenga.(consideration: CR H3820-3822, H3845; text: CR H3820)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A013) offered by Mr. Issa.(consideration: CR H3822-3823, H3845-3846; text: CR H3822)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A014) offered by Mr. Jackson (TX).(consideration: CR H3823-3824, H3846-3847; text: CR H3823)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A015) offered by Mr. Kean (NJ).(consideration: CR H3824-3825, H3847; text: CR H3824)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A016) offered by Mr. LaMalfa.(consideration: CR H3825-3826; text: CR H3825)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A017) offered by Mr. McClintock.(consideration: CR H3826-3828, H3847-3848; text: CR H3826)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A018) offered by Mrs. Miller (IL).(consideration: CR H3828, H3848-3849; text: CR H3828)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A019) offered by Mrs. Miller (IL).(consideration: CR H3828-3829, H3849; text: CR H3828)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A020) offered by Mr. Obernolte.(consideration: CR H3829-3830; text: CR H3829)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A021) offered by Mr. Obernolte.(consideration: CR H3830-3831, H3849-3850; text: CR H3830)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A022) offered by Mr. Ogles.(consideration: CR H3831-3832, H3850-3851; text: CR H3831)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A023) offered by Mr. Ogles.(consideration: CR H3832-3833, H3851; text: CR H3832)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A024) offered by Mr. Owens.(consideration: CR H3833-3835, H3851-3852; text: CR H3833)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A025) offered by Mr. Perry.(consideration: CR H3835-3836, H3852-3853; text: CR H3835)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A026) offered by Mr. Perry.(consideration: CR H3836-3837, H3853; text: CR H3836)
+- 2023-07-19 — House amendment offered/reported by: Amendment (A027) offered by Mr. Perry.(consideration: CR H3837-3838, H3853-3854; text: CR H3837)
+- 2023-07-19 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. Graves (MO).(consideration: CR H3806-3808; text: CR H3806-3808)
+- 2023-07-19 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. Graves (MO).(consideration: CR H3808-3810; text: CR H3808-3810)
+- 2023-07-19 — House amendment offered/reported by: Amendments en bloc (A004) offered by Mr. Graves (MO).(consideration: CR H3810-3814; text: CR H3810-3814)
+- 2023-07-19 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 597 and Rule XVIII.
+- 2023-07-19 — Mr. Graves (MO) moved that the committee rise.
+- 2023-07-19 — Mr. Perry moved that the committee rise.
+- 2023-07-19 — On agreeing to the Donalds amendment (A006) Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Feenstra amendment (A007) Failed by recorded vote: 203 - 231 (Roll no. 342).
+- 2023-07-19 — On agreeing to the Fitzpatrick amendment (A008) Agreed to by recorded vote: 392 - 41 (Roll no. 343).
+- 2023-07-19 — On agreeing to the Gosar amendment (A009) Failed by recorded vote: 193 - 236 (Roll no. 344).
+- 2023-07-19 — On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Graves (MO) amendments Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Huizenga amendment (A012) Agreed to by recorded vote: 220 - 215 (Roll no. 347).
+- 2023-07-19 — On agreeing to the Issa amendment (A013) Failed by recorded vote: 214 - 219 (Roll no. 348).
+- 2023-07-19 — On agreeing to the Jackson (TX) amendment (A014) Failed by recorded vote: 211 - 224 (Roll no. 349).
+- 2023-07-19 — On agreeing to the Kean (NJ) amendment (A015) Agreed to by recorded vote: 240 - 195 (Roll no. 350).
+- 2023-07-19 — On agreeing to the LaMalfa amendment (A016) Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Langworthy amendment (A005) Agreed to by recorded vote: 243 - 191 (Roll no. 341).
+- 2023-07-19 — On agreeing to the McClintock amendment (A017) Failed by recorded vote: 49 - 386 (Roll no. 351).
+- 2023-07-19 — On agreeing to the Miller (IL) amendment (A010) Failed by recorded vote: 177 - 258 (Roll no. 345).
+- 2023-07-19 — On agreeing to the Miller (IL) amendment (A011) Failed by recorded vote: 141 - 294 (Roll no. 346).
+- 2023-07-19 — On agreeing to the Miller (IL) amendment (A018) Failed by recorded vote: 216 - 219 (Roll no. 352).
+- 2023-07-19 — On agreeing to the Miller (IL) amendment (A019) Failed by recorded vote: 181 - 254 (Roll no. 353).
+- 2023-07-19 — On agreeing to the Obernolte amendment (A020) Agreed to by voice vote.
+- 2023-07-19 — On agreeing to the Obernolte amendment (A021) Agreed to by recorded vote: 229 - 205 (Roll no. 354).
+- 2023-07-19 — On agreeing to the Ogles amendment (A022) Failed by recorded vote: 191 - 244 (Roll no. 355).
+- 2023-07-19 — On agreeing to the Ogles amendment (A023) Failed by recorded vote: 206 - 227 (Roll no. 356).
+- 2023-07-19 — On agreeing to the Owens amendment (A024) Failed by recorded vote: 205 - 229 (Roll no. 357).
+- 2023-07-19 — On agreeing to the Perry amendment (A025) Failed by recorded vote: 127 - 308 (Roll no. 358).
+- 2023-07-19 — On agreeing to the Perry amendment (A026) Failed by recorded vote: 52 - 381 (Roll no. 359).
+- 2023-07-19 — On agreeing to the Perry amendment (A027) Failed by recorded vote: 45 - 387 (Roll no. 360).
+- 2023-07-19 — On motion that the committee rise Agreed to by voice vote.
+- 2023-07-19 — On motion that the committee rise Agreed to by voice vote.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the McClintock amendment No. 62, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (SD) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Miller (IL) amendment No. 64, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Miller (IL) amendment No. 65, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Obernolte amendment No. 68, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Ogles amendment No. 69, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Ogles amendment No. 70, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At conclusion of debate on the Owens amendment No. 71, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Feenstra amendment No. 27, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fitzpatrick amendment No. 29, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Fitzpatrick demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 33, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Case demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Huizenga amendment No. 44, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment No. 47, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson (TX) amendment No. 48, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kean (NJ) amendment No. 50, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langworthy amendment No. 10, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Higgins (NY) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller (IL) amendment No. 35, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller (IL) amendment No. 36, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 73, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 74, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 75, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Roll call votes on amendments in House
+- 2023-07-19 — Rule provides for consideration of H.R. 3935 and H.R. 3941. The resolution provides for consideration of H.R. 3935 and H.R. 3941 both under a structured rule with one hour of general debate. The resolution provides for a motion to recommit on each measure.
+- 2023-07-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-07-19 — The Speaker designated the Honorable Andrew R. Garbarino to act as Chairman of the Committee.
+- 2023-07-20 — Amendment (A029) offered by Mr. Perry. (consideration: CR H3868-3869, H3872; text: CR H3868)
+- 2023-07-20 — Amendment (A030) offered by Mr. Perry. (consideration: CR H3869-3871, H3872-3873; text: CR H3869)
+- 2023-07-20 — Amendment agreed to Committee of the Whole
+- 2023-07-20 — Amendment failed in Committee of the Whole
+- 2023-07-20 — Amendment failed in Committee of the Whole
+- 2023-07-20 — Amendments en bloc (A028) offered by Mr. Graves (MO). (consideration: CR H3863-3868, H3871-3872; text: CR H3863-3866)
+- 2023-07-20 — Considered as unfinished business. (consideration: CR H3863-3874)
+- 2023-07-20 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 76.
+- 2023-07-20 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 77.
+- 2023-07-20 — DEBATE - Pursuant to the provisions of H. Res. 597, the Committee of the Whole proceeded with 30 minutes of debate on the Graves (MO) amendment en bloc No. 4.
+- 2023-07-20 — House amendment agreed to: On agreeing to the Graves (MO) amendments Agreed to by recorded vote: 348 - 57 (Roll no. 361).
+- 2023-07-20 — House amendment not agreed to: On agreeing to the Perry amendment (A029) Failed by recorded vote: 64 - 329 (Roll no. 362).
+- 2023-07-20 — House amendment not agreed to: On agreeing to the Perry amendment (A030) Failed by recorded vote: 195 - 226 (Roll no. 363).
+- 2023-07-20 — House amendment offered
+- 2023-07-20 — House amendment offered
+- 2023-07-20 — House amendment offered
+- 2023-07-20 — House amendment offered/reported by: Amendment (A029) offered by Mr. Perry.(consideration: CR H3868-3869, H3872; text: CR H3868)
+- 2023-07-20 — House amendment offered/reported by: Amendment (A030) offered by Mr. Perry.(consideration: CR H3869-3871, H3872-3873; text: CR H3869)
+- 2023-07-20 — House amendment offered/reported by: Amendments en bloc (A028) offered by Mr. Graves (MO).(consideration: CR H3863-3868, H3871-3872; text: CR H3863-3866)
+- 2023-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-20 — On agreeing to the Graves (MO) amendments Agreed to by recorded vote: 348 - 57 (Roll no. 361).
+- 2023-07-20 — On agreeing to the Perry amendment (A029) Failed by recorded vote: 64 - 329 (Roll no. 362).
+- 2023-07-20 — On agreeing to the Perry amendment (A030) Failed by recorded vote: 195 - 226 (Roll no. 363).
+- 2023-07-20 — On passage Passed by the Yeas and Nays: 351 - 69 (Roll no. 364).
+- 2023-07-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Graves (MO) amendment en bloc No. 4, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 76, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Graves (MO) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 77, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Larsen (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-07-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 351 - 69 (Roll no. 364).
+- 2023-07-20 — Roll call votes on amendments in House
+- 2023-07-20 — Roll call votes on amendments in House
+- 2023-07-20 — Roll call votes on amendments in House
+- 2023-07-20 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3935.
+- 2023-07-20 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-07-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-07-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3935.
+- 2023-07-20 — The previous question was ordered pursuant to the rule.
