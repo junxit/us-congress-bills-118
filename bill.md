@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 4838
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4838
+
+> To amend the Specialty Crops Competitiveness Act of 2004 to extend and enhance the specialty crop block grants program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Specialty Crop Security Act of 2023”.
+
+## § 2. Extension and enhancement of specialty crop block grants
+
+- **(a)** *Availability and purpose of grants* Section 101(a) of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note) is amended—
+  - **(1)** by striking “2023” and inserting “2028”; and
+  - **(2)** by inserting “through priorities jointly identified by specialty crop producers, producer groups, and state program administrators,” after “specialty crops,”.
+- **(b)** *Plan requirements* Section 101(e) of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note) is amended to read as follows:
+  > - **(e)** *Plan requirements* The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate—
+  >   - **(1)** how the grant funds will be utilized to enhance the competitiveness of specialty crops; and
+  >   - **(2)** how outreach to, and consultation with, specialty crop stakeholders will be achieved.
+
+- **(c)** *Funding* Section 101(l)(1) of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note) is amended—
+  - **(1)** in subparagraph (D), by striking “and” at the end;
+  - **(2)** in subparagraph (E), by striking “fiscal year 2018 and each fiscal year thereafter.” and inserting “each of fiscal years 2018 through 2023; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(F)** $100,000,000 for fiscal year 2024 and each fiscal year thereafter.
