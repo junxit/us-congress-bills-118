@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2544
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2544
@@ -46,3 +46,9 @@ Securing the U.S. Organ Procurement and Transplantation Network Act
 - 2023-07-11 — Placed on the Union Calendar, Calendar No. 111.
 - 2023-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-140.
 - 2023-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-140.
+- 2023-07-25 — Considered under suspension of the rules. (consideration: CR H3929-3930)
+- 2023-07-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2544.
+- 2023-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-07-25 — Mr. Bucshon moved to suspend the rules and pass the bill.
+- 2023-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
+- 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
