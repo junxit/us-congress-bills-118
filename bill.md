@@ -15,7 +15,7 @@ This Act may be cited as the “Securing Semiconductor Supply Chains Act of 2023
 
 ## § 2. SelectUSA defined
 
-In this Act, the term SelectUSA means the SelectUSA program of the Department of Commerce established by Executive Order 13577 (76 Fed. Reg. 35,715).
+In this Act, the term SelectUSA means the SelectUSA program of the Department of Commerce established by Executive Order No. 13577 (76 Fed. Reg. 35,715).
 
 ## § 3. Findings
 
@@ -46,7 +46,7 @@ Not later than 180 days after the date of the enactment of this Act, the Executi
 
 ## § 5. Report on increasing foreign direct investment in semiconductor-related manufacturing and production
 
-Not later than 2 years after the date of the enactment of this Act, the Executive Director of SelectUSA, in coordination with the Federal Interagency Investment Working Group established by Executive Order 13577 (76 Fed. Reg. 35,715; relating to establishment of the SelectUSA Initiative), shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—
+Not later than 2 years after the date of the enactment of this Act, the Executive Director of SelectUSA, in coordination with the Federal Interagency Investment Working Group established by Executive Order No. 13577 (76 Fed. Reg. 35,715; relating to establishment of the SelectUSA Initiative), shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—
 
 - **(1)** a review of the comments SelectUSA received from State-level economic development organizations under section 4;
 - **(2)** a description of activities SelectUSA is engaged in to increase foreign direct investment in semiconductor-related manufacturing and production; and
@@ -56,4 +56,4 @@ Not later than 2 years after the date of the enactment of this Act, the Executiv
 
 ## § 6. No additional funds
 
-No additional funds are authorized to be appropriated for the purpose of carrying out this Act. The Executive Director of SelectUSA shall carry out this Act using amounts otherwise available to the Executive Director for such purposes.
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
