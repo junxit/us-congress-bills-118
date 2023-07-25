@@ -1,7 +1,7 @@
 ---
 measure: S. 1466
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1466
@@ -28,3 +28,8 @@ Rim of the Valley Corridor Preservation Act
 
 - 2023-05-04 — Introduced in Senate
 - 2023-05-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-07-25 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-76.
+- 2023-07-25 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-76.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 160.
+- 2023-07-25 — Star Print ordered on the measure.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1466
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 507(c) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)) is amended by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 460kk` | replace | Section 507(c) of the National Parks and Recreation Act of 1978 (16 U.S.C. 460kk(c)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
