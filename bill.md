@@ -48,3 +48,23 @@ This Act may be cited as the “Modification to Department of Defense Travel Aut
 - **(b)** *Applicability* Subsection (a) applies without regard to whether—
   - **(1)** the abortion was performed in accordance with Federal or State law; or
   - **(2)** funding for the abortion is permissible under section 1093 of title 10, United States Code.
+
+## § 2. Briefing or report on implementation of certain policies of the Department of Defense relating to abortion
+
+- **(a)** *In general* Not later than July 24, 2023, the Secretary of Defense, in consultation with the Attorney General and the Defense Advisory Committee on Women in the Services, shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing or a report that contains an assessment of the following:
+  - **(1)** The legality of the implementation by the Department of Defense of policies allowing members of the Armed Forces to seek medical procedures that are not covered by the Department, including elective abortions, including with respect to—
+    - **(A)** existing requirements and prohibitions relating to abortion under section 1093 of title 10, United States Code; and
+    - **(B)** the rule submitted by the Department of Health and Human Services relating to “Ensuring Access to Equitable, Affordable, Client-Centered, Quality Family Planning Services” (86 Fed. Reg. 19812; published April 15, 2021).
+  - **(2)** The oversight functions of the Department of Defense in preventing abuse of policies described in paragraph (1).
+  - **(3)** The ability of those polices to cover medical services for late-stage elective abortions after 20 weeks gestation.
+  - **(4)** The approval process necessary for a member of the Armed Forces to request coverage under those policies.
+  - **(5)** The requirement of approval by multiple physicians to be covered under those policies.
+  - **(6)** The applicability of those policies to the family members of members of the Armed Forces.
+  - **(7)** The protections in place for members of the Armed Forces who choose to utilize those policies.
+  - **(8)** The reproductive health care services that are not covered by the Department of Defense that have been accessed pursuant to those policies as of the date of the briefing or report, as the case may be.
+  - **(9)** Whether or not the provisions of S. 822 of the 118th Congress, as introduced on March 15, 2023—
+    - **(A)** return the Department to the standard held before those policies were implemented; and
+    - **(B)** do not restrict access to health care not covered by the Department further than the standard held before those policies were implemented.
+- **(b)** *Protection of personally identifiable information* In providing the briefing or report, as the case may be, required under subsection (a), the Secretary of Defense shall—
+  - **(1)** observe all protections required under the Health Insurance Portability and Accountability Act of 1996 (Public Law 106–191), or any other provision of law; and
+  - **(2)** take any necessary precautions to prevent the disclosure of any personal identifiable information of individuals included within the population assessed for purposes of such briefing or report, as the case may be.

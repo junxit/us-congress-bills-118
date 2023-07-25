@@ -1,7 +1,7 @@
 ---
 measure: S. 822
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 822
@@ -63,3 +63,7 @@ Modification to Department of Defense Travel Authorities for Abortion-Related Ex
 
 - 2023-03-15 — Introduced in Senate
 - 2023-03-15 — Read twice and referred to the Committee on Armed Services.
+- 2023-06-21 — Committee on Armed Services. Ordered to be reported with an amendment favorably.
+- 2023-07-25 — Committee on Armed Services. Reported by Senator Reed with an amendment. Without written report.
+- 2023-07-25 — Committee on Armed Services. Reported by Senator Reed with an amendment. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.
