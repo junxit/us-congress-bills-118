@@ -1,7 +1,7 @@
 ---
 measure: S. 38
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 38
@@ -28,3 +28,7 @@ Veteran Entrepreneurship Training Act of 2023
 
 - 2023-01-24 — Introduced in Senate
 - 2023-01-24 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2023-07-19 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.
