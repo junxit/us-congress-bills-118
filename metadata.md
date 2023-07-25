@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 2
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 2
@@ -16,7 +16,7 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (32)
+## Cosponsors (50)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -50,6 +50,24 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -59,3 +77,7 @@ A concurrent resolution commending the bravery, courage, and resolve of the wome
 
 - 2023-01-26 — Introduced in Senate
 - 2023-01-26 — Referred to the Committee on Foreign Relations. (text: CR S125-126)
+- 2023-07-13 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and an amendment to the title and with an amended preamble. Without written report.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez without amendment and an amendment to the title and with an amended preamble. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
