@@ -1,7 +1,7 @@
 ---
 measure: S. 1352
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1352
@@ -16,11 +16,12 @@ version: Introduced in Senate
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ version: Introduced in Senate
 
 - 2023-04-27 — Introduced in Senate
 - 2023-04-27 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2023-07-19 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Committee on Small Business and Entrepreneurship. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.
