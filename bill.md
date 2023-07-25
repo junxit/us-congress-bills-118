@@ -27,6 +27,9 @@ This Act may be cited as the “Supporting Small Business and Career and Technic
     > - **(W)** assisting small business concerns in hiring graduates from career and technical education programs or programs of study; and
     > - **(X)** assisting graduates of career and technical education programs or programs of study in starting up a small business concern.
 
+    > - **(W)** assisting small business concerns in hiring graduates from career and technical education programs or programs of study; and
+    > - **(X)** assisting graduates of career and technical education programs or programs of study in starting up a small business concern.
+
 - **(c)** *Women’s business centers* Section 29(b) of the Small Business Act (15 U.S.C. 656(b)) is amended—
   - **(1)** in paragraph (2), by striking “and” at the end;
   - **(2)** in paragraph (3), by striking the period at the end and inserting a semicolon; and
