@@ -1,7 +1,7 @@
 ---
 measure: S. 2006
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2006
@@ -28,3 +28,7 @@ Safeguarding Tunisian Democracy Act of 2023
 
 - 2023-06-15 — Introduced in Senate
 - 2023-06-15 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-07-13 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 152.
