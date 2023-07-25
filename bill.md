@@ -13,7 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Stop Chinese Fentanyl Act of 2023”.
 
-## § 2. Amendments to the Fentanyl Sanctions Act
+## § 2. Sense of Congress
+
+It is the sense of Congress that the Government of the People’s Republic of China should—
+
+- **(1)** work with the United States Government to identify a list of unregulated chemicals used to create precursor chemicals that bear increased scrutiny;
+- **(2)** require the proper labeling of chemical and equipment shipments in accordance with international rules;
+- **(3)** immediately implement “know-your-customer” procedures for chemical shipments; and
+- **(4)** direct all relevant departments and agencies, including the National Narcotics Control Commission, the Ministry of Public Security, the General Administration of Customs, and the National Medical Products Administration of the Government of the People’s Republic of China to establish new rules to crack down on precursor trafficking and enforce such rules swiftly.
+
+## § 3. Amendments to the Fentanyl Sanctions Act
 
 - **(a)** *Definitions* Section 7203(5) of the Fentanyl Sanctions Act (21 U.S.C. 2302(5)) is amended—
   - **(1)** by striking “The term “foreign opioid trafficker” means any foreign person” and inserting the following:
@@ -27,14 +36,14 @@ This Act may be cited as the “Stop Chinese Fentanyl Act of 2023”.
     >     - **(I)** produces, manufactures, distributes, sells, or knowingly finances or transports any goods described in clause (i) or (ii) of paragraph (8)(A); and
     >     - **(II)** fails to take credible steps, including through implementation of appropriate know-your-customer procedures or through cooperation with United States counternarcotics efforts, to detect or prevent opioid trafficking; and
     >   - **(ii)** any senior official of the Government of the People’s Republic of China or other Chinese political official that—
-    >     - **(I)** has significant regulatory or law enforcement responsibilities with respect to the activities of an entity described in clause (i); or
-    >     - **(II)** otherwise fails to take credible steps to combat foreign opioid traffickers.
+    >     - **(I)** has significant regulatory or law enforcement responsibilities with respect to the activities of an entity described in clause (i); and
+    >     - **(II)** aids and abets, including through intentional inaction, opioid trafficking.
 
 - **(b)** *Identification of foreign opioid traffickers* Section 7211 of the Fentanyl Sanctions Act (21 U.S.C. 2311) is amended—
   - **(1)** in subsection (a)(1)(A), by adding at the end before the semicolon the following: “, including whether the heads of the National Narcotics Control Commission, the Ministry of Public Security, the General Administration of Customs, and the National Medical Products Administration of the Government of the People’s Republic of China are foreign opioid traffickers”; and
   - **(2)** in subsection (c), by striking “5 years” and inserting “10 years”.
 
-## § 3. Amendments to the International Emergency Economic Powers Act and the Trading with the Enemy Act
+## § 4. Amendments to the International Emergency Economic Powers Act and the Trading with the Enemy Act
 
 - **(a)** *International Emergency Economic Powers Act*
   - **(1)** *Periodic evaluation* Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702) is amended by adding at the end the following:
@@ -45,10 +54,10 @@ This Act may be cited as the “Stop Chinese Fentanyl Act of 2023”.
     >     - **(C)** discusses any potential changes to the exercise of the authority for the purpose of more effectively resolving the covered national emergency.
     >   - **(2)** *Definitions* In this subsection—
     >     - **(A)** the term “appropriate congressional committees” means—
-    >       - **(i)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
-    >       - **(ii)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+    >       - **(i)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Oversight and Accountability of the House of Representatives; and
+    >       - **(ii)** the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
     >     - **(B)** the term “covered national emergency” means a national emergency that—
-    >       - **(i)** the President declared two or more years prior to the exercise of any authority granted to the President under this section with respect to such national emergency; and
+    >       - **(i)** the President has declared, within the preceding 5-year period, with respect to any national emergency regarding international drug trafficking; and
     >       - **(ii)** has not terminated.
 
   - **(2)** *Consultation and reports* Section 204 of the International Emergency Economic Powers Act (50 U.S.C. 1703) is amended—
@@ -59,7 +68,7 @@ This Act may be cited as the “Stop Chinese Fentanyl Act of 2023”.
   - **(3)** *Authority to issue regulations* Section 205 of the International Emergency Economic Powers Act (50 U.S.C. 1704) is amended—
     - **(A)** by striking “The President” and inserting “(a) The President”; and
     - **(B)** by adding at the end the following:
-      > - **(b)** In issuing regulations under subsection (a), the President shall—
+      > - **(b)** In issuing regulations under subsection (a) pursuant to a covered national emergency (as defined in section 203), the President shall—
       >   - **(1)** consider the costs and benefits of available statutory and regulatory alternatives;
       >   - **(2)** evaluate the costs and benefits for the purpose of expeditiously resolving the applicable national emergency;
       >   - **(3)** establish criteria for the eventual termination of the applicable national emergency; and
@@ -76,3 +85,8 @@ This Act may be cited as the “Stop Chinese Fentanyl Act of 2023”.
   > - **(d)** *Statute of limitations*
   >   - **(1)** *Criminal penalty* No person shall be prosecuted, tried, or punished for any offense under this section unless the indictment is found or the information is instituted within 10 years from the latest date of the violation upon which the indictment or information is based.
   >   - **(2)** *Civil penalty* An action, suit, or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced within 10 years from the latest date of the violation upon which the civil fine, penalty, or forfeiture is based.
+
+## § 5. Exception relating to importation of goods
+
+- **(a)** *In general* A requirement to block and prohibit all transactions in all property and interests in property pursuant to this Act or any amendment made by this Act shall not include the authority or a requirement to impose sanctions on the importation of goods.
+- **(b)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
