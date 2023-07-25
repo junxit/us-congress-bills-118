@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4880
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4880
+
+> To waive sovereign immunity in certain circumstances where jurisdictions prohibit monetary bail.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting All Communities Equally Act of 2023” or as the “PACE Act of 2023”.
+
+## § 2. Requirement of availability of cash bail for certain offenders
+
+If monetary bail has been prohibited in a State or any political subdivision thereof, the courts of that State shall have the authority—
+
+- **(1)** to determine the dangerousness of individuals before the courts on criminal charges; and
+- **(2)** to hold on bail individuals who are determined to be violent and/or repeat offenders.
+
+## § 3. Waiver of sovereign immunity
+
+A State or political subdivision thereof that has a prohibition on monetary bail waives sovereign immunity with respect to a cause of action against the local government by an individual for property damages or damages for personal injuries as a result of a dangerous criminal being released without monetary bail.
+
+## § 4. Effective date
+
+This Act shall take effect beginning on the date that is 30 days after the date of enactment of this Act.
