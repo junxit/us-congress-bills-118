@@ -1,7 +1,7 @@
 ---
 measure: S. 1540
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1604` | add-at-end | Section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1712` | add-at-end | Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1604` | replace | Section 6(d) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(d)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1712` | add-at-end | Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
