@@ -1,7 +1,7 @@
 ---
 measure: S. 847
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 847
@@ -16,7 +16,7 @@ International Children with Disabilities Protection Act of 2023
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -28,6 +28,7 @@ International Children with Disabilities Protection Act of 2023
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -37,3 +38,7 @@ International Children with Disabilities Protection Act of 2023
 
 - 2023-03-16 — Introduced in Senate
 - 2023-03-16 — Read twice and referred to the Committee on Foreign Relations.
+- 2023-07-13 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.
