@@ -21,7 +21,7 @@ This Act may be cited as the “SBIC Advisory Committee Act of 2023”.
   - **(3)** the term covered Members means the Chair and Ranking Member of—
     - **(A)** the Committee on Small Business and Entrepreneurship of the Senate; and
     - **(B)** the Committee on Small Business of the House of Representatives;
-  - **(4)** the terms licensee, small business investment company, and underlicensed State have the meanings given those terms in section 301 of the Small Business Investment Act of 1958 (15 U.S.C. 662);
+  - **(4)** the terms licensee, small business investment company, and underlicensed State have the meanings given those terms in section 301103 of the Small Business Investment Act of 1958 (15 U.S.C. 662);
   - **(5)** the term low-income community has the meaning given the term in section 45D(e) of the Internal Revenue Code of 1986;
   - **(6)** the term rural area has the meaning given the term by the Bureau of the Census;
   - **(7)** the terms small business concern, small business concern owned and controlled by veterans, and small business concern owned and controlled by women have the meanings given those terms in section 3 of the Small Business Act (15 U.S.C. 632);
@@ -30,13 +30,13 @@ This Act may be cited as the “SBIC Advisory Committee Act of 2023”.
   - **(10)** the term underserved community means—
     - **(A)** a HUBZone, as defined in section 31(b) of the Small Business Act (15 U.S.C. 657a(b));
     - **(B)** a community that has been designated as an empowerment zone or an enterprise community under section 1391 of the Internal Revenue Code of 1986;
-    - **(C)** a community that has been designated as a promise zone by the Secretary of Housing and Urban Development; and
+    - **(C)** a community that has been designated as a promise zone by the Secretary of Housing and Urban Development; andor
     - **(D)** a community that has been designated as a qualified opportunity zone under section 1400Z–1 of the Internal Revenue Code of 1986.
 - **(b)** *Establishment* The Administrator shall establish an SBIC Advisory Committee to convene outside experts to advise on the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.).
 - **(c)** *Composition*
   - **(1)** *Membership* The Advisory Committee shall be composed of 16 members appointed by the Administrator as follows:
-    - **(A)** The Associate Administrator of the Office of Investment and Innovation of the Administration, or another designee of the Associate Administrator as determined by the Administrator.
-    - **(B)** 7 members with competence, interest, or knowledge of the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.), of whom—
+    - **(A)** The Associate Administrator of the Office of Investment and Innovation of the Administration, or another designee of the Associate Administrator, as determined by the Administrator.
+    - **(B)** 7 members with competence regarding, interest in, or knowledge of the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.), of whom—
       - **(i)** not fewer than 3 shall have a demonstrated record of expertise in investing in—
         - **(I)** low-income communities;
         - **(II)** communities that have been designated as qualified opportunity zones under section 1400Z–1 of the Internal Revenue Code of 1986;
@@ -45,7 +45,7 @@ This Act may be cited as the “SBIC Advisory Committee Act of 2023”.
         - **(V)** businesses primarily owned or controlled by individuals in underserved communities before receiving capital from the licensee;
         - **(VI)** rural areas; or
         - **(VII)** underfinanced States; and
-      - **(ii)** not fewer than 1 shall be a representative from a trade association for the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.).
+      - **(ii)** not fewerless than 1 shall be a representative from a trade association for the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.).
     - **(C)** 8 members appointed by the Administrator as follows:
       - **(i)** 2 members shall be selected from among the individuals in the list submitted by the Chair of the Committee on Small Business and Entrepreneurship of the Senate under paragraph (2).
       - **(ii)** 2 members shall be selected from among the individuals in the list submitted by the Ranking Member of the Committee on Small Business and Entrepreneurship of the Senate under paragraph (2).
@@ -69,7 +69,7 @@ This Act may be cited as the “SBIC Advisory Committee Act of 2023”.
   - **(1)** policy and program development and other matters of significance concerning activities under the Small Business Act (15 U.S.C. 631 et seq.) and the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), including diversifying management teams or companies;
   - **(2)** incentives for small business investment companies to—
     - **(A)** invest and locate in underlicensed States and underfinanced States; and
-    - **(B)** invest in small business concerns, including those owned and controlled by socially or economically disadvantaged individuals, small business concerns owned and controlled by veterans, and small business concerns owned and controlled by women;
+    - **(B)** invest in small business concerns, including thosesmall business concerns owned and controlled by socially or economically disadvantaged individuals, small business concerns owned and controlled by veterans, and small business concerns owned and controlled by women;
   - **(3)** metrics of success, and benchmarks for success, with respect to the goals described in this section; and
   - **(4)** the impact of the small business investment program under title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.) on the private investment market, including whether investments under the program compete with the private sector.
 - **(f)** *Report* Not later than 18 months after the date on which the Administrator establishes the Advisory Committee under subsection (b), the Advisory Committee shall submit to the Administrator, the Committee on Small Business and Entrepreneurship of the Senate, and the Committee on Small Business of the House of Representatives a report that includes the recommendations of the Advisory Committee described in subsection (e).
