@@ -32,8 +32,10 @@ Congress makes the following findings:
   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
     - **(A)** the Committee on Foreign Relations of the Senate;
     - **(B)** the Select Committee on Intelligence of the Senate;
-    - **(C)** the Committee on Foreign Affairs of the House of Representatives; and
-    - **(D)** the Permanent Select Committee on Intelligence of the House of Representatives.
+    - **(C)** the Committee on the Judiciary of the Senate;
+    - **(D)** the Committee on Foreign Affairs of the House of Representatives;
+    - **(E)** the Permanent Select Committee on Intelligence of the House of Representatives; and
+    - **(F)** the Committee on the Judiciary of the House of Representatives.
   - **(2)** *Economic elites* The term economic elites means board members, officers, and executives of groups, committees, corporations, or other entities that exert substantial influence or control over Haiti’s economy, infrastructure, or particular industries.
   - **(3)** *Intelligence community* The term intelligence community has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
   - **(4)** *Political and economic elites* The term political and economic elites means political elites and economic elites.
@@ -48,14 +50,19 @@ Congress makes the following findings:
       - **(ii)** which countries have designated such Haitian political and economic elites for restrictions or sanctions; and
       - **(iii)** for Haitian political and economic elites who were designated by the United States, the statutory basis for such designation;
     - **(E)** describe in detail how Haitian political and economic elites use their relationships with criminal gangs to advance their political and economic interests and agenda;
-    - **(F)** include an assessment of how the nature and extent of collusion between political and economic elites and criminal gangs threatens the Haitian people and United States national interests and activities in the country, including the provision of security assistance to the Haitian government; and
-    - **(G)** include an assessment of potential actions that the Government of the United States and the Government of Haiti could take to address the findings made pursuant to subparagraph (F).
+    - **(F)** include a list of each criminal organization assessed to be trafficking Haitians and other individuals to the United States border;
+    - **(G)** include an assessment of how the nature and extent of collusion between political and economic elites and criminal gangs threatens the Haitian people and United States national interests and activities in the country, including the provision of security assistance to the Haitian government; and
+    - **(H)** include an assessment of potential actions that the Government of the United States and the Government of Haiti could take to address the findings made pursuant to subparagraph (G).
   - **(2)** *Form of report* The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 - **(c)** *Designations of political and economic elites*
   - **(1)** *In general* The Secretary of State, in coordination with other relevant Federal agencies and departments, shall identify persons identified pursuant to subparagraphs (A) and (B) of subsection (b)(1) who may be subjected to visa restrictions and sanctions under—
     - **(A)** section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022 (division K of Public Law 117–103; 8 U.S.C. 1182 note); or
     - **(B)** section 1263 of the Global Magnitsky Human Rights Accountability Act (22 U.S.C. 10102).
-  - **(2)** *Imposition of sanctions* Not later than 30 days after the date on which the report is submitted pursuant to subsection (b), the President shall impose, on individuals identified pursuant to paragraph (1), to the extent applicable, the sanctions referred to in subparagraphs (A) and (B) of such paragraph.
+  - **(2)** *Imposition of sanctions*
+    - **(A)** *In general* Not later than 30 days after the date on which the report is submitted pursuant to subsection (b), the President shall impose, on individuals identified pursuant to paragraph (1), to the extent applicable, the sanctions referred to in subparagraphs (A) and (B) of such paragraph.
+    - **(B)** *Exception relating to importation of goods*
+      - **(i)** *In general* A requirement to block and prohibit all transactions in all property and interests in property pursuant to the authority provided by this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+      - **(ii)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
   - **(3)** *Waiver* The President may waive the requirements under paragraphs (1) and (2) with respect to a foreign person if the President certifies and reports to the appropriate congressional committees before such waiver is to take effect that such waiver—
     - **(A)** would serve a vital national interest of the United States; or
     - **(B)** is necessary for the delivery of humanitarian assistance or other assistance that supports basic human needs.
