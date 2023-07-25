@@ -1,7 +1,7 @@
 ---
 measure: S. 931
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 931
@@ -33,3 +33,7 @@ Strengthening Agency Management and Oversight of Software Assets Act
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-73.
+- 2023-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-73.
+- 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
