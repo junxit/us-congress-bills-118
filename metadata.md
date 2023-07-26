@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1176
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1176
@@ -34,9 +34,10 @@ Taiwan International Solidarity Act
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Taiwan International Solidarity Act
 - 2023-07-25 — Mr. Barr moved to suspend the rules and pass the bill.
 - 2023-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3913)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3913)
+- 2023-07-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
