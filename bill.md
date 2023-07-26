@@ -1,0 +1,24 @@
+---
+legis-num: S. 2533
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2533
+
+> To require the Secretary of Defense to allow certain military spouses employed by the Department of Defense to telework full time.
+
+## § 1. Full-time telework for certain military spouses employed by the Department of Defense
+
+- **(a)** *In general* Not later than 30 calendar days after receiving a request from a covered individual under this section, the Secretary of Defense shall—
+  - **(1)** authorize such covered individual to work 100 percent remotely if the Secretary determines that the duties of such covered individual do not require the presence of the covered individual in the workplace; or
+  - **(2)** in the case of a covered individual who does not receive authorization under paragraph (1)—
+    - **(A)** reassign the covered individual to a position in the Department at the new permanent duty location of the spouse of such covered individual; or
+    - **(B)** grant the covered individual terminal leave without pay for the greater of—
+      - **(i)** the duration of the service of the spouse of the covered individual at such permanent duty location; or
+      - **(ii)** the period of 36 consecutive months following the permanent change of station.
+- **(b)** *Definition* In this section, the term covered individual means an individual—
+  - **(1)** who is the spouse of a member of the Armed Forces;
+  - **(2)** who is employed by the Department of Defense; and
+  - **(3)** who relocates because such member receives a permanent change of station.
