@@ -1,7 +1,7 @@
 ---
 measure: S. 1381
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1381
@@ -28,3 +28,8 @@ Coastal Habitat Conservation Act of 2023
 
 - 2023-04-27 — Introduced in Senate
 - 2023-04-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-07-26 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 118-714.
+- 2023-07-26 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.
