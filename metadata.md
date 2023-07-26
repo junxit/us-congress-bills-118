@@ -1,7 +1,7 @@
 ---
 measure: S. 873
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 873
@@ -28,3 +28,7 @@ America’s Outdoor Recreation Act of 2023
 
 - 2023-03-16 — Introduced in Senate
 - 2023-03-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-05-17 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2023-07-26 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-79.
+- 2023-07-26 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-79.
+- 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
