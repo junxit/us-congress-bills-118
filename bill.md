@@ -46,7 +46,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 6. Great Ape Conservation Act of 2000
 
-- **(a)** *Multiyear grants* Section 4(j)(1) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(j)(1)) is amended by inserting “of up to 5 years” after “multiyear grants”.
+- **(a)** *Multiyear grants* Section 4(j)(1) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(j)(1)) is amended by inserting “of up to 5 years” after “multiyear grant”.
 - **(b)** *Authorization of appropriations* Section 6 of the Great Ape Conservation Act of 2000 (16 U.S.C. 6305) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
 
 ## § 7. Marine Turtle Conservation Act of 2004

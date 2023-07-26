@@ -1,7 +1,7 @@
 ---
 measure: S. 2395
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -90,5 +90,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 4211` | add-at-end | Section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 4264` | add-at-end | Section 5 of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4264) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 5304` | add-at-end | Section 5 of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6303` | insert | Section 4(j)(1) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(j)(1)) is amended by inserting “of up to 5 years” after “multiyear grants”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6303` | insert | Section 4(j)(1) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(j)(1)) is amended by inserting “of up to 5 years” after “multiyear grant”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 6603` | add-at-end | Section 4 of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6603) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
