@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 166
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 166
@@ -16,7 +16,7 @@ A resolution honoring the efforts of the Coast Guard for excellence in maritime 
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (14)
+## Cosponsors (16)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Sullivan, Dan [R-AK] (S001198)
@@ -32,6 +32,8 @@ A resolution honoring the efforts of the Coast Guard for excellence in maritime 
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -41,3 +43,15 @@ A resolution honoring the efforts of the Coast Guard for excellence in maritime 
 
 - 2023-04-20 — Introduced in Senate
 - 2023-04-20 — Referred to the Committee on Commerce, Science, and Transportation. (text: CR S1304-1305)
+- 2023-07-26 — 
+- 2023-07-26 — Amendment SA 1066 agreed to in Senate by Unanimous Consent.
+- 2023-07-26 — Amendment SA 1066 proposed by Senator Whitehouse for Senator Cruz. (consideration: CR S3584) To amend the preamble.
+- 2023-07-26 — Measure laid before Senate by unanimous consent. (consideration: CR S3584-3585; text: CR S3584-3585)
+- 2023-07-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2023-07-26 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2023-07-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2023-07-26 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2023-07-26 — Senate amendment agreed to: Amendment SA 1066 agreed to in Senate by Unanimous Consent.
+- 2023-07-26 — Senate amendment proposed (on the floor): Amendment SA 1066 proposed by Senator Whitehouse for Senator Cruz.(consideration: CR S3584)
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
