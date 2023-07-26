@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2670
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2670
@@ -506,3 +506,4 @@ National Defense Authorization Act for Fiscal Year 2024
 - 2023-07-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2670.
 - 2023-07-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-07-14 — The previous question was ordered pursuant to the rule.
+- 2023-07-26 — Received in the Senate, read twice.
