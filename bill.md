@@ -2,14 +2,14 @@
 legis-num: H. RES. 614
 congress: 118th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 614
 
 > Providing for consideration of the bill (H.R. 4366) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes; providing for consideration of the joint resolution (S.J. Res. 9) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants; Lesser Prairie-Chicken; Threatened Status With Section 4(d) Rule for the Northern Distinct Population Segment and Endangered Status for the Southern Distinct Population Segment”; and providing for consideration of the joint resolution (S.J. Res. 24) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants; Endangered Species Status for Northern Long-Eared Bat”.
 
-That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 4366) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees. After general debate the bill shall be considered for amendment under the five-minute rule. The bill shall be considered as read. All points of order against provisions in the bill are waived.
+That at any time after adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 4366) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees. After general debate the bill shall be considered for amendment under the five-minute rule. The bill shall be considered as read. Points of order against provisions in the bill for failure to comply with clause 2 or clause 5(a) of rule XXI are waived.
 
 ## § 2.
 
