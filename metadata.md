@@ -1,7 +1,7 @@
 ---
 measure: H.R. 752
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 752
@@ -43,3 +43,4 @@ Securing Semiconductor Supply Chains Act of 2023
 - 2023-07-25 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
 - 2023-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3930-3931)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3930-3931)
+- 2023-07-26 — Received in the Senate.
