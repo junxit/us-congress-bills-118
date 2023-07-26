@@ -1,7 +1,7 @@
 ---
 measure: S. 950
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 950
@@ -30,3 +30,7 @@ Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservatio
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Indian Affairs.
+- 2023-03-29 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2023-07-26 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 118-80.
+- 2023-07-26 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 118-80.
+- 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.

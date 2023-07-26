@@ -15,11 +15,13 @@ This Act may be cited as the “Technical Correction to the Shoshone-Paiute Trib
 
 ## § 2. Authorization of payment of adjusted interest on Development Fund
 
--  Section 10807(b)(3) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1409) is amended—
-  - **(1)** by striking “There is” and inserting the following:
-    > - **(A)** *In general* There is
+Section 10807(b)(3) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1409) is amended—
 
-  - **(2)** by adding at the end the following:
-    > - **(B)** *Adjusted interest payments*
-    >   - **(i)** *In general* There is authorized to be appropriated to the Secretary for deposit into the Development Fund $5,124,902.12.
-    >   - **(ii)** *Cost indexing* All amounts made available to carry out clause (i) shall, on deposit into the Development Fund, be adjusted to reflect changes since January 25, 2016, in the Consumer Price Index for All Urban Consumers West Urban 50,000 to 1,500,000 published by the Bureau of Labor Statistics.
+- **(1)** by striking “There is” and inserting the following:
+  > - **(A)** *In general* There is
+
+- **(2)** by adding at the end the following:
+  > - **(B)** *Adjusted interest payments*
+  >   - **(i)** *In general* There is authorized to be appropriated to the Secretary for deposit into the Development Fund $5,124,902.12.
+  >   - **(ii)** *Cost indexing* All amounts made available to carry out clause (i) shall, on deposit into the Development Fund, be adjusted to reflect changes since January 25, 2016, in the Consumer Price Index for All Urban Consumers West Urban 50,000 to 1,500,000 published by the Bureau of Labor Statistics.
+  > - **(B)** *Adjusted interest payments* There is authorized to be appropriated to the Secretary for deposit into the Development Fund $5,124,902.12.
