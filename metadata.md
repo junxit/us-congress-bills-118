@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4470
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4470
@@ -53,3 +53,4 @@ Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2023
 - 2023-07-25 — Mr. Guest moved to suspend the rules and pass the bill, as amended.
 - 2023-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 366). (text: CR H3932)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 366). (text: CR H3932)
+- 2023-07-26 — Received in the Senate.
