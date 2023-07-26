@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1345
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1345
@@ -21,9 +21,10 @@ NTIA Policy and Cybersecurity Coordination Act
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ NTIA Policy and Cybersecurity Coordination Act
 - 2023-07-25 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2023-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3918)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3918)
+- 2023-07-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
