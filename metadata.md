@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3203
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3203
@@ -29,12 +29,13 @@ Stop Chinese Fentanyl Act of 2023
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. Ryan, Patrick [D-NY-18] (R000579)
 
-## Committees (4)
+## Committees (5)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Stop Chinese Fentanyl Act of 2023
 - 2023-07-25 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2023-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3910-3911)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3910-3911)
+- 2023-07-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
