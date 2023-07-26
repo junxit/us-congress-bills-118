@@ -18,7 +18,7 @@ This Act may be cited as the “Recruit and Retain Act”.
 - **(a)** *Grant use expansion* Section 1701(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)) is amended—
   - **(1)** by redesignating paragraphs (5) through (23) as paragraphs (6) through (24), respectively; and
   - **(2)** by inserting after paragraph (4) the following:
-    > - **(5)** to support hiring activities by law enforcement agencies experiencing declines in officer recruitment applications by reducing application-related fees, such as fees for background checks, psychological evaluations, and testing.;
+    > - **(5)** to support hiring activities by law enforcement agencies experiencing declines in officer recruitment applications by reducing application-related fees, such as fees for background checks, psychological evaluations, and testing;
 
 - **(b)** *Technical amendment* Section 1701(b)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)(23)) is amended by striking “(21)” and inserting “(22)”.
 

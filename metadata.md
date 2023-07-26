@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 546
@@ -43,3 +43,5 @@ Recruit and Retain Act
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment. Without written report.
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment. Without written report.
 - 2023-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
+- 2023-07-26 — Passed Senate with an amendment by Voice Vote. (consideration: CR S3580-3582; text: CR S3581-3582)
+- 2023-07-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S3580-3582; text: CR S3581-3582)
