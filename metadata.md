@@ -1,7 +1,7 @@
 ---
 measure: S. 994
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 994
@@ -47,3 +47,5 @@ Strong Communities Act of 2023
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with amendments. Without written report.
 - 2023-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2023-07-26 — Passed Senate with amendments by Voice Vote. (consideration: CR S3582-3583; text: CR S3582)
+- 2023-07-26 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(consideration: CR S3582-3583; text: CR S3582)
