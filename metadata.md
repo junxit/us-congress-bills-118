@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2544
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2544
@@ -53,3 +53,12 @@ Securing the U.S. Organ Procurement and Transplantation Network Act
 - 2023-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
 - 2023-07-26 — Received in the Senate, read twice.
+- 2023-07-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3731-3733)
+- 2023-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3731-3733)
+- 2023-07-28 — Message on Senate action sent to the House.
+- 2023-09-14 — Presented to President.
+- 2023-09-14 — Presented to President.
+- 2023-09-22 — Became Public Law No: 118-14.
+- 2023-09-22 — Became Public Law No: 118-14.
+- 2023-09-22 — Signed by President.
+- 2023-09-22 — Signed by President.
