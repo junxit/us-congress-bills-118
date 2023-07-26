@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1684
@@ -49,3 +49,4 @@ Haiti Criminal Collusion Transparency Act of 2023
 - 2023-07-25 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2023-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3907-3908)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3907-3908)
+- 2023-07-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
