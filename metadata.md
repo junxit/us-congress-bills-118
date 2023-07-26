@@ -1,7 +1,7 @@
 ---
 measure: S. 2051
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2051
@@ -28,3 +28,7 @@ Missing Children’s Assistance Reauthorization Act of 2023
 
 - 2023-06-20 — Introduced in Senate
 - 2023-06-20 — Read twice and referred to the Committee on the Judiciary. (text: CR S2147)
+- 2023-07-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3583-3584; text: CR S3583-3584)
+- 2023-07-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3583-3584; text: CR S3583-3584)
+- 2023-07-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-07-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
