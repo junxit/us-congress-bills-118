@@ -1,7 +1,7 @@
 ---
 measure: S. 265
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+19 amendatory instructions. 4 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,24 @@ to guess them.
 | Removed | `2019 through 2023` |
 | Inserted | `2024 through 2028` |
 
+### 42 U.S.C. § 254c-15
+
+> in subsection (a), by striking “the Administrator of the Health Resources and Services Administration (referred to in this section as the Secretary)” and inserting “the Assistant Secretary,”;
+
+| | |
+|---|---|
+| Removed | `the Administrator of the Health Resources and Services Administration (referred to in this section as the Secretary)` |
+| Inserted | `the Assistant Secretary,` |
+
+### 42 U.S.C. § 254c-15
+
+> in subsection (f)(1), as so redesignated, by striking “2019 through 2023” and inserting “2024 through 2028”;
+
+| | |
+|---|---|
+| Removed | `2019 through 2023` |
+| Inserted | `2024 through 2028` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -58,3 +76,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 254c-15` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254c-15` | strike | by striking subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254c-15` | redesignate | by redesignating subsection (g) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-15` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254c-15` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-15` | replace | in subparagraph (B), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254c-15` | replace | in subparagraph (C), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254c-15` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-15` | strike | by striking subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-15` | redesignate | by redesignating subsection (g) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-15` | redesignate | by redesignating such section 330J as section 553 of the Public Health Service Act; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
