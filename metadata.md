@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2544
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2544
@@ -52,3 +52,4 @@ Securing the U.S. Organ Procurement and Transplantation Network Act
 - 2023-07-25 — Mr. Bucshon moved to suspend the rules and pass the bill.
 - 2023-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
 - 2023-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3929-3930)
+- 2023-07-26 — Received in the Senate, read twice.
