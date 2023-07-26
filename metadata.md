@@ -1,7 +1,7 @@
 ---
 measure: H.R. 682
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 682
@@ -20,9 +20,10 @@ Launch Communications Act
 
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Launch Communications Act
 - 2023-07-25 — Placed on the Union Calendar, Calendar No. 124.
 - 2023-07-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-156.
 - 2023-07-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-156.
+- 2023-07-26 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

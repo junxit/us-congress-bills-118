@@ -2,7 +2,7 @@
 legis-num: H.R. 682
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 682
@@ -24,9 +24,7 @@ This Act may be cited as the “Launch Communications Act”.
   - **(3)** authorizations that include access to multiple uses of such frequencies for commercial space launch or commercial space reentry;
   - **(4)** automation of the processes of the Commission to review applications for authorizations for access to such frequencies for commercial space launches and commercial space reentries; and
   - **(5)** improved coordination by the Commission with the Assistant Secretary (who shall coordinate with the heads of such other Federal agencies as the Assistant Secretary considers appropriate) to increase the speed of review of applications for authorizations for access to such frequencies for commercial space launches and commercial space reentries.
-- **(c)** *Frequencies described* The frequencies described in this subsection are the following:
-  - **(1)** The frequencies between 2025 and 2110 megahertz, between 2200 and 2290 megahertz, between 2360 and 2395 megahertz, and between 5650 and 5925 megahertz.
-  - **(2)** Any additional frequencies identified by the Commission (in coordination with the Assistant Secretary, in the case of potential impact to Federal spectrum use) as necessary to conduct commercial space launches and commercial space reentries.
+- **(c)** *Frequencies described* The frequencies described in this subsection are the frequencies between 2025 and 2110 megahertz, between 2200 and 2290 megahertz, between 2360 and 2395 megahertz, and between 5650 and 5925 megahertz.
 - **(d)** *Rules of construction*
   - **(1)** *Frequency ranges* Each range of frequencies described in this section shall be construed to be inclusive of the upper and lower frequencies in the range.
   - **(2)** *Special temporary authority* Nothing in this section may be construed to authorize or require elimination or limitation of, or any amendment to, or otherwise to affect, special temporary authority, as provided for by section 1.931 of title 47, Code of Federal Regulations (or any successor regulation).
