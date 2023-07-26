@@ -56,6 +56,5 @@ Congress finds the following:
 Not less frequently than annually, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that details, for each area in which the Project Safe Neighborhoods Block Grant Program operates and with respect to the 1-year period preceding the date of the report—
 
 - **(1)** how the area spent funds under the Project Safe Neighborhoods Block Grant Program;
-- **(2)** the total number of criminal prosecutions carried out in the area, disaggregated by the number of Federal and State prosecutions, and the results of those prosecutions;
-- **(3)** the community outreach efforts performed in the area; and
-- **(4)** the number and a description of the violent crime offenses committed in the area, including murder, non-negligent manslaughter, rape, robbery, and aggravated assault.
+- **(2)** the community outreach efforts performed in the area; and
+- **(3)** the number and a description of the violent crime offenses committed in the area, including murder, non-negligent manslaughter, rape, robbery, and aggravated assault.

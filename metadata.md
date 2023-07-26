@@ -1,7 +1,7 @@
 ---
 measure: S. 1387
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1387
@@ -16,7 +16,7 @@ Project Safe Neighborhoods Reauthorization Act of 2023
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -30,6 +30,7 @@ Project Safe Neighborhoods Reauthorization Act of 2023
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -43,3 +44,5 @@ Project Safe Neighborhoods Reauthorization Act of 2023
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-06-08 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.
+- 2023-07-26 — Passed Senate with an amendment by Voice Vote. (consideration: CR S3583; text: CR S3583)
+- 2023-07-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S3583; text: CR S3583)
