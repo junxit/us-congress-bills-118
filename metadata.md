@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3224
@@ -16,10 +16,11 @@ Countering Weapons of Mass Destruction Extension Act of 2023
 
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Carter, Troy [D-LA-2] (C001125)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Countering Weapons of Mass Destruction Extension Act of 2023
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Referred to the House Committee on Homeland Security.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported by Voice Vote.
+- 2023-07-27 — Placed on the Union Calendar, Calendar No. 126.
+- 2023-07-27 — Reported by the Committee on Homeland Security. H. Rept. 118-159.
+- 2023-07-27 — Reported by the Committee on Homeland Security. H. Rept. 118-159.
