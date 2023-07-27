@@ -1,7 +1,7 @@
 ---
 measure: S. 2226
 congress: 118
-version: Engrossed in Senate
+version: Printed as Passed
 ---
 
 # S. 2226
