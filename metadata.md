@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2670
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2670
@@ -507,3 +507,8 @@ National Defense Authorization Act for Fiscal Year 2024
 - 2023-07-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-07-14 — The previous question was ordered pursuant to the rule.
 - 2023-07-26 — Received in the Senate, read twice.
+- 2023-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S3730-3731)
+- 2023-07-27 — Passed Senate with an amendment by Unanimous Consent.
+- 2023-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2023-07-27 — See also S. 2226.
+- 2023-07-27 — Senate struck all after the Enacting Clause and substituted the language of S. 2226, as amended.
