@@ -1,7 +1,7 @@
 ---
 measure: S. 788
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 788
@@ -34,6 +34,10 @@ Duck Stamp Modernization Act of 2023
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2023-12-12 — [House 118-1-712](votes/house-118-1-0712.md) — On Motion to Suspend the Rules and Pass — **Passed** (403–20)
+
 ## Actions
 
 - 2023-03-14 — Introduced in Senate
@@ -50,3 +54,20 @@ Duck Stamp Modernization Act of 2023
 - 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1089 proposed by Senator Schumer for Senator Boozman.(consideration: CR S3843)
 - 2023-07-27 — Senate amendment submitted
 - 2023-07-27 — Senate amendment submitted
+- 2023-07-28 — Message on Senate action sent to the House.
+- 2023-08-04 — Held at the desk.
+- 2023-08-04 — Received in the House.
+- 2023-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6751-6752)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 788.
+- 2023-12-11 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2023-12-12 — Considered as unfinished business. (consideration: CR H6833-6834)
+- 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 20 (Roll no. 712). (text: 12/11/2023 CR H6751)
+- 2023-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 20 (Roll no. 712). (text: 12/11/2023 CR H6751)
+- 2023-12-19 — Became Public Law No: 118-25.
+- 2023-12-19 — Became Public Law No: 118-25.
+- 2023-12-19 — Presented to President.
+- 2023-12-19 — Presented to President.
+- 2023-12-19 — Signed by President.
+- 2023-12-19 — Signed by President.
