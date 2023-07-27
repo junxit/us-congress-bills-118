@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1858
@@ -43,3 +43,18 @@ Disaster Assistance Deadlines Alignment Act
 - 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1091 proposed by Senator Schumer for Senator Peters.(consideration: CR S3843)
 - 2023-07-27 — Senate amendment submitted
 - 2023-07-27 — Senate amendment submitted
+- 2023-07-28 — Message on Senate action sent to the House.
+- 2023-08-04 — Held at the desk.
+- 2023-08-04 — Received in the House.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1073-1074)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on S. 1858.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
+- 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1073)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1073)
+- 2024-03-14 — Presented to President.
+- 2024-03-14 — Presented to President.
+- 2024-03-18 — Became Public Law No: 118-44.
+- 2024-03-18 — Became Public Law No: 118-44.
+- 2024-03-18 — Signed by President.
+- 2024-03-18 — Signed by President.
