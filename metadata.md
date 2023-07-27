@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3399
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3399
@@ -22,9 +22,10 @@ Soo Locks Security and Economic Reporting Act of 2023
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 - Rep. Kildee, Daniel T. [D-MI-8] (K000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Soo Locks Security and Economic Reporting Act of 2023
 - 2023-07-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-07-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 7/25/2023 CR H3916)
 - 2023-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 7/25/2023 CR H3916)
+- 2023-07-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
