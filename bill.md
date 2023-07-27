@@ -1,0 +1,29 @@
+---
+legis-num: H. RES. 625
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 625
+
+> Recognizing the critical role of congressional staff and support staff working on Capitol Hill and in State or district offices.
+
+## Preamble
+
+- Whereas there are nearly 15,000 congressional staff and thousands of support staff working on Capitol Hill and in State or district offices;
+- Whereas congressional staff and support staff serve a critical role within the United States system of government by supporting the legislative branch;
+- Whereas support staff serve as an essential resource and provide administrative, technical, and operational services to the congressional community of House of Representatives Members, officers, and staff;
+- Whereas congressional staff work with constituents from their home States and districts to ensure that their constituents’ voices are heard and that their needs are represented;
+- Whereas congressional staff help constituents navigate Federal agencies to resolve issues, such as the issuance and renewal of passports, adjudication of immigration cases, and applications for Social Security and veterans’ benefits;
+- Whereas congressional staff help strengthen the bond between constituents and Members of Congress;
+- Whereas congressional staff provide constituent services and help Congress solve the Nation’s most intractable challenges;
+- Whereas congressional staff give back to the national capital region, as well as communities in their States and districts;
+- Whereas congressional staff are faithful public servants who serve the public with the utmost respect and dignity;
+- Whereas congressional staff deserve to work in a safe and healthy environment, as they do the people’s work; and
+- Whereas congressional staff and support staff should be accepted, supported, and treated with respect and dignity: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the critical role of congressional staff and support staff working on Capitol Hill and in State or district offices; and
+- **(2)** thanks congressional staff and support staff for the commitment and essential services that they provide.
