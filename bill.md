@@ -1,0 +1,180 @@
+---
+legis-num: S. 2659
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2659
+
+> To provide increased financial assistance for farmers’ markets and farmers’ market nutrition programs, to increase local agricultural production through food bank in-house production and local farmer contracting, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as “Farmers’ Market and Food Bank Local Revitalization Act of 2023”.
+
+## § 2. Findings and purposes
+
+- **(a)** *Findings* Congress finds that—
+  - **(1)** food insecurity, epidemic levels of obesity, hypertension, diabetes, and youth osteoporosis are caused by improper nutrition yielded by a lack of nutritious, reliable, and locally available healthy food options;
+  - **(2)** the American Diabetes Association estimated a 41-percent increase in costs of diagnosed diabetes, from a cost of $174,000,000,000 in 2007 to a cost of $245,000,000,000 in 2012, with 62 percent of those costs coming from senior health programs such as Medicare and Medicaid;
+  - **(3)** since sequestration in 2008, there has been no funding increase for the senior farmers’ market nutrition program under section 4402 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 3007);
+  - **(4)**
+    - **(A)** from 2008 to 2020, the moderate at-home food cost for a family of 2 individuals aged 51 to 70 years old increased by an average of $70 per month; and
+    - **(B)** funding for the seniors farmers’ market nutrition program has not kept pace with that inflation;
+  - **(5)** according to the Department of Agriculture, the seniors farmers’ market nutrition program is experiencing, across all participating States, territories, and Indian Tribes—
+    - **(A)** a total program funding backlog of $20,065,021; and
+    - **(B)** a seasonal benefit funding backlog of $16,120,741;
+  - **(6)**
+    - **(A)** approximately 1 in 10 United States senior citizens, or approximately 5,146,000 individuals, are forced to live well below the Federal poverty level; and
+    - **(B)** the seniors farmers’ market nutrition program is only able to reach about 725,000 of those individuals due to inadequate funding;
+  - **(7)** since sequestration in 2008, funding for the women, infants, and children farmers’ market nutrition program under section 17(m) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(m)) has decreased by more than $6,000,000, with no subsequent increase to previous levels;
+  - **(8)** the women, infants, and children farmers’ market nutrition program is a vital safeguard for the nearly 1 in 7 children who will be—
+    - **(A)** born into poverty in the United States; and
+    - **(B)** at nutritional risk;
+  - **(9)** according to the Department of Agriculture, the women, infants, and children farmers’ market nutrition program has a total program and seasonal benefit funding backlog of $6,198,432 across all participating States, territories, and Indian Tribes;
+  - **(10)** in the United States, food banks provide meals to 1 in 7 individuals;
+  - **(11)**
+    - **(A)** many food banks share special relationships with local farmers, who often donate crops to food banks; and
+    - **(B)** the relationships described in subparagraph (A) allow for more efficient and sustainable procurement for food banks;
+  - **(12)** assisting food banks to grow their own food will aid local procurement and allow food banks to serve as farming resources to their communities, especially to individuals who are food-insecure; and
+  - **(13)** the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4490) (and amendments made by that Act) specifically required an examination of methods to incorporate local products to reduce food waste.
+- **(b)** *Purposes* The purposes of this Act are—
+  - **(1)** to increase and enhance funding for farmers’ market nutrition programs—
+    - **(A)** to support seniors and food-insecure families; and
+    - **(B)** to increase market capacity for local farmers;
+  - **(2)** to provide funding assistance for the expansion and construction of farmers’ markets in rural and urban food desert areas; and
+  - **(3)** to increase local food production through—
+    - **(A)** encouraging partnerships of food banks and local farmers; and
+    - **(B)** the provision of funding to food banks to grow necessary produce through traditional or controlled environmental agriculture farming methods.
+
+## § 3. Authorization for seniors farmers’ market nutrition program
+
+Section 4402(a) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 3007(a)) is amended—
+
+- **(1)** by striking “2023” and inserting “2028”;
+- **(2)** by striking “Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture” and inserting the following:
+  > - **(1)** *Commodity Credit Corporation* Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture (referred to in this section as the Secretary)
+
+- **(3)** by adding at the end the following:
+  > - **(2)** *Authorization of appropriations*
+  >   - **(A)** *In general* In addition to the amounts made available under paragraph (1), there are authorized to be appropriated to the Secretary, for the purposes described in subparagraph (B)—
+  >     - **(i)** for fiscal year 2024, such sums as are necessary to ensure that not less than $60,000,000 is available under this paragraph and paragraph (1);
+  >     - **(ii)** for fiscal year 2025, such sums as are necessary to ensure that not less than $70,000,000 is available under this paragraph and paragraph (1); and
+  >     - **(iii)** for each of fiscal years 2026 through 2028, such sums as are necessary to ensure that not less than $100,000,000 is available under this paragraph and paragraph (1).
+  >   - **(B)** *Benefit enhancement* The additional amounts made available under subparagraph (A) shall be used—
+  >     - **(i)** to increase the income limit for seniors farmers’ market nutrition program eligibility to 200 percent of the Federal poverty guideline;
+  >     - **(ii)** to increase the minimum individual benefit available under the seniors farmers’ market nutrition program to $35; and
+  >     - **(iii)** to remove the maximum individual benefit limit under the seniors farmers’ market nutrition program.
+
+## § 4. Minimum individual benefit increase under WIC farmers’ market nutrition program
+
+Section 17(m) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(m)) is amended—
+
+- **(1)** in paragraph (4), by striking “paragraph (6)” each place it appears and inserting “paragraph (7)”;
+- **(2)** in paragraph (5)—
+  - **(A)** by striking “paragraph (3)” each place it appears and inserting “paragraph (4)”; and
+  - **(B)** in subparagraph (C)—
+    - **(i)** in clause (i), by striking “$10” and inserting “$35”; and
+    - **(ii)** in clause (ii), by striking “$30” and inserting “$60”;
+- **(3)** in paragraph (6)—
+  - **(A)** in subparagraph (A), in the second sentence, by striking “subparagraph (G)” and inserting “subparagraph (F)”;
+  - **(B)** in subparagraph (B)—
+    - **(i)** in clause (i), by striking “paragraph (3)” and inserting “paragraph (4)”; and
+    - **(ii)** in clause (ii), by striking “paragraph (6)” and inserting “paragraph (7)”;
+  - **(C)** in subparagraph (C)(iv), by striking “subparagraph (G)(i)” each place it appears and inserting “subparagraph (F)(i)”; and
+  - **(D)** in subparagraph (D)(ii)—
+    - **(i)** in the matter preceding subclause (I), by striking “this paragraph” and inserting “this subparagraph”; and
+    - **(ii)** in subclause (II), by striking “paragraph (5)” and inserting “paragraph (6)”;
+- **(4)** in paragraph (9)—
+  - **(A)** in subparagraph (A)—
+    - **(i)** by striking “necessary for each” and inserting the following:
+      > necessary for—
+      > - **(i)** each
+
+    - **(ii)** in clause (i) (as so designated), by striking the period at the end and inserting “; and”; and
+    - **(iii)** by adding at the end the following:
+      > - **(ii)** each of fiscal years 2024 through 2028.
+
+  - **(B)** in subparagraph (B)—
+    - **(i)** in clause (ii), by striking “(ii) The Secretary” and inserting the following:
+      > - **(ii)** *Reallocation procedures* The Secretary
+
+    - **(ii)** in clause (i)—
+      - **(I)** in subclause (II), by striking “(II) Notwithstanding” and inserting the following:
+        > - **(II)** *Reimbursement for expenses incurred* Notwithstanding
+
+      - **(II)** in subclause (I), by striking “allocated. The unexpended funds shall be returned to the Secretary by” and inserting “allocated, by not later than”; and
+    - **(iii)** by striking “(B)(i)(I) Each State” and inserting the following:
+      > - **(B)** *Unobligated balances*
+      >   - **(i)** *Return to Secretary*
+      >     - **(I)** *In general* Subject to subclause (II), each State
+
+- **(5)** by striking paragraph (10);
+- **(6)** by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively; and
+- **(7)** by striking “(m)(1) Subject to” and inserting the following:
+  > - **(m)** *Women, infants, and children farmers' market nutrition program*
+  >   - **(1)** *Definitions* In this subsection:
+  >     - **(A)** *Coupon* The term coupon means a coupon, voucher, or other negotiable financial instrument by which benefits provided under this section are transferred.
+  >     - **(B)** *Program* The term program means—
+  >       - **(i)** the State farmers' market coupon nutrition program authorized by this subsection (as in effect on September 30, 1991); and
+  >       - **(ii)** the farmers' market nutrition program authorized by this subsection.
+  >     - **(C)** *Recipient* The term recipient means a person or household, as determined by the State, that is—
+  >       - **(i)** chosen by a State to receive benefits under this subsection; or
+  >       - **(ii)** included on a waiting list to receive those benefits.
+  >     - **(D)** *State agency* The term State agency includes—
+  >       - **(i)** a State department of agriculture; and
+  >       - **(ii)** any other agency approved by the chief executive officer of the State.
+  >   - **(2)** *Grant program* Subject to
+
+## § 5. Infrastructure funding for farmers’ markets
+
+- **(a)** *In general* The Secretary of Agriculture (referred to in this Act as the Secretary) shall make loans, loan guarantees, and grants to public agencies and nonprofit organizations for—
+  - **(1)** the construction of new farmers’ markets; or
+  - **(2)** the improvement or rehabilitation of existing farmers’ markets, including by adding or improving payment technologies used at those farmers’ markets.
+- **(b)** *Eligibility* To be eligible to receive a loan, loan guarantee, or grant under this section with respect to a farmers’ market, a public agency or nonprofit organization shall demonstrate, to the satisfaction of the Secretary—
+  - **(1)** financial need; and
+  - **(2)** a commitment to reserving not less than 50 percent of the floor area of the farmers’ market for the sale of agricultural products that, as determined by the Secretary, are produced locally by—
+    - **(A)** farmers, ranchers, or aquaculture, mariculture, or fisheries operators; or
+    - **(B)** an association of farmers, ranchers, or aquaculture, mariculture, or fisheries operators.
+- **(c)** *Cost sharing*
+  - **(1)** *Grants* The amount of a grant provided under this section shall be not more than 25 percent of the cost of the activity for which the grant is provided.
+  - **(2)** *Maximum amount* The combined amount of a grant or loan provided, and any loan guaranteed, for a public agency or nonprofit organization under this section shall not exceed 80 percent of the cost of the activity for which the grant or loan is provided, or the loan is guaranteed, as applicable.
+- **(d)** *Interest rate*
+  - **(1)** *In general* A loan provided by the Secretary under this section shall bear interest at the rate equivalent to the rate of interest charged on United States Treasury securities of comparable maturity on the date on which the loan is approved.
+  - **(2)** *Duration* The interest rate referred to in paragraph (1) with respect to a loan under this section shall remain in effect for the term of the loan.
+- **(e)** *Funding* Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $50,000,000 for each of fiscal years 2024 through 2029.
+
+## § 6. Pilot program for food banks and local farmer contracting for local procurement
+
+- **(a)** *Establishment* The Secretary shall establish a pilot program under which the Secretary shall provide grants to food banks to voluntarily contract with farmers local to the food banks to grow produce for food bank programs to promote local procurement of produce.
+- **(b)** *Methods* Under a contract described in subsection (a), a local farmer may grow produce through traditional or controlled environmental agriculture farming methods.
+- **(c)** *Amount* The amount of a grant provided to a food bank under this section shall be $500,000.
+- **(d)** *Distribution*
+  - **(1)** *In general* Subject to paragraph (2), the Secretary shall distribute grants under this section to 15 food banks, in accordance with the following:
+    - **(A)** *ZIP Code* Of the 15 food banks that receive grants under this section—
+      - **(i)** 5 shall be located in urban ZIP Codes (as designated by the Bureau of the Census);
+      - **(ii)** 5 shall be located in suburban ZIP Codes (as designated by the Bureau of the Census); and
+      - **(iii)** 5 shall be located in rural ZIP Codes (as designated by the Bureau of the Census).
+    - **(B)** *Census Bureau region* Of the 15 food banks that receive grants under this section—
+      - **(i)** 3 shall be located in the Northeast Region (as established by the Bureau of the Census);
+      - **(ii)** 3 shall be located in the Midwest Region (as established by the Bureau of the Census);
+      - **(iii)** 3 shall be located in the South Region (as established by the Bureau of the Census);
+      - **(iv)** 3 shall be located in the West Region (as established by the Bureau of the Census); and
+      - **(v)** 3 may be located in any region established by the Bureau of the Census, as the Secretary determines to be appropriate.
+  - **(2)** *Priority* A food bank that serves an economically depressed or food desert area, as determined by the Secretary, shall be given priority in the distribution of grants under this section.
+- **(e)** *Funding* Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $7,500,000 for the period of fiscal years of 2024 and 2025.
+
+## § 7. Report to Congress
+
+Not later than 180 days after the effective date of this Act, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Special Committee on Aging of the Senate, and the Committees on Agriculture and Education and the Workforce of the House of Representatives a report that describes—
+
+- **(1)** the effect of this Act and the amendments made by this Act on—
+  - **(A)** local procurement of food; and
+  - **(B)** local farmers;
+- **(2)** the individuals and entities procuring food locally pursuant to this Act and the amendments made by this Act; and
+- **(3)** the communities involved in programs carried out under this Act and the amendments made by this Act.
+
+## § 8. Effective date
+
+This Act, and the amendments made by this Act, take effect on the date that is 120 days after the date of enactment of this Act.
