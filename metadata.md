@@ -1,7 +1,7 @@
 ---
 measure: S. 133
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 133
@@ -16,7 +16,7 @@ NAPA Reauthorization Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (7)
+## Cosponsors (26)
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -25,6 +25,25 @@ NAPA Reauthorization Act
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Budd, Ted [R-NC] (B001305)
 
 ## Committees (1)
 
@@ -34,3 +53,7 @@ NAPA Reauthorization Act
 
 - 2023-01-30 — Introduced in Senate
 - 2023-01-30 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S150-151)
+- 2023-06-15 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2023-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2023-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
