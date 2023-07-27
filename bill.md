@@ -23,7 +23,7 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
     - **(D)** uses network connectivity or data storage located in a covered foreign country or administered by a business entity domiciled in a covered foreign country;
   - **(2)** a software operating system associated with a UAS that uses network connectivity or data storage located in a covered foreign country or administered by a business entity domiciled in a covered foreign country; or
   - **(3)** a system for the detection or identification of a UAS, which system is manufactured in a covered foreign country or by a business entity domiciled in a covered foreign country.
-- **(b)** *Waiyer*
+- **(b)** *Waiver*
   - **(1)** *In general* The Secretary of Homeland Security is authorized to waive the prohibition under subsection (a) if the Secretary certifies in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate that a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS described in any of paragraphs (1) through (3) of such subsection that is the subject of such a waiver is required—
     - **(A)** in the national interest of the United States;
     - **(B)** for counter-DAS surrogate research, testing, development, evaluation, or training; or
@@ -31,7 +31,7 @@ This Act may be cited as the “Unmanned Aerial Security Act” or the “UAS Ac
   - **(2)** *Notice* The certification described in paragraph (1) shall be submitted to the Committees specified in such paragraph by not later than the date that is 14 days after the date on which a waiver is issued under such paragraph.
 - **(c)** *Effective dates*
   - **(1)** *In general* This Act shall take effect on the date that is 120 days after the date of the enactment of this Act.
-  - **(2)** *Waiyer process* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security shall establish a process by which the head of an office or component of the Department of Homeland Security may request a waiver under subsection (b).
+  - **(2)** *Waiver process* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security shall establish a process by which the head of an office or component of the Department of Homeland Security may request a waiver under subsection (b).
   - **(3)** *Exception* Notwithstanding the prohibition under subsection (a), the head of an office or component of the Department of Homeland Security may continue to operate a UAS, a software operating system associated with a UAS, or a system for the detection or identification of a UAS described in any of paragraphs (1) through (3) of such subsection that was in the inventory of such office or component on the day before the effective date of this Act until—
     - **(A)** such time as the Secretary of Homeland Security has—
       - **(i)** granted a waiver relating thereto under subsection (b); or
