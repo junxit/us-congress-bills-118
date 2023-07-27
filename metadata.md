@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2670
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2670
@@ -20,9 +20,10 @@ National Defense Authorization Act for Fiscal Year 2024
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (18)
+## Committees (19)
 
 - House — Armed Services Committee
+- House — Financial Services Committee
 - House — Small Business Committee
 - House — Intelligence (Permanent Select) Committee
 - House — Appropriations Committee
@@ -41,7 +42,7 @@ National Defense Authorization Act for Fiscal Year 2024
 - House — Natural Resources Committee
 - House — Science, Space, and Technology Committee
 
-## Recorded votes (32)
+## Recorded votes (43)
 
 - 2023-07-13 — [House 118-1-297](votes/house-118-1-0297.md) — On Agreeing to the Amendment — **Agreed to** (399–31)
 - 2023-07-13 — [House 118-1-298](votes/house-118-1-0298.md) — On Agreeing to the Amendment — **Failed** (198–217)
@@ -75,6 +76,17 @@ National Defense Authorization Act for Fiscal Year 2024
 - 2023-07-14 — [House 118-1-326](votes/house-118-1-0326.md) — On Agreeing to the Amendment — **Agreed to** (217–216)
 - 2023-07-14 — [House 118-1-327](votes/house-118-1-0327.md) — On Motion to Recommit — **Failed** (210–217)
 - 2023-07-14 — [House 118-1-328](votes/house-118-1-0328.md) — On Passage — **Passed** (219–210)
+- 2023-09-19 — [House 118-1-395](votes/house-118-1-0395.md) — On Motion to go to Conference — **Passed** (393–27)
+- 2023-09-19 — [House 118-1-396](votes/house-118-1-0396.md) — On Closing Portions of the Conference — **Passed** (401–19)
+- 2023-09-20 — [House 118-1-400](votes/house-118-1-0400.md) — On Motion to Instruct Conferees — **Failed** (205–214)
+- 2023-11-15 — [Senate 118-1-313](votes/senate-118-1-0313.md) — On the Motion — **Motion Agreed to** (90–8)
+- 2023-12-07 — [Senate 118-1-334](votes/senate-118-1-0334.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (82–15)
+- 2023-12-12 — [Senate 118-1-339](votes/senate-118-1-0339.md) — On the Motion to Table — **Motion to Table Failed** (47–53)
+- 2023-12-12 — [Senate 118-1-340](votes/senate-118-1-0340.md) — On the Motion to Table — **Motion to Table Failed** (26–73)
+- 2023-12-12 — [Senate 118-1-341](votes/senate-118-1-0341.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–15)
+- 2023-12-13 — [Senate 118-1-342](votes/senate-118-1-0342.md) — On the Motion — **Motion Agreed to** (65–35)
+- 2023-12-13 — [Senate 118-1-343](votes/senate-118-1-0343.md) — On the Conference Report — **Conference Report Agreed to** (87–13)
+- 2023-12-14 — [House 118-1-723](votes/house-118-1-0723.md) — On Motion to Suspend the Rules and Agree to the Conference Report — **Passed** (310–118)
 
 ## Actions
 
@@ -512,3 +524,112 @@ National Defense Authorization Act for Fiscal Year 2024
 - 2023-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
 - 2023-07-27 — See also S. 2226.
 - 2023-07-27 — Senate struck all after the Enacting Clause and substituted the language of S. 2226, as amended.
+- 2023-08-04 — Message on Senate action sent to the House.
+- 2023-09-19 — DEBATE - The House proceeded with one hour of debate on the motion to disagree to the Senate amendment and request a conference.
+- 2023-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-19 — Mr. Rogers (AL) moved that the House close portions of the conference.
+- 2023-09-19 — Mr. Rogers (AL) moved that the House disagree to the Senate amendment, and request a conference. (consideration: CR H4401-4403)
+- 2023-09-19 — On motion that the House disagree to the Senate amendment, and request a conference Agreed to by the Yeas and Nays: 393 - 27 (Roll no. 395).
+- 2023-09-19 — On motion to close portions of the conference Agreed to by the Yeas and Nays: 401 - 19 (Roll no. 396).
+- 2023-09-19 — Resolving differences -- House actions: On motion that the House disagree to the Senate amendment, and request a conference Agreed to by the Yeas and Nays: 393 - 27 (Roll no. 395).
+- 2023-09-19 — Resolving differences -- House actions: On motion to close portions of the conference Agreed to by the Yeas and Nays: 401 - 19 (Roll no. 396).
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: Rogers of Alabama, Wilson of South Carolina, Lamborn, Wittman, Austin Scott of Georgia, Stefanik, DesJarlais, Kelly of Mississippi, Gallagher, Gaetz, Bacon, Banks, Bergman, Waltz, Johnson of Louisiana, McClain, Jackson of Texas, Fallon, Gimenez, Mace, Greene of Georgia, Smith of Washington, Courtney, Garamendi, Norcross, Gallego, Moulton, Carbajal, Khanna, Keating, Kim of New Jersey, Houlahan, Slotkin, Sherrill, and Escobar.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 636, 651-55, 658-61, 1041, and 1042 of the House bill and secs. 303, 563, 592, 593, 1079, 1090K, 1099JJ, 1726, and 3142 of the Senate amendment and modifications committed to conference: Foxx, Owens, and Scott (VA).
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 224, 749, and 3121 of the House bill, and secs. 314, 712 of division A, 1087, 1088, 1090A, 1090G, 1099II, 3122-24, 3143, 3144, 6074, 8141, and sec. 11009 of division J of the Senate amendment and modifications committed to conference: Carter (GA), Pfluger, and Pallone.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of subtitle J of Title X of Division A, secs. 1085 and 1086, title LXVIII of Division E, Division I, and Division J of the Senate amendment, and modifications committed to conference: McHenry, Luetkemeyer, and Waters.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 217, 1009, 1080K, 1210, 1211, 1213, 1214, 1216, 1220, 1220A, 1220C, 1220G, 1220K, 1220L, 1221-24, 1234, 1245, 1250, 1310L, 1505, and 1883 of the House bill, and secs. 212, 1085, 1302, 1397, 1399B, 1399D, 1399E, 1399F, 1399I, 1399J, 1399K, 1399L, subtitles H-K of title XIII of division A, secs. 1634, 6031, 6242, 6293, division F, and secs. 11104 and 11105 of the Senate amendment and modifications committed to conference: McCaul, McCormick, and Meeks.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 261, 510, 1853, 1865, 2843, 2844, 2847, and 3515 of the House bill, and secs. 312, 1041, 1090G, 2805, 6711, 11002 of division J, division K, and sec. 11341 of the Senate amendment and modifications committed to conference: Carl, Hageman, and Grijalva.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Oversight and Accountability for consideration of secs. 364, 834, 891, 899C, 921, 922, 1047, 1101-10, 1116-18, 1122, 1221, 1222, 1521, 1523, 1805, and 1880 of the House bill, and secs. 537, 867, subtitle H of title X of division A, secs. 1201-03, 1206-09, 1211-13, 1215, 1512, 11133, 6101, 6202, 6203, 6607, sec. 6831 of division E, 8141, 9005, 11331-33, and secs. 601, 603, 605, 703, 704, 715-18, 802, and 1001 of division M, and secs. 11001 and 11002 of division L of the Senate amendment and modifications committed to conference: Grothman, Perry, and Raskin.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of secs. 886, 1608, 1875, and 1879 of the House bill, and secs. 308, 845, 1090E, 1090G, 3144, 5204, and title X of division M of the Senate amendment, and modifications committed to conference: Garcia, Mike, Collins, and Lofgren.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 223, 853, 881, 882, 884, and 886 of the House bill, and secs. 141, 823, 831, 841-45, 849-52, and 5841 of the Senate amendment, and modifications committed to conference: Molinaro, Alford, and Velazquez.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 315, 707, 723, 866, 1602, 1608, 1804, 1854, 3501, 3511-13, 3515, 3531, and 3533 of the House bill, and secs. 314, 1083, 1090D, 1399N, 1606, 1644, 2814, title XXXV of division C, secs. 6079, 6226, 8141, and division H of the Senate amendment, and modifications committed to conference: Graves (MO), Webster (FL), and Larsen (WA).
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 571, 572, 579, 1118, 1413, 1733, and 1885 of the House bill, and secs. 1084, 1090B, 1521, 1833, 1852, 6071, 6077, and 11020 of the Senate amendment, and modifications committed to conference: Bost, Luttrell, and Takano.
+- 2023-09-19 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 542, 822, 1049, 1689, and 3116 of the House bill, and secs. 1041, 1090H, subtitles I and K of title X of division A, subtitle I of title XIII of division A, secs. 6031, 6075, 6082, 6084, subtitle H of title LX of division E, secs. 6813, 6816, 6821, 6831 of division E, secs. 9007, 9011, 9012, 9014, and title LXXI of the Senate amendment and modifications committed to conference: Issa, Lee (FL), and Nadler.
+- 2023-09-19 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Turner, Wenstrup, and Himes.
+- 2023-09-19 — The previous question was ordered without objection.
+- 2023-09-20 — DEBATE - The House proceeded with one hour of debate on the Houlahan motion to instruct conferees on H.R. 2670. The instructions contained in the motion seek to require the managers on the part of the House to disagree to section 716 of the House bill.
+- 2023-09-20 — Message on House action received in Senate and at desk: House requests a conference.
+- 2023-09-20 — Ms. Houlahan moved that the House instruct conferees. (consideration: CR H4419-4425)
+- 2023-09-20 — On motion that the House instruct conferees Failed by the Yeas and Nays: 205 - 214 (Roll no. 400).
+- 2023-09-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Houlahan motion to instruct conferees on H.R. 2670, the Chair put the question on the motion and by voice vote announced that the noes had prevailed. Ms. Houlahan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced. (consideration: CR H4426)
+- 2023-09-20 — Resolving differences -- House actions: On motion that the House instruct conferees Failed by the Yeas and Nays: 205 - 214 (Roll no. 400).
+- 2023-09-20 — The previous question was ordered without objection.
+- 2023-09-28 — MODIFICATION TO CONFEREES - The Chair appoints the following conferees on H.R. 2670 in lieu of their appointments on September 19, 2023: From the Committee on Financial Services, for consideration of subtitle J of title X of Division A, secs. 1085 and 1086, title LXVIII of Division E, Division I, and Division J of the Senate amendment, and modifications committed to conference: Mr. McHenry, Mr. Luetkemeyer, and Ms. Waters. Agreed to without objection.
+- 2023-11-15 — Measure laid before Senate by unanimous consent. (consideration: CR S5527, S5529-5531)
+- 2023-11-15 — Motion by Senator Lummis to instruct Senate conferees (Crypto) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Lummis to instruct Senate conferees made in Senate. (consideration: CR S5530-5531; text: CR S5530)
+- 2023-11-15 — Motion by Senator Reed (for Senator Hickenlooper) to instruct Senate conferees (Space Command) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Reed (for Senator Hickenlooper) to instruct Senate conferees made in Senate. (consideration: CR S5530; text: CR S5530)
+- 2023-11-15 — Motion by Senator Reed (for Senator Klobuchar) to instruct Senate conferees (Afghan refugees) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Reed (for Senator Klobuchar) to instruct Senate conferees made in Senate. (consideration: CR S5530; text: CR S5530)
+- 2023-11-15 — Motion by Senator Reed (for Senator Manchin) to instruct Senate conferees (Nuclear Fuel) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Reed (for Senator Manchin) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Blackburn) to instruct Senate conferees (Transfer of Funds) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Blackburn) to instruct Senate conferees made in Senate. (consideration: CR S5530; text: CR S5530)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Braun) to instruct Senate conferees (Chief Management Officer) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Braun) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Cramer) to instruct Senate conferees (Air Force Capability) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Cramer) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Ernst) to instruct Senate conferees (National Security Council) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Ernst) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Hagerty) to instruct Senate conferees (Biotechnology) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Hagerty) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Lankford) to instruct Senate conferees (Israel) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Lankford) to instruct Senate conferees made in Senate. (consideration: CR S5530; text: CR S5530)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Moran) to instruct Senate conferees (Commissary) agreed to in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Moran) to instruct Senate conferees made in Senate. (consideration: CR S5531; text: CR S5531)
+- 2023-11-15 — Motion by Senator Wicker (for Senator Rubio) to instruct Senate conferees (Hamas Visas) rejected in Senate by Voice Vote.
+- 2023-11-15 — Motion by Senator Wicker (for Senator Rubio) to instruct Senate conferees made in Senate. (consideration: CR S5530; text: CR S5530)
+- 2023-11-15 — Motion to insist on the amendment of the Senate to H.R. 2670, agree to the request for conference, and authorize the Presiding Officer to appoint conferees agreed to by Yea-Nay Vote. 90 - 8. Record Vote Number: 313.
+- 2023-11-15 — Senate appointed conferees. Reed; Shaheen; Gillibrand; Blumenthal; Hirono; Kaine; King; Warren; Peters; Manchin; Duckworth; Rosen; Kelly; Wicker; Fischer; Cotton; Rounds; Ernst; Sullivan; Cramer; Scott FL; Tuberville; Mullin; Budd; Schmitt.
+- 2023-11-15 — Senate insists on its amendment to H.R. 2670, agrees to a conference with the House, and authorizes the Presiding Officer to appoint conferees.
+- 2023-11-28 — Message on Senate action sent to the House.
+- 2023-11-29 — Conference held.
+- 2023-12-06 — Conference report H. Rept. 118-301 filed. (text of conference report: CR H6213-6718)
+- 2023-12-07 — 
+- 2023-12-07 — 
+- 2023-12-07 — Amendment SA 1373 proposed by Senator Schumer to the instructions of the motion to recommit the conference report to accompany H.R. 2670 to the committee on conference. (consideration: CR S5838) To modify the effective date.
+- 2023-12-07 — Amendment SA 1374 proposed by Senator Schumer to Amendment SA 1373. (consideration: CR S5838-5839) To modify the effective date.
+- 2023-12-07 — Cloture motion on the conference report to accompany H.R. 2670 presented in Senate. (CR S5838)
+- 2023-12-07 — Conferees agreed to file conference report.
+- 2023-12-07 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2023-12-07 — Conference report considered in Senate. (consideration: CR S5838-5839)
+- 2023-12-07 — Motion by Senator Schumer to recommit the conference report to accompany H.R. 2670 to the committee on conference with instructions made in Senate. (text: CR S5838)
+- 2023-12-07 — Motion to proceed to consideration of the conference report to accompany H.R. 2670, agreed to in Senate by Yea-Nay Vote. 82 - 15. Record Vote Number: 334.
+- 2023-12-07 — Senate amendment proposed (on the floor): Amendment SA 1373 proposed by Senator Schumer to the instructions of the motion to recommit the conference report to accompany H.R. 2670 to the committee on conference.
+- 2023-12-07 — Senate amendment proposed (on the floor): Amendment SA 1374 proposed by Senator Schumer to Amendment SA 1373.
+- 2023-12-07 — Senate amendment submitted
+- 2023-12-07 — Senate amendment submitted
+- 2023-12-07 — Senate amendment submitted
+- 2023-12-07 — Senate amendment submitted
+- 2023-12-12 — 
+- 2023-12-12 — Cloture on the conference report to accompany H.R. 2670 invoked in Senate by Yea-Nay Vote. 85 - 15. Record Vote Number: 341.
+- 2023-12-12 — Conference report considered in Senate. (consideration: CR S5912-5915)
+- 2023-12-12 — Considered by Senate.
+- 2023-12-12 — Considered by Senate.
+- 2023-12-12 — Motion by Senator Schumer to recommit the conference report to accompany H.R. 2670 to the committee on conference with instructions fell when cloture was invoked on the conference report to accompany H.R. 2670.
+- 2023-12-12 — Motion to table amendment SA 1373 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 339. (consideration: CR S5912)
+- 2023-12-12 — Motion to table the motion to recommit the conference report to accompany H.R. 2670 to the committee on conference with instructions rejected in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 340.
+- 2023-12-12 — Roll call votes on amendments in Senate: Motion to table amendment SA 1373 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 339.
+- 2023-12-12 — SA 1373 (to the instructions of the motion to recommit) fell when cloture invoked on the conference report to accompany H.R. 2670.
+- 2023-12-12 — SA 1374 fell when SA 1373 fell.
+- 2023-12-12 — Senate amendment submitted
+- 2023-12-12 — Senate amendment submitted
+- 2023-12-13 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 87 - 13. Record Vote Number: 343.
+- 2023-12-13 — Conference report considered in Senate.
+- 2023-12-13 — Message on Senate action sent to the House.
+- 2023-12-13 — Motion to waive the Rule XXVII point of order re: section 7902 with respect to the measure (conference report to accompany H.R. 2670) agreed to in Senate by Yea-Nay Vote. 65 - 35. Record Vote Number: 342.
+- 2023-12-13 — Point of order that section 7902 of the conference report to accompany H.R. 2670 violates Rule XXVIII raised in Senate.
+- 2023-12-13 — Senate agreed to conference report by Yea-Nay Vote. 87 - 13. Record Vote Number: 343.
+- 2023-12-14 — Conference report agreed to in House: On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 310 - 118 (Roll no. 723).
+- 2023-12-14 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the conference report accompanying H.R. 2670.
+- 2023-12-14 — Motions to reconsider laid on the table Agreed to without objection.
+- 2023-12-14 — Mr. Rogers (AL) moved to suspend the rules and agree to the conference report, H. Rept. 118-301. (consideration: CR H6961-6962)
+- 2023-12-14 — On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 310 - 118 (Roll no. 723).
+- 2023-12-14 — Presented to President.
+- 2023-12-14 — Presented to President.
+- 2023-12-22 — Became Public Law No: 118-31.
+- 2023-12-22 — Became Public Law No: 118-31.
+- 2023-12-22 — Signed by President.
+- 2023-12-22 — Signed by President.

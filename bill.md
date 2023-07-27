@@ -1,31 +1,33 @@
 ---
 legis-num: H.R. 2670
-congress: 118th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2670
 
-That the bill from the House of Representatives (H.R. 2670) entitled “An Act to authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes. ”, do pass with the following
+> To authorize appropriations for fiscal year 2024 for military activities of the Department of Defense and for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title
 
-- **(a)** *Short title* This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2024”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+This Act may be cited as the “National Defense Authorization Act for Fiscal Year 2024”.
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into four divisions as follows:
+- **(a)** *Divisions* This Act is organized into seven divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Other Matters.
+  - **(6)** Division F—Department of State Authorization Act of 2023.
+  - **(7)** Division G—Intelligence Authorization Act for Fiscal Year 2024.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
 
-In this Act, the term congressional defense committees has the meaning given that term in section 101(a)(16) of title 10, United States Code.
+In this Act, the term “congressional defense committees” has the meaning given that term in section 101(a)(16) of title 10, United States Code.
 
 ## § 4. Budgetary effects of this Act
 
