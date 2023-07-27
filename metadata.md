@@ -1,7 +1,7 @@
 ---
 measure: S. 2226
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2226
@@ -16,8 +16,816 @@ National Defense Authorization Act for Fiscal Year 2024
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (59)
+## Cosponsors (964)
 
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -77,10 +885,134 @@ National Defense Authorization Act for Fiscal Year 2024
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Marshall, Roger [R-KS] (M001198)
 
 ## Committees (1)
 
 - Senate — Armed Services Committee
+
+## Recorded votes (24)
+
+- 2023-07-18 — [Senate 118-1-188](votes/senate-118-1-0188.md) — On the Cloture Motion — **Cloture Motion Agreed to** (72–25)
+- 2023-07-19 — [Senate 118-1-189](votes/senate-118-1-0189.md) — On the Amendment — **Amendment Agreed to** (96–2)
+- 2023-07-19 — [Senate 118-1-190](votes/senate-118-1-0190.md) — On the Amendment — **Amendment Agreed to** (65–28)
+- 2023-07-19 — [Senate 118-1-191](votes/senate-118-1-0191.md) — On the Amendment — **Amendment Rejected** (16–83)
+- 2023-07-19 — [Senate 118-1-192](votes/senate-118-1-0192.md) — On the Amendment — **Amendment Rejected** (39–60)
+- 2023-07-20 — [Senate 118-1-194](votes/senate-118-1-0194.md) — On the Amendment — **Amendment Agreed to** (85–14)
+- 2023-07-20 — [Senate 118-1-195](votes/senate-118-1-0195.md) — On the Amendment — **Amendment Rejected** (13–71)
+- 2023-07-25 — [Senate 118-1-196](votes/senate-118-1-0196.md) — On the Amendment — **Amendment Agreed to** (91–6)
+- 2023-07-25 — [Senate 118-1-197](votes/senate-118-1-0197.md) — On the Amendment — **Amendment Agreed to** (91–7)
+- 2023-07-26 — [Senate 118-1-198](votes/senate-118-1-0198.md) — On the Amendment — **Amendment Agreed to** (95–2)
+- 2023-07-26 — [Senate 118-1-199](votes/senate-118-1-0199.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2023-07-26 — [Senate 118-1-200](votes/senate-118-1-0200.md) — On the Amendment — **Amendment Rejected** (51–48)
+- 2023-07-26 — [Senate 118-1-201](votes/senate-118-1-0201.md) — On the Amendment — **Amendment Rejected** (20–78)
+- 2023-07-27 — [Senate 118-1-202](votes/senate-118-1-0202.md) — On the Amendment — **Amendment Agreed to** (96–3)
+- 2023-07-27 — [Senate 118-1-203](votes/senate-118-1-0203.md) — On the Amendment — **Amendment Rejected** (11–88)
+- 2023-07-27 — [Senate 118-1-204](votes/senate-118-1-0204.md) — On the Amendment — **Amendment Rejected** (50–49)
+- 2023-07-27 — [Senate 118-1-205](votes/senate-118-1-0205.md) — On the Amendment — **Amendment Rejected** (51–47)
+- 2023-07-27 — [Senate 118-1-206](votes/senate-118-1-0206.md) — On the Amendment — **Amendment Agreed to** (94–4)
+- 2023-07-27 — [Senate 118-1-207](votes/senate-118-1-0207.md) — On the Amendment — **Amendment Agreed to** (61–37)
+- 2023-07-27 — [Senate 118-1-208](votes/senate-118-1-0208.md) — On the Amendment — **Amendment Agreed to** (96–2)
+- 2023-07-27 — [Senate 118-1-209](votes/senate-118-1-0209.md) — On the Amendment — **Amendment Agreed to** (86–11)
+- 2023-07-27 — [Senate 118-1-210](votes/senate-118-1-0210.md) — On the Amendment — **Amendment Rejected** (55–42)
+- 2023-07-27 — [Senate 118-1-211](votes/senate-118-1-0211.md) — On the Amendment — **Amendment Agreed to** (94–3)
+- 2023-07-27 — [Senate 118-1-212](votes/senate-118-1-0212.md) — On Passage of the Bill — **Bill Passed** (86–11)
 
 ## Actions
 
@@ -153,3 +1085,2986 @@ National Defense Authorization Act for Fiscal Year 2024
 - 2023-07-11 — Senate amendment submitted
 - 2023-07-11 — Senate amendment submitted
 - 2023-07-11 — Senate amendment submitted
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — 
+- 2023-07-12 — By Senator Reed from Committee on Armed Services filed written report. Report No. 118-58.
+- 2023-07-12 — By Senator Reed from Committee on Armed Services filed written report. Report No. 118-58.
+- 2023-07-12 — Motion to proceed to consideration of measure made in Senate. (consideration: CR  S2337)
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-12 — Senate amendment submitted
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — 
+- 2023-07-13 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2449)
+- 2023-07-13 — Motion to proceed to consideration of measure made in Senate by Unanimous Consent. (CR S2449)
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-13 — Senate amendment submitted
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — 
+- 2023-07-18 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 72 - 25. Record Vote Number: 188. (CR S2977)
+- 2023-07-18 — Motion to proceed to measure considered in Senate. (CR S2977)
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-18 — Senate amendment submitted
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — 
+- 2023-07-19 — Amendment SA 222 proposed by Senator Paul to Amendment SA 935. (consideration: CR S3137-3138) To express the sense of Congress that Article 5 of the North Atlantic Treaty does not supersede the constitutional requirement that Congress declare war before the United States engages in war.
+- 2023-07-19 — Amendment SA 222 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 16 - 83. Record Vote Number: 191.
+- 2023-07-19 — Amendment SA 300 proposed by Senator Murray to Amendment SA 935. (consideration: CR S3135-3136) To amend the Energy Employees Occupational Illness Compensation Program Act of 2000 to expand the ways beryllium sensitivity can be established for purposes of compensation under that Act and to extend the authorization of the Advisory Board on Toxic Substances and Worker Health of the Department of Labor.
+- 2023-07-19 — Amendment SA 300 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 189.
+- 2023-07-19 — Amendment SA 429 proposed by Senator Kaine to Amendment SA 935. (consideration: CR S3136-3137) To require the advice and consent of the Senate or an Act of Congress to suspend, terminate, or withdraw the United States from the North Atlantic Treaty and authorizing related litigation, and for other purposes.
+- 2023-07-19 — Amendment SA 429 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 65 - 28. Record Vote Number: 190.
+- 2023-07-19 — Amendment SA 838 proposed by Senator Vance for Senator Hawley to Amendment SA 935. (consideration: CR S3138-3139) To amend the Foreign Assistance Act of 1961 to clarify the meaning of the term "aggregate value" for purposes of the Presidential drawdown authority.
+- 2023-07-19 — Amendment SA 838 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 192.
+- 2023-07-19 — Amendment SA 935 proposed by Senator Schumer for Senator Reed. (consideration: CR S3129) In the nature of a substitute.
+- 2023-07-19 — Amendment SA 936 proposed by Senator Schumer to Amendment SA 935. (consideration: CR S3129) To add an effective date.
+- 2023-07-19 — Measure laid before Senate by motion. (consideration: CR S3129-3144)
+- 2023-07-19 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2023-07-19 — Motion to proceed to measure considered in Senate. (CR S3129)
+- 2023-07-19 — Roll call votes on amendments in Senate: Amendment SA 222 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 16 - 83. Record Vote Number: 191.
+- 2023-07-19 — Roll call votes on amendments in Senate: Amendment SA 300 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 189.
+- 2023-07-19 — Roll call votes on amendments in Senate: Amendment SA 429 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 65 - 28. Record Vote Number: 190.
+- 2023-07-19 — Roll call votes on amendments in Senate: Amendment SA 838 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 192.
+- 2023-07-19 — Senate amendment agreed to: Amendment SA 300 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 189.
+- 2023-07-19 — Senate amendment agreed to: Amendment SA 429 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 65 - 28. Record Vote Number: 190.
+- 2023-07-19 — Senate amendment not agreed to: Amendment SA 222 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 16 - 83. Record Vote Number: 191.
+- 2023-07-19 — Senate amendment not agreed to: Amendment SA 838 under the order of 7/19/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 192.
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 222 proposed by Senator Paul to Amendment SA 935.(consideration: CR S3137-3138)
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 300 proposed by Senator Murray to Amendment SA 935.(consideration: CR S3135-3136)
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 429 proposed by Senator Kaine to Amendment SA 935.(consideration: CR S3136-3137)
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 838 proposed by Senator Vance for Senator Hawley to Amendment SA 935.(consideration: CR S3138-3139)
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 935 proposed by Senator Schumer for Senator Reed.(consideration: CR S3129)
+- 2023-07-19 — Senate amendment proposed (on the floor): Amendment SA 936 proposed by Senator Schumer to Amendment SA 935.(consideration: CR S3129)
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-19 — Senate amendment submitted
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — 
+- 2023-07-20 — Amendment SA 224 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 224 proposed by Senator Reed for Senator Blackburn to Amendment SA 935. (consideration: CR S3449-3451) To provide funding for women's health to support initiatives for mobile mammography services for women veterans.
+- 2023-07-20 — Amendment SA 273 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 273 proposed by Senator Reed for Senator Grassley to Amendment SA 935. (consideration: CR S3449-3451) To improve a provision relating to a report on progress on a multi-year strategy and plan for the Baltic Security Initiative.
+- 2023-07-20 — Amendment SA 315 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 315 proposed by Senator Reed for Senator Sinema to Amendment SA 935. (consideration: CR S3449-3451) To provide for the assumption of full ownership and control of the International Outfall Interceptor in Nogales, Arizona, by the International Boundary and Water Commission.
+- 2023-07-20 — Amendment SA 376 not agreed to in Senate by Yea-Nay Vote. 13 - 71. Record Vote Number: 195.
+- 2023-07-20 — Amendment SA 376 proposed by Senator Lee to Amendment SA 935. (consideration: CR S3448-3449) To limit the availability of funds for the support of Ukraine.
+- 2023-07-20 — Amendment SA 510 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 510 proposed by Senator Reed for Senator Scott FL to Amendment SA 935. (consideration: CR S3449-3451) To provide for drone security.
+- 2023-07-20 — Amendment SA 685 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 685 proposed by Senator Reed for Senator Baldwin to Amendment SA 935. (consideration: CR S3449-3451) To provide for an enhanced domestic content requirement for navy shipbuilding programs.
+- 2023-07-20 — Amendment SA 823 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 823 proposed by Senator Reed for Senator Romney to Amendment SA 935. (consideration: CR S3449-3451) To end the treatment of the People's Republic of China as a developing nation.
+- 2023-07-20 — Amendment SA 926 proposed by Senator Cruz to Amendment SA 935. (consideration: CR S3444-3445) To prohibit the export or sale of petroleum products from the Strategic Petroleum Reserve to certain entities.
+- 2023-07-20 — Amendment SA 926 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 194.
+- 2023-07-20 — Amendment SA 949 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Amendment SA 949 proposed by Senator Reed for Senator Moran to Amendment SA 935. (consideration: CR S3449-3451) To ensure access to commissary and exchange privileges for remarried spouses of members of the Armed Forces.
+- 2023-07-20 — Considered by Senate. (consideration: CR S3444)
+- 2023-07-20 — Considered by Senate. (consideration: CR S3444-3445)
+- 2023-07-20 — Considered by Senate. (consideration: CR S3444-3451)
+- 2023-07-20 — Roll call votes on amendments in Senate: Amendment SA 376 not agreed to in Senate by Yea-Nay Vote. 13 - 71. Record Vote Number: 195.
+- 2023-07-20 — Roll call votes on amendments in Senate: Amendment SA 926 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 194.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 224 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 273 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 315 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 510 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 685 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 823 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 926 under the order of 7/19/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 194.
+- 2023-07-20 — Senate amendment agreed to: Amendment SA 949 agreed to in Senate by Voice Vote.
+- 2023-07-20 — Senate amendment not agreed to: Amendment SA 376 not agreed to in Senate by Yea-Nay Vote. 13 - 71. Record Vote Number: 195.
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 224 proposed by Senator Reed for Senator Blackburn to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 273 proposed by Senator Reed for Senator Grassley to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 315 proposed by Senator Reed for Senator Sinema to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 376 proposed by Senator Lee to Amendment SA 935.(consideration: CR S3448-3449)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 510 proposed by Senator Reed for Senator Scott FL to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 685 proposed by Senator Reed for Senator Baldwin to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 823 proposed by Senator Reed for Senator Romney to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 926 proposed by Senator Cruz to Amendment SA 935.(consideration: CR S3444-3445)
+- 2023-07-20 — Senate amendment proposed (on the floor): Amendment SA 949 proposed by Senator Reed for Senator Moran to Amendment SA 935.(consideration: CR S3449-3451)
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-20 — Senate amendment submitted
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — 
+- 2023-07-25 — Amendment SA 813 proposed by Senator Rounds to Amendment SA 935. (consideration: CR S3512-3513) To amend the Defense Production Act of 1950 to include the Secretary of Agriculture on the Committee on Foreign Investment in the United States and require review of certain agricultural transactions.
+- 2023-07-25 — Amendment SA 813 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 197.
+- 2023-07-25 — Amendment SA 931 proposed by Senator Cornyn to Amendment SA 935. (consideration: CR S3510-3512) To provide for an investment screening mechanism relating to covered sectors.
+- 2023-07-25 — Amendment SA 931 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 6. Record Vote Number: 196.
+- 2023-07-25 — Considered by Senate. (consideration: CR S3503)
+- 2023-07-25 — Considered by Senate. (consideration: CR S3503-3517)
+- 2023-07-25 — Considered by Senate. (consideration: CR S3510-3513)
+- 2023-07-25 — Roll call votes on amendments in Senate: Amendment SA 813 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 197.
+- 2023-07-25 — Roll call votes on amendments in Senate: Amendment SA 931 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 6. Record Vote Number: 196.
+- 2023-07-25 — Senate amendment agreed to: Amendment SA 813 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 197.
+- 2023-07-25 — Senate amendment agreed to: Amendment SA 931 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 91 - 6. Record Vote Number: 196.
+- 2023-07-25 — Senate amendment proposed (on the floor): Amendment SA 813 proposed by Senator Rounds to Amendment SA 935.(consideration: CR S3512-3513)
+- 2023-07-25 — Senate amendment proposed (on the floor): Amendment SA 931 proposed by Senator Cornyn to Amendment SA 935.(consideration: CR S3510-3512)
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-25 — Senate amendment submitted
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — 
+- 2023-07-26 — Amendment SA 1055 proposed by Senator Wicker to Amendment SA 935. (consideration: CR S3587-3588) To establish the Office of the Lead Inspector General for Ukraine Assistance.
+- 2023-07-26 — Amendment SA 1055 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 200.
+- 2023-07-26 — Amendment SA 199 proposed by Senator Warnock to Amendment SA 935. (consideration: CR S3570-3571) To provide enhanced protection against debt collector harassment of members of the Armed Forces.
+- 2023-07-26 — Amendment SA 199 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 198.
+- 2023-07-26 — Amendment SA 421 proposed by Senator Cruz to Amendment SA 935. (consideration: CR S3586-3587) To provide remedies to members of the Armed Forces discharged or subject to adverse action under the COVID-19 vaccine mandate.
+- 2023-07-26 — Amendment SA 421 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 199.
+- 2023-07-26 — Amendment SA 438 proposed by Senator Paul to Amendment SA 935. (consideration: CR S3588-3589) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations funded with amounts appropriated or otherwise made available to Ukraine for military, economic, and humanitarian aid.
+- 2023-07-26 — Amendment SA 438 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 20 - 78. Record Vote Number: 201.
+- 2023-07-26 — Cloture motion on amendment SA 935 presented in Senate.
+- 2023-07-26 — Cloture motion on the measure presented in Senate.
+- 2023-07-26 — Considered by Senate. (consideration: CR S3563-3580, S3585-3609)
+- 2023-07-26 — Considered by Senate. (consideration: CR S3585)
+- 2023-07-26 — Considered by Senate. (consideration: CR S3585)
+- 2023-07-26 — Roll call votes on amendments in Senate: Amendment SA 1055 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 200.
+- 2023-07-26 — Roll call votes on amendments in Senate: Amendment SA 199 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 198.
+- 2023-07-26 — Roll call votes on amendments in Senate: Amendment SA 421 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 199.
+- 2023-07-26 — Roll call votes on amendments in Senate: Amendment SA 438 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 20 - 78. Record Vote Number: 201.
+- 2023-07-26 — Senate amendment agreed to: Amendment SA 199 under the order of 7/20/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 198.
+- 2023-07-26 — Senate amendment not agreed to: Amendment SA 1055 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 200.
+- 2023-07-26 — Senate amendment not agreed to: Amendment SA 421 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 199.
+- 2023-07-26 — Senate amendment not agreed to: Amendment SA 438 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 20 - 78. Record Vote Number: 201.
+- 2023-07-26 — Senate amendment proposed (on the floor): Amendment SA 1055 proposed by Senator Wicker to Amendment SA 935.(consideration: CR S3587-3588)
+- 2023-07-26 — Senate amendment proposed (on the floor): Amendment SA 199 proposed by Senator Warnock to Amendment SA 935.(consideration: CR S3570-3571)
+- 2023-07-26 — Senate amendment proposed (on the floor): Amendment SA 421 proposed by Senator Cruz to Amendment SA 935.(consideration: CR S3586-3587)
+- 2023-07-26 — Senate amendment proposed (on the floor): Amendment SA 438 proposed by Senator Paul to Amendment SA 935.(consideration: CR S3588-3589)
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-26 — Senate amendment submitted
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — 
+- 2023-07-27 — Amendment SA 1030 proposed by Senator Sanders to Amendment SA 935. (consideration: CR S3718-3719) To reduce military spending.
+- 2023-07-27 — Amendment SA 1030 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 88. Record Vote Number: 203.
+- 2023-07-27 — Amendment SA 1034 proposed by Senator Kennedy to Amendment SA 935. (consideration: CR S3721-3722) To prohibit allocations of Special Drawing Rights at the International Monetary Fund for perpetrators of genocide and state sponsors of terrorism without congressional authorization.
+- 2023-07-27 — Amendment SA 1034 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 205.
+- 2023-07-27 — Amendment SA 1058 proposed by Senator Hawley to Amendment SA 935. (consideration: CR S3723-3724) To extend the period for filing claims under the Radiation Exposure Compensation Act and to provide for compensation under such Act for claims relating to Manhattan Project waste, and to improve compensation for workers involved in uranium mining.
+- 2023-07-27 — Amendment SA 1058 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 207.
+- 2023-07-27 — Amendment SA 1065 proposed by Senator Gillibrand to Amendment SA 935. (consideration: CR S3722-3723) To amend title XXXIII of the Public Health Service Act with respect to funding for the World Trade Center Health Program.
+- 2023-07-27 — Amendment SA 1065 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 206.
+- 2023-07-27 — Amendment SA 1078 proposed by Senator Schatz to Amendment SA 935. (consideration: CR S3724-3725) To reauthorize the Native American Housing Assistance and Self-Determination Act of 1996.
+- 2023-07-27 — Amendment SA 1078 under the order of 7/27/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 209.
+- 2023-07-27 — Amendment SA 1084 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Amendment SA 1084 proposed by Senator Daines to Amendment SA 935. (consideration: CR S3727) To provide for the settlement of the water rights claims of the Fort Belknap Indian Community.
+- 2023-07-27 — Amendment SA 1087 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 211.
+- 2023-07-27 — Amendment SA 1087 proposed by Senator Reed to Amendment SA 935. (consideration: CR S3727-3728) To provide for a manager's amendment.
+- 2023-07-27 — Amendment SA 230 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Amendment SA 230 proposed by Senator Young to Amendment SA 935. (consideration: CR S3726-3727) To ensure that the Department of Defense has received an unqualified opinion on its financial statements by October 1, 2027.
+- 2023-07-27 — Amendment SA 523 proposed by Senator Rubio to Amendment SA 935. (consideration: CR S3726) To provide that sums in the Thrift Savings Fund may not be invested in securities that are listed on certain foreign exchanges.
+- 2023-07-27 — Amendment SA 523 under the order of 7/27/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 210.
+- 2023-07-27 — Amendment SA 638 proposed by Senator Menendez to Amendment SA 935. (consideration: CR S3724) To reauthorize the Firefighter Cancer Registry Act of 2018.
+- 2023-07-27 — Amendment SA 638 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 208.
+- 2023-07-27 — Amendment SA 705 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Amendment SA 705 proposed by Senator Cardin to Amendment SA 935. (consideration: CR S3719) To identify countries that are champions in the battle to combat global corruption, and for other purposes.
+- 2023-07-27 — Amendment SA 874 proposed by Senator Marshall to Amendment SA 935. (consideration: CR S3720-3721) To prohibit the flying, draping, or other display of any flag other than the flag of the United States at public buildings.
+- 2023-07-27 — Amendment SA 874 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2023-07-27 — Amendment SA 935, as amended, agreed to in Senate by Unanimous Consent.
+- 2023-07-27 — Amendment SA 944 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Amendment SA 944 proposed by Senator Scott SC to Amendment SA 935. (consideration: CR S3719) To require an assessment of the impact and feasibility of restricting gifts and grants to United States institutions of higher education from entities on the Non-SDN Chinese Military-Industrial Complex Companies List.
+- 2023-07-27 — Amendment SA 999 proposed by Senator Barrasso to Amendment SA 935. (consideration: CR S3717-3718) To require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, establish an HALEU for Advanced Nuclear Reactor Demonstration Projects Program, and submit a report on a civil nuclear credit program, and to enhance programs to build workforce capacity to meet critical mission needs of the Department of Energy.
+- 2023-07-27 — Amendment SA 999 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 202.
+- 2023-07-27 — Cloture motion on amendment SA 935 withdrawn by unanimous consent in Senate.
+- 2023-07-27 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2023-07-27 — Considered by Senate. (consideration: CR S3713-3726)
+- 2023-07-27 — Considered by Senate. (consideration: CR S3713-3728)
+- 2023-07-27 — Considered by Senate. (consideration: CR S3713-3729)
+- 2023-07-27 — Indefinitely postponed by Senate by Unanimous Consent.
+- 2023-07-27 — Passed Senate under the order of 7/27/2023, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 86 - 11. Record Vote Number: 212.
+- 2023-07-27 — Passed/agreed to in Senate: Passed Senate under the order of 7/27/2023, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 86 - 11. Record Vote Number: 212.
+- 2023-07-27 — Proposed amendment SA 936 withdrawn in Senate.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1030 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 88. Record Vote Number: 203.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1034 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 205.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1058 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 207.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1065 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 206.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1078 under the order of 7/27/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 209.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 1087 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 211.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 523 under the order of 7/27/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 210.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 638 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 208.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 874 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2023-07-27 — Roll call votes on amendments in Senate: Amendment SA 999 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 202.
+- 2023-07-27 — See also H.R. 2670.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1058 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 207.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1065 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 4. Record Vote Number: 206.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1078 under the order of 7/27/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 86 - 11. Record Vote Number: 209.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1084 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1087 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 211.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 230 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 638 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 2. Record Vote Number: 208.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 705 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 935, as amended, agreed to in Senate by Unanimous Consent.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 944 agreed to in Senate by Voice Vote.
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 999 under the order of 7/26/2023, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 202.
+- 2023-07-27 — Senate amendment not agreed to: Amendment SA 1030 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 11 - 88. Record Vote Number: 203.
+- 2023-07-27 — Senate amendment not agreed to: Amendment SA 1034 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 205.
+- 2023-07-27 — Senate amendment not agreed to: Amendment SA 523 under the order of 7/27/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 210.
+- 2023-07-27 — Senate amendment not agreed to: Amendment SA 874 under the order of 7/26/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 204.
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1030 proposed by Senator Sanders to Amendment SA 935.(consideration: CR S3718-3719)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1034 proposed by Senator Kennedy to Amendment SA 935.(consideration: CR S3721-3722)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1058 proposed by Senator Hawley to Amendment SA 935.(consideration: CR S3723-3724)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1065 proposed by Senator Gillibrand to Amendment SA 935.(consideration: CR S3722-3723)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1078 proposed by Senator Schatz to Amendment SA 935.(consideration: CR S3724-3725)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1084 proposed by Senator Daines to Amendment SA 935.(consideration: CR S3727)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1087 proposed by Senator Reed to Amendment SA 935.(consideration: CR S3727-3728)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 230 proposed by Senator Young to Amendment SA 935.(consideration: CR S3726-3727)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 523 proposed by Senator Rubio to Amendment SA 935.(consideration: CR S3726)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 638 proposed by Senator Menendez to Amendment SA 935.(consideration: CR S3724)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 705 proposed by Senator Cardin to Amendment SA 935.
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 874 proposed by Senator Marshall to Amendment SA 935.(consideration: CR S3720-3721)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 944 proposed by Senator Scott SC to Amendment SA 935.(consideration: CR S3719)
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 999 proposed by Senator Barrasso to Amendment SA 935.(consideration: CR S3717-3718)
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate incorporated this measure in H.R. 2670 as an amendment.
+- 2023-07-27 — Senate ordered measure printed as passed.
