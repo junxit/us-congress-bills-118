@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3395
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3395
@@ -20,9 +20,10 @@ U.S. Supply Chain Security Review Act of 2023
 
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ U.S. Supply Chain Security Review Act of 2023
 - 2023-07-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 7/25/2023 CR H3915)
 - 2023-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 7/25/2023 CR H3915)
+- 2023-07-27 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
