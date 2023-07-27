@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3208
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3208
@@ -16,13 +16,14 @@ DHS Cybersecurity On-the-Job Training Program Act
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
 ## Committees (1)
 
@@ -33,3 +34,8 @@ DHS Cybersecurity On-the-Job Training Program Act
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Introduced in House
 - 2023-05-11 — Referred to the House Committee on Homeland Security.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported by Voice Vote.
+- 2023-07-27 — Placed on the Union Calendar, Calendar No. 128.
+- 2023-07-27 — Reported by the Committee on Homeland Security. H. Rept. 118-161.
+- 2023-07-27 — Reported by the Committee on Homeland Security. H. Rept. 118-161.
