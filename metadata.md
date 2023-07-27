@@ -1,7 +1,7 @@
 ---
 measure: S. 1608
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1608
@@ -29,3 +29,7 @@ Starr–Camargo Bridge Expansion Act
 
 - 2023-05-16 — Introduced in Senate
 - 2023-05-16 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-07-27 — Passed Senate without amendment by Unanimous Consent. (text: CR S3844)
+- 2023-07-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3844)
+- 2023-07-27 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S3844-3845)
+- 2023-07-27 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S3844-3845)
