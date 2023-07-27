@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1858
@@ -33,3 +33,13 @@ Disaster Assistance Deadlines Alignment Act
 - 2023-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-74.
 - 2023-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-74.
 - 2023-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
+- 2023-07-27 — 
+- 2023-07-27 — Amendment SA 1091 agreed to in Senate by Unanimous Consent.
+- 2023-07-27 — Amendment SA 1091 proposed by Senator Schumer for Senator Peters. (consideration: CR S3843) To add an applicability provision.
+- 2023-07-27 — Measure laid before Senate by unanimous consent. (consideration: CR S3843)
+- 2023-07-27 — Passed Senate with an amendment by Unanimous Consent. (text: CR S3843)
+- 2023-07-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S3843)
+- 2023-07-27 — Senate amendment agreed to: Amendment SA 1091 agreed to in Senate by Unanimous Consent.
+- 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1091 proposed by Senator Schumer for Senator Peters.(consideration: CR S3843)
+- 2023-07-27 — Senate amendment submitted
+- 2023-07-27 — Senate amendment submitted

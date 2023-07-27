@@ -22,3 +22,7 @@ Section 410 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 >   - **(2)** *Extension* The President may accept an application from an individual described in paragraph (1) that is submitted after the deadline described in paragraph (1) if—
 >     - **(A)** the individual has good cause for the late submission; and
 >     - **(B)** the individual submits the application before the date on which the period during which assistance is provided under this section for the applicable major disaster expires.
+
+## § 3. Applicability
+
+The amendment made by section 2 shall apply only with respect to amounts appropriated on or after the date of enactment of this Act.
