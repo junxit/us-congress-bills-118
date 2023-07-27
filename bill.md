@@ -25,7 +25,7 @@ This Act may be cited as the “Duck Stamp Modernization Act of 2023”.
   - **(2)** in subsection (c), by striking “actual stamps” and inserting “actual stamps under subsection (e)”;
   - **(3)** by redesignating subsection (e) as subsection (f); and
   - **(4)** by inserting after subsection (d) the following:
-    > - **(e)** *Delivery of actual stamps* The Secretary shall issue an actual stamp after March 10 of each hunting year (as defined in section 10(b) of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718j(b))) to each individual that purchased an electronic stamp from a State pursuant to this Act during that hunting year (as so defined).
+    > - **(e)** *Delivery of actual stamps* The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl season.
 
 - **(b)** *Contents of electronic stamp* Section 2 of the Permanent Electronic Duck Stamp Act of 2013 (16 U.S.C. 718o) is amended—
   - **(1)** in paragraph (1), by striking “Federal” and all that follows through “that is printed” and inserting “Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et seq.) that is printed”; and
