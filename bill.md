@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 5112
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5112
+
+> To direct the Secretary of Defense to establish procedures for the review and reinvestigation of certain allegations of civilian harm that resulted from United States military operations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Civilian Harm Review and Reassessment Act” .
+
+## § 2. Procedures for review and reinvestigation of allegations of civilian harm resulting from certain United States military operations
+
+- **(a)** *Procedures required* Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall establish procedures under which the Secretary shall review and reinvestigate allegations of civilian harm that—
+  - **(1)** resulted from military operations involving the United States Armed Forces that were conducted between 2011 and 2023; and
+  - **(2)** the Secretary finds were likely incorrectly dismissed due to investigation errors or incomplete information.
+- **(b)** *Consultation* In establishing the procedures under subsection (a), the Secretary of Defense shall consult with nongovernmental organizations that focus on civilian harm and human rights.
+- **(c)** *Policy updates* Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that includes—
+  - **(1)** a description of any errors identified during the review and re-investigation process required under subsection (a);
+  - **(2)** an identification of any revised credibility assessments and new credibility findings;
+  - **(3)** a description of steps taken in response to new credibility findings, including any offers of ex gratia payments; and
+  - **(4)** recommended steps to prevent similar errors in the future.
+- **(d)** *Congressional defense committees* In this section, the term “congressional defense committees” means—
+  - **(1)** the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+  - **(2)** the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
