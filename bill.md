@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5122
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5122
+
+> To amend title 10, United States Code, to include the hardening of infrastructure in support of disaster mitigation in the definition of humanitarian and civic assistance.
+
+## § 1. Short title
+
+This Act may be cited as the “Disaster Mitigation through Military Service Act”.
+
+## § 2. Definition of humanitarian and civic assistance
+
+Section 401(e)(4) of title 10, United States Code, is amended by inserting before the period at the end the following: “or the hardening of existing infrastructure in such facilities in support of disaster mitigation”.
