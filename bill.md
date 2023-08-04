@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 647
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 647
+
+> Expressing support for the designation of August 15, 2023, as “Indian Independence Day: A National Day of Celebration of World’s Two Largest Democracies”.
+
+## Preamble
+
+- Whereas the Republic of India achieved its independence from the British Empire on August 15, 1947, marking the end of the struggle which freed the Indian people;
+- Whereas, on said day, Jawaharlal Nehru, the inaugural Prime Minister of India, hoisted the Indian national flag above the Lahore Gate of the Red Fort in Delhi;
+- Whereas members of India’s numerous ethnic groups, minorities, and religions including Hindus, Muslims, Sikhs, and Christians, all participate in the celebration of Independence Day;
+- Whereas, according to United Nations population estimates, India is the largest democracy in the world, with an estimated population of more than 1,425,000,000 people;
+- Whereas India’s contributions to democracy have inspired leaders and movements across the globe, including civil rights leader Dr. Martin Luther King, Jr.;
+- Whereas India embraces with the United States a system where the ultimate authority to govern is vested in the people;
+- Whereas these and other ideals have forged a close bond between our two nations and their peoples;
+- Whereas Prime Minister Modi’s Official State Visit to the United States on June 22, 2023, anchored the United States and India in a new level of trust and mutual understanding based on common interests and shared commitments to freedom, democracy, pluralism, the rule of law, and respect for human rights;
+- Whereas Americans with Indian heritage enhance public life in the United States as government officials, military personnel, and law enforcement officers who diligently uphold the principles of the United States Constitution and contribute to the enriching diversity of the Nation; and
+- Whereas it is proper and desirable to celebrate with the Indian people, and to reaffirm the democratic principles on which our two nations were born: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** expresses support for the designation of “Indian Independence Day: A National Day of Celebration of World’s Two Largest Democracies”;
+- **(2)** offers heartfelt greetings to the people of India as they conclude their festivities commemorating the 75th anniversary of India’s liberation from the British Empire;
+- **(3)** acknowledges the contributions of Americans of Indian descent to society in the United States; and
+- **(4)** expresses the belief that the strong partnership between the United States and India, rooted in shared democratic values, will continue to advance global democracy and foster peace, stability, and prosperity for all nations.
