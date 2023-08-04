@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 5144
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5144
+
+> To prohibit officers, employees, and elected officials of the Federal Government from having, establishing, maintaining official accounts on Tik Tok, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Government Off TikTok Act” or the “GOT Act”.
+
+## § 2. Prohibition on officers, employees, and elected officials of the Federal Government having, establishing, maintaining official accounts on Tik Tok
+
+- **(a)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** Tik Tok is a proven national security threat to the United States and allies of the United States; and
+  - **(2)** United States officials should not be posting about official government business because of the threat that the Chinese Communist Party poses.
+- **(b)** *Prohibition* No officer, employee, or elected official of the executive, legislative, or judicial branch of the Federal Government may have, establish, obtain, or maintain a “Government, Politician, or Political Party Account” on Tik Tok, or any equivalent account provided by—
+  - **(1)** ByteDance limited; or
+  - **(2)** any entity owned by ByteDance limited.
+- **(c)** *Rule of construction* Nothing in this section may be construed as affecting any standard or guideline developed pursuant to division R of the Consolidated Appropriations Act of 2023 (Public Law 117–328).
