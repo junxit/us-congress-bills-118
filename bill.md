@@ -1,0 +1,75 @@
+---
+legis-num: H.R. 5180
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5180
+
+> To amend the Fair Credit Reporting act to restore the impaired credit of victims of predatory activities and unfair consumer reporting practices, to expand access to tools to protect vulnerable consumers from identity theft, fraud, or a related crime, and protect victims from further harm, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Restoring Unfairly Impaired Credit and Protecting Consumers Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** *General findings*
+  - **(A)** Consumer reports play an increasingly important role in the lives of American consumers. Most creditors, for example, review these reports to make decisions about whether to extend credit to consumers and what terms and conditions to offer them. As such, information contained in these reports affects whether a person is able to get a private education loan to pay for college costs, to secure a mortgage loan to buy a home, or to obtain a credit card, as well as the terms and conditions under which consumer credit products or services are offered to them.
+  - **(B)** Credit reports are also increasingly used for many noncredit decisions, including by landlords to determine whether to rent an apartment to a prospective tenant and by employers to decide whether to hire potential job applicants or to offer a promotion to existing employees.
+  - **(C)** Consumer reporting agencies (“CRAs”) have a statutory obligation to verify independently the accuracy and completeness of information included on the reports that they provide.
+  - **(D)** The nationwide CRAs have failed to establish and follow reasonable procedures, as required by existing law, to establish the maximum level of accuracy of information contained on consumer reports. Given the repeated failures of these CRAs to comply with accuracy requirements on their own, this legislation is intended to provide them with detailed guidance improving the accuracy and completeness of information contained in consumer reports, including procedures, policies, and practices that these CRAs should already be following to ensure full compliance with their existing obligations.
+  - **(E)** The presence of inaccurate or incomplete information on these reports can result in substantial financial and emotional harm to consumers. Credit reporting errors can lead to the loss of a new employment opportunity or a denial of a promotion in an existing job, stop someone from being able to access credit on favorable terms, prevent a person from obtaining rental housing, or even trigger mental distress.
+  - **(F)** Current industry practices impose an unfair burden of proof on consumers trying to fix errors on their reports.
+  - **(G)** Consumer reports containing inaccurate or incomplete credit information also undermine the ability of creditors and lenders to effectively and accurately underwrite and price credit.
+  - **(H)** Recognizing that credit reporting affects the lives of almost all consumers in this country and that the consequences of errors on a consumer report can be catastrophic for a consumer, the Bureau of Consumer Financial Protection (“Consumer Bureau”) began accepting consumer complaints about credit reporting shortly after its inception.
+  - **(I)** The Consumer Bureau receives hundreds of thousands of credit or consumer reporting complaints each year, making credit reporting consistently the most-complained-about subject matter on which the Consumer Bureau accepts consumer complaints.
+  - **(J)** The majority of credit reporting complaints received by the Consumer Bureau involve incorrect information on consumer reports, with consumers frequently expressing their frustrations about the burdensome and time-consuming process to disputing items.
+  - **(K)** Other common types of credit reporting complaints submitted to the Consumer Bureau relate to the improper use of a report, trouble obtaining a report or credit score, CRAs’ investigations, and credit monitoring or identity protection.
+  - **(L)** Unlike most other business relationships, where consumers can register their satisfaction or unhappiness with a particular credit product or service simply by taking their business elsewhere, consumers have no say in whether their information is included in the CRAs databases and limited legal remedies to hold the CRAs accountable for inaccuracies or poor service.
+  - **(M)** Accordingly, despite the existing statutory mandate for CRAs to follow reasonable procedures to assure the maximum possible accuracy of the information whenever they prepare consumer reports, numerous studies, the high volume of consumer complaints submitted to the Consumer Bureau about incorrect information on consumer reports, and supervisory activities by the Consumer Bureau demonstrate that CRAs continue to skirt their obligations under the law.
+- **(2)** *Private education loans*
+  - **(A)** Many private education loan borrowers, who have sought to negotiate a modified repayment plan when they were experiencing a period of financial distress, have been unable to get assistance from their loan holders, which often results in them defaulting on their loans.
+  - **(B)** Although private student loan holders may allow a borrower to postpone payments while enrolled in school full-time, many limit this option to a certain time period. This period may not be sufficient for those who need additional time to obtain their degree or who want to continue their education by pursing a graduate or professional degree. Borrowers who are unable to make payments often default or have their accounts sent to collections before they are even able to graduate.
+- **(3)** *Deceptive practices at certain proprietary education institutions and career education programs*
+  - **(A)** Observers have repeatedly noted the pervasive problem of for-profit schools targeting low-income students with deceptive high-pressure sales techniques involving inflated job placement rates and misleading data on graduate wages, and false representations about the transferability of credits and the employability of graduates in occupations that require licensure. Student loan borrowers at these schools may be left with nothing but worthless credentials and large debt.
+  - **(B)** Attending a two-year, for-profit college costs, on average, four times as much as attending a community college. Students at for-profit colleges represent only about 9 percent of the total higher education population but a startling 46 percent of all Federal student loan defaults.
+  - **(C)** A disproportionate number of for-profit students are low-income and people of color. For-profit schools target veterans, working parents, first-generation students, and non-English speaking students, who may be more likely than their public or private nonprofit school counterparts to drop out, incur enormous student debt, and default on this debt.
+- **(4)** *Medical debt*
+  - **(A)** Research by the Consumer Bureau has found that the inclusion of medical collections on consumer reports has unfairly reduced consumers’ credit scores.
+  - **(B)** Credit scores may underestimate a person’s creditworthiness by up to 10 points for those who owe medical debt, and may underestimate a person’s creditworthiness by up to 22 points after the medical debt has been paid, according to findings from the Consumer Bureau.
+  - **(C)** The Consumer Bureau has found that half of all collections trade lines that appear on consumer reports are related to medical bills claimed to be owed to hospitals and other medical providers. These trade lines affect the reports of nearly 1⁄5 of all consumers in the credit reporting system.
+  - **(D)** The Consumer Bureau has found that there are no objective or enforceable standards that determine when a debt can or should be reported as a collection trade line. Because debt buyers and collectors determine whether, when, and for how long to report a collection account, there is only a limited relationship between the time period reported, the severity of a delinquency, and when or whether a collection trade line appears on a consumer’s credit report.
+  - **(E)** Medical bills can be complex and confusing for many consumers, which results in consumers’ uncertainty about what they owe, to whom, when, or for what, that may cause some people, who ordinarily pay their bills on time, to delay or withhold payments on their medical debts. This uncertainty can also result in medical collections appearing on consumer reports. Unlike with most credit products or services, that have contractual account disclosures describing the terms and conditions of use, most consumers are not told what their out-of-pocket medical costs will be in advance. Consumers needing urgent or emergency care rarely know, or are provided, the cost of a medical treatment or procedure before the service is rendered.
+  - **(F)** The presence of medical collections is less predictive of future defaults or serious delinquencies than the presence of a nonmedical collection.
+  - **(G)** Medical debt is regularly incurred involuntarily, for necessary and often life-saving medical services, and is therefore unlike other debt.
+  - **(H)** Given the research showing there is little predictive value in medical debt information, and the unique nature of medical debt, the reporting of medical debt on credit reports should be prohibited.
+- **(5)** *Financial abuse by known persons*
+  - **(A)** Financial abuse and exploitation are frequently associated with domestic violence. This type of abuse may result in fraudulent charges to a credit card or having fraudulent accounts created by the abuser in the survivor’s name. Financial abuse may also result in the survivor’s inability to make timely payments on their valid obligations due to loss or changes in income that can occur when their abuser steals from or coerces the survivor to relinquish their paychecks or savings.
+  - **(B)** By racking up substantial debts in the survivor’s name, abusers are able to exercise financial control over their survivors to make it economically difficult for the survivor, whose credit is often destroyed, to escape the situation.
+  - **(C)** Domestic abuse survivors with poor credit are likely to face significant obstacles in establishing financial independence from their abusers. This can be due, in part, because consumer reports may be used when a person attempts to obtain a checking account, housing, insurance, utilities, employment, and even a security clearance as required for certain jobs.
+  - **(D)** Providing documentation of identity (“ID”) theft in order to dispute information on one’s consumer report can be particularly challenging for those who know their financial abuser.
+  - **(E)** While it is easier for consumers who obtain a police report to remove fraudulent information from their consumer report and prevent it from reappearing in the future, safety and other noncredit concerns may impact the capacity of a survivor of financial abuse committed by a known person to turn to law enforcement to get a police report.
+  - **(F)** Domestic abuse survivors, seeking to remove adverse information stemming from financial abuse by contacting their furnishers directly, often face skepticism about claims of ID theft perpetrated by a partner because of an assumption that they are aware of, and may have been complicit in, the activity which the survivor alleges stems from financial abuse.
+- **(6)** *Deceptive and misleading marketing practices*
+  - **(A)** The three nationwide CRAs have faced millions of dollars in fines and civil monetary penalties for deceptive practices, including enticing consumers into purchasing products and services that they may not want or need, in some instances by advertising products or services “free” that automatically converted into an ongoing subscription service at the regular price unless cancelled by the consumer. Codifying the duties of CRAs is an appropriate way to ensure these companies do not engage in such misleading behaviors in the future.
+  - **(B)** Given the ubiquitous use of consumer reports in consumers’ lives and the fact that consumers’ participation in the credit reporting system is involuntary, CRAs should also prioritize providing consumers with the effective means to safeguard their personal and financial information and improve their credit standing, rather than seeking to exploit consumers’ concerns and confusion about credit reporting and scoring, to boost their companies’ profits.
+  - **(C)** Vulnerable consumers, who have legitimate concerns about the security of their personal and financial information, deserve clear, accurate, and transparent information about the credit reporting tools that may be available to them, such as fraud alerts and freezes.
+- **(7)** *Protections for consumers’ credit information*
+  - **(A)** Despite heightened awareness, incidents of ID theft continue to rise. As these incidents increase, consumers experience significant financial loss and emotional distress from the inability to safeguard effectively and inexpensively their credit information from bad actors.
+  - **(B)** Children are much more likely than adults to have their identities stolen. Child identities are valuable to thieves because most children do not have existing files, and their parents may not notice fraudulent activity until their child applies for a student loan, a job, or a credit card. As a result, the fraudulent activity of the bad actors may go undetected for years.
+  - **(C)** Despite the increasing incidents of children’s ID theft, parents who want to proactively prevent their children from having their identity stolen, may not be able to do so. Nationwide Federal law to address this issue is lacking.
+  - **(D)** Each year, more than 10 million American consumers are victims of identity theft, costing them roughly $20 billion annually.
+  - **(E)** American consumers spend billions of dollars annually on products aimed at protecting their identity. As risks to consumers’ personal and financial information continue to grow, consumers need additional protections to ensure that they have fair and reasonable access to the full suite of ID theft and fraud prevention measures that may be right for them.
+
+## § 3. Effective date
+
+Except as otherwise specified, the amendments made by this Act shall take effect 2 years after the date of the enactment of this Act.
+
+## § 4. General Bureau rulemaking
+
+Except as otherwise provided, not later than the end of the 2-year period beginning on the date of the enactment of this Act, the Bureau of Consumer Financial Protection shall issue final rules to implement the amendments made by this Act.
