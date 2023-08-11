@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5200
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5200
+
+> To require a report from the Director of the Secret Service on illicit use of controlled substances at the Executive Residence.
+
+## § 1. Short title
+
+This Act may be cited as the “Helping Understand Narcotics Traces at the Executive Residence Act of 2023” or as the “HUNTER Act of 2023”.
+
+## § 2. Report on illicit use of controlled substances in the White House
+
+Not later than 180 days after the date of enactment of this Act, the Director of the Secret Service shall submit a report to Congress on the illicit use of controlled substances present at the White House, which shall include—
+
+- **(1)** steps taken to avoid controlled substances from coming into the White House;
+- **(2)** vulnerabilities where drugs can make its way into the White House;
+- **(3)** a full account of the investigation into the cocaine found at the White House in 2023; and
+- **(4)** recommendations on how Congress can provide oversight or resources to prevent illicit usage of controlled substances in the Executive Branch.
