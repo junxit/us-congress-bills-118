@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 5211
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5211
+
+> To prohibit funds from being used to implement the Internet Covert Operations Program under the United States Postal Inspection Service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “USPIS Surveillance Protection Act”.
+
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** The United States Postal Service has been operating a clandestine domestic surveillance program of Americans’ social media activity known as the Internet Covert Operations Program (iCOP).
+- **(2)** iCOP is part of the United States Postal Inspection Service which is the law enforcement and security component of USPS.
+- **(3)** A March 25, 2022, report by the USPS Inspector General stated: “We determined that certain proactive searches iCOP conducted using an open-source intelligence tool from February to April 2021 exceeded the Postal Inspection Service’s law enforcement authority”.
+- **(4)** The USP Inspection Service is operating outside of its USPS jurisdiction when it monitors internet users’ sharing of information as its jurisdiction is narrowly defined within postal mail only.
+- **(5)** The iCOP program is a violation of privacy; it encroaches upon the private lives of Americans and seeks to curb constitutional rights of the First Amendment.
+- **(6)** iCOP is not only illegal for operating outside of its stated jurisdiction, but also politically motivated in its target.
+
+## § 3. Prohibition on funding of program
+
+No Federal funds (including amounts available in the Postal Service Fund established under section 2003 of title 39, United States Code) may be used to implement, conduct, or otherwise carry out the Internet Covert Operations Program operated by the United States Postal Inspection Service or any other domestic surveillance program with targets that do not have an identified connection to the mail, postal crimes, or the security of Postal Service facilities or personnel, or with politically motivated targets.
