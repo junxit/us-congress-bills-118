@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3932
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3932
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2024
 - 2023-06-07 — Introduced in House
 - 2023-06-07 — Introduced in House
 - 2023-06-07 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2023-07-13 — Committee Consideration and Mark-up Session Held
+- 2023-07-13 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2023-08-18 — Placed on the Union Calendar, Calendar No. 129.
+- 2023-08-18 — Reported (Amended) by the Committee on Intelligence. H. Rept. 118-162.
+- 2023-08-18 — Reported (Amended) by the Committee on Intelligence. H. Rept. 118-162.
