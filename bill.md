@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 5223
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5223
+
+> To mandate certain hours for in-person branch offices of depository institutions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Original Open for Business Act of 2023”.
+
+## § 2. Depository institution hours
+
+- **(a)** *In general* Beginning on the date that is 180 days after the date of the enactment of this section, each branch location of a depository institution with in-person customer service shall remain open for business (except on a Federal holiday)—
+  - **(1)** until 7 p.m. on Monday, Tuesday, Wednesday, Thursday, or Friday; and
+  - **(2)** for a minimum of 4 hours on Saturday.
+- **(b)** *Depository institution defined* In this section, the term “depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act.
