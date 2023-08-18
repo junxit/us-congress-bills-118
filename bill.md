@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5243
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5243
+
+> To rescind certain amounts appropriated for Internal Revenue Service enforcement and COVID–19 relief and authorize such amounts to be redirected to water-related projects, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Less Talk More Action Water Modernization Act of 2023”.
+
+## § 2. Rescission and redirection of certain amounts to water-related projects
+
+- **(a)** *Rescission of unexpended IRS funds* The unexpended balance of amounts appropriated or otherwise made available for activities of the Internal Revenue Service by section 10301 of Public Law 117–169 on the date of the enactment of this Act are hereby permanently rescinded.
+- **(b)** *Rescission of unexpended COVID-19 funds* The unexpended balance of amounts appropriated or otherwise made available for COVID–19 relief by each of Public Laws 116–123, 116–127, 116–136, 116–139, 117–2, and divisions M and N of Public Law 116–260 on the date of the enactment of this Act are hereby permanently rescinded.
+- **(c)** *Authorization of appropriations*
+  - **(1)** *In general* There are authorized to be appropriated, for each of fiscal years 2024 through 2026, provided that such funds are fully obligated by December 13, 2023—
+    - **(A)** to the Administrator of the Environmental Protection Agency—
+      - **(i)** for the Clean Water State Revolving Funds under title VI of the Federal Water Pollution Control Act, $1,103,000,000; and
+      - **(ii)** for the Drinking Water State Revolving Funds under section 1452 of the Safe Drinking Water Act, $665,400,000; and
+    - **(B)** for projects pertaining to water infrastructure, water conveyance and storage, safety, hydropower generation, water treatment and water contamination remediation, modernization projects, and dam development—
+      - **(i)** under the direction of the Secretary of the Army and the supervision of the Chief of Engineers for authorized civil functions of the Department of the Army, $1,900,000,000; and
+      - **(ii)** to the Department of the Interior for the Bureau of Reclamation, $1,163,400,000,
+  - **(2)** *Chinese debt obligations* In the event that the amounts rescinded under subsections (a) and (b) are not equal to or greater than the amounts authorized under paragraph (1), amounts necessary to equal amounts authorized under such paragraph shall be authorized to be paid before amounts necessary for payments with respect to Federal Government notes, bonds, and other securities held by the People’s Republic of China or the Chinese Communist Party.
