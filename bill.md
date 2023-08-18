@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 5244
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5244
+
+> To amend the Atomic Energy Act of 1954 to include fusion energy machines, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fusion Energy Act ”.
+
+## § 2. Fusion energy machines
+
+- **(a)** *Use of byproduct material framework* Section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014) is amended—
+  - **(1)** in subsection e.—
+    - **(A)** in paragraph (3)(B)(ii), by striking “research activity; and” and inserting “research activity;”;
+    - **(B)** in paragraph (4)(B), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following paragraph:
+      > - **(5)** any material that is made radioactive directly or indirectly by use of a fusion energy machine.
+
+  - **(2)** by adding at the end the following:
+    > - **(kk)** *Fusion energy machine* The term fusion energy machine means a particle accelerator that is capable of—
+    >   - **(1)** transforming atomic nuclei, through fusion processes, into other elements; and
+    >   - **(2)** directly capturing and using the resultant products, including particles, heat, and other electromagnetic radiation, for a commercial or industrial purpose.
+
+- **(b)** *Technology-Inclusive regulatory framework*
+  - **(1)** *In general* Section 103(a) of the Nuclear Energy Innovation and Modernization Act (42 U.S.C. 2133 note) is amended—
+    - **(A)** in paragraph (4)—
+      - **(i)** by striking “a technology-inclusive” and inserting the following:
+        > - **(A)** a technology-inclusive
+
+      - **(ii)** by striking “license applications.” and inserting “license applications; and”; and
+      - **(iii)** by adding at the end the following:
+        > - **(B)** a technology-inclusive, regulatory framework for optional use by fusion energy machine applicants for new license applications.
+
+    - **(B)** in paragraph (5)(B)(ii), by inserting “and fusion energy machine license applications” after “commercial advanced nuclear reactor license applications”.
+  - **(2)** *Definitions* Section 3 of the Nuclear Energy Innovation and Modernization Act (42 U.S.C. 2215 note) is amended by adding at the end the following:
+    > - **(16)** *Fusion energy machine* The term fusion energy machine has the meaning given such term in subsection kk. of section 11 of the Atomic Energy Act of 1954.
+
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Nuclear Regulatory Commission shall submit to Congress a report on—
+  - **(1)** the results of a study, conducted in consultation with Agreement States (as defined in section 3(3) of the Nuclear Energy Innovation and Modernization Act (42 U.S.C. 2215 note (3)) and the private fusion sector, on risk- and performance-based, design-specific licensing frameworks for mass-manufactured fusion energy machines (as defined in subsection kk. of section 11 of the Atomic Energy Act of 1954, as added by this section), that includes evaluation of the Federal Aviation Administration’s design, manufacturing, and operations certification process for aircraft as a potential model for mass-manufactured fusion energy machine regulations; and
+  - **(2)** the estimated timeline for the Commission to issue consolidated guidance or regulations for licensing mass-manufactured fusion energy machines, taking into account the results of such study and the anticipated need for such guidance or regulations.
