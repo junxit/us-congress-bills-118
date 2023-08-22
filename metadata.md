@@ -1,7 +1,7 @@
 ---
 measure: H.R. 783
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 783
@@ -29,3 +29,10 @@ To designate the Department of Energy Integrated Engineering Research Center Fed
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-02-03 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported by Voice Vote.
+- 2023-02-28 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.
+- 2023-08-22 — Placed on the House Calendar, Calendar No. 32.
+- 2023-08-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-163.
+- 2023-08-22 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-163.
