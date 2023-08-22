@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5249
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5249
+
+> To amend the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 to include the Coast Guard Academy in the safe-to-report minor collateral misconduct policy of the Armed Forces.
+
+## § 1. Short title
+
+This Act may be cited as the “Coast Guard Academy Safe-to-Report Parity Act”.
+
+## § 2. Applicability of safe-to-report minor collateral misconduct policy of the Armed Forces to the Coast Guard Academy
+
+Section 539A of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 117–283; 10 U.S.C. 1561 note) is amended—
+
+- **(1)** in subsection (a), by inserting “(and, with respect to the Coast Guard Academy, the Secretary of the department in which the Coast Guard is operating)” after “Secretary of Defense”; and
+- **(2)** in subsection (e)(2), by adding at the end the following new subparagraph:
+  > - **(D)** The United States Coast Guard Academy.
