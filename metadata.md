@@ -1,7 +1,7 @@
 ---
 measure: S. 1865
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1865
@@ -29,3 +29,7 @@ TAG Act
 
 - 2023-06-07 — Introduced in Senate
 - 2023-06-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-06-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-08-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 07/27/2023 with an amendment in the nature of a substitute. With written report No. 118-89.
+- 2023-08-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 07/27/2023 with an amendment in the nature of a substitute. With written report No. 118-89.
+- 2023-08-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
