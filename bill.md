@@ -24,7 +24,7 @@ The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
   - **(B)** by striking “to the Common Fund” and inserting “to the Division of Program Coordination, Planning, and Strategic Initiatives”;
   - **(C)** by striking “10-Year”;
   - **(D)** by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and
-  - **(E)** by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2024 through 2028”;
+  - **(E)** by striking “2014 through 2023” and inserting “2024 through 2028”;
 - **(2)** in each of paragraphs (1)(A) and (2)(C) of section 402A(c) (42 U.S.C. 282a(c)), by striking “section 402(b)(7)(B)” and inserting “section 402(b)(7)(B)(i)”; and
 - **(3)** in section 402(b)(7)(B)(ii) (42 U.S.C. 282(b)(7)(B)(ii)), by striking “the Common Fund” and inserting “the Division of Program Coordination, Planning, and Strategic Initiatives”.
 
@@ -35,7 +35,7 @@ The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
 
 ## § 4. Report on progress and investments in pediatric research
 
-Not later than 5 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to the appropriate committees of Congress a report that—
+Not later than 5 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that—
 
 - **(1)** details pediatric research projects and initiatives receiving funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)); and
-- **(2)** summarizes advancements made in pediatric research with funds allocated pursuant to section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)).
+- **(2)** summarizes advancements made in pediatric research with funds allocated pursuant to such section.

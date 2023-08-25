@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3391
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 3 executed, 6 stated and not applied.
+9 amendatory instructions. 4 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `to the Common Fund` |
 | Inserted | `to the Division of Program Coordination, Planning, and Strategic Initiatives` |
+
+### 42 U.S.C. § 282a
+
+> by striking “2014 through 2023” and inserting “2024 through 2028”;
+
+| | |
+|---|---|
+| Removed | `2014 through 2023` |
+| Inserted | `2024 through 2028` |
 
 ### 42 U.S.C. § 282a
 
@@ -64,5 +73,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 282a` | strike | by striking “through Common Fund”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 282a` | strike | by striking “10-Year”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 282a` | strike | by striking “and reserved under subsection (c)(1)(B)(i) of this section”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 282a` | insert | by inserting before the period the following: “, and $25,000,000 for each of fiscal years 2024 through 2028”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 282` | insert | Section 402(b)(7)(B)(ii) of the Public Health Service Act (42 U.S.C. 282(b)(7)(B)(ii)) is amended by inserting “and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the Nat… | the bill quotes the text inserted but describes where it goes |
