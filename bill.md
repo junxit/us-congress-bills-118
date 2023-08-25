@@ -18,22 +18,11 @@ This Act may be cited as the “PREEMIE Reauthorization Act of 2023”.
 - **(a)** *In general* Section 3(e) of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (42 U.S.C. 247b–4f(e)) is amended by striking “fiscal years 2019 through 2023” and inserting “fiscal years 2024 through 2028”.
 - **(b)** *Technical correction* Effective as if included in the enactment of the PREEMIE Reauthorization Act of 2018 (Public Law 115–328), section 2 of such Act is amended, in the matter preceding paragraph (1), by striking “Section 2” and inserting “Section 3”.
 
-## § 3. Public and health care provider education and support services
-
-Section 399Q of the Public Health Service Act (42 U.S.C. 280g–5) is amended—
-
-- **(1)** in subsection (b)(1)(D)—
-  - **(A)** by redesignating clauses (vi) and (vii) as clauses (vii) and (viii); and
-  - **(B)** by inserting after clause (iv) the following:
-    > - **(v)** screening for and treatment of chronic conditions;
-
-- **(2)** in subsection (c), by striking “fiscal years 2014 through 2018” and inserting “fiscal years 2024 through 2028”.
-
-## § 4. Interagency working group
+## § 3. Interagency working group
 
 Section 5(a) of the PREEMIE Reauthorization Act of 2018 (Public Law 115–328) is amended by striking “The Secretary of Health and Human Services, in collaboration with other departments, as appropriate, may establish” and inserting “Not later than 18 months after the date of the enactment of the PREEMIE Reauthorization Act of 2023, the Secretary of Health and Human Services, in collaboration with other departments, as appropriate, shall establish”.
 
-## § 5. Study on preterm births
+## § 4. Study on preterm births
 
 - **(a)** *In general* The Secretary of Health and Human Services shall enter into appropriate arrangements with the National Academies of Sciences, Engineering, and Medicine under which the National Academies shall—
   - **(1)** not later than 30 days after the date of enactment of this Act, convene a committee of experts in maternal health to study premature births in the United States; and
@@ -53,12 +42,10 @@ Section 5(a) of the PREEMIE Reauthorization Act of 2018 (Public Law 115–328) i
     - **(B)** long-term costs of stays in such units to society and the family involved post-discharge; and
     - **(C)** health care costs for families post-discharge from such units (such as medications, therapeutic services, co-pays visits and specialty equipment).
   - **(2)** The factors that impact pre-term birth rates.
-  - **(3)** Gaps in public health programs that have caused increases in premature birth, including—
-    - **(A)** gaps in the detection of premature birth risk factors;
-    - **(B)** gaps in information from States on pre-term birth; and
-    - **(C)** gaps in support and resources for parents provided in-hospital, in non-hospital settings, and post-discharge.
+  - **(3)** Opportunities for earlier detection of premature birth risk factors, including—
+    - **(A)** opportunities to improve maternal and infant health; and
+    - **(B)** opportunities for public health programs to provide support and resources for parents in-hospital, in non-hospital settings, and post-discharge.
 - **(c)** *Analysis* The analysis required by this subsection is an analysis of—
   - **(1)** targeted research strategies to develop effective drugs, treatments, or interventions to bring at-risk pregnancies to term;
-  - **(2)** State and other programs’ best practices with respect to reducing premature birth rates;
-  - **(3)** opportunities to address developmental origins of health with respect to premature birth rates; and
-  - **(4)** precision medicine and preventative care approaches starting early in the life course (including during pregnancy) with a focus on behavioral and biological influences on premature birth, child health, and the trajectory of such approaches into adulthood.
+  - **(2)** State and other programs’ best practices with respect to reducing premature birth rates; and
+  - **(3)** precision medicine and preventative care approaches starting early in the life course (including during pregnancy) with a focus on behavioral and biological influences on premature birth, child health, and the trajectory of such approaches into adulthood.
