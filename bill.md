@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5278
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5278
+
+> To amend title 18, United States Code, to prohibit executive branch officials from engaging in election interference, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Preventing Presidential Election Interference Act”.
+
+## § 2. Interference by executive branch officials and government employees
+
+Section 595 of title 18, United States Code, is amended—
+
+- **(1)** in the section heading, by inserting “a President or Vice President or” before “administrative employees”;
+- **(2)** by inserting “a President or Vice President, or” before “a person employed”; and
+- **(3)** by striking “or imprisoned not more than one year,” and inserting “or imprisoned not more than 3 years,”.
+
+## § 3. Coercion of political activity
+
+Section 610 of title 18, United States Code, is amended by inserting after “for any person” the following: “, including a President or Vice President,”.
