@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3884
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,20 @@ to guess them.
 
 ### 42 U.S.C. § 300b-5
 
-> Section 1106(b)(6) of the Public Health Service Act (42 U.S.C. 300b–5(b)(6)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
+> in paragraph (6), by striking “$4,455,000 for each of fiscal years 2019 through 2023” and inserting “$8,205,000 for each of fiscal years 2024 through 2028”.
 
 | | |
 |---|---|
-| Removed | `2019 through 2023` |
-| Inserted | `2024 through 2028` |
+| Removed | `$4,455,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$8,205,000 for each of fiscal years 2024 through 2028` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 300b-5` | insert | in paragraph (3)(A), by inserting “, grant, or cooperative agreement” after “contract”; and | the bill quotes the text inserted but describes where it goes |
