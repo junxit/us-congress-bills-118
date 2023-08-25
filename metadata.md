@@ -1,0 +1,32 @@
+---
+measure: H.R. 5279
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 5279
+
+Correctional Facility Disaster Preparedness Act of 2023
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+
+## Cosponsors (2)
+
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2023-08-25 — Introduced in House
+- 2023-08-25 — Introduced in House
+- 2023-08-25 — Referred to the House Committee on the Judiciary.
