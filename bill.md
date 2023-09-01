@@ -18,3 +18,7 @@ This Act may be cited as the “Small Business Regulatory Reduction Act”.
 - **(a)** *In general* The Administrator shall ensure that the small business regulatory budget for a fiscal year is not greater than zero.
 - **(b)** *Report* Not later than 60 days after the last day of a fiscal year, the Administrator shall submit to Congress a report on any regulations issued by other Federal agencies that have an impact on small business concerns. Such report shall include rules issued during the fiscal year preceding and the fiscal year following the date of the report and such rules shall be disaggregated by the issuing Federal agency.
 - **(c)** *Small business regulatory budget defined* In this section, the term “small business regulatory budget” means the cost to small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)) of rulemaking (including the cost of a new rule and any modification to or repeal of a rule) by the Administrator of the Small Business Administration.
+
+## § 3. Compliance with CUTGO
+
+No additional amounts are authorized to be appropriated to carry out this Act. Such Act shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
