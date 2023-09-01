@@ -24,8 +24,9 @@ This Act may be cited as the “DOE and NASA Interagency Research Coordination A
     - **(C)** fundamental high energy physics, astrophysics, and cosmology, including the nature of dark energy and dark matter, in accordance with section 305 of the Department of Energy Research and Innovation Act (42 U.S.C. 18643);
     - **(D)** fundamental earth and environmental sciences, in accordance with section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644) and section 60501 of title 51, United States Code;
     - **(E)** quantum information sciences, including quantum computing and quantum network infrastructure, in accordance with sections 403 and 404 of the National Quantum Initiative Act (15 U.S.C. 8853 and 8854);
-    - **(F)** radiation health effects, in accordance with section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644); and
-    - **(G)** other areas of potential research and development collaboration the Secretary and the Administrator determine important to achieving agency missions and objectives;
+    - **(F)** radiation health effects, in accordance with section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644);
+    - **(G)** ground- and space-based technology necessary for the transmission to the Earth’s surface of solar energy collected in space; and
+    - **(H)** other areas of potential research and development collaboration the Secretary and the Administrator determine important to achieving agency missions and objectives;
   - **(2)** develop methods to accommodate large voluntary data sets on space and aeronautical information on high-performance computing systems with variable quality and scale;
   - **(3)** promote collaboration and data and information sharing between the Department of Energy, National Aeronautics and Space Administration, the National Laboratories, and other appropriate entities by providing the necessary access and secure data and information transfer capabilities; and
   - **(4)** support the Administration’s access to the Department’s research infrastructure and capabilities, as practicable.
@@ -39,6 +40,6 @@ This Act may be cited as the “DOE and NASA Interagency Research Coordination A
   - **(1)** Interagency research and development coordination activities between the Department of Energy and the National Aeronautics and Space Administration carried out under this section.
   - **(2)** How such coordination activities expand the technical capabilities of the Department and the Administration.
   - **(3)** Collaborative research and development achievements.
-  - **(4)** Areas of future mutually beneficial activities.
+  - **(4)** Areas of future mutually beneficial activities, including potential applications of clean energy technologies, such as marine energy.
   - **(5)** Continuation of coordination activities between the Department of Energy and the National Aeronautics and Space Administration.
 - **(g)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
