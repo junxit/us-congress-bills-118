@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4480
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
