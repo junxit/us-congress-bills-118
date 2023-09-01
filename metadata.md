@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4667
@@ -16,9 +16,10 @@ RECLAIM Taxpayer Funds Act
 
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. McGarvey, Morgan [D-KY-3] (M001220)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ RECLAIM Taxpayer Funds Act
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Referred to the House Committee on Small Business.
+- 2023-07-18 — Committee Consideration and Mark-up Session Held
+- 2023-07-18 — Ordered to be Reported by the Yeas and Nays: 26 - 0.
+- 2023-09-01 — Placed on the Union Calendar, Calendar No. 147.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-184.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-184.
