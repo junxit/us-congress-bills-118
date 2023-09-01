@@ -15,9 +15,9 @@ This Act may be cited as the “One Seat Ride Act”.
 
 ## § 2. Study on commuter service
 
-- **(a)** *In general* The Secretary of Transportation, in consultation with the Administrators of the Federal Transit Administration and the Federal Railroad Administration, shall conduct a study analyzing the costs and benefits of providing commuter rail passenger transportation that does not involve a transfer compared with the costs and benefits of providing commuter rail passenger transportation involving a transfer.
+- **(a)** *In general* The Secretary of Transportation shall conduct a study identifying the benefits of commuter rail passenger transportation and major obstacles to providing commuter rail passenger transportation that does not involve a transfer for passengers.
 - **(b)** *Requirements* In conducting the study under subsection (a), the Secretary shall—
-  - **(1)** consider economic, logistical, and quality of life factors in analyzing the costs and benefits of the different types of commuter rail passenger transportation identified in such subsection; and
-  - **(2)** include in such study an analysis of such costs and benefits with respect to commuter rail passenger transportation on the New Jersey Transit Raritan Valley line during peak hours.
-- **(c)** *Report* Not later than 9 months after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the study conducted under subsection (a).
-- **(d)** *Definition* In this section, the term “commuter rail passenger transportation” has the meaning given such term in section 24102 of title 49, United States Code.
+  - **(1)** consider economic, logistical, and quality of life factors in analyzing the major obstacles to implementing single-seat trips on commuter rail passenger transportation for as many passengers as possible; and
+  - **(2)** include in such study an analysis of the costs and benefits with respect to single-seat trips on commuter rail passenger transportation on the New Jersey Transit Raritan Valley line during peak hours and the impact such trips would have on other New Jersey Transit lines.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the study required under subsection (a).
+- **(d)** *Commuter rail passenger transportation defined* In this section, the term “commuter rail passenger transportation” has the meaning given such term in section 24102 of title 49, United States Code.
