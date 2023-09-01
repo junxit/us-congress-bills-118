@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4666
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4666
@@ -16,9 +16,11 @@ To require the Inspector General of the Small Business Administration to submit 
 
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ To require the Inspector General of the Small Business Administration to submit 
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Referred to the House Committee on Small Business.
+- 2023-07-18 — Committee Consideration and Mark-up Session Held
+- 2023-07-18 — Ordered to be Reported by the Yeas and Nays: 26 - 0.
+- 2023-09-01 — Placed on the Union Calendar, Calendar No. 146.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-182.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-182.
