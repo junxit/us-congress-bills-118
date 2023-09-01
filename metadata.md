@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1435
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1435
@@ -16,7 +16,7 @@ Preserving Choice in Vehicle Purchases Act
 
 - Rep. Joyce, John [R-PA-13] (J000302)
 
-## Cosponsors (58)
+## Cosponsors (83)
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
@@ -76,6 +76,31 @@ Preserving Choice in Vehicle Purchases Act
 - Rep. Perry, Scott [R-PA-10] (P000605)
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Steel, Michelle [R-CA-45] (S001135)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Johnson, Mike [R-LA-4] (J000299)
 
 ## Committees (1)
 
@@ -86,3 +111,11 @@ Preserving Choice in Vehicle Purchases Act
 - 2023-03-08 — Introduced in House
 - 2023-03-08 — Introduced in House
 - 2023-03-08 — Referred to the House Committee on Energy and Commerce.
+- 2023-03-17 — Referred to the Subcommittee on Environment, Manufacturing, and Critical Materials.
+- 2023-07-12 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 13 - 8.
+- 2023-07-12 — Subcommittee Consideration and Mark-up Session Held
+- 2023-07-27 — Committee Consideration and Mark-up Session Held.
+- 2023-07-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 22.
+- 2023-09-01 — Placed on the Union Calendar, Calendar No. 133.
+- 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-169.
+- 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-169.
