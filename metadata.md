@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4671
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4671
@@ -29,3 +29,8 @@ Corrective Action Report Oversight and Accountability Act
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Introduced in House
 - 2023-07-17 — Referred to the House Committee on Small Business.
+- 2023-07-18 — Committee Consideration and Mark-up Session Held
+- 2023-07-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 0.
+- 2023-09-01 — Placed on the Union Calendar, Calendar No. 140.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-176.
+- 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-176.
