@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3254
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3254
@@ -20,9 +20,10 @@ First Responder Access to Innovative Technologies Act
 
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ First Responder Access to Innovative Technologies Act
 - 2023-07-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-07-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 7/25/2023 CR H3938)
 - 2023-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 7/25/2023 CR H3938)
+- 2023-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
