@@ -31,7 +31,7 @@ This Act may be cited as the “All-American Flag Act”.
     > - **(e)** *Maintenance of records*
     >   - **(1)** *In general* Each manufacturer of a flag of the United States shall maintain records related to such flags marketed by the manufacturer for a period of 5 years demonstrating that articles, materials and supplies used for the flags have been grown or 100 percent produced or manufactured in the United States.
     >   - **(2)** *Availability* The records described in paragraph (1) shall be made available to an agency upon request, at reasonable times and within reasonable limits and in a reasonable manner, including allowing electronic access to such records.
-    > - **(f)** *Definitions* In this section:
+    > - **(f)(e)** *Definitions* In this section:
     >   - **(1)** *Agency* The term agency has the meaning given the term executive agency in section 102 of title 40.
     >   - **(2)** *Simplified acquisition threshold* The term simplified acquisition threshold has the meaning given that term in section 134.
 

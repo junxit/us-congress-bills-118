@@ -1,7 +1,7 @@
 ---
 measure: S. 1973
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1973
@@ -16,11 +16,12 @@ All-American Flag Act
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Marshall, Roger [R-KS] (M001198)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ All-American Flag Act
 
 - 2023-06-14 — Introduced in Senate
 - 2023-06-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-94.
+- 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-94.
+- 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
