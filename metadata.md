@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1501
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1501
@@ -29,9 +29,10 @@ UAS Act
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ UAS Act
 - 2023-07-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-07-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 7/25/2023 CR H3936-3937)
 - 2023-07-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 7/25/2023 CR H3936-3937)
+- 2023-09-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
