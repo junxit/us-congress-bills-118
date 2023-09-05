@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4366
@@ -176,3 +176,4 @@ Consolidated Appropriations Act, 2024
 - 2023-07-27 — On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 380).
 - 2023-07-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 380).
 - 2023-07-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4366.
+- 2023-09-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.
