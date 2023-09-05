@@ -1,7 +1,7 @@
 ---
 measure: S. 1080
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1080
@@ -32,3 +32,7 @@ Cooper Davis Act
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Read twice and referred to the Committee on the Judiciary.
+- 2023-07-13 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-09-05 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2023-09-05 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
