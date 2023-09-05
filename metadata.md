@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 327
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 327
@@ -16,7 +16,7 @@ A resolution designating August 16, 2023, as "National Airborne Day".
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (16)
+## Cosponsors (17)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Sullivan, Dan [R-AK] (S001198)
@@ -34,8 +34,17 @@ A resolution designating August 16, 2023, as "National Airborne Day".
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Budd, Ted [R-NC] (B001305)
+
+## Committees (1)
+
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2023-07-27 — Introduced in Senate
 - 2023-07-27 — Referred to the Committee on the Judiciary.
+- 2023-09-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4209; text: 7/27/2023 CR S3772)
+- 2023-09-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4209; text: 7/27/2023 CR S3772)
+- 2023-09-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-09-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
