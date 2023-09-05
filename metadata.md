@@ -1,7 +1,7 @@
 ---
 measure: S. 1871
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1871
@@ -16,10 +16,11 @@ Intergovernmental Critical Minerals Task Force Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Intergovernmental Critical Minerals Task Force Act
 
 - 2023-06-08 — Introduced in Senate
 - 2023-06-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-06-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-93.
+- 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-93.
+- 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
