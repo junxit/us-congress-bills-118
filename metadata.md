@@ -1,7 +1,7 @@
 ---
 measure: S. 294
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 294
@@ -32,3 +32,7 @@ Expanding Access to Capital for Rural Job Creators Act
 
 - 2023-02-07 — Introduced in Senate
 - 2023-02-07 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2023-09-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4325-4326; text: CR S4325-4326)
+- 2023-09-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4325-4326; text: CR S4325-4326)
+- 2023-09-07 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2023-09-07 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
