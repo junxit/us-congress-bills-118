@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Education Oversight Expansion Act”.
+This Act may be cited as the “Isakson-Roe Education Oversight Expansion Act”.
 
 ## § 2. Expansion of Department of Veterans Affairs oversight of certain educational institutions
 
@@ -30,11 +30,6 @@ This Act may be cited as the “Veterans Education Oversight Expansion Act”.
     - **(C)** in section 3679(d), by striking “described in paragraph (14) or (15)” and inserting “described in paragraph (15) or (16)”; and
     - **(D)** in section 3680A(a)(4)(C)(iii), by striking “section 3676(c)(14) and (15)” and inserting “section 3676(c)(15) and (16)”.
 - **(c)** *Additional grounds for suspension of approval* Section 3679(f)(1) of such title is amended by adding at the end the following new subparagraph:
-  > - **(J)** Comply with the notification requirements under sections 3675(b)(5) and 3676(c)(14) of this title, when applicable.
+  > - **(I)** Comply with the notification requirements under sections 3675(b)(5) and 3676(c)(14) of this title, when applicable.
 
-- **(d)** *Restoration of certain educational assistance* Section 3699(b)(1)(B) of such title is amended—
-  - **(1)** in clause (i), by striking “; or” and inserting a semicolon; and
-  - **(2)** by adding at the end the following new clause:
-    > - **(iii)** any action of the Secretary affecting such approval or disapproval the Secretary determines appropriate; or
-
-- **(e)** *Deadline for risk-Based surveys database* The Secretary of Veterans Affairs shall establish the database required under section 3673A(c) of title 38, United States Code, by not later than 180 days after the date of the enactment of this Act.
+- **(d)** *Deadline for risk-based surveys database* The Secretary of Veterans Affairs shall establish the database required under section 3673A(c) of title 38, United States Code, by not later than 180 days after the date of the enactment of this Act.
