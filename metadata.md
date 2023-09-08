@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3324
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3324
@@ -29,3 +29,8 @@ To extend the authority to collect Shasta-Trinity Marina fees through fiscal yea
 - 2023-05-15 — Introduced in House
 - 2023-05-15 — Introduced in House
 - 2023-05-15 — Referred to the House Committee on Natural Resources.
+- 2023-06-21 — Committee Consideration and Mark-up Session Held
+- 2023-06-21 — Ordered to be Reported by Unanimous Consent.
+- 2023-09-08 — Placed on the Union Calendar, Calendar No. 151.
+- 2023-09-08 — Reported by the Committee on Natural Resources. H. Rept. 118-188.
+- 2023-09-08 — Reported by the Committee on Natural Resources. H. Rept. 118-188.
