@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 5365
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5365
+
+> To authorize the Secretary of Veterans Affairs to enter into a lease for a Vet Center in Mankato, Minnesota.
+
+## § 1. Authority of Secretary of Veterans Affairs to enter into a lease for a Vet Center in Mankato, Minnesota
+
+Subject to the availability of appropriations for such purpose, the Secretary of Veterans Affairs may obligate or expend not more than $1,400,000 during fiscal years 2024 through 2025 to enter into a lease for a Vet Center (as defined in section 1712A of title 38, United States Code) in Mankato, Minnesota.
