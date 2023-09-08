@@ -16,15 +16,17 @@ This Act may be cited as the “Accurately Counting Risk Elimination Solutions A
 ## § 2. Accurate Hazardous Fuels Reduction Reports
 
 - **(a)** *Inclusion of Hazardous Fuels Reduction Report in Materials Submitted in Support of the President’s Budget*
-  - **(1)** *In general* Beginning with the first fiscal year that begins after the date of the enactment of this Act, and each fiscal year thereafter, the Secretary concerned shall include in the materials submitted in support of the President’s budget pursuant to section 1105 of title 31, United States Code, a report on the number of acres on which the Secretary concerned carried out hazardous fuels reduction activities during the preceding fiscal year.
+  - **(1)** *In general* Beginning with the first fiscal year that begins after the date of the enactment of this Act, and each fiscal year thereafter, the Secretary concerned shall include in the materials submitted in support of the President’s budget pursuant to section 1105 of title 31, United States Code, a report on the number of acres of Federal land on which the Secretary concerned carried out hazardous fuels reduction activities during the preceding fiscal year.
   - **(2)** *Requirements* For purposes of the report required under paragraph (1), the Secretary concerned shall—
-    - **(A)** in determining the number of acres on which the Secretary concerned carried out hazardous fuels reduction activities during the period covered by the report—
-      - **(i)** record acres on which hazardous fuels reduction activities were completed during such period; and
+    - **(A)** in determining the number of acres of Federal land on which the Secretary concerned carried out hazardous fuels reduction activities during the period covered by the report—
+      - **(i)** record acres of Federal land on which hazardous fuels reduction activities were completed during such period; and
       - **(ii)** record each acre described in clause (i) once in the report, regardless of whether multiple hazardous fuels reduction activities were carried out on such acre during such period; and
-    - **(B)** with respect to the acres recorded in the report, include information on—
+    - **(B)** with respect to the acres of Federal land recorded in the report, include information on—
       - **(i)** which such acres are located in the wildland-urban interface;
       - **(ii)** the level of wildfire risk (high, moderate, or low) on the first and last day of the period covered by the report;
-      - **(iii)** the types of hazardous fuels activities completed for such acres;
+      - **(iii)** the types of hazardous fuels activities completed for such acres, delineating between whether such activities were conducted—
+        - **(I)** in a wildfire managed for resource benefits; or
+        - **(II)** through a planned project;
       - **(iv)** the cost per acre of hazardous fuels activities carried out during the period covered by the report;
       - **(v)** the region or system unit in which the acres are located; and
       - **(vi)** the effectiveness of the hazardous fuels reduction activities on reducing the risk of wildfire.
@@ -47,10 +49,9 @@ This Act may be cited as the “Accurately Counting Risk Elimination Solutions A
 - **(d)** *Definitions* In this Act:
   - **(1)** *Hazardous fuels reduction activity* The term hazardous fuels reduction activity—
     - **(A)** means any vegetation management activity to reduce the risk of wildfire, including mechanical treatments and prescribed burning; and
-    - **(B)** does not include—
-      - **(i)** a wildland fire managed for resource benefits; and
-      - **(ii)** the awarding of contracts to conduct hazardous fuels reduction activities.
-  - **(2)** *Secretary concerned* The term Secretary concerned means—
+    - **(B)** does not include the awarding of contracts to conduct hazardous fuels reduction activities.
+  - **(2)** *Federal lands* The term “Federal lands” means lands under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture.
+  - **(3)** *Secretary concerned* The term Secretary concerned means—
     - **(A)** the Secretary of Agriculture, with respect to National Forest System lands; and
     - **(B)** the Secretary of the Interior, with respect to public lands and units of the National Park System.
-  - **(3)** *Wildland-urban interface* The term wildland-urban interface has the meaning given the term in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511).
+  - **(4)** *Wildland-urban interface* The term wildland-urban interface has the meaning given the term in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511).
