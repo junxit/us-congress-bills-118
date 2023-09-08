@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3848
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,13 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “115 percent” and inserting “133 percent”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, plus a percentage increase to such rate equal to the percentage determined under section 3564(a) of this title” after “of that section”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “150” and inserting “140”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i)(II)(aa)(BB), by striking “115 percent” and inserting “133 percent”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | by striking “that is not in compliance with such laws” both places it appears; | the bill names no machine-readable US Code section |
-| — | replace | by striking “certifies” and inserting “submits”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “that all recommendations included in the audit report or evaluation have been implemented” and inserting “notice in writing of whether the Secretary concurred or did not concur with each recommendation included in the audit … | the bill names no machine-readable US Code section |
-| — | amend | by adding the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “May 18, 2032”. | the bill names no machine-readable US Code section |
