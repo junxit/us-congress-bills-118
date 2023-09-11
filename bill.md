@@ -1,0 +1,23 @@
+---
+legis-num: S. 2760
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2760
+
+> To amend the Truth in Lending Act to cap credit card interest rates.
+
+## § 1. Short title
+
+This Act may be cited as the “Capping Credit Card Interest Rates Act”.
+
+## § 2. Cap on credit card interest rates
+
+Section 107 of the Truth in Lending Act (15 U.S.C. 1606) is amended by adding at the end the following:
+
+> - **(f)**
+>   - **(1)** The annual percentage rate applicable to an extension of credit obtained by use of a credit card may not exceed 18 percentage points, inclusive of all finance charges.
+>   - **(2)** Any fees that are not considered finance charges under section 106(a) may not be used to evade the limitations of this paragraph, and the total sum of such fees may not exceed the total amount of finance charges assessed.
+>   - **(3)** Any creditor who violates this subsection shall be subject to the provisions of section 130.
