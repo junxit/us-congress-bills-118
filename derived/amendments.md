@@ -1,7 +1,7 @@
 ---
 measure: S. 2272
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+22 amendatory instructions. 0 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 5332` | insert | Subchapter III of chapter 53 of title 5, United States Code, is amended by inserting after section 5332 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5332` | insert | The table of sections for subchapter III of chapter 53 of title 5, United States Code, is amended by inserting after the item relating to section 5332 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5332` | add-at-end | Section 5343 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 201` | insert | Subchapter V of chapter 55 of title 5, United Sates Code, is amended by inserting after section 5545b the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 201` | amend | by amending the section heading to read as follows: “Wage-board overtime, Sunday rates, and other premium pay”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 201` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 201` | insert | in section 5547(a), in the matter preceding paragraph (1), by inserting “5545c,” after “5545a,”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 201` | amend | by amending the item relating to section 5544 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 201` | insert | by inserting after the item relating to section 5545b the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 6329d` | add-at-end | Subchapter II of chapter 63 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 6329d` | insert | The table of sections for subchapter II of chapter 63 of title 5, United States Code, is amended by inserting after the item relating to section 6329d the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5332` | insert | Subchapter III of chapter 53 of title 5, United States Code, is amended by inserting after section 5332 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5332` | insert | The table of sections for subchapter III of chapter 53 of title 5, United States Code, is amended by inserting after the item relating to section 5332 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 5332` | add-at-end | Section 5343 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
