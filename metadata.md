@@ -1,7 +1,7 @@
 ---
 measure: H.R. 589
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 589
@@ -154,6 +154,10 @@ MAHSA Act
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-09-12 — [House 118-1-384](votes/house-118-1-0384.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–3)
+
 ## Actions
 
 - 2023-01-27 — Introduced in House
@@ -173,3 +177,11 @@ MAHSA Act
 - 2023-06-22 — Placed on the Union Calendar, Calendar No. 90.
 - 2023-06-22 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 118-118, Part I.
 - 2023-06-22 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 118-118, Part I.
+- 2023-09-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-09-12 — Considered as unfinished business. (consideration: CR H4257)
+- 2023-09-12 — Considered under suspension of the rules. (consideration: CR H4242-4247)
+- 2023-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 589.
+- 2023-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-12 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2023-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 384). (text: CR H4242-4243)
+- 2023-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 384). (text: CR H4242-4243)
