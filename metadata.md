@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3389
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3389
@@ -50,3 +50,9 @@ Emergency Wildfire Fighting Technology Act of 2023
 - 2023-09-08 — Placed on the Union Calendar, Calendar No. 150.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-187, Part I.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-187, Part I.
+- 2023-09-12 — Considered under suspension of the rules. (consideration: CR H4253-4255)
+- 2023-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3389.
+- 2023-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-12 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2023-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4253)
+- 2023-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4253)
