@@ -78,7 +78,10 @@ It is the policy of the United States—
   - **(2)** *Exception to comply with international obligations and for law enforcement activities* Sanctions under this section shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary—
     - **(A)** to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations; or
     - **(B)** to carry out or assist authorized law enforcement activity in the United States.
-- **(h)** *Termination of sanctions* This section shall cease to be effective beginning on the date that is 30 days after the date on which the President certifies to the appropriate congressional committees that—
+- **(h)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term good means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(i)** *Termination of sanctions* This section shall cease to be effective beginning on the date that is 30 days after the date on which the President certifies to the appropriate congressional committees that—
   - **(1)** the Government of Iran no longer repeatedly provides support for international terrorism as determined by the Secretary of State pursuant to—
     - **(A)** section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A));
     - **(B)** section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
@@ -90,27 +93,27 @@ It is the policy of the United States—
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
-- **(2)** *Foreign person* The term “foreign person”—
+- **(2)** *Foreign person* The term foreign person—
   - **(A)** means an individual or entity that is not a United States person; and
   - **(B)** includes a foreign state (as such term is defined in section 1603 of title 28, United States Code).
-- **(3)** *Government of iran* The term “Government of Iran” has the meaning given such term in section 560.304 of title 31, Code of Federal Regulations, as such section was in effect on January 1, 2021.
-- **(4)** *United states person* The terms “United States person” means—
+- **(3)** *Government of iran* The term Government of Iran has the meaning given such term in section 560.304 of title 31, Code of Federal Regulations, as such section was in effect on January 1, 2021.
+- **(4)** *United states person* The terms United States person means—
   - **(A)** a United States citizen;
   - **(B)** a permanent resident alien of the United States;
   - **(C)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
   - **(D)** a person in the United States.
-- **(5)** *Iran-aligned entity* The term “Iran-aligned entity” means a foreign person that—
+- **(5)** *Iran-aligned entity* The term Iran-aligned entity means a foreign person that—
   - **(A)** is controlled or significantly influenced by the Government of Iran; and
   - **(B)** knowingly receives material or financial support from the Government of Iran, including Hezbollah, the Houthis, or any other proxy group that furthers Iran’s national security objectives.
-- **(6)** *Covered technology* The term “covered technology” means—
+- **(6)** *Covered technology* The term covered technology means—
   - **(A)** any goods, technology, software, or related material specified in the Missile Technology Control Regime Annex, as in effect on the day before the date of the enactment of this Act; and
   - **(B)** any additional goods, technology, software, or related material added to the Missile Technology Control Regime Annex after the day before the date of the enactment of this Act.
-- **(7)** *Family member* The term “family member” means—
+- **(7)** *Family member* The term family member means—
   - **(A)** a child, grandchild, parent, grandparent, sibling, or spouse; and
   - **(B)** any spouse, widow, or widower of an individual described in subparagraph (A).
-- **(8)** *Knowingly* The term “knowingly” has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note).
-- **(9)** *Missile technology control regime* The term “Missile Technology Control Regime” means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the Missile Technology Control Regime Annex, and any amendments thereto or expansions thereof, as in effect on the day before the date of the enactment of this Act.
-- **(10)** *Missile technology control regime annex* The term “Missile Technology Control Regime Annex” means the Guidelines and Equipment and Technology Annex of the Missile Technology Control Regime, and any amendments thereto or updates thereof, as in effect on the day before the date of the enactment of this Act.
+- **(8)** *Knowingly* The term knowingly has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note).
+- **(9)** *Missile technology control regime* The term Missile Technology Control Regime means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the Missile Technology Control Regime Annex, and any amendments thereto or expansions thereof, as in effect on the day before the date of the enactment of this Act.
+- **(10)** *Missile technology control regime annex* The term Missile Technology Control Regime Annex means the Guidelines and Equipment and Technology Annex of the Missile Technology Control Regime, and any amendments thereto or updates thereof, as in effect on the day before the date of the enactment of this Act.
