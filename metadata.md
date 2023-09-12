@@ -1,7 +1,7 @@
 ---
 measure: S. 447
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 447
@@ -32,3 +32,7 @@ ORBITS Act of 2023
 
 - 2023-02-15 — Introduced in Senate
 - 2023-02-15 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-07-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-09-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.
