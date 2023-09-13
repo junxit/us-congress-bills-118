@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3324
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3324
@@ -24,6 +24,10 @@ To extend the authority to collect Shasta-Trinity Marina fees through fiscal yea
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2023-09-13 — [House 118-1-387](votes/house-118-1-0387.md) — On Motion to Suspend the Rules and Pass — **Passed** (415–0)
+
 ## Actions
 
 - 2023-05-15 — Introduced in House
@@ -34,3 +38,11 @@ To extend the authority to collect Shasta-Trinity Marina fees through fiscal yea
 - 2023-09-08 — Placed on the Union Calendar, Calendar No. 151.
 - 2023-09-08 — Reported by the Committee on Natural Resources. H. Rept. 118-188.
 - 2023-09-08 — Reported by the Committee on Natural Resources. H. Rept. 118-188.
+- 2023-09-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-09-12 — Considered under suspension of the rules. (consideration: CR H4255-4256)
+- 2023-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3324.
+- 2023-09-12 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2023-09-13 — Considered as unfinished business. (consideration: CR H4277)
+- 2023-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 387). (text: 9/12/2023 CR H4255)
+- 2023-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 387). (text: 9/12/2023 CR H4255)
