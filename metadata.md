@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3389
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3389
@@ -28,10 +28,11 @@ Emergency Wildfire Fighting Technology Act of 2023
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 - Rep. Harder, Josh [D-CA-9] (H001090)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Emergency Wildfire Fighting Technology Act of 2023
 - 2023-09-12 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2023-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4253)
 - 2023-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4253)
+- 2023-09-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
