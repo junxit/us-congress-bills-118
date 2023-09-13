@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3152
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3152
@@ -259,10 +259,11 @@ Fight CRIME Act
 - Rep. Foushee, Valerie P. [D-NC-4] (F000477)
 - Rep. Rouzer, David [R-NC-7] (R000603)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -284,3 +285,4 @@ Fight CRIME Act
 - 2023-09-12 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2023-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 8 (Roll no. 383). (text: CR H4239-4241)
 - 2023-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 8 (Roll no. 383). (text: CR H4239-4241)
+- 2023-09-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
