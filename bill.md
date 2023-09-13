@@ -50,8 +50,9 @@ This Act may be cited as the “Accurately Counting Risk Elimination Solutions A
   - **(1)** *Hazardous fuels reduction activity* The term hazardous fuels reduction activity—
     - **(A)** means any vegetation management activity to reduce the risk of wildfire, including mechanical treatments and prescribed burning; and
     - **(B)** does not include the awarding of contracts to conduct hazardous fuels reduction activities.
-  - **(2)** *Federal lands* The term “Federal lands” means lands under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture.
+  - **(2)** *Federal lands* The term Federal lands means lands under the jurisdiction of the Secretary of the Interior or the Secretary of Agriculture.
   - **(3)** *Secretary concerned* The term Secretary concerned means—
     - **(A)** the Secretary of Agriculture, with respect to National Forest System lands; and
     - **(B)** the Secretary of the Interior, with respect to public lands and units of the National Park System.
   - **(4)** *Wildland-urban interface* The term wildland-urban interface has the meaning given the term in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511).
+- **(e)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this Act, and the activities authorized by this Act are subject to the availability of appropriations made in advance for such purposes.
