@@ -11,48 +11,106 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-This Act may be cited as the “Veterans Benefits Improvement Act”.
+This Act may be cited as the “Veterans Benefits Improvement Act of 2023”.
 
-## § 2. Improving requirement to publish disability benefit questionnaire forms of Department of Veterans Affairs
+## § 2. Improvement of publication of Department of Veterans Affairs disability benefit questionnaire forms
 
-Section 5101(d) of title 38, United States Code, is amended—
+Section 5101 of title 38, United States Code, is amended—
 
-- **(1)** in paragraph (1)(A), by inserting “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and contracted personnel for the completion of compensation and pension examinations” before the semicolon; and
-- **(2)** by adding at the end the following new paragraph:
-  > - **(4)**
-  >   - **(A)** The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) any form described in subparagraph (B) of this paragraph that the Secretary determines could not reasonably be completed to a clinically acceptable standard by someone not an employee or a contractor of the Department.
-  >   - **(B)** A form described in this subparagraph is a form that—
-  >     - **(i)** was in effect after January 1, 2022; and
-  >     - **(ii)** has not been published under paragraph (1).
-  >   - **(C)** For each form excluded under subparagraph (A), the Secretary shall—
-  >     - **(i)** list the form on the same internet website as the forms published under paragraph (1)(A) with an indication that the form has been excluded; and
-  >     - **(ii)** provide with such listing a justification for such exclusion.
+- **(1)** in subsection (d)—
+  - **(A)** in paragraph (1)(A), by inserting “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary” before the semicolon; and
+  - **(B)** by adding at the end the following new paragraph:
+    > - **(4)**
+    >   - **(A)** The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) any form described in subparagraph (B) of this paragraph that the Secretary determines could not reasonably be completed to a clinically acceptable standard by someone not an employee or a contractor of the Department.
+    >   - **(B)** A form described in this subparagraph is a form that—
+    >     - **(i)** was available or in use at any time after the date of the enactment of the Veterans Benefits Act of 2023; and
+    >     - **(ii)** has not been published under paragraph (1).
+    >   - **(C)** The Secretary shall include on the same internet website as the website on which forms are published under paragraph (1)(A) a list of forms that have been excluded from publication pursuant to subparagraph (A), and for each such form, a justification for the exclusion of the form from publication.
 
-## § 3. Report on improving medical disability examinations for veterans who live abroad
+- **(2)** in subsection (e), by adding at the end the following new paragraph:
+  > - **(3)** The term “covered non-Department provider” means a medical provider who is not an employee of the Department and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary pursuant to a contract with the Department.
 
-Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, after consulting with the Secretary of State and the Commissioner of the Social Security Administration, shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the efforts of the Secretary to provide reimbursement for a veteran’s travel to a facility of the Department of Veterans Affairs or a facility of a Department-contracted provider, regardless of whether the facility is inside or outside the United States, when such travel is incident to a scheduled compensation and pension examination.
+## § 3. Improvement of provision of medical disability examinations by contractors
 
-## § 4. Department of Veterans Affairs requirement for communication by contractors providing covered medical disability examinations with persons appointed by a power of attorney for preparation, presentation, and prosecution of claims
+- **(a)** *Report on improving reimbursement for travel relating to medical disability examinations* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, after consulting with the Secretary of State and the Commissioner of the Social Security Administration, shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the efforts of the Secretary to reimburse veterans for expenses incurred traveling to a facility of the Department or of a covered non-Department provider incident to an examination with respect to the medical disability of the veteran for purposes of benefits under the laws administered by the Secretary, regardless of whether the facility is located inside or outside the United States.
+- **(b)** *Communication by non-Department providers providing medical disability examinations with individuals and organizations designated for preparation, presentation, and prosecution of claims* Any contract entered into by the Secretary of Veterans Affairs after the date of the enactment of this Act under which a covered non-Department provider agrees to provide examinations with respect to medical disability for applicants for benefits under the laws administered by the Secretary, shall include a requirement that every communication from the covered non-Department provider to such an applicant regarding the scheduling of a covered medical disability examination be contemporaneously transmitted to any person or organization—
+  - **(1)** designated by the applicant by a power of attorney filed with the Secretary; and
+  - **(2)** recognized under sections 5902, 5903, and 5904 of title 38, United States Code, for the preparation, presentation, and prosecution of claims.
+- **(c)** *Department of Veterans Affairs outreach regarding contact information for contractors providing covered medical disability examinations* Not later than 120 days after the date of enactment of this Act, the Secretary of Veterans Affairs, in partnership with veterans service organizations and such other stakeholders as the Secretary considers relevant and appropriate, shall implement an outreach program to provide veterans with the following information:
+  - **(1)** Contact information for covered non-Department providers that provide examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary, including the telephone numbers such providers may use to contact veterans.
+  - **(2)** Notice of the requirement for a veteran to provide personally identifiable information to such a provider when contacted in order to verify the identity of the veteran.
+- **(d)** *Covered non-Department provider* In this section, the term “covered non-Department provider” means a medical provider who is not an employee of the Department of Veterans Affairs and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary of Veterans Affairs pursuant to a contract with the Department.
 
-- **(a)** *In general* In each contract entered into by the Secretary of Veterans Affairs after the date of the enactment of this Act for the provision by a contractor of a covered medical disability examination, the Secretary shall include a requirement that every communication from a contractor to a claimant regarding the scheduling of a covered medical disability examination be contemporaneously transmitted to the person or organization appointed by a power of attorney executed under sections 5902, 5903, and 5904 of title 38, United States Code, for the preparation, presentation, and prosecution of claims.
-- **(b)** *Definition* In this section, the term covered medical disability examination means a medical examination that the Secretary determines necessary for the purposes of adjudicating a benefit under chapter 11 or 15 of title 38, United States Code.
+## § 4. Report on supporting governmental veterans service officers who prepare, present, and prosecute benefits claims before Department of Veterans Affairs
 
-## § 5. Department of Veterans Affairs outreach regarding contact information for contractors providing covered medical disability examinations
-
-Not later than 120 days after the date of enactment of this Act, the Secretary of Veterans Affairs shall, in partnership with veterans service organizations and such other stakeholders as the Secretary considers relevant and appropriate, implement an informative outreach program for veterans regarding the following:
-
-- **(1)** Contact information for contractors providing covered medical disability examinations, including the telephone numbers from which such contractors may contact veterans.
-- **(2)** The requirement for veterans to provide personally identifiable information when contacted by such contractors in order to verify their identity.
-
-## § 6. Report on supporting governmental veterans service officers
-
-- **(a)** *Report* Not later than one year after the date of the enactment of this Act and after consulting veterans service organizations and such other stakeholders as the Secretary of Veterans Affairs considers relevant and appropriate, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on improving the support by the Department of Veterans Affairs of governmental veterans service officers.
+- **(a)** *Report* Not later than one year after the date of the enactment of this Act and after consulting veterans service organizations and such other stakeholders as the Secretary of Veterans Affairs considers relevant and appropriate, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the House of Representatives a report on improving the support by the Department of Veterans Affairs of covered governmental veterans service officers.
 - **(b)** *Elements* The report submitted under subsection (a) shall include the following:
-  - **(1)** An assessment of the feasibility, advisability, and current technical limitations of providing governmental veterans service officers enhanced access to certain Department systems to better serve veterans those governmental service officers may not have authorization to represent.
+  - **(1)** An assessment of the feasibility, advisability, and current technical limitations of providing covered governmental veterans service officers enhanced access to certain Department systems to better serve veterans those governmental service officers may not have authorization to represent.
   - **(2)** An assessment as to whether the Department would benefit from the establishment or designation of an office or working group within the Department to serve as an intergovernmental liaison between the Department and governmental veterans service officers.
-  - **(3)** Any other recommendations to improve how the Department monitors, coordinates with, or provides support to governmental veterans service officers.
+  - **(3)** Any other recommendations to improve how the Department monitors, coordinates with, or provides support to covered governmental veterans service officers.
 - **(c)** *Definitions* In this section:
-  - **(1)** The term governmental veterans service officer means an employee of a State, county, municipal, or Tribal government—
+  - **(1)** The term covered governmental veterans service officer means an employee of a State, county, municipal, or Tribal government—
     - **(A)** who is recognized by the Secretary of Veterans Affairs as a representative of a veterans service organization to serve as a veterans service officer; and
-    - **(B)** whose primary responsibilities include preparing, presenting, and prosecuting benefit claims before the Department of Veterans Affairs.
+    - **(B)** whose primary responsibilities include preparing, presenting, and prosecuting before the Department of Veterans Affairs claims for benefits under laws administered by the Secretary.
   - **(2)** The term veterans service organization means an organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.
+
+## § 5. Board of Veterans' Appeals internship program
+
+- **(a)** *In general* Chapter 71 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 7114. Internship program
+  >
+  > The Secretary shall establish a competitive internship program of the Board for individuals enrolled in the first or second year of law schools accredited by the American Bar Association.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 71 of such title is amended by adding at the end the following new item:
+- **(c)** *Deadline* The Secretary of Veterans Affairs shall establish the internship program required by section 7114 of such title, as added by subsection (a), not later than one year after the date of the enactment of this Act.
+
+## § 6. Benefits for participants in certain programs of the Department of Veterans Affairs
+
+- **(a)** *Establishment* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall carry out a program to furnish certain benefits to covered participants.
+- **(b)** *Benefits: student loan repayment; reimbursements*
+  - **(1)** *In general* Subject to an agreement under paragraph (2), the Secretary shall provide to each covered attorney—
+    - **(A)** student loan repayment benefits under section 5379 of title 5, United States Code, in the case of a covered attorney who is eligible for such benefits; and
+    - **(B)** reimbursement for the cost of—
+      - **(i)** enrollment in a course designed to prepare an individual for licensure to practice law in a State;
+      - **(ii)** sitting for a bar examination in a State; and
+      - **(iii)** annual dues required to maintain membership in the bar of any State.
+  - **(2)** *Agreement* The Secretary shall enter into an agreement with a covered attorney who will receive benefits under paragraph (1). Each such agreement shall specify that—
+    - **(A)** the covered attorney agrees to remain in the service of the Department for a period of not less than three years, unless involuntarily separated; and
+    - **(B)** if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, the covered attorney shall repay to the United States the amount of any benefits received by the covered participant under paragraph (1).
+- **(c)** *Professional development activities*
+  - **(1)** *Mentorship* Not later than 90 days after the date on which an individual becomes a covered participant, the Secretary shall assign the covered participant a mentor who is an employee of the Department who is—
+    - **(A)** to the extent practicable, a managerial employee; and
+    - **(B)** outside the participant's chain of command.
+  - **(2)** *Assignments* At the election of a covered participant who has completed at least two years of service to the Department, the Secretary shall assign such covered participant to:
+    - **(A)** The Office of General Counsel, in a position—
+      - **(i)** that includes full-time legal responsibilities in order to further the professional development of the covered participant; and
+      - **(ii)** for a period of not less than 120 days and not more than 180 days, or longer at the discretion of the Secretary.
+    - **(B)** In the case of a covered participant who has already held a position described in subparagraph (A), an assignment described in clauses (i) and (ii) of such subparagraph with the Board of Veterans’ Appeals.
+  - **(3)** *Other rotational assignments* The Secretary may provide a covered participant one or more other short-term rotational assignments. Such an assignment shall be for a period of not less than 30 days and not more than 180 days, at the discretion of the Secretary.
+- **(d)** *Periodic reports*
+  - **(1)** *Reports required* Not later than three years after the date on which the Secretary begins to carry out the program under this section, and not less frequently than once every three years thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives regarding such program.
+  - **(2)** *Elements* Each report submitted under paragraph (1) shall include the following elements:
+    - **(A)** Costs to the United States to provide benefits under subsection (b).
+    - **(B)** The rates of retention of covered participants compared to other employees of the Department.
+    - **(C)** Recommendations of the Secretary regarding legislative or administrative action to improve such program.
+- **(e)** *Definitions* In this section:
+  - **(1)** The term “covered attorney” means an individual who—
+    - **(A)** is a covered participant;
+    - **(B)** has graduated from a law school accredited by the American Bar Association; and
+    - **(C)** is a member in good standing of the bar of a State.
+  - **(2)** The term “covered participant” means an individual who participates in—
+    - **(A)** the Honors Attorney Program (or successor program) of the Office of General Counsel of the Department of Veterans Affairs; or
+    - **(B)** the Law Clerk Program (or successor program) of the Board of Veterans’ Appeals.
+  - **(3)** The term “State” has the meaning given such term in section 101 of title 38, United States Code.
+
+## § 7. Increase in maximum number of judges appointed to United States Court of Appeals for Veterans Claims
+
+Section 7253(a) of title 38, United States Code, is amended by striking “seven” and inserting “nine”.
+
+## § 8. Report on improving access to Board of Veterans' Appeals telehearings
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on improving access to hearings before the Board of Veterans’ Appeals held by picture and voice transmission.
+- **(b)** *Contents* The report required by subsection (a) shall include the following:
+  - **(1)** Recommendations on the feasibility and advisability of reimbursing veterans for expenses incurred for travel from the home of a veteran to the location at which a hearing before the Board of Veterans’ Appeals is held by picture and voice transmission, if the Secretary determines that travel to such location is reasonably necessary for such a hearing.
+  - **(2)** Recommendations on establishment of pilot programs to assess the feasibility and advisability of using other methods that could improve veteran access to hearings before the Board of Veterans’ Appeals held by picture and voice transmission from a veteran’s home.
+  - **(3)** Such other recommendations to improve access to hearings before the Board of Veterans’ Appeals held by picture and voice transmission as the Secretary may receive from stakeholders.

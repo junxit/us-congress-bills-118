@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1530
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in paragraph (1)(A), by inserting “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and contracted personnel for the completion o… | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1)(A), by inserting “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the … | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (e), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 71 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 71 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 7253(a) of title 38, United States Code, is amended by striking “seven” and inserting “nine”. | the bill names no machine-readable US Code section |
