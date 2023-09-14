@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1450
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1450
@@ -53,3 +53,11 @@ Treating Tribes and Counties as Good Neighbors Act
 - 2023-09-08 — Placed on the Union Calendar, Calendar No. 155.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-168, Part II.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-168, Part II.
+- 2023-09-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Westerman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2023-09-12 — Considered under suspension of the rules. (consideration: CR H4251-4253)
+- 2023-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1450.
+- 2023-09-12 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2023-09-14 — Considered as unfinished business. (consideration: CR H4328)
+- 2023-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/12/2023 CR H4251)
+- 2023-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/12/2023 CR H4251)

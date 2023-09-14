@@ -19,11 +19,13 @@ This Act may be cited as the “Treating Tribes and Counties as Good Neighbors A
   - **(1)** in subsection (a)(6), by striking “or Indian tribe”; and
   - **(2)** in subsection (b)—
     - **(A)** in paragraph (1)(A), by inserting “, Indian tribe,” after “Governor”;
-    - **(B)** in paragraph (2)(C), by striking clause (i) and inserting the following:
-      > - **(i)** *In general* Funds received from the sale of timber by a Governor, an Indian tribe, or a county under a good neighbor agreement shall be retained and used by the Governor, Indian tribe, or county, as applicable—
-      >   - **(I)** to carry out authorized restoration services under the good neighbor agreement; and
-      >   - **(II)** if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services under other good neighbor agreements.
+    - **(B)** in paragraph (2)(C)—
+      - **(i)** by striking clause (i) and inserting the following:
+        > - **(i)** *In general* Funds received from the sale of timber by a Governor, an Indian tribe, or a county under a good neighbor agreement shall be retained and used by the Governor, Indian tribe, or county, as applicable—
+        >   - **(I)** to carry out authorized restoration services under the good neighbor agreement; and
+        >   - **(II)** if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services under other good neighbor agreements.
 
+      - **(ii)** in clause (ii), by striking “2023” and inserting “2028”;
     - **(C)** in paragraph (3), by inserting “, Indian tribe,” after “Governor”; and
     - **(D)** by striking paragraph (4).
 - **(b)** *Conforming amendments* Section 8206(a) of the Agricultural Act of 2014 (16 U.S.C. 2113a(a)) is amended—
