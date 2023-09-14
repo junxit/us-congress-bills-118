@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3324
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3324
@@ -48,3 +48,15 @@ To extend the authority to collect Shasta-Trinity Marina fees through fiscal yea
 - 2023-09-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 387). (text: 9/12/2023 CR H4255)
 - 2023-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 387). (text: 9/12/2023 CR H4255)
 - 2023-09-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-10-25 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-311.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7087-7089)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-17 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-17 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-166.
+- 2024-12-23 — Became Public Law No: 118-166.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.

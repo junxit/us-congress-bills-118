@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3324
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 422 of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008 (Public Law 110–161; 121 Stat 2149) as amended, is further amended by striking “and each subsequent fiscal year through fiscal year… | the bill names no machine-readable US Code section |
+| — | replace | Section 422 of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2149) as amended, is further amended by striking “and each subsequent fiscal year through fiscal yea… | the bill names no machine-readable US Code section |
