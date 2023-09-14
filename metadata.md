@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1435
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1435
@@ -106,6 +106,11 @@ Preserving Choice in Vehicle Purchases Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (2)
+
+- 2023-09-14 — [House 118-1-390](votes/house-118-1-0390.md) — On Motion to Recommit — **Failed** (193–212)
+- 2023-09-14 — [House 118-1-391](votes/house-118-1-0391.md) — On Passage — **Passed** (222–190)
+
 ## Actions
 
 - 2023-03-08 — Introduced in House
@@ -119,3 +124,16 @@ Preserving Choice in Vehicle Purchases Act
 - 2023-09-01 — Placed on the Union Calendar, Calendar No. 133.
 - 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-169.
 - 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-169.
+- 2023-09-13 — Rules Committee Resolution H. Res. 680 Reported to House. Rule provides for consideration of H.R. 1435 and H.R. 4365. The resolution provides for consideration of H.R. 1435 under a closed rule and H.R. 4365 under a structured rule. The rule provides for one hour of general debate on each measure with one motion to recommit allowed.
+- 2023-09-13 — Rules Committee Resolution H. Res. 681 Reported to House. Rule provides for consideration of H.R. 1435 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2023-09-14 — Considered under the provisions of rule H. Res. 681. (consideration: CR H4318-4328)
+- 2023-09-14 — DEBATE - The House proceeded with one hour of debate on H.R. 1435.
+- 2023-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-14 — Mr. Levin moved to recommit to the Committee on Energy and Commerce. (text: CR H4326)
+- 2023-09-14 — On motion to recommit Failed by the Yeas and Nays: 193 - 212 (Roll no. 390).
+- 2023-09-14 — On passage Passed by the Yeas and Nays: 222 - 190 (Roll no. 391). (text: CR H4318)
+- 2023-09-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 190 (Roll no. 391). (text: CR H4318)
+- 2023-09-14 — Rule H. Res. 681 passed House.
+- 2023-09-14 — Rule provides for consideration of H.R. 1435 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
+- 2023-09-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-09-14 — The previous question was ordered pursuant to the rule.
