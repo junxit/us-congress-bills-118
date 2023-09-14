@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1567
@@ -20,10 +20,11 @@ ACRES Act
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ ACRES Act
 - 2023-09-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 386). (text: 9/12/2023 CR H4249)
 - 2023-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 386). (text: 9/12/2023 CR H4249)
+- 2023-09-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
