@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
   - **(2)** in subsection (c), by inserting “under subsection (e)” before the period at the end; and
   - **(3)** by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following new subsection:
-    > - **(e)** *Delivery of actual stamps* A State shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp from such State during the 1-year period preceding such date.
+    > - **(e)** *Delivery of actual stamps* The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl seasons.
 
 - **(b)** *Stamp valid through close of hunting season* Section 6 of the Permanent Electronic Duck Stamp Act of 2013 (16 U.S.C. 718s(c)) is amended—
   - **(1)** in subsection (b), by striking “shall, during the effective period of the electronic stamp—” and inserting “shall—”; and
