@@ -1,0 +1,140 @@
+---
+measure: H.R. 5456
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 5456
+
+No Tax Breaks for Union Busting (NTBUB) Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+
+## Cosponsors (110)
+
+- Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Bowman, Jamaal [D-NY-16] (B001223)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Casar, Greg [D-TX-35] (C001131)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Doggett, Lloyd [D-TX-37] (D000399)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
+- Rep. Gallego, Ruben [D-AZ-3] (G000574)
+- Rep. Garamendi, John [D-CA-8] (G000559)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Garcia, Robert [D-CA-42] (G000598)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Hoyle, Val T. [D-OR-4] (H001094)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Kildee, Daniel T. [D-MI-8] (K000380)
+- Rep. Kim, Andy [D-NJ-3] (K000394)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Kuster, Ann M. [D-NH-2] (K000382)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Lee, Barbara [D-CA-12] (L000551)
+- Rep. Lofgren, Zoe [D-CA-18] (L000397)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Magaziner, Seth [D-RI-2] (M001223)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McGarvey, Morgan [D-KY-3] (M001220)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Menendez, Robert [D-NJ-8] (M001226)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Nadler, Jerrold [D-NY-12] (N000002)
+- Rep. Napolitano, Grace F. [D-CA-31] (N000179)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Nickel, Wiley [D-NC-13] (N000194)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Panetta, Jimmy [D-CA-19] (P000613)
+- Rep. Pascrell, Bill, Jr. [D-NJ-9] (P000096)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Porter, Katie [D-CA-47] (P000618)
+- Rep. Pressley, Ayanna [D-MA-7] (P000617)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Schiff, Adam B. [D-CA-30] (S001150)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Slotkin, Elissa [D-MI-7] (S001208)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Sorensen, Eric [D-IL-17] (S001225)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
+- Rep. Takano, Mark [D-CA-39] (T000472)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Tlaib, Rashida [D-MI-12] (T000481)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Velazquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Wild, Susan [D-PA-7] (W000826)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Foushee, Valerie P. [D-NC-4] (F000477)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Chu, Judy [D-CA-28] (C001080)
+- Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+
+## Committees (1)
+
+- House — Ways and Means Committee
+
+## Actions
+
+- 2023-09-14 — Introduced in House
+- 2023-09-14 — Introduced in House
+- 2023-09-14 — Referred to the House Committee on Ways and Means.
