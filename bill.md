@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 5509
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5509
+
+> To modernize permitting systems at the Department of the Interior, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Electronic Permitting Modernization Act”.
+
+## § 2. Department of the Interior permit accessibility
+
+In order to improve the overall economy, efficiency, and management of operations and activities of the Department of the Interior (referred to in this section as the “Department”), reduce paperwork, and provide high-quality services and access to the public, the Secretary of the Interior shall, to the extent practicable—
+
+- **(1)** design and deliver modernized electronic permitting systems to accept, process, and record applications (including plan submissions, payment activity, and other related correspondence) for permits, forms, and other paperwork required for activities regulated by the Department;
+- **(2)** provide a centralized electronic permitting system online repository, available to the public on the Department’s website, that includes—
+  - **(A)** hyperlinks to facilitate navigation to all Department electronic permitting systems; and
+  - **(B)** with respect to permits, the contact information for the appropriate Department employees providing assistance to State, Tribal, and local governments; and
+- **(3)** provide to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate periodic updates on the implementation of paragraphs (1) and (2).
