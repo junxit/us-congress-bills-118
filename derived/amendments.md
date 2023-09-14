@@ -1,7 +1,7 @@
 ---
 measure: H.R. 663
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-40 amendatory instructions. 18 executed, 22 stated and not applied.
+38 amendatory instructions. 18 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -179,7 +179,7 @@ to guess them.
 
 ### 25 U.S.C. § 3210
 
-> in paragraph (5), by striking “tribes” and inserting “Indian Tribes”;
+> in paragraph (5), by striking “tribes” and inserting “Indian Tribes”; and
 
 | | |
 |---|---|
@@ -198,17 +198,16 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3202` | amend | By amending section 403(3)(A) (25 U.S.C. 3202(3)(A)) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3208` | insert | in subsection (b)(1), by inserting after “Any Indian tribe or intertribal consortium” the following: “, on its own or in partnership with an urban Indian organization,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3208` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3208` | redesignate | by redesignating subsection (e) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3208` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3208` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3208` | redesignate | by amending subsection (f) (as so redesignated by subparagraph (G) of this paragraph), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3209` | insert | by inserting “National” before “Indian”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3209` | amend | by amending subsections (a) and (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3209` | strike | by striking “multidisciplinary”; | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 3209` | insert | in paragraph (2), by inserting “urban Indian organizations,” after “tribal organizations,”; | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 3209` | insert | by inserting “and technical assistance” after training; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 3209` | insert | by inserting “and technical assistance” after “training”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3209` | insert | by inserting “, State,” after “Federal”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3209` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3209` | amend | by amending subsections (f), (g), and (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 3209` | amend | by amending subsections (f) and (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3210` | strike | in subparagraph (B), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 3210` | insert | by inserting after subparagraph (C), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3210` | insert | in subparagraph (A), by inserting “in culturally appropriate ways” after “incidents of family violence”; and | the bill quotes the text inserted but describes where it goes |
@@ -216,4 +215,3 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 3210` | insert | in subparagraph (A), by inserting “and neglect” after “abuse”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3210` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3210` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 3210` | amend | by amending subsection (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Native American Child Protection Act”.
 
-## § 2. Indian Child Protection and Family Violence Prevention Act Amendments
+## § 2. Indian child protection and family violence prevention act amendments
 
 The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 et seq.) is amended as follows:
 
@@ -35,14 +35,11 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     > - **(c)** *Culturally appropriate treatment* In awarding grants under this section, the Service shall encourage the use of culturally appropriate treatment services and programs that respond to the unique cultural values, customs, and traditions of applicant Indian Tribes.
 
   - **(F)** in subsection (d)(2), by striking “the Secretary” and inserting “the Service”;
-  - **(G)** by redesignating subsection (e) as subsection (f);
+  - **(G)** by redesignating subsection (e) as subsection (f); and
   - **(H)** by inserting after subsection (d) the following:
     > - **(e)** *Report* Not later than 2 years after the date of the enactment of the Native American Child Protection Act, the Service shall submit a report to Congress on the award of grants under this section. The report shall contain—
     >   - **(1)** a description of treatment and services for which grantees have used funds awarded under this section; and
     >   - **(2)** any other information that the Service requires.
-
-  - **(I)** by amending subsection (f) (as so redesignated by subparagraph (G) of this paragraph), to read as follows:
-    > - **(f)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2023 through 2028.
 
 - **(3)** In section 410 (25 U.S.C. 3209)—
   - **(A)** in the heading—
@@ -60,7 +57,7 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     - **(ii)** in paragraph (1), by striking “and inter-tribal consortia” and inserting “inter-tribal consortia, and urban Indian organizations”;
     - **(iii)** in paragraph (2), by inserting “urban Indian organizations,” after “tribal organizations,”;
     - **(iv)** in paragraph (3)—
-      - **(I)** by inserting “and technical assistance” after training; and
+      - **(I)** by inserting “and technical assistance” after “training”; and
       - **(II)** by striking “and to tribal organizations” and inserting “, Tribal organizations, and urban Indian organizations”;
     - **(v)** in paragraph (4)—
       - **(I)** by inserting “, State,” after “Federal”; and
@@ -71,10 +68,9 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
   - **(E)** in subsection (e)—
     - **(i)** in the heading, by striking “Multidisciplinary team” and inserting “Team”;
     - **(ii)** in the text before paragraph (1), by striking “Each multidisciplinary” and inserting “The”; and
-  - **(F)** by amending subsections (f), (g), and (h) to read as follows:
+  - **(F)** by amending subsections (f) and (g) to read as follows:
     > - **(f)** *Center advisory board* The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
-    > - **(g)** *Application of Indian Self-Determination Act to the Center* The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
-    > - **(h)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2023 through 2028.
+    > - **(g)** *Application of indian self-determination act to the center* The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
 
 - **(4)** In section 411 (25 U.S.C. 3210)—
   - **(A)** in subsection (d)—
@@ -98,11 +94,8 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     - **(iii)** by amending paragraph (4) to read as follows:
       > - **(4)** The formula established pursuant to this subsection shall provide funding necessary to support not less than one child protective services or family violence caseworker, including fringe benefits and support costs, for each Indian Tribe.
 
-    - **(iv)** in paragraph (5), by striking “tribes” and inserting “Indian Tribes”;
+    - **(iv)** in paragraph (5), by striking “tribes” and inserting “Indian Tribes”; and
   - **(C)** by amending subsection (g) to read as follows:
     > - **(g)** *Report* Not later than 2 years after the date of the enactment of the Native American Child Protection Act, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the award of grants under this section. The report shall contain—
     >   - **(1)** a description of treatment and services for which grantees have used funds awarded under this section; and
     >   - **(2)** any other information that the Secretary of the Interior requires.
-
-  - **(D)** by amending subsection (i) to read as follows:
-    > - **(i)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2023 through 2028.
