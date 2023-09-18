@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1435
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1435
@@ -102,9 +102,10 @@ Preserving Choice in Vehicle Purchases Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -137,3 +138,4 @@ Preserving Choice in Vehicle Purchases Act
 - 2023-09-14 — Rule provides for consideration of H.R. 1435 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
 - 2023-09-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-09-14 — The previous question was ordered pursuant to the rule.
+- 2023-09-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
