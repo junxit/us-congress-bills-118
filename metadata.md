@@ -1,7 +1,7 @@
 ---
 measure: H.R. 532
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 532
@@ -16,6 +16,10 @@ To designate the Federal building and United States courthouse located at 600 Ea
 
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
+## Cosponsors (1)
+
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +29,10 @@ To designate the Federal building and United States courthouse located at 600 Ea
 - 2023-01-26 — Introduced in House
 - 2023-01-26 — Introduced in House
 - 2023-01-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-02-01 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported by Voice Vote.
+- 2023-07-27 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2023-09-18 — Placed on the House Calendar, Calendar No. 35.
+- 2023-09-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-200.
+- 2023-09-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-200.
