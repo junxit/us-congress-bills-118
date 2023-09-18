@@ -1,7 +1,7 @@
 ---
 measure: H.R. 663
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 663
@@ -31,6 +31,10 @@ Native American Child Protection Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2023-09-18 — [House 118-1-394](votes/house-118-1-0394.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (378–32)
+
 ## Actions
 
 - 2023-01-31 — Introduced in House
@@ -43,3 +47,11 @@ Native American Child Protection Act
 - 2023-09-14 — Placed on the Union Calendar, Calendar No. 159.
 - 2023-09-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-196.
 - 2023-09-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-196.
+- 2023-09-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-09-18 — Consideration by House (consideration: CR H4371)
+- 2023-09-18 — Considered under suspension of the rules. (consideration: CR H4367-4369)
+- 2023-09-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 663.
+- 2023-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-18 — Mr. Collins moved to suspend the rules and pass the bill, as amended.
+- 2023-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)
+- 2023-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)

@@ -99,3 +99,7 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3202 e
     > - **(g)** *Report* Not later than 2 years after the date of the enactment of the Native American Child Protection Act, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the award of grants under this section. The report shall contain—
     >   - **(1)** a description of treatment and services for which grantees have used funds awarded under this section; and
     >   - **(2)** any other information that the Secretary of the Interior requires.
+
+## § 3. Limitation on appropriations
+
+No additional amounts are authorized to carry out this Act or any of the amendments made by this Act. Each program, project, and activity authorized by this Act or the amendments made by this Act shall be subject to the availability of appropriations made in advance for such purposes.
