@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5554
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5554
+
+> To prohibit the use of organophosphate pesticides on food.
+
+## § 1. Short title
+
+This Act may be cited as the “Ban All Neurotoxic Organophosphate Pesticides From Our Food Act” or the “BAN OPs From Our Food Act”.
+
+## § 2. Prohibition on use of organophosphates on food
+
+Section 402 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 342) is amended by adding at the end the following:
+
+> - **(j)** If it bears or contains any organophosphate pesticide, including any residue of an organophosphate pesticide, or any other added substance the presence of which is primarily as a result of the metabolism or other degradation of an organophosphate pesticide, regardless of whether any tolerance or exemption with respect to organophosphate is in effect under section 408.
