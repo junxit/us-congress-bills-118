@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1450
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1450
@@ -28,10 +28,11 @@ Treating Tribes and Counties as Good Neighbors Act
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Salinas, Andrea [D-OR-6] (S001226)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Treating Tribes and Counties as Good Neighbors Act
 - 2023-09-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/12/2023 CR H4251)
 - 2023-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/12/2023 CR H4251)
+- 2023-09-18 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
