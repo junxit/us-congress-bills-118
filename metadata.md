@@ -1,7 +1,7 @@
 ---
 measure: H.R. 663
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 663
@@ -55,3 +55,4 @@ Native American Child Protection Act
 - 2023-09-18 — Mr. Collins moved to suspend the rules and pass the bill, as amended.
 - 2023-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)
 - 2023-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)
+- 2023-09-19 — Received in the Senate, read twice.
