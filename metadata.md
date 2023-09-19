@@ -1,7 +1,7 @@
 ---
 measure: H.R. 663
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 663
@@ -56,3 +56,12 @@ Native American Child Protection Act
 - 2023-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)
 - 2023-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394). (text: H4367-4368)
 - 2023-09-19 — Received in the Senate, read twice.
+- 2024-12-17 — Passed Senate without amendment by Voice Vote. (consideration: CR S7097)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-160.
+- 2024-12-23 — Became Public Law No: 118-160.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
