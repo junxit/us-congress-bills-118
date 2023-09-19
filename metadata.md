@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3981
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3981
@@ -20,9 +20,10 @@ Isakson-Roe Education Oversight Expansion Act
 
 - Rep. Levin, Mike [D-CA-49] (L000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Isakson-Roe Education Oversight Expansion Act
 - 2023-09-18 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2023-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 392). (text: CR H4357)
 - 2023-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 392). (text: CR H4357)
+- 2023-09-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
