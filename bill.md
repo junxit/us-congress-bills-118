@@ -11,12 +11,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas service dogs assist individuals with a wide range of challenges, including—(1)post-traumatic stress disorder;(2)traumatic brain injury;(3)military sexual trauma;(4)epilepsy;(5)visual, hearing, and mobility impairments; and(6)other disabilities;
-- Whereas service dogs are able to support veterans struggling after war, hear for individuals who are deaf, see for individuals who are blind, and even sense changes in an individual’s body before a seizure;
+- Whereas service dogs assist individuals with a wide range of challenges,
+- Whereas service dogs are able to support veterans struggling after war;
 - Whereas service dogs have assisted individuals in the United States since 1929;
-- Whereas service dogs were legally recognized by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) to do work or perform tasks for an individual with a disability and have protections under the Fair Housing Act (42 U.S.C. 3601 et seq.) and 41705 of title 49, United States Code (commonly known as the “Air Carrier Access Act of 1986”);
-- Whereas evidence-based research has shown that service dogs provide numerous health and fitness benefits, including enhanced mobility and independence and a reduction in the symptoms of depression, anxiety, stress, and suicidal ideation;
-- Whereas tens of thousands of service dogs are estimated to be working in the United States today, located in all 50 States, Puerto Rico, and Guam; and
+- Whereas evidence-based research has shown that service dogs provide numerous health and fitness benefits;
+- Whereas tens of thousands of service dogs are estimated to be working in the United States today; and
 - Whereas National Service Dog Day is an appropriate tribute to service dogs and the organizations that offer service dogs free of charge to United States veterans and individuals with disabilities: Now, therefore, be it
 
 That the Senate—
