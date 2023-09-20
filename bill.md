@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2872
 
-> To amend the Permanent Electronic Duck Stamp Act of 2013 to allow States to issue electronic stamps under such Act, and for other purposes.
+> To amend the Permanent Electronic Duck Stamp Act of 2013 to allow the Secretary of the Interior to issue electronic stamps under such Act, and for other purposes.
 
 ## § 1. Authorizing fully electronic stamps
 

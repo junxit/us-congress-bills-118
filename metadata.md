@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2872
@@ -39,3 +39,12 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2023-09-14 — Placed on the Union Calendar, Calendar No. 161.
 - 2023-09-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-198.
 - 2023-09-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-198.
+- 2023-09-18 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Collins objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2023-09-18 — Considered under suspension of the rules. (consideration: CR H4366-4367)
+- 2023-09-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2872.
+- 2023-09-18 — Mr. Collins moved to suspend the rules and pass the bill, as amended.
+- 2023-09-20 — Considered as unfinished business. (consideration: CR H4427)
+- 2023-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/18/2023 CR H4366)
+- 2023-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/18/2023 CR H4366)
+- 2023-09-20 — The title of the measure was amended. Agreed to without objection.
