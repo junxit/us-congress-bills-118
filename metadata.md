@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1726
@@ -31,3 +31,14 @@ Continued Rapid Ohia Death Response Act of 2023
 - 2023-03-22 — Introduced in House
 - 2023-03-22 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-22 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-04-25 — Referred to the Subcommittee on Forestry.
+- 2023-05-22 — Referred to the Subcommittee on Federal Lands.
+- 2023-05-23 — Subcommittee Hearings Held.
+- 2023-06-21 — Committee Consideration and Mark-up Session Held.
+- 2023-06-21 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2023-06-21 — Subcommittee on Federal Lands Discharged.
+- 2023-09-20 — Committee on Agriculture discharged.
+- 2023-09-20 — Committee on Agriculture discharged.
+- 2023-09-20 — Placed on the Union Calendar, Calendar No. 166.
+- 2023-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-205, Part I.
+- 2023-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-205, Part I.
