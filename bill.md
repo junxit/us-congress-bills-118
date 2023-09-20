@@ -1,0 +1,45 @@
+---
+legis-num: S. 2872
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2872
+
+> To defer student loan payments for survivors of sex-based harassment.
+
+## § 1. Deferment for victims of sex-based harassment
+
+Section 455(f) of the Higher Education Act of 1965 (20 U.S.C. 1087e(f)) is amended—
+
+- **(1)** in paragraph (2)—
+  - **(A)** by striking “or” at the end of subparagraph (C);
+  - **(B)** by striking the period at the end of subparagraph (D) and inserting “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(E)** not in excess of 3 years (for 1 or more periods of not less than 3 months and not more than 12 months), beginning on the date on which the borrower—
+    >   - **(i)** ceases to carry at least one-half the normal full-time work load for the course of study that the borrower is pursuing, as determined by the eligible institution (as such term is defined in section 435(a)) the borrower is attending; and
+    >   - **(ii)** submits documentation to the Secretary showing that the borrower reported to a covered individual that the borrower was a victim of sex-based harassment (regardless of whether institutional findings were made regarding that harassment).
+
+- **(2)** by adding at the end the following:
+  > - **(6)** *Definitions regarding sex-based harassment* For purposes of paragraph (2)(E)—
+  >   - **(A)** the term covered individual means—
+  >     - **(i)** the title IX coordinator at the institution (within the meaning of section 106.8 of title 34, Code of Federal Regulations, or successor regulations);
+  >     - **(ii)** another title IX official or administrator at the institution; or
+  >     - **(iii)** a health care provider; and
+  >   - **(B)** the term sex-based harassment means—
+  >     - **(i)** sexual harassment, as defined in paragraph (1) or (2) of section 106.30(a) of title 34, Code of Federal Regulations (as in effect on September 30, 2023);
+  >     - **(ii)** dating violence, domestic violence, or stalking, as those terms are defined in section 485(f)(6)(A)(i); or
+  >     - **(iii)** sexual assault, as that term is defined in section 485(f)(6)(A)(v).
+
+## § 2. Return of funds waiver
+
+Section 484B(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1091b(b)(2)) is amended by adding at the end the following:
+
+> - **(F)** *Waivers of grant assistance and loan repayment by students who are victims of sex-based harassment* In addition to the waivers authorized by subparagraphs (D) and (E), the Secretary may waive the amounts that students are required to return under this section with respect to any grant assistance (including Federal Pell Grants) or loans made under this title if the withdrawals on which the returns are based are withdrawals by students—
+>   - **(i)** whose attendance was interrupted due to being a victim of sex-based harassment (as such term is defined in section 455(f)(6)); and
+>   - **(ii)** in the case of students who, in the absence of this subparagraph, would have been required to return loans made under this title, who are receiving a deferment under section 455(f)(2)(E) on such loans.
+
+## § 3. Report to Congress
+
+Not later than 5 years after the date of enactment of this Act, the Secretary of Education shall prepare and submit to Congress a report that includes an evaluation of the effectiveness of the activities established under this Act, and the amendments made by this Act, including opportunities for increased program integrity.
