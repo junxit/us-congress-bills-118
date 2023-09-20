@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5110
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 7906` | insert | Section 8526(7) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7906(7)) is amended by inserting “, except that this paragraph shall not apply so as to prohibit the use of funds under this Act for the provision or use of… | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 7906` | insert | Section 8526(7) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7906(7)) is amended by inserting “, except that this paragraph shall not apply to the use of funds under this Act for activities carried out under programs … | the bill quotes the text inserted but describes where it goes |

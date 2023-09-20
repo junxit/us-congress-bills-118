@@ -15,4 +15,4 @@ This Act may be cited as the “Protecting Hunting Heritage and Education Act”
 
 ## § 2. Clarification of prohibition on use of Federal education funds for certain weapons and related training
 
-Section 8526(7) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7906(7)) is amended by inserting “, except that this paragraph shall not apply so as to prohibit the use of funds under this Act for the provision or use of such a weapon for purposes of training students in archery, hunting, or other shooting sports” before the period at the end.
+Section 8526(7) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7906(7)) is amended by inserting “, except that this paragraph shall not apply to the use of funds under this Act for activities carried out under programs authorized by this Act that are otherwise permissible under such programs and that provide students with educational instruction or educational enrichment activities, such as archery, hunting, other shooting sports, or culinary arts” before the period at the end.
