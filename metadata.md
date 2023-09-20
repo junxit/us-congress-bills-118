@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1418
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1418
@@ -44,3 +44,5 @@ Animal Drug and Animal Generic Drug User Fee Amendments of 2023
 - 2023-07-17 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2023-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3620-3623)
 - 2023-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3620-3623)
+- 2023-07-18 — Received in the Senate.
+- 2023-09-20 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
