@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1530
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1530
@@ -28,6 +28,10 @@ Veterans Benefits Improvement Act of 2023
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-09-20 — [House 118-1-401](votes/house-118-1-0401.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (423–0)
+
 ## Actions
 
 - 2023-03-10 — Introduced in House
@@ -42,3 +46,11 @@ Veterans Benefits Improvement Act of 2023
 - 2023-09-14 — Placed on the Union Calendar, Calendar No. 162.
 - 2023-09-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-199.
 - 2023-09-14 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-199.
+- 2023-09-18 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bost objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2023-09-18 — Considered under suspension of the rules. (consideration: CR H4358-4361)
+- 2023-09-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1530.
+- 2023-09-18 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2023-09-20 — Considered as unfinished business. (consideration: CR H4426-4427)
+- 2023-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 401). (text: 9/18/2023 CR H4358-4359)
+- 2023-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 401). (text: 9/18/2023 CR H4358-4359)
