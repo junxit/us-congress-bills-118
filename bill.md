@@ -21,7 +21,7 @@ This Act may be cited as the “DOE and NSF Interagency Research Act”.
   - **(1)** conduct collaborative research in a variety of focus areas, such as—
     - **(A)** basic plasma science and engineering, including applications in astrophysics, materials science, fusion science, and accelerator science;
     - **(B)** fundamental biological and computational science and engineering, including computational neuroscience and neuromorphic computing, including in collaboration with the program authorized under section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644);
-    - **(C)** modeling and simulation, machine learning, artificial intelligence, data assimilation, large-scale data analytics, and predictive analysis in order to optimize algorithms for purposes related to energy and climate;
+    - **(C)** modeling and simulation, machine learning, artificial intelligence, data assimilation, large-scale data analytics, predictive analysis, and advanced computational, storage, and networking capabilities in order to optimize algorithms for purposes related to energy and climate;
     - **(D)** quantum information sciences, including quantum computing and quantum network infrastructure, including in collaboration with the programs authorized under sections 403 and 404 of the National Quantum Initiative Act (15 U.S.C. 8853 and 8854);
     - **(E)** energy and materials science and engineering, including artificial photosynthesis, plasma, solar fuels, and fusion, including in collaboration with the programs authorized under sections 303 and 307 of the Department of Energy Research and Innovation Act (42 U.S.C. 18641 and 18645), and section 973 of the Energy Policy Act of 2005 (42 U.S.C. 16313);
     - **(F)** advanced manufacturing technologies, including efficient storage systems and alternatives to high-temperature processing, for the purposes of optimizing energy consumption, including in collaboration with the program authorized under section 975 of the Department of Energy Research and Innovation Act (42 U.S.C. 16315);
@@ -29,7 +29,10 @@ This Act may be cited as the “DOE and NSF Interagency Research Act”.
     - **(H)** advanced physics, including high energy and particle physics, accelerator research and development, and high performance computational tools, including in collaboration with the programs authorized under section 303 of the Department of Energy Research and Innovation Act (42 U.S.C. 18641);
   - **(2)** promote collaboration, open community-based development, and data and information sharing between Federal agencies, National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities by providing the necessary access and secure data and information transfer capabilities;
   - **(3)** support research infrastructure, including new facilities and equipment, as the Secretary and Director determine necessary; and
-  - **(4)** organize education, training, and research initiatives relating to STEM education and workforce development.
+  - **(4)** organize education, training, and research initiatives relating to STEM education and workforce development, including—
+    - **(A)** internships, fellowships, and other research or work-based learning opportunities;
+    - **(B)** educational programming for students at all levels, especially experiential and project-based learning opportunities; and
+    - **(C)** professional development opportunities for educators and researchers.
 - **(d)** *Agreements* In carrying out the activities under subsection (a), the Secretary and the Director are authorized to—
   - **(1)** carry out reimbursable agreements between the Department of Energy, the National Science Foundation, and other entities in order to maximize the effectiveness of research and development; and
   - **(2)** collaborate with other Federal agencies, as appropriate.
