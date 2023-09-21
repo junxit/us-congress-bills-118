@@ -1,7 +1,7 @@
 ---
 measure: S. 2787
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2787
@@ -28,3 +28,18 @@ version: Engrossed in Senate
 - 2023-09-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4666)
 - 2023-09-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4666)
 - 2023-09-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4666)
+- 2023-09-22 — Held at the desk.
+- 2023-09-22 — Message on Senate action sent to the House.
+- 2023-09-22 — Received in the House.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6798-6799)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 2787.
+- 2023-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-11 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2023-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6798)
+- 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6798)
+- 2023-12-13 — Presented to President.
+- 2023-12-13 — Presented to President.
+- 2023-12-19 — Became Public Law No: 118-27.
+- 2023-12-19 — Became Public Law No: 118-27.
+- 2023-12-19 — Signed by President.
+- 2023-12-19 — Signed by President.
