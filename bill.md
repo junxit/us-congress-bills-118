@@ -1,0 +1,23 @@
+---
+legis-num: S. 2896
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2896
+
+> To amend the Small Business Act to define the term “State” for the purposes of the microloan program carried out under that Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Northern Mariana Islands Entrepreneurship Act of 2023”.
+
+## § 2. Microloan program definitions
+
+Section 7(m)(11) of the Small Business Act (15 U.S.C. 636(m)(11)) is amended—
+
+- **(1)** in subparagraph (C)(ii), by striking the period at the end and inserting a semicolon;
+- **(2)** in subparagraph (D), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(E)** the term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
