@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1069
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 18861` | add-at-end | Subsection (h) of section 41201 of the Infrastructure Investments and Jobs Act (42 U.S.C. 18861) is amended by adding at the end following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18861` | add-at-end | Subsection (h) of section 41201 of the Infrastructure Investment and Jobs Act (42 U.S.C. 18861) is amended by adding at the end following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

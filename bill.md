@@ -15,10 +15,10 @@ This Act may be cited as the “Clean Energy Demonstration Transparency Act of 2
 
 ## § 2. Project management and oversight reporting requirements
 
-Subsection (h) of section 41201 of the Infrastructure Investments and Jobs Act (42 U.S.C. 18861) is amended by adding at the end following new paragraph:
+Subsection (h) of section 41201 of the Infrastructure Investment and Jobs Act (42 U.S.C. 18861) is amended by adding at the end following new paragraph:
 
 > - **(3)** *Further reports*
->   - **(A)** *In general* Not later than six months after the date of the enactment of this paragraph and at least semiannually thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate a report that contains, for the period covered by each such report, for each covered project or other demonstration project administered or supported by the program, the following:
+>   - **(A)** *In general* Not later than six months after the date of the enactment of this paragraph and at least semiannually thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate a report, and make publicly available in digital online format, that contains, for the period covered by each such report, for each covered project or other demonstration project administered or supported by the program, the following:
 >     - **(i)** A copy of any initial contracts or financial assistance agreements executed between the Department and an award recipient, including any related documentation, as the Secretary determines appropriate.
 >     - **(ii)** A list of any material, technical, or financial milestones that have or have not been met.
 >     - **(iii)** Any material modifications to the scope, schedule, funding profile (including cost-share requirements), project partners or participating entities, or budget of the project.
