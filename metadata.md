@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 208
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 208
@@ -16,7 +16,7 @@ A resolution expressing support for the designation of November 12, 2023, as "Na
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (20)
+## Cosponsors (36)
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -38,6 +38,22 @@ A resolution expressing support for the designation of November 12, 2023, as "Na
 - Sen. Schmitt, Eric [R-MO] (S001227)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
 
 ## Committees (1)
 
@@ -47,3 +63,22 @@ A resolution expressing support for the designation of November 12, 2023, as "Na
 
 - 2023-05-11 — Introduced in Senate
 - 2023-05-11 — Referred to the Committee on the Judiciary. (text: CR S1629)
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — Amendment SA 1286 agreed to in Senate by Unanimous Consent.
+- 2023-09-21 — Amendment SA 1286 proposed by Senator Schumer for Senator Shaheen. (consideration: CR S4665) To amend the resolving clause.
+- 2023-09-21 — Amendment SA 1287 agreed to in Senate by Unanimous Consent.
+- 2023-09-21 — Amendment SA 1287 proposed by Senator Schumer for Senator Shaheen. (consideration: CR S4665) To amend the preamble.
+- 2023-09-21 — Measure laid before Senate by unanimous consent. (consideration: CR S4665)
+- 2023-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S4665)
+- 2023-09-21 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S4665)
+- 2023-09-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-09-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-09-21 — Senate amendment agreed to: Amendment SA 1286 agreed to in Senate by Unanimous Consent.
+- 2023-09-21 — Senate amendment agreed to: Amendment SA 1287 agreed to in Senate by Unanimous Consent.
+- 2023-09-21 — Senate amendment proposed (on the floor): Amendment SA 1286 proposed by Senator Schumer for Senator Shaheen.(consideration: CR S4665)
+- 2023-09-21 — Senate amendment proposed (on the floor): Amendment SA 1287 proposed by Senator Schumer for Senator Shaheen.(consideration: CR S4665)
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
