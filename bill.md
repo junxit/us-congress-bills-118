@@ -1,0 +1,34 @@
+---
+legis-num: S. 2911
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2911
+
+> To prohibit the President and the Secretary of Health and Human Services from declaring certain emergencies or disasters for the purpose of imposing gun control.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting the Right To Keep and Bear Arms Act of 2023”.
+
+## § 2. Limitation on declarations by President
+
+The President (or any designee thereof) shall not, for the purpose of imposing gun control, declare an emergency pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.) or an emergency or major disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+## § 3. Limitation on declarations by HHS
+
+The Secretary of Health and Human Services shall not, for the purpose of imposing gun control, declare a public health emergency pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d).
+
+## § 4. Firearms policies
+
+Section 706(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5207(a)) is amended—
+
+- **(1)** in paragraph (3) by striking “; or” and inserting a semicolon;
+- **(2)** in paragraph (4) by striking the period and inserting a semicolon; and
+- **(3)** by adding at the end the following:
+  > - **(5)** prohibit the possession, manufacturing, sale, or transfer of firearms, as protected by the Second Amendment to the Constitution of the United States;
+  > - **(6)** prohibit the possession, manufacturing, sale, or transfer of ammunition;
+  > - **(7)** prohibit the possession, manufacturing, sale, or transfer of ammunition feeding devices; or
+  > - **(8)** prohibit the possession, manufacturing, sale, or transfer of firearms accessories.
