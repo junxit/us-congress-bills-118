@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3371
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3371
@@ -20,9 +20,10 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 - 2023-09-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 9/18/2023 CR H4364)
 - 2023-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 9/18/2023 CR H4364)
+- 2023-09-21 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
