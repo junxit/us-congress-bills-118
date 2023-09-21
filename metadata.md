@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3935
@@ -346,3 +346,8 @@ FAA Reauthorization Act of 2024
 - 2023-07-20 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2023-07-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3935.
 - 2023-07-20 — The previous question was ordered pursuant to the rule.
+- 2023-07-25 — Received in the Senate.
+- 2023-09-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-09-21 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4665)
+- 2023-09-21 — Motion to proceed to consideration of measure made in Senate. (CR S4665)
+- 2023-09-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
