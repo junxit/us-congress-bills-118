@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4824
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4824
@@ -29,3 +29,8 @@ Carbon Sequestration Collaboration Act
 - 2023-07-24 — Introduced in House
 - 2023-07-24 — Introduced in House
 - 2023-07-24 — Referred to the House Committee on Science, Space, and Technology.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported by the Yeas and Nays: 35 - 0.
+- 2023-09-22 — Placed on the Union Calendar, Calendar No. 173.
+- 2023-09-22 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-213.
+- 2023-09-22 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-213.
