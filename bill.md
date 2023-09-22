@@ -31,7 +31,7 @@ This Act may be cited as the “Abandoned Well Remediation Research and Developm
     >     - **(B)** use of low carbon, lightweight cement or use of alternative materials and additives for plugging purposes; and
     >     - **(C)** repurposing of abandoned wells for alternative uses, including geothermal power production or carbon capture, utilization, and storage; and
     >   - **(4)** understanding of the impacts of abandoned wells on groundwater quality and contamination.
-    > - **(c)** *Coordination* In carrying out the program established in (a), the Secretary shall ensure coordination of these activities with institutions of higher education, the Department of Energy National Laboratories, and the private sector.
+    > - **(c)** *Coordination* In carrying out the program established under subsection (a), the Secretary shall ensure coordination of these activities with State and local governments, institutions of higher education, the Department of Energy National Laboratories, the private sector, and impacted communities, including landowners within such communities.
     > - **(d)** *Abandoned well defined* In this section, the term “abandoned well” means a well originally drilled in connection with oil and gas operations that is not being used, has not been plugged, and has no anticipated use in oil and gas operations.
     > - **(e)** *Funding* There is authorized to be appropriated to the Secretary to carry out this section amounts authorized pursuant to section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167), as follows:
     >   - **(1)** For fiscal year 2024, $30,000,000.
