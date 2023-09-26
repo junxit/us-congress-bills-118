@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5339
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5339
@@ -16,6 +16,10 @@ Protecting Americans’ Investments from Woke Policies Act
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
+## Cosponsors (1)
+
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+
 ## Committees (1)
 
 - House — Education and Workforce Committee
@@ -25,3 +29,8 @@ Protecting Americans’ Investments from Woke Policies Act
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Referred to the House Committee on Education and the Workforce.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 19.
+- 2023-09-26 — Placed on the Union Calendar, Calendar No. 184.
+- 2023-09-26 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-225.
+- 2023-09-26 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-225.
