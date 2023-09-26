@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5427
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5427
@@ -30,3 +30,8 @@ To prohibit individuals convicted of defrauding the Government from receiving an
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Referred to the House Committee on Small Business.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported by the Yeas and Nays: 22 - 0.
+- 2023-09-26 — Placed on the Union Calendar, Calendar No. 178.
+- 2023-09-26 — Reported by the Committee on Small Business. H. Rept. 118-219.
+- 2023-09-26 — Reported by the Committee on Small Business. H. Rept. 118-219.
