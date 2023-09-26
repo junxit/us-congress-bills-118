@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5110
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5110
@@ -94,6 +94,10 @@ Protecting Hunting Heritage and Education Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2023-09-26 — [House 118-1-407](votes/house-118-1-0407.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (424–1)
+
 ## Actions
 
 - 2023-08-01 — Introduced in House
@@ -104,3 +108,11 @@ Protecting Hunting Heritage and Education Act
 - 2023-09-20 — Placed on the Union Calendar, Calendar No. 168.
 - 2023-09-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-207.
 - 2023-09-20 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-207.
+- 2023-09-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-09-26 — Considered as unfinished business. (consideration: CR H4495-4497)
+- 2023-09-26 — Considered under suspension of the rules. (consideration: CR H4471-4475)
+- 2023-09-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5110.
+- 2023-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-26 — Mr. Grothman moved to suspend the rules and pass the bill, as amended.
+- 2023-09-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 407). (text: CR H4471-4472)
+- 2023-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 407). (text: CR H4471-4472)
