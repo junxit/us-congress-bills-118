@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “No Discrimination in My Benefits Act”.
 
-## § 2. Selection of service providers
+## § 2. Service provider selection
 
 Section 404(a)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104(a)(1)) is amended—
 

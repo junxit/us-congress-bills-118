@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5338
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5338
@@ -25,3 +25,8 @@ No Discrimination in My Benefits Act
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Referred to the House Committee on Education and the Workforce.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 19.
+- 2023-09-26 — Placed on the Union Calendar, Calendar No. 185.
+- 2023-09-26 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-226.
+- 2023-09-26 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-226.
