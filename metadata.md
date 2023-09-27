@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5110
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5110
@@ -118,3 +118,10 @@ Protecting Hunting Heritage and Education Act
 - 2023-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 407). (text: CR H4471-4472)
 - 2023-09-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4709)
 - 2023-09-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4709)
+- 2023-09-29 — Message on Senate action sent to the House.
+- 2023-10-04 — Presented to President.
+- 2023-10-04 — Presented to President.
+- 2023-10-06 — Became Public Law No: 118-17.
+- 2023-10-06 — Became Public Law No: 118-17.
+- 2023-10-06 — Signed by President.
+- 2023-10-06 — Signed by President.
