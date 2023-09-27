@@ -1,7 +1,7 @@
 ---
 measure: S. 654
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 654
@@ -31,3 +31,8 @@ Delaware River Basin Conservation Reauthorization Act of 2023
 
 - 2023-03-06 — Introduced in Senate
 - 2023-03-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-09-27 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 118-413.
+- 2023-09-27 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2023-09-27 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2023-09-27 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2023-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
