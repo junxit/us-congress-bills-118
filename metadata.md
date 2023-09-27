@@ -1,0 +1,33 @@
+---
+measure: H.Res. 732
+congress: 118
+version: Introduced in House
+---
+
+# H.Res. 732
+
+Expressing support for the designation of September 30, 2023, through October 7, 2023, as "National Student Athlete Mental Health Week".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
+
+## Cosponsors (3)
+
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+
+## Committees (1)
+
+- House — Education and Workforce Committee
+
+## Actions
+
+- 2023-09-27 — Introduced in House
+- 2023-09-27 — Introduced in House
+- 2023-09-27 — Referred to the House Committee on Education and the Workforce.
