@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4367
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | in paragraph (2) by inserting “business” after “fifth”. | the bill names no machine-readable US Code section |
-| `8 U.S.C. § 1184` | amend | Section 214(g)(9)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(9)(A)) is amended to read as follows: “(A) Subject to subparagraphs (B) and (C), an alien shall be considered a returning worker and shall not again be counted… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subsection (b), by striking “may” and inserting “shall”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |

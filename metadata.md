@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4367
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4367
@@ -20,6 +20,29 @@ Department of Homeland Security Appropriations Act, 2024
 
 - House — Appropriations Committee
 
+## Recorded votes (20)
+
+- 2023-09-27 — [House 118-1-442](votes/house-118-1-0442.md) — On Agreeing to the Amendment — **Failed** (206–223)
+- 2023-09-27 — [House 118-1-443](votes/house-118-1-0443.md) — On Agreeing to the Amendment — **Failed** (209–220)
+- 2023-09-27 — [House 118-1-444](votes/house-118-1-0444.md) — On Agreeing to the Amendment — **Failed** (210–220)
+- 2023-09-27 — [House 118-1-445](votes/house-118-1-0445.md) — On Agreeing to the Amendment — **Failed** (108–320)
+- 2023-09-27 — [House 118-1-446](votes/house-118-1-0446.md) — On Agreeing to the Amendment — **Failed** (147–282)
+- 2023-09-27 — [House 118-1-447](votes/house-118-1-0447.md) — On Agreeing to the Amendment — **Failed** (160–270)
+- 2023-09-27 — [House 118-1-448](votes/house-118-1-0448.md) — On Agreeing to the Amendment — **Failed** (168–261)
+- 2023-09-27 — [House 118-1-449](votes/house-118-1-0449.md) — On Agreeing to the Amendment — **Failed** (164–265)
+- 2023-09-27 — [House 118-1-450](votes/house-118-1-0450.md) — On Agreeing to the Amendment — **Failed** (162–264)
+- 2023-09-27 — [House 118-1-451](votes/house-118-1-0451.md) — On Agreeing to the Amendment — **Failed** (159–269)
+- 2023-09-27 — [House 118-1-452](votes/house-118-1-0452.md) — On Agreeing to the Amendment — **Failed** (161–267)
+- 2023-09-27 — [House 118-1-453](votes/house-118-1-0453.md) — On Agreeing to the Amendment — **Failed** (161–268)
+- 2023-09-27 — [House 118-1-454](votes/house-118-1-0454.md) — On Agreeing to the Amendment — **Failed** (211–220)
+- 2023-09-27 — [House 118-1-455](votes/house-118-1-0455.md) — On Agreeing to the Amendment — **Failed** (182–247)
+- 2023-09-28 — [House 118-1-458](votes/house-118-1-0458.md) — On Agreeing to the Amendment — **Failed** (169–261)
+- 2023-09-28 — [House 118-1-459](votes/house-118-1-0459.md) — On Agreeing to the Amendment — **Failed** (165–263)
+- 2023-09-28 — [House 118-1-460](votes/house-118-1-0460.md) — On Agreeing to the Amendment — **Failed** (170–260)
+- 2023-09-28 — [House 118-1-461](votes/house-118-1-0461.md) — On Agreeing to the Amendment — **Failed** (75–347)
+- 2023-09-28 — [House 118-1-504](votes/house-118-1-0504.md) — On Motion to Recommit — **Failed** (210–218)
+- 2023-09-28 — [House 118-1-505](votes/house-118-1-0505.md) — On Passage — **Passed** (220–208)
+
 ## Actions
 
 - 2023-06-27 — Introduced in House
@@ -27,3 +50,415 @@ Department of Homeland Security Appropriations Act, 2024
 - 2023-06-27 — Placed on the Union Calendar, Calendar No. 95.
 - 2023-06-27 — The House Committee on Appropriations reported an original measure, H. Rept. 118-123, by Mr. Joyce (OH).
 - 2023-06-27 — The House Committee on Appropriations reported an original measure, H. Rept. 118-123, by Mr. Joyce (OH).
+- 2023-09-26 — Rules Committee Resolution H. Res. 723 Reported to House. Rule provides for consideration of H.R. 4365, H.R. 4367, H.R. 4368 and H.R. 4665. The resolution provides for consideration of H.R. 4365, H.R. 4367, H.R. 4368, and H.R. 4665, under a structured rule for each bill. The resolution provides for one hour of general debate for each bill and one motion to recommit.
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — 
+- 2023-09-27 — Amendment (A002) offered by Mr. Santos. (consideration: CR H4646-4647; text: CR H4646)
+- 2023-09-27 — Amendment (A003) offered by Mr. McCormick. (consideration: CR H4647-4648; text: CR H4647)
+- 2023-09-27 — Amendment (A004) offered by Mr. Arrington. (consideration: CR H4648-4649; text: CR H4648)
+- 2023-09-27 — Amendment (A005) offered by Mr. Correa. (consideration: CR H4669-4670, H4695-4696; text: CR H4669)
+- 2023-09-27 — Amendment (A006) offered by Mr. Grothman. (consideration: CR H4670; text: CR H4670)
+- 2023-09-27 — Amendment (A007) offered by Ms. Wasserman Schultz. (consideration: CR H4670-4672, H4696-4697; text: CR H4670)
+- 2023-09-27 — Amendment (A008) offered by Mr. Burchett. (consideration: CR H4672; text: CR H4672)
+- 2023-09-27 — Amendment (A009) offered by Ms. Escobar. (consideration: CR H4672-4673; text: CR H4672-4673)
+- 2023-09-27 — Amendment (A010) offered by Mr. Gonzales, Tony. (consideration: CR H4673-4674; text: CR H4673)
+- 2023-09-27 — Amendment (A011) offered by Mr. Clyde. (consideration: CR H4674-4675, H4697-4698; text: CR H4674)
+- 2023-09-27 — Amendment (A012) offered by Ms. Tenney. (consideration: CR H4675-4676; text: CR H4675)
+- 2023-09-27 — Amendment (A013) offered by Mr. Biggs. (consideration: CR H4676-4677, H4698-4699; text: CR H4676)
+- 2023-09-27 — Amendment (A014) offered by Mr. Biggs. (consideration: CR H4677, H4699; text: CR H4677)
+- 2023-09-27 — Amendment (A015) offered by Mr. Biggs. (consideration: CR H4677-4678, H4699-4700; text: CR H4678)
+- 2023-09-27 — Amendment (A016) offered by Mr. Biggs. (consideration: CR H4678-4679, H4700-4701; text: CR H4678)
+- 2023-09-27 — Amendment (A017) offered by Mr. Biggs. (consideration: CR H4679-4680, H4701; text: CR H4679)
+- 2023-09-27 — Amendment (A018) offered by Mr. Biggs. (consideration: CR H4680-4682; text: CR H4680)
+- 2023-09-27 — Amendment (A019) offered by Mr. Biggs. (consideration: CR H4682-4683; text: CR H4682)
+- 2023-09-27 — Amendment (A020) offered by Mr. Biggs. (consideration: CR H4683; text: CR H4683)
+- 2023-09-27 — Amendment (A021) offered by Mrs. Boebert. (consideration: CR H4683-4684; text: CR H4684)
+- 2023-09-27 — Amendment (A022) offered by Mrs. Boebert. (consideration: CR H4684-4685, H4701-4702; text: CR H4684)
+- 2023-09-27 — Amendment (A023) offered by Mrs. Boebert. (consideration: CR H4685-4686, H4702-4703; text: CR H4685)
+- 2023-09-27 — Amendment (A024) offered by Mrs. Boebert. (consideration: CR H4686-4687, H4703; text: CR H4686)
+- 2023-09-27 — Amendment (A025) offered by Mr. Castro (TX). (consideration: CR H4687-4688, H4703-4704; text: CR H4687)
+- 2023-09-27 — Amendment (A026) offered by Ms. Greene (GA). (consideration: CR H4688-4689, text: CR H4689)
+- 2023-09-27 — Amendment (A027) offered by Ms. Greene (GA). (consideration: CR H4689-4690; text: CR H4689)
+- 2023-09-27 — Amendment (A028) offered by Ms. Greene (GA). (consideration: CR H4690-4691; text: CR H4690)
+- 2023-09-27 — Amendment (A029) offered by Ms. Hageman.
+- 2023-09-27 — Amendment (A029) offered by Ms. Hageman. (consideration: CR H4691-4692; text: CR H4691)
+- 2023-09-27 — Amendment (A030) offered by Ms. Hageman.
+- 2023-09-27 — Amendment (A030) offered by Ms. Hageman. (consideration: CR H4692-4693; text: CR H4692)
+- 2023-09-27 — Amendment (A031) offered by Ms. Hageman.
+- 2023-09-27 — Amendment (A031) offered by Ms. Hageman. (consideration: CR H4693; text: CR H4693)
+- 2023-09-27 — Amendment (A032) offered by Mr. Huizenga. (consideration: CR H4693-4694; text: CR H4693)
+- 2023-09-27 — Amendment (A033) offered by Mr. Nehls. (consideration: CR H4694-4695, H4704-4705; text: CR H4694)
+- 2023-09-27 — Amendment (A034) offered by Mr. Nehls. (consideration: CR H4695; text: CR H4695)
+- 2023-09-27 — Amendment (A035) offered by Mr. Norman. (consideration: CR H4705; text: CR H4705)
+- 2023-09-27 — Amendment (A036) offered by Mr. Norman. (consideration: CR H4705-4706; text: CR H4705)
+- 2023-09-27 — Amendment (A037) offered by Mr. Norman. (consideration: CR H4706; text: CR H4706)
+- 2023-09-27 — Amendment (A038) offered by Mr. Ogles. (consideration: CR H4706; text: CR H4706)
+- 2023-09-27 — Amendments en bloc (A001) offered by Mr. Joyce (OH). (consideration: CR H4644-4646; text: CR H4644)
+- 2023-09-27 — By unanimous consent, the Burchett amendment was withdrawn.
+- 2023-09-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 4367 as unfinished business.
+- 2023-09-27 — Considered as unfinished business. (consideration: CR H4669-4711)
+- 2023-09-27 — Considered under the provisions of rule H. Res. 723. (consideration: CR H4628-4649; text: CR H4633-4644)
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Arrington amendment No. 11.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 39.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 40.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 41.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 42.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 43.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 44.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 45.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 46.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 47.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 48.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 49.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 50.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 24.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 51.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Clyde amendment No. 29.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Correa amendment No. 13.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Escobar amendment No. 25.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 53.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 54.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 55.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 19.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 60.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 61.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 62.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 63.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 10.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Nehls amendment No. 64.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Nehls amendment No. 8.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 65.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 66.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 67.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 69.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 70.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 38.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Tony Gonzales (TX) amendment No. 26.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Wasserman Schultz amendment No. 23.
+- 2023-09-27 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 20 minutes of debate on the Joyce (OH) amendment en bloc.
+- 2023-09-27 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4367.
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House Amendment Offered
+- 2023-09-27 — House amendment agreed to: On agreeing to the Arrington amendment (A004) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Arrington amendment (A004) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A018) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A018) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A019) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A019) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A020) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Biggs amendment (A020) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Boebert amendment (A021) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Boebert amendment (A021) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Gonzales, Tony amendment (A010) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Gonzales, Tony amendment (A010) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A026) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A026) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A027) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A027) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A028) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A028) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Grothman amendment (A006) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Grothman amendment (A006) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A029) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A029) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A030) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A030) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A031) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Hageman amendment (A031) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Huizenga amendment (A032) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Huizenga amendment (A032) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Joyce (OH) amendments (A001) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Joyce (OH) amendments (A001) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the McCormick amendment (A003) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the McCormick amendment (A003) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Nehls amendment (A034) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Nehls amendment (A034) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Santos amendment (A002) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Santos amendment (A002) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Tenney amendment (A012) Agreed to by voice vote.
+- 2023-09-27 — House amendment agreed to: On agreeing to the Tenney amendment (A012) Agreed to by voice vote.
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Biggs amendment (A013) Failed by recorded vote: 147 - 282 (Roll no. 446).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Biggs amendment (A014) Failed by recorded vote: 160 - 270 (Roll no. 447).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Biggs amendment (A015) Failed by recorded vote: 168 - 261 (Roll no. 448).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Biggs amendment (A016) Failed by recorded vote: 164 - 265 (Roll no. 449).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Biggs amendment (A017) Failed by recorded vote: 162 - 264 (Roll no. 450).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Boebert amendment (A022) Failed by recorded vote: 159 - 269 (Roll no. 451).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Boebert amendment (A023) Failed by recorded vote: 161 - 267 (Roll no. 452).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Boebert amendment (A024) Failed by recorded vote: 161 - 268 (Roll no. 453).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Castro (TX) amendment (A025) Failed by recorded vote: 211 - 220 (Roll no. 454).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Clyde amendment (A011) Failed by recorded vote: 108 - 320 (Roll no. 445).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Correa amendment (A005) Failed by recorded vote: 206 - 223 (Roll no. 442).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Escobar amendment (A009) Failed by recorded vote: 210 - 220 (Roll no. 444).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Nehls amendment (A033) Failed by recorded vote: 182 - 247 (Roll no. 455).
+- 2023-09-27 — House amendment not agreed to: On agreeing to the Wasserman Schultz amendment (A007) Failed by recorded vote: 209 - 220 (Roll no. 443).
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered
+- 2023-09-27 — House amendment offered/reported by: Amendment (A029) offered by Ms. Hageman.
+- 2023-09-27 — House amendment offered/reported by: Amendment (A030) offered by Ms. Hageman.
+- 2023-09-27 — House amendment offered/reported by: Amendment (A031) offered by Ms. Hageman.
+- 2023-09-27 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 723 and Rule XVIII.
+- 2023-09-27 — Mr. Joyce (OH) moved that the committee rise.
+- 2023-09-27 — On agreeing to the Arrington amendment (A004) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Biggs amendment (A013) Failed by recorded vote: 147 - 282 (Roll no. 446).
+- 2023-09-27 — On agreeing to the Biggs amendment (A014) Failed by recorded vote: 160 - 270 (Roll no. 447).
+- 2023-09-27 — On agreeing to the Biggs amendment (A015) Failed by recorded vote: 168 - 261 (Roll no. 448).
+- 2023-09-27 — On agreeing to the Biggs amendment (A016) Failed by recorded vote: 164 - 265 (Roll no. 449).
+- 2023-09-27 — On agreeing to the Biggs amendment (A017) Failed by recorded vote: 162 - 264 (Roll no. 450).
+- 2023-09-27 — On agreeing to the Biggs amendment (A018) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Biggs amendment (A019) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Biggs amendment (A020) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Boebert amendment (A021) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Boebert amendment (A022) Failed by recorded vote: 159 - 269 (Roll no. 451).
+- 2023-09-27 — On agreeing to the Boebert amendment (A023) Failed by recorded vote: 161 - 267 (Roll no. 452).
+- 2023-09-27 — On agreeing to the Boebert amendment (A024) Failed by recorded vote: 161 - 268 (Roll no. 453).
+- 2023-09-27 — On agreeing to the Castro (TX) amendment (A025) Failed by recorded vote: 211 - 220 (Roll no. 454).
+- 2023-09-27 — On agreeing to the Clyde amendment (A011) Failed by recorded vote: 108 - 320 (Roll no. 445).
+- 2023-09-27 — On agreeing to the Correa amendment (A005) Failed by recorded vote: 206 - 223 (Roll no. 442).
+- 2023-09-27 — On agreeing to the Escobar amendment (A009) Failed by recorded vote: 210 - 220 (Roll no. 444).
+- 2023-09-27 — On agreeing to the Gonzales, Tony amendment (A010) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Greene (GA) amendment (A026) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Greene (GA) amendment (A027) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Greene (GA) amendment (A028) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Grothman amendment (A006) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Hageman amendment (A029) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Hageman amendment (A030) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Hageman amendment (A031) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Huizenga amendment (A032) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Joyce (OH) amendments (A001) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the McCormick amendment (A003) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Nehls amendment (A033) Failed by recorded vote: 182 - 247 (Roll no. 455).
+- 2023-09-27 — On agreeing to the Nehls amendment (A034) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Santos amendment (A002) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Tenney amendment (A012) Agreed to by voice vote.
+- 2023-09-27 — On agreeing to the Wasserman Schultz amendment (A007) Failed by recorded vote: 209 - 220 (Roll no. 443).
+- 2023-09-27 — On motion that the committee rise Agreed to by voice vote.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 39, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Biggs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 40, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Biggs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 41, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Cuellar demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 42, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Biggs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Biggs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 48, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cuellar demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 49, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cuellar demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 50, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cuellar demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burchett amendment No. 24, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Burchett demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment No. 51, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Castro (TX) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clyde amendment No. 29, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Clyde demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Correa amendment No. 13, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Correa demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Escobar amendment No. 25, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Escobar demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nehls amendment No. 64, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Nehls demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 66, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Cuellar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 67, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Cuellar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 69, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Cuellar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wasserman Shultz amendment No. 23, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Wasserman Schultz demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Roll call votes on amendments in House
+- 2023-09-27 — Rule provides for consideration of H.R. 4365, H.R. 4367, H.R. 4368 and H.R. 4665. The resolution provides for consideration of H.R. 4365, H.R. 4367, H.R. 4368, and H.R. 4665, under a structured rule for each bill. The resolution provides for one hour of general debate for each bill and one motion to recommit.
+- 2023-09-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-09-27 — The Speaker designated the Honorable Russ Fulcher to act as Chairman of the Committee.
+- 2023-09-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments to H.R. 4367, which had been debated earlier and on which further proceedings had been postponed.
+- 2023-09-27 — VACATING DEMAND FOR A RECORDED VOTE - Mr. Joyce (OH) asked unanimous consent that the request for a recorded vote on the Burchett amendment No. 24 be vacated to the end that the amendment be withdrawn. Agreed to without objection.
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — Amendment (A039) offered by Mr. Ogles. (consideration: CR H4706-4707; text: CR H4706)
+- 2023-09-28 — Amendment (A040) offered by Mr. Pfluger. (consideration: CR H4707; text: CR H4707)
+- 2023-09-28 — Amendment (A041) offered by Mr. Rosendale. (consideration: CR H4707-4708; text: CR H4707)
+- 2023-09-28 — Amendment (A042) offered by Mr. Rosendale. (consideration: CR H4708-4709; text: CR H4708)
+- 2023-09-28 — Amendment (A043) offered by Mr. Roy. (consideration: CR H4709; text: CR H4709)
+- 2023-09-28 — Amendment (A044) offered by Mr. Roy. (consideration: CR H4709-4710; text: CR H4709)
+- 2023-09-28 — Amendment (A045) offered by Mr. Roy. (consideration: CR H4710; text: CR H4710)
+- 2023-09-28 — Amendment (A046) offered by Mr. Roy. (consideration: CR H4710-4711; text: CR H4710)
+- 2023-09-28 — Amendment (A047) offered by Mr. Tiffany. (consideration: CR H4711; text: CR H4711)
+- 2023-09-28 — Amendment (A048) offered by Ms. Malliotakis. (consideration: CR H4711-4712; text: CR H4711)
+- 2023-09-28 — By unanimous consent, the Roy amendment was withdrawn.
+- 2023-09-28 — Committee of the Whole House on the state of the Union rises leaving H.R. 4367 as unfinished business.
+- 2023-09-28 — Considered as unfinished business.
+- 2023-09-28 — Considered as unfinished business. (consideration: CR H4799-4802)
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Malliotakis amendment No. 80.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 71.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Pfluger amendment No. 72.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 73.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 74.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 75.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 76.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 77.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 78.
+- 2023-09-28 — DEBATE - Pursuant to the provisions of H. Res. 723, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 79.
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House Amendment Offered
+- 2023-09-28 — House amendment agreed to: On agreeing to the Malliotakis amendment (A048) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Malliotakis amendment (A048) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Ogles amendment (A038) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Ogles amendment (A038) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Ogles amendment (A039) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Ogles amendment (A039) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Pfluger amendment (A040) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Pfluger amendment (A040) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Rosendale amendment (A041) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Rosendale amendment (A041) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A044) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A044) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A045) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A045) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A046) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Roy amendment (A046) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Tiffany amendment (A047) Agreed to by voice vote.
+- 2023-09-28 — House amendment agreed to: On agreeing to the Tiffany amendment (A047) Agreed to by voice vote.
+- 2023-09-28 — House amendment not agreed to: On agreeing to the Norman amendment (A035) Failed by recorded vote: 169 - 261 (Roll no. 458).
+- 2023-09-28 — House amendment not agreed to: On agreeing to the Norman amendment (A036) Failed by recorded vote: 165 - 263 (Roll no. 459).
+- 2023-09-28 — House amendment not agreed to: On agreeing to the Norman amendment (A036) Failed by recorded vote: 165 - 263 (Roll no. 459).
+- 2023-09-28 — House amendment not agreed to: On agreeing to the Norman amendment (A037) Failed by recorded vote: 170 - 260 (Roll no. 460).
+- 2023-09-28 — House amendment not agreed to: On agreeing to the Rosendale amendment (A042) Failed by recorded vote: 75 - 347 (Roll no. 461).
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — House amendment offered
+- 2023-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-09-28 — Mr. Joyce (OH) moved that the committee rise.
+- 2023-09-28 — Ms. Escobar moved to recommit to the Committee on Appropriations.
+- 2023-09-28 — On agreeing to the Malliotakis amendment (A048) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Norman amendment (A035) Failed by recorded vote: 169 - 261 (Roll no. 458).
+- 2023-09-28 — On agreeing to the Norman amendment (A036) Failed by recorded vote: 165 - 263 (Roll no. 459).
+- 2023-09-28 — On agreeing to the Norman amendment (A037) Failed by recorded vote: 170 - 260 (Roll no. 460).
+- 2023-09-28 — On agreeing to the Ogles amendment (A038) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Ogles amendment (A039) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Pfluger amendment (A040) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Rosendale amendment (A041) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Rosendale amendment (A042) Failed by recorded vote: 75 - 347 (Roll no. 461).
+- 2023-09-28 — On agreeing to the Roy amendment (A044) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Roy amendment (A045) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Roy amendment (A046) Agreed to by voice vote.
+- 2023-09-28 — On agreeing to the Tiffany amendment (A047) Agreed to by voice vote.
+- 2023-09-28 — On motion that the committee rise Agreed to by voice vote.
+- 2023-09-28 — On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 504).
+- 2023-09-28 — On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 505).
+- 2023-09-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 74, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Joyce (OH) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-09-28 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 4367 would be postponed
+- 2023-09-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 505).
+- 2023-09-28 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 4367.
+- 2023-09-28 — Roll call votes on amendments in House
+- 2023-09-28 — Roll call votes on amendments in House
+- 2023-09-28 — Roll call votes on amendments in House
+- 2023-09-28 — Roll call votes on amendments in House
+- 2023-09-28 — Rule H. Res. 730 passed House.
+- 2023-09-28 — Rules Committee Resolution H. Res. 730 Reported to House. Rule provides for consideration of H.R. 5692, H.R. 4365 and H.R. 4367. The resolution provides for consideration of H.R. 5692, under a closed rule. The resolution provides for 30 minutes of general debate on the bill H.R. 5692 and one motion to recommit. The resolution provides that further consideration of H.R. 4365, the further amendments specified in section 3 shall be considered as adopted and the resolution provides for further consideration of H.R. 4367, the further amendment specified in section 5 shall be considered as adopted.
+- 2023-09-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4367.
+- 2023-09-28 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-09-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-09-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4367.
+- 2023-09-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-09-28 — The previous question was ordered pursuant to the rule.
