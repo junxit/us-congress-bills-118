@@ -1,7 +1,7 @@
 ---
 measure: S. 2860
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating paragraph (11) as paragraph (12); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (10) the following | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 5130` | redesignate | by redesignating paragraph (11) as paragraph (12); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5130` | insert | by inserting after paragraph (10) the following | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
