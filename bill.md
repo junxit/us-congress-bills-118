@@ -24,8 +24,8 @@ This Act may be cited as the “Eliminating Barriers to Rural Internet Developme
   >     - **(B)** the acquisition or development of land; or
   >     - **(C)** the acquisition, design and engineering, construction, rehabilitation, alteration, expansion, or improvement of facilities, including related machinery, equipment, contractual rights, and intangible property.
   >   - **(2)** *Eligible recipient*
-  >     - **(A)** *In general* The term eligible recipient means an eligible recipient.
-  >     - **(B)** *Inclusions* The term eligible recipient includes—
+  >     - **(A)** *In general* The term “eligible recipient” means an eligible recipient.
+  >     - **(B)** *Inclusions* The term “eligible recipient” includes—
   >       - **(i)** a public-private partnership; and
   >       - **(ii)** a consortium formed for the purpose of providing, extending, expanding, or improving high-speed broadband service between 1 or more eligible recipients and 1 or more for-profit organizations.
   >   - **(3)** *High-speed broadband* The term “high-speed broadband” means the provision of 2-way data transmission with sufficient downstream and upstream speeds to end users to permit effective participation in the economy and to support economic growth, as determined by the Secretary.
@@ -40,10 +40,10 @@ This Act may be cited as the “Eliminating Barriers to Rural Internet Developme
   >   - **(6)** *Broadband project property*
   >     - **(A)** *In general* The Secretary may permit a recipient of a grant for a broadband project to grant an option to acquire real or personal property (including contractual rights and intangible property) related to that project to a third party on such terms as the Secretary determines to be appropriate, subject to the condition that the option may only be exercised after the Secretary releases the Federal interest in the property.
   >     - **(B)** *Treatment* The grant or exercise of an option described in subparagraph (A) shall not constitute a redistribution of grant funds under section 217.
-  > - **(c)** *Non-Federal share* In determining the amount of the non-Federal share of the cost of a broadband project, the Secretary may provide credit toward the non-Federal share for the present value of allowable contributions over the useful life of the broadband project, subject to the condition that the Secretary may require such assurances of the value of the rights and of the commitment of the rights as the Secretary determines to be appropriate.
+  > - **(c)** *Non-federal share* In determining the amount of the non-Federal share of the cost of a broadband project, the Secretary may provide credit toward the non-Federal share for the present value of allowable contributions over the useful life of the broadband project, subject to the condition that the Secretary may require such assurances of the value of the rights and of the commitment of the rights as the Secretary determines to be appropriate.
 
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 note; Public Law 89–136) is amended by inserting after the item relating to section 218 the following:
 
-## § 3. Determination of budgetary effects
+## § 3. Applicability
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The amendments made by this Act shall only apply to amounts appropriated on or after the date of enactment of this Act.
