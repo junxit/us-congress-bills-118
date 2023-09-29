@@ -2,7 +2,7 @@
 legis-num: H. RES. 741
 congress: 118th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 741
@@ -13,4 +13,4 @@ That upon adoption of this resolution it shall be in order to consider in the Ho
 
 ## § 2.
 
-Upon passage of H.R. 5525 the title of such bill is amended to read as follows: “Reducing spending, securing the border, and for other purposes.”.
+Upon passage of H.R. 5525 the title of such bill is amended to read as follows: ``Reducing spending, securing the border, and for other purposes.''.

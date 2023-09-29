@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 741
 congress: 118
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Upon passage of H.R. 5525 the title of such bill is amended to read as follows: “Reducing spending, securing the border, and for other purposes.”. | the bill names no machine-readable US Code section |
+| — | amend | Upon passage of H.R. 5525 the title of such bill is amended to read as follows: ``Reducing spending, securing the border, and for other purposes.''. | the bill names no machine-readable US Code section |
