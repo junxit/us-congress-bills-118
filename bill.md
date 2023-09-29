@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “No Stolen Trademarks Honored in America Act”.
+This Act may be cited as the “No Stolen Trademarks Honored in America Act of 2023”.
 
 ## § 2. Modification of prohibition
 
