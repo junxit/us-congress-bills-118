@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3506
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3506
@@ -25,3 +25,8 @@ To make technical amendments to update statutory references to certain provision
 - 2023-05-18 — Introduced in House
 - 2023-05-18 — Introduced in House
 - 2023-05-18 — Referred to the House Committee on the Judiciary.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held.
+- 2023-05-24 — Ordered to be Reported by Voice Vote.
+- 2023-09-29 — Placed on the House Calendar, Calendar No. 42.
+- 2023-09-29 — Reported by the Committee on Judiciary. H. Rept. 118-234.
+- 2023-09-29 — Reported by the Committee on Judiciary. H. Rept. 118-234.
