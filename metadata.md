@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5860
 congress: 118
-version: Considered and Passed House
+version: Engrossed in House
 ---
 
 # H.R. 5860
