@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 310
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 310
@@ -32,3 +32,7 @@ A resolution recognizing the Motorcycle Safety Foundation for 50 years of safety
 
 - 2023-07-25 — Introduced in Senate
 - 2023-07-25 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2023-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4895; text: 7/25/2023 CR S3527)
+- 2023-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4895; text: 7/25/2023 CR S3527)
+- 2023-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2023-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
