@@ -1,7 +1,7 @@
 ---
 measure: S. 2231
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2231
@@ -16,7 +16,7 @@ Maternal and Child Health Stillbirth Prevention Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (15)
+## Cosponsors (20)
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
@@ -33,6 +33,11 @@ Maternal and Child Health Stillbirth Prevention Act
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -42,3 +47,7 @@ Maternal and Child Health Stillbirth Prevention Act
 
 - 2023-07-11 — Introduced in Senate
 - 2023-07-11 — Read twice and referred to the Committee on Finance.
+- 2023-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4895; text: CR S4895)
+- 2023-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4895; text: CR S4895)
+- 2023-09-30 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S4895)
+- 2023-09-30 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S4895)
