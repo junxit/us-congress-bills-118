@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3944
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3944
@@ -41,3 +41,11 @@ To designate the facility of the United States Postal Service located at 120 Wes
 - 2023-06-09 — Introduced in House
 - 2023-06-09 — Introduced in House
 - 2023-06-09 — Referred to the House Committee on Oversight and Accountability.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported by Voice Vote.
+- 2023-10-02 — Considered under suspension of the rules. (consideration: CR H4943-4944)
+- 2023-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3944.
+- 2023-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-10-02 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2023-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4943)
+- 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4943)
