@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4502
 
-> To amend title 5, United States Code, to allow Federal agencies to establish educational requirements for certain cybersecurity positions in the competitive service, and for other purposes.
+> To amend title 5, United States Code, to limit the use of educational requirements or qualifications in evaluating candidates for certain cybersecurity positions in the competitive service, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Modernizing the Acquisition of Cybersecurity Experts Act”.
+This Act may be cited as the “Modernizing the Acquisition of Cybersecurity Experts Act of 2023”.
 
 ## § 2. Educational requirements for competitive service cybersecurity positions
 
@@ -23,7 +23,7 @@ Section 3308 of title 5, United States Code, is amended—
   >   - **(1)** *In general* With respect to any covered position—
   >     - **(A)** an agency may prescribe a minimum educational requirement for employment in such a position only if a minimum education qualification is required by law to perform the duties of the position in the State or locality where the duties of the position are to be performed; and
   >     - **(B)** an agency may consider education in determining a candidate’s satisfaction of any other minimum qualification only if the candidate’s education directly reflects the competencies necessary to satisfy that qualification and perform the duties of the position.
-  >   - **(2)** *Publication* Not later than one year after the date of the enactment of the Modernizing the Acquisition of Cybersecurity Experts Act and annually thereafter, the Office of Personnel Management shall publish on the Office’s website—
+  >   - **(2)** *Publication* Not later than one year after the date of the enactment of the Modernizing the Acquisition of Cybersecurity Experts Act of 2023 and annually thereafter, the Office of Personnel Management shall publish on the Office’s website—
   >     - **(A)** any changes made to minimum qualifications standards concerning education for covered positions; and
   >     - **(B)** aggregate data indicating the level of educational attainment, sorted by position classification, of all accessions to covered positions.
   >   - **(3)** *Covered position defined* In this subsection, the term “covered position” means—
