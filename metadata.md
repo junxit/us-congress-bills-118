@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4467
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4467
@@ -29,3 +29,8 @@ DHS Border Services Contracts Review Act
 - 2023-07-06 — Introduced in House
 - 2023-07-06 — Introduced in House
 - 2023-07-06 — Referred to the House Committee on Homeland Security.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2023-10-02 — Placed on the Union Calendar, Calendar No. 190.
+- 2023-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-238.
+- 2023-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-238.

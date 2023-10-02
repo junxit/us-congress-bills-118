@@ -32,9 +32,10 @@ This Act may be cited as the “DHS Border Services Contracts Review Act”.
     - **(F)** Recommendations based on findings resulting from the analysis and assessments required in subparagraphs (B) through (D).
     - **(G)** Any other information relating to contracts for covered services that the Under Secretary for Management determines appropriate.
 - **(b)** *Implementation plan*
-  - **(1)** *In general* The Under Secretary for Management shall transmit with the report required under subsection (a) a plan to implement the recommendations and strategy contained in such report to enhance coordination, minimize overlap, and increase cost effectiveness among contracts for covered services.
-  - **(2)** *Briefing* Not later than 180 days after the date on which the Under Secretary for Management submits the report required under subsection (a) and the plan required under paragraph (1) and every 180 days thereafter until such plan is fully implemented, the Under Secretary, or the designee of the Under Secretary, shall provide a briefing to the appropriate congressional committees with respect to the status of such implementation.
-- **(c)** *Definitions* In this section:
+  - **(1)** *In general* The Under Secretary for Management shall submit with the report required under subsection (a) a plan to implement the recommendations and strategy contained in such report to enhance coordination, minimize overlap, and increase cost effectiveness among contracts for covered services.
+  - **(2)** *Briefing* Not later than 180 days after the date on which the Under Secretary for Management submits the report required under subsection (a) and the plan required under paragraph (1) and every 180 days thereafter until such plan is fully implemented, the Under Secretary, or the designee of the Under Secretary, shall provide to the appropriate congressional committees a briefing with respect to the status of such implementation.
+- **(c)** *Prohibition on funding* No funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise authorized to be made available for such purposes.
+- **(d)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** the Committee on Homeland Security of the House of Representatives; and
     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate.
