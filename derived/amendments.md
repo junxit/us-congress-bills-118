@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3557
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -65,7 +65,7 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 151` | redesignate | by redesignating paragraph (6) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | by striking “initial”; and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | strike | by striking “, or renewal thereof (including a renewal of an authorization which has been granted subject to section 626),”; | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 151` | strike | in section 611(b), by striking “and may require as part of a cable operator’s proposal for a franchise renewal, subject to section 626”; | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 151` | strike | in section 611(b), by striking “and may require as part of a cable operator’s proposal for a franchise renewal, subject to section 626,”; | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | strike | by striking “or as part of a proposal for renewal, subject to section 626,”; and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | strike | by striking “, or proposal for renewal thereof,”; | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | strike | in subparagraph (C)(ii), by striking “or franchise renewal”; and | the bill quotes the text struck but describes what replaces it |
@@ -77,4 +77,4 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 547` | amend | Section 627 of the Communications Act of 1934 (47 U.S.C. 547) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1455` | amend | Section 6409(a)(3) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1455` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 1702` | add-at-end | Section 60102(e) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1702(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 1702` | add-at-end | Section 60102(e)(4) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1702(e)(4)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
