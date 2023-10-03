@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 156
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 156
@@ -33,3 +33,5 @@ A resolution calling on the Government of the Russian Federation to release Unit
 - 2023-06-13 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2023-06-13 — Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2023-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
+- 2023-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(consideration: CR S4919; text of amendment in the nature of a substitute: CR S4919)
+- 2023-10-03 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (consideration: CR S4919; text of amendment in the nature of a substitute: CR S4919)
