@@ -1,7 +1,7 @@
 ---
 measure: S. 311
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 311
@@ -16,9 +16,10 @@ U.S. Customs and Border Protection Officer Retirement Technical Corrections Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ U.S. Customs and Border Protection Officer Retirement Technical Corrections Act
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-101.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-101.
+- 2023-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
