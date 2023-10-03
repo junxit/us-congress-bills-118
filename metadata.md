@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4665
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4665
@@ -536,3 +536,4 @@ Department of State, Foreign Operations, and Related Programs Appropriations Act
 - 2023-09-28 — The Speaker designated the Honorable Jennifer A. Kiggans to act as Chairwoman of the Committee.
 - 2023-09-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-09-28 — The previous question was ordered pursuant to the rule.
+- 2023-10-03 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.
