@@ -1,7 +1,7 @@
 ---
 measure: S. 1443
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1443
@@ -28,3 +28,7 @@ Protecting the Border from Unmanned Aircraft Systems Act
 
 - 2023-05-04 — Introduced in Senate
 - 2023-05-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-103.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-103.
+- 2023-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
