@@ -1,7 +1,7 @@
 ---
 measure: H.R. 292
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 292
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 24355 C
 - Rep. Ruiz, Raul [D-CA-25] (R000599)
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To designate the facility of the United States Postal Service located at 24355 C
 - 2023-10-02 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2023-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4941)
 - 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4941)
+- 2023-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
