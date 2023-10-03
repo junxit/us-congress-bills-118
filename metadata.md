@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2379
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2379
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 616 Eas
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To designate the facility of the United States Postal Service located at 616 Eas
 - 2023-10-02 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2023-10-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0, 1 Present (Roll no. 514). (text: CR H4943)
 - 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0, 1 Present (Roll no. 514). (text: CR H4943)
+- 2023-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
