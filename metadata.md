@@ -1,7 +1,7 @@
 ---
 measure: H.R. 996
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 996
@@ -24,9 +24,10 @@ To designate the facility of the United States Postal Service located at 3901 Ma
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 3901 Ma
 - 2023-10-02 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2023-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4942)
 - 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4942)
+- 2023-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
