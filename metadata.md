@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4502
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4502
@@ -20,9 +20,10 @@ Modernizing the Acquisition of Cybersecurity Experts Act of 2023
 
 - Rep. Porter, Katie [D-CA-47] (P000618)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Modernizing the Acquisition of Cybersecurity Experts Act of 2023
 - 2023-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 515). (text: CR H4944)
 - 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 515). (text: CR H4944)
 - 2023-10-02 — The title of the measure was amended. Agreed to without objection.
+- 2023-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
