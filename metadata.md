@@ -1,7 +1,7 @@
 ---
 measure: S. 1137
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1137
@@ -28,3 +28,7 @@ DHS Suicide Prevention and Resiliency for Law Enforcement Act
 
 - 2023-03-30 — Introduced in Senate
 - 2023-03-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-05-17 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-102.
+- 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-102.
+- 2023-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.
