@@ -1,7 +1,7 @@
 ---
 measure: S. 2415
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2415
@@ -16,13 +16,14 @@ Preventing Maternal Deaths Reauthorization Act of 2023
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Preventing Maternal Deaths Reauthorization Act of 2023
 
 - 2023-07-20 — Introduced in Senate
 - 2023-07-20 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-09-21 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2023-10-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
+- 2023-10-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
+- 2023-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
