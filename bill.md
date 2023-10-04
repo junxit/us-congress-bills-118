@@ -1,0 +1,27 @@
+---
+legis-num: S. 3026
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3026
+
+> To amend the Inflation Reduction Act of 2022 to repeal restrictions on offshore wind leasing.
+
+## § 1. Short title
+
+This Act may be cited as the “Nonrestrictive Offshore Wind Act” or the “NOW Act”.
+
+## § 2. Repeal of offshore wind leasing restrictions
+
+- **(a)** *Limitation on issuance of certain leases or rights-of-Way* Section 50265(b) of Public Law 117–169 (commonly known as the “Inflation Reduction Act of 2022”) (43 U.S.C. 3006(b)) is amended—
+  - **(1)** by striking paragraph (2);
+  - **(2)** in paragraph (1), by striking “this Act” in the matter preceding paragraph (1) and all that follows through “(1) the Secretary may” in paragraph (1) and inserting “this Act, the Secretary may”;
+  - **(3)** by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively, and indenting appropriately; and
+  - **(4)** in paragraph (2) (as so redesignated), by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and indenting appropriately.
+- **(b)** *Conforming amendments* Section 50265 of Public Law 117–169 (commonly known as the “Inflation Reduction Act of 2022”) (43 U.S.C. 3006) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking paragraph (2); and
+    - **(B)** by redesignating paragraph (3) as paragraph (2); and
+  - **(2)** in subsection (c), by striking “paragraphs (1) and (2) of”.
