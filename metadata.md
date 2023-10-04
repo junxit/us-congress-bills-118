@@ -1,7 +1,7 @@
 ---
 measure: S. 1624
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1624
@@ -16,7 +16,7 @@ Gabriella Miller Kids First Research Act 2.0
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (10)
+## Cosponsors (14)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Heinrich, Martin [D-NM] (H001046)
@@ -28,6 +28,10 @@ Gabriella Miller Kids First Research Act 2.0
 - Sen. Budd, Ted [R-NC] (B001305)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Marshall, Roger [R-KS] (M001198)
 
 ## Committees (1)
 
@@ -37,3 +41,7 @@ Gabriella Miller Kids First Research Act 2.0
 
 - 2023-05-16 — Introduced in Senate
 - 2023-05-16 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-09-21 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-10-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2023-10-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2023-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
