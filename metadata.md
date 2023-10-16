@@ -1,7 +1,7 @@
 ---
 measure: S. 2273
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2273
@@ -28,3 +28,7 @@ Native American Child Protection Act
 
 - 2023-07-12 — Introduced in Senate
 - 2023-07-12 — Read twice and referred to the Committee on Indian Affairs.
+- 2023-07-19 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-10-16 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-106.
+- 2023-10-16 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-106.
+- 2023-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.
