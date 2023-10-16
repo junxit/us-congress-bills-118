@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4365
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4365
@@ -352,3 +352,4 @@ Department of Defense Appropriations Act, 2024
 - 2023-09-28 — Rules Committee Resolution H. Res. 730 Reported to House. Rule provides for consideration of H.R. 5692, H.R. 4365 and H.R. 4367. The resolution provides for consideration of H.R. 5692, under a closed rule. The resolution provides for 30 minutes of general debate on the bill H.R. 5692 and one motion to recommit. The resolution provides that further consideration of H.R. 4365, the further amendments specified in section 3 shall be considered as adopted and the resolution provides for further consideration of H.R. 4367, the further amendment specified in section 5 shall be considered as adopted.
 - 2023-09-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4365.
 - 2023-09-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-10-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
