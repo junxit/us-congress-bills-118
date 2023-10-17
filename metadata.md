@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 32
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (28)
+## Cosponsors (45)
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Fischer, Deb [R-NE] (F000463)
@@ -46,6 +46,23 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Graham, Lindsey [R-SC] (G000359)
 
 ## Committees (1)
 
@@ -55,3 +72,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2023-06-13 — Introduced in Senate
 - 2023-06-13 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2023-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
+- 2023-10-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-10-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
