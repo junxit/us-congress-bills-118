@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 42
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 42
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Marshall, Roger [R-KS] (M001198)
 
-## Cosponsors (9)
+## Cosponsors (17)
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Lankford, James [R-OK] (L000575)
@@ -27,6 +27,14 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Rubio, Marco [R-FL] (R000595)
 
 ## Committees (1)
 
@@ -36,3 +44,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2023-07-27 — Introduced in Senate
 - 2023-07-27 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2023-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.
+- 2023-10-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-10-17 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
