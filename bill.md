@@ -1,0 +1,24 @@
+---
+legis-num: S. RES. 409
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 409
+
+> Authorizing the use of the atrium in the Philip A. Hart Senate Office Building for a Bipawtisan Howl-o-ween Dog Pawrade on October 31, 2023, from 4:00 to 6:00 p.m.
+
+## Preamble
+
+- Whereas President Harry Truman stated, “If you want a friend in Washington, get a dog.”;
+- Whereas over 65,000,000 households in the United States are enriched by having a dog in the home;
+- Whereas over 1,700 dogs serve alongside our military service members;
+- Whereas approximately 500,000 service dogs assist disabled people of the United States, including veterans;
+- Whereas over 3,000 dogs protect and serve our Nation working with Federal law enforcement;
+- Whereas dogs, especially in costumes, have a unique ability to bring people of the United States with different backgrounds and beliefs together; and
+- Whereas the Senate welcomes canine companions on a regular, “bipawtisan” basis: Now, therefore, be it
+
+## § 1. Use of the atrium in the Hart Senate Office Building for a Bipawtisan Howl-o-ween Dog Pawrade
+
+The atrium in the Philip A. Hart Senate Office Building is authorized to be used on October 31, 2023, from 4:00 to 6:00 p.m., for a Bipawtisan Howl-o-ween Dog Pawrade.
