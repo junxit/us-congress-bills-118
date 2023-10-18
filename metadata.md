@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 32
@@ -68,6 +68,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-10-18 — [Senate 118-1-260](votes/senate-118-1-0260.md) — On the Joint Resolution — **Joint Resolution Passed** (53–44)
+
 ## Actions
 
 - 2023-06-13 — Introduced in Senate
@@ -75,3 +79,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
 - 2023-10-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2023-10-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-10-18 — Message on Senate action sent to the House.
+- 2023-10-18 — Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 260. (consideration: CR S5055, S5061-5062; text: CR S5062)
+- 2023-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 260.(consideration: CR S5055, S5061-5062; text: CR S5062)
