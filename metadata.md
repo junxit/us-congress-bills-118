@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 32
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 32
@@ -68,9 +68,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2023-10-18 — [Senate 118-1-260](votes/senate-118-1-0260.md) — On the Joint Resolution — **Joint Resolution Passed** (53–44)
+- 2023-12-01 — [House 118-1-690](votes/house-118-1-0690.md) — On Passage — **Passed** (221–202)
+- 2024-01-10 — [Senate 118-2-5](votes/senate-118-2-0005.md) — On Overriding the Veto — **Veto Sustained** (54–45)
 
 ## Actions
 
@@ -82,3 +84,22 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-10-18 — Message on Senate action sent to the House.
 - 2023-10-18 — Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 260. (consideration: CR S5055, S5061-5062; text: CR S5062)
 - 2023-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 260.(consideration: CR S5055, S5061-5062; text: CR S5062)
+- 2023-10-25 — Held at the desk.
+- 2023-10-25 — Received in the House.
+- 2023-11-28 — Rules Committee Resolution H. Res. 891 Reported to House. Rule provides for consideration of H.R. 5283, H.R. 5961 and S.J. Res. 32. The resolution provides for consideration of H.R. 5283 and H.R. 5961 under a structured rule and S. J. Res. 32 under a closed rule. Rule provides for one hour of general debate on each measure with one motion to recommit on H.R. 5283 and H.R. 5961 and one motion to commit on S. J. Res. 32.
+- 2023-11-29 — Rule H. Res. 891 passed House.
+- 2023-12-01 — Considered under the provisions of rule H. Res. 891. (consideration: CR H6055-6062)
+- 2023-12-01 — DEBATE - The House proceeded with one hour of debate on S.J. Res. 32.
+- 2023-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-01 — On passage Passed by the Yeas and Nays: 221 - 202, 1 Present (Roll no. 690). (text: CR H6055)
+- 2023-12-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 202, 1 Present (Roll no. 690). (text: CR H6055)
+- 2023-12-01 — Rule provides for consideration of H.R. 5283, H.R. 5961 and S.J. Res. 32. The resolution provides for consideration of H.R. 5283 and H.R. 5961 under a structured rule and S. J. Res. 32 under a closed rule. Rule provides for one hour of general debate on each measure with one motion to recommit on H.R. 5283 and H.R. 5961 and one motion to commit on S. J. Res. 32.
+- 2023-12-01 — The previous question was ordered pursuant to the rule.
+- 2023-12-14 — Presented to President.
+- 2023-12-14 — Presented to President.
+- 2023-12-19 — Veto message received in Senate. Ordered held at the desk. (text: CR S6048)
+- 2023-12-19 — Vetoed by President.
+- 2023-12-19 — Vetoed by President.
+- 2024-01-10 — Failed of passage in Senate over veto by Yea-Nay Vote. 54 - 45. Record Vote Number: 5.
+- 2024-01-10 — Failed of passage in Senate over veto: Failed of passage in Senate over veto by Yea-Nay Vote. 54 - 45. Record Vote Number: 5.
+- 2024-01-10 — Veto Message considered in Senate. (consideration: CR S66-67)
