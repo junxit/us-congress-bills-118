@@ -1,7 +1,7 @@
 ---
 measure: S. 2854
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2854
@@ -28,3 +28,7 @@ A bill to require the Secretary of Veterans Affairs to enter into an agreement w
 
 - 2023-09-19 — Introduced in Senate
 - 2023-09-19 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2023-10-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5103-5104; text: CR S5104)
+- 2023-10-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5103-5104; text: CR S5104)
+- 2023-10-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2023-10-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
