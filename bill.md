@@ -1,0 +1,24 @@
+---
+legis-num: S. 3112
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3112
+
+> To require the Commissioner of U.S. Customs and Border Protection to annually review and update CBP policies and manuals to ensure uniform inspection practices along the United States border.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensure Uniform Border Inspection Practices Act”.
+
+## § 2. Uniform inspection practices
+
+- **(a)** *Annual review* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall complete the review described in subsection (b) and any updates that are necessary to accomplish the objectives described in subsection (c) of the policies and manuals of—
+  - **(1)** the Office of Field Operations related to inspections at ports of entry; and
+  - **(2)** the U.S. Border Patrol related to inspections between ports of entry.
+- **(b)** *Elements* Each review required under subsection (a) shall include—
+  - **(1)** a comprehensive review of how fentanyl is being transported across the borders of the United States; and
+  - **(2)** a comprehensive review of how people are unlawfully crossing the borders of the United States, including the places at which such crossings are occurring.
+- **(c)** *Objective* The Commissioner shall ensure the uniform implementation of inspection practices at ports of entry to effectively respond to technological and methodological changes designed to disguise unlawful activity (such as smuggling drugs and humans) across the borders of the United States.
