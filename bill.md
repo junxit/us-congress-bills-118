@@ -1,0 +1,33 @@
+---
+legis-num: S. 3115
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3115
+
+> To amend the National Quantum Initiative Act to require the Secretary of Energy to conduct research on how quantum information science, technology, and engineering can enhance the resilience and security of the electric grid, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Grid Resilience Innovation and Development Act” or the “GRID Act”.
+
+## § 2. Quantum information science to enhance the resilience, security, and efficiency of the electric grid
+
+- **(a)** *In general* Title IV of the National Quantum Initiative Act (15 U.S.C. 8851 et seq.) is amended by adding at the end the following:
+  > ## § 405. Quantum information science to enhance the resilience and security of the electric grid
+  >
+  > - **(a)** *In general* The Secretary of Energy (referred to in this section as the Secretary) shall conduct research, development, and demonstration activities focused on the use of quantum information science, engineering, and technology, including through quantum applications and quantum computing, to enhance the resilience, security, and efficiency of the electric grid in the United States.
+  > - **(b)** *Research areas* In carrying out subsection (a), the Secretary shall conduct research in the following areas:
+  >   - **(1)** Fault detection and prediction.
+  >   - **(2)** Grid security and safety, including through post-quantum cryptography.
+  >   - **(3)** Integrated grid planning.
+  >   - **(4)** Grid optimization.
+  >   - **(5)** Enhanced modeling.
+  >   - **(6)** Energy storage.
+  >   - **(7)** Energy market optimization.
+  >   - **(8)** Any other area in which, in the determination of the Secretary, quantum information science, engineering, and technology can enhance the resilience, security, and efficiency of the electric grid in the United States.
+  > - **(c)** *Cooperation* To the extent practicable, the Secretary shall conduct research, development, and demonstration activities under subsection (a) in cooperation, including through partnerships, as the Secretary determines to be appropriate, with members of relevant industries, National Laboratories, institutions of higher education, and other relevant institutions, including research institutions, as determined by the Secretary.
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of the National Quantum Initiative Act (Public Law 115–368; 132 Stat. 5092; 136 Stat. 1441) is amended by inserting after the item relating to section 404 the following:
