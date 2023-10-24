@@ -1,7 +1,7 @@
 ---
 measure: S. 1170
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1170
@@ -16,7 +16,7 @@ Project Safe Childhood Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -34,6 +34,9 @@ Project Safe Childhood Act
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -47,3 +50,5 @@ Project Safe Childhood Act
 - 2023-05-15 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-05-15 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-05-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 68.
+- 2023-10-24 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5150-5152; text: CR S5150-5152)
+- 2023-10-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S5150-5152; text: CR S5150-5152)
