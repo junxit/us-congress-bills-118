@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4510
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4510
@@ -30,3 +30,10 @@ NTIA Reauthorization Act of 2024
 - 2023-07-10 — Introduced in House
 - 2023-07-10 — Referred to the House Committee on Energy and Commerce.
 - 2023-07-10 — Referred to the Subcommittee on Communications and Technology.
+- 2023-07-12 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2023-07-12 — Subcommittee Consideration and Mark-up Session Held
+- 2023-07-27 — Committee Consideration and Mark-up Session Held.
+- 2023-07-27 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 48 - 0.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 199.
+- 2023-10-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-249.
+- 2023-10-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-249.

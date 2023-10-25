@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4510
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-81 amendatory instructions. 43 executed, 38 stated and not applied.
+78 amendatory instructions. 42 executed, 36 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 47 U.S.C. § 901
+### 47 U.S.C. § 902
 
 > Section 151 of the National Telecommunications and Information Administration Organization Act is amended by striking “$17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993” and inserting “$62,000,000 for fiscal year 2024 and $62,000,000 for fiscal year 2025”.
 
@@ -33,16 +33,16 @@ to guess them.
 | Removed | `$17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993` |
 | Inserted | `$62,000,000 for fiscal year 2024 and $62,000,000 for fiscal year 2025` |
 
-### 47 U.S.C. § 901
+### 47 U.S.C. § 902
 
-> The National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by striking “Assistant Secretary” each place it appears and inserting “Under Secretary”.
+> The National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq) is amended by striking “Assistant Secretary” each place it appears and inserting “Under Secretary”.
 
 | | |
 |---|---|
 | Removed | `Assistant Secretary` |
 | Inserted | `Under Secretary` |
 
-### 47 U.S.C. § 901
+### 47 U.S.C. § 902
 
 > in section 5315, in the item relating to the Assistant Secretaries of Commerce, by striking “(11)” and inserting “(10)”.
 
@@ -62,11 +62,11 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> Section 106(c) of the Public Telecommunications Financing Act of 1978 (5 U.S.C. 5316 note; Public Law 95–567) is amended by striking “The position of Deputy Assistant Secretary of Commerce for Communications and Information established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978),” and inserting “The position of Deputy Under Secretary of Commerce for Communications and Information, established under section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)),”.
+> Section 106(c) of the Public Telecommunications Financing Act of 1978 (5 U.S.C. 5316 note; Public Law 95–567) is amended by striking “The position of Deputy Assistant Secretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978),” and inserting “The position of Deputy Under Secretary of Commerce for Communications and Information, established under section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)),”.
 
 | | |
 |---|---|
-| Removed | `The position of Deputy Assistant Secretary of Commerce for Communications and Information established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978),` |
+| Removed | `The position of Deputy Assistant Secretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978),` |
 | Inserted | `The position of Deputy Under Secretary of Commerce for Communications and Information, established under section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)),` |
 
 ### 47 U.S.C. § 344
@@ -89,12 +89,12 @@ to guess them.
 
 ### 7 U.S.C. § 950bb-6
 
-> in subsection (d)(1), in the heading, by striking “assistant secretary” and inserting “under secretary”; and
+> in subsection (d)(1), in the heading, by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 7 U.S.C. § 950bb-6
 
@@ -134,12 +134,12 @@ to guess them.
 
 ### 47 U.S.C. § 921
 
-> in section 1002(1), in the heading, by striking “assistant secretary” and inserting “under secretary”; and
+> in section 1002(1), in the heading, by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 47 U.S.C. § 921
 
@@ -170,16 +170,7 @@ to guess them.
 
 ### 47 U.S.C. § 1305
 
-> by striking “Assistant Secretary” each place the term appears and inserting “Under Secretary”; and
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary` |
-| Inserted | `Under Secretary` |
-
-### 47 U.S.C. § 1305
-
-> in subsection (d), in the heading, by striking “Assistant Secretary” and inserting “Under Secretary”.
+> Section 6001 of the American Recovery and Reinvestment Act of 2009 (47 U.S.C. 1305) is amended by striking “Assistant Secretary” each place the term appears and inserting “Under Secretary”.
 
 | | |
 |---|---|
@@ -206,12 +197,12 @@ to guess them.
 
 ### 47 U.S.C. § 1607
 
-> in subsection (c)(1), in the heading, by striking “assistant secretary” and inserting “under secretary”; and
+> in subsection (c)(1), in the heading, by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 47 U.S.C. § 1607
 
@@ -233,21 +224,21 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> in section 902(a)(2), in the heading, by striking “assistant secretary” and inserting “under secretary”;
+> in section 902(a)(2), in the heading, by striking “Assistant secretary” and inserting “Under secretary”;
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
-> in subsection (a)(1), in the heading, by striking “assistant secretary” and inserting “under secretary”;
+> in subsection (a)(1), in the heading, by striking “Assistant secretary” and inserting “Under secretary”;
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
@@ -278,12 +269,12 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> in section 903(g)(2), in the heading, by striking “assistant secretary” and inserting “under secretary”; and
+> in section 903(g)(2), in the heading, by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
@@ -305,21 +296,21 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> in subsection (a)(2)(A), by striking “assistant secretary” and inserting “under secretary”;
+> in subsection (a)(2)(A), by striking “Assistant secretary” and inserting “Under secretary”;
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
-> in subsection (d)(1), by striking “assistant secretary” and inserting “under secretary”; and
+> in subsection (d)(1), by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
@@ -341,12 +332,12 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> in section 60302(5), by striking “assistant secretary” and inserting “under secretary”; and
+> in section 60302(5), by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
@@ -359,12 +350,12 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> in section 60401(a)(2), by striking “assistant secretary” and inserting “under secretary”; and
+> in section 60401(a)(2), by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
 |---|---|
-| Removed | `assistant secretary` |
-| Inserted | `under secretary` |
+| Removed | `Assistant secretary` |
+| Inserted | `Under secretary` |
 
 ### 5 U.S.C. § 5316
 
@@ -421,9 +412,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `47 U.S.C. § 902` | add-at-end | Section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)), as amended by this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 901` | add-at-end | in section 5314, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 902` | add-at-end | in section 5314, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 904` | replace | by striking “to ensure that the conduct” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 904` | redesignate | in subparagraph (A), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `47 U.S.C. § 904` | replace | in subparagraph (A), as so designated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 904` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Section 102(c) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 902` | insert | in the matter preceding subparagraph (A), by inserting “, some of which were” before “transferred to the Secretary”; | the bill quotes the text inserted but describes where it goes |
@@ -437,8 +428,6 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 1305` | replace | in paragraph (3), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 1305` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1305` | repeal | Sections 154, 155, and 156 of the National Telecommunications and Information Administration Organization Act are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 1305` | repeal | Section 605 of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 1100) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 1305` | strike | The table of contents in section 1(b) of such division is amended by striking the item relating to section 605. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 906` | redesignate | in clause (ii), by redesignating subclauses (I), (II), and (III) as clauses (i), (ii), and (iii), respectively, and conforming the margins of such clauses accordingly; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 904` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 904` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
