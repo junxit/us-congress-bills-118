@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3838
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 247b-12
 
-> Subsection (g) of section 317K of the Public Health Service Act (42 U.S.C. 247b–12), as redesignated by subsection (b), is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
+> Subsection (g) of section 317K of the Public Health Service Act (42 U.S.C. 247b–12), as redesignated by subsection (b), is amended by striking “$58,000,000 for each of fiscal years 2019 through 2023” and inserting “$108,000,000 for each of fiscal years 2024 through 2028”.
 
 | | |
 |---|---|
-| Removed | `2019 through 2023` |
-| Inserted | `2024 through 2028` |
+| Removed | `$58,000,000 for each of fiscal years 2019 through 2023` |
+| Inserted | `$108,000,000 for each of fiscal years 2024 through 2028` |
 
 ## Stated, not applied
 
