@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5906
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5906
+
+> To amend title XI of the Social Security Act to exclude expenditures attributable to a State medicaid fraud control unit from the payment limits under Medicaid for Guam, the Northern Mariana Islands, and American Samoa.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicaid Accountability Act of 2023”.
+
+## § 2. Exclusion of expenditures attributable to State medicaid fraud control unit from payment limits
+
+Section 1108(g)(4)(A) of the Social Security Act (42 U.S.C. 1308(g)(4)(A)) is amended by inserting “and with respect to fiscal years beginning on or after the date of the enactment of the Medicaid Accountability Act of 2023, if Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under section 1903(a)(6) for a calendar quarter of such fiscal year,” before “the payment shall not be taken into account”.
