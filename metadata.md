@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3343
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3343
@@ -30,3 +30,10 @@ Federal Broadband Deployment Tracking Act
 - 2023-05-15 — Introduced in House
 - 2023-05-15 — Referred to the House Committee on Energy and Commerce.
 - 2023-05-15 — Referred to the Subcommittee on Communications and Technology.
+- 2023-05-17 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2023-05-17 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held.
+- 2023-05-24 — Ordered to be Reported by the Yeas and Nays: 51 - 0.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 198.
+- 2023-10-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-248.
+- 2023-10-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-248.
