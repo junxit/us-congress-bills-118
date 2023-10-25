@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5349
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5349
@@ -16,7 +16,7 @@ Crucial Communism Teaching Act
 
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Cosponsors (27)
+## Cosponsors (33)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
@@ -45,6 +45,12 @@ Crucial Communism Teaching Act
 - Rep. Smucker, Lloyd [R-PA-11] (S001199)
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 - Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
 
 ## Committees (1)
 
@@ -55,3 +61,8 @@ Crucial Communism Teaching Act
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Referred to the House Committee on Education and the Workforce.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 33 - 9.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 205.
+- 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-255.
+- 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-255.

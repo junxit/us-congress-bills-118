@@ -25,7 +25,7 @@ The purposes of this Act are the following:
 
 ## § 3. Development and dissemination of civic education curriculum and oral history resources
 
-The independent entity created under section 905(b)(1)(B) of the FRIENDSHIP Act (40 U.S.C. 1003 note; 107 Stat. 2331 note), also known as the “Victims of Communism Memorial Foundation”, shall—
+The independent entity created under section 905(b)(1)(B) of the FRIENDSHIP Act (40 U.S.C. 8903 note; 107 Stat. 2331 note), also known as the “Victims of Communism Memorial Foundation”, shall—
 
 - **(1)** develop a civic education curriculum for high school students that—
   - **(A)** includes a comparative discussion of certain political ideologies, including communism and totalitarianism, that conflict with the principles of freedom and democracy that are essential to the founding of the United States;
