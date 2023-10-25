@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4957
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 552` | replace | Section 1 of the Act of April 17, 1946 (60 Stat. 91; 29 U.S.C. 552) is amended by striking the second and third sentences and inserting the following: “The Deputy Secretary is authorized to exercise the functions and perform the duties o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 552` | replace | The first section of the Act of April 17, 1946 (60 Stat. 91; 29 U.S.C. 552) is amended by striking the second and third sentences and inserting the following: “The Deputy Secretary is authorized to exercise the functions and perform the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
