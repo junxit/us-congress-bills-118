@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5898
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5898
+
+> To authorize the Secretary of Defense to enter into a limited number of cost-plus incentive-fee contracts for the Sentinel Intercontinental Ballistic Missile program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Sentinel Program Construction Risk Mitigation Act of 2023”.
+
+## § 2. Form of contracting authorized to mitigate risk to Sentinel program schedule and cost
+
+Notwithstanding section 3323 of title 10, United States Code, the Secretary of Defense, for a military construction project associated with the Sentinel Intercontinental Ballistic Missile program launch facilities, control centers, and related infrastructure, may use a cost-plus incentive-fee form of contracting for not more than the first two low-rate initial production lots for such a project.
