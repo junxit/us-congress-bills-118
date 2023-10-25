@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subchapter II of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such subchapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Section 8108 of title 38, United States Code, is amended by inserting “, or to mitigate the risk of flooding, including the risk of flooding associated with rising sea levels” before the period at the end. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “March 12, 2032”. | the bill names no machine-readable US Code section |

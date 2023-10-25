@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3581
@@ -16,6 +16,14 @@ COPE Act
 
 - Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
 
+## Cosponsors (5)
+
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Pettersen, Brittany [D-CO-7] (P000620)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +33,12 @@ COPE Act
 - 2023-05-22 — Introduced in House
 - 2023-05-22 — Introduced in House
 - 2023-05-22 — Referred to the House Committee on Veterans' Affairs.
+- 2023-06-19 — Referred to the Subcommittee on Health.
+- 2023-06-21 — Subcommittee Hearings Held
+- 2023-07-18 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2023-07-18 — Subcommittee Consideration and Mark-up Session Held
+- 2023-07-26 — Committee Consideration and Mark-up Session Held.
+- 2023-07-26 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 201.
+- 2023-10-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-251.
+- 2023-10-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-251.
