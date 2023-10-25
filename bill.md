@@ -15,6 +15,12 @@ This Act may be cited as the “Think Differently about Education Act of 2023”
 
 ## § 2. Notification requirement for IEP teams
 
-Section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)) is amended by adding at the end the following:
+Section 614(d)(1)(B) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(1)(B)) is amended—
 
-> - **(8)** *Notification required* At the beginning of each school year, each local educational agency, State educational agency, or other State agency, as the case may be, shall notify each parent of a child with a disability in the agency's jurisdiction that such parent may, under paragraph (1)(B)(vi), include individuals who have knowledge or special expertise regarding the child, including related services personnel as appropriate, as part of the individualized education program team for such child.
+- **(1)** in clause (iv), by redesignating subclauses (I) through (III) as items (aa) through (cc), respectively (and by conforming the margins accordingly);
+- **(2)** by redesignating clauses (i) through (vii) as subclauses (I) through (VII), respectively (and by conforming the margins accordingly);
+- **(3)** in the matter preceding subclause (I), as so redesignated, by striking “The term” and inserting the following:
+  > - **(i)** *In general* The term
+
+- **(4)** by adding at the end the following:
+  > - **(ii)** *Notification required* Within a reasonable timeframe prior to the first convening of the individualized education program team for a child with a disability for a school year, the local educational agency that serves such child shall notify the parent of such child that such parent may, under clause (i)(VI), include other individuals who have knowledge or special expertise regarding the child, including related services personnel as appropriate, as part of the individualized education program team.

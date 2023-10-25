@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4259
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4259
@@ -16,9 +16,15 @@ Think Differently about Education Act of 2023
 
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
 
 ## Committees (1)
 
@@ -29,3 +35,8 @@ Think Differently about Education Act of 2023
 - 2023-06-21 — Introduced in House
 - 2023-06-21 — Introduced in House
 - 2023-06-21 — Referred to the House Committee on Education and the Workforce.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 39 - 0.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 202.
+- 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-252.
+- 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-252.
