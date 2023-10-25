@@ -1,0 +1,37 @@
+---
+legis-num: S. 3124
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3124
+
+> To expand and improve the Legal Assistance for Victims Grant Program to ensure legal assistance is provided for survivors in proceedings related to domestic violence and sexual assault, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Representation for Survivors Act”.
+
+## § 2. Ensuring access to legal assistance in proceedings related to domestic violence and sexual assault
+
+Section 1201 of the Violence Against Women Act of 2000 (34 U.S.C. 20121) is amended—
+
+- **(1)** by redesignating subsection (f) as subsection (g);
+- **(2)** by inserting after subsection (e) the following:
+  > - **(f)** *Grants to States To ensure access to legal assistance*
+  >   - **(1)** *In general*
+  >     - **(A)** *Amount* In each fiscal year, the Attorney General shall award to each State submitting an application under paragraph (3) a grant in an amount equal to .5 percent of the total amount appropriated pursuant to subsection (g) for the fiscal year.
+  >     - **(B)** *Use* A State that receives a grant under subparagraph (A) shall use amounts from the grant to provide legal assistance to survivors of domestic violence, dating violence, stalking, and sexual assault, with the goal of every survivor of domestic violence, dating violence, stalking, and sexual assault receiving legal assistance.
+  >   - **(2)** *Use of funds*
+  >     - **(A)** *In general* Amounts received by a State under this subsection shall be distributed by the State to public or private entities within the State to implement, expand, and establish efforts and projects to provide legal assistance, including pro bono representation and legal advocacy, to help survivors of domestic violence, dating violence, stalking, or sexual assault—
+  >       - **(i)** initiate or respond to motions to vacate or expunge a conviction, or similar actions, if the jurisdiction permits such a legal action based on a person's status as a crime victim; and
+  >       - **(ii)** with other civil legal actions, other than tort actions, which are reasonably necessary as a direct result of the victimization, such as—
+  >         - **(I)** civil legal assistance with divorce, child custody, child welfare, and support proceedings with corresponding enforcement;
+  >         - **(II)** assistance with and representation at proceedings for protective orders, restraining orders, or other stay-away orders;
+  >         - **(III)** assistance with contract, housing, employment, education, healthcare, benefits, and privacy matters; and
+  >         - **(IV)** intervention with creditors, law enforcement officers, and other entities on behalf of survivors of identity theft and financial fraud.
+  >     - **(B)** *Eligibility* A public or private entity seeking distribution of amounts from a grant received by a State under this subsection shall meet the eligibility requirements described in subsection (d).
+  >   - **(3)** *Application* Each State seeking a grant under this subsection shall submit an application to the Attorney General at such time and in such manner as the Attorney General may reasonably require.
+
+- **(3)** in subsection (g), as so redesignated, by striking “$57,000,000 for each of fiscal years 2014 through 2018” and inserting “$80,000,000 for each of fiscal years 2024 through 2028”.
