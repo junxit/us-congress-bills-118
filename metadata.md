@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 771
 congress: 118
-version: Engrossed in House
+version: Introduced in House
 ---
 
 # H.Res. 771

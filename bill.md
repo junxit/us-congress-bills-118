@@ -2,7 +2,7 @@
 legis-num: H. RES. 771
 congress: 118th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 771
@@ -11,13 +11,13 @@ chamber: In the House of Representatives, U. S.,
 
 ## Preamble
 
-- Whereas on October 7, 2023, Hamas terrorists launched a massive, unprovoked war on Israel by air, land, and sea, including firing thousands of rockets;
+- Whereas, on October 7, 2023, Hamas terrorists launched a massive, unprovoked war on Israel by air, land, and sea, including firing thousands of rockets;
 - Whereas this heinous assault took place just after the 50th anniversary of the start of the multi-front 1973 Yom Kippur War against Israel;
 - Whereas Hamas terrorists crossed the land border and began slaughtering Israelis and abducting hostages in towns in southern Israel, including children and the elderly;
-- Whereas since October 7, 2023, Hamas launched over 4,500 rockets into southern and central Israel;
-- Whereas since October 7, 2023, Hamas terrorists have killed over 900 Israelis and injured more than 2,600 others;
+- Whereas, since October 7, 2023, Hamas launched over 4,500 rockets into southern and central Israel;
+- Whereas, since October 7, 2023, Hamas terrorists have killed over 900 Israelis and injured more than 2,600 others;
 - Whereas at least 11 United States citizens in Israel are among those killed by Hamas since October 7, 2023;
-- Whereas since October 7, 2023, Hamas is directly responsible for the deaths of hundreds of Palestinians;
+- Whereas, since October 7, 2023, Hamas is directly responsible for the deaths of hundreds of Palestinians;
 - Whereas the expansion of this war to other fronts by Hezbollah, Iran, or others would create an even more devastating regional catastrophe;
 - Whereas Hamas is a United States-designated Foreign Terrorist Organization;
 - Whereas Iran has long provided support to Hamas and other terrorist groups and proxies, and prior United States Government unclassified assessments indicated that, “Iran has historically provided up to $100 million annually in combined support to Palestinian terrorist groups, including Hamas, Palestinian Islamic Jihad (PIJ), and the Popular Front for the Liberation of Palestine-General Command”;
@@ -35,7 +35,7 @@ That the House of Representatives—
 - **(4)** calls on all countries to unequivocally condemn Hamas’ brutal war against Israel;
 - **(5)** calls on Hamas to immediately cease these violent attacks and safely release all living hostages and return the bodies of deceased hostages;
 - **(6)** mourns the over 900 Israelis and 11 Americans killed and over 2,600 others wounded in Hamas’ unprovoked attack on Israel;
-- **(7)** reaffirms the United States’ commitment to Israel’s security, including through security assistance in accordance with the 2016 U.S.-Israel Memorandum of Understanding;
+- **(7)** reaffirms the United States commitment to Israel’s security, including through security assistance in accordance with the 2016 U.S.-Israel Memorandum of Understanding;
 - **(8)** urges full enforcement of the Taylor Force Act (title X of division S of Public Law 115–141; 132 Stat. 1143) and other restrictions in United States law to prevent United States foreign assistance from benefiting terrorists, directly or indirectly;
 - **(9)** condemns Iran’s support for terrorist groups and proxies, including Hamas and Palestinian Islamic Jihad;
 - **(10)** urges full enforcement of United States sanctions against Iran to prevent Iran’s funding of terrorist groups, including Hamas and Palestinian Islamic Jihad; and
