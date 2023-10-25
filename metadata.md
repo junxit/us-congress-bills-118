@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 88
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. McClain, Lisa C. [R-MI-9] (M001136)
 
-## Cosponsors (36)
+## Cosponsors (52)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
@@ -54,6 +54,22 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Rosendale Sr., Matthew M. [R-MT-2] (R000103)
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Flood, Mike [R-NE-1] (F000474)
 
 ## Committees (1)
 
@@ -64,3 +80,8 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Introduced in House
 - 2023-09-05 — Referred to the House Committee on Education and the Workforce.
+- 2023-09-14 — Committee Consideration and Mark-up Session Held
+- 2023-09-14 — Ordered to be Reported by the Yeas and Nays: 23 - 19.
+- 2023-10-25 — Placed on the Union Calendar, Calendar No. 203.
+- 2023-10-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-253.
+- 2023-10-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-253.
