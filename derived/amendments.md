@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,21 @@ to guess them.
 
 ### 16 U.S.C. § 831h
 
-> Section 9(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831h(a)) is amended by striking “$1,500 a year” and inserting “the maximum rate of basic pay for grade GS–13 of the General Schedule”.
+> in subsection (a), by striking “a financial statement” and all that follows through “$1,500 a year” and inserting “a report of the total number of employees at the management level or above, to include all executives and board members, that shall include the names, salaries, and duties of such employees, that are receiving compensation at or greater than the maximum rate of basic pay for grade GS–15 of the General Schedule”;
 
 | | |
 |---|---|
-| Removed | `$1,500 a year` |
-| Inserted | `the maximum rate of basic pay for grade GS–13 of the General Schedule` |
+| Removed | `a financial statement” and all that follows through “$1,500 a year` |
+| Inserted | `a report of the total number of employees at the management level or above, to include all executives and board members, that shall include the names, salaries, and duties of such employees, that are receiving compensation at or greater than the maximum rate of basic pay for grade GS–15 of the General Schedule` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 831h` | replace | by striking all that precedes “The Board shall” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 831h` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

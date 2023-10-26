@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4693
@@ -29,3 +29,10 @@ Tennessee Valley Authority Salary Transparency Act
 - 2023-07-18 — Introduced in House
 - 2023-07-18 — Introduced in House
 - 2023-07-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-07-19 — Referred to the Subcommittee on Water Resources and Environment.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported (Amended) by Voice Vote.
+- 2023-07-27 — Subcommittee on Water Resources and Environment Discharged
+- 2023-10-26 — Placed on the Union Calendar, Calendar No. 207.
+- 2023-10-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-257.
+- 2023-10-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-257.
