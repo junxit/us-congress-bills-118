@@ -17,7 +17,7 @@ This Act may be cited as the “Rape Kit Backlog Progress Act of 2023”.
 
 Congress finds the following:
 
-- **(1)** A sexual assault kit includes a sexual assault forensic exam meaning an examination provided to a sexual assault patient by a health care provider, who has specialized education and clinical experience in the collection of forensic evidence and treatment of these patients, which includes—
+- **(1)** A sexual assault kit includes a sexual assault forensic exam, meaning an examination provided to a sexual assault patient by a health care provider who has specialized education and clinical experience in the collection of forensic evidence and treatment of these patients, which includes—
   - **(A)** gathering information from the patient for the medical forensic history;
   - **(B)** an examination;
   - **(C)** coordinating treatment of injuries, documentation of biological and physical findings, and collection of evidence from the patient;
@@ -34,12 +34,12 @@ Section 502 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C.
 
 - **(1)** in subsection (a), by adding at the end the following:
   > - **(7)** A report indicating whether—
-  >   - **(A)** the State or unit of local government has conducted a comprehensive sexual assault kit inventory, commonly known as a ‘backlog inventory’, to identify the physical location, untested or tested status (or full sexual assault kit status, if available), and any individual test kit identification or tracking information of each sexual assault kit in the possession of such State or unit of local government, or that has been otherwise transmitted by a State or unit of local government to a third party, such as for testing, storing, processing, or handling;
-  >   - **(B)** with respect to each sexual assault kit, that the victim has consented to have collected, the State or unit of local government has submitted each such sexual assault kit to a laboratory for DNA analysis;
+  >   - **(A)** the State or unit of local government has conducted a comprehensive sexual assault kit inventory, commonly known as a ‘backlog inventory’, to identify the physical location, untested or tested status (or full sexual assault kit status, if available), and any individual test kit identification or tracking information of each sexual assault kit in the possession of such State or unit of local government, or that has been otherwise transmitted by a State or unit of local government to a third-party, such as for testing, storing, processing, or handling;
+  >   - **(B)** with respect to each sexual assault kit that the victim has consented to have collected, the State or unit of local government has submitted each such sexual assault kit to a laboratory for DNA analysis;
   >   - **(C)** results of any such DNA analysis were uploaded to the Combined DNA Index System;
   >   - **(D)** the State or unit of local government has established an electronic tracking system for a victim to identify the physical location of their sexual assault kit and the results of any DNA analysis that was performed;
   >   - **(E)** the State or unit of local government has established a victim notification protocol for informing a victim of the status of their sexual assault kit, including where their sexual assault kit was analyzed;
-  >   - **(F)** the State or unit of local government has in place a comprehensive sexual assault kit inventory system to identify sexual assault kit status, physical location, and any test kit identification or tracking information of each sexual assault kit in the possession of such State or unit of local government, or otherwise transmitted by a State or unit of local government to a third party, such as for testing, storing, processing, or handling; and
+  >   - **(F)** the State or unit of local government has in place a comprehensive sexual assault kit inventory system to identify sexual assault kit status, physical location, and any test kit identification or tracking information of each sexual assault kit in the possession of such State or unit of local government, or otherwise transmitted by a State or unit of local government to a third-party, such as for testing, storing, processing, or handling; and
   >   - **(G)** the information in any comprehensive sexual assault kit inventory system described in subparagraph (F) is updated, and how and when it is updated.
 
 - **(2)** by adding at the end the following:
