@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4394
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4394
@@ -20,9 +20,430 @@ Energy and Water Development and Related Agencies Appropriations Act, 2024
 
 - House — Appropriations Committee
 
+## Recorded votes (30)
+
+- 2023-10-26 — [House 118-1-529](votes/house-118-1-0529.md) — On Agreeing to the Amendment — **Failed** (156–265)
+- 2023-10-26 — [House 118-1-530](votes/house-118-1-0530.md) — On Agreeing to the Amendment — **Agreed to** (277–142)
+- 2023-10-26 — [House 118-1-531](votes/house-118-1-0531.md) — On Agreeing to the Amendment — **Failed** (212–213)
+- 2023-10-26 — [House 118-1-532](votes/house-118-1-0532.md) — On Agreeing to the Amendment — **Failed** (161–257)
+- 2023-10-26 — [House 118-1-533](votes/house-118-1-0533.md) — On Agreeing to the Amendment — **Failed** (137–287)
+- 2023-10-26 — [House 118-1-534](votes/house-118-1-0534.md) — On Agreeing to the Amendment — **Failed** (135–284)
+- 2023-10-26 — [House 118-1-535](votes/house-118-1-0535.md) — On Agreeing to the Amendment — **Failed** (105–319)
+- 2023-10-26 — [House 118-1-536](votes/house-118-1-0536.md) — On Agreeing to the Amendment — **Failed** (115–306)
+- 2023-10-26 — [House 118-1-537](votes/house-118-1-0537.md) — On Agreeing to the Amendment — **Failed** (123–300)
+- 2023-10-26 — [House 118-1-538](votes/house-118-1-0538.md) — On Agreeing to the Amendment — **Failed** (137–283)
+- 2023-10-26 — [House 118-1-539](votes/house-118-1-0539.md) — On Agreeing to the Amendment — **Failed** (105–316)
+- 2023-10-26 — [House 118-1-540](votes/house-118-1-0540.md) — On Agreeing to the Amendment — **Failed** (134–283)
+- 2023-10-26 — [House 118-1-541](votes/house-118-1-0541.md) — On Agreeing to the Amendment — **Failed** (122–299)
+- 2023-10-26 — [House 118-1-542](votes/house-118-1-0542.md) — On Agreeing to the Amendment — **Failed** (130–287)
+- 2023-10-26 — [House 118-1-543](votes/house-118-1-0543.md) — On Agreeing to the Amendment — **Failed** (122–295)
+- 2023-10-26 — [House 118-1-544](votes/house-118-1-0544.md) — On Agreeing to the Amendment — **Failed** (116–303)
+- 2023-10-26 — [House 118-1-545](votes/house-118-1-0545.md) — On Agreeing to the Amendment — **Failed** (121–299)
+- 2023-10-26 — [House 118-1-546](votes/house-118-1-0546.md) — On Agreeing to the Amendment — **Failed** (176–241)
+- 2023-10-26 — [House 118-1-547](votes/house-118-1-0547.md) — On Agreeing to the Amendment — **Failed** (120–291)
+- 2023-10-26 — [House 118-1-548](votes/house-118-1-0548.md) — On Agreeing to the Amendment — **Agreed to** (207–204)
+- 2023-10-26 — [House 118-1-549](votes/house-118-1-0549.md) — On Agreeing to the Amendment — **Failed** (208–209)
+- 2023-10-26 — [House 118-1-550](votes/house-118-1-0550.md) — On Agreeing to the Amendment — **Agreed to** (207–204)
+- 2023-10-26 — [House 118-1-551](votes/house-118-1-0551.md) — On Agreeing to the Amendment — **Failed** (166–247)
+- 2023-10-26 — [House 118-1-552](votes/house-118-1-0552.md) — On Agreeing to the Amendment — **Failed** (160–250)
+- 2023-10-26 — [House 118-1-553](votes/house-118-1-0553.md) — On Agreeing to the Amendment — **Failed** (164–249)
+- 2023-10-26 — [House 118-1-554](votes/house-118-1-0554.md) — On Agreeing to the Amendment — **Failed** (100–314)
+- 2023-10-26 — [House 118-1-555](votes/house-118-1-0555.md) — On Agreeing to the Amendment — **Failed** (76–335)
+- 2023-10-26 — [House 118-1-556](votes/house-118-1-0556.md) — On Agreeing to the Amendment — **Failed** (192–222)
+- 2023-10-26 — [House 118-1-557](votes/house-118-1-0557.md) — On Motion to Recommit — **Failed** (199–210)
+- 2023-10-26 — [House 118-1-558](votes/house-118-1-0558.md) — On Passage — **Passed** (210–199)
+
 ## Actions
 
 - 2023-06-30 — Introduced in House
 - 2023-06-30 — Placed on the Union Calendar, Calendar No. 98.
 - 2023-06-30 — The House Committee on Appropriations reported an original measure, H. Rept. 118-126, by Mr. Fleischmann.
 - 2023-06-30 — The House Committee on Appropriations reported an original measure, H. Rept. 118-126, by Mr. Fleischmann.
+- 2023-10-03 — Rules Committee Resolution H. Res. 756 Reported to House. Rule provides for consideration of H.R. 4394 and H.R. 4364. The resolution provides for consideration of H.R. 4394 and H.R. 4364. Resolution provides for consideration of H.R. 4394, under a structured rule with one hour of general debate and one motion to recommit. The resolution provides for consideration of H.R. 4364 under a closed rule with one hour of general debate and one motion to recommit. The resolution lays H. Res. 699 on the table.
+- 2023-10-25 — Amendment (A002) offered by Mr. Perry. (consideration: CR H5084-5085; text: CR H5084)
+- 2023-10-25 — Amendment (A003) offered by Mr. Neguse. (consideration: CR H5085; text: CR H5085)
+- 2023-10-25 — Amendment (A004) offered by Mr. Neguse. (consideration: CR H5085-5086; text: CR H5086)
+- 2023-10-25 — Amendment (A005) offered by Mr. Westerman. (consideration: CR H5086-5087; text: CR H5086)
+- 2023-10-25 — Amendment (A006) offered by Mr. Griffith. (consideration: CR H5087-5088; text: CR H5087)
+- 2023-10-25 — Amendment (A007) offered by Mr. Roy. (consideration: CR H5088-5089; text: CR H5088)
+- 2023-10-25 — Amendment (A008) offered by Mr. Perry. (consideration: CR H5089-5090; text: CR H5090)
+- 2023-10-25 — Amendment (A009) offered by Mr. Norman. (consideration: CR H5090-5092; text: CR H5090)
+- 2023-10-25 — Amendment (A010) offered by Mr. Perry. (consideration: CR H5092-5093; text: CR H5092)
+- 2023-10-25 — Amendment (A011) offered by Mr. Perry. (consideration: CR H5093; text: CR H5093)
+- 2023-10-25 — Amendment (A012) offered by Mr. Perry. (consideration: CR H5094-5095; text: CR H5094)
+- 2023-10-25 — Amendment (A013) offered by Mr. Perry. (consideration: CR H5095; text: CR H5095)
+- 2023-10-25 — Amendment (A014) offered by Mr. Perry. (consideration: CR H5095; text: CR H5095)
+- 2023-10-25 — Amendment (A015) offered by Mr. Perry. (consideration: CR H5095-5096; text: CR H5095)
+- 2023-10-25 — Amendment (A016) offered by Mr. Perry. (consideration: CR H5096-5097; text: CR H5096)
+- 2023-10-25 — Amendment (A017) offered by Mr. Perry. (consideration: CR H5097-5098; text: CR H5097)
+- 2023-10-25 — Amendment (A018) offered by Mrs. Cammack. (consideration: CR H5098; text: CR H5098)
+- 2023-10-25 — Amendment (A019) offered by Mr. Fallon. (consideration: CR H5099-5100; text: CR H5099)
+- 2023-10-25 — Amendments en bloc (A001) offered by Mr. Fleischmann. (consideration: CR H5083-5084; text: CR H5083)
+- 2023-10-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 4394 as unfinished business.
+- 2023-10-25 — Considered under the provisions of rule H. Res. 756. (consideration: CR H5066-5100)
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Cammack amendment No. 34.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Fallon amendment No. 35.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 15.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Neguse amendment No. 12.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Neguse amendment No. 13.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 20.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 19.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 25.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 26.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 27.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 28.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 29.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 3.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 30.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 31.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 32.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 16.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 14.
+- 2023-10-25 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 20 minutes of debate on the Fleischmann amendment en bloc.
+- 2023-10-25 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4394.
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House Amendment Offered
+- 2023-10-25 — House amendment agreed to: On agreeing to the Cammack amendment (A018) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Cammack amendment (A018) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Fallon amendment (A019) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Fallon amendment (A019) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Fleischmann amendments (A001) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Fleischmann amendments (A001) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Neguse amendment (A004) Agreed to by voice vote.
+- 2023-10-25 — House amendment agreed to: On agreeing to the Neguse amendment (A004) Agreed to by voice vote.
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House amendment offered
+- 2023-10-25 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 756 and Rule XVIII.
+- 2023-10-25 — Mr. Fleischmann moved that the committee rise.
+- 2023-10-25 — On agreeing to the Cammack amendment (A018) Agreed to by voice vote.
+- 2023-10-25 — On agreeing to the Fallon amendment (A019) Agreed to by voice vote.
+- 2023-10-25 — On agreeing to the Fleischmann amendments (A001) Agreed to by voice vote.
+- 2023-10-25 — On agreeing to the Neguse amendment (A004) Agreed to by voice vote.
+- 2023-10-25 — On motion that the committee rise Agreed to by voice vote.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Griffith amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Griffith demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neguse amendment No. 12, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Neguse demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Norman demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 19, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 25, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 26, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 27, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 28, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 29, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 3, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mrs. Watson Coleman demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 30, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 31, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 32, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Perry demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roy amendment No. 16, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. Roy demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Westerman amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Kaptur demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-25 — Rule provides for consideration of H.R. 4394 and H.R. 4364. The resolution provides for consideration of H.R. 4394 and H.R. 4364. Resolution provides for consideration of H.R. 4394, under a structured rule with one hour of general debate and one motion to recommit. The resolution provides for consideration of H.R. 4364 under a closed rule with one hour of general debate and one motion to recommit. The resolution lays H. Res. 699 on the table.
+- 2023-10-25 — The Speaker designated the Honorable Mike Flood to act as Chairman of the Committee.
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — 
+- 2023-10-26 — Amendment (A020) offered by Mr. Garamendi. (consideration: CR H5111-5114, H5128-5129; text: CR H5111)
+- 2023-10-26 — Amendment (A021) offered by Mr. Garamendi. (consideration: CR H5114-5115, H5129; text: CR H5114)
+- 2023-10-26 — Amendment (A022) offered by Ms. Hageman. (consideration: CR H5115-5116; text: CR H5115)
+- 2023-10-26 — Amendment (A023) offered by Ms. Hageman. (consideration: CR H5116-5117, H5130; text: CR H5116)
+- 2023-10-26 — Amendment (A024) offered by Ms. Hageman. (consideration: CR H5117-5118; text: CR H5117)
+- 2023-10-26 — Amendment (A025) offered by Mr. Jackson (TX). (consideration: CR H5130-5131; text: CR H5130)
+- 2023-10-26 — Amendment (A026) offered by Mr. Lamborn. (consideration: CR H5131; text: CR H5131)
+- 2023-10-26 — Amendment (A027) offered by Mrs. Luna. (consideration: CR H5131-5132, H5144; text: CR H5131)
+- 2023-10-26 — Amendment (A028) offered by Mrs. Luna. (consideration: CR H5132; text: CR H5132)
+- 2023-10-26 — Amendment (A029) offered by Mr. McCormick. (consideration: CR H5132-5133; text: CR H5132)
+- 2023-10-26 — Amendment (A030) offered by Mr. Norman. (consideration: CR H5133; text: CR H5133)
+- 2023-10-26 — Amendment (A031) offered by Mr. Norman. (consideration: CR H5133-5134, H5144-5145; text: CR H5133)
+- 2023-10-26 — Amendment (A032) offered by Mr. Norman. (consideration: CR H5134-5135; text: CR H5134)
+- 2023-10-26 — Amendment (A033) offered by Mr. Norman. (consideration: CR H5135; text: CR H5135)
+- 2023-10-26 — Amendment (A034) offered by Mr. Norman. (consideration: CR H5135-5136, H5145-5146; text: CR H5135)
+- 2023-10-26 — Amendment (A035) offered by Mr. Norman. (consideration: CR H5136-5137, H5146-5147; text: CR H5136)
+- 2023-10-26 — Amendment (A036) offered by Mr. Ogles. (consideration: CR H5137-5138; text: CR H5137)
+- 2023-10-26 — Amendment (A037) offered by Mr. Ogles. (consideration: CR H5138; text: CR H5138)
+- 2023-10-26 — Amendment (A038) offered by Mr. Palmer. (consideration: CR H5138-5139; text: CR H5138)
+- 2023-10-26 — Amendment (A039) offered by Mr. Pfluger. (consideration: CR H5139-5140, H5147-5148; text: CR H5139)
+- 2023-10-26 — Amendment (A040) offered by Mr. Pfluger. (consideration: CR H5140, H5148; text: CR H5140)
+- 2023-10-26 — Amendment (A041) offered by Mr. Rosendale. (consideration: CR H5140-5142, H5148-5149; text: CR H5140)
+- 2023-10-26 — Amendment (A042) offered by Mr. Rosendale. (consideration: CR H5142-5143, H5149-5150; text: CR H5142)
+- 2023-10-26 — Amendment (A043) offered by Mr. Rosendale. (consideration: CR H5143, H5150; text: CR H5143)
+- 2023-10-26 — Considered as unfinished business. (consideration: CR H5110-5152)
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 36.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 37.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 38.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 39.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 40.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson (TX) amendment No. 41.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 42.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 43.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 44.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 45.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 46.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 47.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 48.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 49.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 50.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 51.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 52.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 53.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 54.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Pfluger amendment No. 56.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Pfluger amendment No. 57.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 58.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 59.
+- 2023-10-26 — DEBATE - Pursuant to the provisions of H. Res. 756, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 60.
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House Amendment Offered
+- 2023-10-26 — House amendment agreed to: On agreeing to the Hageman amendment (A022) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Hageman amendment (A022) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Hageman amendment (A024) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Hageman amendment (A024) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Jackson (TX) amendment (A025) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Jackson (TX) amendment (A025) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Lamborn amendment (A026) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Lamborn amendment (A026) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Luna amendment (A028) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Luna amendment (A028) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the McCormick amendment (A029) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the McCormick amendment (A029) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Neguse amendment (A003) Agreed to by recorded vote: 277 - 142 (Roll no. 530).
+- 2023-10-26 — House amendment agreed to: On agreeing to the Neguse amendment (A003) Agreed to by recorded vote: 277 - 142 (Roll no. 530).(consideration: CR H5119-5120)
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A030) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A030) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A031) Agreed to by recorded vote: 207 - 204 (Roll no. 548).
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A031) Agreed to by recorded vote: 207 - 204 (Roll no. 548).
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A032) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A032) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A033) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A033) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A034) Agreed to by the Yeas and Nays: 207 - 204 (Roll no. 550).
+- 2023-10-26 — House amendment agreed to: On agreeing to the Norman amendment (A034) Agreed to by the Yeas and Nays: 207 - 204 (Roll no. 550).
+- 2023-10-26 — House amendment agreed to: On agreeing to the Ogles amendment (A036) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Ogles amendment (A036) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Ogles amendment (A037) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Ogles amendment (A037) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Palmer amendment (A038) Agreed to by voice vote.
+- 2023-10-26 — House amendment agreed to: On agreeing to the Palmer amendment (A038) Agreed to by voice vote.
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Garamendi amendment (A020) Failed by recorded vote: 116 - 303 (Roll no. 544).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Garamendi amendment (A021) Failed by recorded vote: 121 - 299 (Roll no. 545).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Griffith amendment (A006) Failed by recorded vote: 161 - 257 (Roll no. 532).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Griffith amendment (A006) Failed by recorded vote: 161 - 257 (Roll no. 532).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Hageman amendment (A023) Failed by recorded vote: 176 - 241 (Roll no. 546).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Luna amendment (A027) Failed by recorded vote: 120 - 291 (Roll no. 547).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Norman amendment (A009) Failed by recorded vote: 105 - 319 (Roll no. 535).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Norman amendment (A034) Failed by recorded vote: 208 - 209 (Roll no. 549).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Norman amendment (A035) Failed by recorded vote: 166 - 247 (Roll no. 551).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A002) Failed by recorded vote: 156 - 265 (Roll no. 529).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A008) Failed by recorded vote: 135 - 284 (Roll no. 534).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A010) Failed by recorded vote: 115 - 306 (Roll no. 536).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A011) Failed by recorded vote: 123 - 300 (Roll no. 537).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A012) Failed by recorded vote: 137 - 283 (Roll no. 538).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A013) Failed by recorded vote: 105 - 316 (Roll no. 539).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A014) Failed by recorded vote: 134 - 283 (Roll no. 540).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A015) Failed by recorded vote: 122 - 299 (Roll no. 541).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A016) Failed by recorded vote: 130 - 287 (Roll no. 542).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Perry amendment (A017) Failed by recorded vote: 122 - 295 (Roll no. 543).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Pfluger amendment (A039) Failed by recorded vote: 160 - 250 (Roll no. 552).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Pfluger amendment (A040) Failed by recorded vote: 164 - 249 (Roll no. 553).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Rosendale amendment (A041) Failed by recorded vote: 100 - 314 (Roll no. 554).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Rosendale amendment (A042) Failed by recorded vote: 76 - 335 (Roll no. 555).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Rosendale amendment (A043) Failed by recorded vote: 192 - 222 (Roll no. 556).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Roy amendment (A007) Failed by recorded vote: 137 - 287 (Roll no. 533).
+- 2023-10-26 — House amendment not agreed to: On agreeing to the Westerman amendment (A005) Failed by recorded vote: 212 - 213 (Roll no. 531).
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — House amendment offered
+- 2023-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-10-26 — Ms. Castor (FL) moved to recommit to the Committee on Appropriations. (text: CR H5150)
+- 2023-10-26 — On agreeing to the Garamendi amendment (A020) Failed by recorded vote: 116 - 303 (Roll no. 544).
+- 2023-10-26 — On agreeing to the Garamendi amendment (A021) Failed by recorded vote: 121 - 299 (Roll no. 545).
+- 2023-10-26 — On agreeing to the Griffith amendment (A006) Failed by recorded vote: 161 - 257 (Roll no. 532).
+- 2023-10-26 — On agreeing to the Hageman amendment (A022) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Hageman amendment (A023) Failed by recorded vote: 176 - 241 (Roll no. 546).
+- 2023-10-26 — On agreeing to the Hageman amendment (A024) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Jackson (TX) amendment (A025) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Lamborn amendment (A026) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Luna amendment (A027) Failed by recorded vote: 120 - 291 (Roll no. 547).
+- 2023-10-26 — On agreeing to the Luna amendment (A028) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the McCormick amendment (A029) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Neguse amendment (A003) Agreed to by recorded vote: 277 - 142 (Roll no. 530).
+- 2023-10-26 — On agreeing to the Norman amendment (A009) Failed by recorded vote: 105 - 319 (Roll no. 535).
+- 2023-10-26 — On agreeing to the Norman amendment (A030) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Norman amendment (A031) Agreed to by recorded vote: 207 - 204 (Roll no. 548).
+- 2023-10-26 — On agreeing to the Norman amendment (A032) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Norman amendment (A033) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Norman amendment (A034) Agreed to by the Yeas and Nays: 207 - 204 (Roll no. 550).
+- 2023-10-26 — On agreeing to the Norman amendment (A034) Failed by recorded vote: 208 - 209 (Roll no. 549).
+- 2023-10-26 — On agreeing to the Norman amendment (A035) Failed by recorded vote: 166 - 247 (Roll no. 551).
+- 2023-10-26 — On agreeing to the Ogles amendment (A036) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Ogles amendment (A037) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Palmer amendment (A038) Agreed to by voice vote.
+- 2023-10-26 — On agreeing to the Perry amendment (A002) Failed by recorded vote: 156 - 265 (Roll no. 529).
+- 2023-10-26 — On agreeing to the Perry amendment (A008) Failed by recorded vote: 135 - 284 (Roll no. 534).
+- 2023-10-26 — On agreeing to the Perry amendment (A010) Failed by recorded vote: 115 - 306 (Roll no. 536).
+- 2023-10-26 — On agreeing to the Perry amendment (A011) Failed by recorded vote: 123 - 300 (Roll no. 537).
+- 2023-10-26 — On agreeing to the Perry amendment (A012) Failed by recorded vote: 137 - 283 (Roll no. 538).
+- 2023-10-26 — On agreeing to the Perry amendment (A013) Failed by recorded vote: 105 - 316 (Roll no. 539).
+- 2023-10-26 — On agreeing to the Perry amendment (A014) Failed by recorded vote: 134 - 283 (Roll no. 540).
+- 2023-10-26 — On agreeing to the Perry amendment (A015) Failed by recorded vote: 122 - 299 (Roll no. 541).
+- 2023-10-26 — On agreeing to the Perry amendment (A016) Failed by recorded vote: 130 - 287 (Roll no. 542).
+- 2023-10-26 — On agreeing to the Perry amendment (A017) Failed by recorded vote: 122 - 295 (Roll no. 543).
+- 2023-10-26 — On agreeing to the Pfluger amendment (A039) Failed by recorded vote: 160 - 250 (Roll no. 552).
+- 2023-10-26 — On agreeing to the Pfluger amendment (A040) Failed by recorded vote: 164 - 249 (Roll no. 553).
+- 2023-10-26 — On agreeing to the Rosendale amendment (A041) Failed by recorded vote: 100 - 314 (Roll no. 554).
+- 2023-10-26 — On agreeing to the Rosendale amendment (A042) Failed by recorded vote: 76 - 335 (Roll no. 555).
+- 2023-10-26 — On agreeing to the Rosendale amendment (A043) Failed by recorded vote: 192 - 222 (Roll no. 556).
+- 2023-10-26 — On agreeing to the Roy amendment (A007) Failed by recorded vote: 137 - 287 (Roll no. 533).
+- 2023-10-26 — On agreeing to the Westerman amendment (A005) Failed by recorded vote: 212 - 213 (Roll no. 531).
+- 2023-10-26 — On motion to recommit Failed by the Yeas and Nays: 199 - 210 (Roll no. 557).
+- 2023-10-26 — On passage Passed by the Yeas and Nays: 210 - 199 (Roll no. 558).
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 36, the Chair put the question on agreeing to the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 37, the Chair put the question on agreeing to the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hageman amendment No. 39, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Fleischmann demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luna amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 47, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Kaptur demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 50, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Kaptur demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 51, the Chair put the question on agreeing to the amendment and by voice vote, announced the nays had prevailed. Mr. James demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pfluger amendment No. 56, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pfluger amendment No. 57, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 58, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Fleischmann demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 59, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Rosendale demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 60, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Rosendale demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-10-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 199 (Roll no. 558).
+- 2023-10-26 — Pursuant to clause 6(h) of rule XVIII, the Committee of the Whole resumed its sitting.
+- 2023-10-26 — Pursuant to clause 6(h) of rule XVIII, the Committee rose.
+- 2023-10-26 — Pursuant to clause 6(h) of rule XVIII, the votes of the Delegates and Resident Commissioners were decisive on the previous vote and a separate vote in the House was required.
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — Roll call votes on amendments in House
+- 2023-10-26 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4394.
+- 2023-10-26 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-10-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-10-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4394.
+- 2023-10-26 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-10-26 — The previous question was ordered pursuant to the rule.
+- 2023-10-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on agreeing to the amendments to H.R. 4394, which had been debated earlier and on which further proceedings had been postponed.
