@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 418
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 418
@@ -30,3 +30,7 @@ A resolution condemning Hamas and antisemitic student activities on college camp
 
 - 2023-10-19 — Introduced in Senate
 - 2023-10-19 — Referred to the Committee on Foreign Relations.
+- 2023-10-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: 10/19/2023 CR S5113)
+- 2023-10-26 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: 10/19/2023 CR S5113)
+- 2023-10-26 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S5200-5205)
+- 2023-10-26 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S5200-5205)
