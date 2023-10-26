@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6085
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6085
+
+> To prohibit the implementation of the Draft Resource Management Plan and Environmental Impact Statement for the Rock Springs RMP Revision, Wyoming, and for other purposes.
+
+## § 1. Restriction on Draft RMP and EIS for Rock Springs RMP Revision, Wyoming
+
+The Secretary of the Interior may not finalize, implement, administer, or enforce the Draft Resource Management Plan and Environmental Impact Statement for the Rock Springs RMP Revision, Wyoming, referred to in the notice of availability titled “Notice of Availability of the Draft Resource Management Plan and Environmental Impact Statement for the Rock Springs RMP Revision, Wyoming” published by the Bureau of Land Management on August 18, 2023 (88 Fed. Reg. 56654).
