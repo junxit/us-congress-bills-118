@@ -1,7 +1,7 @@
 ---
 measure: S. 1648
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1648
@@ -32,3 +32,5 @@ Launch Communications Act
 - 2023-09-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
 - 2023-09-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
 - 2023-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
+- 2023-10-31 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5266-5267; text: CR S5267)
+- 2023-10-31 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S5266-5267; text: CR S5267)
