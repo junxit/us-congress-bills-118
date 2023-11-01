@@ -11,158 +11,106 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hamas International Financing Prevention Act”.
+This Act may be cited as the “Hamas and Other Palestinian Terrorist Groups International Financing Prevention Act”.
 
 ## § 2. Statement of policy
 
 It shall be the policy of the United States—
 
-- **(1)** to prevent Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof from accessing its international support networks; and
-- **(2)** to oppose Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof from attempting to use goods, including medicine and dual use items, to smuggle weapons and other materials to further acts of terrorism.
+- **(1)** to prevent Hamas, Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof from accessing its international support networks; and
+- **(2)** to oppose Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof from using goods, including medicine and dual use items, to smuggle weapons and other materials to further acts of terrorism, including against Israel.
 
-## § 3. Imposition of sanctions with respect to foreign persons and agencies and instrumentalities of foreign states supporting Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof
+## § 3. Imposition of sanctions with respect to foreign persons supporting acts of terrorism or engaging in significant transactions with senior members of Hamas, Palestinian Islamic Jihad and other Palestinian terrorist organizations
 
-- **(a)** *Identification*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for a period not to exceed 3 years, the President shall submit to the appropriate congressional committees a report that identifies each foreign person or agency or instrumentality of a foreign state that the President determines—
-    - **(A)** knowingly assists in, sponsors, or provides significant financial or material support for, or financial or other services to or in support of, the terrorist activities of any person described in paragraph (2); or
-    - **(B)** directly or indirectly, knowingly and materially engaged in a significant transaction with any person described in paragraph (2).
-  - **(2)** *Person described* A person described in this paragraph is a foreign person that the President determines—
-    - **(A)** is a senior member of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof;
-    - **(B)** is a senior member of a foreign terrorist organization designated pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189) whose members directly or indirectly support the terrorist activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof by knowingly engaging in a significant transaction with, or providing financial or material support for Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof, or any person described in subparagraph (A); or
-    - **(C)** directly or indirectly, supports the terrorist activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof by knowingly and materially assisting, sponsoring, or providing financial or material support for, or goods or services to or in support of, Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof, or any person described in subparagraph (A) or (B).
-  - **(3)** *Form of report* Each report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
-  - **(4)** *Exception*
-    - **(A)** *In general* The President shall not be required to identify a foreign person or an agency or instrumentality of a foreign state in a report pursuant to paragraph (1)(B) if—
-      - **(i)** the foreign person or agency or instrumentality of a foreign state notifies the United States Government in advance that it proposes to engage in a significant transaction as described in paragraph (1)(B); and
-      - **(ii)** the President determines and notifies the appropriate congressional committees in a classified form not less than 15 days prior to the foreign person or agency or instrumentality of a foreign state engaging in the significant transaction that the significant transaction is in the national interests of the United States.
-    - **(B)** *Non-applicability* Subparagraph (A) shall not apply with respect to—
-      - **(i)** an agency or instrumentality of a foreign state which the Secretary of State determines has repeatedly provided support for acts of international terrorism pursuant to section 1754(c) of the Export Reform Control Act of 2018, section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or any other provision of law; or
-      - **(ii)** any significant transaction described in paragraph (1)(B) that involves, directly or indirectly, a foreign state described in clause (i).
-- **(b)** *Imposition of sanctions*
-  - **(1)** *In general* The President shall impose two or more of the sanctions described in paragraph (2) with respect to a foreign person or an agency or instrumentality of a foreign state identified pursuant to subsection (a).
-  - **(2)** *Sanctions described* The sanctions referred to in paragraph (1) are the following:
-    - **(A)** The President may direct the Export-Import Bank of the United States not to give approval to the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the foreign person or agency or instrumentality of the foreign state, and the Export-Import Bank of the United States shall comply with any such direction.
-    - **(B)** No sales of any defense articles, defense services, or design and construction services under the Arms Export Control Act (22 U.S.C. 2751 et seq.) may be made to the foreign person or agency or instrumentality of the foreign state.
-    - **(C)** No licenses for export of any item on the United States Munitions List that include the foreign person or agency or instrumentality of the foreign state as a party to the license may be granted.
-    - **(D)** No exports may be permitted to the foreign person or agency or instrumentality of the foreign state of any goods or technologies controlled for national security reasons under the Export Administration Regulations, except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
-    - **(E)** The President shall prohibit any United States financial institution from making loans or providing any credit or financing totaling more than $10,000,000 to the foreign person or agency or instrumentality of the foreign state, except that this subparagraph shall not apply—
-      - **(i)** to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities);
-      - **(ii)** to the provision of medicines, medical equipment, and humanitarian assistance; or
-      - **(iii)** to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodities.
-    - **(F)**
-      - **(i)** The President may exercise all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of a foreign person or agency or instrumentality of the foreign state if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-      - **(ii)** The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that knowingly violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated under section 6(b) to carry out clause (i) to the same extent that such penalties apply to a person that knowingly commits an unlawful act described in section 206(a) of that Act.
-      - **(iii)** The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out clause (i).
-  - **(3)** *Exception* The President shall not be required to apply sanctions with respect to a foreign person or an agency or instrumentality of a foreign state identified pursuant to subsection (a) if the President certifies in writing to the appropriate congressional committees that—
-    - **(A)** the foreign person or agency or instrumentality of the foreign state—
-      - **(i)** is no longer carrying out activities or transactions for which the sanctions were imposed pursuant to this subsection; or
-      - **(ii)** has taken and is continuing to take significant verifiable steps toward terminating the activities or transactions for which the sanctions were imposed pursuant to this subsection; and
-    - **(B)** the President has received reliable assurances from the foreign person or agency or instrumentality of the foreign state that it will not carry out any activities or transactions for which sanctions may be imposed pursuant to this subsection in the future.
-- **(c)** *Waiver*
-  - **(1)** *In general* The President may waive, on a case-by-case basis and for a period of not more than 180 days, a requirement under subsection (b) to impose or maintain sanctions with respect to a foreign person or agency or instrumentality of a foreign state if the President—
-    - **(A)** determines that the waiver is in the national security interest of the United States; and
-    - **(B)** not less than 30 days before the waiver takes effect, submits to the appropriate congressional committees a report on the waiver and the justification for the waiver.
-  - **(2)** *Renewal of waiver* The President may, on a case-by-case basis, renew a waiver under paragraph (1) for additional periods of not more than 180 days if the President—
-    - **(A)** determines that the renewal of the waiver is in the national security interest of the United States; and
-    - **(B)** not less than 15 days before the waiver expires, submits to the appropriate congressional committees a report on the renewal of the waiver and the justification for the renewal of the waiver.
-- **(d)** *Rule of construction* The authority to impose sanctions under subsection (b) with respect to a foreign person or an agency or instrumentality of a foreign state identified pursuant to subsection (a) is in addition to the authority to impose sanctions under any other provision of law with respect to foreign persons or agencies or instrumentalities of foreign states that directly or indirectly support international terrorism.
-- **(e)** *Definitions* In this section:
-  - **(1)** *Foreign state* The term foreign state has the meaning given such term in section 1603(a) of title 28, United States Code.
-  - **(2)** *Agency or instrumentality* The term agency or instrumentality has the meaning given such term in section 1603(b) of title 28, United States Code.
-- **(f)** *Effective date* This section shall take effect on the date of the enactment of this Act and apply with respect to activities and transactions described in subsection (a) that are carried out on or after such date of enactment.
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the President shall impose the sanctions described in subsection (c) with respect to each foreign person that the President determines, on or after the date of the enactment of this Act, engages in an activity described in subsection (b).
+- **(b)** *Activities described* A foreign person engages in an activity described in this subsection if the foreign person knowingly—
+  - **(1)** assists in sponsoring or providing significant financial, material, or technological support for, or goods or other services to enable, acts of terrorism; or
+  - **(2)** engages, directly or indirectly, in a significant transaction with—
+    - **(A)** a senior member of Hamas, Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof; or
+    - **(B)** a senior member of a foreign terrorist organization designated pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189) that is responsible for providing, directly or indirectly, support to Hamas, Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof.
+- **(c)** *Sanctions described* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person described in subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+- **(d)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+- **(e)** *Implementation; regulations*
+  - **(1)** *In general* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
+  - **(2)** *Regulations* Not later than 60 days after the date of the enactment of this Act, the President shall issue regulations or other guidance as may be necessary for the implementation of this section.
+- **(f)** *Waiver* The President may waive, on a case-by-case basis and for a period of not more than 180 days, the application of sanctions under this section with respect to a foreign person only if, not later than 15 days prior to the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is in the vital national security interests of the United States.
+- **(g)** *Humanitarian exemption* The President may waive the application of any provision of this section if the President certifies in writing to the appropriate congressional committees that such a waiver is vital to facilitate the delivery of humanitarian aid and is consistent with the national security interests of the United States 15 days prior to the waiver taking effect.
+- **(h)** *Rule of construction* The authority to impose sanctions under this section with respect to a foreign person is in addition to the authority to impose sanctions under any other provision of law with respect to a foreign person that directly or indirectly supports acts of international terrorism.
 
-## § 4. Imposition of sanctions with respect to foreign governments that provide material support for the terrorist activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof
+## § 4. Imposition of measures with respect to foreign states providing support to Hamas, Palestinian Islamic Jihad and other Palestinian terrorist organizations
 
-- **(a)** *Identification*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report that identifies the following:
-    - **(A)** Each government of a foreign country—
-      - **(i)** with respect to which the Secretary of State determines has repeatedly provided support for acts of international terrorism pursuant to section 1754(c) of the Export Control Reform Act of 2018, section 40 of the Arms Export Control Act, section 620A of the Foreign Assistance Act of 1961, or any other provision of law; and
-      - **(ii)** with respect to which the President determines has provided direct or indirect material support for the terrorist activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof.
-    - **(B)** Each government of a foreign country that—
-      - **(i)** is not identified under subparagraph (A); and
-      - **(ii)** the President determines engaged in a significant transaction so as to contribute knowingly and materially to the efforts by the government of a foreign country described in subparagraph (A)(i) to provide direct or indirect material support for the terrorist activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof.
-  - **(2)** *Form of report* Each report submitted under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
-- **(b)** *Imposition of sanctions*
-  - **(1)** *In general* The President shall impose the following sanctions with respect to each government of a foreign country identified pursuant to subparagraph (A) or (B) of subsection (a)(1):
-    - **(A)** The United States Government shall suspend, for a period of 1 year, United States assistance to the government of the foreign country.
-    - **(B)** The Secretary of the Treasury shall instruct the United States Executive Director to each appropriate international financial institution to oppose, and vote against, for a period of 1 year, the extension by such institution of any loan or financial or technical assistance to the government of the foreign country.
-    - **(C)** No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778)) or the Commerce Control List set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations, may be exported to the government of the foreign country for a period of 1 year.
-  - **(2)** *Exceptions* The President shall not be required to apply sanctions with respect to the government of a foreign country pursuant to paragraph (1)—
-    - **(A)** with respect to materials intended to be used by United States military or civilian personnel at military facilities in the country; or
-    - **(B)** if the application of such sanctions would prevent the United States from meeting the terms of any status of forces agreement to which the United States is a party.
-- **(c)** *Imposition of additional sanctions with respect to foreign governments identified under subsection (a)(1)(A)* The President shall impose the following additional sanctions with respect to each government of a foreign country identified pursuant to subsection (a)(1)(A):
-  - **(1)** The President shall, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the government of the foreign country has any interest.
-  - **(2)** The President shall, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between one or more financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the government of the foreign country.
-- **(d)** *Waiver*
-  - **(1)** *In general* The President may waive, on a case-by-case basis and for a period of not more than 180 days, a requirement under subsection (b) or (c) to impose or maintain sanctions with respect to a foreign government identified pursuant to subparagraph (A) or (B) of subsection (a)(1) if the President—
-    - **(A)** determines that the waiver is in the national security interest of the United States; and
-    - **(B)** not less than 30 days before the waiver takes effect, submits to the appropriate congressional committees a report on the waiver and the justification for the waiver.
-  - **(2)** *Renewal of waiver* The President may, on a case-by-case basis, renew a waiver under paragraph (1) for additional periods of not more than 180 days if the President—
-    - **(A)** determines that the renewal of the waiver is in the national security interest of the United States; and
-    - **(B)** not less than 15 days before the waiver expires, submits to the appropriate congressional committees a report on the renewal of the waiver and the justification for the renewal of the waiver.
-- **(e)** *Rule of construction* The authority to impose sanctions under subsection (b) or (c) with respect to each government of a foreign country identified pursuant to subparagraph (A) or (B) of subsection (a)(1) is in addition to the authority to impose sanctions under any other provision of law with respect to governments of foreign countries that provide material support to foreign terrorist organizations designated pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
-- **(f)** *Termination* The President may terminate any sanctions imposed with respect to the government of a foreign country pursuant to subsection (b) or (c) if the President determines and notifies the appropriate congressional committees that the government of the foreign country is no longer carrying out activities or transactions for which the sanctions were imposed and has provided assurances to the United States Government that it will not carry out the activities or transactions in the future.
-- **(g)** *Effective date* This section shall take effect on the date of the enactment of this Act and apply with respect to activities and transactions described in subparagraph (A) or (B) of subsection (a)(1) that are carried out on or after such date of enactment.
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the President shall impose the measures described in subsection (c) with respect to a foreign state if the President determines that the foreign state, on or after the date of the enactment of this Act, engages in an activity described in subsection (b).
+- **(b)** *Activities described* A foreign state engages in an activity described in this subsection if the foreign state knowingly—
+  - **(1)** provides significant material or financial support for acts of international terrorism, pursuant to—
+    - **(A)** section 1754(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4813(c)(1)(A));
+    - **(B)** section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+    - **(C)** section 40 of the Arms Export Control Act (22 U.S.C. 2780); or
+    - **(D)** any other provision of law;
+  - **(2)** provides significant material support to Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof; or
+  - **(3)** engages in a significant transaction that materially contributes, directly or indirectly, to the terrorist activities of Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof.
+- **(c)** *Measures described* The measures described in this subsection with respect to a foreign state are the following:
+  - **(1)** The President shall suspend, for a period of at least 1 year, United States assistance to the foreign state.
+  - **(2)** The Secretary of the Treasury shall instruct the United States Executive Director to each appropriate international financial institution to oppose, and vote against, for a period of 1 year, the extension by such institution of any loan or financial or technical assistance to the government of the foreign state.
+  - **(3)** The President shall prohibit the export of any item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778)) or the Commerce Control List set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations, to the foreign state for a period of 1 year.
+- **(d)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+- **(e)** *Waiver* The President may waive, on a case-by-case basis and for a period of not more than 180 days, the application of measures under this section with respect to a foreign state only if, not later than 15 days prior to the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is in the vital national security interests of the United States.
+- **(f)** *Implementation; regulations*
+  - **(1)** *In general* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
+  - **(2)** *Regulations* Not later than 60 days after the date of the enactment of this Act, the President shall issue regulations or other guidance as may be necessary for the implementation of this section.
+- **(g)** *Additional exemptions*
+  - **(1)** *Status of forces agreements* The President may exempt the application of measures under this section with respect to a foreign state if the application of such measures would prevent the United States from meeting the terms of any status of forces agreement to which the United States is a party.
+  - **(2)** *Authorized intelligence activities* Measures under this section shall not apply with respect to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
+  - **(3)** *Humanitarian exemption* The President may waive the application of any provision of this section if the President certifies in writing to the appropriate congressional committees that such a waiver is vital to facilitate the delivery of humanitarian aid and is consistent with the national security interests of the United States 15 days prior to the waiver taking effect.
+- **(h)** *Rule of construction* The authority to impose measures under this section with respect to a foreign state is in addition to the authority to impose measures under any other provision of law with respect to foreign states that directly or indirectly support acts of international terrorism.
 
-## § 5. Exemptions from sanctions under sections 3 and 4 relating to provision of humanitarian assistance
+## § 5. Reports on activities to disrupt global fundraising, financing, and money laundering activities of Hamas, Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den or any affiliate or successor thereof
 
-- **(a)** *Sanctions under section 3* The following activities shall be exempt from sanctions under section 3:
-  - **(1)** The conduct or facilitation of a transaction for the sale of agricultural commodities, food, medicine, or medical devices to a foreign person described in section 3(a)(2).
-  - **(2)** The provision of humanitarian assistance to a foreign person described in section 3(a)(2), including engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes or transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
-- **(b)** *Sanctions under section 4* The following activities shall be exempt from sanctions under section 4:
-  - **(1)** The conduct or facilitation of a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof described in section 4(a)(1).
-  - **(2)** The provision of humanitarian assistance to Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof described in section 4(a)(1), including engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes or transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
+- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report that includes—
+  - **(1)** an assessment of the disposition of the assets and activities of Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof related to fundraising, financing, and money laundering worldwide;
+  - **(2)** a list of foreign states that knowingly providing material, financial, or technical support for, or goods or services to Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof;
+  - **(3)** a list of foreign states in which Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof conducts significant fundraising, financing, or money laundering activities;
+  - **(4)** a list of foreign states from which Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliate or successor thereof knowingly engaged in the transfer of surveillance equipment, electronic monitoring equipment, or other means to inhibit communication or the free flow of information in Gaza; and
+  - **(5)** with respect to each foreign state listed in paragraph (2), (3), or (4)—
+    - **(A)** a description of the steps the foreign state identified is taking adequate measures to restrict financial flows to Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, or any affiliates or successors thereof; and
+    - **(B)** in the case of a foreign state failing to take adequate measures to restrict financial flows to Hamas, Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den or any other designated entity engaged in significant act of terrorism threatening the peace and security of Israel—
+      - **(i)** an assessment of the reasons that government is not taking adequate measures to restrict financial flows to those entities; and
+      - **(ii)** a description of measures being taken by the United States Government to encourage the foreign state to restrict financial flows to those entities; and
+- **(b)** *Form* Each report required by subsection (a) shall be submitted in unclassified form to the greatest extent possible, and may contain a classified annex.
 
-## § 6. Report on activities of foreign countries to disrupt global fundraising, financing, and money laundering activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof
+## § 6. Exception relating to importation of goods
 
-- **(a)** *Report*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report that includes—
-    - **(A)** a list of foreign countries that support Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof, or in which Hamas maintains important portions of its financial networks;
-    - **(B)** with respect to each foreign country on the list required by subparagraph (A)—
-      - **(i)** an assessment of whether the government of the country is taking adequate measures to freeze the assets of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof within the territory of the country; and
-      - **(ii)** in the case of a country the government of which is not taking adequate measures to freeze the assets of Hamas—
-        - **(I)** an assessment of the reasons that government is not taking adequate measures to freeze those assets; and
-        - **(II)** a description of measures being taken by the United States Government to encourage that government to freeze those assets;
-    - **(C)** a list of foreign countries in which Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof, conducts significant fundraising, financing, or money laundering activities;
-    - **(D)** with respect to each foreign country on the list required by subparagraph (C)—
-      - **(i)** an assessment of whether the government of the country is taking adequate measures to disrupt the fundraising, financing, or money laundering activities of Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof within the territory of the country; and
-      - **(ii)** in the case of a country the government of which is not taking adequate measures to disrupt those activities—
-        - **(I)** an assessment of the reasons that government is not taking adequate measures to disrupt those activities; and
-        - **(II)** a description of measures being taken by the United States Government to encourage that government to improve measures to disrupt those activities; and
-    - **(E)** a list of foreign countries from which Hamas, the Palestinian Islamic Jihad, or any affiliate or successor thereof, acquires surveillance equipment, electronic monitoring equipment, or other means to inhibit communication or political expression in Gaza.
-  - **(2)** *Form* The report required by paragraph (1) shall be submitted in unclassified form to the greatest extent possible, and may contain a classified annex.
-- **(b)** *Briefing* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter for a period not to exceed 3 years, the Secretary of State, the Secretary of the Treasury, and the heads of other applicable Federal departments and agencies (or their designees) shall provide to the appropriate congressional committees a briefing on the disposition of the assets and activities of Hamas, the Palestinian Islamic Jihad, or any successor or affiliate thereof related to fundraising, financing, and money laundering worldwide.
-- **(c)** *Definition* In this section, the term appropriate congressional committees means—
-  - **(1)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives; and
-  - **(2)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate.
+- **(a)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+- **(b)** *Good defined* In this section, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
-## § 7. Miscellaneous provisions
+## § 7. Termination
 
-- **(a)** *Rule of construction* Nothing in this Act shall be construed to apply to the authorized intelligence activities of the United States.
-- **(b)** *Regulatory authority* The President shall, not later than 180 days after the date of the enactment of this Act, promulgate regulations as are necessary for the implementation of this Act.
-- **(c)** *Exception relating to importation of goods*
-  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
-  - **(2)** *Good defined* In this subsection, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
-- **(d)** *Termination* This Act shall terminate beginning—
-  - **(1)** 30 days after the date on which the President certifies to the appropriate congressional committees that Hamas and the Palestinian Islamic Jihad, or any successor or affiliate thereof—
-    - **(A)** are no longer designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189);
-    - **(B)** are no longer subject to sanctions pursuant to—
-      - **(i)** Executive Order No. 12947 (January 23, 1995; relating to prohibiting transactions with terrorists who threaten to disrupt the Middle East peace process); and
-      - **(ii)** Executive Order No. 13224 (September 23, 2001; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism); and
-    - **(C)** meet the criteria described in paragraphs (1) through (4) of section 9 of the Palestinian Anti-Terrorism Act of 2006 (22 U.S.C. 2378b note); or
-  - **(2)** 3 years after the date of the enactment of this Act,
+This Act shall terminate on the earlier of—
+
+- **(1)** the date that is 7 years after the date of the enactment of this Act; or
+- **(2)** the date that is 30 days after the date on which the President certifies to the appropriate congressional committees that—
+  - **(A)** Hamas or any successor or affiliate thereof is no longer designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189);
+  - **(B)** Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, and any successor or affiliate thereof are no longer subject to sanctions pursuant to—
+    - **(i)** Executive Order No. 12947 (January 23, 1995; relating to prohibiting transactions with terrorists who threaten to disrupt the Middle East peace process); and
+    - **(ii)** Executive Order No. 13224 (September 23, 2001; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism); and
+  - **(C)** Hamas, the Palestinian Islamic Jihad, Al-Aqsa Martyrs Brigade, the Lion’s Den, and any successor or affiliate thereof meet the criteria described in paragraphs (1) through (4) of section 9 of the Palestinian Anti-Terrorism Act of 2006 (22 U.S.C. 2378b note).
 
 ## § 8. Definitions
 
-Except as otherwise provided, in this Act:
+In this Act:
 
-- **(1)** *Admitted* The term admitted has the meaning given such term in section 101(a)(13)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(13)(A)).
-- **(2)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-- **(3)** *Foreign person* The term foreign person means—
-  - **(A)** an individual who is not a United States person; or
-  - **(B)** a corporation, partnership, or other nongovernmental entity which is not a United States person.
-- **(4)** *Material support* The term material support has the meaning given the term material support or resources in section 2339A of title 18, United States Code.
-- **(5)** *Person* The term person means an individual or entity.
-- **(6)** *United States person* The term United States person means—
+- **(1)** *Act of terrorism* The term “act of terrorism” means an activity that—
+  - **(A)** involves a violent act or an act dangerous to human life, property, or infrastructure; and
+  - **(B)** appears to be intended to—
+    - **(i)** intimidate or coerce a civilian population;
+    - **(ii)** influence the policy of a government by intimidation or coercion; or
+    - **(iii)** affect the conduct of a government by mass destruction, assassination, kidnapping, or hostage-taking.
+- **(2)** *Admitted* The term “admitted” has the meaning given such term in section 101(a)(13)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(13)(A)).
+- **(3)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+  - **(A)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
+  - **(B)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+- **(4)** *Foreign state* The term “foreign state” has the meaning given such term in section 1603 of title 28, United States Code.
+- **(5)** *Humanitarian aid* The term “humanitarian aid” means food, medicine, and medical supplies.
+- **(6)** *Material support* The term “material support” has the meaning given the term “material support or resources” in section 2339A of title 18, United States Code.
+- **(7)** *United states person* The term “United States person” means—
   - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
   - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
