@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4527
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 29 U.S.C. § 1132
 
-> Paragraph (6) of section 502(a) of such Act is amended by striking “or (9)” and inserting “(9), or (13)”.
+> Paragraph (6) of section 502(a) of such Act is amended by striking “or (9)” and inserting “(9), or (13)”; and
 
 | | |
 |---|---|
@@ -54,4 +54,4 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1108` | add-at-end | Paragraph (2) of section 408(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1132` | add-at-end | Subsection (c) of section 502 of such Act (29 U.S.C. 1132) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Section 410 of such Act is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1185m` | amend | Section 724(a)(3) of the Employee Retirement Income Security Act (29 U.S.C. 1185m(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185m` | amend | Section 724(a)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185m(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

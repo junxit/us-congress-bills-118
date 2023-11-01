@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Health Data Access, Transparency, and Affordability Act” or the “Health DATA Act”.
+This Act may be cited as the “Health Data Access, Transparency, and Affordability Act of 2023” or the “Health DATA Act of 2023”.
 
 ## § 2. Plan fiduciary access to information
 
@@ -39,7 +39,7 @@ This Act may be cited as the “Health Data Access, Transparency, and Affordabil
   - **(1)** *In general* Subsection (c) of section 502 of such Act (29 U.S.C. 1132) is amended by adding at the end the following new paragraph:
     > - **(13)** In the case of an agreement between a group health plan and a health care provider, network or association of providers, third-party administrator, pharmacy benefit manager, or other service provider that violates the provisions of section 724, the Secretary may assess a civil penalty against such provider, network or association, third-party administrator, pharmacy benefit manager, or other service provider in the amount of $10,000 for each day during which such violation continues. Such penalty shall be in addition to other penalties as may be prescribed by law.
 
-  - **(2)** *Conforming amendment* Paragraph (6) of section 502(a) of such Act is amended by striking “or (9)” and inserting “(9), or (13)”.
+  - **(2)** *Conforming amendment* Paragraph (6) of section 502(a) of such Act is amended by striking “or (9)” and inserting “(9), or (13)”; and
 - **(c)** *Existing provisions void* Section 410 of such Act is amended by adding at the end the following new subsection:
   > - **(c)** Any provision in an agreement or instrument shall be void as against public policy if such provision—
   >   - **(1)** unduly delays or limits a plan fiduciary from accessing the de-identified claims and encounter information or data described in section 724(a)(1)(B); or
@@ -49,7 +49,7 @@ This Act may be cited as the “Health Data Access, Transparency, and Affordabil
 
 ## § 3. Updated attestation for price and quality information
 
-Section 724(a)(3) of the Employee Retirement Income Security Act (29 U.S.C. 1185m(a)(3)) is amended to read as follows:
+Section 724(a)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185m(a)(3)) is amended to read as follows:
 
 > - **(3)** *Attestation*
 >   - **(A)** *In general* Subject to subparagraph (C), the fiduciary of a group health plan or issuer offering group health insurance coverage shall annually submit to the Secretary an attestation that such plan or issuer of such coverage is in compliance with the requirements of this subsection. Such attestation shall also include a statement verifying that—
