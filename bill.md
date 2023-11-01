@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hidden Fee Disclosure Act”.
+This Act may be cited as the “Hidden Fee Disclosure Act of 2023”.
 
 ## § 2. Clarification of the application of fee disclosure requirements to covered service providers
 
@@ -82,7 +82,7 @@ This Act may be cited as the “Hidden Fee Disclosure Act”.
     >     - **(DD)** billing errors;
     >     - **(EE)** subrogation;
     >     - **(FF)** fraud; or
-    >     - **(GG)** any other reason on behalf of the covered plan, .
+    >     - **(GG)** any other reason on behalf of the covered plan.
 
   - **(2)** *Annual disclosure* Clause (v) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subsection (b)(2), is amended by adding at the end the following:
     > - **(IV)** A covered service provider, with respect to a contract or arrangement with the covered plan in connection with providing third party administration services for group health plans, shall disclose, on an annual basis not later than 60 days after the beginning of the current plan year, to a responsible plan fiduciary, in writing, the following with respect to the twelve months preceding the current plan year:
@@ -94,7 +94,7 @@ This Act may be cited as the “Hidden Fee Disclosure Act”.
     >   - **(ff)** The aggregate fees collected by the covered service provider.
     >   - **(gg)** Any other information specified by the Secretary through regulations or guidance that may be necessary for a responsible plan fiduciary to consider the merits of the contract or arrangement with the covered service provider and any conflicts of interest that may exist.
 
-  - **(3)** *Third party administration services for group health plans defined* Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subsection (b)(3), is amended by adding at the end the following:
+  - **(3)** *Third party administration services for group health plans defined* Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraphs (3) and (4) of subsection (b), is amended by adding at the end the following:
     > - **(ii)** The term third party administration services for group health plans includes any services provided by a covered service provider to a covered plan with respect to the administration of health benefits under the covered plan, including—
     >   - **(AA)** the processing, repricing, and payment of claims;
     >   - **(BB)** design, creation, and maintenance of provider networks;

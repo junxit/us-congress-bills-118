@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4508
@@ -29,3 +29,8 @@ Hidden Fee Disclosure Act of 2023
 - 2023-07-10 — Introduced in House
 - 2023-07-10 — Introduced in House
 - 2023-07-10 — Referred to the House Committee on Education and the Workforce.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held.
+- 2023-07-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2023-11-01 — Placed on the Union Calendar, Calendar No. 209.
+- 2023-11-01 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-259.
+- 2023-11-01 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-259.

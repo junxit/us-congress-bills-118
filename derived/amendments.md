@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4508
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -78,4 +78,4 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraph (3), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (iii) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subsection (b)(1), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (v) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subsection (b)(2), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subsection (b)(3), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraphs (3) and (4) of subsection (b), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
