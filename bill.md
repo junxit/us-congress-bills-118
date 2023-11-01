@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Transparency in Billing Act”.
+This Act may be cited as the “Transparency in Billing Act of 2023”.
 
 ## § 2. Honest billing requirements
 
