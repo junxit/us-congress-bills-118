@@ -2,7 +2,7 @@
 legis-num: H. RES. 599
 congress: 118th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 599
@@ -34,7 +34,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Hizballah trains and provides weapons for militias in Iraq and Yemen, further destabilizing the region and perpetuating violence in those countries;
 - Whereas Hizballah activities continue to plague Lebanon with profound economic and political instability and violence;
 - Whereas Hizballah’s cross border illicit arms and drugs trafficking undermines the Lebanese Armed Forces, the legitimate security establishment of the country as outlined in United Nations Security Council Resolution 1701 (2006);
-- Whereas, in October 2012, Hizballah Deputy Secretary General Naim Qassem stated that “[Hizballah does not] have a military wing and a political one … Every element of Hizballah, from commanders to members as well as our various capabilities, are in the service of the resistance”;
+- Whereas, in October 2012, Hizballah Deputy Secretary General Naim Qassem stated that “[Hizballah does not] have a military wing and a political one * * * Every element of Hizballah, from commanders to members as well as our various capabilities, are in the service of the resistance”;
 - Whereas the United States, Germany, the United Kingdom, the Netherlands, Estonia, Latvia, Lithuania, Slovenia, Serbia, and Kosovo, among others, have declared Hizballah in its entirety as a terror organization;
 - Whereas, in March 2016, the Gulf Cooperation Council formally branded Hizballah, in its entirety, a terrorist organization, and the League of Arab States shortly thereafter adopted the same designation;
 - Whereas the Department of the Treasury has diligently added persons and entities to the list of Specially Designated Global Terrorists who have provided material support to the Hizballah terrorist organization, thereby hampering its financing and logistical capabilities;

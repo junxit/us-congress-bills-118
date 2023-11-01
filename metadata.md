@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 599
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 599
@@ -16,7 +16,7 @@ Urging the European Union to designate Hizballah in its entirety as a terrorist 
 
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Cosponsors (29)
+## Cosponsors (41)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
@@ -47,6 +47,18 @@ Urging the European Union to designate Hizballah in its entirety as a terrorist 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
 - Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Porter, Katie [D-CA-47] (P000618)
 
 ## Committees (1)
 
@@ -57,3 +69,11 @@ Urging the European Union to designate Hizballah in its entirety as a terrorist 
 - 2023-07-18 — Introduced in House
 - 2023-07-18 — Introduced in House
 - 2023-07-18 — Referred to the House Committee on Foreign Affairs.
+- 2023-10-19 — Committee Consideration and Mark-up Session Held
+- 2023-10-19 — Ordered to be Reported by the Yeas and Nays: 47 - 0.
+- 2023-11-01 — Considered under suspension of the rules. (consideration: CR H5197-5199)
+- 2023-11-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 599.
+- 2023-11-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-01 — Mr. Lawler moved to suspend the rules and agree to the resolution.
+- 2023-11-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5197)
+- 2023-11-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5197)
