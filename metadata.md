@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4366
@@ -16,11 +16,238 @@ Consolidated Appropriations Act, 2024
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
+## Cosponsors (224)
+
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+
 ## Committees (1)
 
 - House — Appropriations Committee
 
-## Recorded votes (12)
+## Recorded votes (28)
 
 - 2023-07-26 — [House 118-1-369](votes/house-118-1-0369.md) — On Agreeing to the Amendment — **Agreed to** (394–19)
 - 2023-07-26 — [House 118-1-370](votes/house-118-1-0370.md) — On Agreeing to the Amendment — **Failed** (99–327)
@@ -34,6 +261,22 @@ Consolidated Appropriations Act, 2024
 - 2023-07-26 — [House 118-1-378](votes/house-118-1-0378.md) — On Agreeing to the Amendment — **Agreed to** (222–212)
 - 2023-07-27 — [House 118-1-379](votes/house-118-1-0379.md) — On Motion to Recommit — **Failed** (206–219)
 - 2023-07-27 — [House 118-1-380](votes/house-118-1-0380.md) — On Passage — **Passed** (219–211)
+- 2023-09-12 — [Senate 118-1-227](votes/senate-118-1-0227.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–12)
+- 2023-09-14 — [Senate 118-1-228](votes/senate-118-1-0228.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (91–7)
+- 2023-09-20 — [Senate 118-1-233](votes/senate-118-1-0233.md) — On the Cloture Motion — **Cloture Motion Rejected** (49–48)
+- 2023-10-25 — [Senate 118-1-266](votes/senate-118-1-0266.md) — On the Amendment — **Amendment Agreed to** (59–38)
+- 2023-10-25 — [Senate 118-1-267](votes/senate-118-1-0267.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2023-10-25 — [Senate 118-1-268](votes/senate-118-1-0268.md) — On the Amendment — **Amendment Agreed to** (53–45)
+- 2023-10-25 — [Senate 118-1-269](votes/senate-118-1-0269.md) — On the Amendment — **Amendment Rejected** (56–42)
+- 2023-10-26 — [Senate 118-1-271](votes/senate-118-1-0271.md) — On the Amendment — **Amendment Rejected** (35–62)
+- 2023-10-31 — [Senate 118-1-277](votes/senate-118-1-0277.md) — On the Amendment — **Amendment Agreed to** (61–36)
+- 2023-10-31 — [Senate 118-1-278](votes/senate-118-1-0278.md) — On the Amendment — **Amendment Rejected** (47–49)
+- 2023-10-31 — [Senate 118-1-279](votes/senate-118-1-0279.md) — On the Amendment — **Amendment Rejected** (45–50)
+- 2023-11-01 — [Senate 118-1-280](votes/senate-118-1-0280.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2023-11-01 — [Senate 118-1-281](votes/senate-118-1-0281.md) — On the Amendment — **Amendment Rejected** (23–74)
+- 2023-11-01 — [Senate 118-1-282](votes/senate-118-1-0282.md) — On the Amendment — **Amendment Rejected** (52–45)
+- 2023-11-01 — [Senate 118-1-283](votes/senate-118-1-0283.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2023-11-01 — [Senate 118-1-284](votes/senate-118-1-0284.md) — On Passage of the Bill — **Bill Passed** (82–15)
 
 ## Actions
 
@@ -177,3 +420,850 @@ Consolidated Appropriations Act, 2024
 - 2023-07-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 380).
 - 2023-07-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4366.
 - 2023-09-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.
+- 2023-09-07 — 
+- 2023-09-07 — Cloture motion on the motion to proceed presented in Senate. (CR S4261)
+- 2023-09-07 — Motion to proceed to consideration of measure made in Senate.
+- 2023-09-07 — Senate amendment submitted
+- 2023-09-07 — Senate amendment submitted
+- 2023-09-11 — 
+- 2023-09-11 — Senate amendment submitted
+- 2023-09-11 — Senate amendment submitted
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — 
+- 2023-09-12 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 85 - 12. Record Vote Number: 227.
+- 2023-09-12 — Motion to proceed to measure considered in Senate. (consideration: CR S4365)
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-12 — Senate amendment submitted
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — 
+- 2023-09-13 — Motion to proceed to measure considered in Senate. (consideration: CR S4421)
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-13 — Senate amendment submitted
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — 
+- 2023-09-14 — Amendment SA 1092 proposed by Senator Schumer for Senator Murray. (consideration: CR S4504) In the nature of a substitute.
+- 2023-09-14 — Amendment SA 1205 proposed by Senator Murray to Amendment SA 1092. (consideration: CR S4504) To change the effective date.
+- 2023-09-14 — Amendment SA 1207 proposed by Senator Schumer. (consideration: CR S4504) To change the effective date.
+- 2023-09-14 — Measure laid before Senate by motion. (consideration: CR S4501-4515)
+- 2023-09-14 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1207) made in Senate.
+- 2023-09-14 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 228.
+- 2023-09-14 — Motion to proceed to measure considered in Senate. (consideration: CR S4501)
+- 2023-09-14 — Senate amendment proposed (on the floor): Amendment SA 1092 proposed by Senator Schumer for Senator Murray.
+- 2023-09-14 — Senate amendment proposed (on the floor): Amendment SA 1205 proposed by Senator Murray to Amendment SA 1092.(consideration: CR S4504)
+- 2023-09-14 — Senate amendment proposed (on the floor): Amendment SA 1207 proposed by Senator Schumer.(consideration: CR S4504)
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-14 — Senate amendment submitted
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — 
+- 2023-09-18 — Amendment SA 1230 proposed by Senator Schumer. To change the effective date.
+- 2023-09-18 — Cloture motion on the motion to suspend the rules under Rule V to permit the consideration of amendment SA1092 presented in Senate.
+- 2023-09-18 — Considered by Senate. (consideration: CR S4543)
+- 2023-09-18 — Considered by Senate. (consideration: CR S4543)
+- 2023-09-18 — Considered by Senate. (consideration: CR S4543-4545)
+- 2023-09-18 — Considered by Senate. (consideration: CR S4543-4550)
+- 2023-09-18 — Motion by Senator Murray to suspend the rules under Rule V to permit the consideration of amendment SA1092 made in Senate.
+- 2023-09-18 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1207) withdrawn in Senate.
+- 2023-09-18 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1230) made in Senate. (text: CR S4545)
+- 2023-09-18 — Proposed amendment SA 1207 withdrawn in Senate.
+- 2023-09-18 — Senate amendment proposed (on the floor): Amendment SA 1230 proposed by Senator Schumer.
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-18 — Senate amendment submitted
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — 
+- 2023-09-19 — Considered by Senate. (consideration: CR S4572)
+- 2023-09-19 — Considered by Senate. (consideration: CR S4572)
+- 2023-09-19 — Considered by Senate. (consideration: CR S4572)
+- 2023-09-19 — Considered by Senate. (consideration: CR S4572)
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-19 — Senate amendment submitted
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — 
+- 2023-09-20 — Cloture on the motion to suspend the rules under Rule V to permit the consideration of amendment SA1092 not invoked in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 233. (CR S4618-4619)
+- 2023-09-20 — Considered by Senate. (consideration: CR S4609)
+- 2023-09-20 — Considered by Senate. (consideration: CR S4609)
+- 2023-09-20 — Considered by Senate. (consideration: CR S4609-4610, S4618-4619)
+- 2023-09-20 — Considered by Senate. (consideration: CR S4609-4610, S4618-4619)
+- 2023-09-20 — Motion by Senator Schumer to reconsider the vote by which cloture on the motion to suspend the rules under Rule V to permit the consideration of amendment SA1092 was not invoked (Record Vote No. 233) entered in Senate.
+- 2023-09-20 — Roll call votes on amendments in Senate: Cloture on the motion to suspend the rules under Rule V to permit the consideration of amendment SA1092 not invoked in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 233.
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-20 — Senate amendment submitted
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — 
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-21 — Senate amendment submitted
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-29 — 
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-10-16 — 
+- 2023-10-16 — 
+- 2023-10-16 — Senate amendment submitted
+- 2023-10-16 — Senate amendment submitted
+- 2023-10-16 — Senate amendment submitted
+- 2023-10-16 — Senate amendment submitted
+- 2023-10-17 — 
+- 2023-10-17 — 
+- 2023-10-17 — 
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-17 — Senate amendment submitted
+- 2023-10-18 — 
+- 2023-10-18 — 
+- 2023-10-18 — Senate amendment submitted
+- 2023-10-18 — Senate amendment submitted
+- 2023-10-18 — Senate amendment submitted
+- 2023-10-18 — Senate amendment submitted
+- 2023-10-19 — 
+- 2023-10-19 — Senate amendment submitted
+- 2023-10-19 — Senate amendment submitted
+- 2023-10-24 — 
+- 2023-10-24 — 
+- 2023-10-24 — Senate amendment submitted
+- 2023-10-24 — Senate amendment submitted
+- 2023-10-24 — Senate amendment submitted
+- 2023-10-24 — Senate amendment submitted
+- 2023-10-25 — Amendment SA 1113 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1113 proposed by Senator Murray for Senator Hirono to Amendment SA 1092. (consideration: CR S5160-5163) To provide funding for competitive grants for construction of agricultural research facilities and related activities, with an offset.
+- 2023-10-25 — Amendment SA 1115 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1115 proposed by Senator Murray for Senator Stabenow to Amendment SA 1092. (consideration: CR S5160-5163) To provide funding for the Urban Agriculture and Innovative Production Program.
+- 2023-10-25 — Amendment SA 1116 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1116 proposed by Senator Murray for Senator Kelly to Amendment SA 1092. (consideration: CR S5160-5163) To require medical facilities of the Department of Veterans Affairs to share certain data with State cancer registries.
+- 2023-10-25 — Amendment SA 1117 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1117 proposed by Senator Murray for Senator Rosen to Amendment SA 1092. (consideration: CR S5160-5163) To make amounts available to the Veterans Health Administration to sustain and increase telehealth capacity and associated programmatic efforts.
+- 2023-10-25 — Amendment SA 1120 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1120 proposed by Senator Murray for Senator Schatz to Amendment SA 1092. (consideration: CR S5160-5163) To extend the period of availability for fiscal year 2021 national infrastructure investments.
+- 2023-10-25 — Amendment SA 1131 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1131 proposed by Senator Murray for Senator Shaheen to Amendment SA 1092. (consideration: CR S5160-5163) To require a report on the use of third-party contractors to conduct medical disability examinations of veterans.
+- 2023-10-25 — Amendment SA 1133 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1133 proposed by Senator Murray for Senator Kelly to Amendment SA 1092. (consideration: CR S5160-5163) To require a report relating to rural community facilities direct loan applicants.
+- 2023-10-25 — Amendment SA 1134 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1134 proposed by Senator Murray for Senator Smith to Amendment SA 1092. (consideration: CR S5160-5163) To require the submission of a report on improving staffing at the Farm Service Agency and the Natural Resources Conservation Service at the county level.
+- 2023-10-25 — Amendment SA 1139 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1139 proposed by Senator Murray for Senator Padilla to Amendment SA 1092. (consideration: CR S5160-5163) To provide for the development of emergency evacuation route planning guidelines and best practices.
+- 2023-10-25 — Amendment SA 1140 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1140 proposed by Senator Murray for Senator Padilla to Amendment SA 1092. (consideration: CR S5160-5163) To improve housing assistance for veterans experiencing homelessness.
+- 2023-10-25 — Amendment SA 1175 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1175 proposed by Senator Murray for Senator Booker to Amendment SA 1092. (consideration: CR S5160-5163) To increase funding for rural decentralized water systems.
+- 2023-10-25 — Amendment SA 1185 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1185 proposed by Senator Murray for Senator Daines to Amendment SA 1092. (consideration: CR S5160-5163) To require the Secretary of Veterans Affairs to submit to Congress an earned value analysis of the Veterans Electronic Health Record system of the Department of Veterans Affairs.
+- 2023-10-25 — Amendment SA 1202 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1202 proposed by Senator Murray for Senator Reed to Amendment SA 1092. (consideration: CR S5160-5163) To appropriate amounts for shellfish research, with an offset.
+- 2023-10-25 — Amendment SA 1203 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1203 proposed by Senator Murray for Senator Klobuchar to Amendment SA 1092. (consideration: CR S5160-5163) To make funds available for the aeronautical information management program.
+- 2023-10-25 — Amendment SA 1210 agreed to in Senate by Yea-Nay Vote. 59 - 38. Record Vote Number: 266.
+- 2023-10-25 — Amendment SA 1210 proposed by Senator Vance to Amendment SA 1092. (consideration: CR S5163-5164) To prohibit funds appropriated for the Department of Transportation for fiscal year 2024 from being used to enforce a mask mandate in response to the COVID-19 virus.
+- 2023-10-25 — Amendment SA 1216 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1216 proposed by Senator Murray for Senator Sullivan to Amendment SA 1092. (consideration: CR S5160-5163) To prioritize the use of funds for certain telehealth services and mental health programs for veterans.
+- 2023-10-25 — Amendment SA 1220 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1220 proposed by Senator Murray for Senator Rosen to Amendment SA 1092. (consideration: CR S5160-5163) To provide funding for the suppression and control of Mormon crickets in western States.
+- 2023-10-25 — Amendment SA 1221 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1221 proposed by Senator Murray for Senator Sullivan to Amendment SA 1092. (consideration: CR S5160-5163) To prohibit the use of funds to procure seafood from China for use in school meals.
+- 2023-10-25 — Amendment SA 1232 proposed by Senator Lankford to Amendment SA 1092. (consideration: CR S5176-5177) To provide for a period of continuing appropriations in the event of a lapse in appropriations under the normal appropriations process, and establish procedures and consequences in the event of a failure to enact appropriations.
+- 2023-10-25 — Amendment SA 1232, under the order of 10/24/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 269.
+- 2023-10-25 — Amendment SA 1237 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 267.
+- 2023-10-25 — Amendment SA 1237 proposed by Senator Graham for Senator Rubio to Amendment SA 1092. (consideration: CR S5168) To prohibit the use of funds to implement the final rule regarding energy efficient standards for certain subsidized housing.
+- 2023-10-25 — Amendment SA 1250 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1250 proposed by Senator Murray for Senator Moran to Amendment SA 1092. (consideration: CR S5160-5163) To prohibit the use of funds appropriated by division A to change rates for reimbursement for transportation via a special mode of transportation under the laws administered by the Secretary of Veterans Affairs and to reduce certain amounts available to the Department of Veterans Affairs.
+- 2023-10-25 — Amendment SA 1255 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1255 proposed by Senator Murray for Senator Ossoff to Amendment SA 1092. (consideration: CR S5160-5163) To provide funds for the Office of Women's Health of the Department of Veterans Affairs to expand access of women veterans to mammography initiatives and equipment.
+- 2023-10-25 — Amendment SA 1264 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1264 proposed by Senator Murray for Senator Tillis to Amendment SA 1092. (consideration: CR S5160-5163) To require a review regarding veterans who engaged in toxic exposure risk activities while serving in Kosovo.
+- 2023-10-25 — Amendment SA 1270 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1270 proposed by Senator Murray for Senator Britt to Amendment SA 1092. (consideration: CR S5160-5163) To provide appropriations for certain research using plant genomics, with an offset.
+- 2023-10-25 — Amendment SA 1277 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1277 proposed by Senator Murray for Senator Cardin to Amendment SA 1092. (consideration: CR S5160-5163) To provide funding for invasive catfish control.
+- 2023-10-25 — Amendment SA 1283 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1283 proposed by Senator Murray for Senator Peters to Amendment SA 1092. (consideration: CR S5160-5163) To provide funding for the emergency and transitional pet shelter and housing assistance grant program.
+- 2023-10-25 — Amendment SA 1351 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1351 proposed by Senator Murray for Senator Warnock to Amendment SA 1092. (consideration: CR S5160-5163) To require the Secretary of Transportation to report on the Federal Aviation Administration's workforce development programs.
+- 2023-10-25 — Amendment SA 1352 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Amendment SA 1352 proposed by Senator Murray for Senator Merkley to Amendment SA 1092. (consideration: CR S5160-5163) To increase the set-aside for multi-benefit projects under the watershed and flood prevention operations program.
+- 2023-10-25 — Amendment SA 1354 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 268.
+- 2023-10-25 — Amendment SA 1354 proposed by Senator Kennedy to Amendment SA 1092. (consideration: CR S5168-5169) To prohibit the availability of funds for the Secretary of Veterans Affairs to report certain information to the Department of Justice for use by the National Instant Criminal Background Check System.
+- 2023-10-25 — Considered by Senate. (consideration: CR S5155)
+- 2023-10-25 — Considered by Senate. (consideration: CR S5155-5177)
+- 2023-10-25 — Considered by Senate. (consideration: CR S5155-5177)
+- 2023-10-25 — Considered by Senate. (consideration: S5160-5163)
+- 2023-10-25 — Motion by Senator Schumer to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1230) withdrawn in Senate by Unanimous Consent.
+- 2023-10-25 — Proposed amendment SA 1205 withdrawn in Senate.
+- 2023-10-25 — Proposed amendment SA 1230 withdrawn in Senate.
+- 2023-10-25 — Roll call votes on amendments in Senate: Amendment SA 1210 agreed to in Senate by Yea-Nay Vote. 59 - 38. Record Vote Number: 266.
+- 2023-10-25 — Roll call votes on amendments in Senate: Amendment SA 1232, under the order of 10/24/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 269.
+- 2023-10-25 — Roll call votes on amendments in Senate: Amendment SA 1237 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 267.
+- 2023-10-25 — Roll call votes on amendments in Senate: Amendment SA 1354 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 268.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1113 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1115 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1116 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1117 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1120 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1131 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1133 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1134 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1139 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1140 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1175 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1185 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1202 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1203 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1210 agreed to in Senate by Yea-Nay Vote. 59 - 38. Record Vote Number: 266.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1216 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1220 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1221 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1250 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1255 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1264 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1270 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1277 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1283 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1351 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1352 agreed to in Senate by Voice Vote.
+- 2023-10-25 — Senate amendment agreed to: Amendment SA 1354 agreed to in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 268.
+- 2023-10-25 — Senate amendment not agreed to: Amendment SA 1232, under the order of 10/24/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 269.
+- 2023-10-25 — Senate amendment not agreed to: Amendment SA 1237 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 267.
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1113 proposed by Senator Murray for Senator Hirono to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1115 proposed by Senator Murray for Senator Stabenow to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1116 proposed by Senator Murray for Senator Kelly to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1117 proposed by Senator Murray for Senator Rosen to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1120 proposed by Senator Murray for Senator Schatz to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1131 proposed by Senator Murray for Senator Shaheen to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1133 proposed by Senator Murray for Senator Kelly to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1134 proposed by Senator Murray for Senator Smith to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1139 proposed by Senator Murray for Senator Padilla to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1140 proposed by Senator Murray for Senator Padilla to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1175 proposed by Senator Murray for Senator Booker to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1185 proposed by Senator Murray for Senator Daines to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1202 proposed by Senator Murray for Senator Reed to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1203 proposed by Senator Murray for Senator Klobuchar to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1210 proposed by Senator Vance to Amendment SA 1092.(consideration: CR S5163-5164)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1216 proposed by Senator Murray for Senator Sullivan to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1220 proposed by Senator Murray for Senator Rosen to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1221 proposed by Senator Murray for Senator Sullivan to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1232 proposed by Senator Lankford to Amendment SA 1092.(consideration: CR S5176-5177)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Graham for Senator Rubio to Amendment SA 1092.(consideration: CR S5168)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1250 proposed by Senator Murray for Senator Moran to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1255 proposed by Senator Murray for Senator Ossoff to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1264 proposed by Senator Murray for Senator Tillis to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1270 proposed by Senator Murray for Senator Britt to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1277 proposed by Senator Murray for Senator Cardin to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1283 proposed by Senator Murray for Senator Peters to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1351 proposed by Senator Murray for Senator Warnock to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1352 proposed by Senator Murray for Senator Merkley to Amendment SA 1092.(consideration: CR S5160-5163)
+- 2023-10-25 — Senate amendment proposed (on the floor): Amendment SA 1354 proposed by Senator Kennedy to Amendment SA 1092.(consideration: CR S5168-5169)
+- 2023-10-26 — Amendment SA 1182 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 271.
+- 2023-10-26 — Amendment SA 1182 proposed by Senator Braun to Amendment SA 1092. (consideration: CR S5206) To prohibit earmarks.
+- 2023-10-26 — Considered by Senate. (consideration: CR S5197)
+- 2023-10-26 — Considered by Senate. (consideration: CR S5197-5200, S5205-5206)
+- 2023-10-26 — Roll call votes on amendments in Senate: Amendment SA 1182 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 271.
+- 2023-10-26 — Senate amendment not agreed to: Amendment SA 1182 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 271.
+- 2023-10-26 — Senate amendment proposed (on the floor): Amendment SA 1182 proposed by Senator Braun to Amendment SA 1092.(consideration: CR S5206)
+- 2023-10-31 — Amendment SA 1177 agreed to in Senate by Voice Vote.
+- 2023-10-31 — Amendment SA 1177 proposed by Senator Ernst to Amendment SA 1092. (consideration: CR S5247-5249) To require reporting regarding telework by employees of agencies funded under the Consolidated Appropriations Act, 2024.
+- 2023-10-31 — Amendment SA 1200 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 277.
+- 2023-10-31 — Amendment SA 1200 proposed by Senator Hawley to Amendment SA 1092. (consideration: CR S5244-5245) To prohibit the use of funds for providing grants, funding, or any financial benefit to Chinese entities.
+- 2023-10-31 — Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 279.
+- 2023-10-31 — Amendment SA 1243 proposed by Senator Budd to Amendment SA 1092. (consideration: CR S5247) To prohibit the use of funds to implement or enforce Executive Order 14019.
+- 2023-10-31 — Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 278.
+- 2023-10-31 — Amendment SA 1296 proposed by Senator Cruz to Amendment SA 1092. (consideration: CR S5245-5246) To prohibit using funds to pay the salary of an individual who was nominated to the position of Administrator of the National Highway Traffic Safety Administration and whose nomination was subsequently withdrawn.
+- 2023-10-31 — Amendment SA 1349 agreed to in Senate by Voice Vote.
+- 2023-10-31 — Amendment SA 1349 proposed by Senator Collins for Senator Blackburn to Amendment SA 1092. (consideration: CR S5246-5247) To withhold Federal funding from the Department of Transportation for awarding any Federal assistance to entities from certain foreign countries for projects related to unmanned aircraft systems, and for other purposes.
+- 2023-10-31 — Considered by Senate. (consideration: CR S5244)
+- 2023-10-31 — Considered by Senate. (consideration: CR S5244-5249)
+- 2023-10-31 — Roll call votes on amendments in Senate: Amendment SA 1200 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 277.
+- 2023-10-31 — Roll call votes on amendments in Senate: Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 279.
+- 2023-10-31 — Roll call votes on amendments in Senate: Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 278.
+- 2023-10-31 — Senate amendment agreed to: Amendment SA 1177 agreed to in Senate by Voice Vote.
+- 2023-10-31 — Senate amendment agreed to: Amendment SA 1200 agreed to in Senate by Yea-Nay Vote. 61 - 36. Record Vote Number: 277.
+- 2023-10-31 — Senate amendment agreed to: Amendment SA 1349 agreed to in Senate by Voice Vote.
+- 2023-10-31 — Senate amendment not agreed to: Amendment SA 1243 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 279.
+- 2023-10-31 — Senate amendment not agreed to: Amendment SA 1296 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 278.
+- 2023-10-31 — Senate amendment proposed (on the floor): Amendment SA 1177 proposed by Senator Ernst to Amendment SA 1092.(consideration: CR S5247-5249)
+- 2023-10-31 — Senate amendment proposed (on the floor): Amendment SA 1200 proposed by Senator Hawley to Amendment SA 1092.(consideration: CR S5244-5245)
+- 2023-10-31 — Senate amendment proposed (on the floor): Amendment SA 1243 proposed by Senator Budd to Amendment SA 1092.(consideration: CR S5247)
+- 2023-10-31 — Senate amendment proposed (on the floor): Amendment SA 1296 proposed by Senator Cruz to Amendment SA 1092.(consideration: CR S5245-5246)
+- 2023-10-31 — Senate amendment proposed (on the floor): Amendment SA 1349 proposed by Senator Collins for Senator Blackburn to Amendment SA 1092.(consideration: CR S5246-5247)
+- 2023-11-01 — Amendment SA 1092 agreed to in Senate by Voice Vote.
+- 2023-11-01 — Amendment SA 1121 proposed by Senator Paul for Senator Lee to Amendment SA 1092. (consideration: CR S5282) To require congressional review of certain agency rulemaking.
+- 2023-11-01 — Amendment SA 1121, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 283.
+- 2023-11-01 — Amendment SA 1217 proposed by Senator Paul to Amendment SA 1092. (consideration: CR S5274-5275) To require a full audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks by the Comptroller General of the United States.
+- 2023-11-01 — Amendment SA 1217, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 280.
+- 2023-11-01 — Amendment SA 1241 proposed by Senator Cramer to Amendment SA 1092. (consideration: CR S5274) To prohibit the use of funds to finalize, implement, administer, or enforce the proposed rule of the Federal Highway Administration relating to greenhouse gas emissions performance measures.
+- 2023-11-01 — Amendment SA 1249 proposed by Senator Cruz to Amendment SA 1092. (consideration: CR S5281-5282) To ensure that United States diplomats and officials of the U.S. Section of the International Boundary and Water Commission are able to advance efforts seeking compliance by the United Mexican States with the 1944 Treaty on Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande.
+- 2023-11-01 — Amendment SA 1249, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 282.
+- 2023-11-01 — Amendment SA 1347 proposed by Senator Paul to Amendment SA 1092. (consideration: CR S5276) To reduce the amounts appropriated in divisions B and C and to rescind amounts appropriated to the Internal Revenue Service.
+- 2023-11-01 — Amendment SA 1347, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 281.
+- 2023-11-01 — Considered by Senate. (consideration: CR S5269, S5274-5276, S5281-5283)
+- 2023-11-01 — Considered by Senate. (consideration: CR S5269, S5282)
+- 2023-11-01 — Motion by Senator Schumer to reconsider the vote by which cloture on the motion to suspend the rules under Rule V to permit the consideration of amendment SA1092 was not invoked (Record Vote No. 233) rendered moot in Senate.
+- 2023-11-01 — Passed Senate, under the order of 10/24/23, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 82 - 15. Record Vote Number: 284.
+- 2023-11-01 — Passed/agreed to in Senate: Passed Senate, under the order of 10/24/23, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 82 - 15. Record Vote Number: 284.
+- 2023-11-01 — Proposed amendment SA 1241 withdrawn in Senate.
+- 2023-11-01 — Roll call votes on amendments in Senate: Amendment SA 1121, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 283.
+- 2023-11-01 — Roll call votes on amendments in Senate: Amendment SA 1217, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 280.
+- 2023-11-01 — Roll call votes on amendments in Senate: Amendment SA 1249, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 282.
+- 2023-11-01 — Roll call votes on amendments in Senate: Amendment SA 1347, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 281.
+- 2023-11-01 — Senate amendment agreed to: Amendment SA 1092 agreed to in Senate by Voice Vote.
+- 2023-11-01 — Senate amendment not agreed to: Amendment SA 1121, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 283.
+- 2023-11-01 — Senate amendment not agreed to: Amendment SA 1217, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 280.
+- 2023-11-01 — Senate amendment not agreed to: Amendment SA 1249, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 282.
+- 2023-11-01 — Senate amendment not agreed to: Amendment SA 1347, under the order of 10/24/23, having not achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 281.
+- 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1121 proposed by Senator Paul for Senator Lee to Amendment SA 1092.(consideration: CR S5282)
+- 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1217 proposed by Senator Paul to Amendment SA 1092.(consideration: CR S5274-5275)
+- 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1241 proposed by Senator Cramer to Amendment SA 1092.(consideration: CR S5274)
+- 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1249 proposed by Senator Cruz to Amendment SA 1092.(consideration: CR S5281-5282)
+- 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1347 proposed by Senator Paul to Amendment SA 1092.(consideration: CR S5276)
