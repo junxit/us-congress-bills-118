@@ -1,0 +1,45 @@
+---
+legis-num: H.R. 6129
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6129
+
+> To require the Council on Environmental Quality to publish an annual report on environmental reviews and causes of action based on compliance with the National Environmental Policy Act of 1969, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Studying NEPA’s Impact on Projects Act”.
+
+## § 2. Annual report on NEPA’s impact on projects
+
+Section 201 of the National Environmental Policy Act of 1969 (42 U.S.C. 4341) is amended to read as follows:
+
+> ## § 201. Annual report on NEPA’s impact on projects
+>
+> - **(a)** *Report required* Beginning July 1, 2024, the Council on Environmental Quality shall annually publish on the website of the Council on Environmental Quality, and submit to Congress, a report on—
+>   - **(1)** each cause of action based on compliance with this Act filed during the period beginning June 1 of the preceding year and ending June 1 of the current year, which shall identify—
+>     - **(A)** with respect to each such cause of action, the lead defendant Federal agency and the lead plaintiff;
+>     - **(B)** the number of such causes of action, disaggregated by the lead defendant Federal agency;
+>     - **(C)** the alleged basis for each such cause of action, disaggregated by type; and
+>     - **(D)** the status and outcome, if applicable, of each cause of action based on compliance with this Act filed during the period beginning June 1 of the preceding year and ending June 1 of the current year, including whether—
+>       - **(i)** the cause of action resulted in the major Federal action being reversed;
+>       - **(ii)** the lead defendant Federal agency was allowed to move forward with the major Federal action;
+>       - **(iii)** the court issued a ruling directing the lead defendant Federal agency to take additional measures to be in compliance;
+>       - **(iv)** the lead plaintiff and the lead defendant Federal agency settled amongst themselves; and
+>       - **(v)** the cause of action is still in progress;
+>   - **(2)** the length of environmental impact statements prepared pursuant to section 102(2)(C) during the period of 5 years that ends on June 1 of the current year, which shall include—
+>     - **(A)** the average and median page count of each draft and final environmental impact statement (including the appendix) published in the Federal Register during such period of 5 years, including such page counts disaggregated by quartiles;
+>     - **(B)** the number of draft and final environmental impact statements published in the Federal Register during such period of 5 years, disaggregated by lead Federal agency and subagency as applicable; and
+>     - **(C)** a description of trends in average and median page count of draft and final environmental impact statements published in the Federal Register during such period of 5 years compared to prior reports published by the Council on Environmental Quality; and
+>   - **(3)** the timelines to complete environmental reviews pursuant to section 102(2)(C) during the period of 10 years that ends on June 1 of the current year, which shall include—
+>     - **(A)** with respect to each major Federal action commenced during such period of 10 years, the date on which (as applicable)—
+>       - **(i)** the notice of intent to prepare the environmental impact statement was published in the Federal Register;
+>       - **(ii)** the draft environmental impact statement was published in the Federal Register;
+>       - **(iii)** the final environmental impact statement was published in the Federal Register; and
+>       - **(iv)** the record of decision was published in the Federal Register;
+>     - **(B)** the average and median publication timelines during such period of 10 years for each document described in subparagraph (A); and
+>     - **(C)** a description of trends in completion times during such period of 10 years for such documents compared to prior reports published by the Council on Environmental Quality.
+> - **(b)** *Public availability of data* The Council on Environmental Quality shall publish with each report published under subsection (a) the underlying data used to prepare each such report.
