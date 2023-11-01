@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 6156
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6156
+
+> To require the Administrator of the Small Business Administration to designate a point of contact for for-profit child care providers, submit a report to Congress, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Child Care Small Business Insight and Improvement Act of 2023”.
+
+## § 2. Report on for-profit child care providers
+
+- **(a)** *In general* Not later than 120 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a study and report on for-profit child care providers that includes—
+  - **(1)** an assessment of the challenges and needs of such providers;
+  - **(2)** a description of the resources and support that the Small Business Administration provides to such providers;
+  - **(3)** any deficiencies in the resources and support described under paragraph (2); and
+  - **(4)** any recommendations for legislative actions necessary to address any challenges or needs faced by such providers that are identified by the report required in this subsection.
+- **(b)** *Designated employee duties* The Administrator of the Small Business Administration shall designate a full-time employee within the Administration as a point of contact for for-profit child care providers. Such employee shall—
+  - **(1)** carry out the study required under subsection (a); and
+  - **(2)** provide recommendations to the Administrator on how to better deliver existing resources and support to for-profit child care providers.
+- **(c)** *For-Profit child care provider defined* The term for-profit child care provider has the meaning given the term eligible child care provider in section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n) and is a provider that operates—
+  - **(1)** on a for-profit basis; and
+  - **(2)** in one or more of the several States or the District of Columbia.
+- **(d)** *Compliance with CUTGO* No additional amounts are authorized to be appropriated to carry out this Act. This Act shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
