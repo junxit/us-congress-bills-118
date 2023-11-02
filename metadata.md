@@ -1,7 +1,7 @@
 ---
 measure: S. 1973
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1973
@@ -35,3 +35,5 @@ All-American Flag Act
 - 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-94.
 - 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-94.
 - 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
+- 2023-11-02 — Passed Senate with an amendment by Unanimous Consent.
+- 2023-11-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
