@@ -1,7 +1,7 @@
 ---
 measure: S. 1973
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1973
@@ -37,3 +37,18 @@ All-American Flag Act
 - 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
 - 2023-11-02 — Passed Senate with an amendment by Unanimous Consent.
 - 2023-11-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2023-11-06 — Held at the desk.
+- 2023-11-06 — Message on Senate action sent to the House.
+- 2023-11-06 — Received in the House.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4716-4717)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on S. 1973.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4716)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4716)
+- 2024-07-25 — Presented to President.
+- 2024-07-25 — Presented to President.
+- 2024-07-30 — Became Public Law No: 118-74.
+- 2024-07-30 — Became Public Law No: 118-74.
+- 2024-07-30 — Signed by President.
+- 2024-07-30 — Signed by President.
