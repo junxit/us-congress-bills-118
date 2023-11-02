@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6126
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6126
@@ -16,7 +16,7 @@ Israel Security Supplemental Appropriations Act, 2024
 
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
-## Cosponsors (100)
+## Cosponsors (110)
 
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
@@ -118,12 +118,26 @@ Israel Security Supplemental Appropriations Act, 2024
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
 
 ## Committees (3)
 
 - House — Ways and Means Committee
 - House — Budget Committee
 - House — Appropriations Committee
+
+## Recorded votes (1)
+
+- 2023-11-02 — [House 118-1-577](votes/house-118-1-0577.md) — On Passage — **Passed** (226–196)
 
 ## Actions
 
@@ -132,3 +146,15 @@ Israel Security Supplemental Appropriations Act, 2024
 - 2023-11-01 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-11-01 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-11-01 — Referred to the Committee on Appropriations, and in addition to the Committees on the Budget, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-11-02 — Considered as unfinished business. (consideration: CR H5313-5314)
+- 2023-11-02 — Considered under the provisions of rule H. Res. 838. (consideration: CR H5297-5306)
+- 2023-11-02 — DEBATE - The House proceeded with one hour of debate on H.R. 6126.
+- 2023-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-02 — On passage Passed by the Yeas and Nays: 226 - 196 (Roll no. 577). (text: CR H5297-5298)
+- 2023-11-02 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 6126 would be postponed.
+- 2023-11-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 226 - 196 (Roll no. 577). (text: CR H5297-5298)
+- 2023-11-02 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 6126.
+- 2023-11-02 — Rule H. Res. 838 passed House.
+- 2023-11-02 — Rule provides for consideration of H.R. 4821, H.R. 4820 and H.R. 6126. The resolution provides for consideration of H.R. 4821 and H.R. 4820 under a structured rule with one hour of general debate for each bill. The resolution provides for consideration of H.R. 6126, under a closed rule, with one hour of general debate. Each measure has one motion to recommit.
+- 2023-11-02 — Rules Committee Resolution H. Res. 838 Reported to House. Rule provides for consideration of H.R. 4821, H.R. 4820 and H.R. 6126. The resolution provides for consideration of H.R. 4821 and H.R. 4820 under a structured rule with one hour of general debate for each bill. The resolution provides for consideration of H.R. 6126, under a closed rule, with one hour of general debate. Each measure has one motion to recommit.
+- 2023-11-02 — The previous question was ordered pursuant to the rule.
