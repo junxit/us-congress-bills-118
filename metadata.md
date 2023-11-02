@@ -1,0 +1,30 @@
+---
+measure: S. 3220
+congress: 118
+version: Introduced in Senate
+---
+
+# S. 3220
+
+A bill to expand the tropical disease product priority review voucher program to encourage prevention and treatment of coccidioidomycosis.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Kelly, Mark [D-AZ] (K000377)
+
+## Cosponsors (1)
+
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
+
+## Actions
+
+- 2023-11-02 — Introduced in Senate
+- 2023-11-02 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
