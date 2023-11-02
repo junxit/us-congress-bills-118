@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 798
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 798
@@ -16,7 +16,7 @@ Condemning the support of Hamas, Hezbollah, and other terrorist organizations at
 
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Cosponsors (56)
+## Cosponsors (100)
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -74,13 +74,70 @@ Condemning the support of Hamas, Hezbollah, and other terrorist organizations at
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Miller, Max L. [R-OH-7] (M001222)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. Flood, Mike [R-NE-1] (F000474)
 
 ## Committees (1)
 
 - House — Education and Workforce Committee
+
+## Recorded votes (1)
+
+- 2023-11-02 — [House 118-1-578](votes/house-118-1-0578.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (396–23)
 
 ## Actions
 
 - 2023-10-19 — Introduced in House
 - 2023-10-19 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Education and the Workforce.
+- 2023-11-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-11-01 — Considered under suspension of the rules. (consideration: CR H5201-5205)
+- 2023-11-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 798.
+- 2023-11-01 — Mr. Owens moved to suspend the rules and agree to the resolution, as amended.
+- 2023-11-02 — Considered as unfinished business. (consideration: CR H5214-5315)
+- 2023-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 23 (Roll no. 578). (text: 11/1/2023 CR H5201-5202)
+- 2023-11-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 23 (Roll no. 578). (text: 11/1/2023 CR H5201-5202)
+- 2023-11-02 — The title of the measure was amended. Agreed to without objection.
