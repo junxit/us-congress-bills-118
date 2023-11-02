@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4364
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4364
@@ -54,3 +54,4 @@ Legislative Branch Appropriations Act, 2024
 - 2023-11-01 — Rule provides for consideration of H.R. 4394 and H.R. 4364. The resolution provides for consideration of H.R. 4394 and H.R. 4364. Resolution provides for consideration of H.R. 4394, under a structured rule with one hour of general debate and one motion to recommit. The resolution provides for consideration of H.R. 4364 under a closed rule with one hour of general debate and one motion to recommit. The resolution lays H. Res. 699 on the table.
 - 2023-11-01 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-11-01 — The previous question was ordered pursuant to the rule.
+- 2023-11-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
