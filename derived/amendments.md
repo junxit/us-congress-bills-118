@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3448
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,8 +34,9 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 308101 of title 54, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 308102(a) of title 54, United States Code, is amended by striking “Federal” and all that follows through “organizations” and inserting “Federal agencies, States, Tribes, local governments, other public entities, educational insti… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “State and local governments” and inserting “States, Tribes, local governments, and nonprofit organizations”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “State or local government” and inserting “State, Tribe, or local government”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “State and local governments” and inserting “States, Tribes, local governments, and nonprofit organizations”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “State or local government” and inserting “State, Tribe, or local government”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “under this section” and inserting “under this section, including by States, Tribes, local governments, and nonprofit organizations,”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3081 of title 54, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |

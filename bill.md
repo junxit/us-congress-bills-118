@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “American Battlefield Protection Program Enhancement Act”.
+This Act may be cited as the “American Battlefield Protection Program Enhancement Act of 2023”.
 
 ## § 2. American battlefield protection program improvements
 
@@ -34,8 +34,9 @@ This Act may be cited as the “American Battlefield Protection Program Enhancem
     >     - **(B)** is identified in the Battlefield Reports as a battlefield; and
     >   - **(2)** excludes sites identified in the Battlefield Reports as associated historic sites.
 
-  - **(2)** in subsection (b), by striking “State and local governments” and inserting “States, Tribes, local governments, and nonprofit organizations”; and
-  - **(3)** in subsection (c), by striking “State or local government” and inserting “State, Tribe, or local government”.
+  - **(2)** in subsection (b), by striking “State and local governments” and inserting “States, Tribes, local governments, and nonprofit organizations”;
+  - **(3)** in subsection (c), by striking “State or local government” and inserting “State, Tribe, or local government”; and
+  - **(4)** in subsection (e), by striking “under this section” and inserting “under this section, including by States, Tribes, local governments, and nonprofit organizations,”.
 - **(d)** *Battlefield Restoration Grants Improvements* Section 308105 of title 54, United States Code, is amended—
   - **(1)** by amending subsection (a) to read as follows:
     > - **(a)** *Establishment* The Secretary shall establish a battlefield restoration grant program (referred to in this section as the “program”) under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations for projects that restore day-of-battle conditions on—
