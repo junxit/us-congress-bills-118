@@ -26,13 +26,9 @@ Congress finds the following:
 - **(7)** The Medal of Honor represents the very best of our Nation—ordinary citizens, who took extraordinary action above and beyond the call of duty and became heroes of our Republic.
 - **(8)** These examples inspire all citizens and ignite within us the very spirit of America.
 - **(9)** The Medal of Honor rises to the level of supreme national and historical importance necessary to warrant representation on the National Mall.
+- **(10)** Locating the National Medal of Honor Monument in close proximity to the Lincoln Memorial within the Reserve would be a respectful extension of his enduring legacy and recognition of what ordinary people can accomplish when working for the greater good.
 
 ## § 3. National Medal of Honor Monument Location
 
-Section 1 of Public Law 117–80 (40 U.S.C. 8903 note) is amended—
-
-- **(1)** in subsection (b), by striking “The establishment” and inserting “Except as provided in subsection (e), the establishment”; and
-- **(2)** by adding at the end the following:
-  > - **(e)** *Location* Notwithstanding section 8908(c) of title 40, United States Code, the commemorative work established under this section shall be located—
-  >   - **(1)** within the Reserve (as defined in section 8902 of title 40, United States Code); and
-  >   - **(2)** attached to, or not more than 1,000 feet from, the Lincoln Memorial, as a respectful extension of his enduring legacy and recognition of what ordinary people can accomplish when working for the greater good.
+- **(a)** *Site* Notwithstanding section 8908(c) of title 40, United States Code, the commemorative work authorized by section 1(a) of Public Law 117–80 (40 U.S.C. 8903 note) shall be located within the Reserve (as defined in section 8902(a) of title 40, United States Code).
+- **(b)** *Applicability of Commemorative Works Act* Except as provided in subsection (a), chapter 89 of title 40, United States Code (commonly known as the “Commemorative Works Act”), shall apply to the commemorative work.
