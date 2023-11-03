@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 6217
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6217
+
+> To provide for emergency acquisition authority in the event of armed attack against a United States ally or partner by a foreign adversary of the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Securing American Acquisitions, Readiness, and Military Stockpiles Act of 2023” or the “Securing American ARMS Act of 2023” .
+
+## § 2. Emergency acquisition authority
+
+Section 3601(a)(1) of title 10, United States Code, is amended—
+
+- **(1)** in subparagraph (A)(iv), by striking “; or” and inserting a semicolon;
+- **(2)** in subparagraph (B), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(C)** for purposes of—
+  >   - **(i)** replenishing United States stockpiles with like defense articles when those stockpiles are diminished as a result of the United States providing defense articles in response to an armed attack by a country of concern (as that term is defined in section 1(m) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(m)) against—
+  >     - **(I)** a United States ally (as that term is defined in section 201(d) of the Act of December 2, 1942, entitled, ‘To provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes’ (56 Stat. 1028, chapter 668; 42 U.S.C. 1711(d))); or
+  >     - **(II)** a United States partner; or
+  >   - **(ii)** contracting for the movement or delivery of defense articles transferred to such ally or partner through the President’s drawdown authorities in connection with such response,
