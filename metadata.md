@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 359
@@ -29,3 +29,10 @@ Fort San Gerónimo Preservation Act
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Referred to the House Committee on Natural Resources.
+- 2023-02-21 — Referred to the Subcommittee on Federal Lands.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported by Unanimous Consent.
+- 2023-05-17 — Subcommittee on Federal Lands Discharged.
+- 2023-11-03 — Placed on the Union Calendar, Calendar No. 212.
+- 2023-11-03 — Reported by the Committee on Natural Resources. H. Rept. 118-263.
+- 2023-11-03 — Reported by the Committee on Natural Resources. H. Rept. 118-263.
