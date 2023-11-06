@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6244
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6244
+
+> To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the “1st Lieutenant Andres Zermeno Post Office Building”.
+
+## § 1. 1st Lieutenant Andres Zermeno Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, shall be known and designated as the “1st Lieutenant Andres Zermeno Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “1st Lieutenant Andres Zermeno Post Office Building”.
