@@ -1,7 +1,7 @@
 ---
 measure: S. 306
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 306
@@ -28,3 +28,7 @@ Tule River Tribe Reserved Water Rights Settlement Act of 2023
 
 - 2023-02-07 — Introduced in Senate
 - 2023-02-07 — Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S267)
+- 2023-03-29 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-11-06 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-110.
+- 2023-11-06 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-110.
+- 2023-11-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.
