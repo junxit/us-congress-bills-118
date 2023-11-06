@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1318
@@ -73,3 +73,9 @@ Women’s Suffrage National Monument Location Act
 - 2023-11-03 — Placed on the Union Calendar, Calendar No. 217.
 - 2023-11-03 — Reported by the Committee on Natural Resources. H. Rept. 118-268.
 - 2023-11-03 — Reported by the Committee on Natural Resources. H. Rept. 118-268.
+- 2023-11-06 — Considered under suspension of the rules. (consideration: CR H5418-5420)
+- 2023-11-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1318.
+- 2023-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-06 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2023-11-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
+- 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
