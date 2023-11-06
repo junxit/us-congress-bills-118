@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6240
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6240
+
+> To modify a certain commercial zone in Texas to include Zapata County, and for other purposes.
+
+## § 1. Modification of Cameron, Hidalgo, Starr, and Willacy Counties, Texas commercial zone
+
+- **(a)** *In general* Notwithstanding section 13902(c)(4)(A) of title 49, United States Code, Zapata County in Texas shall be considered part of the commercial zone comprised of Cameron, Hidalgo, Starr, and Willacy Counties in Texas for purposes of transportation of property under section 13506(b) of such title.
+- **(b)** *Consultation* In carrying out this section, the Secretary of Transportation shall consult with Federal agencies that have responsibilities over traffic between the United States and Mexico.
+- **(c)** *Submission of plan* Not later than 3 months after the date of enactment of this Act, the State of Texas shall submit to the Secretary a plan describing how the State will monitor commercial motor vehicle traffic and enforce safety regulations.
+- **(d)** *Savings provision* Nothing in this section shall affect any action commenced or pending before the Secretary or Surface Transportation Board before the date of enactment of this Act.
+- **(e)** *Commercial zone defined* In this section, the term “commercial zone” means the area that is comprised of Cameron, Hidalgo, Starr, Willacy, and Zapata Counties in Texas.
+- **(f)** *Effective date* Subsection (a) shall take effect on the date that is 6 months after the date of enactment of this Act.
