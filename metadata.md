@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4821
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4821
@@ -721,3 +721,4 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2023-11-03 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4821.
 - 2023-11-03 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-11-03 — The previous question was ordered pursuant to the rule.
+- 2023-11-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
