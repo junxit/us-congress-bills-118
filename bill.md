@@ -1,0 +1,49 @@
+---
+legis-num: H.R. 6260
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6260
+
+> To provide for certain reviews of the use and safety of Federal buildings, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Oversight of Construction Use and Safety Act” or the “FOCUS Act”.
+
+## § 2. Eliminating project escalations
+
+Section 3307(c) of title 40, United States Code, is amended by adding at the end the following: “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”.
+
+## § 3. Public safety at Federal buildings
+
+- **(a)** *Data collection* The Administrator of General Services shall collect data from tenant Federal agencies reports of any safety incidents as a result of criminal or other activity impacting public safety in and around public buildings, as defined in section 3301 of title 40, United States Code.
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that—
+  - **(1)** contains the data collected under subsection (a); and
+  - **(2)** describes any actions taken or planned, if necessary, to improve building management and operations to address such incidents.
+
+## § 4. Reducing waste in new projects
+
+Section 3307(b) of title 40, United States Code, is amended—
+
+- **(1)** in paragraph (7) by striking “and” at the end;
+- **(2)** in paragraph (8) by striking the period at the end and inserting a semicolon; and
+- **(3)** by adding at the end the following:
+  > - **(9)** information on any space occupied by the relevant agency in the geographical area of the proposed facility, including uses, utilization rates, any proposed consolidations, and, if not proposed to be consolidated, a justification for such determination; and
+  > - **(10)** details on actual utilization rates, including number of personnel assigned to the facility, number of personnel expected to work in-person at the facility and whether all personnel identified reflect filled and authorized positions.
+
+## § 5. Review of special use space
+
+- **(a)** *Review* The Comptroller General of the United States shall review the use of special use spaces in Federal buildings, including conference centers, fitness centers, and similar spaces to determine levels of utilization, opportunities for sharing, collocating, and other efficiencies.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the review under subsection (a).
+
+## § 6. Interagency space coordination
+
+- **(a)** *In general* Chapter 33 of title 40, United States Code, is amended by adding at the end the following:
+  > ## § 3319. Interagency space coordination
+  >
+  > Unless a Federal agency specifically restricts the sharing of the information described in this section for national security purposes, the Administrator of General Services shall share with tenant Federal agencies pursuing new or replacement office space information on any other Federal agencies located in the same geographical area for purposes of determining opportunities for consolidations, collocations, or other space sharing to reduce the costs of space and maximize space utilization.
+
+- **(b)** *Clerical amendment* The analysis for chapter 33 of title 40, United States Code, is amended by adding at the end the following:
