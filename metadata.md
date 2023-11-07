@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1318
@@ -80,3 +80,12 @@ Women’s Suffrage National Monument Location Act
 - 2023-11-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
 - 2023-11-07 — Received in the Senate, read twice.
+- 2024-12-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S7274)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-226.
+- 2025-01-04 — Became Public Law No: 118-226.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
