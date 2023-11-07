@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6126
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6126
@@ -158,3 +158,5 @@ Israel Security Supplemental Appropriations Act, 2024
 - 2023-11-02 — Rule provides for consideration of H.R. 4821, H.R. 4820 and H.R. 6126. The resolution provides for consideration of H.R. 4821 and H.R. 4820 under a structured rule with one hour of general debate for each bill. The resolution provides for consideration of H.R. 6126, under a closed rule, with one hour of general debate. Each measure has one motion to recommit.
 - 2023-11-02 — Rules Committee Resolution H. Res. 838 Reported to House. Rule provides for consideration of H.R. 4821, H.R. 4820 and H.R. 6126. The resolution provides for consideration of H.R. 4821 and H.R. 4820 under a structured rule with one hour of general debate for each bill. The resolution provides for consideration of H.R. 6126, under a closed rule, with one hour of general debate. Each measure has one motion to recommit.
 - 2023-11-02 — The previous question was ordered pursuant to the rule.
+- 2023-11-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-11-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
