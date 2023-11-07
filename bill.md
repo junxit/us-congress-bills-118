@@ -1,0 +1,34 @@
+---
+legis-num: S. 3240
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3240
+
+> To require senior Department of State officials to maintain security clearances and to require the Secretary of State to notify Congress when the security clearances of such officials are suspended or revoked.
+
+## § 1. Definitions
+
+In this Act:
+
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+- **(2)** *Covered official* The term covered official means any individual—
+  - **(A)** holding a position at the level of Assistant Secretary or higher at the Department of State;
+  - **(B)** holding the position of chief of mission or principal officer at any diplomatic or consular post;
+  - **(C)** holding the rank and status of ambassador; or
+  - **(D)** holding any other position that reports directly to the Secretary of State, such as special envoy.
+
+## § 2. Security clearances required for senior employees of the Department of State
+
+All covered officials shall obtain and maintain a security clearance that allows the covered official to access sensitive compartmented information.
+
+## § 3. Notification of suspension or revocation of clearances
+
+If the security clearance of any covered official is suspended or revoked, the Secretary of State shall—
+
+- **(1)** not later than 15 days after such suspension or revocation, notify the appropriate congressional committees of the name and position of the individual whose security clearance was suspended or revoked; and
+- **(2)** not later than 30 days after such suspension or revocation, provide a briefing for the appropriate congressional committees regarding—
+  - **(A)** the documentation notifying such individual of such suspension or revocation; and
+  - **(B)** the current employment status and conditions of such individual.
