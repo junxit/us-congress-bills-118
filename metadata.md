@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3448
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3448
@@ -73,9 +73,10 @@ American Battlefield Protection Program Enhancement Act of 2023
 - Rep. Beyer, Donald S., Jr. [D-VA-8] (B001292)
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -96,3 +97,4 @@ American Battlefield Protection Program Enhancement Act of 2023
 - 2023-11-06 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2023-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5412-5413)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5412-5413)
+- 2023-11-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
