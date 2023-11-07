@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1607
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1607
@@ -54,3 +54,14 @@ To clarify jurisdiction with respect to certain Bureau of Reclamation pumped sto
 - 2023-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 599). (text: CR H5410)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 599). (text: CR H5410)
 - 2023-11-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7079-7085)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-17 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-17 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-162.
+- 2024-12-23 — Became Public Law No: 118-162.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
