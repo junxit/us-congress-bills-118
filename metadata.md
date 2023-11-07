@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 38
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 38
@@ -16,11 +16,14 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Ricketts, Pete [R-NE] (R000618)
 
 ## Committees (1)
 
@@ -30,3 +33,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2023-07-26 — Introduced in Senate
 - 2023-07-26 — Read twice and referred to the Committee on Environment and Public Works.
+- 2023-09-26 — Star Print ordered on the joint resolution.
+- 2023-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 238.
+- 2023-11-07 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-11-07 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
