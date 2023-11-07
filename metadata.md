@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 359
@@ -20,9 +20,10 @@ Fort San Gerónimo Preservation Act
 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Fort San Gerónimo Preservation Act
 - 2023-11-06 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2023-11-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 24 (Roll no. 600). (text: CR H5414-5415)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 24 (Roll no. 600). (text: CR H5414-5415)
+- 2023-11-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
