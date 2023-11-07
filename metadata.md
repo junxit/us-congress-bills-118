@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3774
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3774
@@ -285,3 +285,5 @@ SHIP Act
 - 2023-11-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-11-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 342 - 69 (Roll no. 598).
 - 2023-11-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 342 - 69 (Roll no. 598).
+- 2023-11-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-11-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 240.
