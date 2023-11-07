@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1318
@@ -79,3 +79,4 @@ Women’s Suffrage National Monument Location Act
 - 2023-11-06 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2023-11-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5418)
+- 2023-11-07 — Received in the Senate, read twice.
