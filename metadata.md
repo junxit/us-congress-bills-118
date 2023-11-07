@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1607
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1607
@@ -23,9 +23,10 @@ To clarify jurisdiction with respect to certain Bureau of Reclamation pumped sto
 - Rep. Gallego, Ruben [D-AZ-3] (G000574)
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ To clarify jurisdiction with respect to certain Bureau of Reclamation pumped sto
 - 2023-11-06 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2023-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 599). (text: CR H5410)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 1 (Roll no. 599). (text: CR H5410)
+- 2023-11-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
