@@ -83,3 +83,11 @@ Not later than 1 year after the date of the enactment of this Act, and annually 
 
 - **(1)** the number of trainings that were provided through the IMPACTT Program and the number of personnel who received such training; and
 - **(2)** the number of human trafficking victims who were assisted by the Homeland Security Investigations Victim Assistance Program.
+
+## § 5. No additional funds
+
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
+
+## § 6. Sunset
+
+This Act and the amendments made by this Act shall cease to have force or effect beginning on October 1, 2030.
