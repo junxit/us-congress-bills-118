@@ -1,7 +1,7 @@
 ---
 measure: S. 670
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 670
@@ -43,3 +43,18 @@ IMPACTT Human Trafficking Act
 - 2023-11-08 — Senate amendment proposed (on the floor): Amendment SA 1363 proposed by Senator Whitehouse for Senator Peters.
 - 2023-11-08 — Senate amendment submitted
 - 2023-11-08 — Senate amendment submitted
+- 2023-11-09 — Message on Senate action sent to the House.
+- 2023-11-13 — Held at the desk.
+- 2023-11-13 — Received in the House.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5601-5603)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 670.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bentz moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5601-5602)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5601-5602)
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-10-01 — Became Public Law No: 118-96.
+- 2024-10-01 — Became Public Law No: 118-96.
+- 2024-10-01 — Signed by President.
+- 2024-10-01 — Signed by President.
