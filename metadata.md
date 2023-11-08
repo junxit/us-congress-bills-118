@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 38
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 38
@@ -29,6 +29,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2023-11-08 — [Senate 118-1-303](votes/senate-118-1-0303.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
+
 ## Actions
 
 - 2023-07-26 — Introduced in Senate
@@ -37,3 +41,5 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2023-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 238.
 - 2023-11-07 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2023-11-07 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2023-11-08 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 303. (consideration: CR S5416-5418, S5421-5422; text: CR S5422)
+- 2023-11-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 303.(consideration: CR S5416-5418, S5421-5422; text: CR S5422)
