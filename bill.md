@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6316
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6316
+
+> To amend title 40, United States Code, to establish an expiration date of certain committee resolutions with respect to leases or projects, and for other purposes.
+
+## § 1. Limitation on authorizations
+
+Section 3307 of title 40, United States Code, is amended by adding at the end the following:
+
+> - **(i)** *Expiration of committee resolutions*
+>   - **(1)** *In general* Unless a lease is awarded or a construction, alteration, repair, design, or acquisition project is initiated not later than 5 years after the resolution approvals adopted by the Committee on Transportation and Infrastructure of the House of Representatives or the Committee on Environment and Public Works of the Senate pursuant to subsection (a), such resolutions shall be deemed expired.
+>   - **(2)** *Application* This subsection shall only apply to resolutions approved after the date of enactment of this subsection.
