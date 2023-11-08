@@ -1,7 +1,7 @@
 ---
 measure: S. 749
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 749
@@ -33,3 +33,7 @@ NACIE Improvement Act
 
 - 2023-03-09 — Introduced in Senate
 - 2023-03-09 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-11-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5434; text: CR S5434)
+- 2023-11-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5434; text: CR S5434)
+- 2023-11-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2023-11-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
