@@ -1,7 +1,7 @@
 ---
 measure: S. 311
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 311
@@ -33,3 +33,5 @@ U.S. Customs and Border Protection Officer Retirement Technical Corrections Act
 - 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-101.
 - 2023-10-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-101.
 - 2023-10-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
+- 2023-11-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5432-5433; text: CR S5432-5433)
+- 2023-11-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5432-5433; text: CR S5432-5433)

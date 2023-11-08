@@ -16,7 +16,7 @@ This Act may be cited as the “U.S. Customs and Border Protection Officer Retir
 ## § 2. Adjustment related to transition rules
 
 - **(a)** *Defined term* In this section the term Eligible Individual means any individual who—
-  - **(1)** received and accepted an offer of employment as a U.S. Customs and Border Protection Officer before July 6, 2008; and
+  - **(1)** received a tentative offer of employment as a U.S. Customs and Border Protection Officer before July 6, 2008; and
   - **(2)** entered into duty as a U.S. Customs and Border Protection officer on or after July 6, 2008, as a result of an offer described in paragraph (1).
 - **(b)** *Treatment of Eligible Individuals* Eligible Individuals—
   - **(1)** are considered to be individuals serving as U.S. Customs and Border Protection Officers on July 6, 2008, for purposes of section 535(e) of the Department of Homeland Security Appropriations Act, 2008 (division E of Public Law 110–161; 121 Stat. 1844); and
