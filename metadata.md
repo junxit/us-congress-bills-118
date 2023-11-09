@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2872
@@ -48,3 +48,5 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2023-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/18/2023 CR H4366)
 - 2023-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 9/18/2023 CR H4366)
 - 2023-09-20 — The title of the measure was amended. Agreed to without objection.
+- 2023-09-21 — Received in the Senate.
+- 2023-11-09 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
