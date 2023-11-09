@@ -1,0 +1,15 @@
+---
+legis-num: S. 3267
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3267
+
+> To designate the facility of the United States Postal Service located at 410 Dakota Avenue South in Huron, South Dakota, as the “First Lieutenant Thomas Michael Martin Post Office Building”.
+
+## § 1. First Lieutenant Thomas Michael Martin Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 410 Dakota Avenue South in Huron, South Dakota, shall be known and designated as the “First Lieutenant Thomas Michael Martin Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “First Lieutenant Thomas Michael Martin Post Office Building”.
