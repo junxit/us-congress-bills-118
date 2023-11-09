@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5961
@@ -16,7 +16,7 @@ No Funds for Iranian Terrorism Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (31)
+## Cosponsors (34)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
@@ -49,13 +49,25 @@ No Funds for Iranian Terrorism Act
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
 - 2023-10-16 — Introduced in House
 - 2023-10-16 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Foreign Affairs.
+- 2023-11-07 — Committee Consideration and Mark-up Session Held
+- 2023-11-07 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 15.
+- 2023-11-09 — Committee on Financial Services discharged.
+- 2023-11-09 — Committee on Financial Services discharged.
+- 2023-11-09 — Placed on the Union Calendar, Calendar No. 218.
+- 2023-11-09 — Referred sequentially to the House Committee on Financial Services for a period ending not later than Nov. 9, 2023 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(h) of rule X.
+- 2023-11-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 118-270, Part I.
+- 2023-11-09 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 118-270, Part I.
