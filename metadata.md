@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3578
@@ -30,3 +30,9 @@ To make technical amendments to update statutory references to provisions reclas
 - 2023-09-29 — Placed on the House Calendar, Calendar No. 41.
 - 2023-09-29 — Reported by the Committee on Judiciary. H. Rept. 118-233.
 - 2023-09-29 — Reported by the Committee on Judiciary. H. Rept. 118-233.
+- 2023-11-13 — Considered under suspension of the rules. (consideration: CR H5689-5695)
+- 2023-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3578.
+- 2023-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-13 — Mr. Cline moved to suspend the rules and pass the bill.
+- 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5690-5695)
+- 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5690-5695)
