@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1722
@@ -50,3 +50,12 @@ Grand Ronde Reservation Act Amendment of 2023
 - 2023-11-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 11/6/2023 CR H5411)
 - 2023-11-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 11/6/2023 CR H5411)
 - 2023-11-13 — Received in the Senate, read twice.
+- 2023-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6061-6062)
+- 2023-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6061-6062)
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-26 — Became Public Law No: 118-32.
+- 2023-12-26 — Became Public Law No: 118-32.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Signed by President.
+- 2023-12-26 — Signed by President.
