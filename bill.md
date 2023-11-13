@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 6390
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6390
+
+> To amend the Consumer Credit Protection Act to permit the refusal of credit to aliens who do not have lawful status in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Reinforcing Immigration Status for Credit Knowledge Act” or the “RISK Act”.
+
+## § 2. Refusal of credit to aliens without lawful status
+
+Section 701(b) of the Consumer Credit Protection Act (15 U.S.C. 1691(b)) is amended—
+
+- **(1)** in paragraph (4), by striking “; or” and inserting a semicolon;
+- **(2)** in paragraph (5), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(6)** to refuse to extend credit to an alien who does not have lawful status in the United States under the immigration laws (as such terms are defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).
