@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1105
@@ -108,6 +108,10 @@ Debbie Smith Act of 2023
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2023-11-13 — [House 118-1-643](votes/house-118-1-0643.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (405–0)
+
 ## Actions
 
 - 2023-02-17 — Introduced in House
@@ -118,3 +122,11 @@ Debbie Smith Act of 2023
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 200.
 - 2023-10-25 — Reported by the Committee on Judiciary. H. Rept. 118-250.
 - 2023-10-25 — Reported by the Committee on Judiciary. H. Rept. 118-250.
+- 2023-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-11-13 — Considered as unfinished business. (consideration: CR H5710-5711)
+- 2023-11-13 — Considered under suspension of the rules. (consideration: CR H5677-5679)
+- 2023-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1105.
+- 2023-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-13 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
+- 2023-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)
+- 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)

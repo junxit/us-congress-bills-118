@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,12 @@ to guess them.
 |---|---|
 | Removed | `fiscal years 2019 through 2024` |
 | Inserted | `fiscal years 2024 through 2029` |
+
+### 34 U.S.C. § 40701
+
+> Section 2(c)(4) of the DNA Analysis Backlog Elimination Act of 2000 (34 U.S.C. 40701(c)(4)) is amended by striking “2022” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2022` |
+| Inserted | `2029` |
