@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2717
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2717
@@ -53,9 +53,10 @@ Hershel Woody Williams National Medal of Honor Monument Location Act
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ Hershel Woody Williams National Medal of Honor Monument Location Act
 - 2023-11-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-11-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/6/2023 CR H5416)
 - 2023-11-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/6/2023 CR H5416)
+- 2023-11-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
