@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1505
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1505
@@ -51,3 +51,9 @@ No Stolen Trademarks Honored in America Act of 2023
 - 2023-09-29 — Placed on the Union Calendar, Calendar No. 188.
 - 2023-09-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-232.
 - 2023-09-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-232.
+- 2023-11-13 — Considered under suspension of the rules. (consideration: CR H5676-5677)
+- 2023-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1505.
+- 2023-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-13 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
+- 2023-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5676)
+- 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5676)
