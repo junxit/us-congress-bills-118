@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 6378
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6378
+
+> To permit the remains of any Medal of Honor recipient to lie in honor in the rotunda of the United States Capitol, and for other purposes.
+
+## § 1. Permitting remains of Medal of Honor recipients to lie in honor in Capitol rotunda
+
+- **(a)** *Request of surviving next of kin* At the request of the primary surviving next of kin of a Medal of Honor recipient, the remains of the Medal of Honor recipient shall be permitted to lie in honor in the rotunda of the United States Capitol.
+- **(b)** *Responsibilities of the Architect of the Capitol* The Architect of the Capitol, under the direction of the Speaker of the House of Representatives and the President pro tempore of the Senate, shall take such steps as the Architect considers appropriate to carry out this Act, including determining the date and time during which the remains of a Medal of Honor recipient shall be permitted to lie in honor and establishing regulations to determine who is the primary surviving next of kin of a Medal of Honor recipient.
+- **(c)** *Definition* In this Act, the term Medal of Honor recipient has the meaning given such term in section 1074h of title 10, United States Code.
+- **(d)** *Effective date* This Act shall apply with respect to an individual who dies on or after the date of the enactment of this Act.
