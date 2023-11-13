@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6383
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6383
+
+> To prohibit the Secretary of Homeland Security from implementing or enforcing a remain in Texas policy.
+
+## § 1. Prohibition on Secretary of Homeland Security from implementing or enforcing a remain in Texas policy
+
+- **(a)** *Prohibition* No Federal funds may be used by the Secretary of Homeland Security to implement or enforce a remain in Texas policy.
+- **(b)** *Remain in Texas policy defined* In this section, the term “remain in Texas policy” means a policy that requires any alien to remain in the State of Texas after such alien is released or paroled by the Secretary of Homeland Security or the Secretary of Health and Human Services into the United States.
