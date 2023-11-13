@@ -1,7 +1,7 @@
 ---
 measure: H.R. 593
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 593
@@ -36,8 +36,21 @@ To rename the Department of Veterans Affairs community-based outpatient clinic i
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-11-13 — [House 118-1-644](votes/house-118-1-0644.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–0)
+
 ## Actions
 
 - 2023-01-27 — Introduced in House
 - 2023-01-27 — Introduced in House
 - 2023-01-27 — Referred to the House Committee on Veterans' Affairs.
+- 2023-02-17 — Referred to the Subcommittee on Health.
+- 2023-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-11-13 — Considered as unfinished business. (consideration: CR H5712-5714)
+- 2023-11-13 — Considered under suspension of the rules. (consideration: CR H5707-5710)
+- 2023-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 593.
+- 2023-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-13 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
+- 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
