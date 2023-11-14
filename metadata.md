@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1105
@@ -131,3 +131,12 @@ Debbie Smith Act of 2023
 - 2023-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)
 - 2023-11-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
+- 2024-07-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5147)
+- 2024-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-07-12 — Message on Senate action sent to the House.
+- 2024-07-25 — Presented to President.
+- 2024-07-25 — Presented to President.
+- 2024-07-30 — Became Public Law No: 118-72.
+- 2024-07-30 — Became Public Law No: 118-72.
+- 2024-07-30 — Signed by President.
+- 2024-07-30 — Signed by President.
