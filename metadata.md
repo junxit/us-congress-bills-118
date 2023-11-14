@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6363
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6363
