@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1105
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1105
@@ -130,3 +130,4 @@ Debbie Smith Act of 2023
 - 2023-11-13 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2023-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 643). (text: CR H5677)
+- 2023-11-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
