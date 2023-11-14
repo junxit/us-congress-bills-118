@@ -1,7 +1,7 @@
 ---
 measure: H.R. 593
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 593
@@ -32,9 +32,10 @@ To rename the Department of Veterans Affairs community-based outpatient clinic i
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To rename the Department of Veterans Affairs community-based outpatient clinic i
 - 2023-11-13 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
+- 2023-11-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
