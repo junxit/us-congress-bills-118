@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 444
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 444
@@ -24,3 +24,7 @@ A resolution providing for the en bloc consideration of military nominations.
 
 - 2023-10-31 — Introduced in Senate
 - 2023-10-31 — Referred to the Committee on Rules and Administration. (text: CR S5259-5260)
+- 2023-11-14 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2023-11-14 — Committee on Rules and Administration. Reported by Senator Klobuchar without amendment. Without written report.
+- 2023-11-14 — Committee on Rules and Administration. Reported by Senator Klobuchar without amendment. Without written report.
+- 2023-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
