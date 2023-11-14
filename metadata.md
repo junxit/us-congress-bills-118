@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3506
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3506
@@ -16,9 +16,10 @@ To make technical amendments to update statutory references to certain provision
 
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To make technical amendments to update statutory references to certain provision
 - 2023-11-13 — Mr. Cline moved to suspend the rules and pass the bill.
 - 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5688-5689)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5688-5689)
+- 2023-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
