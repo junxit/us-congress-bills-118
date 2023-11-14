@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6363
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-87 amendatory instructions. 59 executed, 28 stated and not applied.
+88 amendatory instructions. 60 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -287,21 +287,21 @@ to guess them.
 
 ### 42 U.S.C. § 247d
 
-> Section 319L(e)(1)(D) of the Public Health Service Act (42 U.S.C. 247d–7e(e)(1)(D)) is amended by striking “the date that is 17 years after the date of enactment of the Pandemic and All-Hazards Preparedness Act” and inserting “January 19, 2024”.
+> Section 319L(e)(1)(D) of the Public Health Service Act (42 U.S.C. 247d–7e(e)(1)(D)) is amended by striking “on the date that is 17 years after the date of enactment of the Pandemic and All-Hazards Preparedness Act” and inserting “after January 19, 2024”.
 
 | | |
 |---|---|
-| Removed | `the date that is 17 years after the date of enactment of the Pandemic and All-Hazards Preparedness Act` |
-| Inserted | `January 19, 2024` |
+| Removed | `on the date that is 17 years after the date of enactment of the Pandemic and All-Hazards Preparedness Act` |
+| Inserted | `after January 19, 2024` |
 
 ### 42 U.S.C. § 247d
 
-> Section 319L–1(b) of the Public Health Service Act (42 U.S.C. 247d–7f(b)) is amended by striking “at the end of the 17-year period that begins on the date of enactment of this Act” and inserting “January 19, 2024”.
+> Section 319L–1(b) of the Public Health Service Act (42 U.S.C. 247d–7f(b)) is amended by striking “at the end of the 17-year period that begins on the date of enactment of this Act” and inserting “after January 19, 2024”.
 
 | | |
 |---|---|
 | Removed | `at the end of the 17-year period that begins on the date of enactment of this Act` |
-| Inserted | `January 19, 2024` |
+| Inserted | `after January 19, 2024` |
 
 ### 42 U.S.C. § 247d
 
@@ -341,21 +341,21 @@ to guess them.
 
 ### 42 U.S.C. § 1396r-4
 
-> in clause (i), by striking “November 18, 2023” and inserting “January 19, 2024”; and
+> in clause (i), by striking “November 18, 2023” and inserting “January 20, 2024”; and
 
 | | |
 |---|---|
 | Removed | `November 18, 2023` |
-| Inserted | `January 19, 2024` |
+| Inserted | `January 20, 2024` |
 
 ### 42 U.S.C. § 1396r-4
 
-> in clause (ii), by striking “November 18, 2023” and inserting “January 19, 2024”.
+> in clause (ii), by striking “November 18, 2023” and inserting “January 20, 2024”.
 
 | | |
 |---|---|
 | Removed | `November 18, 2023` |
-| Inserted | `January 19, 2024` |
+| Inserted | `January 20, 2024` |
 
 ### 42 U.S.C. § 1396w-1
 
@@ -494,12 +494,12 @@ to guess them.
 
 ### 42 U.S.C. § 1395w-4
 
-> Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w–4(e)(1)(E)) is amended by striking “January 1, 2024” and inserting “January 19, 2024”.
+> Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w–4(e)(1)(E)) is amended by striking “January 1, 2024” and inserting “January 20, 2024”.
 
 | | |
 |---|---|
 | Removed | `January 1, 2024` |
-| Inserted | `January 19, 2024` |
+| Inserted | `January 20, 2024` |
 
 ### 42 U.S.C. § 1395m-1
 
@@ -554,6 +554,15 @@ to guess them.
 |---|---|
 | Removed | `$180,000,000` |
 | Inserted | `$466,795,056` |
+
+### 6 U.S.C. § 124n
+
+> Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) is amended by striking “November 18, 2023” and inserting “February 3, 2024”.
+
+| | |
+|---|---|
+| Removed | `November 18, 2023` |
+| Inserted | `February 3, 2024` |
 
 ## Stated, not applied
 
