@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 6412
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6412
+
+> To amend title XXVII of the Public Health Service Act to provide certain informational resources related to Down syndrome.
+
+## § 1. Short title
+
+This Act may be cited as the “Down Syndrome Diagnosis Act”.
+
+## § 2. Providing informational resources related to Down syndrome
+
+- **(a)** *In general* Subpart II of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–11 et seq.) is amended by adding at the end the following new section:
+  > ## § 2730. Informational resources related to Down syndrome
+  >
+  > - **(a)** *In general* In the case of an individual enrolled under a group health plan or group or individual health insurance coverage who is diagnosed with Down syndrome while so enrolled (or who is pregnant and is given a diagnosis of Down syndrome with respect to the fetus while so enrolled), not later than 60 days after such plan or coverage is made aware (through claims data or otherwise) of the relevant diagnosis, such plan or coverage shall provide the informational resources described in subsection (b) to—
+  >   - **(1)** the individual; or
+  >   - **(2)** if the individual is under the age of 18, a parent or legal guardian of the individual.
+  > - **(b)** *Informational resources described* For purposes of subsection (a), the informational resources described in this subsection are the following:
+  >   - **(1)** Written information about Down syndrome, including information on the range of physical, developmental, educational, and psychosocial outcomes for individuals living with Down syndrome, that—
+  >     - **(A)** is up-to-date, evidence-based, and culturally and linguistically appropriate for the individual; and
+  >     - **(B)** was developed by—
+  >       - **(i)** medical experts or representatives of national medical or genetics organizations; and
+  >       - **(ii)** disability experts or representatives of patient advocacy groups.
+  >   - **(2)** Contact information for 1 or more organizations that specialize in Down syndrome support, such as the National Down Syndrome Congress, the National Down Syndrome Society, or the Global Down Syndrome Foundation.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to plan years beginning on or after January 1, 2024.
