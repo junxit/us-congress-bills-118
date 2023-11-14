@@ -1,7 +1,7 @@
 ---
 measure: H.R. 786
 congress: 118
-version: Reported in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

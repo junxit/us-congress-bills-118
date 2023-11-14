@@ -1,7 +1,7 @@
 ---
 measure: H.R. 786
 congress: 118
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 786
@@ -41,3 +41,4 @@ To amend title 28, United States Code, to provide an additional place for holdin
 - 2023-11-13 — Placed on the Union Calendar, Calendar No. 219.
 - 2023-11-13 — Reported by the Committee on Judiciary. H. Rept. 118-271.
 - 2023-11-13 — Reported by the Committee on Judiciary. H. Rept. 118-271.
+- 2023-11-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
