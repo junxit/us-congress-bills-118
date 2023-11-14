@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3578
@@ -16,9 +16,10 @@ To make technical amendments to update statutory references to provisions reclas
 
 - Rep. Ivey, Glenn [D-MD-4] (I000058)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To make technical amendments to update statutory references to provisions reclas
 - 2023-11-13 — Mr. Cline moved to suspend the rules and pass the bill.
 - 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5690-5695)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5690-5695)
+- 2023-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
