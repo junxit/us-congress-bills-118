@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1505
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1505
@@ -37,9 +37,10 @@ No Stolen Trademarks Honored in America Act of 2023
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ No Stolen Trademarks Honored in America Act of 2023
 - 2023-11-13 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2023-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5676)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5676)
+- 2023-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
