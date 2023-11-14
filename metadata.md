@@ -1,7 +1,7 @@
 ---
 measure: H.R. 593
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 593
@@ -56,3 +56,14 @@ To rename the Department of Veterans Affairs community-based outpatient clinic i
 - 2023-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
 - 2023-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 644). (text: CR H5707)
 - 2023-11-14 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-05-02 — Passed Senate without amendment by Unanimous Consent.
+- 2024-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367-3368)
+- 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367-3368)
+- 2024-05-03 — Message on Senate action sent to the House.
+- 2024-05-10 — Presented to President.
+- 2024-05-10 — Presented to President.
+- 2024-05-13 — Became Public Law No: 118-61.
+- 2024-05-13 — Became Public Law No: 118-61.
+- 2024-05-13 — Signed by President.
+- 2024-05-13 — Signed by President.
