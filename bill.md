@@ -15,8 +15,4 @@ This Act may be cited as the “Armenian Protection Act of 2023”.
 
 ## § 2. Freedom Support Act section 907 waiver repeal
 
-Title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) (22 U.S.C. 5812 note) is amended, under the heading “assistance for the independent states of the former soviet union”, in subsection (g)—
-
-- **(1)** in paragraph (1), by striking “(1)”;
-- **(2)** by striking paragraphs (2) through (6); and
-- **(3)** by redesignating subparagraphs (A) through (F) as paragraphs (1) through (6), respectively.
+The President may not exercise the waiver authority provided pursuant to title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) (22 U.S.C. 5812 note), under the heading “assistance for the independent states of the former Soviet Union” under subsection (g), with respect to amounts appropriated or otherwise made available for fiscal years 2024 or 2025.
