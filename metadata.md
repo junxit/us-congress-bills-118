@@ -1,7 +1,7 @@
 ---
 measure: S. 106
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 106
@@ -16,7 +16,7 @@ Commitment to Veteran Support and Outreach Act
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Sanders, Bernard [I-VT] (S000033)
@@ -27,6 +27,11 @@ Commitment to Veteran Support and Outreach Act
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -40,3 +45,15 @@ Commitment to Veteran Support and Outreach Act
 - 2023-07-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2023-07-10 — Committee on Veterans' Affairs. Reported by Senator Tester with an amendment in the nature of a substitute. Without written report.
 - 2023-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
+- 2023-11-16 — 
+- 2023-11-16 — Amendment SA 1368 agreed to in Senate by Unanimous Consent.
+- 2023-11-16 — Amendment SA 1368 proposed by Senator Schumer for Senator Baldwin. (consideration: CR S5557-5558) To improve the bill.
+- 2023-11-16 — Measure laid before Senate by unanimous consent. (consideration: CR S5556-5558)
+- 2023-11-16 — Message on Senate action sent to the House.
+- 2023-11-16 — Passed Senate with an amendment by Unanimous Consent. (text: CR S5557-5558)
+- 2023-11-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S5557-5558)
+- 2023-11-16 — Senate amendment agreed to: Amendment SA 1368 agreed to in Senate by Unanimous Consent.
+- 2023-11-16 — Senate amendment proposed (on the floor): Amendment SA 1368 proposed by Senator Schumer for Senator Baldwin.
+- 2023-11-16 — Senate amendment submitted
+- 2023-11-16 — Senate amendment submitted
+- 2023-11-16 — The committee substitute withdrawn by Unanimous Consent.

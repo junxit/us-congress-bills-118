@@ -9,21 +9,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to award grants to States to improve outreach to veterans, and for other purposes.
 
-## § 1. Short title
-
-This Act may be cited as the “Commitment to Veteran Support and Outreach Act”.
-
-## § 2. Authority for Secretary of Veterans Affairs to award grants to States to improve outreach to veterans
+## § 1. Authority for Secretary of Veterans Affairs to award grants to States to improve outreach to veterans
 
 - **(a)** *In general* Chapter 63 of title 38, United States Code, is amended—
-  - **(1)** by redesignating sections 6307 and 6308 and sections 6308 and 6309, respectively; and
+  - **(1)** by redesignating sections 6307 and 6308 as sections 6308 and 6309, respectively; and
   - **(2)** by inserting after section 6306 the following new section 6307:
     > ## § 6307. Grants to States to improve outreach to veterans
     >
-    > - **(a)** *Purpose* It is the purpose of this section to provide for assistance by the Secretary to States to carry out programs that improve outreach and assistance to veterans and the spouses, children, and parents of veterans, to ensure that such individuals are fully informed about, and assisted in applying for, any veterans and veterans-related benefits and programs (including State veterans programs) for which they may be eligible.
+    > - **(a)** *Purpose* It is the purpose of this section to provide for assistance by the Secretary to States to carry out programs that improve covered outreach and assistance to veterans and the spouses, children, and parents of veterans, to ensure that such individuals are fully informed about, and assisted in applying for, any veterans and veterans-related benefits and programs (including State veterans programs) for which they may be eligible.
     > - **(b)** *Authority* The Secretary may award grants to States—
     >   - **(1)** to carry out, coordinate, improve, or otherwise enhance—
-    >     - **(A)** outreach activities; or
+    >     - **(A)** covered outreach activities; or
     >     - **(B)** activities to assist in the development and submittal of claims for veterans and veterans-related benefits; or
     >   - **(2)** to increase the number of county or tribal veterans service officers serving in the State by hiring new, additional such officers.
     > - **(c)** *Application*
@@ -32,7 +28,7 @@ This Act may be cited as the “Commitment to Veteran Support and Outreach Act�
     >     - **(A)** A detailed plan for the use of the grant.
     >     - **(B)** A description of the programs through which the State will meet the outcome measures developed by the Secretary under subsection (i).
     >     - **(C)** A description of how the State will distribute grant amounts equitably among counties with varying levels of urbanization.
-    >     - **(D)** A plan for how the grant will be used to meet the unique needs of American Indian veterans, Alaska Native veterans, or Native Hawaiian veterans, elderly veterans, women veterans, and veterans from other underserved communities.
+    >     - **(D)** A plan for how the grant will be used to meet the unique needs of American Indian veterans, Alaska Native veterans, or Native Hawaiian veterans, elderly veterans, and veterans from other underserved communities.
     > - **(d)** *Distribution* The Secretary shall seek to ensure that grants awarded under this section are equitably distributed among States with varying levels of urbanization.
     > - **(e)** *Priority* The Secretary shall prioritize awarding grants under this section that will serve the following areas:
     >   - **(1)** Areas with a critical shortage of county or tribal veterans service officers.
@@ -46,7 +42,7 @@ This Act may be cited as the “Commitment to Veteran Support and Outreach Act�
     >   - **(1)** to expand existing programs, activities, and services;
     >   - **(2)** to hire new, additional county or tribal veterans service officers; or
     >   - **(3)** for travel and transportation to facilitate carrying out paragraph (1) or (2).
-    > - **(h)** *Authorized activities* A grant under this section may be used to provide education and training, including on-the-job training, for State, county, local, and tribal government employees who provide (or when trained will provide) veterans outreach services in order for those employees to obtain accreditation in accordance with procedures approved by the Secretary.
+    > - **(h)** *Authorized activities* A grant under this section may be used to provide education and training, including on-the-job training, for State, county, local, and tribal government employees who provide (or when trained will provide) covered outreach services in order for those employees to obtain accreditation in accordance with procedures approved by the Secretary.
     > - **(i)** *Outcome measures*
     >   - **(1)** The Secretary shall develop and provide to each State that receives a grant under this section written guidance on the following:
     >     - **(A)** Outcome measures.
@@ -64,14 +60,11 @@ This Act may be cited as the “Commitment to Veteran Support and Outreach Act�
     > - **(l)** *Remediation plan*
     >   - **(1)** In the case of a State that receives a grant under this section and does not meet the outcome measures developed by the Secretary under subsection (i), the Secretary shall require the State to submit a remediation plan under which the State shall describe how and when it plans to meet such outcome measures.
     >   - **(2)** The Secretary may not award a subsequent grant under this section to a State described in paragraph (1) unless the Secretary approves the remediation plan submitted by the State.
-    > - **(m)** *Maximum amount* The amount of a grant awarded under this section may not exceed 10 percent of amounts made available for grants under this section for the fiscal year in which the grant is awarded.
-    > - **(n)** *Supplement, not supplant* Any grant awarded under this section shall be used to supplement and not supplant State and local funding that is otherwise available.
-    > - **(o)** *Definitions* In this section:
+    > - **(m)** *Definitions* In this section:
     >   - **(1)** The term county or tribal veterans service officer includes a local equivalent veterans service officer.
-    >   - **(2)** The term Veterans Crisis Line means the toll-free hotline for veterans established under section 1720F(h) of this title.
-    > - **(p)** *Funding*
-    >   - **(1)** Amounts for the activities of the Department under this section shall be budgeted and appropriated through a separate appropriation account.
-    >   - **(2)** In the budget justification materials submitted to Congress in support of the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the Secretary shall include a separate statement of the amount requested to be appropriated for that fiscal year for the account specified in paragraph (1).
-    > - **(q)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary for each of fiscal years 2023 through 2027, $50,000,000 to carry out this section.
+    >   - **(2)** The term covered outreach means outreach with respect to—
+    >     - **(A)** benefits administered by the Under Secretary for Benefits; or
+    >     - **(B)** similar benefits administered by a State or Indian Tribe.
+    >   - **(3)** The term Veterans Crisis Line means the toll-free hotline for veterans established under section 1720F(h) of this title.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 63 of such title is amended by striking the items relating to sections 6307 and 6308 and inserting the following new items:
