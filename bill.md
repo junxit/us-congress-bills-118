@@ -28,7 +28,7 @@ Section 705 of title 31, United States Code, is amended—
       >   - **(ii)** in the case of a completed inquiry, contain the findings made during the inquiry.
       > - **(D)** Nothing in this paragraph shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.
 
-  - **(B)** by redesignating paragraph (3) as paragraph (4);
+  - **(B)** by redesignating paragraph (3) as paragraph (4); and
   - **(C)** by inserting after paragraph (2) the following:
     > - **(3)**
     >   - **(A)** Subject to the other provisions of this paragraph, only the Comptroller General may place the Inspector General on non-duty status.
@@ -42,12 +42,6 @@ Section 705 of title 31, United States Code, is amended—
     >     - **(i)** has made a determination that the continued presence of the Inspector General in the workplace poses a specific threat; and
     >     - **(ii)** not later than the date on which the change in status takes effect, submits to both Houses of Congress (including to the appropriate congressional committees) a written communication that contains the information required under subparagraph (B), including the report required under clause (ii) of that subparagraph.
     >   - **(D)** Nothing in this paragraph may be construed to limit or otherwise modify any statutory protection that is afforded to the Inspector General or a personnel action that is otherwise authorized by law.
-
-  - **(D)** in paragraph (4), as so designated—
-    - **(i)** by inserting “(A)” before “The Inspector General”;
-    - **(ii)** in subparagraph (A), as so designated, by striking “be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General” and inserting “have a rate of basic pay that is not less than the average rate of basic pay of all other employees of the Government Accountability Office in positions established under section 732a or 733 of this title”; and
-    - **(iii)** by adding at the end the following:
-      > - **(B)** The Comptroller General shall establish the amount of the annual adjustment of the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided pursuant to section 733(a)(3)(b) of this title to all other employees in positions established under section 732a or 733 of this title.
 
 - **(2)** in subsection (f)—
   - **(A)** by striking “The Comptroller General” and inserting the following:
