@@ -1,7 +1,7 @@
 ---
 measure: S. 1510
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1510
@@ -44,3 +44,17 @@ GAO Inspector General Parity Act
 - 2023-11-16 — Senate amendment proposed (on the floor): Amendment SA 1369 proposed by Senator Schumer for Senator Braun.
 - 2023-11-16 — Senate amendment submitted
 - 2023-11-16 — Senate amendment submitted
+- 2023-11-17 — Held at the desk.
+- 2023-11-17 — Received in the House.
+- 2024-11-12 — Considered under suspension of the rules.
+- 2024-11-12 — DEBATE - The House proceeded with forty minutes of debate on S. 1510.
+- 2024-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-11-12 — Mr. Higgins (LA) moved to suspend the rules and pass the bill.
+- 2024-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2024-11-19 — Presented to President.
+- 2024-11-19 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-131.
+- 2024-11-25 — Became Public Law No: 118-131.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
