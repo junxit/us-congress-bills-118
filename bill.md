@@ -16,7 +16,8 @@ This Act may be cited as the “Protecting our Communities from Failure to Secur
 ## § 2. Prohibition on providing housing to specified aliens
 
 - **(a)** *In general* No Federal funds may be used to provide housing to specified aliens on any land under the administrative jurisdiction of the Federal land management agencies, including through leases, contracts, or agreements.
-- **(b)** *Definitions* In this section:
-  - **(1)** *Federal land management agencies* The term “Federal land management agencies” means the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, and the Forest Service.
-  - **(2)** *Housing* The term “housing” means a temporary or permanent encampment used for the primary purpose of sheltering specified aliens.
-  - **(3)** *Specified alien* The term “specified alien” means an alien who has not been admitted, as such terms are defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)).
+- **(b)** *Revocation of Lease* The lease between the United States of America/United States Department of the Interior/National Park Service and the City of New York for the Premises known as Portions of Floyd Bennett Field, in the Jamaica Bay Unit of Gateway National Recreation Area (NPS Lease# L–GATE912–2023, Commencement Date - September 15, 2023) is hereby revoked.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Federal land management agencies* The term Federal land management agencies means the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, and the Forest Service.
+  - **(2)** *Housing* The term housing means a temporary or permanent encampment used for the primary purpose of sheltering specified aliens.
+  - **(3)** *Specified alien* The term specified alien means an alien who has not been admitted, as such terms are defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)).
