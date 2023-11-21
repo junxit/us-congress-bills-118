@@ -15,7 +15,7 @@ This Act may be cited as the “Building on Reemployment Improvements to Deliver
 
 ## § 2. Eligibility for reemployment services
 
-Section 306(a) of the Social Security Act (42 U.S.C. 506(a)) is amended—
-
-- **(1)** by striking “individuals referred to reemployment services as described in section 303(j)” and inserting “claimants for unemployment compensation, including claimants referred to reemployment services as described in section 303(j),”; and
-- **(2)** by striking “such individuals” and inserting “such claimants”.
+- **(a)** *In general* Section 306(a) of the Social Security Act (42 U.S.C. 506(a)) is amended—
+  - **(1)** by striking “individuals referred to reemployment services as described in section 303(j)” and inserting “claimants for regular compensation, including claimants referred to reemployment services as described in section 303(j),”; and
+  - **(2)** by striking “such individuals” and inserting “such claimants”.
+- **(b)** *Effective date* The amendments made by subsection (a) shall take effect on the date of enactment of this Act.

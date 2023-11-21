@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5861
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 506
 
-> by striking “individuals referred to reemployment services as described in section 303(j)” and inserting “claimants for unemployment compensation, including claimants referred to reemployment services as described in section 303(j),”; and
+> by striking “individuals referred to reemployment services as described in section 303(j)” and inserting “claimants for regular compensation, including claimants referred to reemployment services as described in section 303(j),”; and
 
 | | |
 |---|---|
 | Removed | `individuals referred to reemployment services as described in section 303(j)` |
-| Inserted | `claimants for unemployment compensation, including claimants referred to reemployment services as described in section 303(j),` |
+| Inserted | `claimants for regular compensation, including claimants referred to reemployment services as described in section 303(j),` |
 
 ### 42 U.S.C. § 506
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5861
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5861
@@ -29,3 +29,8 @@ BRIDGE for Workers Act
 - 2023-10-02 — Introduced in House
 - 2023-10-02 — Introduced in House
 - 2023-10-02 — Referred to the House Committee on Ways and Means.
+- 2023-11-02 — Committee Consideration and Mark-up Session Held
+- 2023-11-02 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 41 - 0.
+- 2023-11-21 — Placed on the Union Calendar, Calendar No. 222.
+- 2023-11-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-277.
+- 2023-11-21 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-277.
