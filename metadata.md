@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5933
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5933
@@ -16,7 +16,7 @@ DETERRENT Act
 
 - Rep. Steel, Michelle [R-CA-45] (S001135)
 
-## Cosponsors (22)
+## Cosponsors (26)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
@@ -40,6 +40,10 @@ DETERRENT Act
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Chavez-DeRemer, Lori [R-OR-5] (C001135)
+- Rep. Miller, Carol D. [R-WV-1] (M001205)
 
 ## Committees (1)
 
@@ -50,3 +54,6 @@ DETERRENT Act
 - 2023-10-11 — Introduced in House
 - 2023-10-11 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Education and the Workforce.
+- 2023-11-24 — Placed on the Union Calendar, Calendar No. 223.
+- 2023-11-24 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-278.
+- 2023-11-24 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-278.
