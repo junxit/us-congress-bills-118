@@ -1,7 +1,7 @@
 ---
 measure: S. 910
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 910
@@ -28,3 +28,7 @@ A bill to amend the Grand Ronde Reservation Act, and for other purposes.
 
 - 2023-03-22 — Introduced in Senate
 - 2023-03-22 — Read twice and referred to the Committee on Indian Affairs.
+- 2023-07-19 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-11-27 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-113.
+- 2023-11-27 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-113.
+- 2023-11-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 251.
