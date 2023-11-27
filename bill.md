@@ -21,3 +21,7 @@ Section 332(b) of William M. (Mac) Thornberry National Defense Authorization Act
 - **(2)** by redesignating paragraph (20) as paragraph (21); and
 - **(3)** by inserting after paragraph (19), the following:
   > - **(20)** the Consumer Product Safety Commission; and
+
+## § 3. Limitation on new funding
+
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act (including the amendments made by this Act).
