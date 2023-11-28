@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 895
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 895
+
+> Condemning calls from Members of Congress for the expulsion of Palestinians from the United States.
+
+## Preamble
+
+- Whereas, on November 2, 2023, H.R. 6211 was introduced and promoted as legislation that would “Expel Palestinians from the United States”;
+- Whereas this rhetoric calls for the removal of an entire people from our Nation;
+- Whereas this rhetoric unfairly and dangerously conflates Palestinians with Hamas and its actions;
+- Whereas this rhetoric implies immigrants are a danger to America, ignoring our Nation’s long history of welcoming people of all faiths and backgrounds; and
+- Whereas this rhetoric is un-American, bigoted, and is designed to inflame tensions which could result in violence: Now, therefore, be it
+
+That the House of Representatives condemns calls from Members of Congress for the expulsion of Palestinians from the United States.
