@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 793
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 793
@@ -16,7 +16,7 @@ Calling on Hamas to immediately release hostages taken during October 2023 attac
 
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Cosponsors (207)
+## Cosponsors (239)
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
@@ -225,13 +225,59 @@ Calling on Hamas to immediately release hostages taken during October 2023 attac
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 - Rep. Jackson, Jeff [D-NC-14] (J000308)
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Bera, Ami [D-CA-6] (B001287)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Vasquez, Gabe [D-NM-2] (V000136)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2023-11-28 — [House 118-1-676](votes/house-118-1-0676.md) — On Motion to Suspend the Rules and Agree — **Passed** (414–0)
 
 ## Actions
 
 - 2023-10-17 — Introduced in House
 - 2023-10-17 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Foreign Affairs.
+- 2023-11-07 — Committee Consideration and Mark-up Session Held
+- 2023-11-07 — Ordered to be Reported by Voice Vote.
+- 2023-11-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-11-28 — Considered as unfinished business. (consideration: CR H5928)
+- 2023-11-28 — Considered under suspension of the rules. (consideration: CR H5921-5923)
+- 2023-11-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 793.
+- 2023-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-28 — Mr. Hill moved to suspend the rules and agree to the resolution.
+- 2023-11-28 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 676). (text: CR H5921)
+- 2023-11-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 676). (text: CR H5921)
