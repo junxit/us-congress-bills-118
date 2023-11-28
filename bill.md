@@ -17,7 +17,7 @@ This Act may be cited as the “Successful Entrepreneurship for Reservists and V
 
 Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding at the end the following:
 
-> - **(4)** *Report* Along with the budget justification documents for the Small Business Administration submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31, United States Code, the Administrator shall submit a report—
+> - **(4)** *Report* Along with the budget justification documents for the Small Business Administration submitted to Congress in connection with the budget for a fiscal year submitted under section 1105 of title 31, United States Code, the Administrator shall submit a report—
 >   - **(A)** discussing the appointments made to and activities of the task force; and
 >   - **(B)** identifying and outlining a plan for outreach and promotion of the programs and services for veterans, including Veteran Business Outreach Centers, Boots to Business, Boots to Business Reboot, Service-Disabled Entrepreneurship Development Training Program, Veteran Institute for Procurement, Women Veteran Entrepreneurship Training Program, and Veteran Women Igniting the Spirit of Entrepreneurship.
 
@@ -47,4 +47,4 @@ Section 32(c) of the Small Business Act (15 U.S.C. 657b(c)) is amended by adding
 
 ## § 4. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and amendments shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
+No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
