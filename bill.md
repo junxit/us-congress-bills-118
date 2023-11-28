@@ -44,8 +44,8 @@ This Act may be cited as the “Small Business Contracting Transparency Act of 2
 Section 31 of the Small Business Act (15 U.S.C. 657a) is amended—
 
 - **(1)** by redesignating subsection (f) as subsection (g); and
-- **(2)** by adding at the end the following new subsection:
-  > - **(e)** *Report* Not later than May 1, 2024, and annually thereafter, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on HUBZone small business concerns. Such report shall include, for the fiscal year preceding the date of the report, the following:
+- **(2)** by inserting after subsection (e) the following new subsection:
+  > - **(f)** *Report* Not later than May 1, 2024, and annually thereafter, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on HUBZone small business concerns. Such report shall include, for the fiscal year preceding the date of the report, the following:
   >   - **(1)** The number of applications for certification as a qualified HUBZone small business concern that have sufficient information for the Administrator to make a certification determination, disaggregated by—
   >     - **(A)** the number of applications certified;
   >     - **(B)** the number of applications denied; and
@@ -78,4 +78,4 @@ Section 36 of the Small Business Act (15 U.S.C. 657f) is amended by adding at th
 
 ## § 5. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and amendments shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
+No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
