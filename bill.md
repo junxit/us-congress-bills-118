@@ -29,4 +29,4 @@ This Act may be cited as the “Providing Opportunities to Show Transparency via
 
 ## § 3. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and amendments shall be carried out using amounts otherwise appropriated.
+No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.

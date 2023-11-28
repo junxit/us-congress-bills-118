@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4668
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4668
@@ -36,3 +36,9 @@ POST IT Act of 2023
 - 2023-09-01 — Placed on the Union Calendar, Calendar No. 148.
 - 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-185.
 - 2023-09-01 — Reported by the Committee on Small Business. H. Rept. 118-185.
+- 2023-11-28 — Considered under suspension of the rules. (consideration: CR H5913-5914)
+- 2023-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4668.
+- 2023-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2023-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5913)
+- 2023-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5913)
