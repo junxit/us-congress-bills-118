@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4668
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4668
@@ -22,9 +22,10 @@ POST IT Act of 2023
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ POST IT Act of 2023
 - 2023-11-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2023-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5913)
 - 2023-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5913)
+- 2023-11-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
