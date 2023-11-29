@@ -1,7 +1,7 @@
 ---
 measure: S. 1278
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1278
@@ -33,3 +33,5 @@ A bill to designate the Federal building located at 985 Michigan Avenue in Detro
 - 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.
+- 2023-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5677; text: CR S5677)
+- 2023-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5677; text: CR S5677)
