@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3315
@@ -31,3 +31,8 @@ National Guard and Reservists Debt Relief Extension Act of 2023
 - 2023-05-15 — Introduced in House
 - 2023-05-15 — Introduced in House
 - 2023-05-15 — Referred to the House Committee on the Judiciary.
+- 2023-11-02 — Committee Consideration and Mark-up Session Held
+- 2023-11-02 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2023-11-29 — Placed on the Union Calendar, Calendar No. 227.
+- 2023-11-29 — Reported by the Committee on Judiciary. H. Rept. 118-283.
+- 2023-11-29 — Reported by the Committee on Judiciary. H. Rept. 118-283.
