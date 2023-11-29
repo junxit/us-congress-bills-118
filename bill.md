@@ -27,7 +27,7 @@ This Act may be cited as the “Ensuring Accountability in Agency Rulemaking Act
   - **(2)** *OIRA guidance and compliance* The Administrator shall provide guidance on the implementation of and shall monitor agency compliance with this section.
 - **(c)** *Rules of construction* This section may not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 - **(d)** *Definitions* In this section:
-  - **(1)** *Administrator* The term Administrator means the Administrator of the Office of Information and Regulatory Affairs in the Office of Management and Budget.
+  - **(1)** *Administrator* The term Administrator means the Administrator of the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB).
   - **(2)** *Agency* The term agency has the meaning given that term under section 551 of title 5, United States Code.
   - **(3)** *Rule* The term rule has the meaning given that term in section 551 of title 5, United States Code, and does not include any rule of agency organization, procedure, or practice that does not substantially affect the rights or obligations of non-agency parties.
   - **(4)** *Senior appointee* The term senior appointee means an individual appointed by the President, or performing the functions and duties of an office that requires appointment by the President, or a non-career member of the Senior Executive Service (or equivalent agency system).
