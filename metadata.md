@@ -1,7 +1,7 @@
 ---
 measure: S. 1278
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1278
@@ -35,3 +35,20 @@ A bill to designate the Federal building located at 985 Michigan Avenue in Detro
 - 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.
 - 2023-11-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5677; text: CR S5677)
 - 2023-11-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5677; text: CR S5677)
+- 2023-12-05 — Held at the desk.
+- 2023-12-05 — Message on Senate action sent to the House.
+- 2023-12-05 — Received in the House.
+- 2024-03-11 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Molinaro objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1073)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on S. 1278.
+- 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
+- 2024-03-13 — Considered as unfinished business. (consideration: CR H1171)
+- 2024-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 3/11/2024 CR H1073)
+- 2024-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 3/11/2024 CR H1073)
+- 2024-03-20 — Presented to President.
+- 2024-03-20 — Presented to President.
+- 2024-03-22 — Became Public Law No: 118-46.
+- 2024-03-22 — Became Public Law No: 118-46.
+- 2024-03-22 — Signed by President.
+- 2024-03-22 — Signed by President.
