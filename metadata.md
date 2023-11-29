@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4670
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4670
@@ -22,9 +22,10 @@ Small Business Contracting Transparency Act of 2023
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Small Business Contracting Transparency Act of 2023
 - 2023-11-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2023-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5914-5915)
 - 2023-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5914-5915)
+- 2023-11-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
