@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 542
 
-> To amend title 38, United States Code, to improve certain programs of the Department of Veterans Affairs for home- and community-based services for veterans, and for other purposes.
+> To amend title 38, United States Code, to improve certain programs of the Department of Veterans Affairs for home and community based services for veterans, and for other purposes.
 
 ## § 1. Short title; table of contents
 
@@ -20,7 +20,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** by striking “The total cost” and inserting “(1) Except as provided in paragraph (2), the total cost”;
   - **(2)** by striking “65 percent” and inserting “100 percent”; and
   - **(3)** by adding at the end the following new paragraph:
-    > - **(2)** The total cost of providing services or in-kind assistance in the case of any veteran for any fiscal year under the program may exceed 100 percent of the cost that would otherwise have been incurred as specified in paragraph (1) if the Secretary determines, based on a consideration of clinical need, geographic market factors, and such other matters as the Secretary may prescribe through regulation, that such higher total cost is in the best interest of the veteran.
+    > - **(2)**
+    >   - **(A)** The total cost of providing services or in-kind assistance in the case of any veteran described in subparagraph (B) for any fiscal year under the program may exceed 100 percent of the cost that would otherwise have been incurred as specified in paragraph (1) if the Secretary determines, based on a consideration of clinical need, geographic market factors, and such other matters as the Secretary may prescribe through regulation, that such higher total cost is in the best interest of the veteran.
+    >   - **(B)** A veteran described in this subparagraph is a veteran with amyotrophic lateral sclerosis, a spinal cord injury, or a condition the Secretary determines to be similar to such conditions.
 
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to fiscal years beginning on or after the date of the enactment of this Act.
 
@@ -37,7 +39,7 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
   >
   > - **(a)** *In general* In furnishing noninstitutional alternatives to nursing home care pursuant to the authority of section 1720C of this title (or any other authority under this chapter or other provision of law administered by the Secretary of Veterans Affairs), the Secretary shall carry out each of the programs specified in this section in accordance with such relevant authorities except as otherwise provided in this section.
   > - **(b)** *Veteran-Directed Care program*
-  >   - **(1)** The Secretary of Veterans Affairs, in collaboration with the Secretary of Health and Human Services, shall carry out a program to be known as the “Veteran-Directed Care program” under which the Secretary of Veterans Affairs may enter into agreements with the providers described in paragraph (2) to provide to eligible veterans funds to obtain such in-home care services and related items as may be determined appropriate by the Secretary of Veterans Affairs and selected by the veteran, including through the veteran hiring individuals to provide such services and items or directly purchasing such services and items.
+  >   - **(1)** The Secretary of Veterans Affairs, in collaboration with the Secretary of Health and Human Services, shall carry out a program to be known as the “Veteran-Directed Care program”. Under such program, the Secretary of Veterans Affairs may enter into agreements with the providers described in paragraph (2) to provide to eligible veterans funds, to the extent practicable, to obtain such in-home care services and related items as may be determined appropriate by the Secretary of Veterans Affairs and selected by the veteran, including through the veteran hiring individuals to provide such services and items or directly purchasing such services and items.
   >   - **(2)** The providers described in this paragraph are the following:
   >     - **(A)** An Aging and Disability Resource Center, an area agency on aging, or a State agency.
   >     - **(B)** A center for independent living.
@@ -49,7 +51,7 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
   >   - **(4)** If a veteran participating in the Veteran-Directed Care program is catastrophically disabled, the veteran may continue to use funds under the program during a period of hospitalization in the same manner that the veteran would be authorized to use such funds under the program if the veteran were not hospitalized.
   > - **(c)** *Homemaker and Home Health Aide program*
   >   - **(1)** The Secretary shall carry out a program to be known as the “Homemaker and Home Health Aide program” under which the Secretary may enter into agreements with home health agencies to provide to eligible veterans such home health aide services as may be determined appropriate by the Secretary.
-  >   - **(2)** In carrying out the Homemaker and Home Health Aide program, the Secretary shall ensure the availability of such program—
+  >   - **(2)** In carrying out the Homemaker and Home Health Aide program, the Secretary shall, to the extent practicable, ensure the availability of such program—
   >     - **(A)** in the locations specified in subparagraph (B) of subsection (b)(3); and
   >     - **(B)** for the veteran populations specified in subparagraph (C) of such subsection.
   > - **(d)** *Home-Based Primary Care program* The Secretary shall carry out a program to be known as the “Home-Based Primary Care program” under which the Secretary may furnish to eligible veterans in-home health care, the provision of which is overseen by a provider of the Department.
@@ -101,7 +103,7 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
     - **(A)** by amending subparagraph (A)(ii)(III) to read as follows:
       > - **(III)** covered respite care of not less than 30 days annually;
 
-    - **(B)** by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) through (C), respectively; and
+    - **(B)** by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and
   - **(2)** by amending subsection (b)(3)(A)(iii) to read as follows:
     > - **(iii)** Covered respite care of not less than 30 days annually.
 
@@ -183,7 +185,11 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
     - **(B)** *Covered entities* The entities described in this subparagraph are veterans service organizations and nonprofit organizations with a focus on caregiver support (as determined by the Secretary).
   - **(4)** *Collaboration for Native American veterans* The Secretary of Veterans Affairs shall collaborate with the Director of the Indian Health Service and representatives from tribal health programs and Urban Indian organizations to ensure the availability of home- and community-based services for Native American veterans, including Native American veterans receiving health care and medical services under multiple health care systems.
 
-## § 9. Definitions
+## § 9. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “January 26, 2032”.
+
+## § 10. Definitions
 
 In this Act:
 
