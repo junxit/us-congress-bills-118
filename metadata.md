@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4480
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4480
@@ -21,9 +21,10 @@ SERV Act
 - Rep. Alford, Mark [R-MO-4] (A000379)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ SERV Act
 - 2023-11-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2023-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5919)
 - 2023-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5919)
+- 2023-11-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
