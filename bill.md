@@ -44,4 +44,4 @@ In this Act:
 
 ## § 5. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act. Such Act shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
+No additional amounts are authorized to be appropriated to carry out this Act.
