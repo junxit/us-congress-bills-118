@@ -1,0 +1,22 @@
+---
+legis-num: S. 3374
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3374
+
+> To waive General Schedule qualification standards related to work experience for nurses at military medical treatment facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “REWARD Experience Act of 2023”.
+
+## § 2. Waiver with respect to experienced nurses at military medical treatment facilities
+
+- **(a)** *In general* The hiring manager of a military medical treatment facility or other health care facility of the Department of Defense may waive any General Schedule qualification standard related to work experience established by the Director of the Office of Personnel Management in the case of any applicant for a nursing or practical nurse position in a medical treatment facility or other health care facility the Department of Defense who—
+  - **(1)(A)** is a nurse or practical nurse in the Department of Defense; or
+    - **(B)** was a nurse or practical nurse in the Department of Defense for at least 1 year; and
+  - **(2)** after commencing work as a nurse or practical nurse in the Department of Defense, obtained a Bachelor's degree or graduate degree from an accredited professional nursing educational program.
+- **(b)** *Certification* If, in the case of any applicant described in subsection (a), a hiring manager waives a qualification standard in accordance with such subsection, such hiring manager shall submit to the Director of the Office of Personnel Management a certification that such applicant meets all remaining General Schedule qualification standards established by the Director of the Office of Personnel Management for the applicable position.
