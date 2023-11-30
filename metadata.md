@@ -1,7 +1,7 @@
 ---
 measure: S. 1332
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1332
@@ -16,9 +16,13 @@ Recognizing the Role of Direct Support Professionals Act
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ Recognizing the Role of Direct Support Professionals Act
 
 - 2023-04-27 — Introduced in Senate
 - 2023-04-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-116.
+- 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-116.
+- 2023-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.
