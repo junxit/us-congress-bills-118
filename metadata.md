@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5283
@@ -40,6 +40,11 @@ Protecting our Communities from Failure to Secure the Border Act of 2023
 - House — Agriculture Committee
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2023-11-30 — [House 118-1-688](votes/house-118-1-0688.md) — On Agreeing to the Amendment — **Failed** (206–223)
+- 2023-11-30 — [House 118-1-689](votes/house-118-1-0689.md) — On Passage — **Passed** (224–203)
+
 ## Actions
 
 - 2023-08-25 — Introduced in House
@@ -58,3 +63,36 @@ Protecting our Communities from Failure to Secure the Border Act of 2023
 - 2023-11-17 — Placed on the Union Calendar, Calendar No. 220.
 - 2023-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-275, Part I.
 - 2023-11-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-275, Part I.
+- 2023-11-28 — Rules Committee Resolution H. Res. 891 Reported to House. Rule provides for consideration of H.R. 5283, H.R. 5961 and S.J. Res. 32. The resolution provides for consideration of H.R. 5283 and H.R. 5961 under a structured rule and S. J. Res. 32 under a closed rule. Rule provides for one hour of general debate on each measure with one motion to recommit on H.R. 5283 and H.R. 5961 and one motion to commit on S. J. Res. 32.
+- 2023-11-29 — Amendment (A001) offered by Mr. Ogles. (consideration: CR H5967-5968; text: CR H5967-5968)
+- 2023-11-29 — Amendment (A002) offered by Ms. Velazquez. (consideration: CR H5968-5970; text: CR H5968-5969)
+- 2023-11-29 — Committee of the Whole House on the state of the Union rises leaving H.R. 5283 as unfinished business.
+- 2023-11-29 — Considered under the provisions of rule H. Res. 891. (consideration: CR H5957-5970)
+- 2023-11-29 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 1.
+- 2023-11-29 — DEBATE - Pursuant to the provisions of H. Res. 891, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez amendment No. 2.
+- 2023-11-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5283.
+- 2023-11-29 — House Amendment Offered
+- 2023-11-29 — House Amendment Offered
+- 2023-11-29 — House amendment agreed to: On agreeing to the Ogles amendment (A001) Agreed to by voice vote.
+- 2023-11-29 — House amendment agreed to: On agreeing to the Ogles amendment (A001) Agreed to by voice vote.
+- 2023-11-29 — House amendment offered
+- 2023-11-29 — House amendment offered
+- 2023-11-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 891 and Rule XVIII.
+- 2023-11-29 — Mr. Westerman moved that the committee rise.
+- 2023-11-29 — On agreeing to the Ogles amendment (A001) Agreed to by voice vote.
+- 2023-11-29 — On motion that the committee rise Agreed to by voice vote.
+- 2023-11-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez amendment No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Velazquez demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2023-11-29 — Rule provides for consideration of H.R. 5283, H.R. 5961 and S.J. Res. 32. The resolution provides for consideration of H.R. 5283 and H.R. 5961 under a structured rule and S. J. Res. 32 under a closed rule. Rule provides for one hour of general debate on each measure with one motion to recommit on H.R. 5283 and H.R. 5961 and one motion to commit on S. J. Res. 32.
+- 2023-11-29 — The Speaker designated the Honorable Lisa C. McClain to act as Chairwoman of the Committee.
+- 2023-11-30 — 
+- 2023-11-30 — Considered as unfinished business. (consideration: CR H6027-6029)
+- 2023-11-30 — House amendment not agreed to: On agreeing to the Velazquez amendment (A002) Failed by recorded vote: 206 - 223, 1 Present (Roll no. 688).
+- 2023-11-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-11-30 — On agreeing to the Velazquez amendment (A002) Failed by recorded vote: 206 - 223, 1 Present (Roll no. 688).
+- 2023-11-30 — On passage Passed by recorded vote: 224 - 203, 1 Present (Roll no. 689).
+- 2023-11-30 — Passed/agreed to in House: On passage Passed by recorded vote: 224 - 203, 1 Present (Roll no. 689).
+- 2023-11-30 — Roll call votes on amendments in House
+- 2023-11-30 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-11-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2023-11-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5283.
+- 2023-11-30 — The previous question was ordered pursuant to the rule.
