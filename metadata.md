@@ -1,7 +1,7 @@
 ---
 measure: S. 2256
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2256
@@ -28,3 +28,7 @@ Federal Cybersecurity Workforce Expansion Act
 
 - 2023-07-12 — Introduced in Senate
 - 2023-07-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-117.
+- 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments. With written report No. 118-117.
+- 2023-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
