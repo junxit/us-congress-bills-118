@@ -1,7 +1,7 @@
 ---
 measure: H.R. 510
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 510
@@ -16,6 +16,11 @@ Chinese Currency Accountability Act of 2023
 
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
+## Cosponsors (2)
+
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +30,8 @@ Chinese Currency Accountability Act of 2023
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Introduced in House
 - 2023-01-25 — Referred to the House Committee on Financial Services.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 40 - 0.
+- 2023-12-01 — Placed on the Union Calendar, Calendar No. 238.
+- 2023-12-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-294.
+- 2023-12-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-294.
