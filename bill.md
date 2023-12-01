@@ -32,7 +32,7 @@ This Act may be cited as the “Improving Disclosure for Investors Act of 2023�
 - **(e)** *Treatment of revisions not completed in a timely manner* If the Commission fails to finalize the rules, regulations, amendments, or interpretations required under subsection (a) before the date specified in such subsection—
   - **(1)** a covered entity may deliver regulatory documents using electronic delivery in accordance with subsections (b) through (d); and
   - **(2)** such electronic delivery shall be deemed to satisfy the obligation of the covered entity to deliver regulatory documents required under the securities laws.
-- **(f)** *Other action*
+- **(f)** *Other required actions*
   - **(1)** *Review of rules* The Commission shall—
     - **(A)** within 180 days of the date of enactment of this Act, conduct a review of the rules and regulations of the Commission to determine whether any such rules or regulations require delivery of written documents to investors; and
     - **(B)** within 1 year of the date of enactment of this Act, promulgate amendments to such rules or regulations to provide that any requirement to deliver a regulatory document “in writing” may be satisfied by electronic delivery.
@@ -41,20 +41,20 @@ This Act may be cited as the “Improving Disclosure for Investors Act of 2023�
 - **(g)** *Definitions* In this section:
   - **(1)** *Commission* The term Commission means the Securities and Exchange Commission.
   - **(2)** *Covered entity* The term covered entity means—
-    - **(A)** an investment company (as defined in section 3(a)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3)) that is registered under such Act;
+    - **(A)** an investment company (as defined in section 3(a)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(a)(1))) that is registered under such Act;
     - **(B)** a business development company (as defined in section 2(a) the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))) that has elected to be regulated as such under such Act;
     - **(C)** a registered broker or dealer (as defined in section 3(a)(4) and section 3(a)(5) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(4) & 78c(a)(5));
     - **(D)** a registered municipal securities dealer (as defined in section 3(a)(30) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(30));
     - **(E)** a registered government securities broker or government securities dealer (as defined in section 3(a)(43) and section 3(a)(44) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(43) & 78c(a)(44));
-    - **(F)** a registered investment adviser (as defined in section 202(a)(11) of the Investment Advisers Act of 1940) (15 U.S.C. 80b–1);
-    - **(G)** a registered transfer agent (as defined in section 3(a)(25) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)); or
-    - **(H)** a registered funding portal (as defined in section 3(a)(80) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)).
+    - **(F)** a registered investment adviser (as defined in section 202(a)(11) of the Investment Advisers Act of 1940) (15 U.S.C. 80b–1(a)(11));
+    - **(G)** a registered transfer agent (as defined in section 3(a)(25) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(25)); or
+    - **(H)** a registered funding portal (as defined in the second paragraph (80) of section 3(a) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(80)).
   - **(3)** *Electronic delivery* The term electronic delivery, with respect to regulatory documents, includes—
     - **(A)** the direct delivery of such regulatory document to an electronic address of an investor;
     - **(B)** the posting of such regulatory document to a website and direct electronic delivery of an appropriate notice of the availability of the regulatory document to the investor; and
     - **(C)** an electronic method reasonably designed to ensure receipt of such regulatory document by the investor.
   - **(4)** *Regulatory documents* The term regulatory documents includes—
-    - **(A)** prospectuses meeting the requirements of section 10(a) of the Securities Act of 1933 (15 U.S.C. 77j);
+    - **(A)** prospectuses meeting the requirements of section 10(a) of the Securities Act of 1933 (15 U.S.C. 77j(a));
     - **(B)** summary prospectuses meeting the requirements of—
       - **(i)** section 230.498 of title 17, Code of Federal Regulations; or
       - **(ii)** section 230.498A of title 17, Code of Federal Regulations;
@@ -68,6 +68,6 @@ This Act may be cited as the “Improving Disclosure for Investors Act of 2023�
     - **(J)** all other regulatory documents required to be delivered by covered entities to investors under the securities laws and the rules and regulations of the Commission and the self-regulatory organizations.
   - **(5)** *Securities laws* The term securities laws has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
   - **(6)** *Self-regulatory organization* The term self-regulatory organization means—
-    - **(A)** a self-regulatory organization, as defined in section 2(a)(26) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)); and
+    - **(A)** a self-regulatory organization, as defined in section 2(a)(26) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(26)); and
     - **(B)** the Municipal Securities Rulemaking Board.
   - **(7)** *Website* The term website means an internet website or other digital, internet, or electronic-based information repository, such as a mobile application, to which an investor of a covered entity has been provided reasonable access.
