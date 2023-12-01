@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1161
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1161
@@ -25,3 +25,8 @@ Aligning SEC Regulations for the World Bank’s International Development Associ
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Referred to the House Committee on Financial Services.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 38 - 0.
+- 2023-12-01 — Placed on the Union Calendar, Calendar No. 233.
+- 2023-12-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-289.
+- 2023-12-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-289.
