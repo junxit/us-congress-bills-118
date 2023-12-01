@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1568
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 1431` | amend | Paragraph (2) of section 431(c) of the Tariff Act of 1930 (19 U.S.C. 1431) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1431` | amend | Paragraph (2) of section 431(c) of the Tariff Act of 1930 (19 U.S.C. 1431(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

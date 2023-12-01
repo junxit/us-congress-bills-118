@@ -15,7 +15,7 @@ This Act may be cited as the “Moving Americans Privacy Protection Act”.
 
 ## § 2. Protection of personally identifiable information
 
-- **(a)** *In general* Paragraph (2) of section 431(c) of the Tariff Act of 1930 (19 U.S.C. 1431) is amended to read as follows:
+- **(a)** *In general* Paragraph (2) of section 431(c) of the Tariff Act of 1930 (19 U.S.C. 1431(c)) is amended to read as follows:
   > - **(2)**
   >   - **(A)** The information listed in paragraph (1) shall not be available for public disclosure if—
   >     - **(i)** the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
