@@ -21,7 +21,7 @@ This Act may be cited as the “Taiwan Conflict Deterrence Act of 2023”.
     - **(B)** A list of any financial institutions that—
       - **(i)** maintain an account in connection with significant funds described in subparagraph (A); or
       - **(ii)** otherwise provide significant financial services to a natural person covered by the report.
-  - **(2)** *Briefing required* Not later than 30 days after submitting a report described under paragraph (1), the Secretary of the Treasury, or a designee of the Secretary, shall brief the appropriate Members of Congress on the funds covered by the report, including a description of how the funds were acquired, and any illicit or corrupt means employed to acquire or use the funds.
+  - **(2)** *Briefing required* Not later than 30 days after submitting a report described under paragraph (1), the Secretary of the Treasury, or a designee of the Secretary, shall provide to the appropriate Members of Congress an unclassified or classified briefing (as determined appropriate by the Secretary) on the funds covered by the report, including a description of how the funds were acquired, and any illicit or corrupt means employed to acquire or use the funds.
   - **(3)** *Exemptions* The requirements described under paragraph (1) may not be applied with respect to a natural person or a financial institution, as the case may be, if the President determines:
     - **(A)** The funds described under paragraph (1)(A) were primarily acquired through legal and noncorrupt means.
     - **(B)** The natural person has agreed to provide significant cooperation to the United States for an important national security purpose with respect to China.
@@ -39,18 +39,31 @@ This Act may be cited as the “Taiwan Conflict Deterrence Act of 2023”.
   - **(3)** A member of the Central Committee of the Chinese Communist Party that—
     - **(A)** is none of the foregoing; and
     - **(B)** performs any official duty that directly or indirectly affects Taiwan.
-- **(c)** *Form of report; public availability*
-  - **(1)** *Form* The report required under subsection (a) shall be submitted in unclassified form but may contain a classified annex.
-  - **(2)** *Public availability* The Secretary of the Treasury shall make the unclassified portion of the report required under subsection (a) available to the public on the website and social media accounts of the Department of the Treasury—
+- **(c)** *Form of reports; public availability*
+  - **(1)** *Form* The reports required under paragraphs (1) and (4) of subsection (a) shall be submitted in unclassified form but may contain a classified annex.
+  - **(2)** *Public availability* The Secretary of the Treasury shall make the unclassified portion of the report required under subsection (a)(1) available to the public on the website and social media accounts of the Department of the Treasury—
     - **(A)** in English, Chinese, and any other language that the Secretary finds appropriate; and
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
 
 ## § 3. Prohibition on financial services for certain immediate family
 
-- **(a)** *In general* The Secretary of the Treasury may prohibit a United States financial institution, and any person owned or controlled by a United States financial institution, from engaging in a significant transaction with—
-  - **(1)** a natural person covered by a report made under section 2(a); or
+- **(a)** *In general* The Secretary of the Treasury shall prohibit a United States financial institution, and any person owned or controlled by a United States financial institution, from engaging in a significant transaction with—
+  - **(1)** a natural person covered by a report made under section 2(a); and
   - **(2)** the immediate family of a person described under paragraph (1), if the Secretary finds that such immediate family benefits from funds described in the report.
-- **(b)** *Termination* Subsection (a) shall have no force or effect on the earlier of—
+- **(b)** *Exceptions*
+  - **(1)** *Exception for intelligence, law enforcement, and national security activities* Subsection (a) shall not apply with respect to any intelligence, law enforcement, or national security activity of the United States.
+  - **(2)** *Waiver* The President may waive the application of subsection (a) with respect to a person upon reporting to the appropriate Members of Congress that—
+    - **(A)** the waiver would substantially promote the objective of ending the threat described under section 2(a)(1);
+    - **(B)** the threat described under section 2(a)(1) is no longer present; or
+    - **(C)** the waiver is essential to the national security interests of the United States.
+  - **(3)** *Form of reports* The reports required under paragraph (2) shall be submitted in unclassified form but may contain a classified annex.
+  - **(4)** *Rule of construction*
+    - **(A)** *In general* Nothing in this section shall be construed as authorizing or requiring any sanction with respect to the importation of any good.
+    - **(B)** *Good defined* In this paragraph, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(c)** *Implementation; penalties*
+  - **(1)** *Implementation* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. Not later than 60 days after issuing a license pursuant to this section, the President shall submit a copy of the license to the appropriate Members of Congress.
+  - **(2)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section 206.
+- **(d)** *Termination* This section shall have no force or effect on the earlier of—
   - **(1)** the date that is 30 days after the date that the President reports to the appropriate Members of Congress that the threat described under section 2(a)(1) is no longer present; or
   - **(2)** the date that is 25 years after the date that the Secretary of the Treasury submits the final report required under section 2(a)(1).
 
