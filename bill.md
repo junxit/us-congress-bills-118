@@ -34,23 +34,39 @@ This Act may be cited as the “Prohibiting Russian Uranium Imports Act”.
   >       - **(i)** administer the import limitations described in subparagraph (B) in accordance with the provisions of the Suspension Agreement, including the provisions described in subsection (c)(2)(B)(i);
   >       - **(ii)** be responsible for enforcing the import limitations described in subparagraph (B); and
   >       - **(iii)** enforce the import limitations described in subparagraph (B) in a manner that imposes a minimal burden on the commercial nuclear industry.
-  >     - **(D)** *Notification to Congress* Upon issuing a waiver under subparagraph (A), the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate a notification that a waiver has been issued, which shall include identification of the recipient of the waiver.
+  >     - **(D)** *Notification to Congress* Upon issuing a waiver under subparagraph (A), the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Energy and Natural Resources of the Senate a notification that a waiver has been issued, which shall include identification of the recipient of the waiver.
   >   - **(3)** *Applicability* This subsection does not apply to imports—
-  >     - **(A)** by or under contract to the Department of Energy for national security or nonproliferation purposes, as determined by the Secretary of Energy in consultation with the Secretary of State and the Secretary of Commerce; or
+  >     - **(A)** by or under contract to the Department of Energy for national security or nonproliferation purposes, as determined by the Secretary of Energy; or
   >     - **(B)** of non-uranium isotopes.
   >   - **(4)** *Termination* The provisions of this subsection shall terminate on December 31, 2040.
 
 - **(b)** *Conforming amendments*
   - **(1)** *In general* Section 3112A(c) of the USEC Privatization Act (42 U.S.C. 2297h–10a(c)) is amended—
-    - **(A)** in paragraph (2)(A)—
-      - **(i)** in clause (viii), by inserting “and” after the semicolon at the end;
-      - **(ii)** in clause (ix), by striking the semicolon and inserting a period; and
-      - **(iii)** by striking clauses (x) through (xxvii);
-    - **(B)** by striking paragraph (5);
-    - **(C)** in paragraph (6), by striking “In addition to the adjustment under paragraph (5)(A), the” and inserting “The”; and
-    - **(D)** in paragraph (9), by striking “December 31, 2040” and inserting “the date described in subsection (d)(1)”.
+    - **(A)** in paragraph (2)—
+      - **(i)** in subparagraph (A)—
+        - **(I)** in clause (viii), by inserting “and” after the semicolon at the end;
+        - **(II)** in clause (ix), by striking the semicolon and inserting a period; and
+        - **(III)** by striking clauses (x) through (xxvii); and
+      - **(ii)** in subparagraph (C)(i), by striking “paragraph (10)” and inserting “paragraph (9)”;
+    - **(B)** in paragraph (3), by striking “United States” and all that follows through “for processing” and inserting “United States for processing”;
+    - **(C)** by striking paragraph (5);
+    - **(D)** by redesignating paragraphs (6) through (12) as paragraphs (5) through (11), respectively;
+    - **(E)** in paragraph (5), as redesignated by subparagraph (D), by striking “In addition to the adjustment under paragraph (5)(A), the” and inserting “The”;
+    - **(F)** in subparagraph (A) of paragraph (7), as so redesignated, by striking “paragraph (10)” and inserting “paragraph (9)”;
+    - **(G)** in paragraph (8), as so redesignated, by striking “December 31, 2040” and inserting “the date described in subsection (d)(1)”; and
+    - **(H)** in subparagraph (A) of paragraph (9), as so redesignated, by striking “paragraphs (2)(C) and (8)” and inserting “paragraphs (2)(C) and (7)”.
   - **(2)** *Effective date* The amendment to section 3112A(c)(2)(A)(x) of the USEC Privatization Act (42 U.S.C. 2297h–10a(c)(2)(A)(x)) made by paragraph (1)(A) of this subsection shall take effect on the date that is 90 days after the date of enactment of this Act.
 
-## § 3. Amounts available for the American Assured Fuel Supply
+## § 3. Market evaluation and support
 
-Of the amounts made available to carry out the civil nuclear credit program established under section 40323(b) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18753(b)), not more than $1,500,000,000 may also be made available for purposes of the American Assured Fuel Supply of the Department of Energy.
+Not later than 60 days after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Energy and Natural Resources of the Senate a report that includes—
+
+- **(1)** an evaluation, with respect to the 5-year period that begins on the date of enactment of this Act, of the anticipated supply of low-enriched uranium (as defined in section 3112A(a) of the USEC Privatization Act (42 U.S.C. 2297h–10a(a))) available to replace imports of low-enriched uranium produced in the Russian Federation, taking into account—
+  - **(A)** waivers authorized to be issued under section 3112A(d) of the USEC Privatization Act (as added by section 2 of this Act);
+  - **(B)** private and government inventories of low-enriched uranium;
+  - **(C)** market demand for low-enriched uranium products; and
+  - **(D)** current orders and announced plans for expansion of low-enriched uranium production capacity, including domestic production capacity; and
+- **(2)** a description of proposed Department of Energy assistance, if the Secretary determines such assistance is needed based on the evaluation under paragraph (1), to support the expansion of domestic low-enriched uranium production capacity sufficient to meet domestic market demand for low-enriched uranium, taking into consideration—
+  - **(A)** market competition for low-enriched uranium production services;
+  - **(B)** low-enriched uranium supply diversity; and
+  - **(C)** the long-term uranium fuel supply needs of the United States.
