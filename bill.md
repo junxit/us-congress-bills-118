@@ -20,4 +20,4 @@ This Act may be cited as the “Clergy Act”.
 
 ## § 3. Report to Congress
 
-Not later than 90 days after the date of enactment of this Act, the Commissioner of Internal Revenue, in consultation with the Commissioner of Social Security, shall develop and submit to Congress a plan to inform duly ordained, commissioned, or licensed ministers of a church, members of a religious order, and Christian Science practitioners of their eligibility to revoke any prior election of exemption from Social Security participation.
+Not later than 90 days after the date of enactment of this Act, the Commissioner of Internal Revenue, in consultation with the Commissioner of Social Security, shall develop and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a plan to inform duly ordained, commissioned, or licensed ministers of a church, members of a religious order, and Christian Science practitioners of their eligibility to revoke any prior election of exemption from Social Security participation.
