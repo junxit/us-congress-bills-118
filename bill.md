@@ -25,10 +25,9 @@ The Congress finds as follows:
 
 The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund (in this Act referred to as the “IMF”) to use the voice and vote of the United States to advocate for—
 
-- **(1)** increased transparency from the People’s Republic of China with respect to the exchange rate arrangements of the People’s Republic of China, including any indirect foreign exchange market intervention through Chinese financial institutions or State-owned enterprises;
-- **(2)** compliance by the People’s Republic of China with information requests from the IMF regarding the exchange rate policies and holdings of the People’s Republic of China, consistent with the Articles of Agreement of the IMF;
-- **(3)** in connection with consultations with the People’s Republic of China under Article IV of the Articles of Agreement of the IMF, the publication of any significant divergences by the People’s Republic of China from the exchange rate policies of other issuers of currencies used in determining the value of Special Drawing Rights; and
-- **(4)** during governance reviews of the IMF, stronger consideration by IMF members and management of non-transparent exchange rate policies undertaken by the People’s Republic of China when evaluating quota and voting shares at the IMF.
+- **(1)** increased transparency from the People’s Republic of China, and enhanced multilateral and bilateral surveillance by the IMF, with respect to the exchange rate arrangements of the People’s Republic of China, including any indirect foreign exchange market intervention through Chinese financial institutions or state-owned enterprises;
+- **(2)** in connection with consultations with the People’s Republic of China under Article IV of the Articles of Agreement of the IMF, the inclusion of any significant divergences by the People’s Republic of China from the exchange rate policies of other issuers of currencies used in determining the value of Special Drawing Rights; and
+- **(3)** during governance reviews of the IMF, stronger consideration by IMF members and management of the performance of China as a responsible stakeholder in the international monetary system when evaluating quota and voting shares at the IMF.
 
 ## § 4. Sunset
 
@@ -36,5 +35,5 @@ This Act shall have no force or effect on or after the date that is 30 days afte
 
 - **(1)** the date that the United States Governor of the IMF reports to the Congress that the People’s Republic of China—
   - **(A)** is in substantial compliance with obligations of the People’s Republic of China under the Articles of Agreement of the IMF regarding orderly exchange rate arrangements; and
-  - **(B)** has undertaken exchange rate policies consistent with those of other issuers of currencies used in determining the value of Special Drawing Rights; and
+  - **(B)** has undertaken exchange rate policies and practices consistent with those of other issuers of currencies used in determining the value of Special Drawing Rights; and
 - **(2)** the date that is 7 years after the date of the enactment of this Act.
