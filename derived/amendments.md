@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1109
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 2 executed, 9 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,8 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1861` | redesignate | by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1861` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1861` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1861` | redesignate | by redesignating paragraph (9) as paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1861` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1861` | insert | in section 5(a), by inserting “, in consultation with the State banking agency,” after “banking agency”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1817` | insert | in the first sentence, by inserting “or State banking agency” after “appropriate Federal banking agency”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1817` | insert | by inserting “or a State banking agency” after “appropriate Federal banking agency”; and | the bill quotes the text inserted but describes where it goes |

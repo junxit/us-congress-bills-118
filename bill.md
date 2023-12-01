@@ -18,9 +18,10 @@ This Act may be cited as the “Bank Service Company Examination Coordination Ac
 The Bank Service Company Act (12 U.S.C. 1861 et seq.) is amended—
 
 - **(1)** in section 1(b)—
-  - **(A)** by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively; and
-  - **(B)** by inserting after paragraph (1) the following:
-    > - **(2)** the term State banking agency shall have the same meaning given the term State Bank Supervisor under section 3 of the Federal Deposit Insurance Act;
+  - **(A)** in paragraph (8), by striking “and” at the end;
+  - **(B)** by redesignating paragraph (9) as paragraph (10); and
+  - **(C)** by inserting after paragraph (8) the following:
+    > - **(9)** the term State banking agency shall have the same meaning given the term State Bank Supervisor under section 3 of the Federal Deposit Insurance Act; and
 
 - **(2)** in section 5(a), by inserting “, in consultation with the State banking agency,” after “banking agency”; and
 - **(3)** in section 7—
