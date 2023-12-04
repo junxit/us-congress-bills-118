@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5961
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5961
@@ -53,10 +53,11 @@ No Funds for Iranian Terrorism Act
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (8)
 
@@ -206,3 +207,4 @@ No Funds for Iranian Terrorism Act
 - 2023-11-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5961.
 - 2023-11-30 — The Speaker designated the Honorable Julia Letlow to act as Chairwoman of the Committee.
 - 2023-11-30 — The previous question was ordered pursuant to the rule.
+- 2023-12-04 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
