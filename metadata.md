@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2798
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2798
@@ -15,6 +15,11 @@ CFPB Transparency and Accountability Reform Act
 ## Sponsor
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
+
+## Cosponsors (2)
+
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
 
 ## Committees (4)
 
@@ -31,3 +36,14 @@ CFPB Transparency and Accountability Reform Act
 - 2023-04-24 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Accountability, the Judiciary, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-04-24 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Accountability, the Judiciary, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-04-24 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Accountability, the Judiciary, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-04-26 — Committee Consideration and Mark-up Session Held.
+- 2023-04-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 26 - 23.
+- 2023-12-04 — Committee on Oversight and Accountability discharged.
+- 2023-12-04 — Committee on Oversight and Accountability discharged.
+- 2023-12-04 — Committee on Small Business discharged.
+- 2023-12-04 — Committee on Small Business discharged.
+- 2023-12-04 — Committee on the Judiciary discharged.
+- 2023-12-04 — Committee on the Judiciary discharged.
+- 2023-12-04 — Placed on the Union Calendar, Calendar No. 241.
+- 2023-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-297, Part I.
+- 2023-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-297, Part I.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2798
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-80 amendatory instructions. 37 executed, 43 stated and not applied.
+82 amendatory instructions. 37 executed, 45 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `independent bureau` |
 | Inserted | `independent agency` |
+
+### 12 U.S.C. § 5481
+
+> in the heading, by striking “Autonomy of the Bureau” and inserting “Coordination with the Board of Governors”;
+
+| | |
+|---|---|
+| Removed | `Autonomy of the Bureau` |
+| Inserted | `Coordination with the Board of Governors` |
 
 ### 12 U.S.C. § 5481
 
@@ -116,7 +125,7 @@ to guess them.
 
 ### 15 U.S.C. § 1693o-2
 
-> Section 920(a)(4)(C) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(a)(4)(C)), as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Chair of the Bureau of Consumer Financial Protection”.
+> Section 921(a)(4)(C) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(a)(4)(C)), as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Chair of the Bureau of Consumer Financial Protection”.
 
 | | |
 |---|---|
@@ -339,15 +348,6 @@ to guess them.
 | Removed | `Director` |
 | Inserted | `Bureau of Consumer Financial Protection` |
 
-### 12 U.S.C. § 5481
-
-> Section 3513(c) of title 44, United States Code, as amended by section 1100D(b) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” and inserting “Bureau of Consumer Financial Protection”.
-
-| | |
-|---|---|
-| Removed | `Director of the Bureau` |
-| Inserted | `Bureau of Consumer Financial Protection` |
-
 ### 12 U.S.C. § 5497
 
 > Subsection (b)(2) of section 1017 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5497), as redesignated by section 202(3), is further amended by striking “under the Federal consumer financial laws.” and inserting “under the Federal consumer financial laws and for awards authorized under section 1017A.”.
@@ -371,7 +371,8 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5481` | redesignate | by redesignating subsection (e) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | redesignate | in subsection (j), as so redesignated, by striking “, including in cities in which the Federal reserve banks, or branches of such banks, are located,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5481` | insert | by inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5481` | strike | in section 1012(c), by striking paragraphs (2), (3), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking “(1) Coordination with the board of governors.—”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 5481` | strike | by striking paragraphs (2), (3), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | replace | by striking “Director of the Bureau” each place such term appears, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection, and inserting “Bureau”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `12 U.S.C. § 5481` | strike | in section 1002, by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | strike | by striking section 1066. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -379,6 +380,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 5481` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | redesignate | by redesignating paragraphs (2) through (12) as paragraphs (1) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5101` | strike | in section 1503, by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | Section 3513(c) of title 44, United States Code, as amended by section 1100D(b) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 5497` | amend | by amending the heading of such subsection to read as follows: “Budget, financial management, and audit.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5497` | strike | by striking paragraphs (1), (2), and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5497` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
