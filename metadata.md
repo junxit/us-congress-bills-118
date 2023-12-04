@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5283
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5283
@@ -35,10 +35,11 @@ Protecting our Communities from Failure to Secure the Border Act of 2023
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ Protecting our Communities from Failure to Secure the Border Act of 2023
 - 2023-11-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2023-11-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5283.
 - 2023-11-30 — The previous question was ordered pursuant to the rule.
+- 2023-12-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
