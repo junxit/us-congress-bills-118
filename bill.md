@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6584
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6584
+
+> To restore the functions of the Office of Innovation of the Bureau of Consumer Financial Protection, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Encouraging Innovation and Protecting Consumers Act”.
+
+## § 2. Restoring functions of the Office of Innovation
+
+On the date that is 180 days after the date of the enactment of this Act—
+
+- **(1)** the Office of Competition and Innovation of the Bureau of Consumer Financial Protection (in this Act referred to as the “Bureau”) shall terminate; and
+- **(2)** the Office of Innovation of the Bureau and the functions of such Office are restored or revived as if the Office described in paragraph (1) had not been established.
+
+## § 3. Functions of the Office of Innovation
+
+- **(a)** *In general* The Office of Innovation of the Bureau shall, not later than 180 days after the date of the enactment of this section reestablish—
+  - **(1)** the Compliance Assistance Sandbox Policy as established by the Bureau on September 10, 2019 in chapter X of title 12 of the Code of Federal Regulations; and
+  - **(2)** the No Action Letter Policy, as established by the Bureau on September 10, 2019 in chapter X of title 12 of the Code of Federal Regulations.
+- **(b)** *Trial Disclosure Policy* The Office of Innovation of the Bureau shall continue implementing the Trial Disclosure Policy as established by the Bureau on September 10, 2019 in chapter X of title 12 of the Code of Federal Regulations.
