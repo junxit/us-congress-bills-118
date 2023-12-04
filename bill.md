@@ -42,4 +42,4 @@ This Act may be cited as the “DOE and NASA Interagency Research Coordination A
   - **(3)** Collaborative research and development achievements.
   - **(4)** Areas of future mutually beneficial activities, including potential applications of clean energy technologies, such as marine energy.
   - **(5)** Continuation of coordination activities between the Department of Energy and the National Aeronautics and Space Administration.
-- **(g)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
+- **(g)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B Public Law 117–167; 42 U.S.C. 19231 et seq.).
