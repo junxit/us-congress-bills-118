@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3581
@@ -42,3 +42,9 @@ COPE Act
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 201.
 - 2023-10-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-251.
 - 2023-10-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-251.
+- 2023-12-04 — Considered under suspension of the rules. (consideration: CR H6103-6105)
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3581.
+- 2023-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-04 — Mr. Bergman moved to suspend the rules and pass the bill, as amended.
+- 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6103-6104)
+- 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6103-6104)
