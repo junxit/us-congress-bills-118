@@ -1,12 +1,36 @@
 ---
 legis-num: S. 992
-congress: 118th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 992
 
-That the bill from the Senate (S. 992) entitled “An Act to amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate the Texas and New Mexico portions of the future Interstate-designated segments of the Port-to-Plains Corridor as Interstate Route 27, and for other purposes.”, do pass with the following
+> To amend the Intermodal Surface Transportation Efficiency Act of 1991 to designate the Texas and New Mexico portions of the future Interstate-designated segments of the Port-to-Plains Corridor as Interstate Route 27, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “I–27 Numbering Act of 2023”.
+
+## § 2. Numbering of designated future Interstate
+
+- **(a)** *In general* Section 1105(e)(5)(C)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) is amended by inserting “The routes referred to in clause (i) (other than subclauses (V)(aa) and (V)(bb) and subclause (IX)(aa) of that clause) and clause (iv) of subsection (c)(38)(A) are designated as Interstate Route I–27. The route referred to in subsection (c)(38)(A)(i)(V)(aa) is designated as Interstate Route I–27E. The route referred to in subsection (c)(38)(A)(i)(V)(bb) is designated as Interstate Route I–27W. The route referred to in subsection (c)(38)(A)(i)(IX)(aa) is designated as Interstate Route I–127N.” before “The route referred to in subsection (c)(45)”.
+- **(b)** *Conforming amendments* Section 1105(c)(38)(A)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) is amended—
+  - **(1)** in subclause (V)—
+    - **(A)** by striking “Lamesa, the Corridor” and inserting the following:
+      > Lamesa—
+      > - **(aa)** the Corridor
+
+    - **(B)** in item (aa) (as so redesignated), by striking “87 and, the Corridor” and inserting the following:
+      > 87; and
+      > - **(bb)** the Corridor
+
+  - **(2)** in subclause (IX)—
+    - **(A)** by striking “(IX) United States Route 287” and inserting the following:
+      > - **(IX)**
+      >   - **(aa)** United States Route 287
+
+    - **(B)** in item (aa) (as so redesignated), by striking “Oklahoma, and also United States Route 87” and inserting the following:
+      > Oklahoma; and
+      > - **(bb)** United States Route 87

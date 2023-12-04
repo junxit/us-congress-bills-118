@@ -1,7 +1,7 @@
 ---
 measure: S. 992
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 992
@@ -54,3 +54,13 @@ I-27 Numbering Act of 2023
 - 2023-12-04 — Mr. Kean (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6085)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6085)
+- 2023-12-05 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2024-03-07 — Message on Senate action sent to the House.
+- 2024-03-07 — Resolving differences -- Senate actions: Senate agreed to House amendment by Unanimous Consent.
+- 2024-03-07 — Senate agreed to House amendment by Unanimous Consent.
+- 2024-03-21 — Presented to President.
+- 2024-03-21 — Presented to President.
+- 2024-03-22 — Became Public Law No: 118-45.
+- 2024-03-22 — Became Public Law No: 118-45.
+- 2024-03-22 — Signed by President.
+- 2024-03-22 — Signed by President.
