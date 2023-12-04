@@ -1,7 +1,7 @@
 ---
 measure: S. 992
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 992
@@ -45,3 +45,12 @@ I-27 Numbering Act of 2023
 - 2023-07-27 — Senate amendment proposed (on the floor): Amendment SA 1090 proposed by Senator Schumer for Senator Cruz.(consideration: CR S3844)
 - 2023-07-27 — Senate amendment submitted
 - 2023-07-27 — Senate amendment submitted
+- 2023-07-28 — Message on Senate action sent to the House.
+- 2023-08-04 — Held at the desk.
+- 2023-08-04 — Received in the House.
+- 2023-12-04 — Considered under suspension of the rules. (consideration: CR H6085-6086)
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on S. 992.
+- 2023-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-04 — Mr. Kean (NJ) moved to suspend the rules and pass the bill, as amended.
+- 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6085)
+- 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6085)

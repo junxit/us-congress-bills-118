@@ -1,7 +1,7 @@
 ---
 measure: S. 992
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 1105(e)(5)(C)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240; 109 Stat. 598; 133 Stat. 3018) is amended by inserting after the tenth sentence the following: “The routes referred to in claus… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Lamesa, the Corridor” and inserting the following: “Lamesa— | the bill names no machine-readable US Code section |
-| — | redesignate | in item (aa) (as so redesignated), by striking “87 and, the Corridor” and inserting the following: “87; and | the bill names no machine-readable US Code section |
+| — | insert | Section 1105(e)(5)(C)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) is amended by inserting “The routes referred to in clause (i) (other than subclauses (V)(aa) and (V)(bb) and subclause (IX)(aa)… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Lamesa, the Corridor” and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in item (aa) (as so redesignated), by striking “87 and, the Corridor” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(IX) United States Route 287” and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | in item (aa) (as so redesignated), by striking “Oklahoma, and also United States Route 87” and inserting the following: “Oklahoma; and | the bill names no machine-readable US Code section |
+| — | redesignate | in item (aa) (as so redesignated), by striking “Oklahoma, and also United States Route 87” and inserting the following: | the bill names no machine-readable US Code section |
