@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4667
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4667
@@ -21,9 +21,10 @@ RECLAIM Taxpayer Funds Act
 - Rep. McGarvey, Morgan [D-KY-3] (M001220)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ RECLAIM Taxpayer Funds Act
 - 2023-11-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/28/2023 CR H5911)
 - 2023-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/28/2023 CR H5911)
+- 2023-12-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
