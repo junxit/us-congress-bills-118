@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2980
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2980
@@ -35,3 +35,9 @@ DOE and NSF Interagency Research Act
 - 2023-09-21 — Placed on the Union Calendar, Calendar No. 169.
 - 2023-09-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-209.
 - 2023-09-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-209.
+- 2023-12-04 — Considered under suspension of the rules. (consideration: CR H6090-6092)
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2980.
+- 2023-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-04 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6090-6091)
+- 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6090-6091)

@@ -42,4 +42,4 @@ This Act may be cited as the “DOE and NSF Interagency Research Act”.
   - **(3)** Collaborative research achievements.
   - **(4)** Areas of future mutually beneficial successes.
   - **(5)** Continuation of coordination activities between the Department of Energy and the National Science Foundation.
-- **(f)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
+- **(f)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167; 42 U.S.C. 19231 et seq.).
