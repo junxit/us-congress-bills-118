@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1713
@@ -51,3 +51,9 @@ DOE and USDA Interagency Research Act
 - 2023-05-22 — Reported (Amended) by the Committee on Agriculture. H. Rept. 118-74, Part II.
 - 2023-05-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-74, Part I.
 - 2023-05-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-74, Part I.
+- 2023-12-04 — Considered under suspension of the rules. (consideration: CR H6089-6090)
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1713.
+- 2023-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-04 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6089-6090)
+- 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6089-6090)

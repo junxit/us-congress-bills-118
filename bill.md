@@ -20,7 +20,7 @@ This Act may be cited as the “DOE and USDA Interagency Research Act”.
 - **(c)** *Coordination* In carrying out the activities under subsection (a), the Secretaries may—
   - **(1)** conduct collaborative research over a variety of focus areas, such as—
     - **(A)** modeling and simulation, machine learning, artificial intelligence, data assimilation, large scale data analytics, and predictive analysis in order to optimize algorithms for purposes related to agriculture and energy, such as life cycle analysis of agricultural or energy systems;
-    - **(B)** fundamental agricultural, biological, computational, and environmental science and engineering, including advanced crop science, crop protection, and breeding, including biological pest control, including in collaboration with the program authorized under section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644);
+    - **(B)** fundamental agricultural, biological, computational, and environmental science and engineering, including advanced crop science, crop protection, breeding, and biological pest control, in collaboration with the program authorized under section 306 of the Department of Energy Research and Innovation Act (42 U.S.C. 18644);
     - **(C)** integrated natural resources and the energy-water nexus, including in collaboration with the program authorized under section 1010 of the Energy Act of 2020 (enacted as division Z of the Consolidated Appropriations Act, 2021 (42 U.S.C. 16183));
     - **(D)** advanced biomass, biobased products, and biofuels, including in collaboration with the activities authorized under section 9008(b) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8108(b));
     - **(E)** diverse feedstocks for economically and environmentally sustainable fuels, including aviation and naval fuels;
@@ -28,7 +28,7 @@ This Act may be cited as the “DOE and USDA Interagency Research Act”.
     - **(G)** colocation of agricultural resources and activities with carbon storage and utilization technologies;
     - **(H)** invasive species management to further the work done by the Federal Interagency Committee for the Management of Noxious and Exotic Weeds;
     - **(I)** long-term and high-risk technological barriers in the development of transformative science and technology solutions in the agriculture and energy sectors, including in collaboration with the program authorized under section 5012 of the America COMPETES Act (42 U.S.C. 16538);
-    - **(J)** grid modernization and grid security; and
+    - **(J)** grid modernization and grid security;
     - **(K)** rural technology development, including manufacturing, precision agriculture technologies, and mechanization and automation technologies; and
     - **(L)** wildfire risks and prevention, including the power sector’s role in fire prevention and mitigation and wildfire impacts on energy infrastructure;
   - **(2)** develop methods to accommodate large voluntary standardized and integrated data sets on agricultural, environmental, supply chain, and economic information with variable accuracy and scale;
@@ -46,4 +46,4 @@ This Act may be cited as the “DOE and USDA Interagency Research Act”.
   - **(3)** Collaborative research achievements.
   - **(4)** Areas of future mutually beneficial successes.
   - **(5)** Continuation of coordination activities between the Department of Energy and the Department of Agriculture.
-- **(f)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
+- **(f)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167; 42 U.S.C. 19231 et seq.).
