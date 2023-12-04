@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4666
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4666
@@ -22,9 +22,10 @@ To require the Inspector General of the Small Business Administration to submit 
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To require the Inspector General of the Small Business Administration to submit 
 - 2023-11-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-11-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/28/2023 CR H5909)
 - 2023-11-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 11/28/2023 CR H5909)
+- 2023-12-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
