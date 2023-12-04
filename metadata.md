@@ -1,7 +1,7 @@
 ---
 measure: S. 1284
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1284
@@ -16,7 +16,7 @@ TORNADO Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Thune, John [R-SD] (T000250)
@@ -26,6 +26,8 @@ TORNADO Act
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ TORNADO Act
 
 - 2023-04-25 — Introduced in Senate
 - 2023-04-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-05-10 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
