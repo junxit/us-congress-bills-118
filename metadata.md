@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3581
@@ -24,9 +24,10 @@ COPE Act
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ COPE Act
 - 2023-12-04 — Mr. Bergman moved to suspend the rules and pass the bill, as amended.
 - 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6103-6104)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6103-6104)
+- 2023-12-05 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
