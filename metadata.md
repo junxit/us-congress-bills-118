@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1713
@@ -29,10 +29,11 @@ DOE and USDA Interagency Research Act
 - Rep. Jackson, Jeff [D-NC-14] (J000308)
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ DOE and USDA Interagency Research Act
 - 2023-12-04 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6089-6090)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6089-6090)
+- 2023-12-05 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
