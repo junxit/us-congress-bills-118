@@ -1,7 +1,7 @@
 ---
 measure: S. 484
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 484
@@ -28,3 +28,7 @@ Combating Human Rights Abuses Act of 2023
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-07-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2023-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.
