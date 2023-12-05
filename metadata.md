@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2980
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2980
@@ -21,9 +21,10 @@ DOE and NSF Interagency Research Act
 - Rep. Baird, James R. [R-IN-4] (B001307)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ DOE and NSF Interagency Research Act
 - 2023-12-04 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2023-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6090-6091)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6090-6091)
+- 2023-12-05 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
