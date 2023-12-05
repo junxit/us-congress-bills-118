@@ -1,7 +1,7 @@
 ---
 measure: S. 318
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 318
@@ -30,3 +30,7 @@ Save Our Seas 2.0 Amendments Act
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
