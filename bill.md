@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 542
 
-> To amend title 38, United States Code, to improve certain programs of the Department of Veterans Affairs for home and community based services for veterans, and for other purposes.
+> To amend title 38, United States Code, to improve certain programs of the Department of Veterans Affairs for home- and community-based services for veterans, and for other purposes.
 
 ## § 1. Short title; table of contents
 
@@ -103,7 +103,7 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
     - **(A)** by amending subparagraph (A)(ii)(III) to read as follows:
       > - **(III)** covered respite care of not less than 30 days annually;
 
-    - **(B)** by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and
+    - **(B)** by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) through (C), respectively; and
   - **(2)** by amending subsection (b)(3)(A)(iii) to read as follows:
     > - **(iii)** Covered respite care of not less than 30 days annually.
 
@@ -187,7 +187,7 @@ Section 1720C of title 38, United States Code, as amended by section 2, is furth
 
 ## § 9. Modification of certain housing loan fees
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “January 26, 2032”.
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “February 4, 2032”.
 
 ## § 10. Definitions
 

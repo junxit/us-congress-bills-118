@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 542
@@ -99,6 +99,10 @@ Elizabeth Dole Home Care Act of 2023
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2023-12-05 — [House 118-1-696](votes/house-118-1-0696.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–5)
+
 ## Actions
 
 - 2023-01-26 — Introduced in House
@@ -112,3 +116,11 @@ Elizabeth Dole Home Care Act of 2023
 - 2023-11-29 — Placed on the Union Calendar, Calendar No. 228.
 - 2023-11-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-284.
 - 2023-11-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-284.
+- 2023-12-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-12-04 — Considered under suspension of the rules. (consideration: CR H6097-6103)
+- 2023-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 542.
+- 2023-12-04 — Mr. Bergman moved to suspend the rules and pass the bill, as amended.
+- 2023-12-05 — Considered as unfinished business. (consideration: CR H6130-6131)
+- 2023-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 696). (text: 12/04/2023 CR H6097-6100)
+- 2023-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 696). (text: 12/04/2023 CR H6097-6100)

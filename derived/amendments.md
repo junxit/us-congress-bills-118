@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -40,8 +40,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “or a covered veteran” each place it appears and inserting “, a veteran denied or discharged as specified in paragraph (14) of such subsection, or a covered veteran”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “under subsection (a), means” each place it appears and inserting “under subsection (a) or a veteran denied or discharged as specified in paragraph (14) of such subsection, means”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (A)(ii)(III) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) through (C), respectively; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b)(3)(A)(iii) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “January 26, 2032”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “February 4, 2032”. | the bill names no machine-readable US Code section |
