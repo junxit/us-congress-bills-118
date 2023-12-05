@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4688
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4688
@@ -20,9 +20,10 @@ To direct the Administrator of General Services to sell the property known as th
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To direct the Administrator of General Services to sell the property known as th
 - 2023-12-04 — Mr. Kean (NJ) moved to suspend the rules and pass the bill.
 - 2023-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6086)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6086)
+- 2023-12-05 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
