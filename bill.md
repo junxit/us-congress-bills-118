@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 6606
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6606
+
+> To amend the Export Control Reform Act of 2018 relating to the statement of policy.
+
+## § 1. Statement of policy
+
+Section 1752(2) of the Export Control Reform Act of 2018 (50 U.S.C. 4811(2)) is amended by adding at the end the following:
+
+> - **(H)** To protect the trade secrets of the United States, its people, and its industrial base either related to items subject to control by the Secretary pursuant to this part or when the subject of economic espionage as described in section 1831 of title 18, United States Code.
