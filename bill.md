@@ -1,0 +1,18 @@
+---
+legis-num: S. 3394
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3394
+
+> To amend title XVIII of the Social Security Act to expand the eligibility for designation as a rural emergency hospital under the Medicare program.
+
+## § 1. Short title
+
+This Act may be cited as the “Rural Emergency Hospital Adjustment Act”.
+
+## § 2. Expanding the eligibility for designation as a Medicare rural emergency hospital
+
+Section 1861(kkk)(3) of the Social Security Act (42 U.S.C. 1395x(kkk)(3)) is amended, in the matter preceding subparagraph (A), by striking “as of” and inserting “at any point during the period beginning on January 1, 2015, and ending on”.
