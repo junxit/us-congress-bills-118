@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 731
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 731
@@ -31,3 +31,14 @@ Amending the Rules of the House of Representatives to modify the period before t
 - 2023-09-27 — Introduced in House
 - 2023-09-27 — Referred to the Committee on Rules, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-09-27 — Referred to the Committee on Rules, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-09-28 — Committee Consideration and Mark-up Session Held
+- 2023-09-28 — Ordered to be Reported by Voice Vote.
+- 2023-12-05 — Committee on House Administration discharged.
+- 2023-12-05 — Committee on House Administration discharged.
+- 2023-12-05 — Committee on Rules discharged.
+- 2023-12-05 — Committee on Rules discharged.
+- 2023-12-05 — Considered by unanimous consent. (consideration: CR H6120)
+- 2023-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-05 — Mrs. Houchin asked unanimous consent to discharge from committee and consider.
+- 2023-12-05 — On agreeing to the resolution Agreed to without objection. (text: CR H6120)
+- 2023-12-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H6120)
