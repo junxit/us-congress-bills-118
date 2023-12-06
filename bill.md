@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 6638
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6638
+
+> To amend title 10, United States Code, adjust the number of cadets to be nominated to the United States Military Academy, United States Naval Academy, and United States Airforce Academy and for other purposes.
+
+## § 1. Short title
+
+This Act shall be cited as the “Guam Service Academy Equality Act”.
+
+## § 2. Nominations to United States military academy
+
+Section 7442. (a) of title 10 United States Code is amended—
+
+- **(1)** in paragraph (8) by striking “Four cadets from Guam, nominated by the Delegate in Congress from Guam.” and inserting “Five cadets from Guam, nominated by the Delegate in Congress from Guam.”
+
+## § 3. Nominations to United States naval academy
+
+Section 8454. (a) of title 10 United States Code is amended—
+
+- **(1)** in paragraph (8) by striking “Four cadets from Guam, nominated by the Delegate in Congress from Guam.” and inserting “Five cadets from Guam, nominated by the Delegate in Congress from Guam.”
+
+## § 4. Nominations to United States airforce academy
+
+Section 9442. (a) of title 10 United States Code is amended—
+
+- **(1)** in paragraph (8) by striking “Four cadets from Guam, nominated by the Delegate in Congress from Guam.” and inserting and inserting “Five cadets from Guam, nominated by the Delegate in Congress from Guam.”
