@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3848
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3848
@@ -23,9 +23,10 @@ Housing our Military Veterans Effectively Act of 2023
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Housing our Military Veterans Effectively Act of 2023
 - 2023-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 10 (Roll no. 695). (text: 12/04/2023 CR H6094-6095)
 - 2023-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 10 (Roll no. 695). (text: 12/04/2023 CR H6094-6095)
+- 2023-12-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
