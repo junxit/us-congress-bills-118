@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1547
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1547
@@ -20,9 +20,10 @@ One Seat Ride Act
 
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ One Seat Ride Act
 - 2023-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 61 (Roll no. 694). (text: 12/04/2023 CR H6084)
 - 2023-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 61 (Roll no. 694). (text: 12/04/2023 CR H6084)
+- 2023-12-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
