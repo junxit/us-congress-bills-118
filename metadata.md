@@ -1,7 +1,7 @@
 ---
 measure: H.R. 542
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 542
@@ -124,3 +124,4 @@ Elizabeth Dole Home Care Act of 2023
 - 2023-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 696). (text: 12/04/2023 CR H6097-6100)
 - 2023-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 696). (text: 12/04/2023 CR H6097-6100)
+- 2023-12-06 — Received in the Senate.
