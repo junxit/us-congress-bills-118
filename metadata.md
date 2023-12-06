@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2839
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2839
@@ -32,3 +32,11 @@ To amend the Siletz Reservation Act to address the hunting, fishing, trapping, a
 - 2023-04-25 — Introduced in House
 - 2023-04-25 — Introduced in House
 - 2023-04-25 — Referred to the House Committee on Natural Resources.
+- 2023-05-22 — Referred to the Subcommittee on Indian and Insular Affairs .
+- 2023-06-07 — Subcommittee Hearings Held.
+- 2023-07-19 — Committee Consideration and Mark-up Session Held.
+- 2023-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2023-07-19 — Subcommittee on Indian and Insular Affairs Discharged.
+- 2023-12-06 — Placed on the Union Calendar, Calendar No. 243.
+- 2023-12-06 — Reported by the Committee on Natural Resources. H. Rept. 118-300.
+- 2023-12-06 — Reported by the Committee on Natural Resources. H. Rept. 118-300.
