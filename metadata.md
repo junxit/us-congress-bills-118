@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4468
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4468
@@ -57,6 +57,11 @@ Choice in Automobile Retail Sales Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (2)
+
+- 2023-12-06 — [House 118-1-702](votes/house-118-1-0702.md) — On Motion to Recommit — **Failed** (201–214)
+- 2023-12-06 — [House 118-1-703](votes/house-118-1-0703.md) — On Passage — **Passed** (221–197)
+
 ## Actions
 
 - 2023-07-06 — Introduced in House
@@ -70,3 +75,24 @@ Choice in Automobile Retail Sales Act of 2023
 - 2023-09-01 — Placed on the Union Calendar, Calendar No. 135.
 - 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-171.
 - 2023-09-01 — Reported by the Committee on Energy and Commerce. H. Rept. 118-171.
+- 2023-12-04 — Rules Committee Resolution H. Res. 906 Reported to House. Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
+- 2023-12-06 — Amendment (A001) offered by Mr. Johnson (OH). (consideration: CR H6165-6166; text: CR H6165)
+- 2023-12-06 — Considered as unfinished business. (consideration: CR H6187-6189)
+- 2023-12-06 — Considered under the provisions of rule H. Res. 906. (consideration: CR H6157-6166; text: CR H6157-6158)
+- 2023-12-06 — DEBATE - Pursuant to the provisions of H. Res. 906, the House proceeded with 10 minutes of debate on the Johnson (OH) amendment No. 1.
+- 2023-12-06 — DEBATE - The House proceeded with one hour of debate on H.R. 4468.
+- 2023-12-06 — House Amendment Offered
+- 2023-12-06 — House amendment agreed to: On agreeing to the Johnson (OH) amendment (A001) Agreed to by voice vote.
+- 2023-12-06 — House amendment agreed to: On agreeing to the Johnson (OH) amendment (A001) Agreed to by voice vote.
+- 2023-12-06 — House amendment offered
+- 2023-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-06 — Ms. Stevens moved to recommit to the Committee on Energy and Commerce. (text: CR H6187-6188)
+- 2023-12-06 — On agreeing to the Johnson (OH) amendment (A001) Agreed to by voice vote.
+- 2023-12-06 — On motion to recommit Failed by the Yeas and Nays: 201 - 214 (Roll no. 702).
+- 2023-12-06 — On passage Passed by the Yeas and Nays: 221 - 197 (Roll no. 703).
+- 2023-12-06 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 4468 would be postponed.
+- 2023-12-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 197 (Roll no. 703).
+- 2023-12-06 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 4468.
+- 2023-12-06 — Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
+- 2023-12-06 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-12-06 — The previous question was ordered on the amendment and the bill pursuant to the rule.

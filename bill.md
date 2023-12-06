@@ -22,7 +22,7 @@ The Administrator of the Environmental Protection Agency may not finalize, imple
 - **(a)** *In general* Section 202(a)(2) of the Clean Air Act (42 U.S.C. 7521(a)(3)) is amended—
   - **(1)** by striking “(2) Any regulation” and inserting “(2)(A) Any regulation”; and
   - **(2)** by adding at the end the following:
-    > - **(B)** Effective beginning on the date of enactment of this subparagraph, any regulation prescribed under paragraph (1) (and any revision thereof), including any such regulation or revision prescribed before the date of enactment of this subparagraph, shall not—
+    > - **(B)** Any regulation proposed or prescribed, including any revision to a regulation, under paragraph (1) on or after January 1, 2021, shall not—
     >   - **(i)** mandate the use of any specific technology; or
     >   - **(ii)** result in limited availability of new motor vehicles based on the type of new motor vehicle engine in such new motor vehicles.
 
