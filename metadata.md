@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3250
@@ -24,6 +24,10 @@ A bill to provide remote access to court proceedings for victims of the 1988 Bom
 
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2024-01-18 — [House 118-2-14](votes/house-118-2-0014.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–7)
+
 ## Actions
 
 - 2023-11-08 — Introduced in Senate
@@ -40,3 +44,20 @@ A bill to provide remote access to court proceedings for victims of the 1988 Bom
 - 2023-12-06 — Senate amendment proposed (on the floor): Amendment SA 1372 proposed by Senator Schatz for Senator Cornyn.
 - 2023-12-06 — Senate amendment submitted
 - 2023-12-06 — Senate amendment submitted
+- 2023-12-07 — Message on Senate action sent to the House.
+- 2023-12-11 — Held at the desk.
+- 2023-12-11 — Received in the House.
+- 2024-01-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-01-16 — Considered under suspension of the rules. (consideration: CR H145-146)
+- 2024-01-16 — DEBATE - The House proceeded with forty minutes of debate on S. 3250.
+- 2024-01-16 — Mr. Van Drew moved to suspend the rules and pass the bill.
+- 2024-01-18 — Considered as unfinished business. (consideration: CR H225)
+- 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 14). (text: 1/16/2024 CR H145)
+- 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 14). (text: 1/16/2024 CR H145)
+- 2024-01-24 — Presented to President.
+- 2024-01-24 — Presented to President.
+- 2024-01-26 — Became Public Law No: 118-37.
+- 2024-01-26 — Became Public Law No: 118-37.
+- 2024-01-26 — Signed by President.
+- 2024-01-26 — Signed by President.
