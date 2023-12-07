@@ -1,7 +1,7 @@
 ---
 measure: S. 2973
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2973
@@ -24,3 +24,6 @@ Modernizing and Ensuring PBM Accountability Act
 
 - 2023-09-28 — Introduced in Senate
 - 2023-09-28 — Read twice and referred to the Committee on Finance.
+- 2023-12-07 — Committee on Finance. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 118-122.
+- 2023-12-07 — Committee on Finance. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 118-122.
+- 2023-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
