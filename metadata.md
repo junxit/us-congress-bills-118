@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4468
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4468
@@ -53,9 +53,10 @@ Choice in Automobile Retail Sales Act of 2023
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ Choice in Automobile Retail Sales Act of 2023
 - 2023-12-06 — Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
 - 2023-12-06 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-12-06 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2023-12-07 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
