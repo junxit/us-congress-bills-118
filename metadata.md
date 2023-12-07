@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 88
@@ -75,6 +75,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2023-12-07 — [House 118-1-705](votes/house-118-1-0705.md) — On Passage — **Passed** (210–189)
+
 ## Actions
 
 - 2023-09-05 — Introduced in House
@@ -85,3 +89,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 203.
 - 2023-10-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-253.
 - 2023-10-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-253.
+- 2023-12-04 — Rules Committee Resolution H. Res. 906 Reported to House. Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
+- 2023-12-05 — Rule H. Res. 906 passed House.
+- 2023-12-07 — At the conclusion of debate on H. J. Res. 88, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-12-07 — Considered as unfinished business. (consideration: CR H6724-6725)
+- 2023-12-07 — Considered under the provisions of rule H. Res. 906. (consideration: CR H6720-6724)
+- 2023-12-07 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 88.
+- 2023-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-07 — On passage Passed by the Yeas and Nays: 210 - 189 (Roll no. 705). (text: CR H6720)
+- 2023-12-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 189 (Roll no. 705). (text: CR H6720)
+- 2023-12-07 — Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
+- 2023-12-07 — The previous question was ordered pursuant to the rule.
