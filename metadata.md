@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5933
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5933
@@ -144,3 +144,4 @@ DETERRENT Act
 - 2023-12-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5933.
 - 2023-12-06 — The Speaker designated the Honorable James C. Moylan to act as Chairman of the Committee.
 - 2023-12-06 — The previous question was ordered pursuant to the rule.
+- 2023-12-07 — Received in the Senate.
