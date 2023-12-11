@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5378
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-95 amendatory instructions. 10 executed, 85 stated and not applied.
+96 amendatory instructions. 11 executed, 85 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,20 +44,38 @@ to guess them.
 
 ### 42 U.S.C. § 256h
 
-> Paragraph (4) of section 3014(h) of title 18, United States Code, is amended by striking “and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.” and inserting “section 301(d) of division BB of the Consolidated Appropriations Act, 2021, and section 301(e) of the Lower Costs, More Transparency Act.”.
+> Paragraph (4) of section 3014(h) of title 18, United States Code, is amended by striking “and section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act” and inserting “section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, and section 301(e) of the Lower Costs, More Transparency Act”.
 
 | | |
 |---|---|
-| Removed | `and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.` |
-| Inserted | `section 301(d) of division BB of the Consolidated Appropriations Act, 2021, and section 301(e) of the Lower Costs, More Transparency Act.` |
+| Removed | `and section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act` |
+| Inserted | `section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, and section 301(e) of the Lower Costs, More Transparency Act` |
+
+### 42 U.S.C. § 1396r-4
+
+> by striking “For the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025” and inserting “For each of fiscal years 2026”; and
+
+| | |
+|---|---|
+| Removed | `For the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025` |
+| Inserted | `For each of fiscal years 2026` |
+
+### 42 U.S.C. § 1396r-4
+
+> in clause (ii), by striking “for the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025” and inserting “for each of fiscal years 2026”.
+
+| | |
+|---|---|
+| Removed | `for the period beginning January 20, 2024, and ending September 30, 2024, and for each of fiscal years 2025` |
+| Inserted | `for each of fiscal years 2026` |
 
 ### 42 U.S.C. § 1396w-1
 
-> Section 1941(b)(3)(A) of the Social Security Act (42 U.S.C. 1396w–1(b)(3)(A)) is amended by striking “$7,000,000,000” and inserting “$0”.
+> Section 1941(b)(3)(A) of the Social Security Act (42 U.S.C. 1396w–1(b)(3)(A)) is amended by striking “ $6,357,117,810” and inserting “$0”.
 
 | | |
 |---|---|
-| Removed | `$7,000,000,000` |
+| Removed | `$6,357,117,810` |
 | Inserted | `$0` |
 
 ### 29 U.S.C. § 1132
@@ -68,15 +86,6 @@ to guess them.
 |---|---|
 | Removed | `or (9)` |
 | Inserted | `(9), or (13)` |
-
-### 29 U.S.C. § 1108
-
-> Clause (i) of section 408(b)(2)(B) of such Act is amended by striking “this clause” and inserting “this paragraph”.
-
-| | |
-|---|---|
-| Removed | `this clause` |
-| Inserted | `this paragraph` |
 
 ### 29 U.S.C. § 1108
 
@@ -158,8 +167,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1315a` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Section 505(j)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(e) of the Social Security Act (42 U.S.C. 1396r–8(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | insert | in clause (i), by inserting before the semicolon at the end the following: “(or, in the case of a contract described in section 1927(e)(6), is an other specified entity (as defined in paragraph (9)(D))”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396b` | insert | by inserting before the period at the end the following: “, and (IV) the pharmacy benefit provided by the entity (or pharmacy benefit manager on behalf of the entity under a contract), the other specified entity (as defined in paragraph … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | insert | by inserting before the period at the end the following: “, and (IV) with respect to covered outpatient drugs and related administrative services (as applicable) provided by the entity (or by a pharmacy benefit manager on behalf of the e… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396b` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | replace | by striking “and” after the semicolon at the end of paragraph (1)(A)(i) and all that precedes it through “(1)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end of paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | insert | in subparagraph (A), by inserting “(including payment rates under managed care organization as defined in section 1932(a)(1)(B)(i) and PIHPs and PAHPs as defined in section 1903(m)(9)(D)(iii)(I) and (II), respectively)” after “under this… | the bill quotes the text inserted but describes where it goes |
@@ -174,19 +183,18 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 256h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 256h` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 256h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254b-2` | replace | by striking “and” before “$4,000,000,000” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254b-2` | insert | by inserting “, $4,400,000,000 for each of fiscal years 2024 and 2025, and $1,109,000,000 for the period beginning October 1, 2025, and ending December 31, 2025” before the semicolon. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 254b-2` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254b-2` | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254b-2` | strike | by striking “and” before “$690,410,959”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254b-2` | insert | by inserting “, $3,183,561,644 for the period beginning on January 20, 2024, and ending on September 30, 2024, $4,400,000,000 for fiscal year 2025, and $1,109,000,000 for the period beginning October 1, 2025, and ending December 31, 2025… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254b-2` | strike | in subparagraph (H), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254b-2` | replace | in subparagraph (I), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 254b-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-2` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254c-2` | replace | in subparagraph (D), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-2` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254c-2` | replace | in subparagraph (E), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254c-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-3` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254c-3` | replace | in subparagraph (D), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-3` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254c-3` | replace | in subparagraph (E), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254c-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in clause (i), in the matter preceding subclause (I), by striking “2024” and inserting “2026”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “2024” and inserting “2026”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396r-4` | strike | by striking “or period” each place such term appears; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1108` | add-at-end | Paragraph (2) of section 408(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1132` | add-at-end | Subsection (c) of section 502 of such Act (29 U.S.C. 1132) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Section 410 of such Act is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -199,9 +207,10 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1108` | add-at-end | Clause (v) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by subparagraph (C), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 1108` | add-at-end | Clause (iii) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraph (2)(A), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1108` | add-at-end | Clause (iii) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraph (2)(A), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (v) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraph (2)(B), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1108` | add-at-end | Clause (ii)(I) of section 408(b)(2)(B) of such Act (29 U.S.C. 1108(b)(2)(B)), as amended by paragraph (2)(C), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1108` | add-at-end | Section 408(b)(2) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(2)), as amended by section 401, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-29` | add-at-end | Part D of title XXVII of the Public Health Service Act, as amended by section 106, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-29` | add-at-end | Section 2729 of the Public Health Service Act (42 U.S.C. 300gg–29) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185` | add-at-end | Subpart B of part 7 of Subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.), as amended by section 106, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
