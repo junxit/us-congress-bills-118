@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1042
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -88,8 +88,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 2297h-10a` | add-at-end | Section 3112A of the USEC Privatization Act (42 U.S.C. 2297h–10a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2297h-10a` | insert | in clause (viii), by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 2297h-10a` | replace | in clause (ix), by striking the semicolon and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2297h-10a` | strike | by striking clauses (x) through (xxvii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2297h-10a` | insert | in clause (ix), by inserting “and” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2297h-10a` | replace | in clause (x), by striking the semicolon and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2297h-10a` | strike | by striking clauses (xi) through (xxvii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2297h-10a` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2297h-10a` | redesignate | by redesignating paragraphs (6) through (12) as paragraphs (5) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

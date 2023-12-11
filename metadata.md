@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1042
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1042
@@ -42,3 +42,9 @@ Prohibiting Russian Uranium Imports Act
 - 2023-12-01 — Placed on the Union Calendar, Calendar No. 240.
 - 2023-12-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-296.
 - 2023-12-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-296.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6760-6762)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1042.
+- 2023-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-11 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2023-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
+- 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
