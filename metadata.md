@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3226
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3226
@@ -64,3 +64,9 @@ PREEMIE Reauthorization Act of 2023
 - 2023-08-25 — Placed on the Union Calendar, Calendar No. 130.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-164.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-164.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6799-6800)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3226.
+- 2023-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-11 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2023-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6799)
+- 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6799)
