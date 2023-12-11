@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5473
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -51,6 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5133` | strike | Section 1234 of the Disaster Recovery Reform Act of 2018 (42 U.S.C. 5133 note) is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5133` | add-at-end | Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5135` | insert | by inserting “2” after “latest”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5135` | insert | by inserting “, including any amendments made by State, local, Tribal, or territorial governments to such codes, specifications, and standards,” after “standards”. | the bill quotes the text inserted but describes where it goes |
