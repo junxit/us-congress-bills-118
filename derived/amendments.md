@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5524
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 5318(g)(8)(B)(iii) of title 31, United States Code, is amended by striking “3 years after the date of enactment of this paragraph” and inserting “3 years after the date that the Secretary of the Treasury issues rules pursuant to … | the bill names no machine-readable US Code section |
+| — | replace | Section 5318(g)(8)(B)(iii) of title 31, United States Code, is amended by striking “3 years after the date of enactment of this paragraph” and inserting “3 years after the date on which the Secretary of the Treasury issues rules pursuant… | the bill names no machine-readable US Code section |

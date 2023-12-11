@@ -15,4 +15,4 @@ This Act may be cited as the “Foreign Affiliates Sharing Pilot Program Extensi
 
 ## § 2. Foreign affiliates sharing pilot program
 
-Section 5318(g)(8)(B)(iii) of title 31, United States Code, is amended by striking “3 years after the date of enactment of this paragraph” and inserting “3 years after the date that the Secretary of the Treasury issues rules pursuant to subparagraph (A)”.
+Section 5318(g)(8)(B)(iii) of title 31, United States Code, is amended by striking “3 years after the date of enactment of this paragraph” and inserting “3 years after the date on which the Secretary of the Treasury issues rules pursuant to subparagraph (A)”.
