@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6093
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6093
@@ -16,7 +16,7 @@ Weather Act Reauthorization Act of 2023
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Cosponsors (13)
+## Cosponsors (29)
 
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Miller, Max L. [R-OH-7] (M001222)
@@ -31,6 +31,22 @@ Weather Act Reauthorization Act of 2023
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 - Rep. Collins, Mike [R-GA-10] (C001129)
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Foushee, Valerie P. [D-NC-4] (F000477)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Jackson, Jeff [D-NC-14] (J000308)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Lee, Summer L. [D-PA-12] (L000602)
+- Rep. Sorensen, Eric [D-IL-17] (S001225)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
+- Rep. Caraveo, Yadira [D-CO-8] (C001134)
+- Rep. Slotkin, Elissa [D-MI-7] (S001208)
+- Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
 
 ## Committees (1)
 
@@ -41,3 +57,8 @@ Weather Act Reauthorization Act of 2023
 - 2023-10-26 — Introduced in House
 - 2023-10-26 — Introduced in House
 - 2023-10-26 — Referred to the House Committee on Science, Space, and Technology.
+- 2023-11-08 — Committee Consideration and Mark-up Session Held
+- 2023-11-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 0.
+- 2023-12-11 — Placed on the Union Calendar, Calendar No. 247.
+- 2023-12-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-306.
+- 2023-12-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-306.
