@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3315
@@ -36,3 +36,9 @@ National Guard and Reservists Debt Relief Extension Act of 2023
 - 2023-11-29 — Placed on the Union Calendar, Calendar No. 227.
 - 2023-11-29 — Reported by the Committee on Judiciary. H. Rept. 118-283.
 - 2023-11-29 — Reported by the Committee on Judiciary. H. Rept. 118-283.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6747-6748)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3315.
+- 2023-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-11 — Mr. Moran moved to suspend the rules and pass the bill.
+- 2023-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6747)
+- 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6747)
