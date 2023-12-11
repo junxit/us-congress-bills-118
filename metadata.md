@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 88
@@ -100,3 +100,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2023-12-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 189 (Roll no. 705). (text: CR H6720)
 - 2023-12-07 — Rule provides for consideration of H.R. 4468, H.R. 5933 and H.J. Res. 88. The resolution provides for consideration of H.R. 4468 and H.R. 5933 under a structured rule and H.J. Res. 88 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
 - 2023-12-07 — The previous question was ordered pursuant to the rule.
+- 2023-12-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.
