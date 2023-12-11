@@ -27,4 +27,4 @@ Section 5336(b)(1) of title 31, United States Code, is amended—
   - **(A)** by inserting “(but which may not adjust the report submission deadline)” after “Treasury”; and
   - **(B)** by striking “in a timely manner, and not later than 1 year” and inserting “not later than 90 days”; and
 - **(4)** by adding at the end the following:
-  > - **(H)** *Unable to obtain* FinCEN may not by rule, guidance, or otherwise, permit any reporting company from submitting a report relating to the inability of the reporting company to obtain or identify information in the alternative to submitting a report required under this subsection.
+  > - **(H)** *Unable to obtain* FinCEN may not by rule, guidance, or otherwise, permit a reporting company from submitting a report relating to the inability of the reporting company to obtain or identify information in the alternative to submitting a report required under this subsection.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5119
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5119
@@ -16,9 +16,11 @@ Protect Small Business and Prevent Illicit Financial Activity Act
 
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
 
 ## Committees (1)
 
@@ -29,3 +31,12 @@ Protect Small Business and Prevent Illicit Financial Activity Act
 - 2023-08-01 — Introduced in House
 - 2023-08-01 — Introduced in House
 - 2023-08-01 — Referred to the House Committee on Financial Services.
+- 2023-09-20 — Committee Consideration and Mark-up Session Held
+- 2023-09-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 47 - 0.
+- 2023-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-12-11 — Considered under suspension of the rules. (consideration: CR H6752-6753)
+- 2023-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5119.
+- 2023-12-11 — Mr. Nunn (IA) moved to suspend the rules and pass the bill, as amended.
+- 2023-12-11 — Placed on the Union Calendar, Calendar No. 244.
+- 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-303.
+- 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-303.
