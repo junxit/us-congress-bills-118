@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-82 amendatory instructions. 6 executed, 76 stated and not applied.
+99 amendatory instructions. 7 executed, 92 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,6 +78,15 @@ to guess them.
 | Removed | `subparagraph (F)` |
 | Inserted | `subparagraph (G)` |
 
+### 50 U.S.C. § 1873
+
+> Subsection (d)(1) of such section is amended by striking “paragraphs (3), (5), or (6)” and inserting “paragraph (6), (8), or (9)”.
+
+| | |
+|---|---|
+| Removed | `paragraphs (3), (5), or (6)` |
+| Inserted | `paragraph (6), (8), or (9)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -110,7 +119,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1803` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1804` | insert | in paragraph (6)(E)(ii), by inserting before the semicolon at the end “(and a description of such techniques)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1804` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1804` | replace | in paragraph (9), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1804` | replace | in paragraph (9), by striking the period at the end and inserting “; and” ; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1804` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1804` | add-at-end | Section 104 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1804) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1805` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -128,7 +137,7 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1871` | add-at-end | Title VI of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1871 et seq.), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1801` | add-at-end | The table of contents for the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “December 31, 2023” and inserting “December 31, 2026”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “, as amended by section 101 and by the FISA Amendments Reauthorization Act of 2017,” and inserting “, as most recently amended,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017,” and inserting “, as most recently amended,”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) in the matter preceding subparagraph (A), by striking “December 31, 2023” and inserting “December 31, 2026”. | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “December 31, 2023” and inserting “December 31, 2026”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017,” and inserting “, as most recently amended,”; | the bill names no machine-readable US Code section |
@@ -138,9 +147,9 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1809` | strike | in the matter preceding paragraph (1), by striking “intentionally”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 1809` | insert | by inserting “intentionally” before “engages in”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1809` | strike | by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 1809` | insert | by inserting “intentionally” before “discloses or uses”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1809` | insert | by inserting “intentionally” before “disclose or uses”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 1809` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1809` | add-at-end | by adding at the end the following: . | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1809` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1809` | amend | In subsection (c), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in section 402, by inserting after “any district court of the United States” the following: “, the Foreign Intelligence Surveillance Court, the Foreign Intelligence Surveillance Court of Review,”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -163,3 +172,19 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 151` | amend | Section 2511(2)(f) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subparagraph (ii), by striking clause (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (iii) and inserting the following: | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 1881a` | replace | by striking “may not intentionally” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1881a` | replace | in subparagraph (A), as designated by subparagraph (A) of this paragraph, by striking “if the purpose of such acquisition is to target a particular, known person reasonably believed to be in the United States;” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1881a` | amend | in subsection (d)(1), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881a` | amend | in subsection (h)(2)(A)(i), by amending subclause (I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881a` | amend | in subsection (j)(2)(B), by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1801` | add-at-end | The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1801` | add-at-end | The table of contents of the Foreign Intelligence Surveillance Act of 1978 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1873` | replace | in paragraph (2)(C), by striking the semicolon and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1873` | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (6) through (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1873` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1873` | redesignate | in paragraph (9) (as redesignated in paragraph (2) of this subsection), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1873` | redesignate | in paragraph (10) (as redesignated in paragraph (2) of this subsection), by striking the period at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1813` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1873` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1873` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881f` | add-at-end | Section 707 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

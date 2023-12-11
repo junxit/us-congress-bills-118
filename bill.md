@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect Liberty and End Warrantless Surveillance Act”.
+This Act may be cited as the “Protect Liberty and End Warrantless Surveillance Act of 2023”.
 
 ## § 2. Query procedure reform
 
-- **(a)** *Limitation on eligibility To conduct queries* Section 702(f)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(f)(1)) is amended by adding at the end the following:
-  > - **(D)** *Limitation on eligibility of FBI personnel To conduct United States person queries* The Attorney General shall ensure that the procedures adopted under subparagraph (A) limit the authority to conduct queries such that—
+- **(a)** *Limitation on eligibility to conduct queries* Section 702(f)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(f)(1)) is amended by adding at the end the following:
+  > - **(D)** *Limitation on eligibility of FBI personnel to conduct United States person queries* The Attorney General shall ensure that the procedures adopted under subparagraph (A) limit the authority to conduct queries such that—
   >   - **(i)** for each field office of the Federal Bureau of Investigation, the most senior official whose primary duty station is that field office is authorized to designate not more than five individuals whose primary duty station is that field office who are eligible to conduct a query using a United States person query term; and
   >   - **(ii)** for the headquarters of the Federal Bureau of Investigation, the Director of the Federal Bureau of Investigation is authorized to designate not more than five individuals whose primary duty station is the Headquarters of the Federal Bureau of Investigation who are eligible to conduct a query using a United States person query term.
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Protect Liberty and End Warrantless Surveillance
     >   - **(A)** *In general* Except as provided in subparagraphs (B) and (C), no officer or employee of the United States may conduct a query of information acquired under this section in an effort to find communications or information the compelled production of which would require a probable cause warrant if sought for law enforcement purposes in the United States, of or about 1 or more United States persons or persons reasonably believed to be located in the United States at the time of the query or the time of the communication or creation of the information.
     >   - **(B)** *Exceptions for concurrent authorization, consent, emergency situations, and certain defensive cybersecurity queries*
     >     - **(i)** *In general* Subparagraph (A) shall not apply to a query related to a United States person or person reasonably believed to be located in the United States at the time of the query or the time of the communication or creation of the information if—
-    >       - **(I)** such person is the subject of an order or emergency authorization authorizing electronic surveillance or physical search under section 105 or 304 of this Act, or a warrant issued pursuant to the Federal Rules of Criminal Procedure by a court of competent jurisdiction covering the period of the query;
+    >       - **(I)** such person is the subject of an order or emergency authorization authorizing electronic surveillance or physical search under section 105 or 304 of this Act, or a warrant issued pursuant to the Federal Rules of Criminal Procedure by a court of competent jurisdiction authorizing the conduct of the query;
     >       - **(II)**
     >         - **(aa)** the officer or employee carrying out the query has a reasonable belief that—
     >           - **(AA)** an emergency exists involving an imminent threat of death or serious bodily harm; and
@@ -158,14 +158,13 @@ Paragraph (2) of section 706(a) of the Foreign Intelligence Surveillance Act of 
 - **(a)** *Disclosure requirement* Section 104(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1804(a)) is amended—
   - **(1)** in paragraph (6)(E)(ii), by inserting before the semicolon at the end “(and a description of such techniques)”;
   - **(2)** in paragraph (8), by striking “and” at the end;
-  - **(3)** in paragraph (9), by striking the period at the end and inserting a semicolon; and
+  - **(3)** in paragraph (9), by striking the period at the end and inserting “; and” ; and
   - **(4)** by inserting after paragraph (9) the following:
     > - **(10)** all information material to the application, including any information that tends to rebut—
     >   - **(A)** any allegation set forth in the application; or
     >   - **(B)** the existence of probable cause to believe that—
     >     - **(i)** the target of the electronic surveillance is a foreign power or an agent of a foreign power; and
-    >     - **(ii)** each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power; and
-    > - **(11)** an affidavit executed by each Federal employee who contributed to the drafting of the application attesting to the accuracy of the application.
+    >     - **(ii)** each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power.
 
 - **(b)** *Prohibition on use of certain information* Section 104 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1804) is amended by adding at the end the following:
   > - **(e)** The statement of facts and circumstances under subsection (a)(3) may only include information obtained from the content of a media source or information gathered by a political campaign if—
@@ -240,7 +239,7 @@ Section 603 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1873
 - **(a)** *Effective dates* Section 403(b) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2474) is amended—
   - **(1)** in paragraph (1)—
     - **(A)** by striking “December 31, 2023” and inserting “December 31, 2026”; and
-    - **(B)** by striking “, as amended by section 101 and by the FISA Amendments Reauthorization Act of 2017,” and inserting “, as most recently amended,”; and
+    - **(B)** by striking “, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017,” and inserting “, as most recently amended,”; and
   - **(2)** in paragraph (2) in the matter preceding subparagraph (A), by striking “December 31, 2023” and inserting “December 31, 2026”.
 - **(b)** *Conforming Amendments* Section 404(b) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2476), is amended—
   - **(1)** in paragraph (1)—
@@ -260,9 +259,9 @@ Section 603 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1873
       - **(i)** by inserting “intentionally” before “engages in”; and
       - **(ii)** by striking “or” at the end;
     - **(C)** in paragraph (2)—
-      - **(i)** by inserting “intentionally” before “discloses or uses”; and
+      - **(i)** by inserting “intentionally” before “disclose or uses”; and
       - **(ii)** by striking the period at the end and inserting a semicolon; and
-    - **(D)** by adding at the end the following: .
+    - **(D)** by adding at the end the following:
       > - **(3)** knowingly submits any document to or makes any false statement before the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review, knowing such document or statement to contain—
       >   - **(A)** a false material declaration; or
       >   - **(B)** a material omission; or
@@ -327,7 +326,7 @@ Section 603 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1873
 
 ## § 17. Agency procedures to ensure compliance
 
-- **(a)** *Agency procedures To ensure compliance* Title VI of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1871 et seq.), as amended by this Act, is further amended by adding at the end the following:
+- **(a)** *Agency procedures to ensure compliance* Title VI of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1871 et seq.), as amended by this Act, is further amended by adding at the end the following:
   > ## § 607. Agency procedures to ensure compliance
   >
   > The head of each Federal department or agency authorized to acquire foreign intelligence information under this Act shall establish procedures—
@@ -457,3 +456,81 @@ Section 2511(2)(a) of title 18, United States Code, is amended—
 
 - **(2)** by striking subparagraph (iii) and inserting the following:
   > - **(iii)** For assistance provided pursuant to a certification under subparagraph (ii)(B), the limitation on causes of action under the last sentence of the matter following subparagraph (ii)(B) shall only apply to the extent that the assistance ceased at the earliest of the time the application for a court order was denied, the time the communication sought was obtained, or 48 hours after the interception began.
+
+## § 23. Prohibition on reverse targeting of United States persons and persons located in the United States
+
+Section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) is amended—
+
+- **(1)** in subsection (b)(2)—
+  - **(A)** by striking “may not intentionally” and inserting the following:
+    > may not—
+    > - **(A)** intentionally
+
+  - **(B)** in subparagraph (A), as designated by subparagraph (A) of this paragraph, by striking “if the purpose of such acquisition is to target a particular, known person reasonably believed to be in the United States;” and inserting the following:
+    > if a significant purpose of such acquisition is to acquire the information of 1 or more United States persons or persons reasonably believed to be located in the United States at the time of acquisition or communication, unless—
+    > - **(i)**
+    >   - **(I)** there is a reasonable belief that an emergency exists involving an imminent threat of death or serious bodily harm to such United States person or person reasonably believed to be located in the United States at the time of the query or the time of acquisition or communication;
+    >   - **(II)** the information is sought for the purpose of assisting that person; and
+    >   - **(III)** a description of the targeting is provided to the Foreign Intelligence Surveillance Court and the appropriate committees of Congress in a timely manner; or
+    > - **(ii)** the United States person or persons reasonably believed to be located in the United States at the time of acquisition or communication has provided consent to the targeting, or if such person is incapable of providing consent, a third party legally authorized to consent on behalf of such person has provided consent; and
+    > - **(B)** in the case of information acquired pursuant to subparagraph (A)(i) or evidence derived from such targeting, be used, received in evidence, or otherwise disseminated in any investigation, trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, except in proceedings or investigations that arise from the threat that prompted the targeting;
+
+- **(2)** in subsection (d)(1), by amending subparagraph (A) to read as follows:
+  > - **(A)** ensure that—
+  >   - **(i)** any acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be non-United States persons located outside the United States; and
+  >   - **(ii)** except as provided in subsection (b)(2), a significant purpose of an acquisition is not to acquire the information of 1 or more United States persons or persons reasonably believed to be in the United States at the time of acquisition or communication; and
+
+- **(3)** in subsection (h)(2)(A)(i), by amending subclause (I) to read as follows:
+  > - **(I)** ensure that—
+  >   - **(aa)** an acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be non-United States persons located outside the United States; and
+  >   - **(bb)** except as provided in subsection (b)(2), a significant purpose of an acquisition is not to acquire the information of 1 or more United States persons or persons reasonably believed to be in the United States at the time of acquisition or communication; and
+
+- **(4)** in subsection (j)(2)(B), by amending clause (i) to read as follows:
+  > - **(i)** ensure that—
+  >   - **(I)** an acquisition authorized under subsection (a) is limited to targeting persons reasonably believed to be non-United States persons located outside the United States; and
+  >   - **(II)** except as provided in subsection (b)(2), a significant purpose of an acquisition is not to acquire the information of 1 or more United States persons or persons reasonably believed to be in the United States at the time of acquisition or communication; and
+
+## § 24. Required disclosure of relevant information in foreign intelligence surveillance act of 1978 applications
+
+- **(a)** *In general* The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The table of contents of the Foreign Intelligence Surveillance Act of 1978 is amended by adding at the end the following:
+
+## § 25. Enhanced annual reports by Director of National Intelligence
+
+- **(a)** *In general* Subsection (b) of section 603 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1873(b)) is amended—
+  - **(1)** in paragraph (2)(C), by striking the semicolon and inserting “; and”;
+  - **(2)** by redesignating paragraphs (3) through (7) as paragraphs (6) through (10), respectively;
+  - **(3)** by inserting after paragraph (2) the following:
+    > - **(3)** a description of the subject matter of each of the certifications provided under section 702(h);
+    > - **(4)** statistics revealing the number of persons and identifiers targeted under section 702(a), disaggregated by certification under which the person or identifier was targeted;
+    > - **(5)** the total number of directives issued pursuant to section 702(i)(1), disaggregated by each type of electronic communication service provider described in subparagraphs (A) through (E) of section 701(b)(4);
+
+  - **(4)** in paragraph (9) (as redesignated in paragraph (2) of this subsection), by striking “and” at the end;
+  - **(5)** in paragraph (10) (as redesignated in paragraph (2) of this subsection), by striking the period at the end and inserting a semicolon;
+  - **(6)** by adding at the end the following:
+    > - **(11)**
+    >   - **(A)** the total number of disseminated intelligence reports derived from collection pursuant to section 702 containing the identities of United States persons regardless of whether the identities of the United States persons were openly included or masked;
+    >   - **(B)** the total number of disseminated intelligence reports derived from collection not authorized by this Act containing the identities of United States persons regardless of whether the identities of the United States persons were openly included or masked;
+    >   - **(C)** the total number of disseminated intelligence reports derived from collection pursuant to section 702 containing the identities of United States persons in which the identities of the United States persons were masked;
+    >   - **(D)** the total number of disseminated intelligence reports derived from collection not authorized by this Act containing the identities of United States persons in which the identities of the United States persons were masked;
+    >   - **(E)** the total number of disseminated intelligence reports derived from collection pursuant to section 702 containing the identities of United States persons in which the identities of the United States persons were openly included; and
+    >   - **(F)** the total number of disseminated intelligence reports derived from collection not authorized by this Act containing the identities of United States persons in which the identities of the United States persons were openly included;
+    > - **(12)** the number of queries conducted in an effort to find communications or information of or about 1 or more United States persons or persons reasonably believed to be located in the United States at the time of the query or the time of the communication or creation of the information, where such communications or information were obtained without a court order, subpoena, or other legal process established by statute;
+    > - **(13)** the number of criminal proceedings in which the Federal Government or a government of a State or political subdivision thereof entered into evidence or otherwise used or disclosed in a criminal proceeding any information obtained or derived from an acquisition conducted without a court order, subpoena, or other legal process established by statute; and
+    > - **(14)** a good faith estimate of what percentage of the communications that are subject to the procedures described in section 309(b)(3) of the Intelligence Authorization Act for Fiscal Year 2015 (50 U.S.C. 1813(b)(3))—
+    >   - **(A)** are retained for longer than 5 years; and
+    >   - **(B)** are retained for longer than 5 years in whole in part because they are encrypted.
+
+- **(b)** *Repeal of nonapplicability to federal bureau of investigation of certain requirements* Subsection (d) of such section is amended—
+  - **(1)** by striking paragraph (2); and
+  - **(2)** by redesignating paragraph (3) as paragraph (2).
+- **(c)** *Conforming amendment* Subsection (d)(1) of such section is amended by striking “paragraphs (3), (5), or (6)” and inserting “paragraph (6), (8), or (9)”.
+
+## § 26. Quarterly report
+
+Section 707 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881f) is amended by adding at the end the following:
+
+> - **(c)** *Quarterly report* The Attorney General, in consultation with the Director of National Intelligence, shall submit a report, each quarter, to the congressional intelligence committees and to the Committees on the Judiciary of the Senate and of the House of Representatives, which shall include, for that quarter, the following:
+>   - **(1)** The total number of warrants issued to conduct a query of information acquired under section 702.
+>   - **(2)** The total number of times a query was conducted pursuant to an exception under section 702(f)(2)(B) and which exceptions applied.
+>   - **(3)** The total number of queries of information acquired under section 702 that were conducted using a United States person query term or a query term pertaining to a person reasonably believed to be present in the United States as of the date such query was conducted, disaggregated by the agency that conducted the queries.
