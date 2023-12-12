@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1042
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1042
@@ -48,3 +48,4 @@ Prohibiting Russian Uranium Imports Act
 - 2023-12-11 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
 - 2023-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
+- 2023-12-12 — Received in the Senate, read twice.
