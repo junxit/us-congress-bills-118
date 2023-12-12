@@ -1,0 +1,18 @@
+---
+legis-num: S. 3473
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3473
+
+> To extend the prohibition on providing airport improvement grant funds to certain entities that have violated intellectual property rights of United States entities.
+
+## § 1. Short title
+
+This Act may be cited as the “Air Security Act of 2023 ”.
+
+## § 2. Extension of prohibition on provision of airport improvement grant funds to certain entities that have violated intellectual property rights of United States entities
+
+Subsections (a) and (c)(2)(B) of section 10003 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4864) are each amended by striking “2023” and inserting “2024”.
