@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6728
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6728
+
+> To require public school, and public institution of higher education, athletic teams and clubs to be designated for membership based on biological sex, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Save Women’s Sports Act of 2023”.
+
+## § 2. Required designation of school athletic teams
+
+- **(a)** *Types of designations* An intercollegiate, intramural, or club athletic team or sport that is sponsored by a public school, or a public institution of higher education, or that is a competing team or sport sponsored by a non-public school or institution, and that receives Federal financial assistance, shall be expressly designated as, and composed of students of, only 1 of the following categories of team or club members based on biological sex at birth:
+  - **(1)** Males.
+  - **(2)** Females.
+  - **(3)** Coed members described in paragraphs (1) and (2).
+- **(b)** *Requirement* The membership of athletic teams or sports designated only for females shall only be open to biological females at birth.
+
+## § 3. Penalty
+
+All Federal financial assistance shall be terminated for a failure to comply with section 2.
