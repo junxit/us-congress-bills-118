@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5524
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5524
@@ -24,6 +24,10 @@ Foreign Affiliates Sharing Pilot Program Extension Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2023-12-12 — [House 118-1-714](votes/house-118-1-0714.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (396–28)
+
 ## Actions
 
 - 2023-09-18 — Introduced in House
@@ -38,3 +42,7 @@ Foreign Affiliates Sharing Pilot Program Extension Act
 - 2023-12-11 — Placed on the Union Calendar, Calendar No. 245.
 - 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-304.
 - 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-304.
+- 2023-12-12 — Considered as unfinished business. (consideration: CR H6835-6836)
+- 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 28 (Roll no. 714). (text: 12/11/2023 CR H6753)
+- 2023-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 28 (Roll no. 714). (text: 12/11/2023 CR H6753)
