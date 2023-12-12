@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5119
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5119
@@ -26,6 +26,10 @@ Protect Small Business and Prevent Illicit Financial Activity Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2023-12-12 — [House 118-1-713](votes/house-118-1-0713.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (420–1)
+
 ## Actions
 
 - 2023-08-01 — Introduced in House
@@ -40,3 +44,7 @@ Protect Small Business and Prevent Illicit Financial Activity Act
 - 2023-12-11 — Placed on the Union Calendar, Calendar No. 244.
 - 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-303.
 - 2023-12-11 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-303.
+- 2023-12-12 — Considered as unfinished business. (consideration: CR H6834-6835)
+- 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 713). (text: 12/11/2023 CR H6752)
+- 2023-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 713). (text: 12/11/2023 CR H6752)
