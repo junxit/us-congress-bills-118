@@ -1,7 +1,7 @@
 ---
 measure: S. 1277
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1277
@@ -24,3 +24,8 @@ Mammoth Cave National Park Boundary Adjustment Act of 2023
 
 - 2023-04-25 — Introduced in Senate
 - 2023-04-25 — Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S1348)
+- 2023-06-21 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 118-284.
+- 2023-09-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-134.
+- 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-134.
+- 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
