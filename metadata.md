@@ -1,7 +1,7 @@
 ---
 measure: S. 382
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 382
@@ -28,3 +28,8 @@ Puyallup Tribe of Indians Land Into Trust Confirmation Act of 2023
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2023-05-03 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-105.
+- 2023-07-19 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2023-12-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-130.
+- 2023-12-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-130.
+- 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 273.
