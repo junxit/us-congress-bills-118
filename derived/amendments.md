@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3063
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 29 U.S.C. § 1001
 
-> by striking “or (D)” and inserting “(D) a plan which meets the requirements of section 403(b) of such Code if (i) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (ii) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (iii) such plan is a governmental plan (as defined in section 414(d) of such Code); or (E)”;
+> by striking “or (D)” and inserting “(D) a plan which meets the requirements of section 403(b) of such Code (i) if (I) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (II) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (III) such plan is a governmental plan (as defined in section 414(d) of such Code), and (ii) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment described under clause (i)(II) prior to the investment being offered to participants in the plan, or (E)”;
 
 | | |
 |---|---|
 | Removed | `or (D)` |
-| Inserted | `(D) a plan which meets the requirements of section 403(b) of such Code if (i) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (ii) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (iii) such plan is a governmental plan (as defined in section 414(d) of such Code); or (E)` |
+| Inserted | `(D) a plan which meets the requirements of section 403(b) of such Code (i) if (I) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (II) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (III) such plan is a governmental plan (as defined in section 414(d) of such Code), and (ii) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment described under clause (i)(II) prior to the investment being offered to participants in the plan, or (E)` |
 
 ### 15 U.S.C. § 77c
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 29 U.S.C. § 1001
 
-> by striking “or (iv)” and inserting “(iv) a plan which meets the requirements of section 403(b) of such Code if (I) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (II) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (III) such plan is a governmental plan (as defined in section 414(d) of such Code), or (v)”;
+> by striking “or (iv)” and inserting “(iv) a plan which meets the requirements of section 403(b) of such Code (I) if (aa) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (bb) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (cc) such plan is a governmental plan (as defined in section 414(d) of such Code), and (II) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment described under subclause (I)(bb) prior to the investment being offered to participants in the plan, or (v)”;
 
 | | |
 |---|---|
 | Removed | `or (iv)` |
-| Inserted | `(iv) a plan which meets the requirements of section 403(b) of such Code if (I) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (II) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (III) such plan is a governmental plan (as defined in section 414(d) of such Code), or (v)` |
+| Inserted | `(iv) a plan which meets the requirements of section 403(b) of such Code (I) if (aa) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (bb) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (cc) such plan is a governmental plan (as defined in section 414(d) of such Code), and (II) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment described under subclause (I)(bb) prior to the investment being offered to participants in the plan, or (v)` |
 
 ### 15 U.S.C. § 78c
 
