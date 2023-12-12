@@ -1,0 +1,19 @@
+---
+legis-num: S. 3469
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3469
+
+> To direct the Secretary of Agriculture to establish a grocery, farm, and food worker stabilization grant program.
+
+## § 1. Grocery, farm, and food worker stabilization grant program
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Eligible entity* The term eligible entity means a membership organization, as determined by the Secretary, or labor union representing farmworkers, meat processing workers, or grocery workers.
+  - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.
+- **(b)** *Establishment* The Secretary, acting through the Administrator of the Agricultural Marketing Service, shall establish a grant program to provide funding to eligible entities representing farmworkers, meat processing workers, and grocery workers for stabilization payments in the case of a natural disaster or other disaster, as determined by the Secretary.
+- **(c)** *Report* Not later than 4 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the outcomes and evaluating the impacts of the program established under subsection (b).
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $50,000,000, to remain available until expended.
