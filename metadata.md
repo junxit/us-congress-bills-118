@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1042
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1042
@@ -49,3 +49,12 @@ Prohibiting Russian Uranium Imports Act
 - 2023-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6760-6761)
 - 2023-12-12 — Received in the Senate, read twice.
+- 2024-04-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3084)
+- 2024-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S3084)
+- 2024-05-01 — Message on Senate action sent to the House.
+- 2024-05-09 — Presented to President.
+- 2024-05-09 — Presented to President.
+- 2024-05-13 — Became Public Law No: 118-62.
+- 2024-05-13 — Became Public Law No: 118-62.
+- 2024-05-13 — Signed by President.
+- 2024-05-13 — Signed by President.
