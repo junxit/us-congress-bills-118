@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2839
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2839
@@ -47,3 +47,12 @@ To amend the Siletz Reservation Act to address the hunting, fishing, trapping, a
 - 2023-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6749-6750)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6749-6750)
 - 2023-12-12 — Received in the Senate, read twice.
+- 2023-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6061)
+- 2023-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6061)
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-26 — Became Public Law No: 118-33.
+- 2023-12-26 — Became Public Law No: 118-33.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Signed by President.
+- 2023-12-26 — Signed by President.
