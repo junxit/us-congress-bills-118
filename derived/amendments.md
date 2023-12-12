@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2627
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 80a-3
 
-> in paragraph (1), by striking “subparagraphs (A)(i) and (B)(i)” and inserting “subparagraphs (A)(i), (B)(i), and (C)”; and
+> in paragraph (1), in the matter preceding subparagraph (A), in the second sentence, by striking “subparagraphs (A)(i) and (B)(i)” and inserting “subparagraphs (A)(i), (B)(i), and (C)”; and
 
 | | |
 |---|---|
@@ -53,5 +53,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 80a-5` | add-at-end | Section 5 of the Investment Company Act of 1940 (15 U.S.C. 80a–5) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80a-2` | add-at-end | Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80b-2` | amend | The first paragraph (29) (relating to “private fund”) of section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78f` | add-at-end | Section 6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78f` | add-at-end | Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

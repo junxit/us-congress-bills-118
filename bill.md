@@ -16,24 +16,30 @@ This Act may be cited as the “Increasing Investor Opportunities Act”.
 ## § 2. Closed-end company authority to invest in private funds
 
 - **(a)** *In general* Section 5 of the Investment Company Act of 1940 (15 U.S.C. 80a–5) is amended by adding at the end the following:
-  > - **(d)** *Closed-End company authority To invest in private funds*
-  >   - **(1)** *In general* The Commission may not limit a closed-end company from investing any or all of the company’s assets in private funds solely or primarily because of the private funds’ status as private funds.
-  >   - **(2)** *Application* Notwithstanding section 6(f), this subsection shall also apply to a closed-end company that elects to be treated as a business development company.
+  > - **(d)** *Closed-End company authority to invest in private funds*
+  >   - **(1)** *In general* Except as otherwise prohibited or restricted by this Act (or any rule issued under this Act), the Commission may not prohibit or otherwise limit a closed-end company from investing any or all of the assets of the closed-end company in securities issued by private funds.
+  >   - **(2)** *Other restrictions on Commission authority*
+  >     - **(A)** *In general* Except as otherwise prohibited or restricted by this Act (or any rule issued under this Act) or to the extent permitted by subparagraph (B), the Commission may not impose any condition on, restrict, or otherwise limit—
+  >       - **(i)** the offer to sell, or the sale of, securities issued by a closed-end company that invests, or proposes to invest, in securities issued by private funds; or
+  >       - **(ii)** the listing of the securities of a closed-end company described in clause (i) on a national securities exchange.
+  >     - **(B)** *Unrelated restrictions* The Commission may impose a condition on, restrict, or otherwise limit an activity described in clause (i) or (ii) of subparagraph (A) if that condition, restriction or limitation is unrelated to the underlying characteristics of a private fund or the status of a private fund as a private fund.
+  >   - **(3)** *Application* Notwithstanding section 6(f), this subsection shall also apply to a closed-end company that elects to be treated as a business development company pursuant to section 54.
 
-- **(b)** *Definition of private fund*
-  - **(1)** *Investment Company Act of 1940* Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)) is amended by adding at the end the following:
-    > - **(55)** The term private fund means an issuer that would be an investment company but for paragraph (1) or (7) of section 3(c).
+- **(b)** *Definition of private fund* Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)) is amended by adding at the end the following:
+  > - **(55)** The term private fund has the meaning given in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)).
 
-  - **(2)** *Investment Advisers Act of 1940* The first paragraph (29) (relating to “private fund”) of section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)) is amended to read as follows:
-    > - **(29)** The term private fund has the meaning given that term under section 2(a) of the Investment Company Act of 1940.
-
-- **(c)** *Treatment by national securities exchanges* Section 6(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(b)) is amended by adding at the end the following:
-  > - **(11)**
-  >   - **(A)** The rules of the exchange do not prohibit the listing or trading of securities of a closed-end company solely or primarily by reason of the amount of the company’s investment of assets in private funds.
-  >   - **(B)** In this paragraph—
-  >     - **(i)** the term closed-end company has the meaning given that term under section 5(a) of the Investment Company Act of 1940, and includes a closed-end company that elects to be treated as a business development company under section 6(f) of such Act; and
-  >     - **(ii)** the term private fund has the meaning given that term under section 2(a) of the Investment Company Act of 1940.
+- **(c)** *Treatment by national securities exchanges* Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following:
+  > - **(m)**
+  >   - **(1)** Except as otherwise prohibited or restricted by rules of the exchange that are consistent with section 5(d) of the Investment Company Act of 1940 (15 U.S.C. 80a–5(d)), an exchange may not prohibit, condition, restrict, or impose any other limitation on the listing or trading of the securities of a closed-end company when the closed-end company invests, or may invest, some or all of the assets of the closed-end company in securities issued by private funds.
+  >   - **(2)** In this paragraph—
+  >     - **(A)** the term closed-end company—
+  >       - **(i)** has the meaning given the term in section 5(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–5(a)); and
+  >       - **(ii)** includes a closed-end company that elects to be treated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53); and
+  >     - **(B)** the term private fund has the meaning given the term in section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))).
 
 - **(d)** *Investment limitation* Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)) is amended—
-  - **(1)** in paragraph (1), by striking “subparagraphs (A)(i) and (B)(i)” and inserting “subparagraphs (A)(i), (B)(i), and (C)”; and
+  - **(1)** in paragraph (1), in the matter preceding subparagraph (A), in the second sentence, by striking “subparagraphs (A)(i) and (B)(i)” and inserting “subparagraphs (A)(i), (B)(i), and (C)”; and
   - **(2)** in paragraph (7)(D), by striking “subparagraphs (A)(i) and (B)(i)” and inserting “subparagraphs (A)(i), (B)(i), and (C)”.
+- **(e)** *Rules of construction*
+  - **(1)** Nothing in this Act or the amendments made by this Act may be construed to limit or amend any fiduciary duty owed to a closed-end company (as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) or by an investment adviser (as defined under section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))) to a closed-end company.
+  - **(2)** Nothing in this Act or the amendments made by this Act may be construed to limit or amend the valuation, liquidity, or redemption requirements or obligations of a closed-end company (as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) as required by the Investment Company Act of 1940.
