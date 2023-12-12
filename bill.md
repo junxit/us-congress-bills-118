@@ -21,7 +21,7 @@ This Act may be cited as the “Helping Angels Lead Our Startups Act of 2023” 
     - **(B)** holds regular meetings and has defined processes and procedures for making investment decisions, either individually or among the membership of the group as a whole; and
     - **(C)** is neither associated nor affiliated with brokers, dealers, or investment advisers.
   - **(2)** *Issuer* The term issuer means an issuer that is a business, is not in bankruptcy or receivership, is not an investment company, and is not a blank check, blind pool, or shell company.
-- **(b)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D of its rules (17 CFR 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
+- **(b)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D (17 CFR 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
   - **(1)** sponsored by—
     - **(A)** the United States or any territory thereof, the District of Columbia, any State, a political subdivision of any State or territory, or any agency or public instrumentality of any of the foregoing;
     - **(B)** a college, university, or other institution of higher education;
@@ -43,8 +43,4 @@ This Act may be cited as the “Helping Angels Lead Our Startups Act of 2023” 
     - **(C)** the amount of securities being offered that have already been subscribed for; and
     - **(D)** the intended use of proceeds of the offering.
 - **(c)** *Rule of construction* Subsection (b) may only be construed as requiring the Securities and Exchange Commission to amend the requirements of Regulation D with respect to presentations and communications, and not with respect to purchases or sales.
-- **(d)** *No pre-Existing substantive relationship by reason of event* Attendance at an event described under subsection (b) shall not qualify, by itself, as establishing a pre-existing substantive relationship between an issuer and a purchaser, for purposes of Rule 506(b).
-
-## § 3. Restrictions on new filing requirements in connection with a general solicitation
-
-With respect to any offer or sale of a security under Regulation D (17 CFR 230.500 et seq.) that is exempt from the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the Securities and Exchange Commission may not issue any rule that would apply additional filing requirements (including requirements to file information with the Commission before or after a general solicitation or general advertising) to a general solicitation or general advertising of such a security that were not in effect on the date of enactment of this Act.
+- **(d)** *No pre-existing substantive relationship by reason of event* Attendance at an event described under subsection (b) shall not qualify, by itself, as establishing a pre-existing substantive relationship between an issuer and a purchaser, for purposes of Rule 506(b).
