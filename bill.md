@@ -36,6 +36,14 @@ This Act may be cited as the “César E. Chávez and the Farmworker Movement Na
   - **(2)** to interpret and provide for a broader understanding of the extraordinary achievements and contributions to the history of the United States made by César Chávez and the farmworker movement; and
   - **(3)** to support and enhance the network of sites and resources associated with César Chávez and the farmworker movement.
 
+## § 2. Purpose
+
+The purpose of this Act is to establish the César E. Chávez and the Farmworker Movement National Historical Park—
+
+- **(1)** to help preserve, protect, and interpret the nationally significant resources associated with César Chávez and the farmworker movement;
+- **(2)** to interpret and provide for a broader understanding of the extraordinary achievements and contributions to the history of the United States made by César Chávez and the farmworker movement; and
+- **(3)** to support and enhance the network of sites and resources associated with César Chávez and the farmworker movement.
+
 ## § 3. Definitions
 
 In this Act:
