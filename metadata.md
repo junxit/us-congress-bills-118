@@ -1,7 +1,7 @@
 ---
 measure: H.R. 357
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 357
@@ -42,6 +42,11 @@ Ensuring Accountability in Agency Rulemaking Act
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2023-12-12 — [House 118-1-716](votes/house-118-1-0716.md) — On Motion to Recommit — **Failed** (206–211)
+- 2023-12-12 — [House 118-1-717](votes/house-118-1-0717.md) — On Passage — **Passed** (218–203)
+
 ## Actions
 
 - 2023-01-13 — Introduced in House
@@ -52,3 +57,24 @@ Ensuring Accountability in Agency Rulemaking Act
 - 2023-11-29 — Placed on the Union Calendar, Calendar No. 226.
 - 2023-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-282.
 - 2023-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-282.
+- 2023-12-11 — Rules Committee Resolution H. Res. 922 Reported to House. Rule provides for consideration of H.R. 1147 and H.R. 357. The resolution provides for consideration of H.R. 1147 under a structured rule with one hour of general debate and H.R. 357 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on both measures. It also provides that on any legislative day of the second session of the 118th Congress before January 9, 2024, the Speaker may dispense with organizational and legislative business and that the Journal of the proceedings of the previous day shall be considered as approved if applicable.
+- 2023-12-12 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2023-12-12 — Considered as unfinished business. (consideration: CR H6840-6842)
+- 2023-12-12 — Considered under the provisions of rule H. Res. 922. (consideration: CR H6836-6840)
+- 2023-12-12 — DEBATE - The House proceeded with one hour of debate on H.R. 357.
+- 2023-12-12 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-12-12 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-12-12 — House amendment offered
+- 2023-12-12 — House amendment offered
+- 2023-12-12 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-12 — Mr. Mrvan moved to recommit to the Committee on the Judiciary. (text: CR H6840)
+- 2023-12-12 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2023-12-12 — On motion to recommit Failed by the Yeas and Nays: 206 - 211 (Roll no. 716).
+- 2023-12-12 — On passage Passed by recorded vote: 218 - 203 (Roll no. 717). (text of amendment in the nature of a substitute: CR H6836-6837)
+- 2023-12-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 357, the Chair put the question on the motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Mrvan demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2023-12-12 — Passed/agreed to in House: On passage Passed by recorded vote: 218 - 203 (Roll no. 717). (text of amendment in the nature of a substitute: CR H6836-6837)
+- 2023-12-12 — Rule H. Res. 922 passed House.
+- 2023-12-12 — Rule provides for consideration of H.R. 1147 and H.R. 357. The resolution provides for consideration of H.R. 1147 under a structured rule with one hour of general debate and H.R. 357 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on both measures. It also provides that on any legislative day of the second session of the 118th Congress before January 9, 2024, the Speaker may dispense with organizational and legislative business and that the Journal of the proceedings of the previous day shall be considered as approved if applicable.
+- 2023-12-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2023-12-12 — The previous question was ordered pursuant to the rule.
