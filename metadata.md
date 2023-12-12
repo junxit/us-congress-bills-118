@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3224
@@ -22,9 +22,10 @@ Countering Weapons of Mass Destruction Extension Act of 2023
 - Rep. Carter, Troy [D-LA-2] (C001125)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Countering Weapons of Mass Destruction Extension Act of 2023
 - 2023-12-11 — Mr. D'Esposito moved to suspend the rules and pass the bill, as amended.
 - 2023-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 707). (text: CR H6759)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 707). (text: CR H6759)
+- 2023-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
