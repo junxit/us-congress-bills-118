@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5473
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5473
@@ -23,9 +23,10 @@ Promoting Resilient Buildings Act of 2024
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Promoting Resilient Buildings Act of 2024
 - 2023-12-11 — Placed on the Union Calendar, Calendar No. 246.
 - 2023-12-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-305.
 - 2023-12-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-305.
+- 2023-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
