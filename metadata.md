@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6503
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6503
@@ -47,3 +47,12 @@ Airport and Airway Extension Act of 2023, Part II
 - 2023-12-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 15 (Roll no. 709). (text: CR H6756-6757)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 15 (Roll no. 709). (text: CR H6756-6757)
 - 2023-12-12 — Received in the Senate, read twice.
+- 2023-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6067)
+- 2023-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6067)
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-26 — Became Public Law No: 118-34.
+- 2023-12-26 — Became Public Law No: 118-34.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Presented to President.
+- 2023-12-26 — Signed by President.
+- 2023-12-26 — Signed by President.
