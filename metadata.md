@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 918
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 918
@@ -25,3 +25,6 @@ Directing certain committees to continue their ongoing investigations as part of
 - 2023-12-07 — Introduced in House
 - 2023-12-07 — Introduced in House
 - 2023-12-07 — Referred to the House Committee on Rules.
+- 2023-12-12 — Placed on the House Calendar, Calendar No. 54.
+- 2023-12-12 — Reported by the Committee on Rules. H. Rept. 118-314.
+- 2023-12-12 — Reported by the Committee on Rules. H. Rept. 118-314.
