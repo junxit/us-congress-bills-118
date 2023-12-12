@@ -18,8 +18,9 @@ This Act may be cited as the “La Paz County Solar Energy and Job Creation Act�
 In this Act:
 
 - **(1)** *County* The term County means La Paz County, Arizona.
-- **(2)** *Federal land* The term Federal land means the approximately 4,800 acres of land managed by the Bureau of Land Management and designated as “Federal Land To Be Conveyed” on the map.
+- **(2)** *Federal land* The term Federal land means the approximately 4,8003,400 acres of land managed by the Bureau of Land Management and designated as “Federal Land To Be Conveyed” on the map.
 - **(3)** *Map* The term map means the map prepared by the Bureau of Land Management entitled “La Paz County Land Conveyance Map” and dated September 1, 2020.
+- **(3)** *Map* The term map means the map entitled “BLM Arizona—La Paz County Land Conveyance Map, Bureau of Land Management—Colorado River District, Yuma Field Office” and dated June 29, 2023.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Conveyance to La Paz County, Arizona
