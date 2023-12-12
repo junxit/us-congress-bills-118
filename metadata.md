@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3315
@@ -43,3 +43,12 @@ National Guard and Reservists Debt Relief Extension Act of 2023
 - 2023-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6747)
 - 2023-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6747)
 - 2023-12-12 — Received in the Senate, read twice.
+- 2023-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6009)
+- 2023-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6009)
+- 2023-12-18 — Message on Senate action sent to the House.
+- 2023-12-19 — Became Public Law No: 118-24.
+- 2023-12-19 — Became Public Law No: 118-24.
+- 2023-12-19 — Presented to President.
+- 2023-12-19 — Presented to President.
+- 2023-12-19 — Signed by President.
+- 2023-12-19 — Signed by President.
