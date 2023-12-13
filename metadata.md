@@ -1,7 +1,7 @@
 ---
 measure: S. 66
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 66
@@ -29,3 +29,7 @@ NOTAM Improvement Act of 2023
 
 - 2023-01-25 — Introduced in Senate
 - 2023-01-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-03-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
