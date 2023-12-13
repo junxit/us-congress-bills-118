@@ -1,7 +1,7 @@
 ---
 measure: S. 1418
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1418
@@ -28,3 +28,7 @@ Children and Teens’ Online Privacy Protection Act
 
 - 2023-05-03 — Introduced in Senate
 - 2023-05-03 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2023-07-27 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
+- 2023-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.
