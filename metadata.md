@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1147
@@ -157,6 +157,10 @@ Whole Milk for Healthy Kids Act of 2023
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2023-12-13 — [House 118-1-718](votes/house-118-1-0718.md) — On Passage — **Passed** (330–99)
+
 ## Actions
 
 - 2023-02-21 — Introduced in House
@@ -167,3 +171,38 @@ Whole Milk for Healthy Kids Act of 2023
 - 2023-06-30 — Placed on the Union Calendar, Calendar No. 103.
 - 2023-06-30 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-131.
 - 2023-06-30 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-131.
+- 2023-12-11 — Rules Committee Resolution H. Res. 922 Reported to House. Rule provides for consideration of H.R. 1147 and H.R. 357. The resolution provides for consideration of H.R. 1147 under a structured rule with one hour of general debate and H.R. 357 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on both measures. It also provides that on any legislative day of the second session of the 118th Congress before January 9, 2024, the Speaker may dispense with organizational and legislative business and that the Journal of the proceedings of the previous day shall be considered as approved if applicable.
+- 2023-12-13 — Amendment (A001) offered by Mrs. Luna. (consideration: CR H6904; text: CR H6904)
+- 2023-12-13 — Amendment (A002) offered by Mr. Mills. (consideration: CR H6904-6905; text: CR H6904)
+- 2023-12-13 — Amendment (A003) offered by Mr. Tiffany. (consideration: CR H6905-6907; text: CR H6905)
+- 2023-12-13 — Considered as unfinished business. (consideration: CR H6921)
+- 2023-12-13 — Considered under the provisions of rule H. Res. 922. (consideration: CR H6889-6907; text of amendment in the nature of a substitute: CR H6903)
+- 2023-12-13 — DEBATE - Pursuant to the provisions of H. Res. 922, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 1.
+- 2023-12-13 — DEBATE - Pursuant to the provisions of H. Res. 922, the Committee of the Whole proceeded with 10 minutes of debate on the Mills amendment No. 2.
+- 2023-12-13 — DEBATE - Pursuant to the provisions of H. Res. 922, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 3.
+- 2023-12-13 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1147.
+- 2023-12-13 — House Amendment Offered
+- 2023-12-13 — House Amendment Offered
+- 2023-12-13 — House Amendment Offered
+- 2023-12-13 — House amendment agreed to: On agreeing to the Luna amendment (A001) Agreed to by voice vote.
+- 2023-12-13 — House amendment agreed to: On agreeing to the Luna amendment (A001) Agreed to by voice vote.
+- 2023-12-13 — House amendment agreed to: On agreeing to the Mills amendment (A002) Agreed to by voice vote.
+- 2023-12-13 — House amendment agreed to: On agreeing to the Mills amendment (A002) Agreed to by voice vote.
+- 2023-12-13 — House amendment agreed to: On agreeing to the Tiffany amendment (A003) Agreed to by voice vote.
+- 2023-12-13 — House amendment agreed to: On agreeing to the Tiffany amendment (A003) Agreed to by voice vote.
+- 2023-12-13 — House amendment offered
+- 2023-12-13 — House amendment offered
+- 2023-12-13 — House amendment offered
+- 2023-12-13 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 922 and Rule XVIII.
+- 2023-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-13 — On agreeing to the Luna amendment (A001) Agreed to by voice vote.
+- 2023-12-13 — On agreeing to the Mills amendment (A002) Agreed to by voice vote.
+- 2023-12-13 — On agreeing to the Tiffany amendment (A003) Agreed to by voice vote.
+- 2023-12-13 — On passage Passed by the Yeas and Nays: 330 - 99 (Roll no. 718).
+- 2023-12-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1147, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the chair postponed further proceedings until a time to be announced.
+- 2023-12-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 330 - 99 (Roll no. 718).
+- 2023-12-13 — Rule provides for consideration of H.R. 1147 and H.R. 357. The resolution provides for consideration of H.R. 1147 under a structured rule with one hour of general debate and H.R. 357 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on both measures. It also provides that on any legislative day of the second session of the 118th Congress before January 9, 2024, the Speaker may dispense with organizational and legislative business and that the Journal of the proceedings of the previous day shall be considered as approved if applicable.
+- 2023-12-13 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2023-12-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1147.
+- 2023-12-13 — The Speaker designated the Honorable Scott DesJarlais to act as Chairman of the Committee.
+- 2023-12-13 — The previous question was ordered pursuant to the rule.
