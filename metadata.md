@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5472
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5472
@@ -25,3 +25,8 @@ FinCEN Oversight and Accountability Act of 2023
 - 2023-09-14 — Introduced in House
 - 2023-09-14 — Introduced in House
 - 2023-09-14 — Referred to the House Committee on Financial Services.
+- 2023-09-20 — Committee Consideration and Mark-up Session Held
+- 2023-09-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 46 - 0.
+- 2023-12-13 — Placed on the Union Calendar, Calendar No. 254.
+- 2023-12-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-315.
+- 2023-12-13 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-315.
