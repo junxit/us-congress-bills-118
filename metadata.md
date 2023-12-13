@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5524
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5524
@@ -20,9 +20,10 @@ Foreign Affiliates Sharing Pilot Program Extension Act
 
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Foreign Affiliates Sharing Pilot Program Extension Act
 - 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 28 (Roll no. 714). (text: 12/11/2023 CR H6753)
 - 2023-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 28 (Roll no. 714). (text: 12/11/2023 CR H6753)
+- 2023-12-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
