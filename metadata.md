@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4531
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4531
@@ -85,11 +85,12 @@ Support for Patients and Communities Reauthorization Act
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -114,3 +115,4 @@ Support for Patients and Communities Reauthorization Act
 - 2023-12-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2023-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 37 (Roll no. 715). (text: 12/11/2023 CR H6790-6794)
 - 2023-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 37 (Roll no. 715). (text: 12/11/2023 CR H6790-6794)
+- 2023-12-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
