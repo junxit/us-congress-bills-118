@@ -1,7 +1,7 @@
 ---
 measure: S. 318
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 318
@@ -16,11 +16,13 @@ Save Our Seas 2.0 Amendments Act
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Padilla, Alex [D-CA] (P000145)
 
 ## Committees (1)
 
@@ -34,3 +36,5 @@ Save Our Seas 2.0 Amendments Act
 - 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
+- 2023-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5967-5968; text: CR S5967-5968)
+- 2023-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5967-5968; text: CR S5967-5968)
