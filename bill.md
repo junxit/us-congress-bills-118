@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 6753
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6753
+
+> To amend the Protection of Lawful Commerce in Arms Act to provide for the removal and dismissal of qualified civil liability actions.
+
+## § 1. Short title
+
+This Act may be cited as the “Protection of Lawful Commerce in Arms Act Federal Jurisdiction Act” or the “PLCAA Federal Jurisdiction Act”.
+
+## § 2. Removal and dismissal of qualified civil liability actions
+
+Section 3 of the Protection of Lawful Commerce in Arms Act (15 U.S.C. 7902) is amended by adding at the end the following:
+
+> - **(c)** *Removal and dismissal* In any action before a State court in which a defendant that is a manufacturer, seller, or trade association asserts that the action is a qualified civil liability action, the manufacturer, seller, or trade association may remove the action to the district court of the United States for the district and division embracing the place wherein it is pending, and such district court of the United States shall have jurisdiction to determine whether such action is a qualified civil liability action, and dismiss the action accordingly.
