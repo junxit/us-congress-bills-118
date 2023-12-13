@@ -1,7 +1,7 @@
 ---
 measure: S. 2414
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2414
@@ -28,3 +28,7 @@ Working Dog Health and Welfare Act of 2023
 
 - 2023-07-20 — Introduced in Senate
 - 2023-07-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-10-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-137.
+- 2023-12-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-137.
+- 2023-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
