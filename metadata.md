@@ -1,7 +1,7 @@
 ---
 measure: S. 229
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 229
@@ -34,3 +34,5 @@ Securing Semiconductor Supply Chains Act of 2023
 - 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2023-12-05 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2023-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.
+- 2023-12-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5967; text: 12/19/2023 CR S6061)
+- 2023-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5967)
