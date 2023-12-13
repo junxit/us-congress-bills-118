@@ -1,7 +1,7 @@
 ---
 measure: H.R. 357
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 357
@@ -38,9 +38,10 @@ Ensuring Accountability in Agency Rulemaking Act
 - Rep. Gooden, Lance [R-TX-5] (G000589)
 - Rep. Alford, Mark [R-MO-4] (A000379)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -78,3 +79,4 @@ Ensuring Accountability in Agency Rulemaking Act
 - 2023-12-12 — Rule provides for consideration of H.R. 1147 and H.R. 357. The resolution provides for consideration of H.R. 1147 under a structured rule with one hour of general debate and H.R. 357 under a closed rule with one hour of general debate. The resolution provides for a motion to recommit on both measures. It also provides that on any legislative day of the second session of the 118th Congress before January 9, 2024, the Speaker may dispense with organizational and legislative business and that the Journal of the proceedings of the previous day shall be considered as approved if applicable.
 - 2023-12-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2023-12-12 — The previous question was ordered pursuant to the rule.
+- 2023-12-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
