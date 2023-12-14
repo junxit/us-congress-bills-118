@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2365
 
-> To direct the Secretary of Health and Human Services to carry out a national project to prevent and cure Parkinson’s, to be known as the National Parkinson’s Project, and for other purposes.
+> To direct the Secretary of Health and Human Services to carry out a national project to prevent, diagnose, treat, and cure Parkinson’s, to be known as the National Parkinson’s Project, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Dr. Emmanuel Bilirakis National Plan to End Parkinson’s Act”.
+This Act may be cited as the “Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act”.
 
 ## § 2. National Parkinson’s Project
 

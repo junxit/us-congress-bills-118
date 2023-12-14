@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2365
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2365
@@ -191,9 +191,14 @@ Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkin
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 - Rep. Ryan, Patrick [D-NY-18] (R000579)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (1)
+
+- 2023-12-14 — [House 118-1-724](votes/house-118-1-0724.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–9)
 
 ## Actions
 
@@ -209,3 +214,13 @@ Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkin
 - 2023-12-12 — Placed on the Union Calendar, Calendar No. 253.
 - 2023-12-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-313.
 - 2023-12-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-313.
+- 2023-12-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2023-12-13 — Considered under suspension of the rules. (consideration: CR H6916-6921)
+- 2023-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2365.
+- 2023-12-13 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2023-12-14 — Considered as unfinished business. (consideration: CR H6962-6963)
+- 2023-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2023-12-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 9 (Roll no. 724). (text: 12/13/2023 CR H6916-6917)
+- 2023-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 9 (Roll no. 724). (text: 12/13/2023 CR H6916-6917)
+- 2023-12-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2023-12-14 — The title of the measure was amended. Agreed to without objection.
