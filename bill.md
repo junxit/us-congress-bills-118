@@ -16,37 +16,50 @@ This Act may be cited as the “Revising Existing Procedures On Reporting via Te
 ## § 2. Limited liability modernization
 
 - **(a)** *Amendments* Section 2258B of title 18, United States Code, is amended—
-  - **(1)** in the section heading, by striking “providers or domain name registrars” and inserting “the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing and Exploited Children”;
+  - **(1)** in the section heading, by striking “providers or domain name registrars” and inserting “the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing & Exploited Children”;
   - **(2)** in subsection (b)—
     - **(A)** in the matter preceding paragraph (1), by inserting “or charge” after “a claim”; and
     - **(B)** in paragraph (2)(C), by striking “this section,”; and
   - **(3)** by adding at the end the following:
     > - **(d)** *Limited liability for NCMEC-Contracted vendors*
-    >   - **(1)** *In general* Except as provided in paragraph (2), a civil claim or criminal charge may not be brought in any Federal or State court against a vendor contractually retained and designated by NCMEC to support the clearinghouse role of NCMEC, as set forth in section 404(b) of the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11293(b)).
+    >   - **(1)** *In general* Except as provided in paragraph (2), a civil claim or criminal charge may not be brought in any Federal or State court against a vendor contractually retained and designated by NCMEC to support the duties of NCMEC under section 404(b)(1)(K) of the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11293(b)(1)(K)).
     >   - **(2)** *Intentional, reckless, or other misconduct* Paragraph (1) shall not apply to a claim or charge if the vendor—
+    >     - **(A)** engaged in—
+    >       - **(i)** intentional misconduct; or
+    >       - **(ii)** negligent conduct; or
+    >     - **(B)** acted, or failed to act—
+    >       - **(i)** with actual malice;
+    >       - **(ii)** with reckless disregard to a substantial risk of causing injury without legal justification; or
+    >       - **(iii)** for a purpose unrelated to the performance of any responsibility or function—
+    >         - **(I)** set forth in paragraph (1); or
+    >         - **(II)** pursuant to sections 2258A, 2258C, 2702, or 2703.
+    >   - **(3)** *Vendor cybersecurity requirements* With respect to any visual depiction provided pursuant to the duties of NCMEC under section 404(b)(1)(K) of the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11293(b)(1)(K)) that is stored or transferred by a vendor contractually retained and designated by NCMEC to support such duties of NCMEC, a vendor shall—
+    >     - **(A)** secure such visual depiction in a manner that is consistent with the most recent version of the Cybersecurity Framework developed by the National Institute of Standards and Technology, or any successor thereto;
+    >     - **(B)** minimize the number of employees that may be able to obtain access to such visual depiction;
+    >     - **(C)** employ end-to-end encryption for data storage and transfer functions, or an equivalent technological standard;
+    >     - **(D)** undergo an independent annual cybersecurity audit to determine whether such visual depiction is secured as required under subparagraph (A); and
+    >     - **(E)** promptly address all issues identified by an audit described in subparagraph (D).
+    > - **(e)** *Limited liability for reporting apparent child pornography by an individual depicted in the child pornography as a minor, or a representative of such individual*
+    >   - **(1)** *In general* Except as provided in paragraph (2), a civil claim or criminal charge may not be brought in any Federal or State court against an individual depicted in child pornography as a minor, or a representative of such individual, arising from a report to the NCMEC CyberTipline by the individual, or the representative of such individual, of information that relates to the child pornography in which the individual is depicted as a minor, including a copy of the child pornography.
+    >   - **(2)** *Intentional, reckless, or other misconduct* Paragraph (1) shall not apply to a claim or charge if the individual, or the representative of such individual—
     >     - **(A)** engaged in—
     >       - **(i)** intentional misconduct;
     >       - **(ii)** negligent conduct; or
-    >       - **(iii)** conduct not authorized under the contract of the vendor with NCMEC to support the clearinghouse role of NCMEC, as set forth in section 404(b) of the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11293(b)); or
-    >     - **(B)** acted, or failed to act—
-    >       - **(i)** with actual malice;
-    >       - **(ii)** with reckless disregard to a substantial risk of causing physical injury without legal justification; or
-    >       - **(iii)** for a purpose unrelated to the performance of any responsibility or function—
-    >         - **(I)** set forth in paragraph (1); or
-    >         - **(II)** under sections 2258A, 2258C, 2702, or 2703.
-    >   - **(3)** *Minimizing access by vendor* With respect to any visual depiction of child pornography stored or transferred by a vendor contractually retained and designated by NCMEC to support the clearing house role of NCMEC, as set forth in section 404(b) of the Juvenile Justice and Delinquency Prevention Act of 1974 (34 U.S.C. 11293(b)), a vendor shall minimize the number of employees that may be able to obtain access to such visual depiction.
-    > - **(e)** *Limited liability for minors, and persons acting on behalf of a minor, reporting visual depictions of apparent child pornography in which the minor is depicted*
-    >   - **(1)** *In general* Except as provided in paragraph (2), a civil claim or criminal charge may not be brought in any Federal or State court against a minor, or a person acting on behalf of a minor, arising from a report to the CyberTipline of NCMEC by the minor or the person acting on behalf of a minor of information that relates to a visual depiction of apparent child pornography in which the minor is depicted, including a copy of the visual depiction of the minor.
-    >   - **(2)** *Intentional, reckless, or other misconduct* Paragraph (1) shall not apply to a claim or charge if the minor, or person acting on behalf of the minor—
-    >     - **(A)** engaged in—
-    >       - **(i)** intentional misconduct in submitting the report to the CyberTipline of NCMEC of information that relates to a visual depiction of apparent child pornography in which the minor is depicted, including a copy of the visual depiction of the minor; or
-    >       - **(ii)** negligent conduct; or
+    >       - **(iii)** any activity which constitutes a violation of section 2251; or
     >     - **(B)** acted, or failed to act—
     >       - **(i)** with actual malice; or
-    >       - **(ii)** with reckless disregard to a substantial risk of causing physical injury without legal justification.
-    >   - **(3)** *Minimizing access* With respect to any visual depiction of child pornography reported to the CyberTipline of NCMEC by a minor, or a person acting on behalf of a minor, in which the minor is depicted, NCMEC shall minimize access to the visual depiction and ensure the appropriate deletion of the visual depiction, as set forth in section 2258D.
+    >       - **(ii)** with reckless disregard to a substantial risk of causing injury without legal justification.
+    >   - **(3)** *Minimizing access* With respect to any child pornography reported to the NCMEC CyberTipline by an individual depicted in the child pornography as a minor, or a representative of such individual, NCMEC shall minimize access to the child pornography and ensure the appropriate deletion of the child pornography, as set forth in section 2258D.
+    >   - **(4)** *Definition* For purposes of this subsection, the term representative, with respect to an individual depicted in child pornography—
+    >     - **(A)** means—
+    >       - **(i)** the parent or legal guardian of the individual, if the individual is under 18 years of age;
+    >       - **(ii)** the legal guardian or other person appointed by a court to represent the individual;
+    >       - **(iii)** a legal representative retained by the individual;
+    >       - **(iv)** a representative of the estate of the individual; or
+    >       - **(v)** a person who is a mandated reporter under section 226(a)(1) of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20341(a)(1)); and
+    >     - **(B)** does not include a person who engaged in any activity which constitutes a violation of section 2251.
 
-- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to a civil claim or criminal charge that is filed on or after the date of enactment of this Act.
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to a civil claim or criminal charge that is filed on or after the date of enactment of this Act.
 - **(c)** *Table of sections amendment* The table of sections for chapter 110 of title 18, United States Code, is amended by striking the item relating to section 2258B and inserting the following:
 
 ## § 3. Preservation of reports to CyberTipline related to online sexual exploitation of children
@@ -61,13 +74,8 @@ Section 2258A(h) of title 18, United States Code, is amended—
 ## § 4. Strengthening of duty to report apparent violations to CyberTipline related to online exploitation of children
 
 - **(a)** *Amendments* Section 2258A of title 18, United States Code, is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in paragraph (1)(A)—
-      - **(i)** in the matter preceding clause (i), by inserting “shall” after “provider”;
-      - **(ii)** in clause (i), by striking “shall,”; and
-      - **(iii)** in clause (ii), by striking “may,”; and
-    - **(B)** in paragraph (2)(A), by inserting “, of section 1591 (if the violation involves a minor), or of 2422(b)” after “child pornography”; and
+  - **(1)** in subsection (a)(2)(A), by inserting “, of section 1591 (if the violation involves a minor), or of 2422(b)” after “child pornography”; and
   - **(2)** in subsection (e)—
     - **(A)** in paragraph (1), by striking “$150,000” and inserting “$850,000 in the case of a provider with not less than 100,000,000 monthly active users or $600,000 in the case of a provider with less than 100,000,000 monthly active users”; and
     - **(B)** in paragraph (2), by striking “$300,000” and inserting “$1,000,000 in the case of a provider with not less than 100,000,000 monthly active users or $850,000 in the case of a provider with less than 100,000,000 monthly active users”.
-- **(b)** *Guidance* Not later than 180 days after the date of enactment of this Act, the National Center for Missing & Exploited Children shall issue guidance to providers required to take actions described in section 2258A(a)(1)(B) of title 18, United States Code, on the facts or circumstances that constitute an apparent violation of section 1591 of that title and of section 2422(b) of that title.
+- **(b)** *Guidelines* Not later than 180 days after the date of enactment of this Act, the National Center for Missing & Exploited Children may issue guidelines, as appropriate, to providers required or permitted to take actions described in section 2258A(a)(1)(B) of title 18, United States Code, on the relevant identifiers for content that may indicate sex trafficking of children, as described in section 1591 of that title, or enticement, as described in section 2422(b) of that title.

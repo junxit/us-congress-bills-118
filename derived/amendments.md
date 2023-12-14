@@ -1,7 +1,7 @@
 ---
 measure: S. 474
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 2 executed, 21 stated and not applied.
+10 amendatory instructions. 1 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 34 U.S.C. § 11293
-
-> in the section heading, by striking “providers or domain name registrars” and inserting “the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing and Exploited Children”;
-
-| | |
-|---|---|
-| Removed | `providers or domain name registrars` |
-| Inserted | `the reporting, storage, and handling of certain visual depictions of apparent child pornography to the National Center for Missing and Exploited Children` |
 
 ### 34 U.S.C. § 11293
 
@@ -51,18 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `34 U.S.C. § 11293` | insert | in the matter preceding paragraph (1), by inserting “or charge” after “a claim”; and | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 11293` | strike | in paragraph (2)(C), by striking “this section,”; and | the bill quotes the text struck but describes what replaces it |
-| `34 U.S.C. § 11293` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 11293` | replace | The table of sections for chapter 110 of title 18, United States Code, is amended by striking the item relating to section 2258B and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in paragraph (1), by striking “90 days” and inserting “1 year”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in the matter preceding clause (i), by inserting “shall” after “provider”; | the bill names no machine-readable US Code section |
-| — | strike | in clause (i), by striking “shall,”; and | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii), by striking “may,”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2)(A), by inserting “, of section 1591 (if the violation involves a minor), or of 2422(b)” after “child pornography”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “$150,000” and inserting “$850,000 in the case of a provider with not less than 100,000,000 monthly active users or $600,000 in the case of a provider with less than 100,000,000 monthly active users”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “$300,000” and inserting “$1,000,000 in the case of a provider with not less than 100,000,000 monthly active users or $850,000 in the case of a provider with less than 100,000,000 monthly active users”. | the bill names no machine-readable US Code section |
 | `34 U.S.C. § 11293` | insert | in the matter preceding paragraph (1), by inserting “or charge” after “a claim”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 11293` | strike | in paragraph (2)(C), by striking “this section,”; and | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 11293` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 474
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 474
@@ -16,10 +16,14 @@ REPORT Act
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 
-## Cosponsors (2)
+## Cosponsors (6)
 
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -33,3 +37,14 @@ REPORT Act
 - 2023-06-06 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-06-06 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
 - 2023-06-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 85.
+- 2023-12-14 — 
+- 2023-12-14 — Amendment SA 1377 agreed to in Senate by Unanimous Consent.
+- 2023-12-14 — Amendment SA 1377 proposed by Senator Schumer for Senator Blackburn. (consideration: CR S6007) In the nature of a substitute.
+- 2023-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S6006-6008)
+- 2023-12-14 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6007-6008)
+- 2023-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S6007-6008)
+- 2023-12-14 — Senate amendment agreed to: Amendment SA 1377 agreed to in Senate by Unanimous Consent.
+- 2023-12-14 — Senate amendment proposed (on the floor): Amendment SA 1377 proposed by Senator Schumer for Senator Blackburn.
+- 2023-12-14 — Senate amendment submitted
+- 2023-12-14 — Senate amendment submitted
+- 2023-12-14 — The committee substitute withdrawn by Unanimous Consent. (CR S6007)
