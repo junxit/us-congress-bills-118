@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 453
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 453
@@ -28,3 +28,7 @@ A resolution celebrating the 150th anniversary of the founding of Texas Christia
 
 - 2023-11-07 — Introduced in Senate
 - 2023-11-07 — Referred to the Committee on the Judiciary.
+- 2023-12-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6011; text: 11/07/2023 CR S5404)
+- 2023-12-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6011; text: 11/07/2023 CR S5404)
+- 2023-12-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-12-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
