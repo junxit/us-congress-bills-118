@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2365
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2365
@@ -224,3 +224,14 @@ Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkin
 - 2023-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 9 (Roll no. 724). (text: 12/13/2023 CR H6916-6917)
 - 2023-12-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
 - 2023-12-14 — The title of the measure was amended. Agreed to without objection.
+- 2024-05-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S3897)
+- 2024-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S3897)
+- 2024-05-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-05-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-05-30 — Message on Senate action sent to the House.
+- 2024-06-28 — Presented to President.
+- 2024-06-28 — Presented to President.
+- 2024-07-02 — Became Public Law No: 118-66.
+- 2024-07-02 — Became Public Law No: 118-66.
+- 2024-07-02 — Signed by President.
+- 2024-07-02 — Signed by President.
