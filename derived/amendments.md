@@ -1,7 +1,7 @@
 ---
 measure: S. 2228
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 4659` | add-at-end | Section 9909 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4659) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4652` | redesignate | by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | insert | by inserting after subsection (g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4659` | add-at-end | in section 9909 (15 U.S.C. 4659), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
