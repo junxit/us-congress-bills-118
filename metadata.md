@@ -1,7 +1,7 @@
 ---
 measure: S. 474
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 474
@@ -48,3 +48,18 @@ REPORT Act
 - 2023-12-14 — Senate amendment submitted
 - 2023-12-14 — Senate amendment submitted
 - 2023-12-14 — The committee substitute withdrawn by Unanimous Consent. (CR S6007)
+- 2023-12-18 — Message on Senate action sent to the House.
+- 2023-12-19 — Held at the desk.
+- 2023-12-19 — Received in the House.
+- 2024-04-29 — Considered under suspension of the rules. (consideration: CR H2683-2685)
+- 2024-04-29 — DEBATE - The House proceeded with forty minutes of debate on S. 474.
+- 2024-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-29 — Ms. Lee (FL) moved to suspend the rules and pass the bill.
+- 2024-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2683-2684)
+- 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2683-2684)
+- 2024-05-01 — Presented to President.
+- 2024-05-01 — Presented to President.
+- 2024-05-07 — Became Public Law No: 118-59.
+- 2024-05-07 — Became Public Law No: 118-59.
+- 2024-05-07 — Signed by President.
+- 2024-05-07 — Signed by President.
