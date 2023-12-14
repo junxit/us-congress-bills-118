@@ -1,0 +1,17 @@
+---
+legis-num: S. 3552
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3552
+
+> To amend the Taxpayer Certainty and Disaster Tax Relief Act of 2020 to allow qualified tax-exempt organizations to claim the employee retention credit for employers affected by qualified disasters against Medicare hospital insurance taxes.
+
+## § 1. Credit against Medicare hospital insurance tax
+
+- **(a)** *In general* Paragraph (1) of section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 is amended by striking “tax imposed by section 3111(a)” and inserting “taxes imposed by subsections (a) and (b) of section 3111”.
+- **(b)** *Conforming amendment* Subparagraph (A) of section 303(d)(3) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 is amended by striking “tax imposed by section 3111(a)” and inserting “taxes imposed by subsections (a) and (b) of section 3111”.
+- **(c)** *Transfers to trust funds* Paragraph (5) of section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 is amended by inserting “, the Federal Hospital Insurance Trust Fund established under section 1817 of such Act (42 U.S.C. 1395i),” after “(42 U.S.C. 401)”.
+- **(d)** *Effective date* The amendments made by this section shall apply as if included in the enactment of section 303 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.
