@@ -1,0 +1,21 @@
+---
+legis-num: S. 3531
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3531
+
+> To prohibit actions to carry out the Department of Commerce’s pause in the issuance of new export licenses for certain exports under the Commerce Control List.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect American Gun Exporters Act”.
+
+## § 2. Prohibition on actions to carry out the Department of Commerce’s pause in the issuance of new export licenses for certain exports under the Commerce Control List
+
+Effective beginning on the date of the enactment of this Act, the Secretary of Commerce—
+
+- **(1)** may not take any action to carry out the Department of Commerce’s assessment or any policy changes resulting from the assessment announced on October 27, 2023, relating to the Department’s pause in the issuance of new export licenses for exports of all items controlled under Export Control Classification Numbers 0A501, 0A502, 0A504, and 0A505 of the Commerce Control List; and
+- **(2)** may not take any substantially similar action to pause or otherwise suspend or prohibit the issuance of new export licenses for exports of any or all items described in paragraph (1).
