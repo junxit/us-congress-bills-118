@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3229
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `52 U.S.C. § 30121` | insert | Section 319(a)(1)(A) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121(a)(1)(A)) is amended by inserting “, including a State or local ballot initiative or referendum” after “State, or local election”. | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 30121` | insert | Section 319(a)(1)(A) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121(a)(1)(A)) is amended by inserting “, including a State or local ballot initiative or referendum referendum or recall election” after “State, or local elec… | the bill quotes the text inserted but describes where it goes |
