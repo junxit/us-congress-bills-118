@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6794
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6794
+
+> To amend title XVIII of the Social Security Act to extend the Medicare independence at home medical practice demonstration program.
+
+## § 1. Extending the Medicare independence at home demonstration program
+
+- **(a)** *In general* Section 1866E(e) of the Social Security Act (42 U.S.C. 1395cc–5(e)) is amended—
+  - **(1)** in paragraph (1), by striking “10-year” and inserting “12-year”; and
+  - **(2)** by striking “tenth” each place such term appears and inserting “twelfth” in each such place.
+- **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services shall submit to Congress a report on the Independence at Home Medical Practice Demonstration Program established under section 1866E of the Social Security Act (42 U.S.C. 1395cc–5). Such report shall contain an evaluation of—
+  - **(1)** the effectiveness of such Program with respect to health outcomes; and
+  - **(2)** any barriers to participation in such Program.
