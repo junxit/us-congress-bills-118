@@ -1,7 +1,7 @@
 ---
 measure: S. 195
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 195
@@ -33,3 +33,5 @@ Keweenaw Bay Indian Community Land Claim Settlement Act of 2023
 - 2023-12-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-129.
 - 2023-12-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-129.
 - 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
+- 2023-12-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6008-6009; text: CR S6008-6009)
+- 2023-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6008-6009; text: CR S6008-6009)
