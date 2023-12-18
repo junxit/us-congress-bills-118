@@ -1,7 +1,7 @@
 ---
 measure: S. 2685
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `40 U.S.C. § 529` | add-at-end | in section 529, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 529` | insert | by inserting after section 529 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 529` | insert | The table of sections for chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 529 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 529` | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” afte… | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 529` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 529` | insert | by inserting after section 529 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

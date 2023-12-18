@@ -1,7 +1,7 @@
 ---
 measure: S. 2685
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2685
@@ -32,3 +32,5 @@ Reuse Excess Property Act
 - 2023-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-120.
 - 2023-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-120.
 - 2023-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
+- 2023-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6028-6029; text: CR S6028-6029)
+- 2023-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6028-6029; text: CR S6028-6029)
