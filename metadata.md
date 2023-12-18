@@ -1,7 +1,7 @@
 ---
 measure: S. 1414
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1414
@@ -32,3 +32,5 @@ National Weather Service Communications Improvement Act
 - 2023-12-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2023-12-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2023-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
+- 2023-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6028; text: CR S6028)
+- 2023-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6028; text: CR S6028)
