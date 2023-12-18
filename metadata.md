@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 679
@@ -34,3 +34,18 @@ GAO Database Modernization Act of 2023
 - 2023-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
 - 2023-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6026; text: CR S6026)
 - 2023-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6026; text: CR S6026)
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-22 — Held at the desk.
+- 2023-12-22 — Received in the House.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5600-5601)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 679.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bentz moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5600)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5600)
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-10-01 — Became Public Law No: 118-97.
+- 2024-10-01 — Became Public Law No: 118-97.
+- 2024-10-01 — Signed by President.
+- 2024-10-01 — Signed by President.
