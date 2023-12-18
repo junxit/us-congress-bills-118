@@ -1,7 +1,7 @@
 ---
 measure: S. 2073
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2073
@@ -32,3 +32,5 @@ Kids Online Safety and Privacy Act
 - 2023-08-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 07/27/2023 with an amendment in the nature of a substitute. With written report No. 118-91.
 - 2023-08-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters under authority of the order of the Senate of 07/27/2023 with an amendment in the nature of a substitute. With written report No. 118-91.
 - 2023-08-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
+- 2023-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6027; text: CR S6027)
+- 2023-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6027; text: CR S6027)

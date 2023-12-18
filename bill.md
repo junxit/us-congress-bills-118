@@ -31,7 +31,7 @@ This Act may be cited as the “Eliminate Useless Reports Act of 2023”.
     >     - **(A)** subject to paragraph (2), a list of each recurring plan or report submitted by the agency that the head of the agency determines to be outdated or duplicative;
     >     - **(B)** with respect to each recurring plan or report described in subparagraph (A)—
     >       - **(i)** a recommendation on whether to sunset, modify, consolidate, or reduce the frequency of the submission of the recurring plan or report;
-    >       - **(ii)** a citation to each provision of law that requires or requests the submission of the recurring plan or report; and
+    >       - **(ii)** a citation to each provision of law or directive in a congressional report that requires or requests the submission of the recurring plan or report; and
     >       - **(iii)** a list of the relevant congressional committees for the recurring plan or report; and
     >     - **(C)** a justification explaining, with respect to each recommendation described in subparagraph (B)(i) relating to a recurring plan or report—
     >       - **(i)** why the head of the agency made the recommendation, which may include an estimate of the resources expended by the agency to prepare and submit the recurring plan or report; and
@@ -42,6 +42,9 @@ This Act may be cited as the “Eliminate Useless Reports Act of 2023”.
     >       - **(i)** include the recurring plan or report in the list described in paragraph (1)(A); and
     >       - **(ii)** identify each agency or entity with which the head of the agency is required to coordinate or consult in submitting the recurring plan or report.
     >     - **(C)** *Disagreement* If the head of any agency or entity consulted under subparagraph (A) does not agree that a recurring plan or report is outdated or duplicative, the head of the agency required to submit the recurring plan or report shall not include the recurring plan or report in the list described in paragraph (1)(A).
+    >   - **(3)** *Government-wide or multi-agency plan and report submissions* With respect to a recurring plan or report required to be submitted by not less than 2 agencies, the Director of the Office of Management and Budget shall—
+    >     - **(A)** determine whether the requirement to submit the recurring plan or report is outdated or duplicative; and
+    >     - **(B)** make recommendations to Congress accordingly.
     > - **(c)** *Disposition of recommendations*
     >   - **(1)** *In general* With respect to a recommendation on a recurring plan or report included in budget justification materials by the head of an agency under subsection (b)(1)(B)(i), the chair and ranking member of each relevant congressional committee may—
     >     - **(A)** in coordination with any other relevant congressional committee, as necessary, agree or disagree with the recommendation or postpone a decision on the recommendation; and
