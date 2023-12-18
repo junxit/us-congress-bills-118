@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1147
@@ -206,3 +206,5 @@ Whole Milk for Healthy Kids Act of 2023
 - 2023-12-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1147.
 - 2023-12-13 — The Speaker designated the Honorable Scott DesJarlais to act as Chairman of the Committee.
 - 2023-12-13 — The previous question was ordered pursuant to the rule.
+- 2023-12-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2023-12-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
