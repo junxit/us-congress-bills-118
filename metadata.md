@@ -1,7 +1,7 @@
 ---
 measure: S. 3427
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3427
@@ -30,3 +30,7 @@ Overtime Pay for Protective Services Act of 2023
 
 - 2023-12-06 — Introduced in Senate
 - 2023-12-06 — Read twice and referred to the Committee on the Judiciary.
+- 2023-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6025; text: CR S6025)
+- 2023-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S6025; text: CR S6025)
+- 2023-12-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2023-12-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
