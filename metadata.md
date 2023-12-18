@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 679
@@ -32,3 +32,5 @@ GAO Database Modernization Act of 2023
 - 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-25.
 - 2023-05-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-25.
 - 2023-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
+- 2023-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6026; text: CR S6026)
+- 2023-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6026; text: CR S6026)
