@@ -25,7 +25,6 @@ That the Senate—
 - **(1)** congratulates the University of Iowa women’s basketball players, coaches, and support staff in setting the NCAA women's basketball attendance record at the Crossover at Kinnick event;
 - **(2)** recognizes and celebrates the impact of this record-setting event on young women athletes across the country; and
 - **(3)** respectfully requests that the Secretary of the Senate send 1 copy of this resolution to the following individuals:
-  - **(A)** Iowa Governor Kim Reynolds.
-  - **(B)** University of Iowa President Barbara Wilson.
-  - **(C)** University of Iowa Interim Athletic Director Beth Goetz.
-  - **(D)** University of Iowa Women’s Basketball Coach Lisa Bluder.
+  - **(A)** University of Iowa President Barbara Wilson.
+  - **(B)** University of Iowa Interim Athletic Director Beth Goetz.
+  - **(C)** University of Iowa Women's Basketball Coach Lisa Bluder.
