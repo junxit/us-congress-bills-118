@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4655
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4655
@@ -25,3 +25,8 @@ Businesses Over Activists Act
 - 2023-07-14 — Introduced in House
 - 2023-07-14 — Introduced in House
 - 2023-07-14 — Referred to the House Committee on Financial Services.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 21.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 265.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-326.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-326.
