@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4823
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4823
@@ -31,3 +31,8 @@ American FIRST Act of 2023
 - 2023-07-24 — Introduced in House
 - 2023-07-24 — Introduced in House
 - 2023-07-24 — Referred to the House Committee on Financial Services.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 21.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 264.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-325.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-325.
