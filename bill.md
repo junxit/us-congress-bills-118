@@ -18,7 +18,7 @@ This Act may be cited as the “Stopping Illicit Oil Shipments Act of 2023”.
 The Congress finds the following:
 
 - **(1)** When countries are designated under economic and trade sanctions by the United States and its allies, they are largely excluded from the licit global financial system, including the movement, sale, and profit derived from their oil and gas resources.
-- **(2)** For U.S. persons, U.S. maritime sanctions, including on nations like Iran, Russia, and North Korea, restrict the financing of vessels and cargo, insurance and re-insurance, companies using vessels to transport their goods, shipowners, charterers, and those providing maritime services such as classification and certification.
+- **(2)** For U.S. persons, American maritime sanctions, including on nations like Iran, Russia, and North Korea, restrict the financing of vessels and cargo, insurance and re-insurance, companies using vessels to transport their goods, shipowners, charterers, and those providing maritime services such as classification and certification.
 - **(3)** One method by which Iran and Russia frequently attempt to evade these U.S. sanctions on oil is to “false flag”, which means to avoid sanctions scrutiny by registering a vessel in a permissive country or by sailing under another country’s flag without communicating this to the country whose flag is being used.
 - **(4)** According to Foreign Policy, approximately two million barrels of oil from sanctioned countries, including Iran and Russia, are transported under false flags every day.
 - **(5)** In order to evade a sanctions regime, vessels transporting oil and gas resources from sanctioned countries must carry insurance policies to allow them to dock at a port, unload their goods, or use a port’s services, such as refueling.
@@ -60,7 +60,7 @@ In this Act:
   - **(A)** means insurance coverage for physical loss or damage of vessels, cargo, terminals, and any transport by which the cargo is transferred, acquired, or held between the points of origin and the final destination; and
   - **(B)** includes cargo insurance, freight insurance, hull insurance, and protection and indemnity.
 - **(3)** *Registration* The term “registration” means the process—
-  - **(A)** by which a vessel is formally recognized by a country’s maritime authority, resulting in the vessel’s inclusion in the national vessel registry;
+  - **(A)** by which a vessel is formally recognized by a country’s maritime authority, resulting in the vessel’s inclusion in the national vessel registry; and
   - **(B)** conferring upon a vessel the nationality of the registering state;
   - **(C)** entailing the right to fly the flag of such registering state; and
   - **(D)** subjecting a vessel to the responsibility to adhere to maritime laws and regulations enforced by such registering state.

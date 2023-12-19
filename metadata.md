@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6365
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6365
@@ -25,3 +25,8 @@ Stopping Illicit Oil Shipments Act of 2023
 - 2023-11-13 — Introduced in House
 - 2023-11-13 — Introduced in House
 - 2023-11-13 — Referred to the House Committee on Financial Services.
+- 2023-11-14 — Committee Consideration and Mark-up Session Held
+- 2023-11-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 50 - 0.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 269.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-330.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-330.
