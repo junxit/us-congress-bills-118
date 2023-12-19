@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4403
@@ -16,9 +16,10 @@ Securing the Cities Improvement Act
 
 - Rep. Carter, Troy [D-LA-2] (C001125)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
 
 ## Committees (1)
 
@@ -30,3 +31,9 @@ Securing the Cities Improvement Act
 - 2023-06-30 — Introduced in House
 - 2023-06-30 — Referred to the House Committee on Homeland Security.
 - 2023-06-30 — Referred to the Subcommittee on Emergency Management and Technology.
+- 2023-11-08 — Committee Consideration and Mark-up Session Held
+- 2023-11-08 — Ordered to be Reported by Voice Vote.
+- 2023-11-08 — Subcommittee on Emergency Management and Technology Discharged
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 259.
+- 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-320.
+- 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-320.
