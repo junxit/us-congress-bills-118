@@ -19,7 +19,8 @@ Section 1245(d) of the National Defense Authorization Act for Fiscal Year 2012 (
 
 - **(1)** by redesignating paragraph (5) as paragraph (6); and
 - **(2)** by inserting after paragraph (4) the following new paragraph:
-  > - **(5)** *Applicability of sanctions with respect to Chinese financial institutions* For the purpose of paragraph (1)(A), a “significant financial transaction” includes any transaction by a Chinese financial institution involving the purchase of petroleum or petroleum products from Iran.
-  >   - **(A)** *Determination Required* Not later than 180 days after the date of the enactment of this paragraph and every year thereafter for 5 years, the President shall—
+  > - **(5)** *Applicability of sanctions with respect to Chinese financial institutions*
+  >   - **(A)** *In general* For the purpose of paragraph (1)(A), a “significant financial transaction” includes any transaction by a Chinese financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of petroleum or petroleum products from Iran.
+  >   - **(B)** *Determination Required* Not later than 180 days after the date of the enactment of this paragraph and every year thereafter for 5 years, the President shall—
   >     - **(i)** determine whether any Chinese financial institution has engaged in a significant financial transaction as described in paragraph (1)(A); and
   >     - **(ii)** transmit the determination under clause (i) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
