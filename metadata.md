@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6231
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6231
@@ -32,3 +32,8 @@ Department of Homeland Security Policy Issuance Review Act
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Referred to the House Committee on Homeland Security.
 - 2023-11-06 — Referred to the Subcommittee on Oversight, Investigations, and Accountability.
+- 2023-11-08 — Committee Consideration and Mark-up Session Held
+- 2023-11-08 — Ordered to be Reported by Voice Vote.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 261.
+- 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-322.
+- 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-322.
