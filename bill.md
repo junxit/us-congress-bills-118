@@ -18,9 +18,9 @@ This Act may be cited as the “Holding Iranian Leaders Accountable Act of 2023�
 The Congress finds the following:
 
 - **(1)** Iran is characterized by high levels of official and institutional corruption, and substantial involvement by Iran’s security forces, particularly the Islamic Revolutionary Guard Corps (IRGC), in the economy.
-- **(2)** The Department of Treasury in 2019 designated the Islamic Republic of Iran’s financial sector as a jurisdiction of primary money laundering concern, concluding, “Iran has developed covert methods for accessing the international financial system and pursuing its malign activities, including misusing banks and exchange houses, operating procurement networks that utilize front or shell companies, exploiting commercial shipping, and masking illicit transactions using senior officials, including those at the Central Bank of Iran (CBI).”
+- **(2)** The Department of Treasury in 2019 designated the Islamic Republic of Iran’s financial sector as a jurisdiction of primary money laundering concern, concluding, “Iran has developed covert methods for accessing the international financial system and pursuing its malign activities, including misusing banks and exchange houses, operating procurement networks that utilize front or shell companies, exploiting commercial shipping, and masking illicit transactions using senior officials, including those at the Central Bank of Iran (CBI).”.
 - **(3)** In June 2019, the Financial Action Task Force (FATF) urged all jurisdictions to require increased supervisory examination for branches and subsidiaries of financial institutions based in Iran. The FATF later called upon its members to introduce enhanced relevant reporting mechanisms or systematic reporting of financial transactions, and require increased external audit requirements, for financial groups with respect to any of their branches and subsidiaries located in Iran.
-- **(4)** According to the State Department’s “Country Reports on Terrorism” in 2021, “Iran continued to be the leading state sponsor of terrorism, facilitating a wide range of terrorist and other illicit activities around the world. Regionally, Iran supported acts of terrorism in Bahrain, Iraq, Lebanon, Syria, and Yemen through proxies and partner groups such as Hizballah and Hamas.”
+- **(4)** According to the State Department’s “Country Reports on Terrorism” in 2021, “Iran continued to be the leading state sponsor of terrorism, facilitating a wide range of terrorist and other illicit activities around the world. Regionally, Iran supported acts of terrorism in Bahrain, Iraq, Lebanon, Syria, and Yemen through proxies and partner groups such as Hizballah and Hamas.”.
 
 ## § 3. Report on financial institutions and assets connected to certain Iranian officials
 
@@ -43,8 +43,8 @@ The Congress finds the following:
 - **(b)** *Persons described* The natural persons described in this subsection are the following:
   - **(1)** The Supreme Leader of Iran.
   - **(2)** The President of Iran.
-  - **(3)** Members of the Council of Guardians.
-  - **(4)** Members of the Expediency Council.
+  - **(3)** The members of the Council of Guardians.
+  - **(4)** The members of the Expediency Council.
   - **(5)** The Minister of Intelligence and Security.
   - **(6)** The Commander and the Deputy Commander of the IRGC.
   - **(7)** The Commander and the Deputy Commander of the IRGC Ground Forces.
@@ -68,21 +68,21 @@ The Congress finds the following:
     - **(D)** Kata’ib Hizballah.
 - **(c)** *Form of report; public availability*
   - **(1)** *Form* The report required under subsection (a) and any waiver under subsection (a)(3) shall be submitted in unclassified form but may contain a classified annex.
-  - **(2)** *Public availability* The Secretary of the Treasury shall make the unclassified portion of such report public if the Secretary notifies the appropriate Members of Congress that the publication is in the national interest of the United States and would substantially promote—
+  - **(2)** *Public availability* The Secretary shall make the unclassified portion of such report public if the Secretary notifies the appropriate Members of Congress that the publication is in the national interest of the United States and would substantially promote—
     - **(A)** deterring or sanctioning official corruption in Iran;
     - **(B)** holding natural persons or financial institutions listed in the report accountable to the people of Iran;
     - **(C)** combating money laundering or the financing of terrorism; or
     - **(D)** achieving any other strategic objective with respect to the Government of Iran.
-  - **(3)** *Format of publicly available re- ports* If the Secretary makes the unclassified portion of a report public pursuant to paragraph (2), the Secretary shall make it available to the public on the website of the Department of the Treasury—
+  - **(3)** *Format of publicly available reports* If the Secretary makes the unclassified portion of a report public pursuant to paragraph (2), the Secretary shall make it available to the public on the website of the Department of the Treasury—
     - **(A)** in English, Farsi, Arabic, and Azeri; and
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
 
 ## § 4. Restrictions on certain financial institutions
 
-- **(a)** *In general* Not later than the date that is 90 days after submitting a report described under section 3(a)(1), the Secretary of the Treasury shall undertake the following with respect to a financial institution that is described under section 3(a)(1)(C) and listed in the report:
+- **(a)** *In general* Not later than the date that is 90 days after submitting a report described under section 3(a)(1), the Secretary shall undertake the following with respect to a financial institution that is described under section 3(a)(1)(C) and listed in the report:
   - **(1)** If the financial institution is a United States financial institution, require the closure of any account described in section 3(a)(1)(C)(i), and prohibit the provision of significant financial services, directly or indirectly, to a natural person covered by the report.
-  - **(2)** If the financial institution is a foreign financial institution, actively seek the closure of any account described in section 3(a)(1)(C)(i), and the cessation of significant financial services to a natural person covered by the report, using any existing authorities of the Secretary of the Treasury, as appropriate.
-- **(b)** *Suspension* The Secretary of the Treasury may suspend the application of subsection (a) with respect to a financial institution upon reporting to the appropriate Members of Congress that the suspension is in the national interest of the United States, with a detailed explanation of the reasons therefor.
+  - **(2)** If the financial institution is a foreign financial institution, actively seek the closure of any account described in section 3(a)(1)(C)(i), and the cessation of significant financial services to a natural person covered by the report, using any existing authorities of the Secretary, as appropriate.
+- **(b)** *Suspension* The Secretary may suspend the application of subsection (a) with respect to a financial institution upon reporting to the appropriate Members of Congress that the suspension is in the national interest of the United States, with a detailed explanation of the reasons therefor.
 
 ## § 5. Exceptions for national security; implementation authority
 
@@ -97,7 +97,7 @@ The following activities shall be exempt from requirements under sections 3 and 
 The provisions of this Act shall have no force or effect on the earlier of—
 
 - **(1)** the date that is 5 years after the date of enactment of this Act; or
-- **(2)** 30 days after the Secretary of the Treasury reports in writing to the appropriate Members of Congress that—
+- **(2)** 30 days after the Secretary reports in writing to the appropriate Members of Congress that—
   - **(A)** Iran is not a jurisdiction of primary money laundering concern; or
   - **(B)** the Government of Iran is providing significant cooperation to the United States for the purpose of preventing acts of international terrorism, or for the promotion of any other strategic objective that is important to the national interest of the United States, as specified in the report by the Secretary.
 
@@ -105,7 +105,7 @@ The provisions of this Act shall have no force or effect on the earlier of—
 
 For purposes of this Act:
 
-- **(1)** *Appropriate members of congress* The term “appropriate Members of Congress” means the Speaker and Minority Leader of the House of Representatives, the Majority Leader and Minority Leader of the Senate, the Chairman and Ranking Member of the Committee on Financial Services of the House of Representatives, and the Chairman and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
+- **(1)** *Appropriate Members of congress* The term “appropriate Members of Congress” means the Speaker and Minority Leader of the House of Representatives, the Majority Leader and Minority Leader of the Senate, the Chairman and Ranking Member of the Committee on Financial Services of the House of Representatives, and the Chairman and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
 - **(2)** *Financial institution* The term “financial institution” means a United States financial institution or a foreign financial institution.
 - **(3)** *Foreign financial institution* The term “foreign financial institution” has the meaning given that term in section 561.308 of title 31, Code of Federal Regulations.
 - **(4)** *Funds* The term “funds” means—
