@@ -1,7 +1,7 @@
 ---
 measure: S. 1478
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1478
@@ -47,3 +47,18 @@ A bill to designate United States Route 20 in the States of Oregon, Idaho, Monta
 - 2023-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6062; text: CR S6062)
 - 2023-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
 - 2023-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-22 — Held at the desk.
+- 2023-12-22 — Received in the House.
+- 2024-12-09 — Considered under suspension of the rules. (consideration: CR H6451-6452)
+- 2024-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 1478.
+- 2024-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-09 — Mr. Graves (MO) moved to suspend the rules and pass the bill.
+- 2024-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6451)
+- 2024-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6451)
+- 2024-12-12 — Presented to President.
+- 2024-12-12 — Presented to President.
+- 2024-12-17 — Became Public Law No: 118-154.
+- 2024-12-17 — Became Public Law No: 118-154.
+- 2024-12-17 — Signed by President.
+- 2024-12-17 — Signed by President.
