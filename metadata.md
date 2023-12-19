@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5921
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5921
@@ -16,7 +16,7 @@ No U.S. Financing for Iran Act of 2023
 
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 
-## Cosponsors (29)
+## Cosponsors (30)
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
@@ -47,6 +47,7 @@ No U.S. Financing for Iran Act of 2023
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
 ## Committees (1)
 
@@ -57,3 +58,8 @@ No U.S. Financing for Iran Act of 2023
 - 2023-10-11 — Introduced in House
 - 2023-10-11 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Financial Services.
+- 2023-11-14 — Committee Consideration and Mark-up Session Held
+- 2023-11-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 34 - 12.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 271.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-332.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-332.

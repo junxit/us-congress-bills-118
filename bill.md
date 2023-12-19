@@ -15,9 +15,9 @@ This Act may be cited as the “No U.S. Financing for Iran Act of 2023”.
 
 ## § 2. Prohibition on authorizations for United States financial institutions
 
-The Secretary of the Treasury may not authorize a transaction by a U.S. financial institution (as defined in section 561.309 of title 31, Code of Federal Regulations) in connection with the importation from or exportation to the Islamic Republic of Iran of any goods, services, or technology, other than the sale of agricultural commodities, food, medicine, or medical devices benefitting the civilian population of Iran.
+The Secretary of the Treasury may not authorize a transaction by a U.S. financial institution (as defined in section 561.309 of title 31, Code of Federal Regulations) in connection with the importation from or exportation to the Islamic Republic of Iran of any goods, services, or technology, other than the sale of agricultural commodities, food, medicine, medical devices, or humanitarian assistance benefitting the civilian population of Iran.
 
-## § 3. Opposition to International Monetary Fund assistance
+## § 3. Opposition to IMF assistance
 
 The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to—
 
