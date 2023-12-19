@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title XIV of the International Financial Institutions Act (22 U.S.C. 262n–262n–3) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XIV of the International Financial Institutions Act (22 U.S.C. 262n-262n-3) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 1405 of such Act, as added by this section, is repealed effective on the earlier of— | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4768
@@ -29,3 +29,8 @@ No Russian Agriculture Act
 - 2023-07-20 — Introduced in House
 - 2023-07-20 — Introduced in House
 - 2023-07-20 — Referred to the House Committee on Financial Services.
+- 2023-07-26 — Committee Consideration and Mark-up Session Held
+- 2023-07-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 49 - 0.
+- 2023-12-19 — Placed on the Union Calendar, Calendar No. 266.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-327.
+- 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-327.
