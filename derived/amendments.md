@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4767
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,7 +34,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78d` | add-at-end | Section 4(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78a` | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15G the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78q` | insert | Section 17(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(a)(1)) is amended by inserting “proxy advisory firm,” after “nationally recognized statistical rating organization,”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78c` | add-at-end | Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | redesignate | by redesignating the second paragraph (80) (relating to funding portal) as paragraph (81); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78n` | add-at-end | Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78m` | add-at-end | Section 13(f) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78n` | add-at-end | Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n), as amended by section 701, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
