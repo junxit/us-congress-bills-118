@@ -17,7 +17,7 @@ This Act may be cited as the “Combating Human Rights Abuses Act of 2023”.
 
 - **(a)** *In general* The Secretary of Commerce shall provide training described in subsection (b) to such employees of the Department of Commerce who provide counseling services to businesses engaged in interstate commerce or foreign direct investment as the Secretary considers appropriate.
 - **(b)** *Contents of training* The training required under subsection (a) shall be—
-  - **(1)** designed to raise awareness about emerging trends and issues with respect to human rights abuses occurring worldwide, such as human rights abuses perpetrated by the Government of the People’s Republic of China, including the use of forced labor, against Uyghurs and other ethnic minority populations in the Xinjiang Uyghur Autonomous Region; and
+  - **(1)** designed to raise awareness about emerging trends and issues with respect to human rights abuses perpetrated by the Government of the People’s Republic of China, including the use of forced labor, against Uyghurs and other ethnic minority populations in the Xinjiang Uyghur Autonomous Region; and
   - **(2)** incorporated to the greatest extent possible into existing training provided by the Department of Commerce.
 - **(c)** *Timing* The training required under subsection (a) shall be offered and updated at such times as the Secretary considers appropriate.
 
@@ -27,9 +27,8 @@ This Act may be cited as the “Combating Human Rights Abuses Act of 2023”.
   - **(1)** offer guidance for United States businesses engaged in interstate commerce or foreign direct investment, including such businesses that are, or are considering, conducting transactions with entities subject to the control or influence of jurisdictions where significant human rights abuses have occurred, such as the People’s Republic of China; and
   - **(2)** incorporate the guidance required under paragraph (1) into any counseling services that the Department of Commerce provides to such businesses as the Secretary considers appropriate.
 - **(b)** *Contents of guidance* The guidance required under subsection (a) shall—
-  - **(1)** provide information about emerging trends and issues involving human rights abuses, such as information that describes—
-    - **(A)** human rights abuses perpetrated by the Government of the People’s Republic of China, including the use of forced labor, against Uyghurs and other ethnic minority populations in the Xinjiang Uyghur Autonomous Region;
-    - **(B)** risk factors that may be used to identify entities subject to the influence or control of jurisdictions such as the People’s Republic of China that may be implicated in human rights abuses;
-    - **(C)** ways to avoid doing business with entities described in subparagraph (B); and
-    - **(D)** potential reputational, economic, legal, and other risks of conducting transactions with an entity described in subparagraph (B); and
-  - **(2)** make clear that the guidance is for advisory purposes and that the Department of Commerce is not responsible for certifying the accuracy or completeness of the information provided in the guidance.
+  - **(1)** provide information about emerging trends and issues involving human rights abuses perpetrated by the Government of the People’s Republic of China, consisting of the use of forced labor against Uyghurs and other ethnic minority populations in the Xinjiang Uyghur Autonomous Region, including information about—
+    - **(A)** risk factors that may be used to identify entities subject to the influence or control of jurisdictions such as the People’s Republic of China that may be implicated in human rights abuses;
+    - **(B)** ways to avoid doing business with entities described in subparagraph (A); and
+    - **(C)** potential reputational, economic, legal, and other risks of conducting transactions with an entity described in subparagraph (A); and
+  - **(2)** make clear that the guidance is for advisory purposes only.
