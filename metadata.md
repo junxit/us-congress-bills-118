@@ -1,7 +1,7 @@
 ---
 measure: S. 384
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 384
@@ -28,3 +28,8 @@ Springfield 1908 Race Riot National Monument Act
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-06-21 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 118-284.
+- 2023-09-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-142.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-142.
+- 2023-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.
