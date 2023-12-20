@@ -1,7 +1,7 @@
 ---
 measure: S. 2136
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2136
@@ -24,3 +24,8 @@ Utah State Parks Adjustment Act
 
 - 2023-06-22 — Introduced in Senate
 - 2023-06-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-285.
+- 2023-09-21 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-148.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-148.
+- 2023-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.
