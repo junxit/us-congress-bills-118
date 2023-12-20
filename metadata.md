@@ -1,7 +1,7 @@
 ---
 measure: S. 1059
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1059
@@ -28,3 +28,8 @@ Big Bend National Park Boundary Adjustment Act
 
 - 2023-03-29 — Introduced in Senate
 - 2023-03-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-06-21 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 118-284.
+- 2023-09-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-145.
+- 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-145.
+- 2023-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.
