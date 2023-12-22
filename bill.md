@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Federal securities laws with respect to the materiality of disclosure requirements, to establish the Public Company Advisory Committee, and for other purposes.
 
-## § 1. Short title; Table of contents
+## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Guiding Uniform and Responsible Disclosure Requirements and Information Limits Act of 2023” or the “GUARDRAIL Act of 2023”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:

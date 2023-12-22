@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4790
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4790
@@ -31,3 +31,8 @@ Prioritizing Economic Growth Over Woke Policies Act
 - 2023-07-20 — Introduced in House
 - 2023-07-20 — Introduced in House
 - 2023-07-20 — Referred to the House Committee on Financial Services.
+- 2023-07-27 — Committee Consideration and Mark-up Session Held
+- 2023-07-27 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 21.
+- 2023-12-22 — Placed on the Union Calendar, Calendar No. 275.
+- 2023-12-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-336.
+- 2023-12-22 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-336.
