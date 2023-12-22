@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6903
+congress: 118th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6903
+
+> To direct the Secretary of Defense to develop a plan to ensure an adequate supply of medications for the military health system.
+
+## § 1. Short title
+
+This Act may be cited as the “Stockpiling Active Pharmaceutical Ingredients Act”.
+
+## § 2. Development of plan to ensure an adequate supply of medications for the military health system
+
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall develop a plan, regarding the military health system—
+
+- **(1)** for stockpiling essential medications to ensure availability of a 180-day supply during armed conflict or other supply chain disruptions; and
+- **(2)** that mitigates vulnerabilities to active pharmaceutical ingredient supply chains and reduces dependence on active pharmaceutical ingredients from foreign sources.
