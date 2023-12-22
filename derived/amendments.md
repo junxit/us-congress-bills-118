@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6585
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -40,8 +40,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087d` | strike | in paragraph (5), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087d` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087d` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4968` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b-2` | redesignate | in paragraph (3), by redesignating subparagraphs (A) through (D) as clauses (i) through (iv), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b-2` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070b-2` | redesignate | in the matter preceding subparagraph (A), as so redesignated, by striking “Assistance may” and inserting | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1070b-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4968` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

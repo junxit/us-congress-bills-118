@@ -24,7 +24,7 @@ This Act may be cited as the “Bipartisan Workforce Pell Act”.
   >       - **(i)** be enrolled, or accepted for enrollment, in a program of study that leads to a master’s degree, doctoral degree, or other post-graduate degree; or
   >       - **(ii)** have attained such a degree.
   >   - **(3)** *Terms and conditions of awards* The Secretary shall award Workforce Pell Grants under this subsection in the same manner and with the same terms and conditions as the Secretary awards Federal Pell Grants under this section, except that—
-  >     - **(A)** each use of the term eligible program shall be substituted by “eligible program under section 481(b)(3)”, other than with respect to—
+  >     - **(A)** each use of the term eligible program shall be substituted by “eligible workforce program under section 481(b)(3)”, other than with respect to—
   >       - **(i)** paragraph (9)(A) of such subsection; and
   >       - **(ii)** subsection (d)(2); and
   >     - **(B)** a student who is eligible for a grant equal to less than the amount of the minimum Federal Pell Grant because the eligible workforce program in which the student is enrolled or accepted for enrollment is less than an academic year (in hours of instruction or weeks of duration) may still be eligible for a Workforce Pell Grant in an amount that is prorated based on the length of the program.
@@ -46,7 +46,7 @@ Section 481(b) of the Higher Education Act of 1965 (20 U.S.C. 1088(b)) is amende
   >     - **(i)** it is a program of at least 150 clock hours of instruction, but less than 600 clock hours of instruction, or an equivalent number of credit hours, offered during a minimum of 8 weeks, but less than 15 weeks;
   >     - **(ii)** it is not offered as a correspondence course, as defined in 600.2 of title 34, Code of Federal Regulations (as in effect on September 20, 2020);
   >     - **(iii)** the State board makes a determination that the program—
-  >       - **(I)** provides an education aligned with the requirements of high-skill, high-wage, or in-demand industry sectors or occupations (as used in section 122 of the Carl D. Perkins Career and Technical Education Act (20 U.S.C. 2342));
+  >       - **(I)** provides an education aligned with the requirements of high-skill, high-wage (as identified by the State pursuant to section 122 of the Carl D. Perkins Career and Technical Education Act (20 U.S.C. 2342), or in-demand industry sectors or occupations;
   >       - **(II)** meets the hiring requirements of potential employers in the sectors or occupations described in subclause (I); and
   >       - **(III)** satisfies any applicable educational prerequisite requirement for professional licensure or certification in the State or States in which the program is offered, as applicable, such that a student who completes the program is qualified to—
   >         - **(aa)** practice or find employment in the sectors or occupations described in subclause (I); and
@@ -60,12 +60,12 @@ Section 481(b) of the Higher Education Act of 1965 (20 U.S.C. 1088(b)) is amende
   >       - **(II)** prepares students to pursue 1 or more certificate or degree programs at 1 or more institutions of higher education (which may include the institution of higher education providing the program), including by ensuring—
   >         - **(aa)** that a student, upon completion of the program and enrollment in such a related certificate or degree program, will receive academic credit for the program that will be accepted toward meeting such certificate or degree program requirements; and
   >         - **(bb)** the acceptability of such credit toward meeting such certificate or degree program requirements; and
-  >       - **(III)** publishes prominently on the website of the institution the recognized postsecondary credential that will be awarded to the student upon completion of the program, including the entity issuing the credential, any third-party endorsements of the credential, the occupation or occupations for which the credential prepares individuals for employment, the competencies achieved to earn the credential, the level of mastery of such competencies and how mastery is assessed, and specific information with respect to where, whether, and under what circumstances the credential is stackable or portable;
+  >       - **(III)** posts prominently on the website of the institution the recognized postsecondary credential that will be awarded to the student upon completion of the program, including the entity issuing the credential, any third-party endorsements of the credential, the occupation or occupations for which the credential prepares individuals for employment, the competencies achieved to earn the credential, the level of mastery of such competencies and how mastery is assessed, and specific information with respect to where, whether, and under what circumstances the credential is stackable or portable;
   >       - **(IV)** with respect to the information collected under section 131(i)—
-  >         - **(aa)** publishes such information prominently on the website of the institution; and
+  >         - **(aa)** posts such information prominently on the website of the institution; and
   >         - **(bb)** provides such information in a written disclosure to each prospective student prior to entering into an enrollment agreement with such student for such program, and establishes procedures for each such student to confirm receipt of such disclosure;
   >       - **(V)** has established a plan to ensure students who completed the program have access to transcripts for completed coursework without a fee; and
-  >       - **(VI)** has been offered by an eligible institution of higher education for not less than 1 year prior to the date on which such agency or association is to make a determination under this paragraph; and
+  >       - **(VI)** has been offered by an eligible institution of higher education for not less than 1 year prior to the date on which such agency or association is to make a determination under this paragraph;
   >     - **(v)** after the accrediting agency makes the determination that the program meets the requirements under clause (iv), the Secretary determines that—
   >       - **(I)** for each award year, the program has a verified completion rate of at least 70 percent, within 150 percent of the normal time for completion;
   >       - **(II)** for each award year, the program has a verified job placement rate of at least 70 percent, measured 180 days after completion;
@@ -73,7 +73,8 @@ Section 481(b) of the Higher Education Act of 1965 (20 U.S.C. 1088(b)) is amende
   >       - **(IV)** for at least 2 of the 3 most recent consecutive award years for which data are available, the median earnings of students who completed the program, measured three years after students completed the program, exceeded the annual median earnings of individuals in the State in which the program is located—
   >         - **(aa)** who are in the labor force;
   >         - **(bb)** who are between 25 and 34 years of age, inclusive; and
-  >         - **(cc)** for whom the highest degree attained is a high school diploma (or recognized equivalent).
+  >         - **(cc)** for whom the highest degree attained is a high school diploma (or recognized equivalent); and
+  >     - **(vi)** in the case of a program that has been an eligible workforce program under this paragraph for 3 or more years, it uses common, linked, open, and interoperable data formats when posting on the website of the institution the data required under subclauses (III) and (IV) of clause (iv).
   >   - **(B)**
   >     - **(i)** The Secretary shall establish an appeals process wherein a program may request that, in making a determination under subparagraph (A)(v) (other than with respect to the median earnings of the individuals in the State described in subclause (IV) of such subparagraph), the Secretary use alternate earnings data, provided by the program, that is based on local, State, or Federal administrative data sources and that is statistically rigorous, accurate, comparable to, and representative of such students, if such program objects to a determination made by the Secretary under such subparagraph for purposes of—
   >       - **(I)** eligibility under this paragraph; or
@@ -155,7 +156,7 @@ Section 131 of the Higher Education Act of 1965 (20 U.S.C. 1015) is amended by a
   - **(3)** by adding at the end the following:
     > - **(C)** if such agency or association has or seeks to include within its scope of recognition the evaluation of the quality of institutions offering an eligible program under section 481(b)(3), such agency or association shall, in addition to meeting the other requirements of this subpart, demonstrate to the Secretary that, with respect to such an eligible program—
     >   - **(i)** the agency or association’s standards include a process for determining if the institution has the capability to effectively offer such program; and
-    >   - **(ii)** the agency or association requires a demonstration that the program satisfies the requirements of section 481(b)(3)(A)(iv).
+    >   - **(ii)** the agency or association requires a demonstration that the program satisfies the requirements of section 481(b)(3)(A)(iv);
 
 - **(c)** *Prospective accreditors* The Secretary—
   - **(1)** in the case of an accrediting agency or association that is not recognized under section 496 (20 U.S.C. 1099b) and that is seeking initial recognition to evaluate only eligible programs under section 481(b)(3) (20 U.S.C. 1088(b)), may only recognize such agency or association for such purpose if such agency or association demonstrates, in the application submitted under such section 496 for such recognition, compliance with the requirements of such section for at least 1 year prior to the date on which such application is submitted;
@@ -184,7 +185,7 @@ Nothing in this Act shall be construed to impose or increase an occupational lic
   - **(1)** in paragraph (5), by striking “and” after the semicolon;
   - **(2)** by redesignating paragraph (6) as paragraph (7); and
   - **(3)** by inserting after paragraph (5) the following:
-    > - **(6)** notwithstanding any other provision of this Act, for the award year beginning on July 1, 2024, and each subsequent award year, if such institution is an applicable educational institution (as defined in section 4968(b) of title 26, United States Code), provide that such institution may not award—
+    > - **(6)** notwithstanding any other provision of this Act, for the award year beginning on July 1, 2024, and each subsequent award year, if such institution is an applicable educational institution that is an organization subject to taxation under section 4968 of the Internal Revenue Code of 1986, provide that such institution may not award—
     >   - **(A)** a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Plus Loan to any eligible student; or
     >   - **(B)** a Federal Direct Plus Loan to a parent of an eligible dependent undergraduate student if such student is eligible for a Federal Pell Grant.
 
@@ -195,11 +196,10 @@ Nothing in this Act shall be construed to impose or increase an occupational lic
     > - **(1)** *In general* Assistance may
 
   - **(4)** by adding at the end the following:
-    > - **(2)** *Exception*
-    >   - **(A)** In addition to the requirements under paragraph (1), for the award year beginning on July 1, 2024 and each subsequent award year, an institution that is an applicable educational institution (as defined in section 4968(b) of title 26, United States Code) may only receive assistance under this subpart if such institution guarantees that, for each such award year—
-    >     - **(i)** the institution will make available to each student who is enrolled at the institution and who is eligible for a Federal Pell Grant under section 401, an amount, derived from only non-Federal resources, that is not less than the maximum amount that may be awarded to a student under section 413B(a)(1), to be provided to such a student as emergency financial assistance in the event that the student is in need of such assistance; and
-    >     - **(ii)** the percentage of students enrolled at such institution who are eligible for a Federal Pell grant will be equal to or greater than the percentage of students who were enrolled at such institution and were eligible for a Federal Pell grant in the award year during which the Bipartisan Workforce Pell Act was enacted.
+    > - **(2)** *Exception* In addition to the requirements under paragraph (1), for the award year beginning on July 1, 2024 and each subsequent award year, an institution that is an applicable educational institution that is an organization subject to taxation under section 4968 of the Internal Revenue Code of 1986, may only receive assistance under this subpart if such institution guarantees that, for each such award year—
+    >   - **(A)** the total amount of grants and scholarships, including other financial assistance not received under this title as defined in section 480(i), awarded to a student who receives a Federal Pell Grant under this title shall not be less than the student’s cost of attendance (as defined in section 472); and
+    >   - **(B)** the percentage of students enrolled at such institution who are eligible for a Federal Pell grant will be equal to or greater than the percentage of students who were enrolled at such institution and were eligible for a Federal Pell grant in the award year during which the Bipartisan Workforce Pell Act was enacted.
 
 ## § 8. Authorization of appropriations
 
-There are authorized to be appropriated to implement the amendments made by this Act $40,000,000 for fiscal year 2025 and $30,000,000 for each of the 4 succeeding fiscal years.
+In addition to funds made available for payment of Workforce Pell Grants under section 401(k) of the Higher Education Act of 1965 (as added by section 2 of this Act), there are authorized to be appropriated to the Secretary of Education $40,000,000 for fiscal year 2025 and $30,000,000 for each of the 4 succeeding fiscal years for the costs of implementing such section 401(k) and the other amendments to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) made by this Act.
