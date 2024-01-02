@@ -1,0 +1,27 @@
+---
+measure: H.J.Res. 106
+congress: 118
+version: Introduced in House
+---
+
+# H.J.Res. 106
+
+Providing for congressional disapproval of the proposed foreign military sale to the Kingdom of Saudi Arabia of certain defense articles and services.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2024-01-02 — Introduced in House
+- 2024-01-02 — Introduced in House
+- 2024-01-02 — Referred to the House Committee on Foreign Affairs.
