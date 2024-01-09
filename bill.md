@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 187
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,16 +13,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Default Prevention Act”.
 
-## § 2. Payment of principal and interest on public debt and social security trust funds
+## § 2. Payment of obligations
 
-- **(a)** *In general* In the event that the debt of the United States Government, as defined in section 3101 of title 31, United States Code, reaches the statutory limit, the Secretary of the Treasury shall, in addition to any other authority provided by law, issue obligations under chapter 31 of title 31, United States Code, to pay with legal tender, and solely for the purpose of paying, the principal and interest on obligations of the United States described in subsection (b) after the date of the enactment of this Act.
-- **(b)** *Obligations described* For purposes of this subsection, obligations described in this subsection are obligations which are—
-  - **(1)** held by the public, or
-  - **(2)** held by the Old-Age and Survivors Insurance Trust Fund and Disability Insurance Trust Fund.
-- **(c)** *Prohibition on compensation for Members of Congress* None of the obligations issued under subsection (a) may be used to pay compensation for Members of Congress.
-- **(d)** *Obligations exempt from public debt limit* Obligations issued under subsection (a) shall not be taken into account in applying the limitation in section 3101(b) of title 31, United States Code, to the extent that such obligation would otherwise cause the limitation in section 3101(b) of title 31, United States Code, to be exceeded.
-- **(e)** *Report on certain actions*
-  - **(1)** *In general* If, after the date of the enactment of this Act, the Secretary of the Treasury exercises his authority under subsection (a), the Secretary shall thereafter submit a report each week the authority is in use providing an accounting relating to—
-    - **(A)** the principal on mature obligations and interest that is due or accrued of the United States, and
-    - **(B)** any obligations issued pursuant to subsection (a).
-  - **(2)** *Submission* The report required by paragraph (1) shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+- **(a)** *In general* At any time that the debt of the United States Government subject to limitation under section 3101 of title 31, United States Code, has reached the limitation imposed under such section, the Secretary of the Treasury (hereafter in this section referred to as “the Secretary”) shall—
+  - **(1)** pay Tier I obligations as such obligations become due,
+  - **(2)** issue such obligations under chapter 31 of title 31, United States Code, as—
+    - **(A)** are necessary to make the payments described in paragraph (1), or
+    - **(B)** are to be held exclusively by a trust fund referred to in subsection (b)(1)(A),
+  - **(3)** pay Tier III obligations only to the extent that the Secretary can still pay all Tier II obligations as such obligations become due,
+  - **(4)** pay Tier IV obligations only to the extent that the Secretary can still pay all Tier II and Tier III obligations as such obligations become due,
+  - **(5)** pay Tier V obligations only to the extent that the Secretary can still pay all Tier II, Tier III, and Tier IV obligations as such obligations become due, and
+  - **(6)** submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a weekly written report containing the information described in subsection (d).
+- **(b)** *Definitions* For purposes of this section—
+  - **(1)** *Tier I obligations* The term “Tier I obligations” means payments necessary to provide any of the following:
+    - **(A)** Payment with legal tender pursuant to the authority provided under section 3123 of title 31, United States Code, of principal and interest on debt held by—
+      - **(i)** the public,
+      - **(ii)** the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, or
+      - **(iii)** the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund.
+    - **(B)** Payments under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+  - **(2)** *Tier II obligations* The term “Tier II obligations” means payments necessary to provide any of the following:
+    - **(A)** Any obligation of the Department of Defense.
+    - **(B)** Benefits under laws administered by the Secretary of Veterans Affairs.
+  - **(3)** *Tier III obligations* The term “Tier III obligations” means any obligation of the United States which is not a Tier I, Tier II, Tier IV, or Tier V obligation.
+  - **(4)** *Tier IV obligations* The term “Tier IV obligations” means any payment which constitutes any of the following:
+    - **(A)** Compensation for any Federal employee for official time under section 7131 of such title 5, United States Code.
+    - **(B)** Any payment for travel expenses for any officer or employee of the Executive branch of Government, including the President and Vice President, unless such payment is a Tier I or Tier II obligation.
+    - **(C)** Compensation of any officer or employee of the Executive branch of Government (other than an individual in the competitive service, as defined in section 2102 of title 5, United States Code), including the President and Vice President, unless such compensation is a Tier I or Tier II obligation.
+  - **(5)** *Tier V obligations* The term “Tier V obligations” means compensation of any Member of Congress (as that term is defined in section 2106 of title 5, United States Code).
+- **(c)** *Coordination with public debt limit* Obligations issued under subsection (a)(2) shall not be taken into account as subject to the limitation imposed under section 3101(b) of title 31, United States Code. The preceding sentence shall not apply with respect to any obligation after the first date (after the issuance of such obligation) on which any modification or suspension of such limitation takes effect.
+- **(d)** *Weekly reports* The written report referred to in subsection (a)(6) shall include, with respect to the period covered by such report—
+  - **(1)** the amount of Tier I obligations paid under subsection (a)(1) during such period,
+  - **(2)** the amount of obligations issued under subsection (a)(2) during such period, and
+  - **(3)** the amount of Tier II obligations, Tier III obligations, Tier IV obligations, and Tier V obligations which were paid during such period (stated separately for each tier) and the aggregate amount of such obligations which were due and unpaid as of the close of such period (stated separately for each tier).
+- **(e)** *No inference with respect to existing authority to prioritize payments* During any period with respect to which this section does not apply, nothing in this section shall be interpreted to restrict the authority of the Secretary to prioritize the payment of certain obligations over other obligations.
