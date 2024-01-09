@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 788
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Stop Settlement Slush Funds Act of 2023”.
 ## § 2. Limitation on donations made pursuant to settlement agreements to which the united states is a party
 
 - **(a)** *Limitation on required donations* An official or agent of the Government may not enter into or enforce any settlement agreement on behalf of the United States directing or providing for a payment to any person or entity other than the United States, other than a payment that provides restitution for or otherwise directly remedies actual harm (including to the environment) directly and proximately caused by the party making the payment, or constitutes payment for services rendered in connection with the case.
-- **(b)** *Penalty* Any official or agent of the Government who violates subsection (a), shall be subject to the same penalties that would apply in the case of a violation of section 3302 of title 31, United States Code.
+- **(b)** *Penalty* Any official or agent of the Government who violates subsection (a) shall be subject to the same penalties that would apply in the case of a violation of section 3302 of title 31, United States Code.
 - **(c)** *Effective date* Subsections (a) and (b) apply only in the case of a settlement agreement entered on or after the date of enactment of this Act.
 - **(d)** *Definition* The term “settlement agreement” means a settlement agreement resolving a civil action or potential civil action.
 - **(e)** *Reports on settlement agreements*

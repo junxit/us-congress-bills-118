@@ -1,7 +1,7 @@
 ---
 measure: H.R. 788
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 788
@@ -16,7 +16,7 @@ Stop Settlement Slush Funds Act of 2023
 
 - Rep. Gooden, Lance [R-TX-5] (G000589)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
@@ -31,6 +31,9 @@ Stop Settlement Slush Funds Act of 2023
 - Rep. Ellzey, Jake [R-TX-6] (E000071)
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 - Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Bishop, Dan [R-NC-8] (B001311)
 
 ## Committees (1)
 
@@ -41,3 +44,9 @@ Stop Settlement Slush Funds Act of 2023
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Introduced in House
 - 2023-02-02 — Referred to the House Committee on the Judiciary.
+- 2023-06-14 — Committee Consideration and Mark-up Session Held
+- 2023-06-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 15 - 10.
+- 2024-01-09 — Placed on the Union Calendar, Calendar No. 278.
+- 2024-01-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-339.
+- 2024-01-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-339.
+- 2024-01-09 — Rules Committee Resolution H. Res. 947 Reported to House. Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
