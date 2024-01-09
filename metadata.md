@@ -1,7 +1,7 @@
 ---
 measure: S. 432
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 432
@@ -28,3 +28,8 @@ Nulhegan River and Paul Stream Wild and Scenic River Study Act of 2023
 
 - 2023-02-15 — Introduced in Senate
 - 2023-02-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-06-21 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 118-284.
+- 2023-09-21 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-149.
+- 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-149.
+- 2024-01-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.
