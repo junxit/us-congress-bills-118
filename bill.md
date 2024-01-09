@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2216
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -44,6 +44,8 @@ Congress finds that—
   - **(B)** based on local input, multiple-use and sustained yield principles, and land management objectives.
 
 ## § 3. Release and improved management of land comprising certain wilderness study areas
+
+## § 2. Release and improved management of land comprising certain wilderness study areas
 
 - **(a)** *Middle Fork Judith Wilderness Study Area* The approximately 81,000 acres of land comprising the Middle Fork Judith Wilderness Study Area—
   - **(1)** shall no longer be subject to section 3(a) of the Montana Wilderness Study Act of 1977 (Public Law 95–150; 91 Stat. 1244); and
