@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6370
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6370
@@ -31,3 +31,10 @@ OFAC Licensure for Investigators Act
 - 2023-11-13 — Introduced in House
 - 2023-11-13 — Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-11-13 — Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-11-14 — Committee Consideration and Mark-up Session Held
+- 2023-11-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 50 - 0.
+- 2024-01-09 — Committee on Foreign Affairs discharged.
+- 2024-01-09 — Committee on Foreign Affairs discharged.
+- 2024-01-09 — Placed on the Union Calendar, Calendar No. 280.
+- 2024-01-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-341, Part I.
+- 2024-01-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-341, Part I.
