@@ -1,0 +1,21 @@
+---
+legis-num: H. RES. 958
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 958
+
+> Recognizing the 202d anniversary of the adoption of the Great Seal of the State of Missouri.
+
+## Preamble
+
+- Whereas, on January 11, 1822, the General Assembly of the State of Missouri adopted an Act providing for the Great Seal of the State of Missouri;
+- Whereas this Act established a symbol of the State of Missouri for the people of Missouri;
+- Whereas the two bears symbolize the strength of the State and the bravery of its people;
+- Whereas the Seal declares “United We Stand, Divided We Fall”;
+- Whereas the scroll on the Seal contains the State’s motto, “Salus Populi Suprema Lex Esto”, which means “Let the welfare of the people be the supreme law”; and
+- Whereas this symbol encompasses those characteristics which make the State of Missouri and its people unique: Now, therefore, be it
+
+That the House of Representatives recognizes the 202d anniversary of the adoption of the Great Seal of the State of Missouri.
