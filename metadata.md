@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3400
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3400
@@ -16,7 +16,7 @@ Small Businesses before Bureaucrats Act
 
 - Rep. Good, Bob [R-VA-5] (G000595)
 
-## Cosponsors (16)
+## Cosponsors (17)
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
@@ -34,6 +34,7 @@ Small Businesses before Bureaucrats Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Estes, Ron [R-KS-4] (E000298)
 - Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (1)
 
@@ -44,3 +45,8 @@ Small Businesses before Bureaucrats Act
 - 2023-05-17 — Introduced in House
 - 2023-05-17 — Introduced in House
 - 2023-05-17 — Referred to the House Committee on Education and the Workforce.
+- 2023-12-12 — Committee Consideration and Mark-up Session Held
+- 2023-12-12 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 20.
+- 2024-01-11 — Placed on the Union Calendar, Calendar No. 281.
+- 2024-01-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-343.
+- 2024-01-11 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-343.

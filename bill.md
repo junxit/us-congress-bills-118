@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3400
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,14 +19,14 @@ This Act may be cited as the “Small Businesses before Bureaucrats Act”.
   - **(1)** by redesignating paragraph (2) as paragraph (3); and
   - **(2)** by inserting after paragraph (1) the following:
     > - **(2)** In establishing by rule any dollar threshold with respect to a class or category of employers for the purposes of declining to assert jurisdiction over certain labor disputes involving such class or category of employers, the Board shall establish such dollar threshold at an amount—
-    >   - **(A)** for calendar year 2023, equal to the product of—
+    >   - **(A)** for calendar year 2024, equal to the product of—
     >     - **(i)** the dollar threshold applicable to such class or category as of the day prior to the date of enactment of this paragraph, multiplied by
     >     - **(ii)** ten; and
-    >   - **(B)** for any calendar year after 2023, equal to the product of—
-    >     - **(i)** the dollar threshold applicable to such class or category for calendar year 2023 (after the date of enactment of this paragraph), multiplied by
+    >   - **(B)** for any calendar year after 2024, equal to the product of—
+    >     - **(i)** the dollar threshold applicable to such class or category for calendar year 2024 (after the date of enactment of this paragraph), multiplied by
     >     - **(ii)** the quotient obtained by dividing—
-    >       - **(I)** the Personal Consumption Expenditure Per Capita Index (as published by the Bureau of Economic Analysis) for such calendar year after 2023; by
-    >       - **(II)** the Personal Consumption Expenditure Per Capita Index for calendar year 2023.
+    >       - **(I)** the Personal Consumption Expenditure Per Capita Index (as published by the Bureau of Economic Analysis) for such calendar year after 2024; by
+    >       - **(II)** the Personal Consumption Expenditure Per Capita Index for calendar year 2024.
 
-- **(b)** *Personal consumption expenditure per capita index* The Bureau of Economic Analysis of the Department of Commerce shall prepare and publish an index reflecting expenditures for personal consumption by Americans on a per capita basis for each year, beginning calendar year 2024, and such index shall be known as the “Personal Consumption Expenditure Per Capita Index”.
+- **(b)** *Personal consumption expenditure per capita index* The Bureau of Economic Analysis of the Department of Commerce shall prepare and publish an index reflecting expenditures for personal consumption by Americans on a per capita basis for each year, beginning calendar year 2025, and such index shall be known as the “Personal Consumption Expenditure Per Capita Index”.
 - **(c)** *Effective date* The amendments made by this section shall apply to any decision of the National Labor Relations Board relating to the assertion of its jurisdiction over a labor dispute made after the date of enactment of this section.
