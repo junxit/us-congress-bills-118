@@ -24,7 +24,7 @@ This Act may be cited as the “Stop Settlement Slush Funds Act of 2023”.
   - **(2)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this subsection.
   - **(3)** *Sunset* This subsection shall cease to be effective on the date that is 7 years after the date of enactment of this Act.
 - **(f)** *Annual audit requirement*
-  - **(1)** *In general* Not later than at the end of the first fiscal year that begins after the date of enactment of this Act, and annually thereafter, the Inspector General of each Federal agency shall submit a report on any settlement agreement entered into in violation of this section by that agency to—
+  - **(1)** *In general* Not later than at the end of the first fiscal year that begins after the date of enactment of this Act, and annually thereafter, the Inspector General of each Federal agency shall submit, and make available on a publicly accessible website, a report on any settlement agreement entered into in violation of this section by that agency to—
     - **(A)** the Committee on the Judiciary, the Committee on the Budget, and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on the Judiciary, the Committee on the Budget, and the Committee on Appropriations of the House of Representatives.
   - **(2)** *Prohibition on additional funding* No additional funds are authorized to be appropriated to carry out this subsection.
