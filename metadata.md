@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 98
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 98
@@ -91,6 +91,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2024-01-12 — [House 118-2-10](votes/house-118-2-0010.md) — On Passage — **Passed** (206–177)
+
 ## Actions
 
 - 2023-11-09 — Introduced in House
@@ -101,3 +105,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-01-03 — Placed on the Union Calendar, Calendar No. 277.
 - 2024-01-03 — Reported by the Committee on Education and the Workforce. H. Rept. 118-338.
 - 2024-01-03 — Reported by the Committee on Education and the Workforce. H. Rept. 118-338.
+- 2024-01-09 — Rules Committee Resolution H. Res. 947 Reported to House. Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
+- 2024-01-12 — Considered as unfinished business. (consideration: CR H124-125)
+- 2024-01-12 — Considered under the provisions of rule H. Res. 947. (consideration: CR H112-124)
+- 2024-01-12 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 98.
+- 2024-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-12 — On passage Passed by the Yeas and Nays: 206 - 177 (Roll no. 10). (text: CR H113)
+- 2024-01-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 98, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-01-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 206 - 177 (Roll no. 10). (text: CR H113)
+- 2024-01-12 — Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
+- 2024-01-12 — The previous question was ordered pursuant to the rule.
