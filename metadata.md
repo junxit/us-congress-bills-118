@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4768
@@ -34,3 +34,11 @@ No Russian Agriculture Act
 - 2023-12-19 — Placed on the Union Calendar, Calendar No. 266.
 - 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-327.
 - 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-327.
+- 2024-01-11 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McHenry objected to the Yea - Nay vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-11 — Considered under suspension of the rules. (consideration: CR H68-69)
+- 2024-01-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4768.
+- 2024-01-11 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
+- 2024-01-12 — Considered as unfinished business. (consideration: CR H125)
+- 2024-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/11/2024 CR H68-69)
+- 2024-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/11/2024 CR H68-69)
