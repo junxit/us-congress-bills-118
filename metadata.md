@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6370
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6370
@@ -38,3 +38,11 @@ OFAC Licensure for Investigators Act
 - 2024-01-09 — Placed on the Union Calendar, Calendar No. 280.
 - 2024-01-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-341, Part I.
 - 2024-01-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-341, Part I.
+- 2024-01-10 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. McHenry objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-10 — Considered under suspension of the rules. (consideration: CR H37-39)
+- 2024-01-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6370.
+- 2024-01-10 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
+- 2024-01-12 — Considered as unfinished business. (consideration: CR H126)
+- 2024-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/10/2024 CR H37)
+- 2024-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/10/2024 CR H37)
