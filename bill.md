@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5863
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,8 +21,8 @@ For purposes of applying section 304(b) of the Taxpayer Certainty and Disaster T
 
 - **(a)** *In general* For purposes of the Internal Revenue Code of 1986, gross income shall not include any amount received by an individual as a qualified wildfire relief payment.
 - **(b)** *Qualified wildfire relief payment* For purposes of this section—
-  - **(1)** *In general* The term “qualified wildfire relief payment” means any amount received by or on behalf of an individual as compensation for expenses or losses incurred as a result of a qualified wildfire disaster, but only to the extent any expense or loss compensated by such payment is not compensated for by insurance or otherwise.
-  - **(2)** *Qualified wildfire disaster* The term “qualified wildfire disaster” means any federally declared disaster (as defined in section 165(i)(5)(A) of the Internal Revenue Code of 1986) declared, after December 31, 2014, as a result any forest or range fire.
+  - **(1)** *In general* The term “qualified wildfire relief payment” means any amount received by or on behalf of an individual as compensation for losses, expenses, or damages (including compensation for additional living expenses, lost wages (other than compensation for lost wages paid by the employer which would have otherwise paid such wages), personal injury, death, or emotional distress) incurred as a result of a qualified wildfire disaster, but only to the extent the losses, expenses, or damages compensated by such payment are not compensated for by insurance or otherwise.
+  - **(2)** *Qualified wildfire disaster* The term “qualified wildfire disaster” means any federally declared disaster (as defined in section 165(i)(5)(A) of the Internal Revenue Code of 1986) declared, after December 31, 2014, as a result of any forest or range fire.
 - **(c)** *Denial of double benefit* Notwithstanding any other provision of the Internal Revenue Code of 1986—
   - **(1)** no deduction or credit shall be allowed (to the person for whose benefit a qualified wildfire relief payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure, and
   - **(2)** no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
@@ -31,9 +31,9 @@ For purposes of applying section 304(b) of the Taxpayer Certainty and Disaster T
 ## § 4. East Palestine disaster relief payments
 
 - **(a)** *Disaster relief payments to victims of East Palestine train derailment* East Palestine train derailment payments shall be treated as qualified disaster relief payments for purposes of section 139(b) of the Internal Revenue Code of 1986.
-- **(b)** *East Palestine trail derailment payments* For purposes of this section, the term “East Palestine train derailment payment” means any amount received by or on behalf of an individual as compensation for loss, damages, expenses, loss in real property value, closing costs with respect to real property (including realtor commissions), or inconvenience (including access to real property) resulting from the East Palestine train derailment if such amount was provided by—
+- **(b)** *East Palestine train derailment payments* For purposes of this section, the term “East Palestine train derailment payment” means any amount received by or on behalf of an individual as compensation for loss, damages, expenses, loss in real property value, closing costs with respect to real property (including realtor commissions), or inconvenience (including access to real property) resulting from the East Palestine train derailment if such amount was provided by—
   - **(1)** a Federal, State, or local government agency,
   - **(2)** Norfolk Southern Railway, or
   - **(3)** any subsidiary, insurer, or agent of Norfolk Southern Railway or any related person.
 - **(c)** *Train derailment* For purposes of this section, the term “East Palestine train derailment” means the derailment of a train in East Palestine, Ohio, on February 3, 2023.
-- **(d)** *Effective date* This subsection shall apply to amounts received on or after February 3, 2023.
+- **(d)** *Effective date* This section shall apply to amounts received on or after February 3, 2023.
