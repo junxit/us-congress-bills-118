@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4768
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4768
@@ -20,9 +20,10 @@ No Russian Agriculture Act
 
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ No Russian Agriculture Act
 - 2024-01-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/11/2024 CR H68-69)
 - 2024-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/11/2024 CR H68-69)
+- 2024-01-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
