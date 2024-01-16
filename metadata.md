@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 98
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 98
@@ -91,9 +91,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2024-01-12 — [House 118-2-10](votes/house-118-2-0010.md) — On Passage — **Passed** (206–177)
+- 2024-04-10 — [Senate 118-2-122](votes/senate-118-2-0122.md) — On the Joint Resolution — **Joint Resolution Passed** (50–48)
+- 2024-05-07 — [House 118-2-185](votes/house-118-2-0185.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (214–191)
 
 ## Actions
 
@@ -116,3 +118,23 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-01-12 — Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
 - 2024-01-12 — The previous question was ordered pursuant to the rule.
 - 2024-01-16 — Received in the Senate.
+- 2024-04-10 — Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 122. (text: CR S2695)
+- 2024-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 122. (text: CR S2695)
+- 2024-04-15 — Message on Senate action sent to the House.
+- 2024-05-01 — Presented to President.
+- 2024-05-01 — Presented to President.
+- 2024-05-03 — Vetoed by President.
+- 2024-05-03 — Vetoed by President.
+- 2024-05-06 — POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the joint resolution, H.J. Res. 98, is postponed until the legislative day of Tuesday, May 7, 2024. Agreed to without objection.
+- 2024-05-06 — The Chair announced that the objections of the President to H.J. Res. 98 would be spread at large upon the Journal, and the veto message would be printed as a House Document (118-135).
+- 2024-05-06 — The Chair laid before the House the veto message from the President.
+- 2024-05-07 — DEBATE - Pursuant to a previous order of the House of May 6, 2024 the unfinished business is the further consideration of the veto message of the President on H.J. Res. 98. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding. (consideration: CR H2891-2896)
+- 2024-05-07 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 214 - 191 (Roll no. 185).
+- 2024-05-07 — Motion to refer the bill and accompanying veto message to the Committee on Education and the Workforce.
+- 2024-05-07 — On motion to refer the bill and the accompanying veto message to the Committee on Education and the Workforce. Agreed to without objection.
+- 2024-05-07 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 214 - 191 (Roll no. 185).
+- 2024-05-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.J. Res. 98, the Chair put the question on will the House, on reconsideration, pass H.J. Res. 98, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.
+- 2024-05-07 — The Chair announced the unfinished business to be the consideration of the veto. (consideration: CR H2908-2909)
+- 2024-05-07 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2024-05-07 — The Chair laid before the House the veto message from the President. (text: 5/6/2024 CR H2840)
+- 2024-05-07 — The previous question was ordered without objection.
