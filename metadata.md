@@ -1,7 +1,7 @@
 ---
 measure: H.R. 803
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 803
@@ -22,10 +22,11 @@ PROTECT Taiwan Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ PROTECT Taiwan Act
 - 2024-01-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/10/2024 CR H33-34)
 - 2024-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/10/2024 CR H33-34)
+- 2024-01-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
