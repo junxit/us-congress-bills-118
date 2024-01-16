@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3058
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,9 +25,9 @@ This Act may be cited as the “Recruiting Families Using Data Act of 2023”.
     >     - **(B)** how the State plans to develop and implement child-specific recruitment plans for every child in or entering foster care who needs a foster or adoptive family;
     >     - **(C)** how the State plans to authentically engage children and youth in recruitment efforts on their behalf;
     >     - **(D)** how the State plans to use data to establish goals, assess needs, measure progress, reduce unnecessary placements in congregate care, increase permanency, improve placement stability, increase the rate of kinship placements, improve recruitment and retention of families for teens, sibling groups, and other special populations, and align the composition of foster and adoptive families with the needs of children in or entering foster care; and
-    >     - **(E)** how that State will stand up or support foster family advisory boards for the purpose of improving recruitment and retention of foster and adoptive families.
+    >     - **(E)** how the State will stand up or support foster family advisory boards for the purpose of improving recruitment and retention of foster and adoptive families.
     >   - **(3)** The plan provides that, not less than annually, the State shall collect and report on the State’s actual foster family capacity and congregate care utilization, including the number, demographics, and characteristics of licensed foster families, including prospective adoptive families, the number of such families that haven’t received a placement or are not being fully utilized and the reasons therefor, and the number, demographics, and characteristics of children placed in congregate care in-State and out-of-State.
-    >   - **(4)** The plan includes, and shall update not less than annually, a summary of the most recent feedback from foster and adoptive parents and youth regarding licensure, training, support, and reasons why parents stop fostering or why adoptive or legal guardianship placements out of foster care fail or foster and such adoptive of legal guardianship families struggle to meet children’s needs.
+    >   - **(4)** The plan includes, and shall update not less than annually, a summary of the most recent feedback from foster and adoptive parents and youth regarding licensure, training, support, and reasons why parents stop fostering or why adoptive or legal guardianship placements out of foster care fail or foster and such adoptive or legal guardianship families struggle to meet children’s needs.
     >   - **(5)** The plan includes, and shall update annually, a report on the State’s analysis of specific challenges or barriers to recruiting, licensing, and utilizing families who reflect the racial and ethnic background of children in foster care in the State, and the State’s efforts to overcome those challenges and barriers.
     >   - **(6)** The plan includes such other information relating to foster and adoptive parent recruitment and retention as the Secretary may require.
 
