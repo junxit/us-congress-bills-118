@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 98
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 98
@@ -115,3 +115,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-01-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 206 - 177 (Roll no. 10). (text: CR H113)
 - 2024-01-12 — Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
 - 2024-01-12 — The previous question was ordered pursuant to the rule.
+- 2024-01-16 — Received in the Senate.
