@@ -1,7 +1,7 @@
 ---
 measure: H.R. 788
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 788
@@ -35,9 +35,10 @@ Stop Settlement Slush Funds Act of 2023
 - Rep. Fry, Russell [R-SC-7] (F000478)
 - Rep. Bishop, Dan [R-NC-8] (B001311)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -80,3 +81,4 @@ Stop Settlement Slush Funds Act of 2023
 - 2024-01-11 — Rule provides for consideration of H.R. 788, H.J. Res. 98 and S.J. Res. 38. The resolution provides for consideration of H.R. 788 under a structured rule, with one hour of general debate. The resolution provides for consideration of H.J. Res. 98 and S.J. Res. 38 under a closed rule, with one hour of general debate on each joint resolution. Also, the resolution provides for a motion to recommit on H.R. 788 and H.J. Res. 98. A motion to commit on S.J. Res. 38.
 - 2024-01-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-01-11 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2024-01-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
