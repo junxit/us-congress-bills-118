@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 526
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 526
+
+> Repealing standing orders relating to flowers in the Senate Chamber.
+
+## § 1. Repeal of restriction on flowers
+
+- **(a)** *In general* Senate Resolution 284 (58th Congress), agreed to February 24, 1905, is repealed.
+- **(b)** *Conforming repeal* Senate Resolution 221 (98th Congress), agreed to September 15, 1983, is repealed.
