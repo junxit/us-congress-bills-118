@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 520
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 520
@@ -28,3 +28,7 @@ A resolution congratulating the University of Michigan Wolverines football team 
 
 - 2024-01-11 — Introduced in Senate
 - 2024-01-11 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2024-01-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S141; text: 1/11/2024 CR S95)
+- 2024-01-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S141; text: 1/11/2024 CR S95)
+- 2024-01-17 — Senate Committee on Commerce, Science, and Transportation discharged Unanimous Consent.
+- 2024-01-17 — Senate Committee on Commerce, Science, and Transportation discharged Unanimous Consent.
