@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5862
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -52,6 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `19 U.S.C. § 2075` | insert | by inserting after “reduce the staffing level” the following: “below the optimal staffing level determined in the most recent Resource Allocation Model required by section 301(h) of the Customs Procedural Reform and Simplification Act of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2075` | insert | in paragraph (2), by inserting “, National Account Managers, and International Trade Analysts” after “Financial Systems Specialists”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2075` | insert | in paragraph (2), by inserting “, National Account Managers, International Trade Analysts” after “Financial Systems Specialists”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 212` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 212` | amend | The Commissioner of U.S. Customs and Border Protection may, subject to subsection (b), consolidate, modify, or reorganize customs revenue functions delegated to the Commissioner under subsection (a), including by adding such functions to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
