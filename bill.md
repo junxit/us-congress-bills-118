@@ -1,0 +1,20 @@
+---
+legis-num: H. RES. 976
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 976
+
+> Recognizing the roles and the contributions of Americas Certified Registered Nurse Anesthetists (CRNAs) and their critical role in providing quality health care for the public and the Nations Armed Forces for more than 150 years, through multiple public health emergencies, and beyond.
+
+## Preamble
+
+- Whereas Certified Registered Nurse Anesthetists (CRNAs) are essential to America’s health care system, providing high-quality, cost-effective anesthesia and pain management care;
+- Whereas CRNAs safely administer more than 50,000,000 anesthetics to patients each year;
+- Whereas CRNAs are the primary providers of anesthesia care in rural America, enabling health care facilities in these medically underserved areas to offer obstetrical, surgical, trauma stabilization, and pain management services for millions of underserved and at-risk people;
+- Whereas CRNAs practice in every setting in which anesthesia is delivered, including traditional hospital surgical suites and obstetrical delivery rooms, the offices of dentists, podiatrists, ophthalmologists, and plastic surgeons, ambulatory surgical centers, and United States Military and Public Health Services and Department of Veterans Affairs medical facilities; and
+- Whereas the purpose of National CRNA Week, held January 21, 2024, through January 27, 2024, is to raise public awareness of and celebrate the Nation’s 61,000 Certified Registered Nurse Anesthetists and student registered nurse anesthetists: Now, therefore, be it
+
+That the House of Representatives thanks and promotes the profession of Certified Registered Nurse Anesthetists (CRNAs) and their incredible, selfless, and dedicated service for over 150 years, by encouraging patients, hospital administrators, health care professionals, policymakers, and others to utilize CRNAs to their full potential and to recognize the work of CRNAs by participating in National CRNA Week.
