@@ -1,35 +1,24 @@
 ---
 legis-num: H.R. 2872
 congress: 118th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2872
 
-> To amend the Permanent Electronic Duck Stamp Act of 2013 to allow the Secretary of the Interior to issue electronic stamps under such Act, and for other purposes.
+That the bill from the House of Representatives (H.R. 2872) entitled “An Act to amend the Permanent Electronic Duck Stamp Act of 2013 to allow the Secretary of the Interior to issue electronic stamps under such Act, and for other purposes.”, do pass with the following
 
-## § 1. Authorizing fully electronic stamps
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *In general* Section 5 of the Permanent Electronic Duck Stamp Act of 2013 (16 U.S.C. 718r) is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in the heading, by striking “actual stamp” and inserting “electronic stamp”;
-    - **(B)** by striking “actual stamp” and inserting “electronic stamp”; and
-    - **(C)** by amending paragraph (1) to read as follows:
-      > - **(1)** upon the date of purchase; and
+## § 1. Short Title
 
-  - **(2)** in subsection (c), by inserting “under subsection (e)” before the period at the end; and
-  - **(3)** by redesignating subsection (e) as subsection (f) and inserting after subsection (d) the following new subsection:
-    > - **(e)** *Delivery of actual stamps* The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl seasons.
+This Act may be cited as the “Further Additional Continuing Appropriations and Other Extensions Act, 2024”.
 
-- **(b)** *Stamp valid through close of hunting season* Section 6 of the Permanent Electronic Duck Stamp Act of 2013 (16 U.S.C. 718s(c)) is amended—
-  - **(1)** in subsection (b), by striking “shall, during the effective period of the electronic stamp—” and inserting “shall—”; and
-  - **(2)** in subsection (c), by striking “for a period agreed to by the State and the Secretary, which shall not exceed 45 days” and inserting “until the first June 30 that occurs after the date of issuance of such stamp”.
-- **(c)** *Electronic stamps as permit* Section 1(a)(1) of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a(a)(1)) is amended—
-  - **(1)** by inserting “as an electronic stamp or” after “Conservation Stamp,”; and
-  - **(2)** by inserting “actual” after “face of the”.
-- **(d)** *Contents of electronic stamp* Section 2(3) of the Permanent Electronic Duck Stamp Act of 2013 (16 U.S.C. 718o(3)) is amended—
-  - **(1)** in subparagraph (D), by striking “and”;
-  - **(2)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(F)** may contain an image of the actual stamp.
+## § 2. Table of contents
+
+The table of contents of this Act is as follows:
+
+## § 3. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
