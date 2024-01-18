@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3372
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -39,8 +39,8 @@ Section 127 of title 23, United States Code, is amended by adding at the end the
 >     - **(B)** the estimated gross vehicle weight of each such vehicle at the time of the accident in the State described in subparagraph (A); and
 >     - **(C)** the estimated miles traveled by such vehicle on the Interstate System in the State.
 >   - **(7)** *Termination of pilot program*
->     - **(A)** *In general* Except as provided in subparagraph (B), the pilot program shall terminate on the date that is 10 years after the date of enactment of this subsection.
->     - **(B)** *Additional application; continuation of authority* For a period of 10 years beginning on the date described in subparagraph (A), the Secretary may continue the pilot program with respect to each State in the program, upon the application of a State and after consideration of—
+>     - **(A)** *In general* Except as provided in subparagraph (B), the pilot program shall terminate on the date that is 5 years after the date of enactment of this subsection.
+>     - **(B)** *Additional application; continuation of authority* For a period of 5 years beginning on the date described in subparagraph (A), the Secretary may continue the pilot program with respect to each State in the program, upon the application of a State and after consideration of—
 >       - **(i)** the actual experience of the State under the pilot program; and
 >       - **(ii)** any documents or other material submitted by the State in support of such an application.
 >   - **(8)** *Covered 6-axle vehicle defined* In this subsection, the term “covered 6-axle vehicle” means a vehicle—
