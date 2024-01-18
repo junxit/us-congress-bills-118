@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2872
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2872
 
-That the bill from the House of Representatives (H.R. 2872) entitled “An Act to amend the Permanent Electronic Duck Stamp Act of 2013 to allow the Secretary of the Interior to issue electronic stamps under such Act, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
 
 ## § 1. Short Title
 

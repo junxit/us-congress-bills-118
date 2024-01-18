@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2872
@@ -102,3 +102,9 @@ Making further continuing appropriations for the fiscal year ending September 30
 - 2024-01-18 — Senate amendment agreed to: Amendment SA 1381 agreed to in Senate by Unanimous Consent.
 - 2024-01-18 — Senate amendment not agreed to: Amendment SA 1384, under the order of 1/17/2024, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 50. Record Vote Number: 10.
 - 2024-01-18 — Senate amendment proposed (on the floor): Amendment SA 1384 proposed by Senator Paul to Amendment SA 1381.
+- 2024-01-19 — Became Public Law No: 118-35.
+- 2024-01-19 — Became Public Law No: 118-35.
+- 2024-01-19 — Presented to President.
+- 2024-01-19 — Presented to President.
+- 2024-01-19 — Signed by President.
+- 2024-01-19 — Signed by President.

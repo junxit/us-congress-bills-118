@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2872
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
