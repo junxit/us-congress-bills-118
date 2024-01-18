@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6918
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6918
@@ -46,6 +46,11 @@ Supporting Pregnant and Parenting Women and Families Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2024-01-18 — [House 118-2-16](votes/house-118-2-0016.md) — On Motion to Recommit — **Failed** (208–214)
+- 2024-01-18 — [House 118-2-17](votes/house-118-2-0017.md) — On Passage — **Passed** (214–208)
+
 ## Actions
 
 - 2024-01-09 — Introduced in House
@@ -56,3 +61,23 @@ Supporting Pregnant and Parenting Women and Families Act
 - 2024-01-16 — Placed on the Union Calendar, Calendar No. 285.
 - 2024-01-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-349.
 - 2024-01-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-349.
+- 2024-01-17 — Rules Committee Resolution H. Res. 969 Reported to House. Rule provides for consideration of H.R. 6914, H.R. 6918 and H. Res. 957. The resolution provides for consideration of H.R. 6914, H.R. 6918, and H. Res. 957 under a closed rule, with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 6914 and H.R. 6918.
+- 2024-01-17 — Sponsor introductory remarks on measure. (CR H155)
+- 2024-01-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-01-18 — Considered as unfinished business. (consideration: CR H226-227)
+- 2024-01-18 — Considered under the provisions of rule H. Res. 969. (consideration: CR H201-210)
+- 2024-01-18 — DEBATE - The House proceeded with one hour of debate on H.R. 6918.
+- 2024-01-18 — House amendment agreed to: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-01-18 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-01-18 — House amendment offered
+- 2024-01-18 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-18 — Ms. Davids (KS) moved to recommit to the Committee on Ways and Means. (text: CR H210)
+- 2024-01-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-01-18 — On motion to recommit Failed by the Yeas and Nays: 208 - 214 (Roll no. 16).
+- 2024-01-18 — On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 17). (text: CR H201-202)
+- 2024-01-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6918, the chair put the question on the motion to recommit and by voice vote, announced that the ayes had prevailed. Mr. Smith (MO) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-01-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 17). (text: CR H201-202)
+- 2024-01-18 — Rule provides for consideration of H.R. 6914, H.R. 6918 and H. Res. 957. The resolution provides for consideration of H.R. 6914, H.R. 6918, and H. Res. 957 under a closed rule, with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 6914 and H.R. 6918.
+- 2024-01-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-01-18 — The previous question was ordered pursuant to the rule.
