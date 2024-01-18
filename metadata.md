@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4250
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4250
@@ -52,3 +52,11 @@ PRESS Act
 - 2023-12-05 — Placed on the Union Calendar, Calendar No. 242.
 - 2023-12-05 — Reported by the Committee on Judiciary. H. Rept. 118-299.
 - 2023-12-05 — Reported by the Committee on Judiciary. H. Rept. 118-299.
+- 2024-01-16 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Kiley objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-16 — Considered under suspension of the rules. (consideration: CR H143-145)
+- 2024-01-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4250.
+- 2024-01-16 — Mr. Kiley moved to suspend the rules and pass the bill.
+- 2024-01-18 — Considered as unfinished business. (consideration: CR H229)
+- 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/16/2024 CR H143)
+- 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/16/2024 CR H143)

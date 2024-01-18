@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4250
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -68,6 +68,6 @@ Nothing in this Act shall be construed to—
   - **(A)** suspected of committing a crime;
   - **(B)** a witness to a crime unrelated to engaging in journalism;
   - **(C)** suspected of being an agent of a foreign power, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801);
-  - **(D)** an individual or organization designated under Executive Order 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
+  - **(D)** an individual or organization designated under Executive Order No. 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
   - **(E)** a specially designated terrorist, as that term is defined in section 595.311 of title 31, Code of Federal Regulations (or any successor thereto); or
   - **(F)** a terrorist organization, as that term is defined in section 212(a)(3)(B)(vi)(II) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)(II)).
