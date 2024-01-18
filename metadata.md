@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5862
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5862
@@ -20,10 +20,11 @@ To amend the Homeland Security Act of 2002 relating to authority of U.S. Customs
 
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To amend the Homeland Security Act of 2002 relating to authority of U.S. Customs
 - 2024-01-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 9 (Roll no. 12). (text: 1/16/2024 CR H141)
 - 2024-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 9 (Roll no. 12). (text: 1/16/2024 CR H141)
+- 2024-01-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
