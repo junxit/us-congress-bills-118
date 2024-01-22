@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1568
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1568
@@ -43,3 +43,12 @@ Moving Americans Privacy Protection Act
 - 2024-01-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/16/2024 CR H137-138)
 - 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/16/2024 CR H137-138)
 - 2024-01-22 — Received in the Senate, read twice.
+- 2024-01-31 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S322)
+- 2024-01-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-02-01 — Message on Senate action sent to the House.
+- 2024-02-08 — Presented to President.
+- 2024-02-08 — Presented to President.
+- 2024-02-09 — Became Public Law No: 118-39.
+- 2024-02-09 — Became Public Law No: 118-39.
+- 2024-02-09 — Signed by President.
+- 2024-02-09 — Signed by President.
