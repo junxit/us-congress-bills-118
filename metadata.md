@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3058
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3058
@@ -25,9 +25,10 @@ Recruiting Families Using Data Act of 2023
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Recruiting Families Using Data Act of 2023
 - 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/17/2024 CR H173-174)
 - 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/17/2024 CR H173-174)
+- 2024-01-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
