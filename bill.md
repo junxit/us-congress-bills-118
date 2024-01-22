@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 7069
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7069
+
+> To amend the Federal Fire Prevention and Control Act of 1974 to expand permissible uses of assistance to firefighters grant funds relating to behavioral and mental health, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Peer Support for Firefighters Act”.
+
+## § 2. Expansion of permissible uses of assistance to firefighters grant funds relating to behavioral and mental health
+
+Paragraph (3) of section 33(c) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(c)) is amended—
+
+- **(1)** by redesignating subparagraphs (F) through (N) as subparagraphs (G) through (O), respectively; and
+- **(2)** by inserting after subparagraph (E) the following new subparagraph:
+  > - **(F)** To support behavioral and mental health, including the development of or expansion of evidence-based peer support programs.
