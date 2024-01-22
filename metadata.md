@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4250
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4250
@@ -38,9 +38,10 @@ PRESS Act
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 - Rep. Napolitano, Grace F. [D-CA-31] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ PRESS Act
 - 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/16/2024 CR H143)
 - 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/16/2024 CR H143)
+- 2024-01-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
