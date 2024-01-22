@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3667
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3667
@@ -23,9 +23,10 @@ Social Security Child Protection Act of 2023
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Social Security Child Protection Act of 2023
 - 2024-01-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/16/2024 CR H139)
 - 2024-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/16/2024 CR H139)
+- 2024-01-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
