@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7024
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -282,7 +282,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 24` | replace | by striking “amount.—Subsection” and inserting “amount.— | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 24` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 24` | replace | by striking “credit.—Subsection” and inserting “credit.— | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 24` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 24` | add-at-end | by adding at the end the following new subparagraphs | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 174` | add-at-end | Section 174 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 174` | insert | Part VI of subchapter B of chapter 1 is amended by inserting after section 174 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 41` | insert | Section 41(d)(1)(A) is amended by inserting “or domestic research or experimental expenditures under section 174A” after “section 174”. | the bill quotes the text inserted but describes where it goes |
