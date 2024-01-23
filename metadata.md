@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6914
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6914
@@ -61,3 +61,5 @@ Pregnant Students’ Rights Act
 - 2024-01-18 — Rule provides for consideration of H.R. 6914, H.R. 6918 and H. Res. 957. The resolution provides for consideration of H.R. 6914, H.R. 6918, and H. Res. 957 under a closed rule, with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 6914 and H.R. 6918.
 - 2024-01-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-01-18 — The previous question was ordered pursuant to the rule.
+- 2024-01-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-01-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
