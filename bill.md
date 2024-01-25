@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7097
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7097
+
+> To authorize the Secretary of Defense to conduct outreach and provide assistance to institutions of higher education to support training and internships for members of the Armed Forces and veterans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “College Opportunities for Servicemembers Act”.
+
+## § 2. Training and education for transitioning members through institutions of higher education
+
+- **(a)** *Skillbridge* The Secretary of Defense may conduct outreach to institutions of higher education in order to enter into more agreements with such institutions that may provide training or internships to members of the Armed Forces pursuant to the Skillbridge program established under section 1143(e) of title 10, United States Code.
+- **(b)** *Centers for military and veterans education* The Secretary of Defense may conduct outreach and provide assistance to institutions of higher education to support the creation of centers at such institutions through which members of the Armed Forces eligible for Skillbridge and veterans may receive job training.
+- **(c)** *Institution of higher education defined* In this section, the term institution of higher education means an institution described in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
