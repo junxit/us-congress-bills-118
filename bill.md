@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7089
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7089
+
+> To authorize the Diplomatic Security Services of the Department of State to investigate allegations of violations of conduct constituting offenses under chapter 77 of title 18, United States Code, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Global Anti-Human Trafficking Enhancement Act”.
+
+## § 2. Expanding protection and prosecution efforts at the united states department of state
+
+- **(a)** *Investigation authority* The Secretary of State is authorized to investigate transnational violations of chapter 77 of title 18, United States Code, in which part of the offense conduct occurred outside the United States or involved 1 or more foreign nationals.
+- **(b)** *Authorities* Section 37(a) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2709(a)) is amended—
+  - **(1)** in subparagraph (B), by striking “; or” and inserting a semicolon;
+  - **(2)** by redesignating subparagraph (C) as subparagraph (D); and
+  - **(3)** by inserting after subparagraph (B) the following new subparagraph:
+    > - **(C)** transnational violations of chapter 77 of title 18, United States Code, in which any part of the offense conduct occurred outside the United States or involved one or more foreign nationals; or
