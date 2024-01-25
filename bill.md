@@ -1,0 +1,43 @@
+---
+legis-num: S. RES. 532
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 532
+
+> Recognizing and supporting the goals and ideals of National Medicolegal Death Investigation Professionals Week.
+
+## Preamble
+
+- Whereas the Senate is committed to the use of highly trained medicolegal death investigation professionals to ensure that the suspicious, violent, unattended, unexplained, and unexpected deaths that occur throughout the United States are investigated;
+- Whereas medicolegal death investigation professionals are an indispensable component of the public health and public safety systems in the United States as they speak for those who can no longer speak for themselves;
+- Whereas medicolegal death investigation professionals partner with—(1)local and national agencies to build and maintain public health databases relating to injury, illness, disease; and(2)Federal, State, and local agencies to ensure public safety;
+- Whereas medicolegal death investigation professionals aim to complete the highest quality medicolegal death investigations through national standards; and
+- Whereas the week of January 21, 2024, through January 27, 2024, is recognized as “National Medicolegal Death Investigation Professionals Week”: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** supports the goals and ideals of National Medicolegal Death Investigation Professionals Week; and
+- **(2)** recognizes that National Medicolegal Death Investigation Professionals Week provides a special opportunity for—
+  - **(A)** medicolegal death investigation professionals to—
+    - **(i)** acknowledge the contributions of medicolegal death investigation professionals working throughout the jurisdictions of the United States;
+    - **(ii)** organize community events to encourage a better understanding of medicolegal death investigations;
+    - **(iii)** provide tours to Federal, State, and local policymakers to assist those individuals in gaining better insight into the current capabilities of medicolegal death investigation professionals and the future demands that medicolegal death investigation professionals will face; and
+    - **(iv)** contact and invite local media outlets to cover events hosted during National Medicolegal Death Investigation Professionals Week;
+  - **(B)** local policymakers to—
+    - **(i)** recognize, through formal commendation or resolution, the contributions of local medicolegal death investigation professionals to the communities of those policymakers;
+    - **(ii)** formally declare the week of January 21, 2024, through January 27, 2024, to be “National Medicolegal Death Investigation Professionals Week”;
+    - **(iii)** visit local medicolegal death investigation professionals in their jurisdictions to gain an understanding of the capabilities and needs of those jurisdictions; and
+    - **(iv)** discuss the operational needs of State and local medicolegal death investigation jurisdictions;
+  - **(C)** individuals in the United States, including members of the media, to—
+    - **(i)** attend community events sponsored by local medicolegal death investigation jurisdictions;
+    - **(ii)** take tours of local medical examiner and coroner offices; and
+    - **(iii)** ask local medical examiner and coroner offices about the operational and legislative needs of those jurisdictions;
+  - **(D)** members of the media to highlight local news stories that focus on the work of local medicolegal death investigation professionals in the communities they serve; and
+  - **(E)** public safety officers, law enforcement officers, and court officers to—
+    - **(i)** attend community events sponsored by local medicolegal death investigation jurisdictions;
+    - **(ii)** take tours of local medical examiner and coroner offices;
+    - **(iii)** discuss the operational needs of State and local medicolegal death investigation jurisdictions; and
+    - **(iv)** engage with local medicolegal death investigation professionals about working together more effectively.
