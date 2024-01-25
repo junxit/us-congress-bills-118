@@ -1,7 +1,7 @@
 ---
 measure: S. 1863
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1863
@@ -16,7 +16,7 @@ PROVE IT Act of 2024
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
@@ -26,6 +26,10 @@ PROVE IT Act of 2024
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Kelly, Mark [D-AZ] (K000377)
 
 ## Committees (1)
 
@@ -35,3 +39,6 @@ PROVE IT Act of 2024
 
 - 2023-06-07 — Introduced in Senate
 - 2023-06-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
