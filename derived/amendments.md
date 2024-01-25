@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 2 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 2 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1182` | add-at-end | Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1227` | add-at-end | Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1182` | insert | Chapter 2 of title II of the Immigration and Nationality Act is amended by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

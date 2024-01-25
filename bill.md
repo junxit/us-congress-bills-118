@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5585
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as “Agent Raul Gonzalez Officer Safety Act”.
   > ## § 40B. Evading arrest or detention while operating a motor vehicle
   >
   > - **(a)** *Offense* A person commits an offense under this section by operating a motor vehicle within 100 miles of the United States border while intentionally fleeing from—
-  >   - **(1)** a pursuing U.S. Border Patrol officer acting pursuant to lawful authority; or
+  >   - **(1)** a pursuing U.S. Border Patrol agent acting pursuant to lawful authority; or
   >   - **(2)** any pursuing Federal, State, or local law enforcement officer who is actively assisting, or under the command of, U.S. Border Patrol.
   > - **(b)** *Penalties*
   >   - **(1)** *In general* Except as provided in paragraphs (2) and (3), any person who commits an offense described in subsection (a) shall be—
@@ -34,11 +34,23 @@ This Act may be cited as “Agent Raul Gonzalez Officer Safety Act”.
   >     - **(A)** imprisoned for a term of not less than 10 years and up to life;
   >     - **(B)** fined under this title; or
   >     - **(C)** subject to the penalties described in subparagraphs (A) and (B).
-  > - **(c)** *Ineligibility for legal status* Any person who commits an offense described in subsection (a) while unlawfully present in the United States shall be permanently ineligible to apply for any legal status in the United States, including asylum.
 
 - **(b)** *Clerical amendment* The analysis for chapter 2 of title 18, United States Code, is amended by adding at the end the following:
 
-## § 3. Annual report
+## § 3. Inadmissibility, deportability, and ineligibility related to evading arrest or detention while operating a motor vehicle
+
+- **(a)** *Inadmissibility* Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following:
+  > - **(J)** *Evading arrest or detention while operating a motor vehicle* Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of a violation of section 40B(a) of title 18, United States Code, is inadmissible.
+
+- **(b)** *Deportability* Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following:
+  > - **(G)** *Evading arrest or detention while operating a motor vehicle* Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of a violation of section 40B(a) of title 18, United States Code, is deportable.
+
+- **(c)** *Ineligibility for relief* Chapter 2 of title II of the Immigration and Nationality Act is amended by inserting after section 208 the following:
+  > ## § 208A. Ineligibility for relief related to evading arrest or detention while operating a motor vehicle
+  >
+  > Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of a violation of section 40B(a) of title 18, United States Code, shall be ineligible for relief under the immigration laws, including asylum under section 208.
+
+## § 4. Annual report
 
 The Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that—
 
