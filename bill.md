@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7079
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7079
+
+> To prohibit the Administrator of the Environmental Protection Agency from finalizing, implementing, or enforcing certain changes to regulations regarding meat and poultry products effluent discharges, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Banning EPA’s Encroachment on Facilities Act”.
+
+## § 2. Meat and poultry products point source category
+
+The Administrator of the Environmental Protection Agency may not finalize, implement, or enforce the proposed rule entitled “Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category” signed by the Administrator of the Environmental Protection Agency on December 13, 2023, or any substantially similar rule.
