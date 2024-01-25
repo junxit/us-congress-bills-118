@@ -1,7 +1,7 @@
 ---
 measure: S. 3412
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3412
@@ -28,3 +28,6 @@ Reuben E. Lawson Federal Building Act of 2023
 
 - 2023-12-06 — Introduced in Senate
 - 2023-12-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2024-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
