@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6976
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6976
@@ -25,3 +25,8 @@ Protect Our Communities from DUIs Act
 - 2024-01-11 — Introduced in House
 - 2024-01-11 — Introduced in House
 - 2024-01-11 — Referred to the House Committee on the Judiciary.
+- 2024-01-18 — Committee Consideration and Mark-up Session Held
+- 2024-01-18 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 13 - 10.
+- 2024-01-25 — Placed on the Union Calendar, Calendar No. 292.
+- 2024-01-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-357.
+- 2024-01-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-357.
