@@ -1,0 +1,31 @@
+---
+measure: H.R. 7082
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 7082
+
+Complete Streets Act of 2024
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+
+## Cosponsors (1)
+
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
+## Actions
+
+- 2024-01-25 — Introduced in House
+- 2024-01-25 — Introduced in House
+- 2024-01-25 — Referred to the House Committee on Transportation and Infrastructure.
