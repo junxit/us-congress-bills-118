@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6679
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6679
@@ -25,3 +25,8 @@ No Immigration Benefits for Hamas Terrorists Act
 - 2023-12-07 — Introduced in House
 - 2023-12-07 — Introduced in House
 - 2023-12-07 — Referred to the House Committee on the Judiciary.
+- 2024-01-18 — Committee Consideration and Mark-up Session Held
+- 2024-01-18 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 0.
+- 2024-01-25 — Placed on the Union Calendar, Calendar No. 293.
+- 2024-01-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-358.
+- 2024-01-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-358.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6679
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,4 +23,6 @@ This Act may be cited as the “No Immigration Benefits for Hamas Terrorists Act
     > - **(H)** *Participants in Hamas Terrorism against Israel* Any alien who carried out, participated in, planned, financed, afforded material support to, or otherwise facilitated any of the attacks against Israel initiated by Hamas beginning on October 7, 2023, is inadmissible.
 
 - **(b)** *Ineligibility for relief* Section 241(b)(3) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)) is amended by adding at the end the following:
-  > - **(D)** *Ineligibility for relief* An alien who carried out, participated in, planned, financed, afforded material support to, or otherwise facilitated any of the attacks against Israel initiated by Hamas beginning on October 7, 2023, shall be ineligible for relief under the immigration laws, including under this section, section 208, and section 2242 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (and any regulations issued pursuant to such section).
+  > - **(D)** *Ineligibility for relief* Any alien who carried out, participated in, planned, financed, afforded material support to, or otherwise facilitated any of the attacks against Israel initiated by Hamas beginning on October 7, 2023, shall be ineligible for any relief under the immigration laws, including under this section, section 208, and section 2242 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (and any regulations issued pursuant to such section).
+
+- **(c)** *Conforming amendment* Section 237(a)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(4)(B)) is amended by striking “subparagraph (B) or (F)” and inserting “subparagraph (B), (F), or (H)”.
