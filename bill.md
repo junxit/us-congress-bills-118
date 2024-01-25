@@ -1,0 +1,15 @@
+---
+legis-num: H. CON. RES. 85
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 85
+
+> Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal collectively to the women in the United States who joined the workforce during World War II, providing the aircraft, vehicles, weaponry, ammunition, and other material to win the war and who were referred to as “Rosie the Riveter”, in recognition of their contributions to the United States and the inspiration they have provided to ensuing generations.
+
+## § 1. Use of Emancipation Hall for ceremony to present Congressional Gold Medal to “Rosie the Riveter”
+
+- **(a)** *Authorization* Emancipation Hall in the Capitol Visitor Center is authorized to be used on April 10, 2024, for a ceremony to present the Congressional Gold Medal collectively to the women in the United States who joined the workforce during World War II, providing the aircraft, vehicles, weaponry, ammunition, and other material to win the war and who were referred to as “Rosie the Riveter”, in recognition of their contributions to the United States and the inspiration they have provided to ensuing generations.
+- **(b)** *Preparations* Physical preparations for the conduct of the ceremony described in subsection (a) shall be carried out in accordance with such conditions as the Architect of the Capitol may prescribe.
