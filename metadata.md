@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6513
@@ -32,3 +32,6 @@ COCOA Act of 2024
 - 2023-11-30 — Introduced in House
 - 2023-11-30 — Ordered to be Reported by Voice Vote.
 - 2023-11-30 — Referred to the House Committee on House Administration.
+- 2024-01-29 — Placed on the Union Calendar, Calendar No. 296.
+- 2024-01-29 — Reported by the Committee on House Administration. H. Rept. 118-361.
+- 2024-01-29 — Reported by the Committee on House Administration. H. Rept. 118-361.
