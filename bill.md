@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3738
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 38, United States Code, to establish in the Department of Veterans Affairs the Veterans Economic Opportunity and Transition Administration, and for other purposes.
 
-## § 1. Establishment of Veterans Economic Opportunity and Transition Administration
+## § 1. Short title
+
+This Act may be cited as the “Veterans Economic Opportunity and Transition Administration Act”.
+
+## § 2. Establishment of Veterans Economic Opportunity and Transition Administration
 
 - **(a)** *Veterans Economic Opportunity and Transition Administration*
   - **(1)** *In general* Part V of title 38, United States Code, is amended by adding at the end the following new chapter:
@@ -20,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** 35,417 in fiscal year 2025.
 - **(d)** *Labor rights* Any labor rights, inclusion in the bargaining unit, and collective bargaining agreement that affects an employee of the Department of Veterans Affairs who is transferred to the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), shall apply in the same manner to such employee after such transfer.
 
-## § 2. Under Secretary for Veterans Economic Opportunity and Transition
+## § 3. Under Secretary for Veterans Economic Opportunity and Transition
 
 - **(a)** *Under Secretary*
   - **(1)** *In general* Chapter 3 of title 38, United States Code, is amended by inserting after section 306 the following new section:
@@ -56,10 +60,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(10)** in section 7703, by striking paragraphs (2) and (3) and redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively.
 - **(c)** *Effective date* Section 306A of title 38, United States Code, as added by subsection (a), and the amendments made by this section, shall take effect on October 1, 2024.
 
-## § 3. Transfer of services
+## § 4. Transfer of services
 
-- **(a)** *Report to Congress* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the progress toward establishing the Veterans Economic Opportunity and Transition Administration, as established under section 8001 of title 38, United States Code, as added by section 4, and the transition of the provision of services to veterans by such Administration.
-- **(b)** *Certification* The Secretary of Veterans Affairs may not transfer the function of providing any services to veterans to the Veterans Economic Opportunity and Transition Administration, as established under section 8001 of title 38, United States Code, as added by section 4 until the Secretary submits to the Committees on Veterans’ Affairs of the Senate and House of Representatives certification that—
+- **(a)** *Report to Congress* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the progress toward establishing the Veterans Economic Opportunity and Transition Administration, as established under section 8001 of title 38, United States Code, as added by section 2, and the transition of the provision of services to veterans by such Administration.
+- **(b)** *Certification* The Secretary of Veterans Affairs may not transfer the function of providing any services to veterans to the Veterans Economic Opportunity and Transition Administration, as established under section 8001 of title 38, United States Code, as added by section 2, until the Secretary submits to the Committees on Veterans’ Affairs of the Senate and House of Representatives certification that—
   - **(1)** the transition of the provision of services to such Administration will not negatively affect the provision of such services to veterans; and
   - **(2)** such services are ready to be transferred.
 - **(c)** *Deadline for certification* The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the certification required by subsection (b)—
@@ -68,3 +72,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(d)** *Failure To certify* If the Secretary fails to submit the certification required by subsection (b) by the date specified in subsection (c)(2), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report that includes—
   - **(1)** the reason why the certification was not made by such date; and
   - **(2)** the estimated date when the certification will be made.
+
+## § 5. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 30, 2031”.
