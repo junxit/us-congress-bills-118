@@ -52,9 +52,12 @@ This Act may be cited as “Agent Raul Gonzalez Officer Safety Act”.
 
 ## § 4. Annual report
 
-The Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that—
+The Attorney General, in conjunction with the Secretary of Homeland Security, shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that—
 
-- **(1)** identifies the number of people who were charged, during the reporting period, with a violation of section 40B(a) of title 18, United States Code, as added by section 2(a); and
+- **(1)** identifies the number of people who committed a violation of section 40B(a) of title 18, United States Code, as added by section 2(a); and
 - **(2)** summarizes—
-  - **(A)** the penalties sought in the charging documents pertaining to the violations referred to in paragraph (1); and
-  - **(B)** the penalties imposed for such violations.
+  - **(A)** the number of individuals who were charged with the violation referred to in paragraph (1);
+  - **(B)** the number of individuals who were apprehended but not charged with such violation;
+  - **(C)** the number of individuals who committed such violation but were not apprehended;
+  - **(D)** the penalties sought in the charging documents pertaining to such violation; and
+  - **(E)** the penalties imposed for such violation.
