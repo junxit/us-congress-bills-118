@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3865
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3865
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the facility of the United States Postal Service located at 101 Sou
 - 2024-01-29 — Mr. Donalds moved to suspend the rules and pass the bill.
 - 2024-01-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H261)
 - 2024-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H261)
+- 2024-01-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
