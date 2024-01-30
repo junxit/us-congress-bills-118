@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4051
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,18 +23,21 @@ This Act may be cited as the “Supporting the Health of Aquatic systems through
       - **(ii)** each Marine Fisheries Commission, as such term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802);
       - **(iii)** the fish and wildlife agency of a coastal State from each Regional Fishery Management Council established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)); and
       - **(iv)** the National Marine Fisheries Service;
-    - **(B)** an individual with expertise in the management of highly migratory species; and
-    - **(C)** a researcher with expertise in shark management and behavior.
+    - **(B)** an individual with expertise in the management of highly migratory species;
+    - **(C)** a researcher with expertise in shark management and behavior; and
+    - **(D)** a researcher with expertise in shark ecology.
   - **(3)** *Responsibilities* The task force shall—
-    - **(A)** develop ways to improve coordination and communication across the fisheries management community to address shark depredation;
+    - **(A)** develop ways to improve coordination and communication across the fisheries management community and shark research community to address shark depredation;
     - **(B)** identify research priorities and funding opportunities for such priorities, including—
       - **(i)** identifying shark species involved in interactions;
       - **(ii)** shark stock assessments;
       - **(iii)** how sharks become habituated to humans and thus lead to more interactions between sharks and humans;
-      - **(iv)** how angler behavior and fishery regulatory frameworks may influence shark interactions; and
+      - **(iv)** how angler behavior and fishery regulatory frameworks may influence shark interactions;
       - **(v)** techniques and strategies to reduce harmful interactions between sharks and humans, including the development and use of non-lethal deterrents;
+      - **(vi)** the role of healthy shark populations in the ocean food web; and
+      - **(vii)** climate change impacts on shifting shark populations, prey, and shark behavior;
     - **(C)** develop recommended management strategies to address shark depredation; and
-    - **(D)** coordinate the development and distribution of educational materials to help the fishing community minimize shark interactions.
+    - **(D)** coordinate the development and distribution of educational materials to help the fishing community minimize shark interactions including through changed angler behavior and expectations.
   - **(4)** *Report* Not later than 2 years after the date of the enactment of this section, and every 2 years thereafter until the termination of the task force in accordance with paragraph (5), the task force shall submit to Congress a report regarding the findings of the task force.
   - **(5)** *Sunset* The task force shall terminate not later than 7 years after the date on which the Secretary of Commerce establishes the task force.
   - **(6)** *Coastal State defined* In this subsection, the term coastal State—
@@ -42,3 +45,5 @@ This Act may be cited as the “Supporting the Health of Aquatic systems through
     - **(B)** includes Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 - **(b)** *Shark depredation research projects* Section 318(c) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1867(c)) is amended by adding at the end the following:
   > - **(6)** Projects to better understand shark depredation, including identifying what causes increases in shark depredation and determining how to best address shark depredation.
+
+- **(c)** *Effect* Nothing in this Act shall be construed to affect the authority and responsibility of the Secretary of Commerce in carrying out the Endangered Species Act of 1973 or the Magnuson-Stevens Fishery Conservation and Management Act.
