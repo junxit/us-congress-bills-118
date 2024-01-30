@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 980
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 980
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 5585) to impose criminal and immig
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2024-01-30 — [House 118-2-22](votes/house-118-2-0022.md) — On Ordering the Previous Question — **Passed** (216–210)
+- 2024-01-30 — [House 118-2-23](votes/house-118-2-0023.md) — On Agreeing to the Resolution — **Passed** (216–210)
+
 ## Actions
 
 - 2024-01-29 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 5585) to impose criminal and immig
 - 2024-01-29 — The House Committee on Rules reported an original measure, H. Rept. 118-362, by Mr. Burgess.
 - 2024-01-29 — The House Committee on Rules reported an original measure, H. Rept. 118-362, by Mr. Burgess.
 - 2024-01-29 — The resolution provides for consideration of H.R. 5585, H.R. 6678, H.R. 6679, and H.R. 6976 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
+- 2024-01-30 — At the conclusion of debate on H. Res. 980, the Chair put the question on ordering the previous question on the resolution and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-01-30 — Considered as privileged matter. (consideration: CR H281-288)
+- 2024-01-30 — Considered as unfinished business. (consideration: CR H288-289)
+- 2024-01-30 — DEBATE - The House proceeded with one hour of debate on H. Res. 980.
+- 2024-01-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-30 — On agreeing to the resolution Agreed to by recorded vote: 216 - 210 (Roll no. 23). (text: CR H281)
+- 2024-01-30 — On ordering the previous question Agreed to by the Yeas and Nays: 216 - 210 (Roll no. 22).
+- 2024-01-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 216 - 210 (Roll no. 23). (text: CR H281)
