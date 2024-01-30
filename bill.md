@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1240
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,3 +22,4 @@ This Act may be cited as the “Winnebago Land Transfer Act of 2023”.
   - **(1)** That portion of Tract No. 119, the description of which is filed in the United States District Court for the Northern District of Iowa (Western Division), Civil Case No. 70–C–3015–W, executed May 11, 1973, said tract being situated in Section 8 and the accretion land thereto, the Southwest Quarter of Section 9, the West Half of Section 16, the East Half of Section 17, Township 86 North, Range 47 West of the Fifth Principal Meridian, Woodbury County, Iowa, lying Easterly of the Nebraska/Iowa State Line and Southerly of the Easterly extension of the North line of the Winnebago Reservation.
   - **(2)** Tract No. 210, as described in Schedule “A” of the “Declaration of Taking, Legal Description of Tract 210 and Judgment on Stipulation and Order of Distribution”, filed in the United States District Court for the Northern District of Iowa (Western Division), Civil Case No. 70–C–3015–W.
   - **(3)** Tract No. 113, as described in the “Judgment on Declaration of Taking and Legal Description of Tract 113”, filed in the United States District Court for the District of Nebraska, Civ. No. 03498.
+- **(c)** *Gaming prohibition* Class II and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be allowed at any time on the land taken into trust under subsection (a).
