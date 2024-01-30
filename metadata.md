@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5009
@@ -16,7 +16,7 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Cosponsors (6)
+## Cosponsors (12)
 
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
@@ -24,6 +24,12 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 - Rep. Thompson, Mike [D-CA-4] (T000460)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
+- Rep. Wild, Susan [D-PA-7] (W000826)
 
 ## Committees (1)
 
@@ -34,3 +40,12 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2023-07-27 — Introduced in House
 - 2023-07-27 — Introduced in House
 - 2023-07-27 — Referred to the House Committee on Natural Resources.
+- 2023-10-17 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2023-10-18 — Subcommittee Hearings Held.
+- 2023-10-25 — Committee Consideration and Mark-up Session Held.
+- 2023-10-26 — Committee Consideration and Mark-up Session Held.
+- 2023-10-26 — Ordered to be Reported by Unanimous Consent.
+- 2023-10-26 — Subcommittee on Water, Wildlife, and Fisheries Discharged.
+- 2024-01-30 — Placed on the Union Calendar, Calendar No. 299.
+- 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-366.
+- 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-366.
