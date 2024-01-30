@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1727
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1727
@@ -34,3 +34,11 @@ Chesapeake and Ohio Canal National Historical Park Commission Extension Act
 - 2023-03-22 — Introduced in House
 - 2023-03-22 — Introduced in House
 - 2023-03-22 — Referred to the House Committee on Natural Resources.
+- 2023-04-14 — Referred to the Subcommittee on Federal Lands.
+- 2023-10-19 — Subcommittee Hearings Held.
+- 2023-11-15 — Committee Consideration and Mark-up Session Held
+- 2023-11-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2023-11-15 — Subcommittee on Federal Lands Discharged
+- 2024-01-30 — Placed on the Union Calendar, Calendar No. 297.
+- 2024-01-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-363.
+- 2024-01-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-363.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1727
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 16 U.S.C. § 410y-4
 
-> Section 6(g) of the Chesapeake and Ohio Canal Development Act (16 U.S.C. 410y–4(g)) is amended by striking “40” and all that follows through the period at the end and inserting “on September 30, 2034.”.
+> Section 6(g) of the Chesapeake and Ohio Canal Development Act (16 U.S.C. 410y–4(g)) is amended by striking “40” and all that follows through the period at the end and inserting “on October 1, 2031.”.
 
 | | |
 |---|---|
 | Removed | `40` |
-| Inserted | `on September 30, 2034.` |
+| Inserted | `on October 1, 2031.` |
