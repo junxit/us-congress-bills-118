@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2997
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Clifton Opportunities Now for Vibrant Economic Y
 ## § 2. Conveyance of Federal land to Mesa County, Colorado
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Clifton parcel* The term Clifton parcel means the approximately 31.1 acres of Federal land depicted as “31.1 Acres to be Conveyed to Mesa County” on the map titled “Clifton Opportunities Now for Vacant Earth Yields (CONVEY) Act” and dated February 27, 2023.
+  - **(1)** *Clifton parcel* The term Clifton parcel means the approximately 31.1 acres of Federal land depicted as “31.1 Acres to be Conveyed to Mesa County” on the map titled “Clifton Opportunities Now for Vibrant Economic Yields (CONVEY) Act” and dated April 19, 2023.
   - **(2)** *County* The term County means Mesa County, Colorado.
   - **(3)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
 - **(b)** *In general* Notwithstanding the Secretarial Order dated August 26, 1902, and the Secretarial Order dated July 25, 1908, the Secretary shall convey to the County, as soon as practicable, all rights, title, and interest of the United States in and to the Clifton parcel.
@@ -28,9 +28,7 @@ This Act may be cited as the “Clifton Opportunities Now for Vibrant Economic Y
   - **(2)** *Appraisal standards* The appraisal required by paragraph (1) shall be conducted in accordance with the—
     - **(A)** Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** Uniform Standards of Professional Appraisal Practice.
-- **(e)** *Costs of conveyance*
-  - **(1)** *In general* Except as provided in paragraph (2), the Secretary shall pay all costs associated with the conveyance required under subsection (b).
-  - **(2)** *Survey* The County shall pay all costs associated with any survey conducted for the purpose of accomplishing the conveyance required under subsection (b).
+- **(e)** *Costs of conveyance* The County shall pay all costs associated with the conveyance required under subsection (b), including all costs associated with any survey conducted for the purpose of accomplishing such conveyance.
 - **(f)** *Proceeds from conveyance* The proceeds from the conveyance required under subsection (b) shall be—
   - **(1)** deposited into the Federal Land Disposal Account established by the Federal Land Transaction Facilitation Act (43 U.S.C. 2301 et seq.); and
   - **(2)** available for expenditure under that Act.
