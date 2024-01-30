@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4385
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4385
@@ -16,9 +16,10 @@ Drought Preparedness Act
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Lee, Susie [D-NV-3] (L000590)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ Drought Preparedness Act
 - 2023-06-27 — Introduced in House
 - 2023-06-27 — Introduced in House
 - 2023-06-27 — Referred to the House Committee on Natural Resources.
+- 2023-09-26 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2023-09-28 — Subcommittee Hearings Held
+- 2023-11-08 — Committee Consideration and Mark-up Session Held
+- 2023-11-08 — Ordered to be Reported by Unanimous Consent.
+- 2023-11-08 — Subcommittee on Water, Wildlife, and Fisheries Discharged
+- 2024-01-30 — Placed on the Union Calendar, Calendar No. 298.
+- 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-365.
+- 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-365.
