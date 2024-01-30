@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5528
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5528
@@ -21,9 +21,10 @@ Safe and Smart Federal Purchasing Act
 - Rep. Boebert, Lauren [R-CO-3] (B000825)
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Safe and Smart Federal Purchasing Act
 - 2024-01-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 20). (text: CR H257-258)
 - 2024-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 20). (text: CR H257-258)
 - 2024-01-29 — The title of the measure was amended. Agreed to without objection.
+- 2024-01-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
