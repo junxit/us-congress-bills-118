@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3728
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3728
@@ -36,3 +36,13 @@ To designate the facility of the United States Postal Service located at 25 Dorc
 - 2023-05-25 — Introduced in House
 - 2023-05-25 — Introduced in House
 - 2023-05-25 — Referred to the House Committee on Oversight and Accountability.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported by Voice Vote.
+- 2024-01-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Donalds objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-29 — Considered under suspension of the rules. (consideration: CR H262-263)
+- 2024-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3728.
+- 2024-01-29 — Mr. Donalds moved to suspend the rules and pass the bill.
+- 2024-01-31 — Considered as unfinished business. (consideration: CR H358)
+- 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H262-263)
+- 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H262-263)
