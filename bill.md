@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 7158
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7158
+
+> To designate the facility of the United States Postal Service located at 201 East Battles Road in Santa Maria, California, as the “Larry Lavagnino Post Office Building”.
+
+## § 1. Larry Lavagnino Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 201 East Battles Road in Santa Maria, California, shall be known and designated as the “Larry Lavagnino Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Larry Lavagnino Post Office Building”.
