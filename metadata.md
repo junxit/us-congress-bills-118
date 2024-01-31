@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2754
@@ -60,8 +60,22 @@ To designate the facility of the United States Postal Service located at 2395 Ea
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2024-01-31 — [House 118-2-29](votes/house-118-2-0029.md) — On Motion to Suspend the Rules and Pass — **Passed** (420–0)
+
 ## Actions
 
 - 2023-04-20 — Introduced in House
 - 2023-04-20 — Introduced in House
 - 2023-04-20 — Referred to the House Committee on Oversight and Accountability.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported by Voice Vote.
+- 2024-01-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Donalds objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-29 — Considered under suspension of the rules. (consideration: CR H260-261)
+- 2024-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2754.
+- 2024-01-29 — Mr. Donalds moved to suspend the rules and pass the bill.
+- 2024-01-31 — Considered as unfinished business. (consideration: CR H342-343)
+- 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0, 2 Present (Roll no. 29). (text: 1/29/2024 CR H260)
+- 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0, 2 Present (Roll no. 29). (text: 1/29/2024 CR H260)
