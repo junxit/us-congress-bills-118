@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5585
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5585
@@ -38,9 +38,10 @@ Agent Raul Gonzalez Officer Safety Act
 - Rep. Luna, Anna Paulina [R-FL-13] (L000596)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -90,3 +91,4 @@ Agent Raul Gonzalez Officer Safety Act
 - 2024-01-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5585.
 - 2024-01-30 — The Speaker designated the Honorable Mike Flood to act as Chairman of the Committee.
 - 2024-01-30 — The previous question was ordered pursuant to the rule.
+- 2024-01-31 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
