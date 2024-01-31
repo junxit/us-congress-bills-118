@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7024
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7024
@@ -21,6 +21,10 @@ Tax Relief for American Families and Workers Act of 2024
 - House — Rules Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2024-01-31 — [House 118-2-30](votes/house-118-2-0030.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (357–70)
+
 ## Actions
 
 - 2024-01-17 — Introduced in House
@@ -34,3 +38,13 @@ Tax Relief for American Families and Workers Act of 2024
 - 2024-01-23 — Placed on the Union Calendar, Calendar No. 288.
 - 2024-01-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-353, Part I.
 - 2024-01-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-353, Part I.
+- 2024-01-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-01-31 — Considered as unfinished business. (consideration: CR H358)
+- 2024-01-31 — Considered under suspension of the rules. (consideration: CR H343-358)
+- 2024-01-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7024.
+- 2024-01-31 — DEBATE - The House resumed debate on H.R. 7024.
+- 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-31 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2024-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 70 (Roll no. 30). (text: CR H343-350)
+- 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 70 (Roll no. 30). (text: CR H343-350)
+- 2024-01-31 — UNANIMOUS CONSENT REQUEST - Mr. Smith (MO) asked unanimous consent that debate be extended by 20 minutes to be controlled by the gentleman from Massachusetts, Mr. Neal. Objection heard.
