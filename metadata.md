@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 599
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 3500 We
 
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 
-## Cosponsors (33)
+## Cosponsors (50)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Pelosi, Nancy [D-CA-11] (P000197)
@@ -51,6 +51,23 @@ To designate the facility of the United States Postal Service located at 3500 We
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
 - Rep. Chu, Judy [D-CA-28] (C001080)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Aguilar, Pete [D-CA-33] (A000371)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Eshoo, Anna G. [D-CA-16] (E000215)
+- Rep. Bera, Ami [D-CA-6] (B001287)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Cárdenas, Tony [D-CA-29] (C001097)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Thompson, Mike [D-CA-4] (T000460)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Lofgren, Zoe [D-CA-18] (L000397)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
 
 ## Committees (1)
 
@@ -61,3 +78,13 @@ To designate the facility of the United States Postal Service located at 3500 We
 - 2023-01-27 — Introduced in House
 - 2023-01-27 — Introduced in House
 - 2023-01-27 — Referred to the House Committee on Oversight and Accountability.
+- 2023-09-20 — Committee Consideration and Mark-up Session Held
+- 2023-09-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2024-01-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Donalds objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-29 — Considered under suspension of the rules. (consideration: CR H264)
+- 2024-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 599.
+- 2024-01-29 — Mr. Donalds moved to suspend the rules and pass the bill, as amended.
+- 2024-01-31 — Considered as unfinished business. (consideration: CR H358-359)
+- 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/29/2024 CR H264)
+- 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/29/2024 CR H264)

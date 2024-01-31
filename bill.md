@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 599
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, as the “Dosan Ahn Chang Ho Post Office”.
 
-## § 1. Dosan Ahn Chang Ho Post Office
+## § 1. Dosan Ahn Chang Ho Post Office redesignation
 
-- **(a)** *Designation* The facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, shall be known and designated as the “Dosan Ahn Chang Ho Post Office”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Dosan Ahn Chang Ho Post Office”.
+- **(a)** *Redesignation* Section 1 of Public Law 108–239 is amended by striking “3751 West 6th Street in Los Angeles, California” and inserting “3500 West 6th Street, Suite 103 in Los Angeles, California”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in section 1 of Public Law 108–239 as amended by subsection (a) shall be deemed to be a reference to the “Dosan Ahn Chang Ho Post Office”.
