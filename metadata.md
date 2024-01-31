@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1060
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1060
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1663 Ea
 
 - Rep. Aguilar, Pete [D-CA-33] (A000371)
 
-## Cosponsors (30)
+## Cosponsors (50)
 
 - Rep. Barragan, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Bera, Ami [D-CA-6] (B001287)
@@ -48,6 +48,26 @@ To designate the facility of the United States Postal Service located at 1663 Ea
 - Rep. Vargas, Juan [D-CA-52] (V000130)
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Kim, Young [R-CA-40] (K000397)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Pelosi, Nancy [D-CA-11] (P000197)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Eshoo, Anna G. [D-CA-16] (E000215)
+- Rep. Harder, Josh [D-CA-9] (H001090)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. Steel, Michelle [R-CA-45] (S001135)
+- Rep. Thompson, Mike [D-CA-4] (T000460)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. Issa, Darrell E. [R-CA-48] (I000056)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Peters, Scott H. [D-CA-50] (P000608)
 
 ## Committees (1)
 
@@ -58,3 +78,13 @@ To designate the facility of the United States Postal Service located at 1663 Ea
 - 2023-02-17 — Introduced in House
 - 2023-02-17 — Introduced in House
 - 2023-02-17 — Referred to the House Committee on Oversight and Accountability.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported by Voice Vote.
+- 2024-01-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Donalds objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-01-29 — Considered under suspension of the rules. (consideration: CR H264-265)
+- 2024-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1060.
+- 2024-01-29 — Mr. Donalds moved to suspend the rules and pass the bill.
+- 2024-01-31 — Considered as unfinished business. (consideration: CR H359)
+- 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H264)
+- 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H264)
