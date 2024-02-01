@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2754
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2754
@@ -56,9 +56,10 @@ To designate the facility of the United States Postal Service located at 2395 Ea
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ To designate the facility of the United States Postal Service located at 2395 Ea
 - 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0, 2 Present (Roll no. 29). (text: 1/29/2024 CR H260)
 - 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0, 2 Present (Roll no. 29). (text: 1/29/2024 CR H260)
+- 2024-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
