@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 599
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 3500 We
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. McClintock, Tom [R-CA-5] (M001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 3500 We
 - 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/29/2024 CR H264)
 - 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 1/29/2024 CR H264)
+- 2024-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
