@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1060
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1060
@@ -69,9 +69,10 @@ To designate the facility of the United States Postal Service located at 1663 Ea
 - Rep. McClintock, Tom [R-CA-5] (M001177)
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 1663 Ea
 - 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H264)
 - 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H264)
+- 2024-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
