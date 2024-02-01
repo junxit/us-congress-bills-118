@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3728
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3728
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 25 Dorc
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 25 Dorc
 - 2024-01-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-01-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H262-263)
 - 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 1/29/2024 CR H262-263)
+- 2024-02-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
