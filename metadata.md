@@ -1,0 +1,26 @@
+---
+measure: S. 3725
+congress: 118
+version: Introduced in Senate
+---
+
+# S. 3725
+
+PFAS Accountability Act of 2024
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+
+## Committees (1)
+
+- Senate — Environment and Public Works Committee
+
+## Actions
+
+- 2024-02-01 — Introduced in Senate
+- 2024-02-01 — Read twice and referred to the Committee on Environment and Public Works.
