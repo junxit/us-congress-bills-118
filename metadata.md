@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 443
@@ -29,6 +29,10 @@ Enhancing Detection of Human Trafficking Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2024-02-05 — [House 118-2-33](votes/house-118-2-0033.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–0)
+
 ## Actions
 
 - 2023-01-20 — Introduced in House
@@ -39,3 +43,11 @@ Enhancing Detection of Human Trafficking Act
 - 2024-01-25 — Placed on the Union Calendar, Calendar No. 290.
 - 2024-01-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-355.
 - 2024-01-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-355.
+- 2024-02-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-02-05 — Considered as unfinished business. (consideration: CR H409-410)
+- 2024-02-05 — Considered under suspension of the rules. (consideration: CR H407-409)
+- 2024-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 443.
+- 2024-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-05 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 33). (text: CR H407)
+- 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 33). (text: CR H407)
