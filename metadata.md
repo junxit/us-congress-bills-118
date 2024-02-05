@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4385
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4385
@@ -38,3 +38,9 @@ Drought Preparedness Act
 - 2024-01-30 — Placed on the Union Calendar, Calendar No. 298.
 - 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-365.
 - 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-365.
+- 2024-02-05 — Considered under suspension of the rules. (consideration: CR H403-404)
+- 2024-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4385.
+- 2024-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H403)
+- 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H403)
