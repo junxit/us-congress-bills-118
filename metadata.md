@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6678
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6678
@@ -16,9 +16,10 @@ Consequences for Social Security Fraud Act
 
 - Rep. McClintock, Tom [R-CA-5] (M001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -61,3 +62,4 @@ Consequences for Social Security Fraud Act
 - 2024-01-31 — Roll call votes on amendments in House
 - 2024-01-31 — Rule provides for consideration of H.R. 5585, H.R. 6678, H.R. 6679 and H.R. 6976. The resolution provides for consideration of H.R. 5585, H.R. 6678, H.R. 6679, and H.R. 6976 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
 - 2024-01-31 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
+- 2024-02-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
