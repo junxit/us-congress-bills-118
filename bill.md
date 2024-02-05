@@ -1,0 +1,40 @@
+---
+legis-num: H.R. 7232
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7232
+
+> To direct the Secretary of State to revoke the visas of students who have engaged in antisemitic activities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Visas for Anti-Semitic Students Act”.
+
+## § 2. Revocation of visas of students who have engaged in antisemitic activities
+
+- **(a)** *In general* The Secretary of State shall revoke the visa of any alien who, on the date of enactment of this Act—
+  - **(1)** is in possession of a valid unexpired visa under section 101(a)(15)(F) or (M) of the Immigration and Nationality Act (8 U.S.C. 1101)(a)(15)); and
+  - **(2)** is or has been a member of an antisemitic organization, or has made public antisemitic statements.
+- **(b)** *Definition* In this section, the term “antisemitism”—
+  - **(1)** means a certain perception of Jews, which may be expressed as hatred toward Jews; and
+  - **(2)** includes rhetorical and physical manifestations of antisemitism directed toward—
+    - **(A)** Jewish or non-Jewish individuals or their property;
+    - **(B)** Jewish community institutions; and
+    - **(C)** religious facilities.
+
+## § 3. Terms of nonimmigrant status for students
+
+Section 214 of the Immigration and Nationality Act (8 U.S.C. 1184) is amended by adding at the end the following:
+
+> - **(s)**
+>   - **(1)** An alien may not be accorded status as a nonimmigrant under section 101(a)(15)(F) or (M) if the alien is or has been a member of an antisemitic organization, or has made public antisemitic statements.
+>   - **(2)** An alien who obtains the status of a nonimmigrant under section 101(a)(15)(F) or (M) and engages in any activity described in paragraph (1) shall be considered to have violated such status, and the alien's visa under such section 1101(a)(15)(F) or (M) shall be void.
+>   - **(3)** In this subsection, the term “antisemitism”—
+>     - **(A)** means a certain perception of Jews, which may be expressed as hatred toward Jews; and
+>     - **(B)** includes rhetorical and physical manifestations of antisemitism directed toward—
+>       - **(i)** Jewish or non-Jewish individuals or their property;
+>       - **(ii)** Jewish community institutions; and
+>       - **(iii)** religious facilities.
