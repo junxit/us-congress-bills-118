@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,3 +50,14 @@ to guess them.
 |---|---|
 | Removed | `5-fiscal year period` |
 | Inserted | `5-fiscal year period beginning with fiscal year 2024.` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `20 U.S.C. § 5606` | add-at-end | Section 8(b)(1) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5606(b)(1)) is amended by adding at the end the following: “Beginning on October 1, 2023, and thereafter, interest earned from investments made with an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
