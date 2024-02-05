@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5009
@@ -49,3 +49,9 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-01-30 — Placed on the Union Calendar, Calendar No. 299.
 - 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-366.
 - 2024-01-30 — Reported by the Committee on Natural Resources. H. Rept. 118-366.
+- 2024-02-05 — Considered under suspension of the rules. (consideration: CR H404-406)
+- 2024-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5009.
+- 2024-02-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H404-405)
+- 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H404-405)
