@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2882
@@ -56,3 +56,4 @@ Further Consolidated Appropriations Act, 2024
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 58 (Roll no. 32). (text: CR H395)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 58 (Roll no. 32). (text: CR H395)
+- 2024-02-06 — Received in the Senate.
