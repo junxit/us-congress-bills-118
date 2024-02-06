@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4385
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4385
@@ -21,9 +21,10 @@ Drought Preparedness Act
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Drought Preparedness Act
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H403)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H403)
+- 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
