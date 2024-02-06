@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1727
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1727
@@ -29,6 +29,10 @@ Chesapeake and Ohio Canal National Historical Park Commission Extension Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-02-06 — [House 118-2-36](votes/house-118-2-0036.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (427–2)
+
 ## Actions
 
 - 2023-03-22 — Introduced in House
@@ -42,3 +46,11 @@ Chesapeake and Ohio Canal National Historical Park Commission Extension Act
 - 2024-01-30 — Placed on the Union Calendar, Calendar No. 297.
 - 2024-01-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-363.
 - 2024-01-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-363.
+- 2024-02-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Westerman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-02-05 — Considered under suspension of the rules. (consideration: CR H396-397; text: CR H396)
+- 2024-02-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1727.
+- 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-02-06 — Considered as unfinished business.
+- 2024-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 2 (Roll no. 36).
+- 2024-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 2 (Roll no. 36).
