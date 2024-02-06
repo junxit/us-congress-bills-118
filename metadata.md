@@ -1,7 +1,7 @@
 ---
 measure: H.R. 996
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 996
@@ -43,3 +43,6 @@ To designate the facility of the United States Postal Service located at 3901 Ma
 - 2023-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4942)
 - 2023-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4942)
 - 2023-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-02-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-02-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-02-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 329.
