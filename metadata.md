@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1240
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1240
@@ -51,3 +51,16 @@ Winnebago Land Transfer Act of 2023
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H406)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H406)
 - 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2024-05-01 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2024-06-03 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-180.
+- 2024-06-03 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-180.
+- 2024-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
+- 2024-06-20 — Message on Senate action sent to the House.
+- 2024-06-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S4172)
+- 2024-06-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S4172)
+- 2024-07-08 — Presented to President.
+- 2024-07-08 — Presented to President.
+- 2024-07-12 — Became Public Law No: 118-68.
+- 2024-07-12 — Became Public Law No: 118-68.
+- 2024-07-12 — Signed by President.
+- 2024-07-12 — Signed by President.
