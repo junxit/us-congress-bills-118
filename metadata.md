@@ -1,7 +1,7 @@
 ---
 measure: S. 3357
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3357
@@ -28,3 +28,6 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2023-11-29 — Introduced in Senate
 - 2023-11-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-02-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-02-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-02-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.
