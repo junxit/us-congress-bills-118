@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4051
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4051
@@ -24,9 +24,10 @@ Supporting the Health of Aquatic systems through Research Knowledge and Enhanced
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Supporting the Health of Aquatic systems through Research Knowledge and Enhanced
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H400-401)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H400-401)
+- 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
