@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1240
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1240
@@ -26,9 +26,10 @@ Winnebago Land Transfer Act of 2023
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Winnebago Land Transfer Act of 2023
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H406)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H406)
+- 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
