@@ -2,14 +2,14 @@
 legis-num: H. RES. 996
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 996
 
-> Providing for consideration of the resolution (H.Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors, and providing for consideration of the bill (H.R. 485) to amend title XI of the Social Security Act to prohibit the use of quality-adjusted life years and similar measures in coverage and payment determinations under Federal health care programs.
+> Providing for consideration of the resolution (H. Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors, and providing for consideration of the bill (H.R. 485) to amend title XI of the Social Security Act to prohibit the use of quality-adjusted life years and similar measures in coverage and payment determinations under Federal health care programs.
 
-That upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H.Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors. The amendment in the nature of a substitute recommended by the Committee on Homeland Security now printed in the resolution shall be considered as adopted. The previous question shall be considered as ordered on the resolution, as amended, to adoption without intervening motion or demand for division of the question except two hours of debate equally divided and controlled by the chair and ranking minority member of the Committee on Homeland Security or their respective designees.
+That upon adoption of this resolution it shall be in order without intervention of any point of order to consider in the House the resolution (H. Res. 863) impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors. The amendment in the nature of a substitute recommended by the Committee on Homeland Security now printed in the resolution shall be considered as adopted. The previous question shall be considered as ordered on the resolution, as amended, to adoption without intervening motion or demand for division of the question except two hours of debate equally divided and controlled by the chair and ranking minority member of the Committee on Homeland Security or their respective designees.
 
 ## § 2.
 
