@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 443
@@ -25,9 +25,10 @@ Enhancing Detection of Human Trafficking Act
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Enhancing Detection of Human Trafficking Act
 - 2024-02-05 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 33). (text: CR H407)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 33). (text: CR H407)
+- 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
