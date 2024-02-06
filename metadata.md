@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5009
@@ -55,3 +55,4 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H404-405)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H404-405)
+- 2024-02-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 332.
