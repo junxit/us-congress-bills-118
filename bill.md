@@ -11,9 +11,67 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Nationwide Permitting Improvement Act”.
+This Act may be cited as the “Creating Confidence in Clean Water Permitting Act”.
 
-## § 2. Permits for dredged or fill material
+## § 2. Water quality criteria development and transparency
+
+- **(a)** *Information and guidelines* Section 304(a) of the Federal Water Pollution Control Act (33 U.S.C. 1314(a)) is amended by adding at the end the following:
+  > - **(10)** *Administrative procedure* After the date of enactment of this paragraph, the Administrator shall issue any new or revised water quality criteria under paragraph (1) or (9) by rule.
+
+- **(b)** *Administrative procedure and judicial review* Section 509(b)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1369(b)(1)) is amended—
+  - **(1)** by striking “section 402, and” and inserting “section 402,”; and
+  - **(2)** by inserting “and (H) in issuing any criteria for water quality pursuant to section 304(a)(10),” after “strategy under section 304(l),”.
+
+## § 3. Federal general permits
+
+Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is amended by adding at the end the following:
+
+> - **(6)**
+>   - **(A)** The Administrator is authorized to issue general permits under this section for discharges of similar types from similar sources.
+>   - **(B)** The Administrator may require submission of a notice of intent to be covered under a general permit issued under this section, including additional information that the Administrator determines necessary.
+>   - **(C)** If a general permit issued under this section will expire and the Administrator decides not to issue a new general permit for discharges similar to those covered by the expiring general permit, the Administrator shall publish in the Federal Register a notice of such decision at least two years prior to the expiration of the general permit.
+>   - **(D)** If a general permit issued under this section expires and the Administrator has not published a notice in accordance with subparagraph (C), until such time as the Administrator issues a new general permit for discharges similar to those covered by the expired general permit, the Administrator shall—
+>     - **(i)** continue to apply the terms, conditions, and requirements of the expired general permit to any discharge that was covered by the expired general permit; and
+>     - **(ii)** apply such terms, conditions, and requirements to any discharge that would have been covered by the expired general permit (in accordance with any relevant requirements for such coverage) if the discharge had occurred before such expiration.
+
+## § 4. Confidence in clean water permits
+
+- **(a)** *Compliance with permits* Section 402(k) of the Federal Water Pollution Control Act (33 U.S.C. 1342(k)) is amended—
+  - **(1)** by striking “(k) Compliance with” and inserting the following:
+    > - **(k)** *Compliance with permits*
+    >   - **(1)** *In general* Subject to paragraph (2), compliance with
+
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Scope* For purposes of paragraph (1), compliance with the conditions of a permit issued under this section shall be considered compliance with respect to a discharge of—
+    >   - **(A)** any pollutant for which an effluent limitation is included in the permit; and
+    >   - **(B)** any pollutant for which an effluent limitation is not included in the permit that is—
+    >     - **(i)** specifically identified as controlled or monitored through indicator parameters in the permit, the fact sheet for the permit, or the administrative record relating to the permit;
+    >     - **(ii)** specifically identified during the permit application process as present in discharges to which the permit will apply; or
+    >     - **(iii)** whether or not specifically identified in the permit or during the permit application process—
+    >       - **(I)** present in any waste streams or processes of the point source to which the permit applies, which waste streams or processes are specifically identified during the permit application process; or
+    >       - **(II)** otherwise within the scope of any operations of the point source to which the permit applies, which scope of operations is specifically identified during the permit application process.
+
+- **(b)** *Expression of water quality-based effluent limitations* Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following:
+  > - **(t)** *Expression of water quality-based effluent limitations* If the Administrator (or a State, in the case of a permit program approved by the Administrator) determines that a water quality-based limitation on a discharge of a pollutant is necessary to include in a permit under this section in addition to any appropriate technology-based effluent limitations included in such permit, the Administrator (or the State) may include such water quality-based limitation in such permit only in the form of an effluent limitation that specifies—
+  >   - **(1)** the pollutant to which it applies; and
+  >   - **(2)** the numerical limit on the discharge of such pollutant, or the precise waterbody conditions to be attained with respect to such pollutant, required to comply with the permit.
+
+## § 5. Reducing permitting uncertainty
+
+- **(a)** *In general* Section 404(c) of the Federal Water Pollution Control Act (33 U.S.C. 1344(c)) is amended—
+  - **(1)** by striking “(c) The Administrator” and inserting the following:
+    > - **(c)** *Specification or use of defined area*
+    >   - **(1)** *In general* The Administrator
+
+  - **(2)** in paragraph (1), as so designated, by inserting “during the period described in paragraph (2) and” before “after notice and opportunity for public hearings”; and
+  - **(3)** by adding at the end the following:
+    > - **(2)** *Period of prohibition* The period during which the Administrator may prohibit the specification (including the withdrawal of specification) of any defined area as a disposal site, or deny or restrict the use of any defined area for specification (including the withdrawal of specification) as a disposal site, under paragraph (1) shall—
+    >   - **(A)** begin on the date on which an applicant submits all the information required to complete an application for a permit under this section; and
+    >   - **(B)** end on the date on which the Secretary issues the permit.
+
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply to a permit application submitted under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) after the date of enactment of this Act.
+
+## § 6. Nationwide permitting improvement
 
 - **(a)** *In general* Section 404(e) of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amended—
   - **(1)** by striking “(e)(1) In carrying” and inserting the following:
@@ -28,8 +86,8 @@ This Act may be cited as the “Nationwide Permitting Improvement Act”.
   - **(3)** by adding at the end the following:
     > - **(3)** *Considerations* In determining the environmental effects of an activity under paragraph (1) or (2), the Secretary shall consider only the effects of any discharge of dredged or fill material resulting from such activity.
     > - **(4)** *Nationwide permits for linear infrastructure projects*
-    >   - **(A)** *In general* Notwithstanding any other provision of this section, the Secretary shall maintain a general permit on a nationwide basis for linear infrastructure projects that do not result in the loss of greater than 1/2-acre of waters of the United States for each single and complete project (as defined in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this paragraph)).
-    >   - **(B)** *Definition of linear infrastructure project* In this paragraph, the term “linear infrastructure project” means a project to carry out any activity required for the construction, expansion, maintenance, modification, or removal of infrastructure and associated facility for the transmission from a point of origin to a terminal point of communications or electricity or the transportation from a point of origin to a terminal point of people, water, wastewater, carbon dioxide, or fuel or hydrocarbons (in the form of a liquid, liquescent, gaseous, or slurry substance or supercritical fluid), including oil and gas pipeline facilities.
+    >   - **(A)** *In general* Notwithstanding any other provision of this section, the Secretary shall maintain general permits on a nationwide basis for linear infrastructure projects that do not result in the loss of greater than 1/2-acre of waters of the United States for each single and complete project (as defined in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this paragraph)).
+    >   - **(B)** *Definition of linear infrastructure project* In this paragraph, the term linear infrastructure project means a project to carry out any activity required for the construction, expansion, maintenance, modification, or removal of infrastructure and associated facility for the transmission from a point of origin to a terminal point of communications or electricity or the transportation from a point of origin to a terminal point of people, water, wastewater, carbon dioxide, or fuel or hydrocarbons (in the form of a liquid, liquescent, gaseous, or slurry substance or supercritical fluid), including oil and gas pipeline facilities.
     > - **(5)** *Reissuance of nationwide permits* In determining whether to reissue a general permit issued under this subsection on a nationwide basis—
     >   - **(A)** no consultation with an applicable State pursuant to section 6(a) of the Endangered Species Act of 1973 (16 U.S.C. 1535(a)) is required;
     >   - **(B)** no consultation with a Federal agency pursuant to section 7(a)(2) of such Act (16 U.S.C. 1536(a)(2)) is required; and
@@ -39,3 +97,33 @@ This Act may be cited as the “Nationwide Permitting Improvement Act”.
   - **(1)** general condition 15 (relating to single and complete projects), as included in the final rule titled “Reissuance and Modification of Nationwide Permits” and published on January 13, 2021, by the Department of the Army, Corps of Engineers (86 Fed. Reg. 2868);
   - **(2)** the definition of single and complete linear project, as included in such final rule (86 Fed. Reg. 2877); or
   - **(3)** the definition of single and complete project, as included in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+## § 7. Judicial review timeline clarity
+
+Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amended—
+
+- **(1)** by redesignating subsection (t) as subsection (u);
+- **(2)** in subsection (u), as so redesignated, by striking “Nothing in the section” and inserting “Savings provision.—Nothing in this section”; and
+- **(3)** by inserting after subsection (s) the following:
+  > - **(t)** *Judicial review*
+  >   - **(1)** *Statute of limitations*
+  >     - **(A)** *In general* Notwithstanding any applicable provision of law relating to statutes of limitations, an action seeking judicial review of—
+  >       - **(i)** an individual or general permit issued under this section shall be filed not later than the date that is 60 days after the date on which the permit was issued; and
+  >       - **(ii)** verification that an activity is authorized by a general permit issued under this section shall be filed not later than the date that is 60 days after the date on which such verification was issued.
+  >     - **(B)** *Savings provision* Nothing in subparagraph (A) may be construed to authorize an action seeking judicial review of the structure of, or authorization for, a State permit program approved pursuant to this section.
+  >   - **(2)** *Limitation on commencement of certain actions* Notwithstanding any other provision of law, no action described in paragraph (1)(A) may be commenced unless the action—
+  >     - **(A)** is filed by a party that submitted a comment, during the public comment period for the administrative proceedings related to the applicable action described in such paragraph, which comment was sufficiently detailed to put the Secretary or the State, as applicable, on notice of the issue upon which the party seeks judicial review; and
+  >     - **(B)** is related to such comment.
+  >   - **(3)** *Remedy* If a court determines that the Secretary or the State, as applicable, did not comply with the requirements of this section in issuing an individual or general permit under this section, or in verifying that an activity is authorized by a general permit issued under this section, as applicable—
+  >     - **(A)** the court shall remand the matter to the Secretary or the State, as applicable, for further proceedings consistent with the court’s determination;
+  >     - **(B)** with respect to a determination regarding the issuance of an individual or general permit under this section, the court may not vacate, revoke, enjoin, or otherwise limit the permit, unless the court finds that activities authorized under the permit would present an imminent and substantial danger to human health or the environment for which there is no other equitable remedy available under the law; and
+  >     - **(C)** with respect to a determination regarding a verification that an activity is authorized by a general permit issued under this section, the court may not enjoin the activity, unless the court finds that the activity would present an imminent and substantial danger to human health or the environment for which there is no other equitable remedy available under the law.
+  >   - **(4)** *Timeline to act on court order* If a court remands a matter under paragraph (2), the court shall set and enforce a reasonable schedule and deadline, which may not exceed 180 days from the date on which the court remands such matter, except as otherwise required by law, for the Secretary or the State, as applicable, to take such actions as the court may order.
+
+## § 8. Implementation guidance
+
+- **(a)** *In general* Not later than 30 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency and the Secretary of the Army, acting through the Chief of Engineers, shall begin a process to issue guidance on the implementation of the final rule published on September 8, 2023, by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency and titled “Revised Definition of “Waters of the United States”; Conforming” (88 Fed. Reg. 61964).
+- **(b)** *Public comment* In issuing the guidance required under subsection (a), the Administrator and the Secretary shall—
+  - **(1)** prior to such issuance, solicit comments from the public on such guidance; and
+  - **(2)** ensure that such comments and any responses to such comments are made publicly available.
+- **(c)** *Compliance* Any guidance issued pursuant to this section shall comply with the decision of the Supreme Court in Sackett v. EPA, 598 U.S. 651 (2023).

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7023
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+17 amendatory instructions. 3 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 33 U.S.C. § 1369
+
+> by striking “section 402, and” and inserting “section 402,”; and
+
+| | |
+|---|---|
+| Removed | `section 402, and` |
+| Inserted | `section 402,` |
 
 ### 33 U.S.C. § 1344
 
@@ -33,6 +42,15 @@ to guess them.
 | Removed | `five years` |
 | Inserted | `ten years` |
 
+### 33 U.S.C. § 1344
+
+> in subsection (u), as so redesignated, by striking “Nothing in the section” and inserting “Savings provision.—Nothing in this section”; and
+
+| | |
+|---|---|
+| Removed | `Nothing in the section` |
+| Inserted | `Savings provision.—Nothing in this section` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -42,6 +60,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `33 U.S.C. § 1314` | add-at-end | Section 304(a) of the Federal Water Pollution Control Act (33 U.S.C. 1314(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1369` | insert | by inserting “and (H) in issuing any criteria for water quality pursuant to section 304(a)(10),” after “strategy under section 304(l),”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1342` | add-at-end | Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | replace | by striking “(k) Compliance with” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1342` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1344` | replace | by striking “(c) The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1344` | insert | in paragraph (1), as so designated, by inserting “during the period described in paragraph (2) and” before “after notice and opportunity for public hearings”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1344` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1344` | replace | by striking “(e)(1) In carrying” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1344` | replace | by striking “(2) No general” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1535` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1344` | redesignate | by redesignating subsection (t) as subsection (u); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1344` | insert | by inserting after subsection (s) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
