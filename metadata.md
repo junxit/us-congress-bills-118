@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2997
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2997
@@ -21,9 +21,10 @@ CONVEY Act
 - Rep. Buck, Ken [R-CO-4] (B001297)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ CONVEY Act
 - 2024-02-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H397)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H397)
+- 2024-02-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
