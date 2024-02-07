@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 85
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 85
@@ -33,3 +33,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2024-02-06 — On agreeing to the resolution Agreed to without objection. (text: CR H486)
 - 2024-02-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H486)
 - 2024-02-07 — Received in the Senate.
+- 2024-04-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2695)
+- 2024-04-10 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2695)
+- 2024-04-15 — Message on Senate action sent to the House.
