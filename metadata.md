@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1727
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1727
@@ -55,3 +55,12 @@ Chesapeake and Ohio Canal National Historical Park Commission Extension Act
 - 2024-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 2 (Roll no. 36).
 - 2024-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 427 - 2 (Roll no. 36).
 - 2024-02-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7078)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-163.
+- 2024-12-23 — Became Public Law No: 118-163.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
