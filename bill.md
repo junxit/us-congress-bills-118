@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 7280
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7280
+
+> To require the Inspector General of the Department of Housing and Urban Development to testify before the Congress annually, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “HUD Transparency Act of 2024”.
+
+## § 2. Congressional testimony
+
+Not later than October 1 of each year, the Inspector General of the Department of Housing and Urban Development shall appear before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and present testimony on the Office of Inspector General’s—
+
+- **(1)** efforts to detect and prevent fraud, waste, and abuse;
+- **(2)** ability to conduct and supervise audits, investigations, and reviews;
+- **(3)** actions to identify opportunities for the programs of the Department of Housing and Urban Development to progress and succeed; and
+- **(4)** ongoing activities regarding any such additional work, as appropriate.
