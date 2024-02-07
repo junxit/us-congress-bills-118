@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 485
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -42,3 +42,15 @@ This Act may be cited as the “Protecting Health Care for All Patients Act of 2
     > - **(h)** *Prohibition on use of quality-adjusted life years* The provisions of section 1182(e) shall apply to the utilization of a dollars-per-quality adjusted life year or similar measure (as described in such section) by a prescription drug plan in the same manner as such provisions apply to the utilization of such a year or measure by the Secretary under this title.
 
 - **(c)** *Implementation* The amendments made by this section shall apply beginning on January 1, 2025.
+
+## § 3. Prevention and Public Health Fund
+
+Section 4002(b) of the Patient Protection and Affordable Care Act (42 U.S.C. 300u–11) is amended by striking paragraphs (7), (8), and (9) and inserting the following:
+
+> - **(7)** for each of fiscal years 2024 and 2025, $1,102,000,000;
+> - **(8)** for each of fiscal years 2026 and 2027, $1,327,000,000;
+> - **(9)** for each of fiscal years 2028 and 2029, $1,526,000,000; and
+
+## § 4. Report
+
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall submit to Congress a report on how quality-adjusted life years negatively impacts individuals with intellectual and developmental disabilities and their access to care.
