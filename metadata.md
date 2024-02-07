@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6009
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6009
@@ -16,7 +16,7 @@ Restoring American Energy Dominance Act
 
 - Rep. Boebert, Lauren [R-CO-3] (B000825)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
@@ -28,6 +28,8 @@ Restoring American Energy Dominance Act
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
 
 ## Committees (1)
 
@@ -38,3 +40,8 @@ Restoring American Energy Dominance Act
 - 2023-10-20 — Introduced in House
 - 2023-10-20 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Natural Resources.
+- 2023-12-06 — Committee Consideration and Mark-up Session Held
+- 2023-12-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 18.
+- 2024-02-07 — Placed on the Union Calendar, Calendar No. 307.
+- 2024-02-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-376.
+- 2024-02-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-376.
