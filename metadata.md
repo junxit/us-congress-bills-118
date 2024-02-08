@@ -1,7 +1,7 @@
 ---
 measure: H.R. 485
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 485
@@ -24,10 +24,11 @@ Protecting Health Care for All Patients Act of 2023
 - Rep. Hern, Kevin [R-OK-1] (H001082)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -74,3 +75,4 @@ Protecting Health Care for All Patients Act of 2023
 - 2024-02-07 — The Speaker designated the Honorable Daniel Meuser to act as Chairman of the Committee.
 - 2024-02-07 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-02-07 — The previous question was ordered pursuant to the rule.
+- 2024-02-08 — Received in the Senate and Read twice and referred to the Committee on Finance.
