@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3415
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3415
@@ -42,3 +42,4 @@ Pilot Butte Power Plant Conveyance Act
 - 2024-02-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 02/05/2024 CR H399)
 - 2024-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 02/05/2024 CR H399)
+- 2024-02-08 — Received in the Senate.
