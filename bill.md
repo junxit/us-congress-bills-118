@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1147
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,7 +25,7 @@ This Act may be cited as the “Jenna Quinn Law”.
 
 - **(b)** *Report on effectiveness of expenditures* Not later than 5 years after the date on which the first grant is awarded under paragraph (8) of section 105(a) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106(a)), as added by subsection (a), the Comptroller General of the United States shall—
   - **(1)** prepare a report that describes the projects for which funds are expended under paragraph (8) of such section 105(a)(8) and evaluates the effectiveness of those projects; and
-  - **(2)** submit the report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+  - **(2)** submit the report to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives.
 - **(c)** *Report on duplicative nature of expenditures* Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall—
   - **(1)** prepare a report that examines whether the projects described in subsection (b) are duplicative of other activities supported by Federal funds; and
-  - **(2)** submit the report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+  - **(2)** submit the report to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives.
