@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3195
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ This Act may be cited as the “Superior National Forest Restoration Act”.
   - **(1)** with respect to such Mine Plans of Operations submitted before the date of the enactment of this section, not later than 18 months after the date of enactment of this section; and
   - **(2)** with respect to a Mine Plan of Operations submitted or resubmitted in the 7 year period beginning on the date of the enactment of this section, not later than 18 months after the date on which such Mine Plan of Operations is submitted or resubmitted.
 - **(c)** *Reissuance of mineral leases*
-  - **(1)** *In general* The Secretary shall issue each mineral lease, preference right lease, and prospecting permit canceled by the Secretary relating to lands within Superior National Forest during the period beginning on January 31, 2021 and ending on the date of the enactment of this section on the same terms as were in effect on the date of such cancellations.
+  - **(1)** *In general* The Secretary shall issue each mineral lease, preference right lease, and prospecting permit canceled by the Secretary relating to lands within Superior National Forest during the period beginning on January 31, 2021, and ending on the date of the enactment of this section on the same terms as were in effect on the date of such cancellations.
   - **(2)** *Judicial review* A lease or permit issued under paragraph (1) is not subject to judicial review.
 - **(d)** *Secretary defined* For the purposes of this section, the term “Secretary” means—
   - **(1)** the Secretary of the Interior; or

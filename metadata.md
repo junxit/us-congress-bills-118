@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3195
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3195
@@ -16,7 +16,7 @@ Superior National Forest Restoration Act
 
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
@@ -30,6 +30,7 @@ Superior National Forest Restoration Act
 - Rep. Duarte, John S. [R-CA-13] (D000633)
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
 
 ## Committees (1)
 
@@ -41,3 +42,10 @@ Superior National Forest Restoration Act
 - 2023-05-10 — Introduced in House
 - 2023-05-10 — Referred to the House Committee on Natural Resources.
 - 2023-05-10 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2023-05-11 — Subcommittee Hearings Held.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 21 - 17.
+- 2023-05-17 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2024-02-09 — Placed on the Union Calendar, Calendar No. 308.
+- 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-377.
+- 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-377.
