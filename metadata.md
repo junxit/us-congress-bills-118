@@ -1,7 +1,7 @@
 ---
 measure: S. 1147
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1147
@@ -42,3 +42,18 @@ Jenna Quinn Law
 - 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1594 proposed by Senator Schumer for Senator Cornyn.
 - 2024-02-09 — Senate amendment submitted
 - 2024-02-09 — Senate amendment submitted
+- 2024-02-12 — Message on Senate action sent to the House.
+- 2024-02-13 — Held at the desk.
+- 2024-02-13 — Received in the House.
+- 2024-12-17 — Considered under suspension of the rules. (consideration: CR H7261-7263)
+- 2024-12-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1147.
+- 2024-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-17 — Ms. Foxx moved to suspend the rules and pass the bill.
+- 2024-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7261)
+- 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7261)
+- 2024-12-23 — Became Public Law No: 118-193.
+- 2024-12-23 — Became Public Law No: 118-193.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
