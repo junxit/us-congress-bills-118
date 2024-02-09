@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6591
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,4 +22,4 @@ This Act may be cited as the “Encouraging Success Act”.
   >   - **(iii)** To the extent practicable, the Administrator shall coordinate the activities carried out under clause (i) with the activities required under section 1344(a)(2) of the Small Business Jobs Act of 2010 (15 U.S.C. 632 note).
   >   - **(iv)** In this subparagraph, the term “covered revision” means a revision described in clause (i) that the Administrator determines is appropriate pursuant to an assessment under such clause.
 
-- **(b)** *Compliance with CUTGO* No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and the amendments made by this Act shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
+- **(b)** *Compliance with Cutgo* No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
