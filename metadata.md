@@ -1,7 +1,7 @@
 ---
 measure: S. 1258
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1258
@@ -16,12 +16,13 @@ Billion Dollar Boondoggle Act of 2023
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ Billion Dollar Boondoggle Act of 2023
 
 - 2023-04-25 — Introduced in Senate
 - 2023-04-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-10-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-02-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-157.
+- 2024-02-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-157.
+- 2024-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
