@@ -1,7 +1,7 @@
 ---
 measure: H.R. 815
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 815
@@ -16,7 +16,7 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (6)
+## Cosponsors (284)
 
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
@@ -24,10 +24,301 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
+
+## Recorded votes (10)
+
+- 2023-12-06 — [Senate 118-1-332](votes/senate-118-1-0332.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (49–51)
+- 2024-02-07 — [Senate 118-2-39](votes/senate-118-2-0039.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (49–50)
+- 2024-02-08 — [Senate 118-2-41](votes/senate-118-2-0041.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (67–32)
+- 2024-02-09 — [Senate 118-2-42](votes/senate-118-2-0042.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (64–19)
+- 2024-02-11 — [Senate 118-2-43](votes/senate-118-2-0043.md) — On the Motion to Table — **Motion to Table Failed** (40–53)
+- 2024-02-11 — [Senate 118-2-44](votes/senate-118-2-0044.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–27)
+- 2024-02-12 — [Senate 118-2-45](votes/senate-118-2-0045.md) — On the Motion — **Motion Agreed to** (66–33)
+- 2024-02-12 — [Senate 118-2-46](votes/senate-118-2-0046.md) — On the Amendment — **Amendment Agreed to** (66–33)
+- 2024-02-12 — [Senate 118-2-47](votes/senate-118-2-0047.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–33)
+- 2024-02-13 — [Senate 118-2-48](votes/senate-118-2-0048.md) — On Passage of the Bill — **Bill Passed** (70–29)
 
 ## Actions
 
@@ -44,3 +335,773 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - 2023-03-08 — Received in the Senate.
 - 2023-03-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2023-03-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
+- 2023-11-09 — Cloture motion on the motion to proceed to the measure presented in Senate.
+- 2023-11-09 — Motion to proceed to consideration of measure made in Senate.
+- 2023-11-19 — Under the order of 11/13/2023, cloture motion on the motion to proceed withdrawn by unanimous consent in Senate.
+- 2023-12-04 — Motion to proceed to consideration of measure made in Senate. (CR S5709)
+- 2023-12-04 — Second cloture motion on the motion to proceed to the measure presented in Senate. (CR S5709)
+- 2023-12-06 — 
+- 2023-12-06 — Motion by Senator Schumer to reconsider the vote by which the second cloture motion on the motion to proceed to H.R. 815 was not invoked (Record Vote No. 332) entered in Senate.
+- 2023-12-06 — Motion to proceed to consideration of measure made in Senate. (CR S5767)
+- 2023-12-06 — Second cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 332. (CR S5793)
+- 2023-12-06 — Senate amendment submitted
+- 2023-12-06 — Senate amendment submitted
+- 2023-12-07 — 
+- 2023-12-07 — Motion to proceed to measure considered in Senate. (CR S5831)
+- 2023-12-07 — Senate amendment submitted
+- 2023-12-07 — Senate amendment submitted
+- 2024-02-05 — 
+- 2024-02-05 — Motion to proceed to consideration of measure made in Senate. (CR S354)
+- 2024-02-05 — Senate amendment submitted
+- 2024-02-05 — Senate amendment submitted
+- 2024-02-05 — Third cloture motion on the motion to proceed to the measure presented in Senate. (CR S354)
+- 2024-02-06 — 
+- 2024-02-06 — Senate amendment submitted
+- 2024-02-06 — Senate amendment submitted
+- 2024-02-07 — 
+- 2024-02-07 — 
+- 2024-02-07 — 
+- 2024-02-07 — 
+- 2024-02-07 — 
+- 2024-02-07 — Motion by Senator Schumer to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 39) agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 40.
+- 2024-02-07 — Motion by Senator Schumer to reconsider the vote by which the second cloture motion on the motion to proceed to H.R. 815 was not invoked (Record Vote No. 332) rendered moot in Senate.
+- 2024-02-07 — Motion by Senator Schumer to reconsider the vote by which the third cloture motion on the motion to proceed to the measure was not invoked (Record Vote No. 39) was agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 40.
+- 2024-02-07 — Motion to proceed to measure considered in Senate. (CR S427)
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Senate amendment submitted
+- 2024-02-07 — Third cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 39.
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — 
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Senate amendment submitted
+- 2024-02-08 — Upon reconsideration, third cloture motion on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 41.
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — 
+- 2024-02-09 — Amendment SA 1388 proposed by Senator Schumer for Senator Murray. (consideration: CR S593) In the nature of a substitute.
+- 2024-02-09 — Amendment SA 1577 proposed by Senator Schumer to Amendment SA 1388. (consideration: CR S593) To add an effective date.
+- 2024-02-09 — Amendment SA 1578 proposed by Senator Schumer to Amendment SA 1577. (consideration: CR S593) To add an effective date.
+- 2024-02-09 — Amendment SA 1579 proposed by Senator Schumer to language proposed to be stricken by amendment no. 1388. (consideration: CR S593) To add an effective date.
+- 2024-02-09 — Amendment SA 1580 proposed by Senator Schumer to Amendment SA 1579. (consideration: CR S593) To add an effective date.
+- 2024-02-09 — Amendment SA 1581 proposed by Senator Schumer. (consideration: CR S593) To add an effective date.
+- 2024-02-09 — Amendment SA 1582 proposed by Senator Schumer to Amendment SA 1581 (the instructions of the motion to commit). (consideration: CR S594) To add an effective date.
+- 2024-02-09 — Amendment SA 1583 proposed by Senator Schumer to Amendment SA 1582. (consideration: CR S594) To add an effective date.
+- 2024-02-09 — Cloture motion on amendment SA 1388 presented in Senate. (CR S593)
+- 2024-02-09 — Cloture motion on the measure presented in Senate. (CR S594)
+- 2024-02-09 — Measure laid before Senate by motion. (consideration: CR S593-594)
+- 2024-02-09 — Motion by Senator Schumer to commit to Senate Committee on Veterans' Affairs with instructions to report back forthwith with the following amendment (SA 1581) made in Senate. (text: CR S593)
+- 2024-02-09 — Motion by Senator Schumer to reconsider the vote by which the second cloture motion on the motion to proceed to H.R. 815 was not invoked (Record Vote No. 332) rendered moot in Senate.
+- 2024-02-09 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 64 - 19. Record Vote Number: 42.
+- 2024-02-09 — Motion to proceed to measure considered in Senate. (CR S565)
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1388 proposed by Senator Schumer for Senator Murray.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1577 proposed by Senator Schumer to Amendment SA 1388.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1578 proposed by Senator Schumer to Amendment SA 1577.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1579 proposed by Senator Schumer to language proposed to be stricken by amendment no. 1388.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1580 proposed by Senator Schumer to Amendment SA 1579.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1581 proposed by Senator Schumer.
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1582 proposed by Senator Schumer to Amendment SA 1581 (the instructions of the motion to commit).
+- 2024-02-09 — Senate amendment proposed (on the floor): Amendment SA 1583 proposed by Senator Schumer to Amendment SA 1582.
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-09 — Senate amendment submitted
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — 
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805)
+- 2024-02-10 — Considered by Senate. (consideration: CR S805-831)
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-10 — Senate amendment submitted
+- 2024-02-11 — 
+- 2024-02-11 — 
+- 2024-02-11 — 
+- 2024-02-11 — 
+- 2024-02-11 — 
+- 2024-02-11 — Cloture on SA 1388 invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 44.
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838)
+- 2024-02-11 — Considered by Senate. (consideration: CR S838-856)
+- 2024-02-11 — Motion by Senator Schumer to commit to Senate Committee on Veterans' Affairs with instructions to report forthwith with the following Senate amendment (SA 1581) fell when cloture was invoked on amendment SA 1388 in Senate.
+- 2024-02-11 — Motion to table the motion by Senator Schumer to commit the bill (H.R. 815) to Senate Committee on Veterans' Affairs with instructions to report back forthwith with amendment SA 1581 rejected in Senate by Yea-Nay Vote. 40 - 53. Record Vote Number: 43.
+- 2024-02-11 — Roll call votes on amendments in Senate: Cloture on SA 1388 invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 44.
+- 2024-02-11 — SA 1582 fell when SA 1581 (the instructions of the motion to commit) fell.
+- 2024-02-11 — SA 1583 fell when SA 1582 fell.
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-11 — Senate amendment submitted
+- 2024-02-12 — 
+- 2024-02-12 — Amendment SA 1388 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 46.
+- 2024-02-12 — Cloture invoked in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 47. (CR S907)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859, S906)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859, S906)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859, S907)
+- 2024-02-12 — Considered by Senate. (consideration: CR S859-953)
+- 2024-02-12 — Motion to table amendment SA 1577 agreed to in Senate by Voice Vote.
+- 2024-02-12 — Motion to table amendment SA 1579 agreed to in Senate by Voice Vote.
+- 2024-02-12 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 45. (CR S906-907)
+- 2024-02-12 — Point of order that the emergency designations within the amendment violates the Congressional Budget Act of 1974 raised in Senate with respect to amendment SA 1388.
+- 2024-02-12 — Roll call votes on amendments in Senate: Amendment SA 1388 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 46.
+- 2024-02-12 — SA 1578 fell when SA 1577 was tabled.
+- 2024-02-12 — SA 1580 fell when SA 1579 was tabled.
+- 2024-02-12 — Senate amendment agreed to: Amendment SA 1388 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 46.
+- 2024-02-12 — Senate amendment submitted
+- 2024-02-12 — Senate amendment submitted
+- 2024-02-13 — Message on Senate action sent to the House.
+- 2024-02-13 — Passed Senate with an amendment by Yea-Nay Vote. 70 - 29. Record Vote Number: 48.
+- 2024-02-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 70 - 29. Record Vote Number: 48.

@@ -1,23 +1,24 @@
 ---
 legis-num: H.R. 815
 congress: 118th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 815
 
-> To amend title 38, United States Code, to make certain improvements relating to the eligibility of veterans to receive reimbursement for emergency treatment furnished through the Veterans Community Care program, and for other purposes.
+That the bill from the House of Representatives (H.R. 815) entitled “An Act to amend title 38, United States Code, to make certain improvements relating to the eligibility of veterans to receive reimbursement for emergency treatment furnished through the Veterans Community Care program, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Removing Extraneous Loopholes Insuring Every Veteran Emergency Act” or the “RELIEVE Act”.
+This Act may be cited as the “National Security Act, 2024”.
 
-## § 2. Eligibility requirements for reimbursement for emergency treatment furnished to veterans
+## § 2. Table of contents
 
-- **(a)** *Eligibility requirements* Section 1725(b)(2)(B) of title 38, United States Code, is amended by inserting “, unless such emergency treatment was furnished during the 60-day period following the date on which the veteran enrolled in the health care system specified in subparagraph (A), in which case no requirement for prior receipt of care shall apply” before the period.
-- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to emergency treatment furnished on or after the date that is one year after the date of the enactment of this Act.
+The table of contents of this Act is as follows:
 
-## § 3. Modification of certain housing loan fees
+## § 3. References
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 14, 2031” each place it appears and inserting “December 28, 2031”.
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
