@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 7330
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7330
+
+> To amend the Secure Fence Act of 2006 to authorize certain States to erect temporary protective fencing within 25 miles of the southwest border to deter unlawful immigration, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “State Border Security Act”.
+
+## § 2. Removal of protective fencing
+
+Section 2 of the Secure Fence Act of 2006 (Public Law 109–367; 8 U.S.C. 1701 note) is amended—
+
+- **(1)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
+- **(2)** by inserting after subsection (a) the following new subsection:
+  > - **(b)** *Prohibition against removing protective fencing*
+  >   - **(1)** *In general* Subject to paragraph (2) and notwithstanding any other provision of law, no employee or agent of the Federal Government may execute or enforce any provision of the Immigration and Nationality Act by dismantling, removing, destroying, or tampering with concertina wire, razor wire, barbed wire, or other protective fencing erected by a State government within 25 miles of the international border between the United States and Mexico.
+  >   - **(2)** *Exception* The prohibition described in paragraph (1) shall not apply in situations with respect to which the Federal Government demonstrates, by clear and convincing evidence, that the fencing referred to in such paragraph was erected by a State government with the intention of facilitating unlawful immigration rather than deterring unlawful immigration.
+  >   - **(3)** *Injunctive relief* The Attorney General may seek injunctive relief in an appropriate Federal district court to order any State that has erected protective fencing intended to facilitate unlawful immigration to remove such fencing by meeting the evidentiary standard described in paragraph (2).
+
+- **(3)** in subsection (c), as so redesignated—
+  - **(A)** by striking the heading and inserting “Definitions”;
+  - **(B)** by striking “In this section, the term “operational control” means” and inserting the following:
+    > In this section:
+    > - **(1)** *Operational control* The term “operational control” means
+
+  - **(C)** by adding at the end the following new paragraph:
+    > - **(2)** *Protective fencing* The term “protective fencing” means fencing that is reasonably calculated to deter unlawful border crossings by aliens outside a port of entry.
