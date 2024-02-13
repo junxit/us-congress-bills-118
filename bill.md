@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6276
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -52,7 +52,7 @@ Not later than 1 year after the date of enactment of this Act, and annually ther
 
 ## § 6. Headquarters buildings
 
-- **(a)** *Headquarters consolidations* Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Administrator, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a plan to consolidate department and agency headquarters buildings in the National Capital Region that will result in building utilizations of 60 percent or greater.
+- **(a)** *Headquarters consolidations* Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Administrator, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Comptroller General of the United States a plan to consolidate department and agency headquarters buildings in the National Capital Region that will result in building utilizations of 60 percent or greater.
 - **(b)** *Contents* The plan submitted under subsection (a) shall include details on the following:
   - **(1)** Which departments and agencies will collocate and consolidate and into which buildings and associated details before and after plan implementation related to building utilization, building capacities, and actual utilization.
   - **(2)** Details on the strategies for the sale or disposal of buildings that will no longer be needed for Federal use.
