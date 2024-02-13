@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5687
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,7 +24,7 @@ This Act may be cited as the “HSA Modernization Act of 2023”.
   > - **(iv)** entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act by reason of section 226(a) of such Act.
 
 - **(b)** *Treatment of health insurance purchased from account* Section 223(d)(2)(C)(iv) of such Code is amended by inserting “and who is not an eligible individual” after “who has attained the age specified in section 1811 of the Social Security Act”.
-- **(c)** *Coordination with penalty on distributions not used for qualified medical expenses* Section 223(f)(4)(C) of such Code is amended by striking “Subparagraph (A)” and inserting “Except in the case of an eligible individual, subparagraph (A)”.
+- **(c)** *Coordination with penalty on distributions not used for qualified medical expenses* Section 223(f)(4)(C) of such Code is amended by striking “Subparagraph (A)” and inserting “Except in the case of an eligible individual, subparagraph (A)”
 - **(d)** *Conforming amendment* Section 223(b)(7) of such Code is amended by inserting “(other than an entitlement to benefits described in subsection (c)(1)(B)(iv))” after “Social Security Act”.
 - **(e)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2025, in taxable years ending after such date.
 
@@ -80,5 +80,5 @@ This Act may be cited as the “HSA Modernization Act of 2023”.
 ## § 10. Clarification of treatment of distributions from health savings account for long-term care services
 
 - **(a)** *In general* Section 223(d)(2)(A) of the Internal Revenue Code of 1986 is amended by inserting before the last sentence the following: “Such term includes amounts paid for qualified long-term care services (as defined in section 7702B(c)).”.
-- **(b)** *Effective date* The amendment made by this subsection shall apply to amounts paid after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to amounts paid after the date of the enactment of this Act.
 - **(c)** *No inference* Nothing contained in this section or the amendment made thereby shall be construed to create any inference with respect to any amounts paid on or before such date.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 223
 
-> Section 223(f)(4)(C) of such Code is amended by striking “Subparagraph (A)” and inserting “Except in the case of an eligible individual, subparagraph (A)”.
+> Section 223(f)(4)(C) of such Code is amended by striking “Subparagraph (A)” and inserting “Except in the case of an eligible individual, subparagraph (A)”
 
 | | |
 |---|---|
