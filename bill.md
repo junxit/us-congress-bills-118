@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7321
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7321
+
+> To amend the Federal Election Campaign Act of 1971 to modernize certain reporting requirements for electioneering communications, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Electronic Filing of Electioneering Communication Reports Act”.
+
+## § 2. Modernization of certain reporting requirements for electioneering communications
+
+Section 304(a)(11)(A)(i) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104(a)(11)(A)(i)) is amended by inserting “or makes electioneering communications” after “expenditures”.
