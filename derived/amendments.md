@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 18 executed, 11 stated and not applied.
+38 amendatory instructions. 18 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 7104
 
-> in the heading, by striking “GRANTS TO ASSIST IN THE RECOGNITION OF TRAFFICKING” and inserting “FREDERICK DOUGLASS HUMAN TRAFFICKING PREVENTION EDUCATION GRANTS”;
+> in the heading, by striking “Grants to assist in the recognition of trafficking” and inserting “Frederick Douglass Human Trafficking Prevention Education Grants”;
 
 | | |
 |---|---|
-| Removed | `GRANTS TO ASSIST IN THE RECOGNITION OF TRAFFICKING` |
-| Inserted | `FREDERICK DOUGLASS HUMAN TRAFFICKING PREVENTION EDUCATION GRANTS` |
+| Removed | `Grants to assist in the recognition of trafficking` |
+| Inserted | `Frederick Douglass Human Trafficking Prevention Education Grants` |
 
 ### 22 U.S.C. § 7114
 
@@ -53,21 +53,21 @@ to guess them.
 
 ### 22 U.S.C. § 7107
 
-> in the heading, by striking “Special” and inserting “Tier 2”; and
+> in the heading, by striking “special” and inserting “tier 2”; and
 
 | | |
 |---|---|
-| Removed | `Special` |
-| Inserted | `Tier 2` |
+| Removed | `special` |
+| Inserted | `tier 2` |
 
 ### 22 U.S.C. § 7107
 
-> in the matter preceding clause (i), by striking “the special watch list” and all that follows through “the country—” and inserting “the Tier 2 watchlist described in subparagraph (A) for more than 1 year immediately after the country consecutively—”;
+> in the matter preceding clause (i), by striking “the special watch list” and all that follows through “the country—” and inserting “the Tier 2 watch list described in subparagraph (A) for more than 2 years immediately after the country consecutively—”;
 
 | | |
 |---|---|
 | Removed | `the special watch list” and all that follows through “the country—` |
-| Inserted | `the Tier 2 watchlist described in subparagraph (A) for more than 1 year immediately after the country consecutively—` |
+| Inserted | `the Tier 2 watch list described in subparagraph (A) for more than 2 years immediately after the country consecutively—` |
 
 ### 22 U.S.C. § 7107
 
@@ -134,12 +134,12 @@ to guess them.
 
 ### 22 U.S.C. § 7110
 
-> in subsection (a), by striking “2018 through 2021, $13,822,000” and inserting “2024 through 2028, $17,000,000”;
+> in subsection (a), by striking “for each of the fiscal years 2018 through 2021, $13,822,000” and inserting “for each of the fiscal years 2024 through 2028, $17,000,000”;
 
 | | |
 |---|---|
-| Removed | `2018 through 2021, $13,822,000` |
-| Inserted | `2024 through 2028, $17,000,000` |
+| Removed | `for each of the fiscal years 2018 through 2021, $13,822,000` |
+| Inserted | `for each of the fiscal years 2024 through 2028, $17,000,000` |
 
 ### 22 U.S.C. § 7110
 
@@ -161,16 +161,16 @@ to guess them.
 
 ### 22 U.S.C. § 7110
 
-> in the matter preceding subparagraph (A), by striking “2018 through 2021, $65,000,000” and inserting “2024 through 2028, $89,500,000”;
+> in the matter preceding subparagraph (A), by striking “2018 through 2021, $65,000,000” and inserting “2024 through 2028, $116,400,000”;
 
 | | |
 |---|---|
 | Removed | `2018 through 2021, $65,000,000` |
-| Inserted | `2024 through 2028, $89,500,000` |
+| Inserted | `2024 through 2028, $116,400,000` |
 
 ### 22 U.S.C. § 7110
 
-> in subsection (d) in paragraph (1), by striking “2018 through 2021” and inserting “2024 through 2028, of which $35,000,000 is authorized to be appropriated for each fiscal year for the Office of Victims of Crime Housing Assistance Grants for Victims of Human Trafficking”.
+> in subsection (d)(1), by striking “2018 through 2021” and inserting “2024 through 2028, of which $35,000,000 is authorized to be appropriated for each fiscal year for the Office of Victims of Crime Housing Assistance Grants for Victims of Human Trafficking”.
 
 | | |
 |---|---|
@@ -197,12 +197,21 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 7104` | insert | in the matter preceding clause (i), by inserting “under a program named Frederick Douglass Human Trafficking Prevention Education Grants” after “may award grants”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7104` | insert | in clause (ii), by inserting “, linguistically accessible, and culturally responsive” after “age-appropriate”; | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7104` | insert | in the heading of subparagraph (C), by inserting “FOR FREDERICK DOUGLASS HUMAN TRAFFICKING PREVENTION EDUCATION GRANTS” after “PROGRAM REQUIREMENTS”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7104` | insert | in the heading of subparagraph (C), by inserting “for frederick douglass human trafficking prevention education grants” after “program requirements”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7104` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7801` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7107` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7107` | insert | in clause (ii), by inserting “in the year following such waiver under subparagraph (D)(ii)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7107` | strike | In paragraph (3)(B), in the matter preceding clause (i), by striking “clauses (i), (ii), and (iii) of”. | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 7110` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 7110` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7110` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151-1` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2151-1` | replace | in subparagraph (G), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2151-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2292a` | replace | by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2292a` | replace | by striking “that the funds” and inserting the following:— | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2292a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7107` | amend | Section 110(d)(1)(A) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(d)(1)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7102` | amend | Section 103(10) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(10)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7107` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7107` | replace | in subparagraph (H), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7107` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7110` | add-at-end | in subsection (c) by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
