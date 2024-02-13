@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5450
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5450
@@ -29,3 +29,8 @@ To amend the Small Business Act to modify the application of price evaluation pr
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Referred to the House Committee on Small Business.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2024-02-13 — Placed on the Union Calendar, Calendar No. 311.
+- 2024-02-13 — Reported (Amended) by the Committee on Small Business. H. Rept. 118-381.
+- 2024-02-13 — Reported (Amended) by the Committee on Small Business. H. Rept. 118-381.

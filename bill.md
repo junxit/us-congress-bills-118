@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5450
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,3 +15,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(E)** *Application to certain contracts* The requirements of subparagraph (A) shall apply to an unrestricted order issued under an unrestricted multiple award contract or the unrestricted portion of a contract that is partially set aside for competition restricted to small business concerns.
 
 - **(b)** *Rulemaking* Not later than 90 days after the date of the enactment of this section, the Administrator of the Small Business Administration shall revise any rules or guidance to implement the requirements of this section.
+- **(c)** *Compliance with Cutgo* No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
