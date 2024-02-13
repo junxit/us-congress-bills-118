@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3016
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,4 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4842` | insert | in the matter preceding subparagraph (A), by inserting “or international governmental organization,” after “foreign country,”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4842` | insert | in subparagraph (A), in the first sentence, by inserting “or international governmental organization” after “boycotting country”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4842` | insert | in subparagraph (D), in the first sentence, by inserting “or international governmental organization” after “boycotting country”. | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4842` | add-at-end | In section 1773(a) (50 U.S.C. 4842(a)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

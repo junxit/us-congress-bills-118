@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3016
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,3 +22,7 @@ The Anti-Boycott Act of 2018 is amended as follows:
   - **(A)** in the matter preceding subparagraph (A), by inserting “or international governmental organization,” after “foreign country,”;
   - **(B)** in subparagraph (A), in the first sentence, by inserting “or international governmental organization” after “boycotting country”; and
   - **(C)** in subparagraph (D), in the first sentence, by inserting “or international governmental organization” after “boycotting country”.
+- **(3)** In section 1773(a) (50 U.S.C. 4842(a)), by adding at the end the following:
+  > - **(6)** *Annual report* The President shall submit to Congress and make available to the public on an annual basis a report that contains—
+  >   - **(A)** a list of those foreign countries and international organizations that foster or impose boycotts and with respect to which this section applies; and
+  >   - **(B)** a description of those boycotts.
