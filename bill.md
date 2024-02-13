@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2426
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -54,4 +54,14 @@ Section 476 of the Social Security Act (42 U.S.C. 676), as amended by section 2,
 
 ## § 4. Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary such sums as are necessary to carry out this Act for fiscal year 2023, which shall remain available through fiscal year 2027.
+There is authorized to be appropriated to the Secretary such sums as are necessary to carry out this Act for fiscal year 2024, which shall remain available through fiscal year 2027.
+
+## § 5. Identifying and addressing conditions that lead to youth running away from foster care
+
+The Comptroller General of the United States shall submit to the Congress a written report that—
+
+- **(1)** contains a rigorous analysis of administrative data to determine the characteristics of youth who run away from foster care and other relevant information about foster care runaway episodes;
+- **(2)** includes information from interviews with recent foster youth runaways regarding their reasons for running away and what happened after they ran away, including any screening or other protocol followed by the State;
+- **(3)** includes a systematic review of research and evidence related to foster youth runaways;
+- **(4)** sets forth best practices for making foster care safe for youth and reducing the number of foster youth runaways; and
+- **(5)** makes recommendations to advance child welfare practices, after convening and consulting with a group of child welfare practitioners and professionals to inform the recommendations.
