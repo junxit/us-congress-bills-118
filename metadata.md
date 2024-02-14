@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 966
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 966
@@ -16,7 +16,7 @@ Condemning rape and sexual violence committed by Hamas in its war against Israel
 
 - Rep. Frankel, Lois [D-FL-22] (F000462)
 
-## Cosponsors (152)
+## Cosponsors (200)
 
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
 - Rep. Manning, Kathy E. [D-NC-6] (M001135)
@@ -170,13 +170,71 @@ Condemning rape and sexual violence committed by Hamas in its war against Israel
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Cartwright, Matt [D-PA-8] (C001090)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. Balint, Becca [D-VT-At Large] (B001318)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Amo, Gabe [D-RI-1] (A000380)
+- Rep. Jackson, Jeff [D-NC-14] (J000308)
+- Rep. Hoyle, Val T. [D-OR-4] (H001094)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Steil, Bryan [R-WI-1] (S001213)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Wexton, Jennifer [D-VA-10] (W000825)
+- Rep. Caraveo, Yadira [D-CO-8] (C001134)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Sorensen, Eric [D-IL-17] (S001225)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Strickland, Marilyn [D-WA-10] (S001159)
+- Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2024-02-14 — [House 118-2-44](votes/house-118-2-0044.md) — On Motion to Suspend the Rules and Agree — **Passed** (418–0)
 
 ## Actions
 
 - 2024-01-16 — Introduced in House
 - 2024-01-16 — Introduced in House
 - 2024-01-16 — Referred to the House Committee on Foreign Affairs.
+- 2024-02-14 — Considered under suspension of the rules. (consideration: CR H612-616)
+- 2024-02-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 966.
+- 2024-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-14 — Mr. Self moved to suspend the rules and agree to the resolution.
+- 2024-02-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0, 1 Present (Roll no. 44). (text: CR H612-613)
+- 2024-02-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0, 1 Present (Roll no. 44). (text: CR H612-613)
