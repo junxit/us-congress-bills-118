@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1796
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -126,7 +126,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5174` | strike | by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5174` | redesignate | by redesignating subparagraphs (G), (H), (I), and (J) as subparagraphs (F), (G), (H), and (I), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5174` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5165b` | add-at-end | Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)(C)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5165b` | add-at-end | Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5174` | strike | by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5131` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

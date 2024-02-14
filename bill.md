@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1796
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,8 +20,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Establishment of unified disaster application system*
   - **(1)** *In general* The Administrator of the Federal Emergency Management Agency shall establish and maintain a web-based interagency electronic information sharing system, to be known as the “unified disaster application system”, to—
     - **(A)** facilitate the administration of the universal application for direct Federal disaster assistance established under section 3;
-    - **(B)** carry out the purposes of disaster assistance programs swiftly, efficiently, equitably, and in accordance with applicable laws, regulations, and the privacy and data protections provided under this section; and
-    - **(C)** support the detection, prevention, and investigation of waste, fraud, abuse, inequitable allocation of resources, or discrimination in the administration of disaster assistance programs.
+    - **(B)** carry out the purposes of disaster assistance programs swiftly, efficiently, and in accordance with applicable laws, regulations, and the privacy and data protections provided under this section; and
+    - **(C)** support the detection, prevention, and investigation of waste, fraud, abuse, or discrimination in the administration of disaster assistance programs.
   - **(2)** *Authorities of administrator* In establishing and maintaining the unified disaster application system under this subsection, the Administrator may collect and maintain disaster assistance information received from a disaster assistance agency, a block grant recipient, or an applicant for a disaster assistance program and share such information with any other disaster assistance agency or block grant recipient using such system.
   - **(3)** *Requirements* The Administrator shall ensure that the unified disaster application system established and maintained under this subsection—
     - **(A)** allows an applicant to receive status updates on an application for disaster assistance programs submitted though such system;
@@ -175,11 +175,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 7. Management costs
 
-- **(a)** *In general* Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)(C)) is amended by adding at the end the following:
+- **(a)** *In general* Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)) is amended by adding at the end the following:
   > - **(C)** *Individual assistance* A grantee under section 408(f) may be reimbursed not more than 12 percent of the total award amount under each such section.
   > - **(D)** *Crisis counseling assistance, training, and case management services* A grantee and subgrantee, cumulatively, may be reimbursed not more than 15 percent of the total amount of the grant award under either section 416 or 426.
 
-- **(b)** *Administrative costs* Section 408(f)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174) is amended—
+- **(b)** *Administrative costs* Section 408(f)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174), as amended by section 5(b) of this Act, is amended—
   - **(1)** by striking “(A) Grant to state.—” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),”; and
   - **(2)** by striking subparagraph (B).
 
@@ -268,3 +268,12 @@ Section 403 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 ## § 14. Applicability
 
 The amendments made by sections 4, 5, 7, 8, and 11 shall only apply to amounts appropriated on or after the date of enactment of this Act.
+
+## § 15. GAO report to Congress on challenges under public assistance alternative procedures
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study on the challenges to States and Territories of the United States in obtaining assistance under section 428 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189f).
+- **(b)** *Contents* In conducting the study described in subsection (a), the Comptroller General shall study the challenges for assistance described in subsection (a) faced by the following:
+  - **(1)** Rural areas, as such term is defined in section 423 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5189a).
+  - **(2)** Small impoverished communities, as such term is defined in section 203 of such Act.
+  - **(3)** Other communities, areas, or individuals that the Comptroller General determines pertinent.
+- **(c)** *Report to congress* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to Congress a report describing the results of the study required under subsection (a).
