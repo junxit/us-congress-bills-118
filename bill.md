@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5375
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ It is the sense of Congress that—
 
 - **(1)** as a Pacific power, the United States should continue to strengthen joint cooperation between the United States, Australia, India, and Japan (commonly referred to as the “Quadrilateral Dialogue” or “Quad” and referred to as such in this Act) to enhance and implement a shared vision to meet regional challenges and to promote a free, open, inclusive, resilient, and healthy Indo-Pacific, that is characterized by respect for democratic norms, rule of law, and market-driven economic growth, and is free from undue influence and coercion;
 - **(2)** the United States should expand dialogue and cooperation through the Quad with a range of partners to support peace and prosperity, the rule of law, freedom of navigation and overflight, the peaceful resolution of disputes, and democratic resilience in the Indo-Pacific;
-- **(3)** the pledge from the first-ever Quad leaders meeting on March 12, 2021, to respond to the economic and health impacts of COVID–19, and to address shared challenges, including in cyberspace, critical technologies, counterterrorism, quality infrastructure investment, and humanitarian assistance and disaster relief, as well as maritime domains, laid the foundation for critical cooperation among Quad countries;
+- **(3)** the pledge from the first-ever Quad leaders meeting on March 12, 2021, to address shared challenges, including in public health, cyberspace, critical technologies, counterterrorism, quality infrastructure investment, and humanitarian assistance and disaster relief, as well as maritime domains, laid the foundation for critical cooperation among Quad countries;
 - **(4)** the Quad countries, working through institutions, including the United States International Development Finance Corporation, the Japan International Cooperation Agency, and the Japan Bank for International Cooperation, and through partnerships with multilateral development banks such as the World Bank and the Asian Development Bank, should finance development and infrastructure projects in the Indo-Pacific region that are competitive, transparent, and sustainable;
 - **(5)** President Biden’s decision to elevate the Quad to the leaders level was critical to bolstering cooperation, and all four countries should work to ensure that the Quad Leaders’ Summit continues to take place regularly;
 - **(6)** the ambitious framework for ongoing cooperation laid out by the four leaders at the fifth convening of the Quad Leaders’ Summit in Hiroshima on May 20, 2023, should continue; and
@@ -33,21 +33,13 @@ It is the sense of Congress that—
 - **(b)** *Matters To be included* The strategy required by subsection (a) shall include the following:
   - **(1)** A description of how the United States intends to demonstrate democratic leadership in the Indo-Pacific through quadrilateral engagement with India, Japan, and Australia on shared interests and common challenges.
   - **(2)** A summary of—
-    - **(A)** current and past Quad initiatives across the whole of the United States Government, including to promote broad based and inclusive economic growth and investment, and to advance technology cooperation, energy innovation, climate mitigation and adaptation, physical and digital infrastructure development, education, disaster management, and global health security;
+    - **(A)** current and past Quad initiatives across the whole of the United States Government, including to promote broad based and inclusive economic growth and investment, and to advance technology cooperation, energy innovation, climate mitigation and adaptation, physical and digital infrastructure development, education, disaster management, resilient supply chains including in critical minerals, and global health security;
     - **(B)** proposals agreed to by all Quad countries since January 2021 to deepen existing security cooperation, intelligence sharing, economic partnerships, and multilateral coordination; and
     - **(C)** initiatives and agreements undertaken jointly with Quad countries, in addition to other like-minded partners in the Indo-Pacific, on areas of shared interest since January 2021.
-  - **(3)** A description of efforts, since January 2021, to jointly—
-    - **(A)** expand ongoing COVID–19 cooperation to prepare for the next pandemic by focusing on medium-term vaccine and medical supply production and building a broader dialogue on global public health;
-    - **(B)** develop international technology standards and share or co-develop new innovative technologies of the future;
-    - **(C)** combat economic coercion and develop a framework for ensuring supply chain security and resilience;
-    - **(D)** deepen regional economic engagement and integration, and strengthen regional rules and standards around investment;
-    - **(E)** strengthen climate actions on mitigation, adaptation, resilience, technology, capacity-building, and climate finance;
-    - **(F)** facilitate the development of quality infrastructure in the Indo-Pacific through joint financing, investment, technical assistance, and standards setting;
-    - **(G)** enhance joint maritime security and maritime domain awareness initiatives to protect the maritime commons and support international law and freedom of navigation in the Indo-Pacific;
-    - **(H)** enhance regional capacity and resilience to cyber incidents and threats;
-    - **(I)** work to strengthen capability to prevent, detect and respond to threats posed by terrorism and violent extremism;
-    - **(J)** co-develop space-related technologies to address shared challenges, share expertise and experience in space situational awareness, and enhance consultation to facilitate the peaceful, safe and sustainable use of outer space; and
-    - **(K)** any additional major streams of cooperation.
+  - **(3)** A description of the diplomatic and bureaucratic barriers and obstacles to implementing and expanding existing streams of Quad cooperation.
+  - **(4)** A list of recommendations on how Congress could assist in addressing the barriers described in paragraph (3), as well as—
+    - **(A)** any new authorities needed to strengthen United States leadership in and contribution to existing and proposed Quad initiatives and programs; and
+    - **(B)** additional resources needed to scale up and expand successful Quad initiatives and programs.
 - **(c)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
@@ -55,7 +47,7 @@ It is the sense of Congress that—
 ## § 4. Establishment of Quad Intra-Parliamentary Working Group
 
 - **(a)** *Establishment* Not later than 60 days after the date of the enactment of this Act, the Secretary of State shall seek to enter into negotiations with the Governments of Japan, Australia, and India (collectively, with the United States, known as the “Quad”) with the goal of reaching a written agreement to establish a Quad Intra-Parliamentary Working Group to facilitate closer cooperation on shared interests and values.
-- **(b)** *United states group*
+- **(b)** *United States group*
   - **(1)** *In general* At such time as the governments of the Quad countries enter into a written agreement described in subsection (a) to establish a Quad Intra-Parliamentary Working Group, there shall be established a United States Group, which shall represent the United States at the Quad Intra-Parliamentary Working Group.
   - **(2)** *Membership*
     - **(A)** *In general* The United States Group shall be comprised of not more than 24 Members of Congress.
@@ -71,11 +63,11 @@ It is the sense of Congress that—
   - **(4)** *Chairperson and vice chairperson*
     - **(A)** *House delegation* The Speaker of the House of Representatives shall designate the chairperson or vice chairperson of the delegation of the United States Group from the House from among members of the Committee on Foreign Affairs.
     - **(B)** *Senate delegation* The President Pro Tempore of the Senate shall designate the chairperson or vice chairperson of the delegation of the United States Group from the Senate from among members of the Committee on Foreign Relations.
-  - **(5)** *Authorization of appropriations*
-    - **(A)** *In general* There is authorized to be appropriated $1,000,000 for each fiscal years 2024 through 2028 for the United States Group.
-    - **(B)** *Distribution of appropriations*
-      - **(i)** *In general* For each fiscal year for which an appropriation is made for the United States Group, half of the amount appropriated shall be available to the delegation from the House of Representatives and half of the amount appropriated shall be available to the delegation from the Senate.
-      - **(ii)** *Method of distribution* The amounts available to the delegations of the House of Representatives and the Senate under clause (i) shall be disbursed on vouchers to be approved by the chairperson of the delegation from the House of Representatives and the chairperson of the delegation from the Senate, respectively.
-  - **(6)** *Private sources* The United States Group may accept gifts or donations of services or property, subject to the review and approval, as appropriate, of the Committee on Ethics of the House of Representatives and the Committee on Ethics of the Senate.
-  - **(7)** *Certification of expenditures* The certificate of the chairperson of the delegation from the House of Representatives or the delegation of the Senate of the United States Group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Group.
-  - **(8)** *Annual report* The United States Group shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report for each fiscal year for which an appropriation is made for the United States Group, including a description of its expenditures under such appropriation.
+  - **(5)** *Private sources* The United States Group may accept gifts or donations of services or property, subject to the review and approval, as appropriate, of the Committee on Ethics of the House of Representatives and the Committee on Ethics of the Senate.
+  - **(6)** *Certification of expenditures* The certificate of the chairperson of the delegation from the House of Representatives or the delegation of the Senate of the United States Group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Group.
+  - **(7)** *Annual report* The United States Group shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report for each fiscal year for which an appropriation is made for the United States Group, including a description of its expenditures under such appropriation.
+  - **(8)** *Engagement with US officials on the quad* Senior United States officials shall provide regular updates and briefings to the United States Group, including leading up to and after major Quadrilateral dialogues, to ensure close coordination with Congress.
+
+## § 5. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized.
