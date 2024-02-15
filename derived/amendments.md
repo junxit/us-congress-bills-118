@@ -1,7 +1,7 @@
 ---
 measure: H.R. 533
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 6901` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 6901` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6901` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 6901` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 6901` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6901` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6901` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
