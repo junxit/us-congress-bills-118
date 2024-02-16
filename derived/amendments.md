@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6544
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 9 executed, 29 stated and not applied.
+42 amendatory instructions. 9 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -127,6 +127,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 2134` | replace | by striking the third sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2134` | replace | in the second sentence, by striking “The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 2134` | replace | by striking “c. The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2014` | add-at-end | Section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2133` | add-at-end | in paragraph (4), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2133` | insert | in paragraph (5)(B)(ii), by inserting “and fusion machine license applications” after “commercial advanced nuclear reactor license applications”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2215` | add-at-end | Section 3 of the Nuclear Energy Innovation and Modernization Act (42 U.S.C. 2215 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2011` | insert | The Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) is amended by inserting after section 161A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2011` | insert | The table of contents of the Atomic Energy Act of 1954 is amended by inserting after the item relating to section 161 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2215` | redesignate | by redesignating paragraphs (2) through (15) as paragraphs (3), (6), (7), (8), (9), (10), (11), (14), (15), (16), (17), (18), (19), and (20), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -141,5 +145,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 2215` | add-at-end | Subtitle B of title VI of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 782) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2215` | insert | The table of contents of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 594) is amended by inserting after the item relating to section 639 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2215` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2215` | add-at-end | in subsection (b)(1)(B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2215` | add-at-end | in subsection (b)(1)(B), as amended by the preceding provisions of this Act, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2014` | replace | Section 11 q. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(q)) is amended, in the second proviso, by striking “if such occurrence” and all that follows through “United States:” and inserting a colon. | the bill quotes the text struck but describes what replaces it |

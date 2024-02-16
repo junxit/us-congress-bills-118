@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6544
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6544
@@ -35,3 +35,12 @@ Atomic Energy Advancement Act
 - 2023-12-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-12-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-12-01 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-12-05 — Committee Consideration and Mark-up Session Held
+- 2023-12-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 2.
+- 2024-02-16 — Committee on Foreign Affairs discharged.
+- 2024-02-16 — Committee on Foreign Affairs discharged.
+- 2024-02-16 — Committee on Science, Space, and Technology discharged.
+- 2024-02-16 — Committee on Science, Space, and Technology discharged.
+- 2024-02-16 — Placed on the Union Calendar, Calendar No. 320.
+- 2024-02-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-391, Part I.
+- 2024-02-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-391, Part I.
