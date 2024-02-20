@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6249
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6249
@@ -16,11 +16,18 @@ Think Differently About Emergencies Act
 
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Cosponsors (3)
+## Cosponsors (10)
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Ryan, Patrick [D-NY-18] (R000579)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
 ## Committees (1)
 
@@ -31,3 +38,10 @@ Think Differently About Emergencies Act
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-11-08 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-11-15 — Committee Consideration and Mark-up Session Held
+- 2023-11-15 — Ordered to be Reported by Voice Vote.
+- 2023-11-15 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2024-02-20 — Placed on the Union Calendar, Calendar No. 321.
+- 2024-02-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-392.
+- 2024-02-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-392.
