@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7105
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7105
@@ -29,3 +29,8 @@ WOSB Certification and Opportunity Expansion Act
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Referred to the House Committee on Small Business.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2024-02-20 — Placed on the Union Calendar, Calendar No. 322.
+- 2024-02-20 — Reported by the Committee on Small Business. H. Rept. 118-393.
+- 2024-02-20 — Reported by the Committee on Small Business. H. Rept. 118-393.
