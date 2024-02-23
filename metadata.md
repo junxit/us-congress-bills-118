@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7104
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7104
@@ -29,3 +29,8 @@ National SBDC Advisory Board Improvement Act
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Referred to the House Committee on Small Business.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2024-02-23 — Placed on the Union Calendar, Calendar No. 327.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-398.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-398.
