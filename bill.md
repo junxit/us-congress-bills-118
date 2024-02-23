@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 7436
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7436
+
+> To direct the Comptroller General of the United States to prepare a report on Federal efforts to address antimicrobial resistance.
+
+## § 1. Short title
+
+This Act may be cited as the “Antimicrobial Resistance Research Assessment Act of 2024”.
+
+## § 2. Report on Federal efforts To address antimicrobial resistance
+
+- **(a)** *In general* The Comptroller General of the United States shall—
+  - **(1)** prepare a report on efforts of the Federal Government to address antimicrobial resistance; and
+  - **(2)** not later than 1 year after the date of enactment of this Act—
+    - **(A)** finalize such report; and
+    - **(B)** submit such report to the Congress.
+- **(b)** *Contents* The report required by subsection (a) shall—
+  - **(1)** address all efforts of the Federal Government regarding antimicrobial resistance, including any such efforts involving—
+    - **(A)** establishing, maintaining, or operating a task force, committee, or interagency program; or
+    - **(B)** developing a plan or report;
+  - **(2)** specify the role of each Federal program and resource in such efforts;
+  - **(3)** identify any such efforts that are duplicative;
+  - **(4)** recommend ways to improve the coordination of such efforts across the Federal Government;
+  - **(5)** identify the results achieved thus far through such efforts;
+  - **(6)** describe any such efforts related to phage therapy; and
+  - **(7)** with respect to research being federally conducted or supported with respect to antimicrobial resistance—
+    - **(A)** quantify of the costs of such research;
+    - **(B)** if any such research is identified as duplicative pursuant to paragraph (3), recommend approaches for coordinating or consolidating such research to avoid duplication; and
+    - **(C)** recommend whether there should be a central Federal agency to oversee such research.
