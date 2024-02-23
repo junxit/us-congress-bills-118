@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7103
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7103
@@ -30,3 +30,8 @@ Agency Accountability Act of 2024
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Introduced in House
 - 2024-01-29 — Referred to the House Committee on Small Business.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2024-02-23 — Placed on the Union Calendar, Calendar No. 325.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-396.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-396.
