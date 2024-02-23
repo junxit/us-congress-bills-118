@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4321` | add-at-end | The District of Columbia Stadium Act of 1957 (sec. 3–321 et seq., D.C. Official Code) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | repeal | Effective upon the date of the transfer of administrative jurisdiction over the Robert F. Kennedy Memorial Stadium Campus under section 8(a) of the District of Columbia Stadium Act of 1957, as added by subsection (a), section 7 of such A… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9601` | repeal | the District of Columbia Stadium Act of 1957 (sec. 3–321 et seq., D.C. Official Code) is repealed; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | amend | The District of Columbia Stadium Act of 1957 (sec. 3–321 et seq., D.C. Official Code) is amended by adding after section 7 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | repeal | Effective on the date of the execution of the lease between the Administrator and the District of Columbia required by section 8(b) of the District of Columbia Stadium Act of 1957, as added by subsection (a), section 7 of such Act (sec. … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

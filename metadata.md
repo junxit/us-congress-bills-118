@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4984
@@ -16,9 +16,29 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Cosponsors (1)
+## Cosponsors (21)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Crockett, Jasmine [D-TX-30] (C001130)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Porter, Katie [D-CA-47] (P000618)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
 
 ## Committees (3)
 
@@ -33,3 +53,18 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - 2023-07-27 — Referred to the Committee on Oversight and Accountability, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-07-27 — Referred to the Committee on Oversight and Accountability, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-07-27 — Referred to the Committee on Oversight and Accountability, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-07-28 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-09-18 — Referred to the Subcommittee on Federal Lands.
+- 2023-09-19 — Subcommittee Hearings Held
+- 2023-09-20 — Committee Consideration and Mark-up Session Held
+- 2023-09-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 31 - 9.
+- 2024-02-06 — Committee Consideration and Mark-up Session Held
+- 2024-02-06 — Ordered to be Reported (Amended) by Voice Vote.
+- 2024-02-06 — Subcommittee on Federal Lands Discharged
+- 2024-02-23 — Committee on Transportation discharged.
+- 2024-02-23 — Committee on Transportation discharged.
+- 2024-02-23 — Placed on the Union Calendar, Calendar No. 329.
+- 2024-02-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-400, Part I.
+- 2024-02-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-400, Part I.
+- 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-400, Part II.
+- 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-400, Part II.
