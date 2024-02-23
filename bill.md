@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 7441
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7441
+
+> To amend part A of title IV of the Social Security Act to set aside funds expended under the program of block grants to States for temporary assistance for needy families, for core work purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Temporary to TANF Act”.
+
+## § 2. Set-aside of funds for core work purposes
+
+- **(a)** *In general* Section 408(a) of the Social Security Act (42 U.S.C. 608(a)) is amended by adding at the end the following:
+  > - **(13)** *Requirement to expend funds for core work activities* A State to which a grant is made under section 403(a)(1) for a fiscal year shall expend not less than 25 percent of the grant amount on work supports, education and training, apprenticeships, non-recurring short term benefits, work activities (as defined in section 407(d)), and case management needed to assist individuals with developing an individual responsibility plan pursuant to subsection (b) of this section.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on October 1, 2025.
+
+## § 3. Two-year reauthorization of the Temporary Assistance for Needy Families program
+
+Activities authorized by part A of title IV (other than under section 403(c) or 418) and section 1108(b) of the Social Security Act shall continue through September 30, 2026, in the manner authorized for fiscal year 2023, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.
