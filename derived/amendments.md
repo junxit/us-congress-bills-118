@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -116,7 +116,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `40 U.S.C. § 11301` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | strike | by striking “or (B)”; and | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 11301` | strike | in clause (ii), by striking “, consistent with any applicable reprogramming law or guidelines of the Committees on Appropriations of the Senate and the House of Representatives.”; and | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 11301` | strike | in clause (ii), by striking “, consistent with any applicable reprogramming law or guidelines of the Committees on Appropriations of the Senate and the House of Representatives”; and | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | replace | by striking “the solvency of the Fund, including operating expenses” and inserting the following: “total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (… | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | replace | in the matter before clause (i), by striking “subparagraphs (A) and (B) of paragraph (3)” and inserting the following: “paragraph (3)(A)(i) and before any services or work are provided under paragraph (3)(A)(ii)(I)”; | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | strike | by striking “unless approved by the Director”; and | the bill quotes the text struck but describes what replaces it |
@@ -128,18 +128,18 @@ complete account of the bill's effect, which it is not.
 | `40 U.S.C. § 11301` | insert | by inserting “(including documented market research into commercial products and services)” after “used”; | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | strike | by striking “establishing”; and | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | replace | by striking “the cost savings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;” and inserting the following: “the amount repaid to the Fund in accordance with the term… | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 11301` | replace | by striking the semicolon and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 11301` | replace | by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | replace | in clause (iii), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | strike | by striking clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | replace | in clause (ii), by striking “the greatest Governmentwide impact; and” and inserting the following: “the greatest impact on modernizing, retiring, or replacing Federal legacy information technology systems; and”; | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | redesignate | by redesignating clauses (i) through (iii) as clauses (ii) through (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | redesignate | by inserting before clause (ii), as so redesignated, the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 11301` | replace | in subparagraph (D), by striking “to improve or replace multiple information technology systems” and inserting the following: “to modernize, retire, or replace legacy information technology systems under subsection (b)(3)(A)(i)”; | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 11301` | replace | in subparagraph (D), by striking “to improve or replace multiple information technology systems” and inserting the following: “to modernize, retire, or replace legacy information technology systems under subsection (b)(3)(A)(i)”; and | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 11301` | insert | in subparagraph (F), by inserting after “subsection (b)(6)” the following: “or the identification of fraudulent or misleading statements about the project (including fraudulent statements about technical design, the business case, or pro… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | insert | in subparagraph (G), by inserting after “operating costs of the Fund” the following: “to ensure total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | insert | by inserting after subparagraph (B) the following; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 11301` | strike | by striking clauses (i) and (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 11301` | strike | by striking clauses (i) and (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | insert | in subparagraph (C), by inserting after “and reduce waste” the following: “and ensure total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

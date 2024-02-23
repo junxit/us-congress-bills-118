@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5527
@@ -16,9 +16,10 @@ Modernizing Government Technology Reform Act
 
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Modernizing Government Technology Reform Act
 - 2023-09-18 — Introduced in House
 - 2023-09-18 — Introduced in House
 - 2023-09-18 — Referred to the House Committee on Oversight and Accountability.
+- 2023-09-20 — Committee Consideration and Mark-up Session Held
+- 2023-09-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 43 - 0.
+- 2024-02-23 — Placed on the Union Calendar, Calendar No. 326.
+- 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-397.
+- 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-397.

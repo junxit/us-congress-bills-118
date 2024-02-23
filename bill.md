@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5527
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Modernizing Government Technology Reform Act of 2023”.
+This Act may be cited as the “Modernizing Government Technology Reform Act”.
 
 ## § 2. Realigning use of funds with original congressional intent
 
@@ -39,7 +39,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
       - **(I)** in clause (i)—
         - **(aa)** by striking “or (B)”; and
         - **(bb)** by striking “(3)(C)” and inserting “(3)(A)(ii)”; and
-      - **(II)** in clause (ii), by striking “, consistent with any applicable reprogramming law or guidelines of the Committees on Appropriations of the Senate and the House of Representatives.”; and
+      - **(II)** in clause (ii), by striking “, consistent with any applicable reprogramming law or guidelines of the Committees on Appropriations of the Senate and the House of Representatives”; and
     - **(ii)** in subparagraph (B)(i)—
       - **(I)** by striking “paragraph (3)(C)” and inserting “paragraph (3)(A)(ii)”; and
       - **(II)** by striking “the solvency of the Fund, including operating expenses” and inserting the following: “total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1)”;
@@ -52,7 +52,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
       - **(III)** by redesignating clause (ii) as clause (iv); and
       - **(IV)** by inserting after clause (i) the following new clauses:
         > - **(ii)** which shall include terms of repayment that require the head of the agency to reimburse the Fund for funds transferred under paragraph (3)(A)(i) at a level that ensures total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1);
-        > - **(iii)** which shall include terms of repayment that require the head of the agency to fully reimburse the Fund for any services or work provided under paragraph (3)(A)(ii) in direct support of the project;”; and
+        > - **(iii)** which shall include terms of repayment that require the head of the agency to fully reimburse the Fund for any services or work provided under paragraph (3)(A)(ii) in direct support of the project; and
 
     - **(ii)** in subparagraph (B)—
       - **(I)** by striking clause (i) and inserting the following:
@@ -73,7 +73,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
         - **(bb)** by striking “the cost savings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;” and inserting the following: “the amount repaid to the Fund in accordance with the terms established in the written agreements described in paragraph (6);”;
       - **(II)** in clause (ii)—
         - **(aa)** by striking “reliability of the cost savings” and inserting “total cost savings”; and
-        - **(bb)** by striking the semicolon and inserting “; and”;
+        - **(bb)** by striking the semicolon and inserting “; and”; and
       - **(III)** in clause (iii), by striking “; and” and inserting a period; and
       - **(IV)** by striking clause (iv);
 - **(2)** in subsection (c)(2)—
@@ -83,7 +83,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
     - **(iii)** by inserting before clause (ii), as so redesignated, the following new clause:
       > - **(i)** the ability for the head of the agency to ensure repayment of funds transferred from the Fund to the head of the agency, in accordance with subsection (b);
 
-  - **(B)** in subparagraph (D), by striking “to improve or replace multiple information technology systems” and inserting the following: “to modernize, retire, or replace legacy information technology systems under subsection (b)(3)(A)(i)”;
+  - **(B)** in subparagraph (D), by striking “to improve or replace multiple information technology systems” and inserting the following: “to modernize, retire, or replace legacy information technology systems under subsection (b)(3)(A)(i)”; and
   - **(C)** in subparagraph (F), by inserting after “subsection (b)(6)” the following: “or the identification of fraudulent or misleading statements about the project (including fraudulent statements about technical design, the business case, or program management with respect to the project) in the application or proposal for amounts from the Fund for the project”; and
   - **(D)** in subparagraph (G), by inserting after “operating costs of the Fund” the following: “to ensure total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1)”;
 - **(3)** in subsection (c)—
@@ -94,7 +94,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
 
   - **(B)** in paragraph (6)(A)—
     - **(i)** by striking “shall be—” and inserting “shall be 4 employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition, appointed by the Director.”; and
-    - **(ii)** by striking clauses (i) and (ii);
+    - **(ii)** by striking clauses (i) and (ii); and
 - **(4)** in subsection (d)(2)—
   - **(A)** in subparagraph (A), by striking “subsection (b)(3)(A) and for products, services, and acquisition vehicles funded under subsection (b)(3)(B)” and inserting “subsection (b)(3)”; and
   - **(B)** in subparagraph (C), by inserting after “and reduce waste” the following: “and ensure total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1)”;
