@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7129
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7129
@@ -16,7 +16,7 @@ Put America on Commission Act of 2024
 
 - Rep. Williams, Roger [R-TX-25] (W000816)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
@@ -33,6 +33,7 @@ Put America on Commission Act of 2024
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
+- Rep. Rouzer, David [R-NC-7] (R000603)
 
 ## Committees (1)
 
@@ -43,3 +44,8 @@ Put America on Commission Act of 2024
 - 2024-01-30 — Introduced in House
 - 2024-01-30 — Introduced in House
 - 2024-01-30 — Referred to the House Committee on Small Business.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2024-02-23 — Placed on the Union Calendar, Calendar No. 328.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-399.
+- 2024-02-23 — Reported by the Committee on Small Business. H. Rept. 118-399.
