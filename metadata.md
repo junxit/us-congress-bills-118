@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5856
@@ -42,11 +42,12 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Education and Workforce Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -67,3 +68,4 @@ Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization
 - 2024-02-13 — Mr. Smith (NJ) moved to suspend the rules and pass the bill, as amended.
 - 2024-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 41). (text: CR H565-567)
 - 2024-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 11 (Roll no. 41). (text: CR H565-567)
+- 2024-02-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
