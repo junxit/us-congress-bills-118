@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4039
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4039
@@ -23,9 +23,10 @@ No Dollars to Uyghur Forced Labor Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ No Dollars to Uyghur Forced Labor Act
 - 2024-02-13 — Mrs. Kim (CA) moved to suspend the rules and pass the bill, as amended.
 - 2024-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H554)
 - 2024-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H554)
+- 2024-02-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
