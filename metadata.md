@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3016
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3016
@@ -32,9 +32,10 @@ IGO Anti-Boycott Act
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ IGO Anti-Boycott Act
 - 2024-02-13 — Mr. Lawler moved to suspend the rules and pass the bill, as amended.
 - 2024-02-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H558)
 - 2024-02-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H558)
+- 2024-02-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
