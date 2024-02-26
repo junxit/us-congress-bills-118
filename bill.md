@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5688
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,7 +34,7 @@ This Act may be cited as the “Bipartisan HSA Improvement Act of 2023”.
   - **(2)** in subparagraph (B), by inserting “and (iii)” after “clause (ii)” in clause (i), by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by inserting after clause (ii) the following new clause:
     > - **(iii)** in the case of the dollar amount in subsection (c)(1)(E)(ii)(II) for taxable years beginning in calendar years after 2026, “calendar year 2025”.
 
-- **(d)** *Reporting of direct primary care service arrangement fees on W–2* Section 6051(a) of such Code is amended by striking “and” at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting “, and”, and by inserting after paragraph (17) the following new paragraph:
+- **(d)** *Reporting of direct primary care service arrangement fees on W-2* Section 6051(a) of such Code is amended by striking “and” at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting “, and”, and by inserting after paragraph (17) the following new paragraph:
   > - **(18)** in the case of a direct primary care service arrangement (as defined in section 223(c)(1)(E)(ii)) which is provided in connection with employment, the aggregate fees for such arrangement for such employee.
 
 - **(e)** *Effective date* The amendments made by this section shall apply to months beginning after December 31, 2025, in taxable years ending after such date.
@@ -86,4 +86,4 @@ This Act may be cited as the “Bipartisan HSA Improvement Act of 2023”.
     > - **(19)** the amount of any qualified HSA distribution (as defined in section 106(e)(2)) with respect to such employee.
 
   - **(2)** *Conforming amendment* Section 6051(a)(12) of such Code is amended by inserting “(other than any qualified HSA distribution, as defined in section 106(e)(2))” before the comma at the end.
-- **(e)** *Effective date* The amendments made by this subsection shall apply to distributions made after December 31, 2025, in taxable years ending after such date.
+- **(e)** *Effective date* The amendments made by this section shall apply to distributions made after December 31, 2025, in taxable years ending after such date.

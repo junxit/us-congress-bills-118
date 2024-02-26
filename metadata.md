@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5688
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5688
@@ -29,3 +29,8 @@ Bipartisan HSA Improvement Act of 2023
 - 2023-09-26 — Introduced in House
 - 2023-09-26 — Introduced in House
 - 2023-09-26 — Referred to the House Committee on Ways and Means.
+- 2023-09-28 — Committee Consideration and Mark-up Session Held
+- 2023-09-28 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 28 - 14.
+- 2024-02-26 — Placed on the Union Calendar, Calendar No. 330.
+- 2024-02-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-401.
+- 2024-02-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-401.
