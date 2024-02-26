@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3202
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3202
@@ -71,10 +71,11 @@ Assad Regime Anti-Normalization Act of 2023
 - Rep. Porter, Katie [D-CA-47] (P000618)
 - Rep. McCormick, Richard [R-GA-6] (M001218)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -96,3 +97,4 @@ Assad Regime Anti-Normalization Act of 2023
 - 2024-02-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 32 (Roll no. 49). (text: 2/13/2024 CR H560-562)
 - 2024-02-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 32 (Roll no. 49). (text: 2/13/2024 CR H560-562)
+- 2024-02-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
