@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5375
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5375
@@ -23,9 +23,10 @@ Strengthening the Quad Act
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 - Rep. Costa, Jim [D-CA-21] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Strengthening the Quad Act
 - 2024-02-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 39 (Roll no. 54). (text: 2/14/2024 CR H610-611)
 - 2024-02-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 39 (Roll no. 54). (text: 2/14/2024 CR H610-611)
+- 2024-02-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
