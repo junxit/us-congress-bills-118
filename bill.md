@@ -1,0 +1,23 @@
+---
+legis-num: S. 3805
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3805
+
+> To amend title XI of the Social Security Act to prohibit health plans from imposing fees on health care providers for electronic funds transfers and health care payment and remittance advice transactions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Fees for EFTs Act”.
+
+## § 2. Prohibiting health plans from imposing fees on health care providers for electronic funds transfers and health care payment and remittance advice transactions
+
+Section 1173(g)(4)(B)(ii) of the Social Security Act (42 U.S.C. 1320d–2(g)(4)(B)(ii)) is amended—
+
+- **(1)** in subclause (I), by striking at the end “and”;
+- **(2)** in subclause (II), by striking at the end the period and inserting “; and”; and
+- **(3)** by adding at the end the following new subclause:
+  > - **(III)** prohibit the imposition of any charge, fee, or other payment (including through a withhold from payment) by a health plan or entity completing the transaction on the plan’s behalf, on a health care provider for electronic fund transfers and health care payment and remittance advice transactions made on or after January 1, 2025.
