@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 496
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 496
@@ -16,9 +16,10 @@ A resolution designating September 2023 as "National Cholesterol Education Month
 
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution designating September 2023 as "National Cholesterol Education Month
 
 - 2023-12-13 — Introduced in Senate
 - 2023-12-13 — Referred to the Committee on the Judiciary.
+- 2024-02-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1014; text: 12/13/2023 CR S5964)
+- 2024-02-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1014; text: 12/13/2023 CR S5964)
+- 2024-02-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-02-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
