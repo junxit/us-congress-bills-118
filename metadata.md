@@ -1,7 +1,7 @@
 ---
 measure: S. 3570
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3570
@@ -32,3 +32,5 @@ A bill to designate the United States courthouse located at 500 West Pike Street
 - 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2024-01-25 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2024-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
+- 2024-02-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1014-1015; text: CR S1015)
+- 2024-02-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
