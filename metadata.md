@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5265
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5265
@@ -38,3 +38,9 @@ Small Business Administration Rural Performance Report Act
 - 2023-09-26 — Placed on the Union Calendar, Calendar No. 182.
 - 2023-09-26 — Reported by the Committee on Small Business. H. Rept. 118-223.
 - 2023-09-26 — Reported by the Committee on Small Business. H. Rept. 118-223.
+- 2024-02-28 — Considered under suspension of the rules. (consideration: CR H724-725)
+- 2024-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5265.
+- 2024-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H724)
+- 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H724)

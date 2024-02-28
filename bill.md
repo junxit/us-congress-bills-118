@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5265
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -44,4 +44,4 @@ In this Act:
 
 ## § 4. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and amendments shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration.
+No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
