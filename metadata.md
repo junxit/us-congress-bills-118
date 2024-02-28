@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4984
@@ -46,6 +46,10 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - House — Oversight and Government Reform Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-02-28 — [House 118-2-56](votes/house-118-2-0056.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (348–55)
+
 ## Actions
 
 - 2023-07-27 — Introduced in House
@@ -68,3 +72,12 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - 2024-02-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-400, Part I.
 - 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-400, Part II.
 - 2024-02-23 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-400, Part II.
+- 2024-02-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-02-28 — Considered as unfinished business. (consideration: CR H732-733)
+- 2024-02-28 — Considered under suspension of the rules. (consideration: CR H715-719)
+- 2024-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4984.
+- 2024-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-02-28 — Mr. Langworthy moved to suspend the rules and pass the bill, as amended.
+- 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 55 (Roll no. 56). (text: CR H715-716)
+- 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 55 (Roll no. 56). (text: CR H715-716)
+- 2024-02-28 — The title of the measure was amended. Agreed to without objection.

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4984
 
-> To amend the District of Columbia Stadium Act of 1957 to provide for the transfer of administrative jurisdiction over the Robert F. Kennedy Memorial Stadium Campus to the Administrator of General Services and the leasing of the Campus to the District of Columbia for purposes which include commercial and residential development, and for other purposes.
+> To direct the Secretary of the Interior to transfer administrative jurisdiction over the Robert F. Kennedy Memorial Stadium Campus to the District of Columbia so that the District may use the Campus for purposes including residential and commercial development, and for other purposes.
 
 ## § 1. Short title
 
