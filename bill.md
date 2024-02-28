@@ -16,7 +16,7 @@ This Act may be cited as the “WOSB Certification and Opportunity Expansion Act
 ## § 2. Exclusion of self-certified small business concerns owned and controlled by women from goals
 
 - **(a)** *Exclusion of self-Certified WOSBs from Governmentwide and agency goals*
-  - **(1)** *In general* Section 15(g) of such Act (15 U.S.C. 644(g)) is amended by adding at the end the following new paragraph:
+  - **(1)** *In general* Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following new paragraph:
     > - **(4)** *Exclusion of self-certified WOSBs from goals* Only small business concerns owned and controlled by women that have been certified under section 8(m)(2)(E) shall be included in calculating the goals established—
     >   - **(A)** under paragraph (1)(A)(v); and
     >   - **(B)** by the head of a Federal agency for small business concerns owned and controlled by women under paragraph (2).
