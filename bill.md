@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 4669
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4669
 
-> To provide for Department of Energy, National Laboratories, and Small Business Administration joint research and development activities, and for other purposes.
+> To provide for Department of Energy and Small Business Administration joint research and development activities, and for other purposes.
 
 ## § 1. Short title
 
@@ -15,7 +15,7 @@ This Act may be cited as the “DOE and SBA Research Act”.
 
 ## § 2. Department of Energy and Small Business Administration joint research and development activities
 
-- **(a)** *In general* The Secretary of Energy, the appropriate head of a National Laboratory (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)), and the Administrator of the Small Business Administration (in this section referred to as the “covered officials”) shall enter into a memorandum of understanding or other appropriate agreement to carry out cross-cutting and collaborative research and development activities focused on the joint advancement of Department of Energy and Small Business Administration mission requirements and priorities.
+- **(a)** *In general* The Secretary of Energy and the Administrator of the Small Business Administration (in this section referred to as the “covered officials”) shall enter into a memorandum of understanding or other appropriate agreement to carry out cross-cutting and collaborative research and development activities focused on the joint advancement of Department of Energy and Small Business Administration mission requirements and priorities.
 - **(b)** *Memorandum of understanding or agreement* The covered officials shall carry out and coordinate the activities described in subsection (a) by entering into one or more memoranda of understanding or other appropriate agreements, as jointly determined by the covered officials.
 - **(c)** *Inclusion of small business concerns* In carrying out the activities described in subsection (a), the covered officials shall ensure the inclusion of small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)) in such activities, as appropriate.
 - **(d)** *Other requirements* In carrying out the activities described in subsection (a), the covered officials may—
@@ -31,4 +31,4 @@ This Act may be cited as the “DOE and SBA Research Act”.
 
 ## § 3. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act. Such Act and amendments shall be carried out using amounts otherwise appropriated to the Administrator of the Small Business Administration, the Secretary of Energy, or the head of a National Laboratory (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)).
+No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
