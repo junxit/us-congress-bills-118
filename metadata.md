@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3511
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3511
@@ -23,9 +23,10 @@ Service-Disabled Veteran Opportunities in Small Business Act
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Service-Disabled Veteran Opportunities in Small Business Act
 - 2024-02-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2024-02-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H719)
 - 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H719)
+- 2024-02-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
