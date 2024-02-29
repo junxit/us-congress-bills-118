@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7463
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7463
@@ -63,3 +63,10 @@ Extension of Continuing Appropriations and Other Matters Act, 2024
 - 2024-02-29 — Senate amendment proposed (on the floor): Amendment SA 1614 proposed by Senator Paul.
 - 2024-02-29 — Senate amendment submitted
 - 2024-02-29 — Senate amendment submitted
+- 2024-03-01 — Became Public Law No: 118-40.
+- 2024-03-01 — Became Public Law No: 118-40.
+- 2024-03-01 — Message on Senate action sent to the House.
+- 2024-03-01 — Presented to President.
+- 2024-03-01 — Presented to President.
+- 2024-03-01 — Signed by President.
+- 2024-03-01 — Signed by President.
