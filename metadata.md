@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6544
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6544
@@ -20,11 +20,12 @@ Atomic Energy Advancement Act
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (3)
+## Committees (4)
 
 - House — Science, Space, and Technology Committee
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Atomic Energy Advancement Act
 - 2024-02-28 — Mr. Duncan moved to suspend the rules and pass the bill, as amended.
 - 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 36, 1 Present (Roll no. 55). (text: CR H703-711)
 - 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 36, 1 Present (Roll no. 55). (text: CR H703-711)
+- 2024-02-29 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
