@@ -1,7 +1,7 @@
 ---
 measure: S. 3706
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3706
@@ -30,3 +30,7 @@ Victims' VOICES Act
 
 - 2024-01-31 — Introduced in Senate
 - 2024-01-31 — Read twice and referred to the Committee on the Judiciary.
+- 2024-02-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1090; text: CR S1090)
+- 2024-02-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-02-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-02-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
