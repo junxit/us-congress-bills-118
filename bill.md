@@ -43,7 +43,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >   - **(7)** assist the Administrator in conducting, or conduct, Tribal consultation to solicit input and facilitate discussion of potential modifications to programs and procedures of the Administration; and
   >   - **(8)** recommend annual budgets for the Office.
   > - **(d)** *Report to Congress* On an annual basis until the termination date, the Assistant Administrator shall submit to Congress a report on the effectiveness of the Office of Native American Affairs that includes the number of clients served in Tribal communities, the number of consultations conducted, and the number of trainings held in Tribal country.
-  > - **(e)** *Termination* The authority under this section shall terminate seven years after the date of the enactment of this section.
+  > - **(e)** *Termination* The authority under this section shall terminate 7 years after the date of the enactment of this section.
 
 ## § 3. Compliance with CUTGO
 
