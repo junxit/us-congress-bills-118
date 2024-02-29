@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 1037
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1037
+
+> Providing the sense of the House of Representatives that in vitro fertilization (IVF) is necessary for women who cannot conceive naturally, and for other purposes.
+
+## Preamble
+
+- Whereas, infertility presents a significant challenge for women across the nation, affecting their ability to conceive and realize their aspirations of parenthood;
+- Whereas, CDC reports that roughly 19 percent of women deal with infertility;
+- Whereas, advancements in medical science have led to the emergence of in vitro fertilization (IVF), providing hope and options for those grappling with infertility;
+- Whereas, IVF has proven to be a widely embraced and effective solution for couples contending with infertility, affording them the opportunity to establish families and experience the blessings of parenthood; and
+- Whereas, the Columbia University Fertility Center reports over 8 million babies have been born through IVF: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** strongly supports the access to and use of IVF treatments across the United States;
+- **(2)** remains committed to commonsense policies that enable 4 families to grow and thrive; and
+- **(3)** recognizes the fundamental truth that life is precious.
