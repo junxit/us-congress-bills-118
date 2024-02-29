@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4669
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4669
@@ -20,10 +20,11 @@ DOE and SBA Research Act
 
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (2)
+## Committees (3)
 
 - House — Small Business Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ DOE and SBA Research Act
 - 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H721)
 - 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H721)
 - 2024-02-28 — The title of the measure was amended. Agreed to without objection.
+- 2024-02-29 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
