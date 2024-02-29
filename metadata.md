@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7105
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7105
@@ -20,9 +20,10 @@ WOSB Certification and Opportunity Expansion Act
 
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ WOSB Certification and Opportunity Expansion Act
 - 2024-02-28 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H722-723)
 - 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H722-723)
+- 2024-02-29 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
