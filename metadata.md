@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7454
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7454
