@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7454
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7454
@@ -55,3 +55,12 @@ Airport and Airway Extension Act of 2024
 - 2024-02-29 — Received in the Senate, read twice.
 - 2024-02-29 — Senate amendment submitted
 - 2024-02-29 — Senate amendment submitted
+- 2024-03-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2245-2246)
+- 2024-03-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-03-07 — Message on Senate action sent to the House.
+- 2024-03-08 — Became Public Law No: 118-41.
+- 2024-03-08 — Became Public Law No: 118-41.
+- 2024-03-08 — Presented to President.
+- 2024-03-08 — Presented to President.
+- 2024-03-08 — Signed by President.
+- 2024-03-08 — Signed by President.
