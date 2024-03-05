@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3391
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3391
@@ -60,6 +60,10 @@ Gabriella Miller Kids First Research Act 2.0
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-05 — [House 118-2-60](votes/house-118-2-0060.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (384–4)
+
 ## Actions
 
 - 2023-05-16 — Introduced in House
@@ -73,3 +77,11 @@ Gabriella Miller Kids First Research Act 2.0
 - 2023-08-25 — Placed on the Union Calendar, Calendar No. 131.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-165.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-165.
+- 2024-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-05 — Considered as unfinished business. (consideration: CR H805-806)
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H792-793)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3391.
+- 2024-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 4 (Roll no. 60). (text: CR H792)
+- 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 4 (Roll no. 60). (text: CR H792)
