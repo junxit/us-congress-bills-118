@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 498
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,20 +19,20 @@ This Act may be cited as the “9–8–8 Lifeline Cybersecurity Responsibility 
   - **(1)** in paragraph (4), by striking “and” at the end;
   - **(2)** in paragraph (5), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(6)** coordinating with the Chief Information Security Officer of the Department of Health and Human Services to take such steps as may be necessary to ensure the program is protected from cybersecurity incidents and eliminates known cybersecurity vulnerabilities.
+    > - **(6)** taking such steps as may be necessary to ensure the suicide prevention hotline is protected from cybersecurity incidents and to eliminate known cybersecurity vulnerabilities of such hotline.
 
 - **(b)** *Reporting* Section 520E–3 of the Public Health Service Act (42 U.S.C. 290bb–36c) is amended—
   - **(1)** by redesignating subsection (f) as subsection (g); and
   - **(2)** by inserting after subsection (e) the following:
     > - **(f)** *Cybersecurity reporting*
-    >   - **(1)** *In general*
+    >   - **(1)** *Notification*
     >     - **(A)** *In general* The program’s network administrator receiving Federal funding pursuant to subsection (a) shall report to the Assistant Secretary, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
-    >       - **(i)** any identified cybersecurity vulnerabilities to the program immediately upon identification of such a vulnerability; and
-    >       - **(ii)** any identified cybersecurity incidents to the program immediately upon identification of such incident.
-    >     - **(B)** *Local and regional crisis centers* Local and regional crisis centers participating in the program shall report to the program’s network administrator identified in subparagraph (A), in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
-    >       - **(i)** any identified cybersecurity vulnerabilities to the program immediately upon identification of such vulnerability; and
-    >       - **(ii)** any identified cybersecurity incidents to the program immediately upon identification of such incident.
-    >   - **(2)** *Notification* If the program’s network administrator receiving funding pursuant to subsection (a) discovers, or is informed by a local or regional crisis center pursuant to paragraph (1)(B) of, a cybersecurity vulnerability or incident, such entity shall immediately report that discovery to the Assistant Secretary.
+    >       - **(i)** any identified cybersecurity vulnerability to the program within a reasonable amount of time after identification of such a vulnerability; and
+    >       - **(ii)** any identified cybersecurity incident to the program within a reasonable amount of time after identification of such an incident.
+    >     - **(B)** *Local and regional crisis centers* Local and regional crisis centers participating in the program shall report to the program’s network administrator receiving Federal funding pursuant to subsection (a), in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
+    >       - **(i)** any identified cybersecurity vulnerability to the program within a reasonable amount of time after identification of such a vulnerability; and
+    >       - **(ii)** any identified cybersecurity incident to the program within a reasonable amount of time after identification of such an incident.
+    >   - **(2)** *Notification* If the program’s network administrator receiving funding pursuant to subsection (a) discovers, or is informed by a local or regional crisis center pursuant to paragraph (1)(B) of, a cybersecurity vulnerability or incident, within a reasonable amount of time after such discovery or receipt of information, such entity shall report the vulnerability or incident to the Assistant Secretary.
     >   - **(3)** *Clarification*
     >     - **(A)** *Oversight*
     >       - **(i)** *Local and regional crisis center* Except as provided in clause (ii), local and regional crisis centers participating in the program shall oversee all technology each center employs in the provision of services as a participant in the program.
