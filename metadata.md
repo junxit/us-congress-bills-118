@@ -1,0 +1,34 @@
+---
+measure: H.Res. 1058
+congress: 118
+version: Introduced in House
+---
+
+# H.Res. 1058
+
+Congratulating Iowa native Caitlin Clark on becoming the National Collegiate Athletic Association Division I basketball leading scorer.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+
+## Cosponsors (3)
+
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+
+## Committees (1)
+
+- House — Education and Workforce Committee
+
+## Actions
+
+- 2024-03-05 — Introduced in House
+- 2024-03-05 — Introduced in House
+- 2024-03-05 — Referred to the House Committee on Education and the Workforce.
+- 2024-03-05 — Sponsor introductory remarks on measure. (CR H784)
