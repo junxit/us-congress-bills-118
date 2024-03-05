@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3836
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3836
@@ -40,3 +40,9 @@ Medicaid Primary Care Improvement Act
 - 2023-09-01 — Placed on the Union Calendar, Calendar No. 134.
 - 2023-09-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-170.
 - 2023-09-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-170.
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H798-800)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3836.
+- 2024-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H798-799)
+- 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H798-799)
