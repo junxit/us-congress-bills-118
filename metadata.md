@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4984
@@ -40,11 +40,12 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Oversight and Government Reform Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,5 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - 2024-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 55 (Roll no. 56). (text: CR H715-716)
 - 2024-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 55 (Roll no. 56). (text: CR H715-716)
 - 2024-02-28 — The title of the measure was amended. Agreed to without objection.
+- 2024-02-29 — Received in the Senate.
+- 2024-03-05 — Read twice and referred to the Committee on Energy and Natural Resources.
