@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3838
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3838
@@ -47,6 +47,10 @@ Preventing Maternal Deaths Reauthorization Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-05 — [House 118-2-61](votes/house-118-2-0061.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (382–12)
+
 ## Actions
 
 - 2023-06-06 — Introduced in House
@@ -60,3 +64,11 @@ Preventing Maternal Deaths Reauthorization Act of 2023
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 196.
 - 2023-10-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-246.
 - 2023-10-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-246.
+- 2024-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-05 — Considered as unfinished business. (consideration: CR H806)
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H793-796)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3838.
+- 2024-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-05 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 61). (text: CR H793)
+- 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 61). (text: CR H793)
