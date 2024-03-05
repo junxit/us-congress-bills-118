@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5426
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5426
@@ -20,9 +20,10 @@ To require the Administrator of the Small Business Administration to provide a l
 
 - Rep. Landsman, Greg [D-OH-1] (L000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To require the Administrator of the Small Business Administration to provide a l
 - 2024-02-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 2/28/2024 CR H726)
 - 2024-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 2/28/2024 CR H726)
+- 2024-03-05 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
