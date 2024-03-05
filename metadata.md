@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3277
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3277
@@ -46,3 +46,9 @@ Energy Emergency Leadership Act
 - 2024-02-29 — Placed on the Union Calendar, Calendar No. 331.
 - 2024-02-29 — Reported by the Committee on Energy and Commerce. H. Rept. 118-402.
 - 2024-02-29 — Reported by the Committee on Energy and Commerce. H. Rept. 118-402.
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H803-805)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3277.
+- 2024-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-05 — Mr. Duncan moved to suspend the rules and pass the bill.
+- 2024-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H803)
+- 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H803)
