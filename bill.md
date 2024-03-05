@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5616
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,21 +18,34 @@ This Act may be cited as the “Bringing Reliable Investment into Domestic Gulf 
 - **(a)** *Definitions* In this section:
   - **(1)** *Offshore lease sale* The term offshore lease sale means an oil and gas lease sale—
     - **(A)** that is held by the Secretary in accordance with the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), notwithstanding the requirements of section 18 of that Act (43 U.S.C. 1344);
-    - **(B)** offers the same lease form, lease terms, economic conditions, and stipulations as contained in the final notice of sale entitled “Gulf of Mexico Outer Continental Shelf Oil and Gas Lease Sale 257” (86 Fed. Reg. 54728 (October 4, 2021)); and
+    - **(B)** that, with respect to lease sales in the Gulf of Mexico region, offers the same lease form, lease terms, economic conditions, and stipulations as contained in the final notice of sale entitled “Gulf of Mexico Outer Continental Shelf Oil and Gas Lease Sale 257” (86 Fed. Reg. 54728 (October 4, 2021)); and
     - **(C)** that, if any acceptable bids have been received for any tract offered in the lease sale, results in the issuance of leases within 90 days of the sale to the highest bids on the tracts offered, subject to the Bureau of Ocean Energy Management “Summary of Procedures for Determining Bid Adequacy at Offshore Oil and Gas Lease Sales Effective March 2016, with Central Gulf of Mexico Sale 241 and Eastern Gulf of Mexico Sale 226”.
   - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(b)** *Waiver* The Secretary may waive any other requirements under section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344) that would delay final approval of an offshore lease sale under subsection (c).
 - **(c)** *Requirement* Notwithstanding section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344), the Secretary shall—
-  - **(1)** conduct not fewer than 4 offshore lease sales during the 2-year period beginning on the date of enactment of this Act; and
+  - **(1)** conduct not fewer than 13 offshore lease sales during the 5-year period beginning on the date of enactment of this Act, including 10 lease sales in the Gulf of Mexico region and 3 lease sales in the Cook Inlet Planning Area, notwithstanding lease sales which are held under the 2024–2029 Proposed Final Program (88 Fed. Reg. 67798 (October 2, 2023)); and
   - **(2)** ensure that the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Program Final Programmatic Environmental Impact Statement and Record of Decision shall apply to lease sales conducted under this subsection and shall be sufficient for purposes of complying with the National Environmental Policy Act for offshore lease sales conducted under this subsection to the extent it does not conflict with this Act.
-- **(d)** *Timing* In conducting the offshore lease sales required under subsection (c), the Secretary shall conduct an offshore lease sale not later than—
-  - **(1)** March 31, 2024;
-  - **(2)** August 31, 2024;
-  - **(3)** March 31, 2025; and
-  - **(4)** August 31, 2025.
+- **(d)** *Timing*
+  - **(1)** *Gulf of Mexico region* In conducting the offshore lease sales in the Gulf of Mexico region required under subsection (c), the Secretary shall conduct an offshore lease sale not later than—
+    - **(A)** March 31, 2024;
+    - **(B)** August 31, 2024;
+    - **(C)** March 31, 2025;
+    - **(D)** August 31, 2025;
+    - **(E)** March 31, 2026;
+    - **(F)** August 31, 2026;
+    - **(G)** March 31, 2027;
+    - **(H)** August 31, 2027;
+    - **(I)** March 31, 2028; and
+    - **(J)** August 31, 2028.
+  - **(2)** *Cook Inlet Planning Area* In conducting the offshore lease sales in the Cook Inlet Planning Area required under subsection (c), the Secretary shall conduct an offshore lease sale not later than—
+    - **(A)** August 31, 2025;
+    - **(B)** March 31, 2027; and
+    - **(C)** August 31, 2028.
 - **(e)** *Area offered for lease*
-  - **(1)** *Acreage* The Secretary shall offer not fewer than 80,000,000 acres for each offshore lease sale conducted under subsection (c).
-  - **(2)** *Location* An offshore lease sale conducted under subsection (c) shall be in the Gulf of Mexico Region Program Area as identified in Figure S–1 of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program published on November 18, 2016, by the Bureau of Ocean Energy Management (as announced in the notice of availability of the Bureau of Ocean Energy Management entitled “Notice of Availability of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program” (81 Fed. Reg. 84612 (November 23, 2016)).
+  - **(1)** *Acreage* The Secretary shall offer not fewer than 80,000,000 acres for each offshore lease sale conducted under subsection (c) for offshore lease sales in the Gulf of Mexico Region. The Secretary shall offer not fewer than 1,000,000 acres for each region wide lease sale conducted under subsection (c) in the Cook Inlet Planning Area.
+  - **(2)** *Location* An offshore lease sale conducted under subsection (c)—
+    - **(A)** in the Gulf of Mexico region shall offer the areas identified in Figure S–1 of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program published on November 18, 2016, by the Bureau of Ocean Energy Management (as announced in the notice of availability of the Bureau of Ocean Energy Management entitled “Notice of Availability of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program” (81 Fed. Reg. 84612 (November 23, 2016))); and
+    - **(B)** in the Cook Inlet Planning Area shall offer the areas identified in Figure S–2 of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program published on November 18, 2016, by the Bureau of Ocean Energy Management (as announced in the notice of availability of the Bureau of Ocean Energy Management entitled “Notice of Availability of the 2017–2022 Outer Continental Shelf Oil and Gas Leasing Proposed Final Program” (81 Fed. Reg. 84612 (November 23, 2016))).
 - **(f)** *Effect of litigation*
   - **(1)** *In general* A civil action challenging an offshore lease sale conducted under this section shall not—
     - **(A)** affect the validity of any lease issued under such an offshore lease sale; and
