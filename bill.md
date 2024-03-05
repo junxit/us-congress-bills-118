@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 3385
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3385
 
-> To direct the Assistant Secretary of Commerce for Communications and Information to submit to Congress a report containing an assessment of the value, cost, and feasibility of developing a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria, and for other purposes.
+> To direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria.
 
 ## § 1. Assessment of trans-Atlantic submarine fiber optic cable
 
