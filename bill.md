@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 7531
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7531
+
+> To require the Board of Governors of the Federal Reserve System to study the impacts of the Board’s Reg II proposed rule, to complete a quantitative impact analysis of such rule, and to consider the results of such study and analysis before finalizing such rule, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Secure Payments Act of 2024”.
+
+## § 2. Study and quantitative impact analysis related to interchange transaction fee requirements
+
+- **(a)** *In general* The Board of Governors of the Federal Reserve System shall conduct the following:
+  - **(1)** A study of—
+    - **(A)** the impacts of the Reg II proposed rule on—
+      - **(i)** consumers, including access to free or low- and no-cost deposit accounts;
+      - **(ii)** merchants’ costs of accepting debit cards; and
+      - **(iii)** financial institutions’ efforts to mitigate fraud; and
+    - **(B)** the cumulative impacts of all proposed rules of Federal agencies issued between January 1, 2023, and the date of enactment of this Act that affect deposit accounts.
+  - **(2)** A quantitative impact analysis of the Reg II proposed rule to study—
+    - **(A)** the potential impact of the rule on consumers, including the affordability of debit products and availability of low or no fee banking products serving low- and moderate-income communities; and
+    - **(B)** the impact of the changes made by the rule on small insured depository institutions.
+- **(b)** *Report* The Board of Governors of the Federal Reserve System shall issue a report to the Congress containing all findings and determinations made in carrying out the study and the quantitative impact analysis required under subsection (a).
+- **(c)** *Requirement To consider results of report before finalizing Reg II proposed rule* The Board of Governors may not finalize the Reg II proposed rule until after the issuance of the report required under subsection (b) and only after—
+  - **(1)** considering the results contained in such report; and
+  - **(2)** taking into account—
+    - **(A)** the effect of the Reg II proposed rule on the capital and earnings of depository institutions; and
+    - **(B)** whether the Board of Governors can determine that interchange fee caps provide net benefits to low- and moderate-income and underserved customers.
+- **(d)** *Reg II proposed rule defined* The term “Reg II proposed rule” means the proposed rule titled “Debit Card Interchange Fees and Routing” (88 Fed. Reg. 78100; published November 14, 2023).
