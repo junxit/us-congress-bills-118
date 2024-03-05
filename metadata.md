@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7102
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7102
@@ -47,3 +47,4 @@ Native American Entrepreneurial Opportunity Act
 - 2024-02-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 57). (text: 2/28/2024 CR H728-729)
 - 2024-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 57). (text: 2/28/2024 CR H728-729)
+- 2024-03-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.
