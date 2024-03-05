@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7128
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7128
@@ -20,9 +20,10 @@ The WOSB Integrity Act of 2024
 
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ The WOSB Integrity Act of 2024
 - 2024-02-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-02-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 2/28/2024 CR H727)
 - 2024-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 2/28/2024 CR H727)
+- 2024-03-05 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
