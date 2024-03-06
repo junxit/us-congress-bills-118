@@ -2,7 +2,7 @@
 legis-num: H.R. 3277
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3277
@@ -18,6 +18,6 @@ This Act may be cited as the “Energy Emergency Leadership Act”.
 - **(a)** *In general* Subsection (a) of section 203 of the Department of Energy Organization Act (42 U.S.C. 7133(a)) is amended by adding at the end the following new paragraph:
   > - **(12)** Energy emergency and energy security functions, including—
   >   - **(A)** responsibilities with respect to infrastructure, cybersecurity, emerging threats, supply, and emergency planning, coordination, response, and restoration; and
-  >   - **(B)** upon request of a State, local, or tribal government or energy sector entity, and in consultation with other Federal agencies as appropriate, provision of technical assistance, support, and response capabilities with respect to energy security threats, risks, and incidents.
+  >   - **(B)** upon request of a State, local, or tribal government or energy sector entity, and in consultation with other Federal agencies as appropriate, provision of technical assistance, support, and response capabilities with respect to energy security threats, risks, and inci- dents.
 
 - **(b)** *Coordination* The Secretary of Energy shall ensure that the functions of the Secretary described in section 203(a)(12) of the Department of Energy Organization Act (as added by this Act) are performed in coordination with relevant Federal agencies.

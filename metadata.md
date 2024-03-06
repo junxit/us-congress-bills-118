@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3277
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3277
@@ -52,3 +52,4 @@ Energy Emergency Leadership Act
 - 2024-03-05 — Mr. Duncan moved to suspend the rules and pass the bill.
 - 2024-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H803)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H803)
+- 2024-03-06 — Received in the Senate.
