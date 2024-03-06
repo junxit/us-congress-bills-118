@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3838
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3838
@@ -72,3 +72,4 @@ Preventing Maternal Deaths Reauthorization Act of 2023
 - 2024-03-05 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 61). (text: CR H793)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 61). (text: CR H793)
+- 2024-03-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
