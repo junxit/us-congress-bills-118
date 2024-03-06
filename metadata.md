@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 93
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2024-03-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H807)
 - 2024-03-06 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
 - 2024-03-06 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2246)
+- 2024-03-07 — Message on Senate action sent to the House.
