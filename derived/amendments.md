@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

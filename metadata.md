@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 4366
@@ -16,19 +16,52 @@ Consolidated Appropriations Act, 2024
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Cosponsors (236)
+## Cosponsors (269)
 
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Ricketts, Pete [R-NE] (R000618)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Ricketts, Pete [R-NE] (R000618)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -259,7 +292,7 @@ Consolidated Appropriations Act, 2024
 
 - House — Appropriations Committee
 
-## Recorded votes (28)
+## Recorded votes (35)
 
 - 2023-07-26 — [House 118-1-369](votes/house-118-1-0369.md) — On Agreeing to the Amendment — **Agreed to** (394–19)
 - 2023-07-26 — [House 118-1-370](votes/house-118-1-0370.md) — On Agreeing to the Amendment — **Failed** (99–327)
@@ -289,6 +322,13 @@ Consolidated Appropriations Act, 2024
 - 2023-11-01 — [Senate 118-1-282](votes/senate-118-1-0282.md) — On the Amendment — **Amendment Rejected** (52–45)
 - 2023-11-01 — [Senate 118-1-283](votes/senate-118-1-0283.md) — On the Amendment — **Amendment Rejected** (46–51)
 - 2023-11-01 — [Senate 118-1-284](votes/senate-118-1-0284.md) — On Passage of the Bill — **Bill Passed** (82–15)
+- 2024-03-08 — [Senate 118-2-78](votes/senate-118-2-0078.md) — On the Motion to Table — **Motion to Table Failed** (45–52)
+- 2024-03-08 — [Senate 118-2-79](votes/senate-118-2-0079.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–35)
+- 2024-03-08 — [Senate 118-2-80](votes/senate-118-2-0080.md) — On the Motion — **Motion Rejected** (43–50)
+- 2024-03-08 — [Senate 118-2-81](votes/senate-118-2-0081.md) — On the Motion — **Motion Rejected** (37–59)
+- 2024-03-08 — [Senate 118-2-82](votes/senate-118-2-0082.md) — On the Motion to Refer — **Motion to Refer Rejected** (32–64)
+- 2024-03-08 — [Senate 118-2-83](votes/senate-118-2-0083.md) — On the Motion — **Motion Rejected** (45–51)
+- 2024-03-08 — [Senate 118-2-84](votes/senate-118-2-0084.md) — On the Motion — **Motion Agreed to** (75–22)
 
 ## Actions
 
@@ -1331,3 +1371,241 @@ Consolidated Appropriations Act, 2024
 - 2024-03-06 — Senate amendment submitted
 - 2024-03-06 — Senate amendment submitted
 - 2024-03-06 — Senate amendment submitted
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — 
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-07 — Senate amendment submitted
+- 2024-03-08 — Amendment SA 1623 not agreed to in Senate by Yea-Nay Vote. 43 - 50. Record Vote Number: 80.
+- 2024-03-08 — Amendment SA 1623 proposed by Senator Lee. (consideration: CR S2324-2325) To prohibit the use of funds to initiate or decline a Federal criminal charge based on impermissible considerations.
+- 2024-03-08 — Amendment SA 1626 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 81.
+- 2024-03-08 — Amendment SA 1626 proposed by Senator Schmitt. (consideration: CR S2325-2326) To strike the provision making amounts available to the National Telecommunications and Information Administration for salaries and expenses, administration, and oversight of programs administered by the Administration that were funded under the Infrastructure Investment and Jobs Act.
+- 2024-03-08 — Amendment SA 1634 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 83.
+- 2024-03-08 — Amendment SA 1634 proposed by Senator Hagerty. (consideration: CR S2326-2327) To place a restriction on the use of funds relating to the decennial census.
+- 2024-03-08 — Cloture on the motion to concur in the House Amendment to the Senate Amendment to H.R. 4366 invoked in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 79.
+- 2024-03-08 — Considered by Senate (Message from the House considered).
+- 2024-03-08 — Considered by Senate (Message from the House considered). (consideration: CR S2295)
+- 2024-03-08 — Considered by Senate (Message from the House considered). (consideration: CR S2295)
+- 2024-03-08 — Considered by Senate (Message from the House considered). (consideration: CR S2295)
+- 2024-03-08 — Considered by Senate (Message from the House considered). (consideration: CR S2295)
+- 2024-03-08 — Considered by Senate (Message from the House considered). (consideration: CR S2295, S2327)
+- 2024-03-08 — Message on Senate action sent to the House.
+- 2024-03-08 — Motion by Senator Hagerty to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1634) made in Senate.
+- 2024-03-08 — Motion by Senator Hagerty to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1634) was not agreed to by Yea-Nay Vote. 45 - 51. Record Vote Number: 83.
+- 2024-03-08 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1623) made in Senate.
+- 2024-03-08 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1623) was not agreed to by Yea-Nay Vote. 43 - 50. Record Vote Number: 80.
+- 2024-03-08 — Motion by Senator Schmitt to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1626) made in Senate.
+- 2024-03-08 — Motion by Senator Schmitt to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1626) was not agreed to by Yea-Nay Vote. 37 - 59. Record Vote Number: 81.
+- 2024-03-08 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1618) withdrawn in Senate.
+- 2024-03-08 — Motion by Senator Schumer to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1620) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 4366 in Senate.
+- 2024-03-08 — Motion by Senator Scott FL, to refer to Senate Committee on Appropriations with instructions to report back, rejected in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 82.
+- 2024-03-08 — Motion to table the motion to refer the House message to accompany H.R. 4366 to the Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1620) rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 78.
+- 2024-03-08 — Presented to President.
+- 2024-03-08 — Presented to President.
+- 2024-03-08 — Proposed amendment SA 1618 withdrawn in Senate.
+- 2024-03-08 — Resolving differences -- Senate actions: Senate agreed to the House amendment to Senate amendment by Yea-Nay Vote. 75 - 22. Record Vote Number: 84.
+- 2024-03-08 — Roll call votes on amendments in Senate: Amendment SA 1623 not agreed to in Senate by Yea-Nay Vote. 43 - 50. Record Vote Number: 80.
+- 2024-03-08 — Roll call votes on amendments in Senate: Amendment SA 1626 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 81.
+- 2024-03-08 — Roll call votes on amendments in Senate: Amendment SA 1634 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 83.
+- 2024-03-08 — SA 1619 fell when SA 1618 was withdrawn.
+- 2024-03-08 — SA 1620 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 4366.
+- 2024-03-08 — SA 1621 fell when SA 1620 (the instructions of the motion to refer) fell.
+- 2024-03-08 — SA 1622 fell when SA 1621 fell.
+- 2024-03-08 — Senate agreed to the House amendment to Senate amendment by Yea-Nay Vote. 75 - 22. Record Vote Number: 84.
+- 2024-03-08 — Senate amendment not agreed to: Amendment SA 1623 not agreed to in Senate by Yea-Nay Vote. 43 - 50. Record Vote Number: 80.
+- 2024-03-08 — Senate amendment not agreed to: Amendment SA 1626 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 81.
+- 2024-03-08 — Senate amendment not agreed to: Amendment SA 1634 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 83.
+- 2024-03-08 — Senate amendment proposed (on the floor): Amendment SA 1623 proposed by Senator Lee.
+- 2024-03-08 — Senate amendment proposed (on the floor): Amendment SA 1626 proposed by Senator Schmitt.
+- 2024-03-08 — Senate amendment proposed (on the floor): Amendment SA 1634 proposed by Senator Hagerty.
+- 2024-03-09 — Became Public Law No: 118-42.
+- 2024-03-09 — Became Public Law No: 118-42.
+- 2024-03-09 — Signed by President.
+- 2024-03-09 — Signed by President.
