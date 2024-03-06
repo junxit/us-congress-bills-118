@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3821
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3821
@@ -34,6 +34,10 @@ Firefighter Cancer Registry Reauthorization Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-06 — [House 118-2-65](votes/house-118-2-0065.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–7)
+
 ## Actions
 
 - 2023-06-05 — Introduced in House
@@ -47,3 +51,11 @@ Firefighter Cancer Registry Reauthorization Act of 2023
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 197.
 - 2023-10-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-247.
 - 2023-10-25 — Reported by the Committee on Energy and Commerce. H. Rept. 118-247.
+- 2024-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H796-797)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3821.
+- 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2024-03-06 — Considered as unfinished business. (consideration: CR H971-972)
+- 2024-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
+- 2024-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
