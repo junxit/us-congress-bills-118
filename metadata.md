@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6976
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6976
@@ -16,9 +16,10 @@ Protect Our Communities from DUIs Act
 
 - Rep. Moore, Barry [R-AL-2] (M001212)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,5 @@ Protect Our Communities from DUIs Act
 - 2024-02-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 274 - 150 (Roll no. 31). (text of amendment in the nature of a substitute: CR H369)
 - 2024-02-01 — Rule provides for consideration of H.R. 5585, H.R. 6678, H.R. 6679 and H.R. 6976. The resolution provides for consideration of H.R. 5585, H.R. 6678, H.R. 6679, and H.R. 6976 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each measure.
 - 2024-02-01 — The previous question was ordered pursuant to the rule.
+- 2024-02-05 — Received in the Senate.
+- 2024-03-06 — Read twice and referred to the Committee on the Judiciary.
