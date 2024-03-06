@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4403
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4403
@@ -21,9 +21,10 @@ Securing the Cities Improvement Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Securing the Cities Improvement Act
 - 2024-03-05 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2024-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H786)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H786)
+- 2024-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
