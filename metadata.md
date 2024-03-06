@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4366
 congress: 118
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 4366
@@ -16,8 +16,20 @@ Consolidated Appropriations Act, 2024
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Cosponsors (224)
+## Cosponsors (236)
 
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -1267,3 +1279,55 @@ Consolidated Appropriations Act, 2024
 - 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1241 proposed by Senator Cramer to Amendment SA 1092.(consideration: CR S5274)
 - 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1249 proposed by Senator Cruz to Amendment SA 1092.(consideration: CR S5281-5282)
 - 2023-11-01 — Senate amendment proposed (on the floor): Amendment SA 1347 proposed by Senator Paul to Amendment SA 1092.(consideration: CR S5276)
+- 2023-11-06 — Message on Senate action sent to the House.
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — 
+- 2024-03-06 — Amendment SA 1618 proposed by Senator Schumer. (consideration: CR S2234) To add an effective date.
+- 2024-03-06 — Amendment SA 1619 proposed by Senator Schumer to Amendment SA 1618. (consideration: CR S2234) To add an effective date.
+- 2024-03-06 — Amendment SA 1620 proposed by Senator Schumer. (consideration: CR S2234) To add an effective date.
+- 2024-03-06 — Amendment SA 1621 proposed by Senator Schumer to Amendment SA 1620 (the instructions of the motion to refer). (consideration: CR S2234) To add an effective date.
+- 2024-03-06 — Amendment SA 1622 proposed by Senator Schumer to Amendment SA 1621. (consideration: CR S2234) To add an effective date.
+- 2024-03-06 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 4366 presented in Senate. (CR S2233-2234)
+- 2024-03-06 — Measure laid before Senate by unanimous consent. (consideration: CR S2233-2236)
+- 2024-03-06 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2024-03-06 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 4366 made in Senate. (CR S2233)
+- 2024-03-06 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 4366 with an amendment (SA 1618) made in Senate. (CR S2234)
+- 2024-03-06 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 4366 with instructions to report back forthwith with the following amendment (SA 1620) made in Senate. (CR S2234)
+- 2024-03-06 — Pursuant to the provisions of H. Res. 1061, the House agreed to the Senate amendment with an amendment.
+- 2024-03-06 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 1061, the House agreed to the Senate amendment with an amendment.
+- 2024-03-06 — Senate amendment proposed (on the floor): Amendment SA 1618 proposed by Senator Schumer.
+- 2024-03-06 — Senate amendment proposed (on the floor): Amendment SA 1619 proposed by Senator Schumer to Amendment SA 1618.
+- 2024-03-06 — Senate amendment proposed (on the floor): Amendment SA 1620 proposed by Senator Schumer.
+- 2024-03-06 — Senate amendment proposed (on the floor): Amendment SA 1621 proposed by Senator Schumer to Amendment SA 1620 (the instructions of the motion to refer).
+- 2024-03-06 — Senate amendment proposed (on the floor): Amendment SA 1622 proposed by Senator Schumer to Amendment SA 1621.
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
+- 2024-03-06 — Senate amendment submitted
