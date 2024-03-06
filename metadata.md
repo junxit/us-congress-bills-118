@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6254
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6254
@@ -25,3 +25,10 @@ Public Buildings Accountability Act of 2023
 - 2023-11-07 — Introduced in House
 - 2023-11-07 — Introduced in House
 - 2023-11-07 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-11-08 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-11-15 — Committee Consideration and Mark-up Session Held
+- 2023-11-15 — Ordered to be Reported by Voice Vote.
+- 2023-11-15 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2024-03-06 — Placed on the Union Calendar, Calendar No. 339.
+- 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-412.
+- 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-412.
