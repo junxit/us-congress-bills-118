@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3836
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3836
@@ -23,9 +23,10 @@ Medicaid Primary Care Improvement Act
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Pettersen, Brittany [D-CO-7] (P000620)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Medicaid Primary Care Improvement Act
 - 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H798-799)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H798-799)
+- 2024-03-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
