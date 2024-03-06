@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3385
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3385
@@ -20,9 +20,10 @@ To direct the Secretary of Commerce to submit to Congress a report containing an
 
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To direct the Secretary of Commerce to submit to Congress a report containing an
 - 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H801-802)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H801-802)
 - 2024-03-05 — The title of the measure was amended. Agreed to without objection.
+- 2024-03-06 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
