@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5969
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5969
@@ -21,10 +21,11 @@ Improving Travel for Families Act
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Ivey, Glenn [D-MD-4] (I000058)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Improving Travel for Families Act
 - 2024-03-05 — Mr. Green (TN) moved to suspend the rules and pass the bill, as amended.
 - 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H787)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H787)
+- 2024-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
