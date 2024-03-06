@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 94
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 94
@@ -26,3 +26,6 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2024-03-06 — On agreeing to the resolution Agreed to without objection. (text: CR H972)
 - 2024-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H972)
 - 2024-03-06 — Received in the Senate.
+- 2024-03-08 — Message on Senate action sent to the House.
+- 2024-03-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2024-03-08 — Resolution agreed to in Senate without amendment by Unanimous Consent.
