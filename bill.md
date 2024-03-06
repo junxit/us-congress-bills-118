@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6260
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Federal Oversight of Construction Use and Safety
 
 ## § 2. Eliminating project escalations
 
-Section 3307(c) of title 40, United States Code, is amended by adding at the end the following: “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”.
+Section 3307(c) of title 40, United States Code, is amended by adding at the end the following: “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”
 
 ## § 3. Public safety at Federal buildings
 
@@ -31,8 +31,9 @@ Section 3307(b) of title 40, United States Code, is amended—
 - **(1)** in paragraph (7) by striking “and” at the end;
 - **(2)** in paragraph (8) by striking the period at the end and inserting a semicolon; and
 - **(3)** by adding at the end the following:
-  > - **(9)** information on any space occupied by the relevant agency in the geographical area of the proposed facility, including uses, utilization rates, any proposed consolidations, and, if not proposed to be consolidated, a justification for such determination; and
-  > - **(10)** details on actual utilization rates, including number of personnel assigned to the facility, number of personnel expected to work in-person at the facility and whether all personnel identified reflect filled and authorized positions.
+  > - **(9)** information on any space occupied by the relevant agency in the geographical area of the proposed facility, including uses, utilization rates, any proposed consolidations, and, if not proposed to be consolidated, a justification for such determination;
+  > - **(10)** a statement by the Administrator of whether the public building needs of the Government for the proposed space to be leased were formerly met by a federally owned building, including any building identified for disposal or sale; and
+  > - **(11)** details on actual utilization rates, including number of personnel assigned to the facility, number of personnel expected to work in-person at the facility and whether all personnel identified reflect filled and authorized positions.
 
 ## § 5. Review of special use space
 
@@ -47,3 +48,14 @@ Section 3307(b) of title 40, United States Code, is amended—
   > Unless a Federal agency specifically restricts the sharing of the information described in this section for national security purposes, the Administrator of General Services shall share with tenant Federal agencies pursuing new or replacement office space information on any other Federal agencies located in the same geographical area for purposes of determining opportunities for consolidations, collocations, or other space sharing to reduce the costs of space and maximize space utilization.
 
 - **(b)** *Clerical amendment* The analysis for chapter 33 of title 40, United States Code, is amended by adding at the end the following:
+
+## § 7. Notification of milestones
+
+Section 3307 of title 40, United States Code, is amended by adding at the end the following:
+
+> - **(i)** *Notification required* For each project approved under this section, the Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any project milestones that are accomplished, including—
+>   - **(1)** the solicitation and award of design and construction services;
+>   - **(2)** the completion of any actions required for such project pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+>   - **(3)** any ceremonies for the beginning or completion of such project;
+>   - **(4)** a naming ceremony for such project; and
+>   - **(5)** the completion of such project.
