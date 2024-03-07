@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3821
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3821
@@ -61,3 +61,14 @@ Firefighter Cancer Registry Reauthorization Act of 2023
 - 2024-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
 - 2024-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
 - 2024-03-07 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-12-04 — Passed Senate without amendment by Voice Vote. (consideration: CR S6822-6823)
+- 2024-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-04 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-04 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-05 — Message on Senate action sent to the House.
+- 2024-12-10 — Presented to President.
+- 2024-12-10 — Presented to President.
+- 2024-12-12 — Became Public Law No: 118-147.
+- 2024-12-12 — Became Public Law No: 118-147.
+- 2024-12-12 — Signed by President.
+- 2024-12-12 — Signed by President.
