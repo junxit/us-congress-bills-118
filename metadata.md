@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3821
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3821
@@ -30,9 +30,10 @@ Firefighter Cancer Registry Reauthorization Act of 2023
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Firefighter Cancer Registry Reauthorization Act of 2023
 - 2024-03-06 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
 - 2024-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 7 (Roll no. 65). (text: 3/5/2024 CR H796)
+- 2024-03-07 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
