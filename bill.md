@@ -1,0 +1,35 @@
+---
+legis-num: H. RES. 1066
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1066
+
+> Calling for the immediate release of Mahmood Habibi, a United States citizen, who was wrongfully detained by the Taliban on August 10, 2022, and condemning the wrongful detention of United States citizens by the Taliban.
+
+## Preamble
+
+- Whereas United States citizen Mahmood Habibi has lived a noble life in service of his home country Afghanistan, by contributing to the aviation needs of the Afghan population;
+- Whereas Mahmood Habibi hoped to build up Afghanistan and work for the future of Afghans;
+- Whereas Mahmood Habibi was a dedicated civil aviation engineer who worked for the United States Federal Aviation Administration in Afghanistan and went on to serve as head of Afghanistan’s Civil Aviation Authority;
+- Whereas, in 2019, Mahmood Habibi began pursuing his master’s degree at Georgetown University and joined ARX Communications, a Virginia-based telecommunications firm responsible for operating the infrastructure of Afghanistan’s civilian airports;
+- Whereas Mahmood Habibi is known to his family, friends, colleagues, and associates as a loving husband and father, as well as a kind, intelligent man;
+- Whereas Mahmood Habibi was arrested by the Taliban in August 2022, because the Taliban made an assumption that Mahmood Habibi’s employer might have been involved in the United States drone strike in Kabul that killed an Al-Qaeda leader;
+- Whereas Mahmood Habibi was arrested outside his home in Afghanistan while the Taliban searched his home and took his laptop and paperwork;
+- Whereas, on August 10, 2022, Mahmood Habibi and 30 of his ARX colleagues were in Afghanistan for business and were detained by the Taliban;
+- Whereas the Taliban-run General Directorate of Intelligence (“GDI”) interrogated Mahmood Habibi and 30 of his colleagues, eventually releasing 29 of them except Mahmood Habibi and one of his colleagues;
+- Whereas the Afghanistan’s Ministry of Communications have admitted Mahmood Habibi is in the hands of the GDI, but the Taliban continue to refuse to acknowledge that they are holding him captive;
+- Whereas the Taliban detained Mahmood Habibi and have held him captive without explanation, being charged with a crime, or granting him due process in any judicial proceedings;
+- Whereas the Taliban have detained Mahmood Habibi without contact with his wife, 2-year-old daughter, or any other family member; and
+- Whereas Mahmood Habibi’s family members have struggled mentally, emotionally, and financially since his abduction: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** calls on the Taliban to immediately and unconditionally release Mahmood Habibi and all other United States detainees;
+- **(2)** urges the Taliban to respect Mahmood Habibi’s human rights and to provide full, unfettered, and consistent health and safety visits to Mahmood Habibi while in detention;
+- **(4)** urges all United States executive branch officials to continue to raise the case of Mahmood Habibi and to press for his immediate release in all interactions with the Taliban;
+- **(5)** condemns the Taliban’s practice of hostage taking and demands that the Taliban stop detaining United States citizens for political gain;
+- **(6)** expresses sympathy for and solidarity with the families of all other citizens and lawful permanent residents of the United States wrongfully detained abroad; and
+- **(7)** expresses support for the family of Mahmood Habibi and a commitment to bringing Mahmood Habibi home.
