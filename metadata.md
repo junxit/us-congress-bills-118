@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3843
@@ -38,6 +38,10 @@ Action for Dental Health Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-07 — [House 118-2-67](votes/house-118-2-0067.md) — On Motion to Suspend the Rules and Pass — **Passed** (391–32)
+
 ## Actions
 
 - 2023-06-06 — Introduced in House
@@ -51,3 +55,11 @@ Action for Dental Health Act of 2023
 - 2023-10-03 — Placed on the Union Calendar, Calendar No. 194.
 - 2023-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 118-243.
 - 2023-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 118-243.
+- 2024-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H800-801)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3843.
+- 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2024-03-07 — Considered as unfinished business. (consideration: CR H1021)
+- 2024-03-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 32 (Roll no. 67). (text: 03/05/2024 CR H800)
+- 2024-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 32 (Roll no. 67). (text: 03/05/2024 CR H800)
