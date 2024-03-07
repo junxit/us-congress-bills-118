@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6174
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6174
@@ -38,3 +38,11 @@ DHS Biodetection Improvement Act
 - 2023-12-19 — Placed on the Union Calendar, Calendar No. 260.
 - 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-321.
 - 2023-12-19 — Reported by the Committee on Homeland Security. H. Rept. 118-321.
+- 2024-03-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Green (TN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-03-05 — Considered under suspension of the rules. (consideration: CR H791-792)
+- 2024-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6174.
+- 2024-03-05 — Mr. Green (TN) moved to suspend the rules and pass the bill.
+- 2024-03-07 — Considered as unfinished business. (consideration: CR H1025)
+- 2024-03-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
+- 2024-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
