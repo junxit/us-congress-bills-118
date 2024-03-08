@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3391
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3391
@@ -88,3 +88,14 @@ Gabriella Miller Kids First Research Act 2.0
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 4 (Roll no. 60). (text: CR H792)
 - 2024-03-06 — Received in the Senate.
 - 2024-03-08 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-12-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S7297-7298)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-228.
+- 2025-01-04 — Became Public Law No: 118-228.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
