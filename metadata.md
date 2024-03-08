@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3843
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3843
@@ -34,9 +34,10 @@ Action for Dental Health Act of 2023
 - Rep. Pocan, Mark [D-WI-2] (P000607)
 - Rep. Tlaib, Rashida [D-MI-12] (T000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Action for Dental Health Act of 2023
 - 2024-03-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-03-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 32 (Roll no. 67). (text: 03/05/2024 CR H800)
 - 2024-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 32 (Roll no. 67). (text: 03/05/2024 CR H800)
+- 2024-03-08 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
