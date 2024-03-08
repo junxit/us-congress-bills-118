@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6174
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6174
@@ -23,9 +23,10 @@ DHS Biodetection Improvement Act
 - Rep. Swalwell, Eric [D-CA-14] (S001193)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ DHS Biodetection Improvement Act
 - 2024-03-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
 - 2024-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
+- 2024-03-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
