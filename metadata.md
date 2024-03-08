@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 566
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 566
@@ -16,7 +16,7 @@ A resolution designating September 2024 as "National Cholesterol Education Month
 
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Padilla, Alex [D-CA] (P000145)
@@ -25,6 +25,9 @@ A resolution designating September 2024 as "National Cholesterol Education Month
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
 - Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -34,3 +37,7 @@ A resolution designating September 2024 as "National Cholesterol Education Month
 
 - 2024-02-26 — Introduced in Senate
 - 2024-02-26 — Referred to the Committee on the Judiciary.
+- 2024-03-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-03-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-03-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-03-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.
