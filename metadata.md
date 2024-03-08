@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3391
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3391
@@ -56,9 +56,10 @@ Gabriella Miller Kids First Research Act 2.0
 - Rep. Mann, Tracey [R-KS-1] (M000871)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,5 @@ Gabriella Miller Kids First Research Act 2.0
 - 2024-03-05 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2024-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 4 (Roll no. 60). (text: CR H792)
 - 2024-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 4 (Roll no. 60). (text: CR H792)
+- 2024-03-06 — Received in the Senate.
+- 2024-03-08 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
