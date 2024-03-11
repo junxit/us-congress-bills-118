@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6249
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6249
@@ -45,3 +45,9 @@ Think Differently About Emergencies Act
 - 2024-02-20 — Placed on the Union Calendar, Calendar No. 321.
 - 2024-02-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-392.
 - 2024-02-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-392.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1071-1073)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6249.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
+- 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1071-1072)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1071-1072)
