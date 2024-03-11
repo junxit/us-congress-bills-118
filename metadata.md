@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6254
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6254
@@ -32,3 +32,9 @@ Public Buildings Accountability Act of 2023
 - 2024-03-06 — Placed on the Union Calendar, Calendar No. 339.
 - 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-412.
 - 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-412.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1069-1070)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6254.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Perry moved to suspend the rules and pass the bill.
+- 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1069)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1069)
