@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6316
@@ -36,3 +36,9 @@ To amend title 40, United States Code, to establish an expiration date of certai
 - 2024-03-07 — Placed on the Union Calendar, Calendar No. 340.
 - 2024-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-413.
 - 2024-03-07 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-413.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1068-1069)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6316.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Perry moved to suspend the rules and pass the bill.
+- 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1068)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1068)
