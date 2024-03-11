@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 62
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 62
@@ -16,9 +16,18 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (1)
+## Cosponsors (10)
 
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Marshall, Roger [R-KS] (M001198)
 
 ## Committees (1)
 
@@ -28,3 +37,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2024-02-26 — Introduced in Senate
 - 2024-02-26 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2024-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
+- 2024-03-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2024-03-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
