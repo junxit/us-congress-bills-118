@@ -1,7 +1,7 @@
 ---
 measure: H.R. 532
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 532
@@ -36,3 +36,9 @@ To designate the Federal building and United States courthouse located at 600 Ea
 - 2023-09-18 — Placed on the House Calendar, Calendar No. 35.
 - 2023-09-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-200.
 - 2023-09-18 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-200.
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1070-1071)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 532.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
+- 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1070-1071)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1070-1071)
