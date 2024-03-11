@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7521
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7521
@@ -16,7 +16,7 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
 
-## Cosponsors (19)
+## Cosponsors (54)
 
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
@@ -37,6 +37,41 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 - Rep. Brown, Shontel M. [D-OH-11] (B001313)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Pelosi, Nancy [D-CA-11] (P000197)
+- Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. Eshoo, Anna G. [D-CA-16] (E000215)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Slotkin, Elissa [D-MI-7] (S001208)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Mfume, Kweisi [D-MD-7] (M000687)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Curtis, John R. [R-UT-3] (C001114)
+- Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. LaTurner, Jake [R-KS-2] (L000266)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
 
 ## Committees (1)
 
@@ -47,3 +82,10 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Referred to the House Committee on Energy and Commerce.
+- 2024-03-06 — Referred to the Subcommittee on Innovation, Data, and Commerce.
+- 2024-03-07 — Committee Consideration and Mark-up Session Held
+- 2024-03-07 — Ordered to be Reported by the Yeas and Nays: 50 - 0.
+- 2024-03-07 — Subcommittee on Innovation, Data, and Commerce Discharged
+- 2024-03-11 — Placed on the Union Calendar, Calendar No. 344.
+- 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-417.
+- 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-417.
