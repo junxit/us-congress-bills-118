@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2799
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2799
@@ -16,10 +16,11 @@ Expanding Access to Capital Act of 2023
 
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Education and Workforce Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (11)
 
@@ -159,3 +160,4 @@ Expanding Access to Capital Act of 2023
 - 2024-03-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2799.
 - 2024-03-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-03-08 — The previous question was ordered pursuant to the rule.
+- 2024-03-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
