@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 886
@@ -33,6 +33,10 @@ Save Our Seas 2.0 Amendments Act
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2024-03-11 — [House 118-2-80](votes/house-118-2-0080.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (326–73)
+
 ## Actions
 
 - 2023-02-09 — Introduced in House
@@ -54,3 +58,11 @@ Save Our Seas 2.0 Amendments Act
 - 2023-09-08 — Placed on the Union Calendar, Calendar No. 154.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-167, Part II.
 - 2023-09-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-167, Part II.
+- 2024-03-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-11 — Considered as unfinished business. (consideration: CR H1080-1081)
+- 2024-03-11 — Considered under suspension of the rules. (consideration: CR H1076-1078)
+- 2024-03-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 886.
+- 2024-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-11 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
+- 2024-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 73 (Roll no. 80). (text: CR H1076-1077)
+- 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 73 (Roll no. 80). (text: CR H1076-1077)
