@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7511
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7511
@@ -121,3 +121,5 @@ Laken Riley Act
 - 2024-03-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 251 - 170 (Roll no. 66). (text: CR H1013-1014)
 - 2024-03-07 — Rule provides for consideration of H.R. 2799 and H.R. 7511. Resolution provides for consideration of H.R. 2799, under a structured rule with one hour of general debate and one motion to recommit. The resolution provides for consideration of H.R. 7511 under a closed rule with one hour of general debate and one motion to recommit.
 - 2024-03-07 — The previous question was ordered pursuant to the rule.
+- 2024-03-08 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-03-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.
