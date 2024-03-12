@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 83
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 83
@@ -44,3 +44,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2024-03-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1067)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1067)
 - 2024-03-12 — Received in the Senate.
+- 2024-05-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3667)
+- 2024-05-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S3667)
+- 2024-05-10 — Message on Senate action sent to the House.

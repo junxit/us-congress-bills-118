@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 83
-congress: 118th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 83
