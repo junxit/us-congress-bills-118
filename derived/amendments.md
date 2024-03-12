@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1752
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

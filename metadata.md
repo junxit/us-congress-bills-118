@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1752
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1752
@@ -26,11 +26,12 @@ E-BRIDGE Act
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 
-## Committees (3)
+## Committees (4)
 
 - House — Budget Committee
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ E-BRIDGE Act
 - 2024-03-11 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 20 (Roll no. 79). (text: CR H1074)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 20 (Roll no. 79). (text: CR H1074)
+- 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
