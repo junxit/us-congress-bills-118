@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1189
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Recycling Infrastructure and Accessibility Act of 2023”.
+This Act may be cited as the “Recycling Infrastructure and Accessibility Act of 2024”.
 
 ## § 2. Recycling Infrastructure and Accessibility Program
 
@@ -52,15 +52,13 @@ This Act may be cited as the “Recycling Infrastructure and Accessibility Act o
   - **(1)** not less than $500,000; and
   - **(2)** not more than $15,000,000.
 - **(j)** *Set-Aside* The Administrator shall set aside not less than 70 percent of the amounts made available to carry out the pilot grant program for each fiscal year to award grants to eligible entities to carry out a proposed project or program in a single underserved community or multiple underserved communities.
-- **(k)** *Federal share*
-  - **(1)** *In general* Subject to paragraph (2), the Federal share of the cost of a project or program carried out by an eligible entity using grant funds shall be not more than 90 percent.
-  - **(2)** *Waiver* The Administrator may waive the Federal share requirement under paragraph (1) if the Administrator determines that an eligible entity would experience significant financial hardship as a result of that requirement.
+- **(k)** *Federal share* The Federal share of the cost of a project or program carried out by an eligible entity using grant funds shall be not more than 95 percent.
 - **(l)** *Report* Not later than 2 years after the date on which the first grant is awarded under the pilot grant program, the Administrator shall submit to Congress a report describing the implementation of the pilot grant program, which shall include—
   - **(1)** a list of eligible entities that have received a grant under the pilot grant program;
   - **(2)** the actions taken by each eligible entity that received a grant under the pilot grant program to improve recycling accessibility with grant funds; and
   - **(3)** to the extent information is available, a description of how grant funds received under the pilot grant program improved recycling rates in each community in which a project or program was carried out under the pilot grant program.
 - **(m)** *Authorization of appropriations*
-  - **(1)** *In general* There is authorized to be appropriated to the Administrator to carry out the pilot grant program $30,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+  - **(1)** *In general* There is authorized to be appropriated to the Administrator to carry out the pilot grant program $30,000,000 for each of fiscal years 2025 through 2029, to remain available until expended.
   - **(2)** *Administrative costs and technical assistance* Of the amounts made available under paragraph (1), the Administrator may use up to 5 percent—
     - **(A)** for administrative costs relating to carrying out the pilot grant program; and
     - **(B)** to provide technical assistance to eligible entities applying for a grant under the pilot grant program.

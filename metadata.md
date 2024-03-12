@@ -1,7 +1,7 @@
 ---
 measure: S. 1189
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1189
@@ -16,7 +16,7 @@ Recycling Infrastructure and Accessibility Act of 2024
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -29,6 +29,8 @@ Recycling Infrastructure and Accessibility Act of 2024
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (2)
 
@@ -44,3 +46,13 @@ Recycling Infrastructure and Accessibility Act of 2024
 - 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-41.
 - 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-41.
 - 2023-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
+- 2024-03-12 — 
+- 2024-03-12 — Amendment SA 1691 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Amendment SA 1691 proposed by Senator Schumer for Senator Capito. (consideration: CR S2368) To improve the bill.
+- 2024-03-12 — Measure laid before Senate by unanimous consent. (consideration: CR S2368)
+- 2024-03-12 — Passed Senate with amendments by Unanimous Consent. (text: CR S2368)
+- 2024-03-12 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2024-03-12 — Senate amendment agreed to: Amendment SA 1691 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Senate amendment proposed (on the floor): Amendment SA 1691 proposed by Senator Schumer for Senator Capito.
+- 2024-03-12 — Senate amendment submitted
+- 2024-03-12 — Senate amendment submitted
