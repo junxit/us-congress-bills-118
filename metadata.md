@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 886
@@ -66,3 +66,4 @@ Save Our Seas 2.0 Amendments Act
 - 2024-03-11 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 73 (Roll no. 80). (text: CR H1076-1077)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 73 (Roll no. 80). (text: CR H1076-1077)
+- 2024-03-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
