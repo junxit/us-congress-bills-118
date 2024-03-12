@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6276
 
-> To direct the Administrator of General Services and the Director of the Office of Management and Budget to identify the utilization rate of certain public buildings and federally-leased space, and for other purposes.
+> To authorize the Administrator of General Services and the Director of the Office of Management and Budget to identify the utilization rate of certain public buildings and federally- leased space, and for other purposes.
 
 ## § 1. Short title
 
@@ -22,21 +22,24 @@ This Act may be cited as the “Utilizing Space Efficiently and Improving Techno
   - **(4)** *Capacity* The term “capacity” means the total usable square footage of a public building or federally-leased space divided by a utilization benchmark.
   - **(5)** *Director* The term “Director” means the Director of the Office of Management and Budget.
   - **(6)** *Federal agency* The term “Federal agency” means an executive department covered by the CFO Act of 1990 (Public Law 101–576).
-  - **(7)** *Occupancy* The term “occupancy” means the total number of employees performing duties in person in a public building or federally-leased space at least 5 days per week on a regular basis.
+  - **(7)** *Occupancy* The term “occupancy” means the total number of employees actually performing duties in person in a public building or federally-leased space 40 hours per week regardless of work arrangements.
 
 ## § 3. Identification and deployment of building usage technology
 
 - **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Administrator, in coordination with the Director, shall establish standard methodologies and identify technologies available for measuring occupancy in public buildings and federally-leased space.
-- **(b)** *Measurement of utilization* Not later than 180 days after the date of enactment of this Act, the heads of Federal agencies shall work with the Administrator to identify, deploy, and use sensors and other technologies in public buildings and federally-leased space, where the Federal agency occupies space to measure the occupancy of public buildings and leased space.
+- **(b)** *Measurement of utilization* Not later than 180 days after the date of enactment of this Act, the heads of Federal agencies shall work with the Administrator to identify, deploy, and use sensors, Personal Identity Verification badge swipe data isolating only the first credential use of the day for each cardholder, and other technologies in public buildings and federally-leased space, where the Federal agency occupies space to measure the occupancy of public buildings and leased space.
+- **(c)** *Protection of personally identifiable information* In carrying out subsection (b), the Administrator shall ensure any sensors used for the purposes of determining occupancy are designed to protect of all personally identifiable information.
 
 ## § 4. Reporting on usage of real property
 
-Not later than 1 year after the date of enactment of this Act, and annually thereafter, the heads of Federal agencies shall submit to the Director, the Administrator, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate a report on—
-
-- **(1)** the occupancy and the actual utilization rates of space in public buildings and federally-leased space occupied by the respective agency of the Federal agency head broken down by building and lease;
-- **(2)** the methodology used for determining occupancy, including the period of time and other parameters used to determine occupancy on a regular basis;
-- **(3)** the utilization percentage of each public building and federally-leased space by the respective agency of the Federal agency head, comparing the capacity to the actual utilization rate based on a utilization benchmark of 150 usable square feet per person; and
-- **(4)** any costs associated with capacity that exceeds occupancy with respect to the respective agency of the Federal agency head.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the heads of Federal agencies shall submit to the Director, the Administrator, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate a report on—
+  - **(1)** the occupancy and the actual utilization rates of space in public buildings and federally-leased space occupied by the respective agency of the Federal agency head broken down by building and lease;
+  - **(2)** the methodology used for determining occupancy, including the period of time and other parameters used to determine occupancy on a regular basis;
+  - **(3)** the utilization percentage of each public building and federally-leased space by the respective agency of the Federal agency head, comparing the capacity to the actual utilization rate based on a utilization benchmark of 150 usable square feet per person; and
+  - **(4)** any costs associated with capacity that exceeds occupancy with respect to the respective agency of the Federal agency head.
+- **(b)** *Publishing requirement*
+  - **(1)** *In general* Except as provided in paragraph (2), the heads of Federal agencies shall make each report required under subsection (a) available on a publicly accessible website of the General Services Administration.
+  - **(2)** *Exception* The publishing requirements of paragraph (1) shall not apply if the head of the respective Federal agency makes a determination that making the report required under subsection (a) available on a publicly accessible website would be detrimental to national security.
 
 ## § 5. Reducing unneeded space
 
@@ -59,3 +62,35 @@ Not later than 1 year after the date of enactment of this Act, and annually ther
   - **(3)** A detailed breakdown of any costs associated with the proposed consolidations and collocations.
   - **(4)** An estimate of future savings as a result of space reductions and consolidations, including costs associated with energy savings and building operations.
 - **(c)** *Implementation* Not later than 1 year after the submission of the plan under subsection (a), the Administrator and Director shall begin implementing such plan.
+
+## § 7. Federal Use it or Lose it Leases Act
+
+- **(a)** *Reporting of space utilization and occupancy data for office space* An occupancy agreement between the Administrator of General Services and a Federal tenant for office space shall—
+  - **(1)** include language that requires the Federal tenant to submit to the Administrator an annual report for the duration of the agreement containing data on—
+    - **(A)** monthly total occupancy of such office space;
+    - **(B)** the actual utilization of such office space;
+    - **(C)** monthly space utilization rates; and
+    - **(D)** any other office space utilization data considered important by the Administrator; and
+  - **(2)** include language that requires the Federal tenant to have written procedures in place governing the return of office space to the Administrator if the occupancy of the Federal tenant falls below a 60 percent space utilization rate for 6 months within any 1-year period, beginning on the date on which the agreement takes effect.
+- **(b)** *Requirements for Federal agencies with independent leasing authorities* The head of any agency with independent leasing authorities with leases for office space shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and each congressional committee of jurisdiction of the applicable independent leasing authority an annual report for the duration of such agreement containing data on—
+  - **(1)** monthly total occupancy of the office space;
+  - **(2)** the actual utilization of such office space;
+  - **(3)** monthly space utilization rates; and
+  - **(4)** any other office space utilization data considered important for collection by Congress.
+- **(c)** *Exceptions to reporting and occupancy agreement requirements* This section shall not apply to properties used by an element of the intelligence community.
+- **(d)** *Applicability* The requirements of this section shall apply to any occupancy or novation agreement entered into on or after the date that is 6 months after the date of enactment of this Act.
+- **(e)** *Definitions* In this section:
+  - **(1)** *Federal tenant* The term “Federal tenant”—
+    - **(A)** means an Federal agency that has an occupancy agreement with the Administrator of General Services to occupy a commercial lease for office space secured by the Administrator on behalf of the Federal Government; and
+    - **(B)** does not include an element of the intelligence community.
+  - **(2)** *Intelligence community* The term “intelligence community” has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+## § 8. GAO report
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the cost to each Federal agency of measuring the occupancy and actual utilization rates of space in public buildings and federally-leased space to prepare the reports required under section 4.
+- **(b)** *Requirements* The Comptroller General shall include in the report required under subsection (a) the cost of deploying sensors and technologies pursuant to section 3 but shall exclude any such technologies that were in place before the date of enactment of this Act.
+
+## § 9. Investigation of underutilized space
+
+- **(a)** *Reporting requirement* Not later than 90 days after the submission of each report under section 4, the head of each Federal agency shall submit to the inspector general of each respective agency a report detailing any public building or federally-leased space with a capacity of 500 or more employees under the jurisdiction of such agency that has a utilization rate below 20 percent during the reporting period that is not a vacant office building.
+- **(b)** *Inspector general investigation* Upon receipt of a report under subsection (a), the inspector general of the relevant Federal agency shall conduct an investigation to determine whether there is any evidence of fraud, waste, abuse, or mismanagement with respect to the use of the public building or federally-leased space identified in the report.
