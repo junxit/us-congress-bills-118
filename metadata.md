@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6254
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6254
@@ -16,9 +16,10 @@ Public Buildings Accountability Act of 2023
 
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Public Buildings Accountability Act of 2023
 - 2024-03-11 — Mr. Perry moved to suspend the rules and pass the bill.
 - 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1069)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1069)
+- 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
