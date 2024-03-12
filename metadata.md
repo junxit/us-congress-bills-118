@@ -1,7 +1,7 @@
 ---
 measure: S. 3891
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3891
@@ -30,3 +30,7 @@ Economic Development Reauthorization Act of 2024
 
 - 2024-03-07 — Introduced in Senate
 - 2024-03-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2024-03-12 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2024-03-12 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-03-12 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 345.
