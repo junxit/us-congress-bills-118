@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6316
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6316
@@ -20,9 +20,10 @@ To amend title 40, United States Code, to establish an expiration date of certai
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend title 40, United States Code, to establish an expiration date of certai
 - 2024-03-11 — Mr. Perry moved to suspend the rules and pass the bill.
 - 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1068)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1068)
+- 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
