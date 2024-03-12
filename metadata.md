@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2882
@@ -57,3 +57,13 @@ Further Consolidated Appropriations Act, 2024
 - 2024-02-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 58 (Roll no. 32). (text: CR H395)
 - 2024-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 58 (Roll no. 32). (text: CR H395)
 - 2024-02-06 — Received in the Senate.
+- 2024-03-12 — 
+- 2024-03-12 — Amendment SA 1693 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Amendment SA 1693 proposed by Senator Schumer for Senator Kelly. (consideration: CR S2370) In the nature of a substitute.
+- 2024-03-12 — Measure laid before Senate by unanimous consent. (consideration: CR S2370)
+- 2024-03-12 — Passed Senate with an amendment by Unanimous Consent.
+- 2024-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-03-12 — Senate amendment agreed to: Amendment SA 1693 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Schumer for Senator Kelly.
+- 2024-03-12 — Senate amendment submitted
+- 2024-03-12 — Senate amendment submitted

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -26,30 +26,30 @@ to guess them.
 
 ### 20 U.S.C. § 5609
 
-> in subsection (a), by striking “2023” and inserting “2028”;
+> in subsection (a), by striking “2023” and inserting “2029”;
 
 | | |
 |---|---|
 | Removed | `2023` |
-| Inserted | `2028` |
+| Inserted | `2029` |
 
 ### 20 U.S.C. § 5609
 
-> in subsection (b), in the matter preceding paragraph (1), by striking “2023” and inserting “2028”; and
+> in subsection (b), in the matter preceding paragraph (1), by striking “2023” and inserting “2029”; and
 
 | | |
 |---|---|
 | Removed | `2023` |
-| Inserted | `2028` |
+| Inserted | `2029` |
 
 ### 20 U.S.C. § 5609
 
-> in subsection (c), by striking “5-fiscal year period” and all that follows through the period at the end and inserting “5-fiscal year period beginning with fiscal year 2024.”.
+> in subsection (c), by striking “5-fiscal year period” and all that follows through the period at the end and inserting “5-fiscal year period beginning with fiscal year 2025.”.
 
 | | |
 |---|---|
 | Removed | `5-fiscal year period` |
-| Inserted | `5-fiscal year period beginning with fiscal year 2024.` |
+| Inserted | `5-fiscal year period beginning with fiscal year 2025.` |
 
 ## Stated, not applied
 
