@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1194
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -153,4 +153,4 @@ The Administrator shall—
 
 ## § 9. Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator such sums as are necessary to carry out this Act for each fiscal year.
+There is authorized to be appropriated to the Administrator to carry out this Act $4,000,000 for each of fiscal years 2025 through 2029.

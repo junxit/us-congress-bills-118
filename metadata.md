@@ -1,7 +1,7 @@
 ---
 measure: S. 1194
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1194
@@ -44,3 +44,13 @@ Recycling and Composting Accountability Act
 - 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-42.
 - 2023-06-22 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. With written report No. 118-42.
 - 2023-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2024-03-12 — 
+- 2024-03-12 — Amendment SA 1692 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Amendment SA 1692 proposed by Senator Schumer for Senator Carper. (consideration: CR S2369) To modify the authorization of appropriations.
+- 2024-03-12 — Measure laid before Senate by unanimous consent. (consideration: CR S2368-2370)
+- 2024-03-12 — Passed Senate with an amendment by Unanimous Consent. (text: CR S2369-2370)
+- 2024-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-03-12 — Senate amendment agreed to: Amendment SA 1692 agreed to in Senate by Unanimous Consent.
+- 2024-03-12 — Senate amendment proposed (on the floor): Amendment SA 1692 proposed by Senator Schumer for Senator Carper.
+- 2024-03-12 — Senate amendment submitted
+- 2024-03-12 — Senate amendment submitted
