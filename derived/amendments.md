@@ -1,7 +1,7 @@
 ---
 measure: S. 50
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 

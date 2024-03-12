@@ -1,6 +1,6 @@
 ---
 legis-num: S. 50
-congress: 118th CONGRESS
+congress: One Hundred Eighteenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
