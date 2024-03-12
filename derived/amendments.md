@@ -1,7 +1,7 @@
 ---
 measure: S. 50
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 33 U.S.C. § 1330
 
-> Section 320(a)(2)(B) of the Federal Water Pollution Control Act (33 U.S.C. 1330(a)(2)(B)) is amended by striking “and Lower Columbia River, Oregon and Washington” and inserting “Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida and Alabama”.
+> Section 320(a)(2)(B) of the Federal Water Pollution Control Act (33 U.S.C. 1330(a)(2)(B)) is amended by striking “and Lower Columbia River, Oregon and Washington” and inserting “Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida”.
 
 | | |
 |---|---|
 | Removed | `and Lower Columbia River, Oregon and Washington` |
-| Inserted | `Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida and Alabama` |
+| Inserted | `Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida` |
