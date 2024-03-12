@@ -1,7 +1,7 @@
 ---
 measure: H.R. 524
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 3505` | add-at-end | Section 6 of the Coastal Barrier Resources Act (16 U.S.C. 3505) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 3505` | add-at-end | Section 6(a) of the Coastal Barrier Resources Act (16 U.S.C. 3505(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

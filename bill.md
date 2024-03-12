@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 524
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,8 +9,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Coastal Barrier Resources Act to create an exemption for certain shoreline borrow sites.
 
-## § 1. Exemption to Coastal Barrier restrictions for shoreline borrow sites
+## § 1. Federal coastal storm risk management projects
 
-Section 6 of the Coastal Barrier Resources Act (16 U.S.C. 3505) is amended by adding at the end the following new subsection:
+Section 6(a) of the Coastal Barrier Resources Act (16 U.S.C. 3505(a)) is amended by adding at the end the following:
 
-> - **(e)** *Borrow site* Section 5 shall not apply to expenditures or financial assistance relating to the use of funds to use a borrow site located within the System if such site has been in use as a borrow site by a coastal storm risk management project for a period of more than 15 years.
+> - **(7)** Use of a sand source within a System unit by Federal coastal storm risk management projects or their predecessor projects that have used a system unit for sand to nourish adjacent beaches outside the System pursuant to section 5 of the Act of August 18, 1941 (commonly known as the “Flood Control Act of 1941”) (55 Stat. 650, chapter 377; 33 U.S.C. 701n) at least once between December 31, 2008 and December 31, 2023 in response to an emergency situation prior to December 31, 2023.
