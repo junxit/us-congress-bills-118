@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6011
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,9 @@ This Act may be cited as the “Right-Of-Way Application Transparency and Accoun
 
 ## § 2. Determination regarding rights-of-way
 
-- **(a)** *Notice* Not later than 60 days after the Secretary concerned receives an application to grant a right-of-way, the Secretary concerned shall notify the applicant as to whether the application is complete or deficient.
+- **(a)** *Notice* Not later than 90 days after the Secretary concerned receives an application to grant a right-of-way, the Secretary concerned shall—
+  - **(1)** notify the applicant as to whether the application is complete; or
+  - **(2)** notify the applicant that information is missing and specify any information that is required to be submitted for the application to be complete.
 - **(b)** *Definitions* In this Act:
   - **(1)** *Right-of-way* The term right-of-way means—
     - **(A)** a right-of-way issued, granted, or renewed under section 501 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761); or

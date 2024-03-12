@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6011
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6011
@@ -16,13 +16,14 @@ ROWATA Act
 
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. McClintock, Tom [R-CA-5] (M001177)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 
 ## Committees (2)
 
@@ -35,3 +36,11 @@ ROWATA Act
 - 2023-10-20 — Introduced in House
 - 2023-10-25 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-10-25 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-12-06 — Committee Consideration and Mark-up Session Held
+- 2023-12-06 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2024-01-18 — Referred to the Subcommittee on Forestry.
+- 2024-03-12 — Committee on Agriculture discharged.
+- 2024-03-12 — Committee on Agriculture discharged.
+- 2024-03-12 — Placed on the Union Calendar, Calendar No. 346.
+- 2024-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-420, Part I.
+- 2024-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-420, Part I.
