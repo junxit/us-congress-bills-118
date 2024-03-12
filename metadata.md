@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6249
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6249
@@ -29,9 +29,10 @@ Think Differently About Emergencies Act
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Think Differently About Emergencies Act
 - 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
 - 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1071-1072)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1071-1072)
+- 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
