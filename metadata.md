@@ -1,7 +1,7 @@
 ---
 measure: H.R. 532
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 532
@@ -20,9 +20,10 @@ To designate the Federal building and United States courthouse located at 600 Ea
 
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the Federal building and United States courthouse located at 600 Ea
 - 2024-03-11 — Mr. Molinaro moved to suspend the rules and pass the bill.
 - 2024-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1070-1071)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1070-1071)
+- 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
