@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7521
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7521
@@ -77,6 +77,10 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-13 — [House 118-2-86](votes/house-118-2-0086.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (352–65)
+
 ## Actions
 
 - 2024-03-05 — Introduced in House
@@ -89,3 +93,9 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 - 2024-03-11 — Placed on the Union Calendar, Calendar No. 344.
 - 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-417.
 - 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-417.
+- 2024-03-13 — Considered under suspension of the rules. (consideration: CR H1163-1171)
+- 2024-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7521.
+- 2024-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-13 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 65, 1 Present (Roll no. 86). (text: CR H1163-1164)
+- 2024-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 65, 1 Present (Roll no. 86). (text: CR H1163-1164)
