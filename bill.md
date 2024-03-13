@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 7653
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7653
+
+> To amend title 38, United States Code, to update certain terminology regarding veteran employment.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Employment Readiness Yield Act of 2024” or the “VERY Act of 2024”.
+
+## § 2. Update of certain terminology regarding veteran employment
+
+Title 38, United States Code, is amended—
+
+- **(1)** by striking “employment handicap” each place it occurs and inserting “employment barrier”; and
+- **(2)** by striking “employment handicaps” each place it occurs and inserting “employment barriers”.
