@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 7666
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7666
+
+> To require the Secretary of Agriculture to develop a strategy to increase opportunities to utilize livestock grazing as a means of wildfire risk reduction.
+
+## § 1. Utilizing grazing for wildfire risk reduction
+
+The Secretary of Agriculture, acting through the Chief of the U.S. Forest Service, in coordination with holders of permits to graze livestock on Federal land, shall develop a strategy to increase opportunities to utilize livestock grazing as wildfire risk reduction strategy, including—
+
+- **(1)** completion of reviews (as required under the National Environmental Policy Act of 1969 (U.S.C. 4321 et seq.)) to allow permitted grazing on vacant grazing allotments during instances of drought, wildfire or other natural disasters that disrupt grazing on allotments already permitted;
+- **(2)** use of targeted grazing;
+- **(3)** increase use of temporary permits to promote targeted fuels reduction and reduction of invasive annual grasses;
+- **(4)** increased use of grazing as a postfire recovery and restoration strategy, where appropriate; and
+- **(5)** use all applicable authorities under the law.
