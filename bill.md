@@ -1,0 +1,30 @@
+---
+legis-num: S. 3951
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3951
+
+> To amend title XVIII of the Social Security Act to provide for adjustments to the Medicare part D cost-sharing reductions for low-income individuals.
+
+## § 1. Short title
+
+This Act may be cited as the “Cutting Copays Act”.
+
+## § 2. Adjustments to Medicare part D cost-sharing reductions for low-income individuals
+
+Section 1860D–14(a) of the Social Security Act (42 U.S.C. 1395w–114(a)) is amended—
+
+- **(1)** in paragraph (1)(D)(ii), by striking “that does not exceed $1 for” and all that follows through the period at the end and inserting
+  > that does not exceed—
+  > - **(I)** for a plan year before 2026—
+  >   - **(aa)** for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1927(k)(7)(A)(i)), $1 or, if less, the copayment amount applicable to an individual under clause (iii); and
+  >   - **(bb)** for any other drug, $3 or, if less, the copayment amount applicable to an individual under clause (iii); and
+  > - **(II)** for plan year 2026 and each subsequent plan year—
+  >   - **(aa)** for a generic drug, $0;
+  >   - **(bb)** for a preferred drug that is a multiple source drug (as defined in section 1927(k)(7)(A)(i)), the dollar amount applied under this clause for such a drug for the preceding year, increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such preceding year, or, if less, the copayment amount applicable to an individual under clause (iii); and
+  >   - **(cc)** for a drug not described in either item (aa) or (bb), the dollar amount applied under this clause for such a drug for the preceding year, increased in the manner specified in item (bb), or, if less, the copayment amount applicable to an individual under clause (iii).
+
+- **(2)** in paragraph (4)(A)(ii), by inserting “(before 2026)” after “a subsequent year”.
