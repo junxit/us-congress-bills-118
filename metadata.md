@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6276
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6276
@@ -16,9 +16,10 @@ USE IT Act of 2023
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -100,3 +101,4 @@ USE IT Act of 2023
 - 2024-03-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-03-12 — The previous question was ordered pursuant to the rule.
 - 2024-03-12 — The title of the measure was amended. Agreed to without objection.
+- 2024-03-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
