@@ -1,0 +1,18 @@
+---
+legis-num: S. 3965
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3965
+
+> To appropriate funds to U.S. Customs and Border Protection for the deployment of nonintrusive inspection technology at the southern land border of the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Deploy Fentanyl Scanners Act of 2024”.
+
+## § 2. Appropriation of amounts to install nonintrusive inspection technology at the southern border
+
+There are appropriated, out of any money in the Treasury not otherwise appropriated, to U.S. Customs and Border Protection $201,000,000 for fiscal year 2024 for the deployment of nonintrusive inspection technology at the southern land border of the United States.
