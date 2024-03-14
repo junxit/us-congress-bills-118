@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7521
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7521
@@ -73,9 +73,10 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -99,3 +100,4 @@ Protecting Americans from Foreign Adversary Controlled Applications Act
 - 2024-03-13 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
 - 2024-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 65, 1 Present (Roll no. 86). (text: CR H1163-1164)
 - 2024-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 65, 1 Present (Roll no. 86). (text: CR H1163-1164)
+- 2024-03-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
