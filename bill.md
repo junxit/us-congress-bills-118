@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4278
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,8 +33,7 @@ This Act may be cited as the “Restore Department of Veterans Affairs Accountab
     >   - **(3)** A final decision by the Secretary under paragraph (1)(B) that is not grieved, and a grievance decision under paragraph (2)(C), shall be final and conclusive.
     >   - **(4)** The procedures under chapter 43 of title 5 shall not apply to a removal, demotion, or suspension under this section, and the Secretary may carry out such a removal, demotion, or suspension without first placing a covered individual on a performance improvement plan.
     > - **(c)** *Timing*
-    >   - **(1)**
-    >     - **(A)** The aggregate period for notice, response, and final decision by the Secretary of an action under this section may not exceed 15 business days.
+    >   - **(A)** The aggregate period for notice, response, and final decision by the Secretary of an action under this section may not exceed 15 business days.
     >     - **(B)** The period for the response of a covered individual to a notice under subsection (b)(2)(A) shall be 7 business days.
     >     - **(C)** The final decision by the Secretary under subsection (b)(1)(B) shall—
     >       - **(i)** be issued not later than 15 business days after notice is provided under subsection (b)(2)(A); and
@@ -86,7 +85,7 @@ This Act may be cited as the “Restore Department of Veterans Affairs Accountab
 Section 713 of title 38, United States Code, is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** after “determines”, insert “by substantial evidence”; and
+  - **(A)** by inserting “by substantial evidence”, after “determines”; and
   - **(B)** by adding at the end the following:
     > - **(3)** When making an initial decision under this subsection with respect to determining whether a covered individual should be reprimanded or suspended, involuntarily reassigned, demoted, or removed, the deciding employee of the Department shall exclusively apply the following factors:
     >   - **(A)** The nature and seriousness of the offense, and its relation to the covered individual’s duties, position, and responsibilities, including whether the offense was intentional or technical or inadvertent, or was committed maliciously or for gain, or was frequently repeated.
@@ -98,7 +97,7 @@ Section 713 of title 38, United States Code, is amended—
   - **(B)** by adding at the end the following:
     > - **(7)** Except to the extent that an appeal under this subsection presents a constitutional issue, such court may not review a challenge to the penalty imposed against the covered individual or mitigate such penalty.
 
-- **(3)** insert after subsection (c) the following (and redesignate subsection (d) as subsection (e)):
+- **(3)** by inserting after subsection (c) the following (and redesignating subsection (d) as subsection (e)):
   > - **(d)** *Application* This section shall apply to any misconduct or performance of a covered individual beginning on the date of enactment of the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017 (Public Law 115–41).
 
 ## § 4. Modification of disciplinary procedures for employees of the Department of Veterans Affairs
@@ -148,3 +147,35 @@ Section 713 of title 38, United States Code, is amended—
     >   - **(i)** section 712;
     >   - **(ii)** section 714; or
     >   - **(iii)** title 5 as though such individuals had been appointed under that title.
+
+## § 5. Independent study regarding management structures of Department of Veterans Affairs
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Public Administration (referred to in this section as the “Academy”) under which the Academy shall conduct a study and review of the oversight, accountability, and performance management structures of the Department of Veterans Affairs.
+- **(b)** *Considerations* In conducting a study and review under this section, the Academy shall—
+  - **(1)** consult with the Secretary and outside stakeholders;
+  - **(2)** take into account previous reports and recommendations pertaining to oversight, accountability, and performance management of the Department;
+  - **(3)** examine alternatives and develop recommendations for improving the oversight, accountability, and performance management of the Department; and
+  - **(4)** make recommendations to improve the oversight, accountability, and performance management of the Department.
+- **(c)** *Scope* The scope of the study and review under this section shall include—
+  - **(1)** the organizational structure of the Department;
+  - **(2)** the employee performance management processes of the Department;
+  - **(3)** training on performance management processes for employees, supervisors, senior executives, and human resources professionals of the Department;
+  - **(4)** employee professional development programs of the Department; and
+  - **(5)** leadership development programs of the Department.
+- **(d)** *Best practices* In conducting the study, the Academy shall review best practices of other Federal agencies to determine whether they are applicable to the Department.
+- **(e)** *Report of the Academy* Not later than 18 months after the date of the enactment of this Act, the Academy shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report that contains—
+  - **(1)** the findings of the study and review conducted under this section; and
+  - **(2)** any other recommendations that the Academy determines necessary and relevant to the study and review.
+- **(f)** *Report of the Secretary* Not later than 90 days after the Academy submits the report under subsection (e), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing—
+  - **(1)** the evaluation of the Secretary of the findings and recommendations made by the Academy;
+  - **(2)** the determination of the Secretary whether to implement such recommendations and findings;
+  - **(3)** a timeline for such implementation; and
+  - **(4)** the determination of the Secretary whether such implementation requires legislation.
+
+## § 6. Comptroller General study on Veterans Health Administration oversight functions
+
+- **(a)** *Study* The Comptroller General of the United States shall conduct a study of the oversight functions of the Veterans Health Administration. Such study shall include an examination of each of the following:
+  - **(1)** How the Veterans Health Administration manages and coordinates its oversight functions.
+  - **(2)** How the Veterans Health Administration determines the appropriate number and types of employees necessary to carry out such oversight functions.
+  - **(3)** How the Veterans Health Administration prioritizes the work conducted pursuant to such oversight functions and the extent to which the findings generated through such functions are used to make system-wide improvements.
+- **(b)** *Report* Not later than one year after the date of the enactment of this Act, the Comptroller General shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the results of the study required under subsection (a) and any recommendations of the Comptroller General with respect to such findings.

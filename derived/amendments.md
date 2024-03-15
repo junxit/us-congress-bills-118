@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4278
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 0 executed, 20 stated and not applied.
+22 amendatory instructions. 0 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Title 38, United States Code, is amended by inserting after section 711 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents for title 38, United States Code, is amended by inserting after the item relating to section 711 the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “by substantial evidence”, after “determines”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “after the final decision” after “21 days”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (c) the following (and redesignating subsection (d) as subsection (e)): | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “by substantial evidence” after “the Secretary determines”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1)(D); and | the bill names no machine-readable US Code section |
