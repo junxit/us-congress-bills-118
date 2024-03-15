@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 766
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,17 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Preventive Health Savings Act”.
+This Act may be cited as the “Dr. Michael C. Burgess Preventive Health Savings Act”.
 
 ## § 2. Scoring of preventive health savings
 
 Section 202 of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 602) is amended by adding at the end the following:
 
 > - **(h)** *Scoring of preventive health savings*
->   - **(1)** *Determination by the director* Upon a request by the chairman or ranking minority member of the Committee on the Budget, the Committee on Finance, or the Committee on Health, Education, Labor, and Pensions of the Senate, or by the chairman or ranking minority member of the Committee on the Budget, the Committee on Energy and Commerce, or the Committee on Ways and Means of the House of Representatives, the Director shall determine if a proposed measure would result in reductions in budget outlays in budgetary outyears through the use of preventive health and preventive health services.
->   - **(2)** *Projections* If the Director determines that a measure would result in substantial reductions in budget outlays as described in paragraph (1), the Director—
->     - **(A)** shall include, in any projection prepared by the Director, a description and estimate of the reductions in budget outlays in the budgetary outyears and a description of the basis for such conclusions; and
+>   - **(1)** *Determination by the director* Upon a request by the chairman and ranking minority member of the Committee on the Budget of the Senate and chairman and ranking minority member of the committee of primary jurisdiction of the Senate or by the chairman and ranking minority member of the Committee on the Budget of the House of Representatives and the chairman and ranking minority member of the committee of primary jurisdiction of the House of Representatives, the Director shall determine if proposed legislation would result in net reductions in budget outlays in budgetary outyears through the use of preventive health care.
+>   - **(2)** *Projections* If the Director determines that proposed legislation would result in net reductions in budget outlays as described in paragraph (1), the Director—
+>     - **(A)** shall include, in any projection prepared by the Director on such proposed legislation, a description and estimate of the reductions in budget outlays in the budgetary outyears and a description of the basis for such conclusions; and
 >     - **(B)** may prepare a budget projection that includes some or all of the budgetary outyears, notwithstanding the time periods for projections described in subsection (e) and sections 308, 402, and 424.
->   - **(3)** *Definitions* As used in this subsection—
->     - **(A)** the term budgetary outyears means the 2 consecutive 10-year periods beginning with the first fiscal year that is 10 years after the budget year provided for in the most recently agreed to concurrent resolution on the budget; and
->     - **(B)** the term preventive health means an action that focuses on the health of the public, individuals, and defined populations in order to protect, promote, and maintain health and wellness and prevent disease, disability, and premature death that is demonstrated by credible and publicly available evidence from epidemiological projection models, clinical trials, observational studies in humans, longitudinal studies, and meta-analysis.
+>   - **(3)** *Limitation* Any estimate provided by the Director pursuant to paragraph (1) shall be used as a supplementary estimate and may not be used to determine compliance with the Congressional Budget Act of 1974 or any other budgetary enforcement controls.
+>   - **(4)** *Definitions* As used in this subsection—
+>     - **(A)** the term budgetary outyears means the 2 consecutive 10-year periods beginning with the first fiscal year that is 10 years after the current fiscal year; and
+>     - **(B)** the term preventive health care means an action that focuses on the health of the public, individuals, and defined populations in order to protect, promote, and maintain health and wellness and prevent disease, disability, and premature death, including through the promotion and use of effective, innovative health care interventions that are demonstrated by credible and publicly available evidence from epidemiological projection models, clinical trials, observational studies in humans, longitudinal studies, and meta-analysis.
