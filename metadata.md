@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6185
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6185
@@ -27,3 +27,8 @@ GRID Act
 - 2023-11-02 — Introduced in House
 - 2023-11-02 — Introduced in House
 - 2023-11-02 — Referred to the House Committee on Energy and Commerce.
+- 2023-12-05 — Committee Consideration and Mark-up Session Held
+- 2023-12-05 — Ordered to be Reported by the Yeas and Nays: 24 - 21.
+- 2024-03-19 — Placed on the Union Calendar, Calendar No. 353.
+- 2024-03-19 — Reported by the Committee on Energy and Commerce. H. Rept. 118-427.
+- 2024-03-19 — Reported by the Committee on Energy and Commerce. H. Rept. 118-427.
