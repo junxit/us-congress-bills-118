@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6602
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 4822` | insert | by inserting “countries subject to a comprehensive United States arms embargo,” after “matters relating to”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4822` | replace | by striking “may be decided” and inserting “shall be decided”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4822` | replace | by striking “In any case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4822` | insert | by inserting “countries subject to a comprehensive United States arms embargo,” after “matters relating to”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4822` | replace | by striking “may be decided” and inserting “shall be decided”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4822` | add-at-end | by adding at the end the following: “The chair of the Committee is authorized to decide any case or matter described in the preceding sentence in which the Committee is unable to decide the case or matter by majority vote.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
