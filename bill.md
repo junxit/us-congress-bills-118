@@ -1,48 +1,39 @@
 ---
 legis-num: H.R. 6306
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 6306
 
-> To amend the State Department Basic Authorities Act of 1956 to prohibit the acquisition or lease of a consular or diplomatic post built or owned by an entity beneficially owned by the People’s Republic of China, and for other purposes.
+> To direct the Secretary of State to avoid or minimize the acquisition or lease of a consular or diplomatic post built or owned by an entity owned or controlled by the Government of the People’s Republic of China, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Embassy Construction Integrity Act of 2023”.
 
-## § 2. Prohibitions relating to consular and diplomatic posts built or owned by certain entities
+## § 2. Restrictions on consular and diplomatic posts built or owned by certain entities
 
-- **(a)** *Prohibitions* Title I of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a et seq.) is amended by adding at the end the following:
-  > ## § 64. Prohibitions relating to consular and diplomatic posts built or owned by certain entities
-  >
-  > - **(a)** *Prohibitions* The Secretary of State (in this section referred to as the “Secretary”) may not—
-  >   - **(1)** acquire or lease a covered building—
-  >     - **(A)** with respect to which a covered entity performed covered construction on or after January 1, 1949; or
-  >     - **(B)** in which a covered entity has an ownership interest; or
-  >   - **(2)** authorize a covered entity to perform covered construction with respect to a covered building, including pursuant to a contract or other agreement.
-  > - **(b)** *Notification of violations* Not later than 7 days after becoming aware of a violation of subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such violation.
-  > - **(c)** *Definitions* In this section:
-  >   - **(1)** *Beneficial owner* The term “beneficial owner”—
-  >     - **(A)** means, with respect to an entity, an entity that, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
-  >       - **(i)** exercises substantial control over the entity; or
-  >       - **(ii)** owns or controls not less than 25 percent of the ownership interest of an entity; and
-  >     - **(B)** does not include—
-  >       - **(i)** a minor child, as defined as a natural person under the age of 18;
-  >       - **(ii)** an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
-  >       - **(iii)** an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the person; or
-  >       - **(iv)** an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance, and who does not exercise substantial control or effective control over the entity.
-  >   - **(2)** *Covered building* The term “covered building” means a building that is used or intended to be used by personnel, or for a function, of a consular or diplomatic post located outside of the United States.
-  >   - **(3)** *Covered construction* The term “covered construction”—
-  >     - **(A)** means any construction, development, conversion, extension, alteration, repair, or maintenance performed with respect to a building; and
-  >     - **(B)** includes the installation or maintenance of electrical, plumbing, heating, ventilation, air conditioning, communication, fire protection, and energy management systems with respect to such building.
-  >   - **(4)** *Covered entity* The term “covered entity” means an entity of which the government of the People’s Republic of China, or an agent or instrumentality of the government of the People’s Republic of China, is a beneficial owner.
-
-- **(b)** *Applicability*
-  - **(1)** *In general* Section 64 of the State Department Basic Authorities Act of 1956, as added by subsection (a), shall apply with respect to the following:
-    - **(A)** Acquisitions of covered buildings occurring on or after the date of enactment of this Act.
-    - **(B)** Leases of covered buildings entered into on or after such date of enactment.
-    - **(C)** Authorizations for the performance of covered construction made on or after such date of enactment.
-  - **(2)** *Definitions* In this subsection, the terms “covered building” and “covered construction” have the meanings given such terms in subsection (c) of such section 64.
+- **(a)** *In general* The Secretary of State (in this section referred to as the “Secretary”) shall take such steps as may be necessary to avoid or minimize—
+  - **(1)** acquiring or leasing a covered building—
+    - **(A)** with respect to which a covered entity performed covered construction on or after January 1, 1949; or
+    - **(B)** in which a covered entity has an ownership interest; or
+  - **(2)** entering into or renewing a contract or other agreement with a covered entity to perform covered construction with respect to a covered building.
+- **(b)** *Notification of inconsistent action*
+  - **(1)** *In general* The Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate—
+    - **(A)** not later than 7 days before entering into an acquisition, lease, or agreement after the date of enactment of this Act that the Secretary is aware is inconsistent with the restriction under subsection (a); and
+    - **(B)** not later than 7 days after becoming aware of an acquisition, lease, or agreement occurring after the date of enactment of this Act that is inconsistent with the restriction under subsection (a).
+  - **(2)** *Determination of national security interest* The notification required under paragraph (1) shall also include, to the extent applicable—
+    - **(A)** a determination of whether the inconsistent acquisition, lease, or agreement is in the national security interest of the United States;
+    - **(B)** an identification of the interest advanced by such inconsistent action;
+    - **(C)** a detailed explanation for such determination; and
+    - **(D)** any action the Secretary has taken or intends to take to mitigate national security vulnerabilities that may be posed by such inconsistent action.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Covered building* The term “covered building” means a building that is used or intended to be used by personnel, or for a function, of a consular or diplomatic post located outside of the United States.
+  - **(2)** *Covered construction* The term “covered construction”—
+    - **(A)** means any construction, development, conversion, extension, alteration, repair, or maintenance performed with respect to a building; and
+    - **(B)** includes the installation or maintenance of electrical, plumbing, heating, ventilation, air conditioning, communication, fire protection, and energy management systems with respect to such building.
+  - **(3)** *Covered entity* The term “covered entity” means an entity with respect to which the Government of the People’s Republic of China, or an agent or instrumentality of the Government of the People’s Republic of China, directly or indirectly, including through any contract, arrangement, understanding, or relationship—
+    - **(A)** owns or controls a significant percent of the ownership interest; or
+    - **(B)** otherwise exercises substantial control.
