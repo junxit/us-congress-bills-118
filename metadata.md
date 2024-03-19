@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6260
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6260
@@ -36,3 +36,9 @@ FOCUS Act
 - 2024-03-06 — Placed on the Union Calendar, Calendar No. 337.
 - 2024-03-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-410.
 - 2024-03-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-410.
+- 2024-03-19 — Considered under suspension of the rules. (consideration: CR H1209-1211)
+- 2024-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6260.
+- 2024-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-19 — Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.
+- 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1209-1210)
+- 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1209-1210)
