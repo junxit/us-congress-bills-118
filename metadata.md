@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6261
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6261
@@ -44,3 +44,9 @@ Impact of Crime on Public Building Usage Act of 2023
 - 2024-03-06 — Placed on the Union Calendar, Calendar No. 338.
 - 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-411, Part I.
 - 2024-03-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-411, Part I.
+- 2024-03-19 — Considered under suspension of the rules. (consideration: CR H1211-1213)
+- 2024-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6261.
+- 2024-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-19 — Mr. Johnson (SD) moved to suspend the rules and pass the bill.
+- 2024-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1211)
+- 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1211)
