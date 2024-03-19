@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4723
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,13 +30,15 @@ It is the policy of the United States—
 ## § 3. Imposition of sanctions with respect to foreign persons undermining the Dayton Peace Agreement or threatening the security of Bosnia and Herzegovina
 
 - **(a)** *Imposition of sanctions*
-  - **(1)** *List required* Not later than 30 days after the date of the enactment of this Act, and every 90 days thereafter, the President shall submit to the appropriate congressional committees a list of foreign persons that are determined—
+  - **(1)** *List required* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a list of foreign persons that are determined—
     - **(A)** to be responsible for or complicit in, or to have directly or indirectly engaged in, any action or policy that threatens the peace, security, stability, or territorial integrity of Bosnia and Herzegovina, including actions that seek to undermine the authority of Bosnia and Herzegovina’s state-level institutions, such as forming illegal parallel institutions or actions that threaten the Office of the High Representative;
     - **(B)** to be responsible for or complicit in, or to have directly or indirectly engaged in, any action or policy that undermines democratic processes or institutions in Bosnia and Herzegovina;
     - **(C)** to be responsible for or complicit in, or to have directly or indirectly engaged in, or to have attempted, a violation of, or an act that has obstructed or threatened the implementation of, the Dayton Peace Agreement or the Conclusions of the Peace Implementation Conference Council held in London in December 1995, including the decisions or conclusions of the Office of the High Representative, the Peace Implementation Council, or its Steering Board;
     - **(D)** to be a member, official, or senior leader of an illegal parallel institution or any other institution that engages in activities described in subparagraph (A), (B) or (C), as determined by the Secretary of State;
     - **(E)** to be responsible for or complicit in, or to have directly or indirectly engaged in, or attempted to engage in, corruption related to Bosnia and Herzegovina, including corruption by, on behalf of, or otherwise related to the government in Bosnia and Herzegovina, or a current or former government official at any level of government in Bosnia and Herzegovina, such as the misappropriation of public assets, expropriation of private assets for personal gain or political purposes, corruption related to government contracts or the extraction of natural resources or bribery;
-    - **(F)** to be an adult family member of any foreign person described in subparagraph (A), (B), (C), (D), or (E);
+    - **(F)** to be an adult family member of any foreign person described in subparagraph (A), (B), (C), (D), or (E), unless the President determines that the adult family member—
+      - **(i)** has condemned the activity or activities of the foreign person described in any such subparagraph; and
+      - **(ii)** has taken tangible steps to oppose the activity or activities;
     - **(G)** to have knowingly facilitated a significant transaction or transactions for or on behalf of a foreign person described in subparagraph (A), (B), (C), (D), or (E);
     - **(H)** to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, a foreign person described in subparagraph (A), (B), (C), (D), or (E); or
     - **(I)** to have knowingly materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, a foreign person described in subparagraph (A), (B), (C), (D), or (E).
@@ -55,9 +57,15 @@ It is the policy of the United States—
 - **(d)** *Exceptions*
   - **(1)** *Exception for intelligence, law enforcement, and national security activities* Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
   - **(2)** *Exception to comply with united nations headquarters agreement* Sanctions under subsection (c)(2) shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
-- **(e)** *Waiver*
-  - **(1)** *In general* The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees not later than 15 days before such waiver is to take effect that the waiver is vital to the national security interests of the United States.
-  - **(2)** *Sunset* The authority to issue a waiver under paragraph (1) shall terminate on the date that is 2 years after the date of enactment of this Act.
+  - **(3)** *Exception relating to the provision of humanitarian assistance* Sanctions under this section may not be imposed with respect to transactions or the facilitation of transactions for—
+    - **(A)** the sale of agricultural commodities, food, medicine, or medical devices;
+    - **(B)** the provision of humanitarian assistance;
+    - **(C)** financial transactions relating to humanitarian assistance or for humanitarian purposes; and
+    - **(D)** transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes.
+  - **(4)** *Exception relating to the importation of goods*
+    - **(A)** *In general* The authorities and requirements under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+    - **(B)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(e)** *Waiver* The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees not later than 15 days before such waiver is to take effect that the waiver is vital to the national security interests of the United States.
 - **(f)** *Regulations*
   - **(1)** *In general* The President shall, not later than 180 days after the date of the enactment of this Act, prescribe regulations as necessary for the implementation of this Act.
   - **(2)** *Notification to Congress* Not later than 10 days before the prescription of regulations under paragraph (1), the President shall notify the appropriate congressional committees regarding the proposed regulations and the provisions of this Act that the regulations are implementing.
@@ -79,30 +87,35 @@ It is the policy of the United States—
     - **(A)** is not engaging in the activity that was the basis for such sanctions; or
     - **(B)** has taken significant verifiable steps toward stopping such activity; and
   - **(2)** the President has received reliable assurances that such person will not knowingly engage in activity subject to such sanctions in the future.
+- **(d)** *Sanctions relating to the importation of goods unchanged* This section may not be construed to create any new authorities or requirements related to sanctions on the importation of goods.
 
 ## § 5. Consideration of certain information in imposing sanctions
 
-Not later than 60 days after receiving a request from the chairman and ranking member of one of the appropriate congressional committees with respect to whether a person, foreign person, or foreign financial institution, as the case may be, meets the criteria of a person described in section 3 or a person described in Executive Order 13219 or Executive Order 14033 as provided for in section 4(b), or any Executive order issued pursuant to this Act or under the Balkans regulatory regime, the President shall—
-
-- **(1)** determine if the person, foreign person, or foreign financial institution, as the case may be, meets such criteria; and
-- **(2)** submit a classified or unclassified report to such chairman and ranking member with respect to such determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to such person, foreign person, or foreign financial institution.
+- **(a)** *In general* Not later than 60 days after receiving a request from the chairman and ranking member of one of the appropriate congressional committees with respect to whether a person or foreign person, as the case may be, meets the criteria of a person described in section 3(a)(1) or a person described in Executive Order 13219 or Executive Order 14033 as provided for in section 4(b), or any Executive order issued pursuant to this Act or under the Balkans regulatory regime, the President shall—
+  - **(1)** determine if the person or foreign person, as the case may be, meets such criteria; and
+  - **(2)** submit a classified or unclassified report to such chairman and ranking member with respect to such determination that includes a statement of whether or not the President imposed or intends to impose sanctions with respect to such person or foreign person.
+- **(b)** *Sunset* This section shall terminate on the date that is 5 years after the date of enactment of this Act.
 
 ## § 6. Definitions
 
 In this Act:
 
-- **(1)** *Admitted; alien* The terms “admitted” and “alien” have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
-- **(2)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
+- **(1)** *Admitted; alien* The terms admitted and alien have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+- **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
-- **(3)** *Correspondent account; payable-through account* The terms “correspondent account” and “payable-through account” have the meanings given those terms in section 5318A of title 31, United States Code.
-- **(4)** *Dayton Peace Agreement* The term “Dayton Peace Agreement”, also known as the “Dayton Accords”, means the General Framework Agreement for Peace in Bosnia and Herzegovina, initialed by the parties in Dayton, Ohio, on November 21, 1995, and signed in Paris on December 14, 1995.
-- **(5)** *Foreign financial institution* The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury by regulation.
-- **(6)** *Foreign person* The term “foreign person” means a person that is not a United States person.
-- **(7)** *Illegal parallel institution* The term “illegal parallel institution” means an agency, structure, or instrumentality at the Republika Srpska entity level that disrupts the authority of the state-level institutions of Bosnia and Herzegovina and undermines its constitutional order.
-- **(8)** *Knowingly* The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
-- **(9)** *Person* The term “person” means an individual or entity.
-- **(10)** *United States person* The term “United States person” means—
+- **(3)** *Correspondent account; payable-through account* The terms correspondent account and payable-through account have the meanings given those terms in section 5318A of title 31, United States Code.
+- **(4)** *Dayton Peace Agreement* The term Dayton Peace Agreement, also known as the “Dayton Accords”, means the General Framework Agreement for Peace in Bosnia and Herzegovina, initialed by the parties in Dayton, Ohio, on November 21, 1995, and signed in Paris on December 14, 1995.
+- **(5)** *Foreign financial institution* The term foreign financial institution has the meaning of that term as determined by the Secretary of the Treasury by regulation.
+- **(6)** *Foreign person* The term foreign person means a person that is not a United States person.
+- **(7)** *Illegal parallel institution* The term illegal parallel institution means an agency, structure, or instrumentality at the Republika Srpska entity level that disrupts the authority of the state-level institutions of Bosnia and Herzegovina and undermines its constitutional order.
+- **(8)** *Knowingly* The term knowingly, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+- **(9)** *Person* The term person means an individual or entity.
+- **(10)** *United States person* The term United States person means—
   - **(A)** a United States citizen or an alien lawfully admitted to the United States for permanent residence;
   - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
   - **(C)** any person in the United States.
+
+## § 7. Sunset
+
+This Act and the authorities provided by this Act shall terminate on the date that is 7 years after the date of the enactment of this Act.
