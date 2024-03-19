@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7715
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7715
+
+> To authorize additional funding for Food and Drug Administration monitoring and prevention of illicit nicotine products at ports of entry, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Vetting and Patrolling E-Cigarette Imports Act” or the “VAPE Imports Act”.
+
+## § 2. Authorization of appropriations for FDA monitoring and prevention of illicit nicotine products at ports of entry
+
+There is authorized to be appropriated $5,000,000 to the Food and Drug Administration for the purpose of monitoring and preventing, at ports of entry (including international mail facilities), illicit nicotine products and the importation of nicotine products in violation of Federal law, including by purchasing and maintaining screening equipment, addressing staffing needs, engaging in partnerships with other Federal agencies, and carrying out such other activities as the Commissioner of Food and Drugs determines appropriate. The amount authorized to be appropriated by the preceding sentence is in addition to any other amounts authorized to be appropriated for such purpose.
