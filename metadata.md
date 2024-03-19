@@ -1,7 +1,7 @@
 ---
 measure: H.R. 766
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 766
@@ -62,3 +62,9 @@ Dr. Michael C. Burgess Preventive Health Savings Act
 - 2024-03-15 — Placed on the Union Calendar, Calendar No. 352.
 - 2024-03-15 — Reported (Amended) by the Committee on Budget. H. Rept. 118-426.
 - 2024-03-15 — Reported (Amended) by the Committee on Budget. H. Rept. 118-426.
+- 2024-03-19 — Considered under suspension of the rules. (consideration: CR H1204-1209)
+- 2024-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 766.
+- 2024-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-19 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
+- 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204)
+- 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204)
