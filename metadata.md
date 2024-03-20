@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6261
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6261
@@ -20,11 +20,12 @@ Impact of Crime on Public Building Usage Act of 2023
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Oversight and Government Reform Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Impact of Crime on Public Building Usage Act of 2023
 - 2024-03-19 — Mr. Johnson (SD) moved to suspend the rules and pass the bill.
 - 2024-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1211)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1211)
+- 2024-03-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
