@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6610
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6610
@@ -53,9 +53,10 @@ Passport System Reform and Backlog Prevention Act
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Passport System Reform and Backlog Prevention Act
 - 2024-03-19 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1198-1200)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1198-1200)
+- 2024-03-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
