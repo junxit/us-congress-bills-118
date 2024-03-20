@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 7734
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7734
+
+> To amend title 38, United States Code, to require a notation in the personnel record file of certain employees of the Department of Veterans Affairs who resign from Government employment under certain circumstances.
+
+## § 1. Notation in Department of Veterans Affairs employee personnel record file of personnel investigation required
+
+- **(a)** *In general* Subchapter I of chapter 7 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 729. Notation in Department of Veterans Affairs employee personnel record file of personnel investigation
+  >
+  > - **(a)** *In general* With respect to any employee occupying a position in the competitive service or the excepted service within the Department who is the subject of a personnel investigation and who resigns from Government employment prior to the resolution of such investigation, the Secretary shall make a permanent notation of such investigation in the official personnel record file of such employee.
+  > - **(b)** *Additional notation* With respect to any employee described in subsection (a), the Secretary shall make an additional notation in the official personnel record file of such employee whether any of the allegations made with respect to such employee pursuant to such investigation would have been substantiated.
+  > - **(c)** *Personnel investigation defined* In this section, the term “personnel investigation” includes—
+  >   - **(1)** an investigation by an Inspector General;
+  >   - **(2)** an internal investigation carried out by the Secretary;
+  >   - **(3)** an investigation by the head of any other Federal office responsible for investigating allegations of employee misconduct, including the General Counsel of the Department; and
+  >   - **(4)** an adverse personnel action as a result of performance, misconduct, or for such cause as will promote the efficiency of the service under chapter 43 or chapter 75 of title 5.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 728 the following new item:
