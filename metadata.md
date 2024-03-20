@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 567
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 567
@@ -38,3 +38,7 @@ A resolution recognizing the seriousness of widespread health care worker burnou
 
 - 2024-02-28 — Introduced in Senate
 - 2024-02-28 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-03-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2478; text: 2/28/2024 CR S1046)
+- 2024-03-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2478; text: 2/28/2024 CR S1046)
+- 2024-03-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-03-20 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
