@@ -1,7 +1,7 @@
 ---
 measure: H.R. 766
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 766
@@ -68,3 +68,4 @@ Dr. Michael C. Burgess Preventive Health Savings Act
 - 2024-03-19 — Mr. Burgess moved to suspend the rules and pass the bill, as amended.
 - 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1204)
+- 2024-03-20 — Received in the Senate.
