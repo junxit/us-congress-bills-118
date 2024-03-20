@@ -1,13 +1,13 @@
 ---
 legis-num: S. 1332
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1332
 
-> To require the Office of Management and Budget to revise the Standard Occupational Classification system to establish a separate code for direct support professionals, and for other purposes.
+> To require the Office of Management and Budget to consider revising the Standard Occupational Classification system to establish a separate code for direct support professionals, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,28 +17,32 @@ This Act may be cited as the “Recognizing the Role of Direct Support Professio
 
 Congress finds the following:
 
-- **(1)** Direct support professionals play a critical role in the care provided to individuals with intellectual and developmental disabilities.
-- **(2)** Providers of home- and community-based services are experiencing difficulty hiring and retaining direct support professionals, with a national turnover rate of 43 percent, as identified in a 2021 study by the National Core Indicators, and full-time vacancy rates increasing by 94 percent between 2019 and 2021.
-- **(3)** High turnover rates can lead to instability for individuals receiving services, and this may result in individuals not receiving enough personalized care to help them reach their goals for independent living.
-- **(4)** A discrete occupational category for direct support professionals will help States and the Federal Government—
+- **(1)** Direct support professionals play a critical role in the care provided to individuals with intellectual and developmental disabilities by providing a wide range of supportive services on a day-to-day basis to promote independence, including—
+  - **(A)** enhancing independence and community inclusion of these individuals, including through travel and recreation, visiting friends and family, shopping, or socializing;
+  - **(B)** coaching and supporting individuals in communicating needs, achieving self-expression, pursuing personal goals, living independently, and participating actively in employment or voluntary roles in the community;
+  - **(C)** providing assistance with activities of independent daily living (such as feeding, bathing, toileting, and ambulation) and with tasks such as meal preparation, shopping, light housekeeping, laundry, and home management; or
+  - **(D)** supporting individuals at home, work, school, or any other community setting.
+- **(2)** Through the support of direct support professionals, individuals are able to lead self-directed lives within their own communities.
+- **(3)** Providers of home- and community-based services are experiencing difficulty hiring and retaining direct support professionals, with a national turnover rate of 43 percent, as identified in a 2021 study by the National Core Indicators, and full-time vacancy rates increasing by 94 percent between 2019 and 2021.
+- **(4)** High turnover rates can lead to instability for individuals receiving services, and this may result in individuals not receiving enough personalized care to help them reach their goals for independent living.
+- **(5)** A discrete occupational category for direct support professionals will help States and the Federal Government—
   - **(A)** better interpret the shortage in the labor market of direct support professionals; and
   - **(B)** collect data on the high turnover rate of direct support professionals.
-- **(5)** The Standard Occupational Classification system is designed and maintained solely for statistical purposes, and is used by Federal statistical agencies to classify workers and jobs into occupational categories for the purpose of collecting, calculating, analyzing, or disseminating data.
-- **(6)** Occupations in the Standard Occupational Classification system are classified based on work performed and, in some cases, on the skills, education, or training needed to perform the work.
-- **(7)** Establishing a discrete occupational category for direct support professionals will—
+- **(6)** The Standard Occupational Classification system is designed and maintained solely for statistical purposes, and is used by Federal statistical agencies to classify workers and jobs into occupational categories for the purpose of collecting, calculating, analyzing, or disseminating data.
+- **(7)** Occupations in the Standard Occupational Classification system are classified based on work performed and, in some cases, on the skills, education, or training needed to perform the work.
+- **(8)** Establishing a discrete occupational category for direct support professionals will—
   - **(A)** correct an inaccurate representation in the Standard Occupational Classification system;
   - **(B)** recognize these professionals for the critical and often overlooked work that they perform for the disabled community, which work is different than the work of a home health aide or a personal care aide; and
   - **(C)** better align the Standard Occupational Classification system with related classification systems.
 
-## § 3. Definition of direct support professional
+## § 3. Revision of standard occupational classification system
 
-In this Act, the term direct support professional means an individual who, in exchange for compensation, provides services to an individual with an intellectual disability or a developmental disability (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002)) that promote such individual’s independence, including—
+The Director of the Office of Management and Budget shall, as part of the first revision of the Standard Occupational Classification system occurring after the date of enactment of this Act, consider revising the Standard Occupational Classification system to establish a separate code for direct support professionals as a healthcare support occupation.
 
-- **(1)** services that enhance independence and community inclusion for such individual, including traveling with such individual, attending and assisting such individual while visiting friends and family, shopping, or socializing;
-- **(2)** services such as coaching and supporting such individual in communicating needs, achieving self-expression, pursuing personal goals, living independently, and participating actively in employment or voluntary roles in the community;
-- **(3)** services such as providing assistance with activities of daily living (such as feeding, bathing, toileting, and ambulation) and with tasks such as meal preparation, shopping, light housekeeping, and laundry; or
-- **(4)** services that support such individual at home, work, school, or any other community setting.
+## § 4. Report to Congress
 
-## § 4. Revision of Standard Occupational Classification System
+If, after carrying out section 3, the Director of the Office of Management and Budget decides not to establish a separate code for direct support professionals in the Standard Occupational Classification system, the Director shall, by not later than 30 days after the first revision of the Standard Occupational Classification system occurring after the date of enactment of this Act, submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and the Workforce of the House of Representatives explaining the Office of Management and Budget’s decision.
 
-The Director of the Office of Management and Budget shall, not later than 30 days after the date of enactment of this Act, revise the Standard Occupational Classification system to establish a separate code (31–1123) for direct support professionals as a healthcare support occupation. Such code shall be a subset of 31–1120, which includes home health aides and personal care aides.
+## § 5. No new funds
+
+No additional funds are authorized to be appropriated to carry out this Act.
