@@ -1,7 +1,7 @@
 ---
 measure: S. 3648
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3648
@@ -32,3 +32,5 @@ HELP Response and Recovery Act
 - 2024-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-161.
 - 2024-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-161.
 - 2024-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 348.
+- 2024-03-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2478; text: CR S2478)
+- 2024-03-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2478; text: CR S2478)
