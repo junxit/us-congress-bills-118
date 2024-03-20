@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6260
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6260
@@ -20,9 +20,10 @@ FOCUS Act
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ FOCUS Act
 - 2024-03-19 — Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.
 - 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1209-1210)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1209-1210)
+- 2024-03-20 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
