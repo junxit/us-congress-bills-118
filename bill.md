@@ -7,15 +7,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7520
 
-> To prohibit data brokers from transferring sensitive data of United States individuals to foreign adversaries, and for other purposes.
+> To prohibit data brokers from transferring personally identifiable sensitive data of United States individuals to foreign adversaries, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “Protecting Americans’ Data from Foreign Adversaries Act of 2024”.
 
-## § 2. Prohibition on transfer of sensitive data of United States individuals to foreign adversaries
+## § 2. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries
 
-- **(a)** *Prohibition* It shall be unlawful for a data broker to sell, license, rent, trade, transfer, release, disclose, provide access to, or otherwise make available sensitive data of a United States individual to—
+- **(a)** *Prohibition* It shall be unlawful for a data broker to sell, license, rent, trade, transfer, release, disclose, provide access to, or otherwise make available personally identifiable sensitive data of a United States individual to—
   - **(1)** any foreign adversary country; or
   - **(2)** any entity that is controlled by a foreign adversary.
 - **(b)** *Enforcement by Federal Trade Commission*
@@ -26,21 +26,31 @@ This Act may be cited as the “Protecting Americans’ Data from Foreign Advers
   - **(3)** *Authority preserved* Nothing in this section may be construed to limit the authority of the Commission under any other provision of law.
 - **(c)** *Definitions* In this section:
   - **(1)** *Commission* The term “Commission” means the Federal Trade Commission.
-  - **(2)** *Controlled by a foreign adversary* The term “controlled by a foreign adversary” means, with respect to an entity, that such entity is—
+  - **(2)** *Controlled by a foreign adversary* The term “controlled by a foreign adversary” means, with respect to an individual or entity, that such individual or entity is—
     - **(A)** a foreign person that is domiciled in, is headquartered in, has its principal place of business in, or is organized under the laws of a foreign adversary country;
     - **(B)** an entity with respect to which a foreign person or combination of foreign persons described in subparagraph (A) directly or indirectly own at least a 20 percent stake; or
     - **(C)** a person subject to the direction or control of a foreign person or entity described in subparagraph (A) or (B).
   - **(3)** *Data broker*
-    - **(A)** *In general* The term “data broker” means an entity that, for valuable consideration, sells, licenses, rents, trades, transfers, releases, discloses, provides access to, or otherwise makes available data of United States individuals, that the entity did not collect directly from such individuals, to another entity that is not acting as a service provider.
+    - **(A)** *In general* The term “data broker” means an entity that, for valuable consideration, sells, licenses, rents, trades, transfers, releases, discloses, provides access to, or otherwise makes available data of United States individuals that the entity did not collect directly from such individuals to another entity that is not acting as a service provider.
     - **(B)** *Exclusion* The term “data broker” does not include an entity to the extent such entity—
-      - **(i)** is transmitting data, including communications of a United States individual at the request or direction of such individual;
-      - **(ii)** is reporting, publishing, or otherwise making available news or information that is available to the general public, including information from a telephone book or online directory, a television, internet, or radio program, the news media, or an internet site that is available to the general public on an unrestricted basis, but not including an obscene visual depiction (as such term is used in section 1460 of title 18, United States Code); or
-      - **(iii)** is acting as a service provider.
+      - **(i)** is transmitting data of a United States individual, including communications of such an individual, at the request or direction of such individual;
+      - **(ii)** is providing, maintaining, or offering a product or service with respect to which personally identifiable sensitive data, or access to such data, is not the product or service;
+      - **(iii)** is reporting or publishing news or information that concerns local, national, or international events or other matters of public interest;
+      - **(iv)** is reporting, publishing, or otherwise making available news or information that is available to the general public—
+        - **(I)** including information from—
+          - **(aa)** a book, magazine, telephone book, or online directory;
+          - **(bb)** a motion picture;
+          - **(cc)** a television, internet, or radio program;
+          - **(dd)** the news media; or
+          - **(ee)** an internet site that is available to the general public on an unrestricted basis; and
+        - **(II)** not including an obscene visual depiction (as such term is used in section 1460 of title 18, United States Code); or
+      - **(v)** is acting as a service provider.
   - **(4)** *Foreign adversary country* The term “foreign adversary country” means a country specified in section 4872(d)(2) of title 10, United States Code.
-  - **(5)** *Precise geolocation information* The term “precise geolocation information” means information that—
-    - **(A)** is derived from a device or technology; and
+  - **(5)** *Personally identifiable sensitive data* The term “personally identifiable sensitive data” means any sensitive data that identifies or is linked or reasonably linkable, alone or in combination with other data, to an individual or a device that identifies or is linked or reasonably linkable to an individual.
+  - **(6)** *Precise geolocation information* The term “precise geolocation information” means information that—
+    - **(A)** is derived from a device or technology of an individual; and
     - **(B)** reveals the past or present physical location of an individual or device that identifies or is linked or reasonably linkable to 1 or more individuals, with sufficient precision to identify street level location information of an individual or device or the location of an individual or device within a range of 1,850 feet or less.
-  - **(6)** *Sensitive data* The term “sensitive data” includes the following:
+  - **(7)** *Sensitive data* The term “sensitive data” includes the following:
     - **(A)** A government-issued identifier, such as a Social Security number, passport number, or driver’s license number.
     - **(B)** Any information that describes or reveals the past, present, or future physical health, mental health, disability, diagnosis, or healthcare condition or treatment of an individual.
     - **(C)** A financial account number, debit card number, credit card number, or information that describes or reveals the income level or bank account balances of an individual.
@@ -58,10 +68,10 @@ This Act may be cited as the “Protecting Americans’ Data from Foreign Advers
     - **(O)** Information identifying an individual’s online activities over time and across websites or online services.
     - **(P)** Information that reveals the status of an individual as a member of the Armed Forces.
     - **(Q)** Any other data that a data broker sells, licenses, rents, trades, transfers, releases, discloses, provides access to, or otherwise makes available to a foreign adversary country, or entity that is controlled by a foreign adversary, for the purpose of identifying the types of data listed in subparagraphs (A) through (P).
-  - **(7)** *Service provider* The term “service provider” means an entity that—
+  - **(8)** *Service provider* The term “service provider” means an entity that—
     - **(A)** collects, processes, or transfers data on behalf of, and at the direction of—
-      - **(i)** an entity that is not a data broker and is not controlled by a foreign adversary; or
+      - **(i)** an individual or entity that is not a foreign adversary country or controlled by a foreign adversary; or
       - **(ii)** a Federal, State, Tribal, territorial, or local government entity; and
-    - **(B)** receives data from or on behalf of an entity described in subparagraph (A)(i) or a Federal, State, Tribal, territorial, or local government entity.
-  - **(8)** *United States individual* The term “United States individual” means a natural person residing in the United States.
+    - **(B)** receives data from or on behalf of an individual or entity described in subparagraph (A)(i) or a Federal, State, Tribal, territorial, or local government entity.
+  - **(9)** *United States individual* The term “United States individual” means a natural person residing in the United States.
 - **(d)** *Effective date* This section shall take effect on the date that is 60 days after the date of the enactment of this Act.

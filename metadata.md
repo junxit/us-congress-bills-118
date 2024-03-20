@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7520
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7520
@@ -28,6 +28,10 @@ Protecting Americans’ Data from Foreign Adversaries Act of 2024
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-03-20 — [House 118-2-91](votes/house-118-2-0091.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–0)
+
 ## Actions
 
 - 2024-03-05 — Introduced in House
@@ -40,3 +44,13 @@ Protecting Americans’ Data from Foreign Adversaries Act of 2024
 - 2024-03-11 — Placed on the Union Calendar, Calendar No. 345.
 - 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-418.
 - 2024-03-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-418.
+- 2024-03-13 — Sponsor introductory remarks on measure. (CR H1164-1165)
+- 2024-03-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-19 — Considered under suspension of the rules. (consideration: CR H1216-1219)
+- 2024-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7520.
+- 2024-03-19 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-03-20 — Considered as unfinished business. (consideration: CR H1254-1255)
+- 2024-03-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 91). (text: 3/19/2024 CR H1216-1217)
+- 2024-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 91). (text: 3/19/2024 CR H1216-1217)
+- 2024-03-20 — The title of the measure was amended. Agreed to without objection.
