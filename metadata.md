@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4723
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4723
@@ -25,11 +25,12 @@ Upholding the Dayton Peace Agreement Through Sanctions Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Upholding the Dayton Peace Agreement Through Sanctions Act
 - 2024-03-19 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 30 (Roll no. 87). (text: CR H1195-1197)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 30 (Roll no. 87). (text: CR H1195-1197)
+- 2024-03-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
