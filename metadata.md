@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6306
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6306
@@ -30,9 +30,10 @@ Embassy Construction Integrity Act of 2023
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Embassy Construction Integrity Act of 2023
 - 2024-03-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1194)
 - 2024-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1194)
 - 2024-03-19 — The title of the measure was amended. Agreed to without objection.
+- 2024-03-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
