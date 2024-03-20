@@ -1,0 +1,28 @@
+---
+legis-num: S. 3996
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3996
+
+> To enhance the work of the North Pacific Research Board.
+
+## § 1. Short title
+
+This Act may be cited as the “North Pacific Research Board Enhancement Act ”.
+
+## § 2. North Pacific Research Board Enhancement
+
+Section 401(e) of Public Law 105–83 (111 Stat. 1608; 43 U.S.C. 1474d) is amended—
+
+- **(1)** in paragraph (3)—
+  - **(A)** in subparagraph (L), by striking “and” after the semicolon;
+  - **(B)** in subparagraph (M), by striking the period at the end and inserting a semicolon;
+  - **(C)** in subparagraph (N), by striking the period at the end and inserting “; and”;
+  - **(D)** by inserting after subparagraph (N) the following:
+    > - **(O)** one member who shall represent Alaska Natives and possesses personal knowledge of, and direct experience with, subsistence uses and shall be nominated by the Board and appointed by the Secretary.
+
+  - **(E)** by adding at the end the following: “Board members appointed under subparagraphs (N) and (O) shall serve for 3-year terms, and may be reappointed once.”; and
+- **(2)** in paragraph (4)(B), by striking “Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.” and inserting “The funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection. The Board shall maximize the percentage of funds directed to research and maintain the highest quality standards in administering grants under this subsection. On the date that is 5 years after the date of enactment of the North Pacific Research Board Enhancement Act, not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.”.
