@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1792
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 16 executed, 40 stated and not applied.
+55 amendatory instructions. 16 executed, 39 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -216,4 +216,3 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 973m` | amend | Section 15 (16 U.S.C. 973m) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 973n` | strike | by striking “Article 6 of” after “arbitral tribunal under”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 973o` | strike | Section 17 (16 U.S.C. 973o) is amended by striking “Article 4 of”. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 973r` | amend | Section 20(a) (16 U.S.C. 973r(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

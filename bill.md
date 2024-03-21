@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1792
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -80,7 +80,7 @@ Section 7(a) (16 U.S.C. 973e(a)) is amended by striking “section 5(a) (8), (10
 - **(b)** *Fees and schedules* Section 9(c) (16 U.S.C. 973g(c)) is amended to read as follows:
   > - **(c)** Fees required under the Treaty shall be paid in accordance with the Treaty and any procedures established by the Secretary.
 
-- **(c)** *Minimum fees required To be received in initial year of implementation for forwarding and transmittal of license applications* Section 9 (16 U.S.C. 973g) is amended—
+- **(c)** *Minimum fees required to be received in initial year of implementation for forwarding and transmittal of license applications* Section 9 (16 U.S.C. 973g) is amended—
   - **(1)** by striking subsection (f);
   - **(2)** by redesignating subsections (g) and (h) as subsections (f) and (g), respectively;
   - **(3)** by amending subsection (f), as so redesignated, to read as follows:
@@ -110,7 +110,7 @@ Section 7(a) (16 U.S.C. 973e(a)) is amended by striking “section 5(a) (8), (10
 
 ## § 10. Findings by Secretary
 
-- **(a)** *Order To leave waters upon failure To submit to jurisdiction of Pacific Island Party; procedure applicable* Section 11(a) (16 U.S.C. 973i(a)) is amended—
+- **(a)** *Order to leave waters upon failure to submit to jurisdiction of Pacific Island Party; procedure applicable* Section 11(a) (16 U.S.C. 973i(a)) is amended—
   - **(1)** by striking “, all Limited Areas,”;
   - **(2)** in paragraph (1)—
     - **(A)** in subparagraph (A), by striking “paragraph 2 of Article 3 of”; and
@@ -119,7 +119,7 @@ Section 7(a) (16 U.S.C. 973e(a)) is amended by striking “section 5(a) (8), (10
     - **(A)** in subparagraph (A), by striking “section 5 (a)(4), (a)(5), (b)(2), or (b)(3)” and inserting “paragraph (4) of section 5(a) or paragraphs (2) or (3) of section 5(b)”;
     - **(B)** in subparagraph (B), by striking “(7)” and inserting “(6)”; and
     - **(C)** in subparagraph (C), by striking “(7)” and inserting “(6)”.
-- **(b)** *Order of vessel To leave waters where Pacific Island Party investigating alleged Treaty infringement* Section 11(b) (16 U.S.C. 973i(b)) is amended by striking “paragraph 7 of Article 5 of”.
+- **(b)** *Order of vessel to leave waters where Pacific Island Party investigating alleged Treaty infringement* Section 11(b) (16 U.S.C. 973i(b)) is amended by striking “paragraph 7 of Article 5 of”.
 
 ## § 11. Reporting requirements; disclosure of information
 
@@ -177,9 +177,3 @@ Section 17 (16 U.S.C. 973o) is amended by striking “Article 4 of”.
 ## § 17. Additional agreements
 
 Section 18 (16 U.S.C. 973p) is amended by striking “Within 30 days after” and all that follows and inserting “The Secretary may establish procedures for review of any agreements for additional fishing access entered into pursuant to the Treaty.”.
-
-## § 18. Authorization of appropriations
-
-Section 20(a) (16 U.S.C. 973r(a)) is amended to read as follows:
-
-> - **(a)** There are authorized to be appropriated such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this Act for fiscal year 2023 and each fiscal year thereafter.
