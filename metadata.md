@@ -1,7 +1,7 @@
 ---
 measure: S. 4050
 congress: 118
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 4050
