@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1829
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Definitions* In this section:
   - **(1)** *County* The term County means Gila County, Arizona.
-  - **(2)** *Map* The term map means the map entitled “Pleasant Valley Admin Site Proposal” and dated September 24, 2021.
+  - **(2)** *Map* The term map means the map entitled “Pleasant Valley Admin Site Proposal” and dated September 23, 2021.
   - **(3)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 - **(b)** *Conveyance required* Subject to this section, if the County submits to the Secretary a written request for conveyance of the property described in subsection (c) not later than 180 days after the date of enactment of this Act, the Secretary shall convey to the County all right, title, and interest of the United States in and to the property described in subsection (c).
 - **(c)** *Description of property*
@@ -28,7 +28,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** made by quitclaim deed; and
   - **(4)** subject to such other terms and conditions as the Secretary considers to be appropriate to protect the interests of the United States.
 - **(e)** *Costs of conveyance* As a condition of the conveyance under subsection (b), the County shall pay all costs associated with the conveyance, including the cost of—
-  - **(1)** a survey, if necessary, under subsection (c)(3); and
-  - **(2)** any environmental analysis or resource survey required under Federal law.
-- **(f)** *Environmental conditions* Notwithstanding section 120(h)(3)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)(A)), the Secretary shall not be required to provide any covenant or warranty for the land and improvements conveyed to the County under subsection (c).
-- **(g)** *Reversion* If any land conveyed under subsection (b) ceases to be used for purposes of serving veterans of the Armed Forces, all right, title, and interest in and to the land shall revert to the United States.
+  - **(1)** a survey, if necessary, under subsection (c)(3);
+  - **(2)** any environmental analysis or resource survey required under Federal law; and
+  - **(3)** any analysis required to comply with division A of subtitle III of title 54, United States Code (commonly referred to as the “National Historic Preservation Act”).
+- **(f)** *Environmental conditions* Notwithstanding section 120(h)(3)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)(A)), the Secretary shall not be required to provide any covenant or warranty for the land and improvements conveyed to the County under subsection (b).
+- **(g)** *Use of land* The land conveyed to the county under subsection (b) shall be used by the County only for the purposes of serving and supporting veterans of the Armed Forces.
+- **(h)** *Reversion* If any land conveyed under subsection (b) is used in a manner that is inconsistent with the requirements of subsection (g), all right, title, and interest in and to the land shall revert to the United States, at the discretion of the Secretary.
