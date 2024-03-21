@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7024
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7024
@@ -48,3 +48,6 @@ Tax Relief for American Families and Workers Act of 2024
 - 2024-01-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 70 (Roll no. 30). (text: CR H343-350)
 - 2024-01-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 70 (Roll no. 30). (text: CR H343-350)
 - 2024-01-31 — UNANIMOUS CONSENT REQUEST - Mr. Smith (MO) asked unanimous consent that debate be extended by 20 minutes to be controlled by the gentleman from Massachusetts, Mr. Neal. Objection heard.
+- 2024-02-01 — Received in the Senate.
+- 2024-03-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-03-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
