@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1121
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1121
@@ -48,10 +48,11 @@ Protecting American Energy Production Act
 - Rep. Cline, Ben [R-VA-6] (C001118)
 - Rep. Brecheen, Josh [R-OK-2] (B001317)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -93,3 +94,4 @@ Protecting American Energy Production Act
 - 2024-03-20 — Rule provides for consideration of H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, H. Res. 987 and H.R. 7023. The resolution provides for consideration H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, and H. Res. 987 under a closed rule, and H.R. 7023 under a structured rule, each with one hour of general debate. The rule provides for one motion to recommit each on H.R. 1023, H.R. 1121, H.R. 6009, and H.R. 7023.
 - 2024-03-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-03-20 — The previous question was ordered pursuant to the rule.
+- 2024-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
