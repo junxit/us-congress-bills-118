@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7767
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7767
+
+> To amend the Uniform Code of Military Justice to expand the definition of aiding the enemy to include the provision of military education, military training, and tactical advice.
+
+## § 1. Short title
+
+This Act may be cited as the “Safeguarding Tactics and Operational Procedures from Enemies Act of 2024” or the “STOP Enemies Act of 2024”.
+
+## § 2. Aiding the enemy definition for purposes of the Uniform Code of Military Justice
+
+Section 903b(2) of title 10, United States Code (article 103b(2) of the Uniform Code of Military Justice) is amended by inserting “provides military education, military training, or tactical advice to,” after “gives intelligence to,”.
