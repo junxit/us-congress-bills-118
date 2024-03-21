@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 86
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 86
@@ -16,7 +16,7 @@ Expressing the sense of Congress that a carbon tax would be detrimental to the U
 
 - Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
 
-## Cosponsors (13)
+## Cosponsors (21)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Bost, Mike [R-IL-12] (B001295)
@@ -31,10 +31,22 @@ Expressing the sense of Congress that a carbon tax would be detrimental to the U
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2024-03-21 — [House 118-2-97](votes/house-118-2-0097.md) — On Agreeing to the Resolution — **Passed** (222–196)
 
 ## Actions
 
@@ -42,3 +54,13 @@ Expressing the sense of Congress that a carbon tax would be detrimental to the U
 - 2024-01-25 — Introduced in House
 - 2024-01-25 — Referred to the House Committee on Ways and Means.
 - 2024-01-25 — Submitted in House
+- 2024-03-19 — Rules Committee Resolution H. Res. 1085 Reported to House. Rule provides for consideration of H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, H. Res. 98and H.R. 7023. The resolution provides for consideration H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, and H. Res. 987 under a closed rule, and H.R. 7023 under a structured rule, each with one hour of general debate. The rule provides for one motion to recommit each on H.R. 1023, H.R. 1121, H.R. 6009, and H.R. 7023.
+- 2024-03-21 — Considered as unfinished business. (consideration: CR H1321)
+- 2024-03-21 — Considered under the provisions of rule H. Res. 1085. (consideration: CR H1309-1314)
+- 2024-03-21 — DEBATE - The House proceeded with one hour of debate on H. Con. Res. 86.
+- 2024-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-21 — On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 97). (text: CR H1309)
+- 2024-03-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res 86, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Smith (MO) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-03-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 97). (text: CR H1309)
+- 2024-03-21 — Rule provides for consideration of H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, H. Res. 987 and H.R. 7023. The resolution provides for consideration H.R. 1023, H.R. 1121, H.R. 6009, H. Con. Res. 86, and H. Res. 987 under a closed rule, and H.R. 7023 under a structured rule, each with one hour of general debate. The rule provides for one motion to recommit each on H.R. 1023, H.R. 1121, H.R. 6009, and H.R. 7023.
+- 2024-03-21 — The previous question was ordered pursuant to the rule.
