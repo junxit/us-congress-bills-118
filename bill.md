@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7023
 
-> To amend section 404 of the Federal Water Pollution Control Act to codify certain regulatory provisions relating to nationwide permits for dredged or fill material, and for other purposes.
+> To amend the Federal Water Pollution Control Act to provide regulatory and judicial certainty for regulated entities and communities, increase transparency, and promote water quality, and for other purposes.
 
 ## § 1. Short title
 
@@ -34,7 +34,15 @@ Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is
 >     - **(i)** continue to apply the terms, conditions, and requirements of the expired general permit to any discharge that was covered by the expired general permit; and
 >     - **(ii)** apply such terms, conditions, and requirements to any discharge that would have been covered by the expired general permit (in accordance with any relevant requirements for such coverage) if the discharge had occurred before such expiration.
 
-## § 4. Confidence in clean water permits
+## § 4. National pollutant discharge elimination system (NPDES) terms
+
+Section 402(b)(1)(B) of the Federal Water Pollution Control Act (33 U.S.C. 1342(b)(1)(B)) is amended to read as follows:
+
+> - **(B)** are for fixed terms—
+>   - **(i)** not exceeding 10 years, for a permit issued to a State or municipality; and
+>   - **(ii)** not exceeding 5 years, for a permit issued to any person not described in clause (i); and
+
+## § 5. Confidence in clean water permits
 
 - **(a)** *Compliance with permits* Section 402(k) of the Federal Water Pollution Control Act (33 U.S.C. 1342(k)) is amended—
   - **(1)** by striking “(k) Compliance with” and inserting the following:
@@ -51,12 +59,21 @@ Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is
     >       - **(I)** present in any waste streams or processes of the point source to which the permit applies, which waste streams or processes are specifically identified during the permit application process; or
     >       - **(II)** otherwise within the scope of any operations of the point source to which the permit applies, which scope of operations is specifically identified during the permit application process.
 
-- **(b)** *Expression of water quality-based effluent limitations* Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following:
+- **(b)** *Technical corrections* Section 402(l)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1342(l)(3)) is amended—
+  - **(1)** in subparagraph (B)—
+    - **(A)** by striking “section 402” and inserting “this section”; and
+    - **(B)** by striking “federal” and inserting “Federal”; and
+  - **(2)** in subparagraph (C)—
+    - **(A)** by striking “Section” and inserting “section”;
+    - **(B)** by striking “402(p)(6)” and inserting “subsection (p)(6)”;
+    - **(C)** by striking “402(l)(3)(A),” and inserting “subparagraph (A),”; and
+    - **(D)** by striking “402(l)(3)(A).” and inserting “such subparagraph.”.
+- **(c)** *Expression of water quality-based effluent limitations* Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following:
   > - **(t)** *Expression of water quality-based effluent limitations* If the Administrator (or a State, in the case of a permit program approved by the Administrator) determines that a water quality-based limitation on a discharge of a pollutant is necessary to include in a permit under this section in addition to any appropriate technology-based effluent limitations included in such permit, the Administrator (or the State) may include such water quality-based limitation in such permit only in the form of an effluent limitation that specifies—
   >   - **(1)** the pollutant to which it applies; and
   >   - **(2)** the numerical limit on the discharge of such pollutant, or the precise waterbody conditions to be attained with respect to such pollutant, required to comply with the permit.
 
-## § 5. Reducing permitting uncertainty
+## § 6. Reducing permitting uncertainty
 
 - **(a)** *In general* Section 404(c) of the Federal Water Pollution Control Act (33 U.S.C. 1344(c)) is amended—
   - **(1)** by striking “(c) The Administrator” and inserting the following:
@@ -71,7 +88,7 @@ Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is
 
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply to a permit application submitted under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) after the date of enactment of this Act.
 
-## § 6. Nationwide permitting improvement
+## § 7. Nationwide permitting improvement
 
 - **(a)** *In general* Section 404(e) of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amended—
   - **(1)** by striking “(e)(1) In carrying” and inserting the following:
@@ -86,7 +103,7 @@ Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is
   - **(3)** by adding at the end the following:
     > - **(3)** *Considerations* In determining the environmental effects of an activity under paragraph (1) or (2), the Secretary shall consider only the effects of any discharge of dredged or fill material resulting from such activity.
     > - **(4)** *Nationwide permits for linear infrastructure projects*
-    >   - **(A)** *In general* Notwithstanding any other provision of this section, the Secretary shall maintain general permits on a nationwide basis for linear infrastructure projects that do not result in the loss of greater than 1/2-acre of waters of the United States for each single and complete project (as defined in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this paragraph)).
+    >   - **(A)** *In general* Notwithstanding any other provision of this section, the Secretary shall maintain general permits on a nationwide basis for linear infrastructure projects that do not result in the loss of greater than ½-acre of waters of the United States for each single and complete project (as defined in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this paragraph)).
     >   - **(B)** *Definition of linear infrastructure project* In this paragraph, the term linear infrastructure project means a project to carry out any activity required for the construction, expansion, maintenance, modification, or removal of infrastructure and associated facility for the transmission from a point of origin to a terminal point of communications or electricity or the transportation from a point of origin to a terminal point of people, water, wastewater, carbon dioxide, or fuel or hydrocarbons (in the form of a liquid, liquescent, gaseous, or slurry substance or supercritical fluid), including oil and gas pipeline facilities.
     > - **(5)** *Reissuance of nationwide permits* In determining whether to reissue a general permit issued under this subsection on a nationwide basis—
     >   - **(A)** no consultation with an applicable State pursuant to section 6(a) of the Endangered Species Act of 1973 (16 U.S.C. 1535(a)) is required;
@@ -98,7 +115,7 @@ Section 402(a) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)) is
   - **(2)** the definition of single and complete linear project, as included in such final rule (86 Fed. Reg. 2877); or
   - **(3)** the definition of single and complete project, as included in section 330.2 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act).
 
-## § 7. Judicial review timeline clarity
+## § 8. Judicial review timeline clarity
 
 Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amended—
 
@@ -120,10 +137,40 @@ Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amend
   >     - **(C)** with respect to a determination regarding a verification that an activity is authorized by a general permit issued under this section, the court may not enjoin the activity, unless the court finds that the activity would present an imminent and substantial danger to human health or the environment for which there is no other equitable remedy available under the law.
   >   - **(4)** *Timeline to act on court order* If a court remands a matter under paragraph (2), the court shall set and enforce a reasonable schedule and deadline, which may not exceed 180 days from the date on which the court remands such matter, except as otherwise required by law, for the Secretary or the State, as applicable, to take such actions as the court may order.
 
-## § 8. Implementation guidance
+## § 9. Limitation on permit issuance
+
+Title IV of the Federal Water Pollution Control Act (33 U.S.C. 1341 et seq.) is amended by adding at the end the following:
+
+> ## § 407. Limitation on permit issuance
+>
+> - **(a)** *Prohibition* No permit may be issued under this title for any discharge from a point source that is owned or operated by an entity that—
+>   - **(1)** is subject to the jurisdiction of a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651(7)); or
+>   - **(2)** is a subsidiary of an entity that is subject to the jurisdiction of a foreign country of concern (as so defined).
+> - **(b)** *Application* This section shall be applied in a manner consistent with the obligations of the United States under applicable international agreements.
+
+## § 10. Implementation guidance
 
 - **(a)** *In general* Not later than 30 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency and the Secretary of the Army, acting through the Chief of Engineers, shall begin a process to issue guidance on the implementation of the final rule published on September 8, 2023, by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency and titled “Revised Definition of “Waters of the United States”; Conforming” (88 Fed. Reg. 61964).
 - **(b)** *Public comment* In issuing the guidance required under subsection (a), the Administrator and the Secretary shall—
   - **(1)** prior to such issuance, solicit comments from the public on such guidance; and
   - **(2)** ensure that such comments and any responses to such comments are made publicly available.
 - **(c)** *Compliance* Any guidance issued pursuant to this section shall comply with the decision of the Supreme Court in Sackett v. EPA, 598 U.S. 651 (2023).
+
+## § 11. Rule of construction
+
+Nothing in this Act, including the amendments made by this Act, may be construed as affecting the ban on oil and gas development in the Great Lakes described in section 386 of the Energy Policy Act of 2005 (42 U.S.C. 15941).
+
+## § 12. Report on Corps staffing needs
+
+Not later than 60 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency and the Secretary of the Army, acting through the Chief of Engineers, shall submit to Congress a report on—
+
+- **(1)** the staffing needs of the Environmental Protection Agency and the Corps of Engineers to process applications for, and issue, permits under the Federal Water Pollution Control Act, based on the number of such applications submitted during the 5-year period preceding such date of enactment; and
+- **(2)** the impact that funding for additional full-time employees would have on processing timelines for such permits.
+
+## § 13. Savings clause relating to PFAS
+
+Nothing in this Act, including the amendments made by this Act, shall affect the authority of the Administrator of the Environmental Protection Agency to conduct research on perfluoroalkyl and polyfluoroalkyl substances.
+
+## § 14. Approval of Florida permit program
+
+The notice of the Environmental Protection Agency approving the State of Florida’s request to carry out a permit program for the discharge of dredged or fill material pursuant to section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), published on December 22, 2020, and titled “EPA’s Approval of Florida’s Clean Water Act Section 404 Assumption Request” (85 Fed. Reg. 83553) shall have the force and effect of law.
