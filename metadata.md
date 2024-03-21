@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1836
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1836
@@ -26,6 +26,10 @@ Ocean Shipping Reform Implementation Act of 2023
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2024-03-21 — [House 118-2-98](votes/house-118-2-0098.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–24)
+
 ## Actions
 
 - 2023-03-28 — Introduced in House
@@ -38,3 +42,11 @@ Ocean Shipping Reform Implementation Act of 2023
 - 2023-09-26 — Placed on the Union Calendar, Calendar No. 177.
 - 2023-09-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-218.
 - 2023-09-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-218.
+- 2024-03-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-03-19 — Considered under suspension of the rules. (consideration: CR H1213-1216)
+- 2024-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1836.
+- 2024-03-19 — Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.
+- 2024-03-21 — Considered as unfinished business. (consideration: CR H1321-1322)
+- 2024-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-03-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 98). (text: 3/19/2024 CR H1213-1215)
+- 2024-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 98). (text: 3/19/2024 CR H1213-1215)
