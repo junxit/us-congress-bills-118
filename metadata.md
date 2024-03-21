@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7520
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7520
@@ -24,9 +24,10 @@ Protecting Americans’ Data from Foreign Adversaries Act of 2024
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Trahan, Lori [D-MA-3] (T000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Protecting Americans’ Data from Foreign Adversaries Act of 2024
 - 2024-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 91). (text: 3/19/2024 CR H1216-1217)
 - 2024-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 91). (text: 3/19/2024 CR H1216-1217)
 - 2024-03-20 — The title of the measure was amended. Agreed to without objection.
+- 2024-03-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
