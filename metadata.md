@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 62
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 62
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Rosen, Jacky [D-NV] (R000608)
@@ -28,10 +28,16 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Ricketts, Pete [R-NE] (R000618)
 - Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
 
 ## Committees (1)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+
+## Recorded votes (1)
+
+- 2024-03-21 — [Senate 118-2-101](votes/senate-118-2-0101.md) — On the Joint Resolution — **Joint Resolution Passed** (70–25)
 
 ## Actions
 
@@ -40,3 +46,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2024-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
 - 2024-03-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2024-03-11 — Senate Committee on Agriculture, Nutrition, and Forestry discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2024-03-12 — Star Print ordered on the joint resolution.
+- 2024-03-21 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2024-03-21 — Passed Senate without amendment by Yea-Nay Vote. 70 - 25. Record Vote Number: 101. (consideration: CR S2497; text: CR S2497)
+- 2024-03-21 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 70 - 25. Record Vote Number: 101. (consideration: CR S2497; text: CR S2497)
