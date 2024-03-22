@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7023
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7023
@@ -16,9 +16,10 @@ Creating Confidence in Clean Water Permitting Act
 
 - Rep. Rouzer, David [R-NC-7] (R000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -98,3 +99,4 @@ Creating Confidence in Clean Water Permitting Act
 - 2024-03-21 — The Speaker designated the Honorable Daniel Meuser to act as Chairman of the Committee.
 - 2024-03-21 — The previous question was ordered pursuant to the rule.
 - 2024-03-21 — The title of the measure was amended. Agreed to without objection.
+- 2024-03-22 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
