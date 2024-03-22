@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

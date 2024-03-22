@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2882
@@ -97,11 +97,20 @@ Further Consolidated Appropriations Act, 2024
 - House — Education and Workforce Committee
 - House — Natural Resources Committee
 
-## Recorded votes (3)
+## Recorded votes (12)
 
 - 2024-02-05 — [House 118-2-32](votes/house-118-2-0032.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (350–58)
 - 2024-03-22 — [Senate 118-2-103](votes/senate-118-2-0103.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (78–18)
 - 2024-03-22 — [Senate 118-2-105](votes/senate-118-2-0105.md) — On the Motion — **Motion Rejected** (45–51)
+- 2024-03-23 — [Senate 118-2-106](votes/senate-118-2-0106.md) — On the Motion to Refer — **Motion to Refer Rejected** (34–63)
+- 2024-03-23 — [Senate 118-2-107](votes/senate-118-2-0107.md) — On the Motion to Table — **Motion to Table Agreed to** (51–47)
+- 2024-03-23 — [Senate 118-2-108](votes/senate-118-2-0108.md) — On the Motion to Table — **Motion to Table Agreed to** (51–47)
+- 2024-03-23 — [Senate 118-2-109](votes/senate-118-2-0109.md) — On the Motion — **Motion Rejected** (47–51)
+- 2024-03-23 — [Senate 118-2-110](votes/senate-118-2-0110.md) — On the Motion to Table — **Motion to Table Agreed to** (51–47)
+- 2024-03-23 — [Senate 118-2-111](votes/senate-118-2-0111.md) — On the Motion to Table — **Motion to Table Failed** (47–51)
+- 2024-03-23 — [Senate 118-2-112](votes/senate-118-2-0112.md) — On the Motion to Table — **Motion to Table Failed** (47–51)
+- 2024-03-23 — [Senate 118-2-113](votes/senate-118-2-0113.md) — On the Motion to Table — **Motion to Table Failed** (47–51)
+- 2024-03-23 — [Senate 118-2-114](votes/senate-118-2-0114.md) — On the Motion — **Motion Agreed to** (74–24)
 
 ## Actions
 
@@ -527,3 +536,60 @@ Further Consolidated Appropriations Act, 2024
 - 2024-03-22 — Senate amendment submitted
 - 2024-03-22 — Senate amendment submitted
 - 2024-03-22 — Senate amendment submitted
+- 2024-03-23 — Amendment SA 1706 proposed by Senator Johnson. (consideration: CR S2582) To prohibit the disbursement of certain Federal funding to local jurisdictions that refuse to provide advance notice to the Department of Homeland Security regarding the release of illegal aliens from local custody.
+- 2024-03-23 — Amendment SA 1713 not agreed to in Senate by Voice Vote.
+- 2024-03-23 — Amendment SA 1713 proposed by Senator Lankford. (consideration: CR S2582-2583) To prohibit the use of funds for the Women and Infants Hospital, Rhode Island.
+- 2024-03-23 — Amendment SA 1718 not agreed to in Senate by Voice Vote.
+- 2024-03-23 — Amendment SA 1718 proposed by Senator Lankford. (consideration: CR S2583) To prohibit funding for the release of special interest aliens from Federal custody during such aliens' proceedings under the Immigration and Nationality Act.
+- 2024-03-23 — Amendment SA 1722 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 105.
+- 2024-03-23 — Amendment SA 1781 proposed by Senator Tuberville. (consideration: CR S2580-2581) To prohibit funding for entities that permit certain students to participate in girls' or women's athletics.
+- 2024-03-23 — Amendment SA 1795 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 109.
+- 2024-03-23 — Amendment SA 1795 proposed by Senator Schmitt. (consideration: CR S2581-2582) To prohibit the use of funds to label speech as disinformation or misinformation or to coerce online platforms to alter, remove, restrict, or suppress speech.
+- 2024-03-23 — Amendment SA 1804 proposed by Senator Cruz. (consideration: CR S2580) To prohibit the use of funds to waive certain sanctions with respect to Iran.
+- 2024-03-23 — Became Public Law No: 118-47.
+- 2024-03-23 — Became Public Law No: 118-47.
+- 2024-03-23 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 2882 withdrawn by unanimous consent in Senate.
+- 2024-03-23 — Message on Senate action sent to the House.
+- 2024-03-23 — Motion by Senator Blackburn to refer to Senate Committee on the Judiciary with instructions to report back rejected in Senate by Voice Vote. (CR S2583)
+- 2024-03-23 — Motion by Senator Cruz to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1804) made in Senate. (CR S2580)
+- 2024-03-23 — Motion by Senator Johnson to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1706) made in Senate. (CR S2582)
+- 2024-03-23 — Motion by Senator Lankford to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1713) made in Senate. (CR S2582)
+- 2024-03-23 — Motion by Senator Lankford to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1713) was not agreed to by Voice Vote.
+- 2024-03-23 — Motion by Senator Lankford to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1718) made in Senate. (CR S2583)
+- 2024-03-23 — Motion by Senator Lankford to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1718) was not agreed to by Voice Vote.
+- 2024-03-23 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1722) was not agreed to by Yea-Nay Vote. 45 - 51. Record Vote Number: 105.
+- 2024-03-23 — Motion by Senator Paul to refer to Senate Committee on Appropriations with instructions to report back rejected in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 106. (CR S2579)
+- 2024-03-23 — Motion by Senator Schmitt to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1795) made in Senate. (CR S2581)
+- 2024-03-23 — Motion by Senator Schmitt to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1795) was not agreed to by Yea-Nay Vote. 47 - 51. Record Vote Number: 109.
+- 2024-03-23 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1790) withdrawn by unanimous consent in Senate.
+- 2024-03-23 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2882 with instructions to report back forthwith with the following amendment (SA 1792) withdrawn by unanimous consent in Senate.
+- 2024-03-23 — Motion by Senator Tuberville to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1781) made in Senate. (CR S2580)
+- 2024-03-23 — Motion to table amendment SA 1792 (the instructions of the motion to refer) rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 113.
+- 2024-03-23 — Motion to table amendment SA 1793 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 112.
+- 2024-03-23 — Motion to table amendment SA 1794 rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 111.
+- 2024-03-23 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1706) was agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 110.
+- 2024-03-23 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1781) was agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 108.
+- 2024-03-23 — Motion to table the motion to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1804) was agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 107.
+- 2024-03-23 — Presented to President.
+- 2024-03-23 — Presented to President.
+- 2024-03-23 — Proposed amendment SA 1790 withdrawn in Senate.
+- 2024-03-23 — Proposed amendment SA 1792 withdrawn in Senate.
+- 2024-03-23 — Resolving differences -- Senate actions: Senate agreed, under the order of 3/22/2024, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 2882 by Yea-Nay Vote. 74 - 24. Record Vote Number: 114.
+- 2024-03-23 — Roll call votes on amendments in Senate: Amendment SA 1722 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 105.
+- 2024-03-23 — Roll call votes on amendments in Senate: Amendment SA 1795 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 109.
+- 2024-03-23 — SA 1791 fell when SA 1790 was withdrawn.
+- 2024-03-23 — SA 1793 fell when SA 1792 was withdrawn.
+- 2024-03-23 — SA 1794 fell when SA 1793 fell.
+- 2024-03-23 — Senate agreed, under the order of 3/22/2024, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 2882 by Yea-Nay Vote. 74 - 24. Record Vote Number: 114.
+- 2024-03-23 — Senate amendment not agreed to: Amendment SA 1713 not agreed to in Senate by Voice Vote.
+- 2024-03-23 — Senate amendment not agreed to: Amendment SA 1718 not agreed to in Senate by Voice Vote.
+- 2024-03-23 — Senate amendment not agreed to: Amendment SA 1722 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 105.
+- 2024-03-23 — Senate amendment not agreed to: Amendment SA 1795 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 109.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1706 proposed by Senator Johnson.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1713 proposed by Senator Lankford.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1718 proposed by Senator Lankford.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1781 proposed by Senator Tuberville.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1795 proposed by Senator Schmitt.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1804 proposed by Senator Cruz.
+- 2024-03-23 — Signed by President.
+- 2024-03-23 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2882
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2882
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2882) entitled “An Act to reauthorize the Morris K. Udall and Stewart L. Udall Trust Fund, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> Making further consolidated appropriations for the fiscal year ending September 30, 2024, and for other purposes.
 
 ## § 1. Short title
 
