@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1023
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 7434` | repeal | Section 134 of the Clean Air Act (42 U.S.C. 7434)(relating to the greenhouse gas reduction fund) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 7434` | repeal | Section 60103 of Public Law 117–169 (relating to the greenhouse gas reduction fund) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7436` | repeal | Section 136 of the Clean Air Act (42 U.S.C. 7436)(relating to methane emissions and waste reduction incentive program for petroleum and natural gas systems) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
