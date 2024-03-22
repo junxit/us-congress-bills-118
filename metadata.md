@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1836
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1836
@@ -22,9 +22,10 @@ Ocean Shipping Reform Implementation Act of 2023
 - Rep. Steel, Michelle [R-CA-45] (S001135)
 - Rep. Costa, Jim [D-CA-21] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Ocean Shipping Reform Implementation Act of 2023
 - 2024-03-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-03-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 98). (text: 3/19/2024 CR H1213-1215)
 - 2024-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 24 (Roll no. 98). (text: 3/19/2024 CR H1213-1215)
+- 2024-03-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
