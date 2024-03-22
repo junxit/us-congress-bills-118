@@ -1,0 +1,32 @@
+---
+legis-num: S. 4054
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4054
+
+> To require entities to meet minimum cybersecurity standards to be eligible for Medicare accelerated and advance payment programs if the reason for the need for such payments is due to a cybersecurity incident.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Care Cybersecurity Improvement Act of 2024”.
+
+## § 2. Modification of the Medicare hospital accelerated payment program
+
+Section 1815(e)(3) of the Social Security Act (42 U.S.C. 1395g(e)(3)) is amended—
+
+- **(1)** by inserting “(A)” after “(3)”;
+- **(2)** by inserting “subparagraph (B) and” after “Subject to”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(B)** Beginning on the date that is 2 years after the date of enactment of the Health Care Cybersecurity Improvement Act of 2024, if the Secretary determines that a cybersecurity incident led to the disruptions of the operations of such hospital’s intermediary or the unusual circumstances to such hospital’s operation that resulted in such significant cash flow problems, accelerated payments shall not be made to such hospital under subparagraph (A) unless—
+  >   - **(i)** such hospital meets minimum cybersecurity standards, as determined by the Secretary; and
+  >   - **(ii)** in the case of operations of such hospital's intermediary, such intermediary meets minimum cybersecurity standards, as determined by the Secretary.
+
+## § 3. Modification of the Medicare Part B advance payment program
+
+Beginning on the date that is 2 years after the date of enactment of this Act, in the event of a cybersecurity incident, as determined by the Secretary of Health and Human Services, leading to the making of payments pursuant to the program described in section 421.214 of title 42, Code of Federal Regulations (or any successor regulation), such payments shall not be made to a provider of services or supplier unless—
+
+- **(1)** such provider of services or supplier meets minimum cybersecurity standards, as determined by the Secretary; and
+- **(2)** in the case of such provider's or supplier’s intermediary being the target of such incident, such intermediary meets minimum cybersecurity standards, as determined by the Secretary.
