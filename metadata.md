@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2882
 congress: 118
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2882
@@ -16,7 +16,7 @@ Further Consolidated Appropriations Act, 2024
 
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
-## Cosponsors (7)
+## Cosponsors (73)
 
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 - Rep. Vasquez, Gabe [D-NM-2] (V000136)
@@ -25,15 +25,83 @@ Further Consolidated Appropriations Act, 2024
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (2)
 
 - House — Education and Workforce Committee
 - House — Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2024-02-05 — [House 118-2-32](votes/house-118-2-0032.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (350–58)
+- 2024-03-22 — [Senate 118-2-103](votes/senate-118-2-0103.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (78–18)
+- 2024-03-22 — [Senate 118-2-105](votes/senate-118-2-0105.md) — On the Motion — **Motion Rejected** (45–51)
 
 ## Actions
 
@@ -67,3 +135,395 @@ Further Consolidated Appropriations Act, 2024
 - 2024-03-12 — Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Schumer for Senator Kelly.
 - 2024-03-12 — Senate amendment submitted
 - 2024-03-12 — Senate amendment submitted
+- 2024-03-14 — Message on Senate action sent to the House.
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — 
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-21 — Senate amendment submitted
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — 
+- 2024-03-22 — Amendment SA 1722 proposed by Senator Lee. (consideration: CR S2578-2579) To prohibit Federal funding for the use of the CBP One application to facilitate the entry of aliens into the United States.
+- 2024-03-22 — Amendment SA 1790 proposed by Senator Schumer. (consideration: CR S2558-2559) To add an effective date.
+- 2024-03-22 — Amendment SA 1791 proposed by Senator Schumer to Amendment SA 1790. (consideration: CR S2559) To add an effective date.
+- 2024-03-22 — Amendment SA 1792 proposed by Senator Schumer. (consideration: CR S2559, S2585) To add an effective date.
+- 2024-03-22 — Amendment SA 1793 proposed by Senator Schumer to Amendment SA 1792 (the instructions of the motion to refer). (consideration: CR S2559, S2584) To add an effective date.
+- 2024-03-22 — Amendment SA 1794 proposed by Senator Schumer to Amendment SA 1793. (consideration: CR S2559, S2584) To add an effective date.
+- 2024-03-22 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 2882 presented in Senate. (CR S2558)
+- 2024-03-22 — Measure laid before Senate by motion. (consideration: CR S2558-2564, S2572-2575, S2578-2586)
+- 2024-03-22 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2024-03-22 — Motion by Senator Lee to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1722) made in Senate. (CR S2578)
+- 2024-03-22 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2882 with an amendment (SA 1790) made in Senate. (CR S2558)
+- 2024-03-22 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 2882. (CR S2558)
+- 2024-03-22 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 2882 with instructions to report back forthwith with the following amendment (SA 1792) made in Senate. (CR S2559)
+- 2024-03-22 — Motion to proceed to consideration of the House message to accompany H.R. 2882 agreed to in Senate by Yea-Nay Vote. 78 - 18. Record Vote Number: 103.
+- 2024-03-22 — Pursuant to the provisions of H. Res. 1102, the House agreed to the Senate amendment with amendment. (consideration: CR H1365-1487)
+- 2024-03-22 — Resolving differences -- House actions: Pursuant to the provisions of H. Res. 1102, the House agreed to the Senate amendment with amendment.
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1722 proposed by Senator Lee.
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1790 proposed by Senator Schumer.
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1791 proposed by Senator Schumer to Amendment SA 1790.
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1792 proposed by Senator Schumer.
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1793 proposed by Senator Schumer to Amendment SA 1792 (the instructions of the motion to refer).
+- 2024-03-22 — Senate amendment proposed (on the floor): Amendment SA 1794 proposed by Senator Schumer to Amendment SA 1793.
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted
+- 2024-03-22 — Senate amendment submitted

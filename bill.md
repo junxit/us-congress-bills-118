@@ -2,31 +2,37 @@
 legis-num: H.R. 2882
 congress: 118th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 2882
 
-That the bill from the House of Representatives (H.R. 2882) entitled “An Act to reauthorize the Morris K. Udall and Stewart L. Udall Trust Fund, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 2882) entitled “An Act to reauthorize the Morris K. Udall and Stewart L. Udall Trust Fund, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Udall Foundation Reauthorization Act of 2023”.
+This Act may be cited as the “Further Consolidated Appropriations Act, 2024”.
 
-## § 2. Investment earnings
+## § 2. Table of Contents
 
-Section 8(b)(1) of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5606(b)(1)) is amended by adding at the end the following: “Beginning on October 1, 2023, and thereafter, interest earned from investments made with any new appropriations to the Trust Fund shall only be available subject to appropriations and is authorized to be appropriated to carry out the provisions of this Act.”.
+## § 3. References
 
-## § 3. Reauthorization of the Udall Foundation Trust Fund
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
 
-Section 13 of the Morris K. Udall and Stewart L. Udall Foundation Act (20 U.S.C. 5609) is amended—
+## § 4. Explanatory Statement
 
-- **(1)** in subsection (a), by striking “2023” and inserting “2029”;
-- **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “2023” and inserting “2029”; and
-- **(3)** in subsection (c), by striking “5-fiscal year period” and all that follows through the period at the end and inserting “5-fiscal year period beginning with fiscal year 2025.”.
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about March 22, 2024, and submitted by the chair of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of divisions A through F of this Act as if it were a joint explanatory statement of a committee of conference.
 
-## § 4. Audit of the Foundation
+## § 5. Statement of appropriations
 
-Not later than 4 years after the date of enactment of this section, the Inspector General of the Department of the Interior shall complete an audit of the Morris K. Udall and Stewart L. Udall Foundation.
+The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2024.
+
+## § 6. Availability of funds
+
+Each amount designated in this Act by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 shall be available (or repurposed, rescinded, or transferred, if applicable) only if the President subsequently so designates all such amounts and transmits such designations to the Congress.
+
+## § 7. Adjustments to compensation
+
+Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2024.
