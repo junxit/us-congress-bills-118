@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 532
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 532
@@ -28,3 +28,7 @@ A resolution recognizing and supporting the goals and ideals of National Medicol
 
 - 2024-01-25 — Introduced in Senate
 - 2024-01-25 — Referred to the Committee on the Judiciary.
+- 2024-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2618; text: 01/25/2024 CR S271)
+- 2024-03-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-03-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
