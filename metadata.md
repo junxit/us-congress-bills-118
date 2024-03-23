@@ -1,7 +1,7 @@
 ---
 measure: S. 3613
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3613
@@ -24,6 +24,10 @@ Improving Federal Building Security Act of 2024
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (1)
+
+- 2024-12-10 — [House 118-2-496](votes/house-118-2-0496.md) — On Motion to Suspend the Rules and Pass — **Passed** (410–6)
+
 ## Actions
 
 - 2024-01-18 — Introduced in Senate
@@ -43,3 +47,20 @@ Improving Federal Building Security Act of 2024
 - 2024-03-23 — Senate amendment submitted
 - 2024-03-23 — Senate amendment submitted
 - 2024-03-23 — The committee substitute withdrawn by Unanimous Consent.
+- 2024-03-25 — Message on Senate action sent to the House.
+- 2024-03-26 — Held at the desk.
+- 2024-03-26 — Received in the House.
+- 2024-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-09 — Considered under suspension of the rules. (consideration: CR H6529-6530)
+- 2024-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 3613.
+- 2024-12-09 — Mr. Graves (LA) moved to suspend the rules and pass the bill.
+- 2024-12-10 — Considered as unfinished business. (consideration: CR H6557-6558)
+- 2024-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 6 (Roll no. 496). (text: 12/9/2024 CR H6529-6530)
+- 2024-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 6 (Roll no. 496). (text: 12/9/2024 CR H6529-6530)
+- 2024-12-12 — Presented to President.
+- 2024-12-12 — Presented to President.
+- 2024-12-17 — Became Public Law No: 118-157.
+- 2024-12-17 — Became Public Law No: 118-157.
+- 2024-12-17 — Signed by President.
+- 2024-12-17 — Signed by President.
