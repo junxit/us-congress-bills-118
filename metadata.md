@@ -1,7 +1,7 @@
 ---
 measure: S. 1258
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1258
@@ -36,3 +36,5 @@ Billion Dollar Boondoggle Act of 2023
 - 2024-02-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-157.
 - 2024-02-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-157.
 - 2024-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
+- 2024-03-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2616-2617; text: CR S2616-2617)
+- 2024-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
