@@ -1,7 +1,7 @@
 ---
 measure: S. 3613
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3613
@@ -32,3 +32,14 @@ Improving Federal Building Security Act of 2024
 - 2024-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-160.
 - 2024-03-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-160.
 - 2024-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.
+- 2024-03-23 — 
+- 2024-03-23 — Amendment SA 1818 agreed to in Senate by Unanimous Consent.
+- 2024-03-23 — Amendment SA 1818 proposed by Senator Schumer for Senator Peters. (consideration: CR S2617-2618) In the nature of a substitute.
+- 2024-03-23 — Measure laid before Senate by unanimous consent. (consideration: CR S2617-2618)
+- 2024-03-23 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2617-2618)
+- 2024-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-03-23 — Senate amendment agreed to: Amendment SA 1818 agreed to in Senate by Unanimous Consent.
+- 2024-03-23 — Senate amendment proposed (on the floor): Amendment SA 1818 proposed by Senator Schumer for Senator Peters.
+- 2024-03-23 — Senate amendment submitted
+- 2024-03-23 — Senate amendment submitted
+- 2024-03-23 — The committee substitute withdrawn by Unanimous Consent.
