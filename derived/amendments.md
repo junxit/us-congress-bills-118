@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6192
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 5 executed, 8 stated and not applied.
+13 amendatory instructions. 4 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,15 +41,6 @@ to guess them.
 |---|---|
 | Removed | `New or amended standards.` |
 | Inserted | `New, amended, or revoked standards.` |
-
-### 42 U.S.C. § 6295
-
-> by striking “Not later than 3 years” and inserting “(A) Not later than 3 years”; and
-
-| | |
-|---|---|
-| Removed | `Not later than 3 years` |
-| Inserted | `(A) Not later than 3 years` |
 
 ### 42 U.S.C. § 6295
 
@@ -82,7 +73,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 6295` | amend | Section 325(m)(3) of the Energy Policy and Conservation Act (42 U.S.C. 6295(m)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6295` | insert | in paragraph (1), by inserting “or revoked” after “should be amended”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 6295` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6295` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and by conforming the margins accordingly); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6295` | replace | by striking “Not later than 3 years” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 6295` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6295` | amend | Paragraphs (2) and (3) of section 325(o) of the Energy Policy and Conservation Act (42 U.S.C. 6295(o)) are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6317` | strike | Section 346 of the Energy Policy and Conservation Act (42 U.S.C. 6317) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

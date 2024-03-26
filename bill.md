@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6192
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,13 +34,16 @@ This Act may be cited as the “Hands Off Our Home Appliances Act”.
 
   - **(4)** in paragraph (4)—
     - **(A)** by striking “New or amended standards.” and inserting “New, amended, or revoked standards.”;
-    - **(B)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
-    - **(C)** by striking “Not later than 3 years” and inserting “(A) Not later than 3 years”; and
+    - **(B)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and by conforming the margins accordingly);
+    - **(C)** by striking “Not later than 3 years” and inserting the following:
+      > - **(A)** Not later than 3 years
+
     - **(D)** by adding at the end the following:
       > - **(B)** Not later than 180 days after the date of granting a petition to revoke standards, the Secretary shall publish in the Federal Register—
       >   - **(i)** a final rule revoking the standards; or
       >   - **(ii)** a determination that it is not necessary to revoke the standards.
       > - **(C)** The grant of a petition by the Secretary under this subsection creates no presumption with respect to the Secretary’s determination of any of the criteria in a rulemaking under this section.
+      > - **(D)** Standards that have been revoked pursuant to subparagraph (B) shall be considered to be in effect for purposes of section 327.
 
 - **(c)** *Criteria* Paragraphs (2) and (3) of section 325(o) of the Energy Policy and Conservation Act (42 U.S.C. 6295(o)) are amended to read as follows:
   > - **(2)** *Requirements*
@@ -86,7 +89,7 @@ This Act may be cited as the “Hands Off Our Home Appliances Act”.
   >   - **(H)** *Regulatory review*
   >     - **(i)** *Evaluation* Not later than 2 years after the issuance of any final rule prescribing a new or amended energy conservation standard under this section for any type (or class) of covered product, the Secretary shall evaluate the rule to determine whether such energy conservation standard is technologically feasible and economically justified and whether the regulatory impact analysis for such rule remains accurate.
   >     - **(ii)** *Effect* Notwithstanding any other provision of this part, if the Secretary determines, based on an evaluation under clause (i), that an energy conservation standard is not technologically feasible or economically justified—
-  >       - **(I)** the Secretary shall publish such determination and such energy conservation standard shall have no force or effect; and
+  >       - **(I)** the Secretary shall publish such determination and such energy conservation standard shall have no force or effect (except that such energy conservation standard shall be considered to be in effect for purposes of section 327); and
   >       - **(II)** the Secretary may publish a final rule amending the energy conservation standard for the type (or class) of covered product to be technologically feasible and economically justified in accordance with this subsection, which amendment shall apply to such a product that is manufactured after the date that is 2 years after publication of such final rule.
 
 ## § 3. Conforming amendments
