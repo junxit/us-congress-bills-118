@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7830
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7830
+
+> To amend the Internal Revenue Code of 1986 to expand the surviving spouse filing status to individuals whose spouses have died within the last five taxable years.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect American Widows Act of 2024” or the “PAW Act of 2024”.
+
+## § 2. Surviving spouse definition expanded
+
+- **(a)** *In general* Section 2(a)(1)(A) of the Internal Revenue Code of 1986 is amended by striking “two taxable years” and inserting “five taxable years”.
+- **(b)** *Effective date* The amendments made by this section shall apply to returns filed for taxable years beginning after December 31, 2023.
