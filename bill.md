@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7863
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7863
+
+> To require the Secretary of Health and Human Services to issue guidance on furnishing behavioral health services via telehealth to individuals with limited English proficiency under Medicare program.
+
+## § 1. Guidance on furnishing behavioral health services via telehealth to individuals with limited English proficiency under Medicare program
+
+Not later than 1 year after the date of the enactment of this section, the Secretary of Health and Human Services shall issue and disseminate, or update and revise as applicable, guidance on the following:
+
+- **(1)** Best practices for providers to work with interpreters to furnish behavioral health services via video-based and audio-only telehealth, when video-based telehealth is not an option.
+- **(2)** Best practices on integrating the use of video platforms that enable multi-person video calls into behavioral health services furnished via telehealth.
+- **(3)** Best practices on teaching patients, especially those with limited English proficiency, to use video-based telehealth platforms.
+- **(4)** Best practices for providing patient materials, communications, and instructions in multiple languages, including text message appointment reminders and prescription information.
