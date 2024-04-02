@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4770
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -116,8 +116,3 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >   - **(2)** *Chesapeake bay agreement; Chesapeake bay ecosystem; Chesapeake bay program; Chesapeake executive council* The terms Chesapeake Bay Agreement, Chesapeake Bay ecosystem, Chesapeake Bay Program, and Chesapeake Executive Council have the meanings given those terms in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a)).
   >   - **(3)** *Director* The term Director means the Director of the Office.
   >   - **(4)** *Office* The term Office means the Chesapeake Bay Office established under this section.
-  > - **(h)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section—
-  >   - **(1)** $17,000,000 for fiscal year 2024;
-  >   - **(2)** $18,700,000 for fiscal year 2025;
-  >   - **(3)** $20,570,000 for fiscal year 2026; and
-  >   - **(4)** $22,627,000 for fiscal year 2027.
