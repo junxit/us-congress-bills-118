@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 529
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Extending Limits of U.S. Customs Waters Act”.
   - **(1)** by striking “means, in the case” and inserting the following: “means—
     > - **(1)** in the case
 
-  - **(2)** by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States (determined in accordance with international law)”;
+  - **(2)** by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States, determined in accordance with international law,”;
   - **(3)** by striking “and, in the case” and inserting the following: “; and
     > - **(2)** in the case
 
@@ -31,7 +31,7 @@ This Act may be cited as the “Extending Limits of U.S. Customs Waters Act”.
   - **(1)** by striking “means, in the case” and inserting the following: “means—
     > - **(1)** in the case
 
-  - **(2)** by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States (determined in accordance with international law)”;
+  - **(2)** by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States, determined in accordance with international law,”;
   - **(3)** by striking “and, in the case” and inserting the following: “; and
     > - **(2)** in the case
 

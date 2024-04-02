@@ -1,7 +1,7 @@
 ---
 measure: H.R. 529
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,21 +26,21 @@ to guess them.
 
 ### 19 U.S.C. § 1401
 
-> by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States (determined in accordance with international law)”;
+> by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States, determined in accordance with international law,”;
 
 | | |
 |---|---|
 | Removed | `of the coast of the United States` |
-| Inserted | `from the baselines of the United States (determined in accordance with international law)` |
+| Inserted | `from the baselines of the United States, determined in accordance with international law,` |
 
 ### 19 U.S.C. § 1709
 
-> by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States (determined in accordance with international law)”;
+> by striking “of the coast of the United States” the first place it appears and inserting “from the baselines of the United States, determined in accordance with international law,”;
 
 | | |
 |---|---|
 | Removed | `of the coast of the United States` |
-| Inserted | `from the baselines of the United States (determined in accordance with international law)` |
+| Inserted | `from the baselines of the United States, determined in accordance with international law,` |
 
 ## Stated, not applied
 
