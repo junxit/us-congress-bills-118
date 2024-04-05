@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 116
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 116
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Cosponsors (54)
+## Cosponsors (67)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
@@ -72,6 +72,19 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Scott, Austin [R-GA-8] (S001189)
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Bishop, Dan [R-NC-8] (B001311)
+- Rep. Garcia, Mike [R-CA-27] (G000061)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 
 ## Committees (1)
 
@@ -82,3 +95,9 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-03-06 — Introduced in House
 - 2024-03-06 — Introduced in House
 - 2024-03-06 — Referred to the House Committee on Education and the Workforce.
+- 2024-03-12 — Sponsor introductory remarks on measure. (CR H1143-1144)
+- 2024-03-21 — Committee Consideration and Mark-up Session Held
+- 2024-03-21 — Ordered to be Reported by the Yeas and Nays: 21 - 13.
+- 2024-04-05 — Placed on the Union Calendar, Calendar No. 369.
+- 2024-04-05 — Reported by the Committee on Education and the Workforce. H. Rept. 118-445.
+- 2024-04-05 — Reported by the Committee on Education and the Workforce. H. Rept. 118-445.
