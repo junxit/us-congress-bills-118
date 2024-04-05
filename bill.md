@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5202
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -83,10 +83,8 @@ Section 1405 of the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. 800
 > - **(g)** *Grant awareness campaign* The Commission shall carry out a campaign to conduct outreach to covered entities to ensure covered entities are aware of the availability and importance of the grants under this section.
 > - **(h)** *Employees*
 >   - **(1)** *Director of Drowning Prevention* The Commission shall have a Director of Drowning Prevention to coordinate the swimming pool and spa safety and drowning prevention activities at the Commission, including carrying out duties under this title.
->   - **(2)** *Full-time equivalent*
->     - **(A)** *In general* The Commission shall ensure that at least 1 full-time equivalent is dedicated to carrying out the grant program under this section.
->     - **(B)** *Calculation* Any duties performed by the Director of Drowning Prevention may not be considered in determining whether the requirement of subparagraph (A) is met.
-> - **(i)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of the fiscal years 2024 through 2028 $5,000,000 to carry out this section.
+>   - **(2)** *Full-time equivalents* The Commission shall ensure that more than 1 full-time equivalent is dedicated to carrying out swimming pool and spa safety and drowning prevention activities at the Commission, including the grant program under this section.
+> - **(i)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of the fiscal years 2024 through 2028 $2,500,000 to carry out this section.
 
 ## § 4. Reauthorization of CPSC education and awareness program
 
@@ -99,7 +97,7 @@ Section 1407 of the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. 800
 >   - **(2)** educational materials designed for swimming pool and spa owners and operators, consumers, States, Indian Tribes, and nonprofit organizations;
 >   - **(3)** educational materials designed to reach historically disadvantaged communities that have higher rates of drowning than the nationwide average; and
 >   - **(4)** a national media campaign to promote awareness of swimming pool and spa safety.
-> - **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of the fiscal years 2024 through 2028 $5,000,000 to carry out the education and awareness program authorized by subsection (a).
+> - **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of the fiscal years 2024 through 2028 $2,500,000 to carry out the education and awareness program authorized by subsection (a).
 
 ## § 5. CPSC report
 
