@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4389
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 2 executed, 5 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,14 +33,14 @@ to guess them.
 | Removed | `25 percent` |
 | Inserted | `33.3 percent` |
 
-### 16 U.S.C. § 6108
+### 16 U.S.C. § 6109
 
-> Section 9(c)(2) of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6108(c)(2)) is amended by striking “3 percent or up to $100,000” and inserting “4 percent or up to $200,000”.
+> Section 10(a) of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6109(a)) is amended by striking “2023” and inserting “2028”.
 
 | | |
 |---|---|
-| Removed | `3 percent or up to $100,000` |
-| Inserted | `4 percent or up to $200,000` |
+| Removed | `2023` |
+| Inserted | `2028` |
 
 ## Stated, not applied
 
@@ -52,7 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 6106` | add-at-end | Section 7 of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6106) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6109` | amend | Section 10(a) of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6109(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6103` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6103` | redesignate | by redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6106` | amend | Section 7(b)(1) of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6106(b)(1)) is amended in the second sentence by adding a period at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
