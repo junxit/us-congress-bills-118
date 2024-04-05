@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6443
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6443
@@ -16,6 +16,10 @@ Jamul Indian Village Land Transfer Act
 
 - Rep. Issa, Darrell E. [R-CA-48] (I000056)
 
+## Cosponsors (1)
+
+- Rep. Vargas, Juan [D-CA-52] (V000130)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ Jamul Indian Village Land Transfer Act
 - 2023-11-17 — Introduced in House
 - 2023-11-17 — Introduced in House
 - 2023-11-17 — Referred to the House Committee on Natural Resources.
+- 2023-11-28 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2023-12-05 — Subcommittee Hearings Held
+- 2024-01-17 — Committee Consideration and Mark-up Session Held
+- 2024-01-17 — Ordered to be Reported by Unanimous Consent.
+- 2024-01-17 — Subcommittee on Indian and Insular Affairs Discharged
+- 2024-04-05 — Placed on the Union Calendar, Calendar No. 364.
+- 2024-04-05 — Reported by the Committee on Natural Resources. H. Rept. 118-440.
+- 2024-04-05 — Reported by the Committee on Natural Resources. H. Rept. 118-440.
