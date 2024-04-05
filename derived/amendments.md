@@ -1,7 +1,7 @@
 ---
 measure: H.R. 661
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,8 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1226` | replace | in subparagraphs (A) and (B), by striking the comma at the end of each subparagraph and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1226` | replace | by striking “, or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1226` | replace | in subparagraph (D), by striking the comma at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1226` | strike | by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1226` | replace | in subparagraph (D), by striking the comma at the end and inserting “, or”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1226` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1226` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

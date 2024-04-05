@@ -1,7 +1,7 @@
 ---
 measure: H.R. 661
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 661
@@ -16,7 +16,7 @@ Sarah’s Law
 
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
 
-## Cosponsors (37)
+## Cosponsors (57)
 
 - Rep. Buck, Ken [R-CO-4] (B001297)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
@@ -55,6 +55,26 @@ Sarah’s Law
 - Rep. Garcia, Mike [R-CA-27] (G000061)
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
 
 ## Committees (1)
 
@@ -65,3 +85,8 @@ Sarah’s Law
 - 2023-01-31 — Introduced in House
 - 2023-01-31 — Introduced in House
 - 2023-01-31 — Referred to the House Committee on the Judiciary.
+- 2024-03-21 — Committee Consideration and Mark-up Session Held
+- 2024-03-21 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 14 - 9.
+- 2024-04-05 — Placed on the Union Calendar, Calendar No. 366.
+- 2024-04-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-442.
+- 2024-04-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-442.

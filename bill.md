@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 661
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,34 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as “Sarah's Law”.
+This Act may be cited as “Sarah’s Law”.
 
 ## § 2. Mandatory detention of certain aliens charged with a crime resulting in death or serious bodily injury
 
 Section 236(c) of the Immigration and Nationality Act (8 U.S.C. 1226(c)) is amended—
 
 - **(1)** in paragraph (1)—
-  - **(A)** in subparagraphs (A) and (B), by striking the comma at the end of each subparagraph and inserting a semicolon;
-  - **(B)** in subparagraph (C)—
+  - **(A)** in subparagraph (C)—
     - **(i)** by striking “sentence” and inserting “sentenced”; and
-    - **(ii)** by striking “, or” and inserting a semicolon;
-  - **(C)** in subparagraph (D), by striking the comma at the end and inserting “; or”; and
-  - **(D)** by inserting after subparagraph (D) the following:
+    - **(ii)** by striking “or”;
+  - **(B)** in subparagraph (D), by striking the comma at the end and inserting “, or”; and
+  - **(C)** by inserting after subparagraph (D) the following:
     > - **(E)**
     >   - **(i)**
-    >     - **(I)** was not inspected and admitted into the United States;
-    >     - **(II)** held a nonimmigrant visa (or other documentation authorizing admission into the United States as a nonimmigrant) that has been revoked under section 221(i); or
-    >     - **(III)** is described in section 237(a)(1)(C)(i); and
-    >   - **(ii)** has been charged by a prosecuting authority in the United States with any crime that resulted in the death or serious bodily injury (as defined in section 1365(h)(3) of title 18, United States Code) of another person,
+    >     - **(I)** is inadmissible under paragraph (6)(A), (6)(C), or (7) of section 212(a),
+    >     - **(II)** is deportable under section 237(a)(1)(B) as an alien whose nonimmigrant visa (or other documentation authorizing admission into the United States as a nonimmigrant) has been revoked under section 221(i), or
+    >     - **(III)** is deportable under section 237(a)(1)(C)(i), and
+    >   - **(ii)** is charged with, is arrested for, is convicted of, admits having committed, or admits committing acts which constitute the essential elements of any offense that resulted in the death or serious bodily injury (as defined in section 1365(h)(3) of title 18, United States Code) of another person,
 
 - **(2)** by adding at the end the following:
-  > - **(3)** *Notification requirement* Upon encountering or gaining knowledge of an alien described in paragraph (1), the Assistant Secretary of Homeland Security for Immigration and Customs Enforcement shall make reasonable efforts—
-  >   - **(A)** to obtain information from law enforcement agencies and from other available sources regarding the identity of any victims of the crimes for which such alien was charged or convicted; and
-  >   - **(B)** to provide the victim or, if the victim is deceased, a parent, guardian, spouse, or closest living relative of such victim, with information, on a timely and ongoing basis, including—
+  > - **(3)** *Notification requirement* Upon encountering or gaining knowledge of an alien described in paragraph (1), the Secretary of Homeland Security shall—
+  >   - **(A)** obtain information from law enforcement agencies and from other available sources regarding the identity of any victims of the crimes for which such alien was charged, arrested, or convicted; and
+  >   - **(B)** provide the victim or, if the victim is deceased, a parent, guardian, spouse, or closest living relative of such victim, with information, on a timely and ongoing basis, including—
   >     - **(i)** the alien’s full name, aliases, date of birth, and country of nationality;
   >     - **(ii)** the alien’s immigration status and criminal history;
   >     - **(iii)** the alien’s custody status and any changes related to the alien’s custody; and
   >     - **(iv)** a description of any efforts by the United States Government to remove the alien from the United States.
+  > - **(4)** *Detainer* The Secretary of Homeland Security shall issue a detainer for an alien described in paragraph (1)(E) and, if the alien is not otherwise detained by Federal, State, or local officials, shall effectively and expeditiously take custody of the alien.
 
 ## § 3. Savings provision
 
