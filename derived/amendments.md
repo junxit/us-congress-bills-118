@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6492
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-80 amendatory instructions. 25 executed, 55 stated and not applied.
+71 amendatory instructions. 25 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,21 @@ to guess them.
 
 ### 16 U.S.C. § 580d
 
-> in paragraph (1)(A), by striking “50” and inserting “60”;
-
-| | |
-|---|---|
-| Removed | `50` |
-| Inserted | `60` |
-
-### 16 U.S.C. § 580d
-
-> by striking “procedures.” and inserting “procedures, unless—”; and
-
-| | |
-|---|---|
-| Removed | `procedures.` |
-| Inserted | `procedures, unless—` |
-
-### 16 U.S.C. § 580d
-
 > in subsection (a)(2)(D), by striking “dwelling;” and inserting “dwelling or multiunit dwelling;”;
 
 | | |
 |---|---|
 | Removed | `dwelling;` |
 | Inserted | `dwelling or multiunit dwelling;` |
+
+### 16 U.S.C. § 580d
+
+> in subsection (c), by striking “Secretary” in the middle of the sentence and inserting “Chief of the Forest Service, or their designee”;
+
+| | |
+|---|---|
+| Removed | `Secretary` |
+| Inserted | `Chief of the Forest Service, or their designee` |
 
 ### 16 U.S.C. § 580d
 
@@ -71,7 +62,7 @@ to guess them.
 
 ### 16 U.S.C. § 6803
 
-> in subparagraph (A), by striking “11” and inserting “12”; and
+> in paragraph (5)(A), by striking “11” and inserting “12”; and
 
 | | |
 |---|---|
@@ -86,6 +77,15 @@ to guess them.
 |---|---|
 | Removed | `Three` |
 | Inserted | `Four` |
+
+### 16 U.S.C. § 6803
+
+> in paragraph (8) by striking “Eight” and inserting “Six”.
+
+| | |
+|---|---|
+| Removed | `Eight` |
+| Inserted | `Six` |
 
 ### 16 U.S.C. § 6801
 
@@ -258,8 +258,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 1712` | strike | by striking subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1712` | redesignate | by redesignating subsections (e), (f), (g), (h), and (i) as subsections (d), (e), (f), (g), and (h), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking subsection (d); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e), (f), (g), (h), and (i) as subsections (d), (e), (f), (g), and (h), respectively. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 6801` | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (4) and (5) respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | redesignate | by inserting before paragraph (4), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | amend | Section 200104 of title 54, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -268,39 +268,30 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1131` | replace | The table of sections for chapter 1009 of title 54, United States Code, is amended by striking the item relating to section 100905 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 460l-6d` | replace | Public Law 106–206 (16 U.S.C. 460l–6d) is amended by striking section 1 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 104909(c) of title 54, United States Code, is amended by striking “meat from” and inserting “meat and any other part of an animal removed pursuant to”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 580d` | amend | by amending section 101331 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | insert | by inserting “, unless otherwise authorized,” after “based”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | insert | by inserting “under the administrative jurisdiction of the Service” after “any land”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | insert | by inserting “or fundamental resources” after “primary resource value”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | insert | in subsection (d), by inserting “, unless otherwise authorized,” after “that are based”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | insert | in section 101333, by inserting “or affordability” after “lack of availability”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | amend | by amending section 101334 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | insert | in paragraph (3)(D), by inserting “, affordability,” after “improve the quality”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | strike | by striking paragraphs (2) and (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | redesignate | by redesignating paragraph (4) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | insert | in section 101336, by inserting “rehabilitation,” after “repair,”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 580d` | amend | by amending section 101338 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | strike | by amending subsection (a), by striking “, in sequential order,”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 580d` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | replace | By striking the item related to section 101334 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 580d` | replace | By striking the item related to section 101338 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1761a` | add-at-end | Section 8705(f) of the Agriculture Improvement Act of 2018 (43 U.S.C. 1761a(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 580d` | insert | in subclause (I), by inserting “such as housing,” after “improvements,”; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 580d` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 580d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 580d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “agreement with a State or local government agency to provide for the cooperative management of the Federal and State or local park areas where a System unit is located adjacent to or near a State or local park area, and” and… | the bill names no machine-readable US Code section |
-| — | replace | by striking “between the Service and a State or local government agency of a portion of either the System unit or State or local park will allow for more effective and efficient management of the System unit and State or local park” and … | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “provide to a State” and all that follows through “land” and inserting “provide to a State or local agency, Tribal Government, public university, public utility, or quasi-governmental entity goods and servi… | the bill names no machine-readable US Code section |
-| — | replace | by striking “a Federal, State, or local employee for work on any Federal, State, or local” and inserting “an employee of a Federal, State, or local agency, Tribal Government, public university, public utility, or quasi-governmental entit… | the bill names no machine-readable US Code section |
-| — | replace | by striking “by the Secretary and the State or local agency” and inserting “by the Secretary and the State or local agency, Tribal Government, public university, public utility, or quasi-governmental entity”. | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 5304` | amend | Section 101703 of title 54, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 308101 of title 54, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 308102(a) of title 54, United States Code, is amended by striking “Federal” and all that follows through “organizations” and inserting “Federal agencies, States, Tribes, local governments, other public entities, educational insti… | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “State and local governments” and inserting “States, Tribes, local governments, and nonprofit organizations”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “State or local government” and inserting “State, Tribe, or local government”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “under this section” and inserting “under this section, including by States, Tribes, local governments, and nonprofit organizations,”. | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 3081 of title 54, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | By amending the item relating to section 308101 to read as follows: “308101. Definitions.”. | the bill names no machine-readable US Code section |
+| — | add-at-end | By adding at the end the following: “308106. Updates and improvements to Battlefield Reports.”. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 6803` | insert | after subclause (III), by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 9001(b)(5) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (Public Law 116–9) is amended by striking “this Act” and inserting “the EXPLORE Act”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 6801` | replace | The Federal Lands Recreation Enhancement Act (16 U.S.C. 6801 et seq.) is amended by striking section 801 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (2)(B), by striking “during the period beginning on September 1 and ending on August 31 of the following year” and inserting “for a 12-month period that begins on a date determined by the Secretaries”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “the date that is 7 years after the date of enactment of this Act” and inserting “September 30, 2031”. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 6801` | redesignate | by redesignating paragraphs (1), (3), (4), (5), (6), (7), (8), (9), (10), (11), and (13) as paragraphs (15), (1), (3), (4), (5), (6), (7), (8), (11), (10), and (14), respectively, and arranging the paragraphs (as so redesignated) to appe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | redesignate | by inserting after paragraph (8) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6801` | insert | by inserting after paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6801` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6802` | replace | by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6803` | strike | Section 804 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6803) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6807` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
