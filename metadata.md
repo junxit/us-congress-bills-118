@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3446
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3446
@@ -34,3 +34,8 @@ Sunshine for Regulatory Decrees and Settlements Act of 2023
 - 2023-05-17 — Introduced in House
 - 2023-05-17 — Introduced in House
 - 2023-05-17 — Referred to the House Committee on the Judiciary.
+- 2023-06-14 — Committee Consideration and Mark-up Session Held
+- 2023-06-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 14 - 10.
+- 2024-04-05 — Placed on the Union Calendar, Calendar No. 367.
+- 2024-04-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-443.
+- 2024-04-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-443.

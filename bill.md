@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3446
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ In this Act—
 - **(1)** the terms “agency” and “agency action” have the meanings given those terms under section 551 of title 5, United States Code;
 - **(2)** the term “covered civil action” means a civil action—
   - **(A)** seeking to compel agency action;
-  - **(B)** alleging that the agency is unlawfully withholding or unreasonably delaying an agency action relating to a regulatory action that would affect the rights of—
+  - **(B)** alleging that an agency is unlawfully withholding or unreasonably delaying an agency action relating to a regulatory action that would affect the rights of—
     - **(i)** private persons other than the person bringing the action; or
     - **(ii)** a State, local, or tribal government; and
   - **(C)** brought under—
