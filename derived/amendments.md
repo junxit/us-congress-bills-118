@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-563 amendatory instructions. 163 executed, 400 stated and not applied.
+575 amendatory instructions. 176 executed, 399 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,16 @@ to guess them.
 
 ### 29 U.S.C. § 3102
 
-> Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (16), in the matter preceding subparagraph (A), by striking “family members” and inserting “a family member”.
+> Section 3(15)(E)(ii) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(15)(E)(ii)) is amended by striking “who meets the criteria described in paragraph (16)(B)” and inserting “who meets the criteria described in subparagraph (B) of the definition of the term displaced homemaker in this section”.
+
+| | |
+|---|---|
+| Removed | `who meets the criteria described in paragraph (16)(B)` |
+| Inserted | `who meets the criteria described in subparagraph (B) of the definition of the term displaced homemaker in this section` |
+
+### 29 U.S.C. § 3102
+
+> Section 3(16) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(16)) is amended, in the matter preceding subparagraph (A), by striking “family members” and inserting “a family member”.
 
 | | |
 |---|---|
@@ -35,7 +44,7 @@ to guess them.
 
 ### 29 U.S.C. § 3102
 
-> Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (18), by striking “out-of-school” and inserting “opportunity”.
+> Section 3(18) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(18)) is amended by striking “out-of-school” and inserting “opportunity”.
 
 | | |
 |---|---|
@@ -78,6 +87,24 @@ to guess them.
 | Removed | `out-of-school` |
 | Inserted | `opportunity` |
 
+### 20 U.S.C. § 3102
+
+> Section 3(64) of the Workforce Innovation and Opportunity Act (20 U.S.C. 3102(64)) is amended by striking “under a provision covered under paragraph (13)(D)” and inserting “under a provision covered under subparagraph (D) of the definition of the term core program provision under this section”.
+
+| | |
+|---|---|
+| Removed | `under a provision covered under paragraph (13)(D)` |
+| Inserted | `under a provision covered under subparagraph (D) of the definition of the term core program provision under this section` |
+
+### 29 U.S.C. § 3112
+
+> Section 101(b)(1)(C)(ii)(IV) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3112(b)(1)(C)(ii)(IV)) is amended by striking “out-of-school youth” and inserting “opportunity youth”.
+
+| | |
+|---|---|
+| Removed | `out-of-school youth` |
+| Inserted | `opportunity youth` |
+
 ### 29 U.S.C. § 3112
 
 > in subparagraph (B), by striking “including a description” and inserting “which may include a description”;
@@ -89,7 +116,7 @@ to guess them.
 
 ### 29 U.S.C. § 3112
 
-> in subparagraph (A), by striking “shall” and inserting “may”; and
+> in subparagraph (A), by striking “shall” the second place it appears and inserting “may”; and
 
 | | |
 |---|---|
@@ -104,6 +131,15 @@ to guess them.
 |---|---|
 | Removed | `adjusted levels of performance` |
 | Inserted | `adjusted levels of performance described in section 116(g)(1)` |
+
+### 29 U.S.C. § 3122
+
+> Section 107(b)(2)(B)(iv) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3122(b)(2)(B)(iv)) is amended by striking “out-of-school youth” and inserting “opportunity youth”.
+
+| | |
+|---|---|
+| Removed | `out-of-school youth` |
+| Inserted | `opportunity youth` |
 
 ### 29 U.S.C. § 3122
 
@@ -197,6 +233,15 @@ to guess them.
 
 ### 29 U.S.C. § 3141
 
+> in item (bb), by striking “ex-offender status” and inserting “justice-involved individual status, foster care status, school status, education level, highest grade level completed, low-income status”.
+
+| | |
+|---|---|
+| Removed | `ex-offender status` |
+| Inserted | `justice-involved individual status, foster care status, school status, education level, highest grade level completed, low-income status` |
+
+### 29 U.S.C. § 3141
+
 > by striking “strategies for programs” and all that follows through “the performance”, and inserting “strategies for programs, the performance”;
 
 | | |
@@ -251,7 +296,7 @@ to guess them.
 
 ### 29 U.S.C. § 3151
 
-> in subparagraph (D), by striking “as applicable and practicable, shall” and inserting “in the case of a one-stop delivery system that is making each of the programs, services, and activities described in paragraph (1) accessible at not less than 1 physical center, as described in subparagraph (A)(ii), the one-stop delivery system shall, as applicable and practicable,”; and
+> by striking “as applicable and practicable, shall” and inserting “in the case of a one-stop delivery system that is making each of the programs, services, and activities described in paragraph (1) accessible at not less than 1 physical center, as described in subparagraph (A)(ii), the one-stop delivery system shall, as applicable and practicable,”; and
 
 | | |
 |---|---|
@@ -266,6 +311,15 @@ to guess them.
 |---|---|
 | Removed | `under subsections (h)(1)` |
 | Inserted | `under subsections (h)(1)(C)` |
+
+### 29 U.S.C. § 3151
+
+> in clause (ii), by striking “under a provision covered by section 3(13)(D)” and inserting “under a provision covered by subparagraph (D) of the definition of the term core program provision under section 3”;
+
+| | |
+|---|---|
+| Removed | `under a provision covered by section 3(13)(D)` |
+| Inserted | `under a provision covered by subparagraph (D) of the definition of the term core program provision under section 3` |
 
 ### 29 U.S.C. § 3151
 
@@ -323,7 +377,7 @@ to guess them.
 
 ### 29 U.S.C. § 3152
 
-> in the second sentence, by striking “paragraph (2)(B)” and inserting “subparagraph (B) or (C) of paragraph (2)”; and
+> in the second sentence, by striking “paragraph (2)(B)” the first place it appears and inserting “subparagraph (B) or (C) of paragraph (2)”; and
 
 | | |
 |---|---|
@@ -332,7 +386,7 @@ to guess them.
 
 ### 29 U.S.C. § 3152
 
-> by striking “biennial” and inserting “annual”;
+> by striking “biennial” and inserting “annual”; and
 
 | | |
 |---|---|
@@ -350,7 +404,16 @@ to guess them.
 
 ### 29 U.S.C. § 3152
 
-> in paragraph (1), by striking “subsections (a) through (f)” and inserting “subsections (a) through (g)”; and
+> by striking “customized training” and inserting “employer-directed skills development”; and
+
+| | |
+|---|---|
+| Removed | `customized training` |
+| Inserted | `employer-directed skills development` |
+
+### 29 U.S.C. § 3152
+
+> by striking “subsections (a) through (f)” and inserting “subsections (a) through (g)”; and
 
 | | |
 |---|---|
@@ -485,7 +548,7 @@ to guess them.
 
 ### 29 U.S.C. § 3173
 
-> in paragraph (1), by striking “section 128(a)” and inserting “section 128(a)(1)”; and
+> in paragraph (1), by striking “section 128(a)” and inserting “section 128(a)(1)”;
 
 | | |
 |---|---|
@@ -557,7 +620,7 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
-> in clause (iii), by striking “and prior learning assessment to” and inserting “, prior learning assessment, or a competency-based assessment identified or developed by the State under paragraph (2)(B)(vii), to”;
+> in clause (iii), by striking “ and prior learning assessment to” and inserting “, prior learning assessment, or a competency-based assessment identified or developed by the State under paragraph (2)(B)(vii), to”;
 
 | | |
 |---|---|
@@ -575,7 +638,7 @@ to guess them.
 
 ### 42 U.S.C. § 3001
 
-> in item (ee), by striking “ex-offenders in reentering the workforce; and” and inserting “justice-involved individuals in reentering the workforce;”; and
+> in item (ee), by striking “ex-offenders in reentering the workforce; and” and inserting “ justice-involved individuals in reentering the workforce;”; and
 
 | | |
 |---|---|
@@ -602,7 +665,7 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
-> in clause (i), in the matter preceding subclause (I), by striking “clause (ii)” and inserting “clause (ii) or (iii)”;
+> in clause (i), in the matter preceding subclause (I), by striking “clause (ii)” and inserting “clause (ii) or (iii)”
 
 | | |
 |---|---|
@@ -611,7 +674,7 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
-> by striking “or in” and inserting “in”; and
+> by striking “or in” and inserting “in” and
 
 | | |
 |---|---|
@@ -647,6 +710,24 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
+> by striking “are basic skills deficient” and inserting “have foundational skill needs”; and
+
+| | |
+|---|---|
+| Removed | `are basic skills deficient` |
+| Inserted | `have foundational skill needs` |
+
+### 29 U.S.C. § 3174
+
+> by striking “paragraph (2)(A)(xii)” and inserting “paragraph (2)(B)(vii)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (2)(A)(xii)` |
+| Inserted | `paragraph (2)(B)(vii)` |
+
+### 29 U.S.C. § 3174
+
 > in subclause (II), by striking “customized training” and inserting “employer-directed skills development”; and
 
 | | |
@@ -665,7 +746,16 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
-> in clause (i), by striking “20” and inserting “30”;
+> in clause (i), by striking “reimbursement described in section 3(44)” and inserting “reimbursement described in the definition of the term “on-the-job training” in section 3”; and
+
+| | |
+|---|---|
+| Removed | `reimbursement described in section 3(44)` |
+| Inserted | `reimbursement described in the definition of the term “on-the-job training” in section 3` |
+
+### 29 U.S.C. § 3174
+
+> in clause (i), by striking “20” and inserting “30”’
 
 | | |
 |---|---|
@@ -782,7 +872,7 @@ to guess them.
 
 ### 29 U.S.C. § 3197
 
-> in clause (ii), by striking “center” and inserting “campus”; and
+> in clause (ii), by striking “center” and inserting “campus”;
 
 | | |
 |---|---|
@@ -908,7 +998,7 @@ to guess them.
 
 ### 29 U.S.C. § 3198
 
-> by striking “center” each place it appears and inserting “campus”; and
+> by striking “center” and inserting “campus”;
 
 | | |
 |---|---|
@@ -962,7 +1052,7 @@ to guess them.
 
 ### 29 U.S.C. § 3203
 
-> by striking “center” each place it appears and inserting “campus”; and
+> by striking “center” each place it appears and inserting “campus”;
 
 | | |
 |---|---|
@@ -971,16 +1061,25 @@ to guess them.
 
 ### 29 U.S.C. § 3203
 
-> by striking “centers” each place it appears and inserting “campuses”.
+> by striking “centers” each place it appears and inserting “campuses”; and
 
 | | |
 |---|---|
 | Removed | `centers` |
 | Inserted | `campuses` |
 
+### 29 U.S.C. § 3203
+
+> in subsection (c), in the heading, by striking “Centers” and inserting “Campuses”.
+
+| | |
+|---|---|
+| Removed | `Centers` |
+| Inserted | `Campuses` |
+
 ### 29 U.S.C. § 3204
 
-> by striking “center” each place it appears and inserting “campus”; and
+> by striking “center” each place it appears and inserting “campus”;
 
 | | |
 |---|---|
@@ -1007,7 +1106,7 @@ to guess them.
 
 ### 29 U.S.C. § 3205
 
-> by striking “centers” and inserting “campuses”;
+> by striking “centers” and inserting “campuses”
 
 | | |
 |---|---|
@@ -1025,7 +1124,7 @@ to guess them.
 
 ### 29 U.S.C. § 3206
 
-> by striking “center” each place it appears and inserting “campus”;
+> by striking “center” and inserting “campus”;
 
 | | |
 |---|---|
@@ -1034,7 +1133,7 @@ to guess them.
 
 ### 29 U.S.C. § 3206
 
-> by striking “centers” each place it appears and inserting “campuses”;
+> by striking “centers” and inserting “campuses”;
 
 | | |
 |---|---|
@@ -1088,15 +1187,6 @@ to guess them.
 
 ### 29 U.S.C. § 3209
 
-> by striking “center” each place it appears and inserting “campus”;
-
-| | |
-|---|---|
-| Removed | `center` |
-| Inserted | `campus` |
-
-### 29 U.S.C. § 3209
-
 > by striking “centers” each place it appears and inserting “campuses”; and
 
 | | |
@@ -1115,12 +1205,12 @@ to guess them.
 
 ### 29 U.S.C. § 3221
 
-> in paragraph (3)(A), by striking “and judicial review.” and inserting “judicial review, and performance accountability pertaining to the primary indicators of performance described in 116(b)(2)(A).”; and
+> in paragraph (3)(A), by striking “and judicial review.” and inserting “judicial review, and performance accountability pertaining to the primary indicators of performance described in section 116(b)(2)(A).”; and
 
 | | |
 |---|---|
 | Removed | `and judicial review.` |
-| Inserted | `judicial review, and performance accountability pertaining to the primary indicators of performance described in 116(b)(2)(A).` |
+| Inserted | `judicial review, and performance accountability pertaining to the primary indicators of performance described in section 116(b)(2)(A).` |
 
 ### 29 U.S.C. § 3223
 
@@ -1169,12 +1259,21 @@ to guess them.
 
 ### 29 U.S.C. § 3225
 
-> by striking “subsection (b)(1)(A)” and inserting “subparagraphs (A) or (E) of subsection (b)(1)”; and
+> in clause (i), by striking “spouses described in section 3(15)(E)” and inserting “spouses described in subparagraph (E) of the definition of the term dislocated worker in section 3”; and
+
+| | |
+|---|---|
+| Removed | `spouses described in section 3(15)(E)` |
+| Inserted | `spouses described in subparagraph (E) of the definition of the term dislocated worker in section 3` |
+
+### 29 U.S.C. § 3225
+
+> by striking “subsection (b)(1)(A)” and inserting “subparagraph (A) or (E) of subsection (b)(1)”; and
 
 | | |
 |---|---|
 | Removed | `subsection (b)(1)(A)` |
-| Inserted | `subparagraphs (A) or (E) of subsection (b)(1)` |
+| Inserted | `subparagraph (A) or (E) of subsection (b)(1)` |
 
 ### 29 U.S.C. § 3225
 
@@ -1257,6 +1356,15 @@ to guess them.
 | Removed | `are basic skills deficient` |
 | Inserted | `have foundational skill needs` |
 
+### 29 U.S.C. § 3241
+
+> Section 181(d) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3241(d)) is amended by striking “incumbent worker training,” and inserting “incumbent worker training, employer-directed skills development,”.
+
+| | |
+|---|---|
+| Removed | `incumbent worker training,` |
+| Inserted | `incumbent worker training, employer-directed skills development,` |
+
 ### 29 U.S.C. § 3249
 
 > Section 189(i)(3)(A)(i) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3249(i)(3)(A)(i)) is amended by striking “procedures for review and approval of plans” and inserting “the procedures for review and approval of plans, the performance reports described in section 116(d), and the requirement described in section 134(c)(1)(B)”.
@@ -1295,21 +1403,21 @@ to guess them.
 
 ### 29 U.S.C. § 3272
 
-> in the matter preceding subparagraph (A), by striking “English language” and inserting “English”;
-
-| | |
-|---|---|
-| Removed | `English language` |
-| Inserted | `English` |
-
-### 29 U.S.C. § 3272
-
-> by striking “English language learner” and inserting “English learner”; and
+> in the matter preceding subparagraph (A), by striking “English language learner” and inserting “English learner”;
 
 | | |
 |---|---|
 | Removed | `English language learner` |
 | Inserted | `English learner` |
+
+### 29 U.S.C. § 3272
+
+> by striking “English language learners” and inserting “English learners”; and
+
+| | |
+|---|---|
+| Removed | `English language learners` |
+| Inserted | `English learners` |
 
 ### 29 U.S.C. § 3272
 
@@ -1322,12 +1430,21 @@ to guess them.
 
 ### 29 U.S.C. § 3272
 
-> by striking “and solve” and insert “solve”; and
+> by striking “and solve” and inserting “solve”; and
 
 | | |
 |---|---|
 | Removed | `and solve` |
 | Inserted | `solve` |
+
+### 29 U.S.C. § 3291
+
+> Section 211(e)(3) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3291(e)(3)) is amended by striking “period described in section 3(45)” and inserting “period described in subparagraph (B) of the definition of the term outlying area in section 3”.
+
+| | |
+|---|---|
+| Removed | `period described in section 3(45)` |
+| Inserted | `period described in subparagraph (B) of the definition of the term outlying area in section 3` |
 
 ### 29 U.S.C. § 3292
 
@@ -1448,12 +1565,12 @@ to guess them.
 
 ### 29 U.S.C. § 3174
 
-> in subsection (a)(1), by striking “and referral to employers” and inserting “referral to employers, and the activities described in section 134(c)(2)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)), as amended by the A Stronger Workforce for America Act”; and
+> in subsection (a)(1), by striking “and referral to employers” and inserting “referral to employers, and the services described in section 134(c)(2)(A)(ii) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)(ii)) when provided by the employment service office colocated with the one-stop delivery system”; and
 
 | | |
 |---|---|
 | Removed | `and referral to employers` |
-| Inserted | `referral to employers, and the activities described in section 134(c)(2)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)), as amended by the A Stronger Workforce for America Act` |
+| Inserted | `referral to employers, and the services described in section 134(c)(2)(A)(ii) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)(ii)) when provided by the employment service office colocated with the one-stop delivery system` |
 
 ### 29 U.S.C. § 49l-2
 
@@ -1500,24 +1617,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 3343` | repeal | Section 503 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3343) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is amended by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (14) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (21)— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3343` | repeal | Section 503 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3343) is repealed (and by striking the item relating to such section in the table of contents of such Act). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | amend | Section 3(5) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | amend | Section 3(14) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(14)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3102` | strike | in the heading, by striking “language”; and | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 3102` | strike | by striking “language”. | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (38)— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (46)— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (47) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | amend | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by amending paragraph (51)— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | strike | by striking “language”; and | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 3102` | strike | in paragraph (24)(I), by striking “language”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 3102` | amend | in paragraph (24), by amending subparagraph (F) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | amend | Section 3(47) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102(47)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3102` | insert | in the matter preceding subparagraph (A), by inserting “, through a rapid response unit” after “designated by a State”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3224a` | insert | in subparagraph (B), by inserting before the semicolon at the end the following: “, including individual training accounts for eligible dislocated workers under section 414(c) of the American Competitiveness and Workforce Improvement Act… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3102` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3102` | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | insert | by inserting after subparagraph (D) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | redesignate | in paragraph (F), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3102` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3102` | redesignate | in subparagraph (F), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3102` | add-at-end | Section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 152` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating the item relating to section 172 as section 174; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 171, the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 190 and inserting the following: | the bill names no machine-readable US Code section |
@@ -1551,8 +1666,8 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3122` | insert | in paragraph (3), by inserting “, including, to the extent practicable, local representatives of the core programs and the programs described in section 102(a)(2),” after “system stakeholders”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3122` | insert | by inserting “individual” after “needs of”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3122` | insert | by inserting “from a variety of industries and occupations” after “and employers”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 2302` | insert | in paragraph (5), by inserting “and which, to the extent practicable, shall be aligned with career and technical education programs of study (as defined in section 3 of the Carl. D Perkins Career and Technical Education Act of 2006 (20 U… | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 3122` | insert | by inserting “and covered veterans (as defined in section 4212(a)(3)(A) of title 38, United States Code)” after “employment”; and | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 2302` | insert | in paragraph (5), by inserting “and which, to the extent practicable, shall be aligned with career and technical education programs of study (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U… | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3122` | insert | by inserting “and covered veterans (as defined in section 4212(a)(3)(A) of title 38, United States Code)” after “employment”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3122` | insert | by inserting “, and prioritize covered veterans as described in section 4212(a)(2) of title 38, United States Code” after “delivery system”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3122` | insert | by inserting “, on the State eligible training provider list,” after “identify”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3122` | insert | by inserting “that operate in or are accessible to individuals” after “training services”; and | the bill quotes the text inserted but describes where it goes |
@@ -1575,7 +1690,6 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3141` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | strike | by striking clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | amend | by amending clause (iii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3141` | insert | in item (bb), by inserting “, foster care status, school status, education level, highest grade level completed, low-income status” after “ex-offender status”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3141` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | redesignate | by redesignating subparagraphs (J) through (L) as subparagraphs (K) through (M), respectively and inserting after subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | redesignate | in subparagraph (L), as so redesignated, by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1586,13 +1700,13 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3141` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | strike | by striking “(including by electronic means), in an easily understandable format,”; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3141` | add-at-end | by adding at the end the following: “The Secretary of Labor and the Secretary of Education shall include, on the website where the State performance reports required under subparagraph (A) are made available, a link to local area perform… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3141` | amend | in paragraph (2), by adding “A State may use other forms of analysis, such as machine learning or other advanced analytics, to improve program operations and outcomes and to identify areas for further evaluation.” at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3141` | amend | in paragraph (2), by adding “A State may use other forms of analysis, such as machine learning or other advanced analytics, to improve program operations and outcomes and to identify areas for further evaluation.” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | amend | Section 116(f) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | insert | by inserting “80 percent of the” before “local performance”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3141` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | insert | in subparagraph (B)(i), by inserting “(ii)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3141` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 653` | insert | in paragraph (2), by inserting “, and may use information provided from the National Directory of New Hires in accordance with section 453(j)(8) of the Social Security Act (42 U.S.C. 653(j)(8))” after “State law”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 653` | insert | in the first sentence of paragraph (2), by inserting “, and may use information provided from the National Directory of New Hires in accordance with section 453(j)(8) of the Social Security Act (42 U.S.C. 653(j)(8))” after “State law”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3141` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3141` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | in clause (xi), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
@@ -1604,11 +1718,12 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3151` | strike | in clause (v), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3151` | redesignate | by redesignating clause (vi) as clause (viii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3151` | redesignate | in clause (viii), as so redesignated, by inserting after “labor organization” the following: “joint labor-management organization”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3151` | redesignate | in clause (viii), as so redesignated, by inserting after “labor organization” the following: “joint labor-management organization”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | in subparagraph (B)(i), by inserting after “affiliated sites” the following: “(such as any of the entities described in subsection (d)(2)(B))”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | in subparagraph (C), by inserting after “centers” the following: “(which may be virtual or physical centers)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3151` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3151` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1621,14 +1736,14 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3151` | redesignate | by inserting after paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3151` | insert | in paragraph (4), by inserting after “operation of the one-stop center” the following: “(whether for in-person or virtual service delivery)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3152` | insert | in subparagraph (A), by inserting before the semicolon at the end the following: “(other than an institution of higher education described in subparagraph (C)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3152` | insert | in subparagraph (A), by inserting before the semicolon at the end the following: “(other than an institution of higher education described in subparagraph (C))”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | strike | in subparagraph (B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3152` | redesignate | by redesignating subparagraph (C) as subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | insert | by inserting “(including providers of such a program that is conducted (in whole or in part) online)” before “, which may”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3152` | insert | by inserting “providers of entrepreneurial skills development programs, industry or sector partnerships, groups of employers, trade or professional associations,” after “organizations,”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3152` | insert | by inserting before the period at the end the following: “or remains eligible for the Federal Pell Grant program as described in paragraph (2)(C)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3152` | amend | Section 122(b) (29 U.S.C. 3152(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3152` | amend | Section 122(b) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3152(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | insert | in the first sentence of paragraph (1), by inserting “, which shall be implemented in a manner that minimizes the financial and administrative burden on the provider and shall not require the submission of information in excess of the in… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3152` | redesignate | by redesignating paragraph (2) as paragraph (3), and inserting the following after paragraph (1): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | insert | by inserting before the period at the end the following: “that continue to meet the requirements under subsection (b)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1643,8 +1758,8 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3152` | strike | in subsection (e), by striking “information requirements,” in each place it appears; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3152` | redesignate | by redesignating subsections (f) through (i) as subsection (g) through (j), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | insert | by inserting after subsection (e), as so amended, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3152` | redesignate | Section 122(g)(1) (as by redesignated by subsection (e)(2)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3152` | amend | in paragraph (2), by amending the first sentence to read as follows: “A one-stop operator in a local area shall collect the minimum amount of information from providers of on-the-job training, customized training, incumbent worker traini… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3152` | redesignate | Section 122(g)(1) of the Workforce Innovation and Opportunity Act (as redesignated by subsection (e)(2)), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3152` | amend | in paragraph (2), by amending the first sentence to read as follows: “A one-stop operator in a local area shall collect the minimum amount of information from providers of on-the-job training, employer-directed skills development, incumb… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3152` | add-at-end | Section 122 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3152) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3173` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | amend | Subparagraph (A) of section 129(a)(1) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3164(a)(1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1654,7 +1769,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3164` | strike | by striking subclauses (III) and (IV); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | redesignate | by redesignating subclauses (V), (VI), and (VII) as subclauses (III), (IV), and (V), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | replace | by striking “5” inserting “10”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `29 U.S.C. § 3164` | insert | by inserting “the total amount of” after “percent of”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3164` | insert | by inserting “the total amount of” before “funds available”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3164` | insert | by inserting “in the State” after “subsection (c)”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3164` | redesignate | by redesignating subparagraph (B), as so amended, as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1664,7 +1779,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3164` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | replace | in subparagraph (E), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3164` | insert | in subparagraph (B), by inserting “(which, in the case of a participant 18 years or older, may include co-enrollment in any employment or training activity provided under section 134 for adults) ” after “for the participant”; | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3164` | insert | in subparagraph (B), by inserting “(which, in the case of a participant 18 years or older, may include co-enrollment in any employment or training activity provided under section 134 for adults) ” after “services for the participant”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3164` | insert | in subparagraph (C)(v), by inserting “high-skill, high-wage, or” after “small employers, in”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3164` | insert | by inserting before the period the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | insert | by inserting “that meet the requirements of paragraph (10)” after “school year”; | the bill quotes the text inserted but describes where it goes |
@@ -1678,10 +1793,10 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3164` | insert | Section 129(c)(5) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3164(c)(2)) is amended by inserting “or local area” after “youth services”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3164` | add-at-end | Section 129(c) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3164(c)(2)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3164` | add-at-end | Section 129(c) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3164(c)(2)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3172` | insert | by inserting “, and under subsections (c) (related to dislocated worker projects) and (d) (related to workforce data quality initiatives) of section 169” before “; and”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3172` | insert | by inserting “, and under subsections (c) (related to dislocated worker projects) and (d) (related to workforce data quality initiatives) of section 169” before “; and” | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3173` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3174` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 3174` | replace | by striking the comma at the end and inserting “or to establish and administer a critical skills fund under paragraph (4); and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3174` | replace | by striking the comma at the end and inserting “or to establish and administer a critical skills fund under paragraph (4); and” ; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3174` | insert | by inserting before the flush left text at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3224a` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3224a` | replace | in subclause (II), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -1702,11 +1817,11 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3174` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3174` | add-at-end | Section 134(a) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(a)), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3174` | add-at-end | Section 134(a) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(a)), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3174` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3174` | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3224a` | insert | by inserting after subparagraph (A), as so amended, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3174` | redesignate | by redesignating subparagraphs (A) through (C) as subparagraphs (B) through (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3174` | replace | in the heading, by striking “Career” inserting “Individualized career”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `29 U.S.C. § 49e` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3174` | replace | in the heading, by striking the heading and inserting “Individualized career”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3174` | insert | by inserting “individualized” before “career services”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3174` | insert | by inserting “shall, to the extent practicable, be evidence-based,” before “and shall”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3174` | insert | in clause (iii), by inserting “, and a determination (considering factors including prior work experience, military service, education, and in-demand industry sectors and occupations in the local area) of whether such an individual would… | the bill quotes the text inserted but describes where it goes |
@@ -1742,23 +1857,24 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3174` | add-at-end | Section 134(d)(4) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(d)(4)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3181` | amend | Section 136 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3181) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1400Z` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 1400Z` | strike | in subparagraph (B), by striking “either”; and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 1400Z` | insert | in paragraph (2), by inserting after “individual” the following: “or a resident of a qualified opportunity zone as defined in section 1400Z–1(a) of the Internal Revenue Code of 1986”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1400Z` | strike | in subparagraph (B), by striking “either”; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1400Z` | insert | in paragraph (2), by inserting after “individual” the following: “or a resident of a qualified opportunity zone as defined in section 1400Z–1(a) of the Internal Revenue Code of 1986”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1400Z` | amend | in paragraph (3), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3194` | insert | in subsection (b), by inserting after “a veteran” the following: “or a member of the Armed Forces eligible for preseparation counseling of the Transition Assistance Program under section 1142 of title 10, United States Code”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3194` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3195` | amend | by amending paragraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3195` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3195` | strike | in subparagraph (D), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3195` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3195` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3195` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3197` | insert | in subparagraph (A), by inserting after “technical education school,” the following: “an institution of higher education,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3197` | insert | in subparagraph (A), by inserting after “area career and technical education school,” the following: “an institution of higher education,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | insert | by inserting after “United States Code,” the following: “and paragraph (2)(C)(iii) of section 159(f),”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | strike | by striking subclause (IV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3197` | redesignate | by redesignating subclauses (I), (II), and (III), as subclauses (III), (IV), and (V), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3197` | redesignate | by redesignating subclauses (I), (II), (III), and (V), as subclauses (III), (IV), (V), and (VI), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | redesignate | by inserting before subclause (III), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3197` | amend | by amending clause (VI) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3197` | insert | in subparagraph (D), by inserting after “is located” the following: “, including agreements to provide off-campus work-based learning opportunities aligned with the career and technical education provided to enrollees,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3197` | redesignate | by redesignating subparagraphs (E), (F), (G), (H), (I), (J), and (K) as subparagraphs (F), (G), (H), (I), (J). (K), and (L), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3197` | redesignate | by amending subclause (VI), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3197` | insert | in subparagraph (D), by inserting after “is located” the following: “, including agreements to provide off-campus work-based learning opportunities aligned with the career and technical education provided to enrollees”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3197` | redesignate | by redesignating subparagraphs (E), (F), (G), (H), (I), (J), and (K) as subparagraphs (F), (G), (H), (I), (J), (K), and (L), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3197` | strike | by striking subparagraph (A); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1780,7 +1896,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3205` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3206` | redesignate | by redesignating subsection (b) as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3206` | insert | by inserting the following after subsection (a): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3206` | redesignate | in subsection (c)(1), as so redesignated, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3206` | redesignate | in subsection (c)(1), as so redesignated, is amended by striking “and” at the end of subparagraph (C) and by adding at the end the following: | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3208` | insert | by inserting at the end the following: “Notwithstanding sections 501(b) and 522 of title 40, United States Code, any property acquired by a Job Corps campus shall be directly transferred, on a nonreimbursable basis, to the Secretary.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3209` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3209` | insert | by inserting “that are ambitious yet achievable and” after “program”; and | the bill quotes the text inserted but describes where it goes |
@@ -1811,7 +1927,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3222` | redesignate | by redesignating subsections (e), (f), (g), (h), and (i) as subsections (f), (g), (h), (i), and (j), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3222` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3223` | redesignate | by redesignating subparagraphs (G) and (H) as subparagraphs (J) and (K), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3223` | insert | by inserting after paragraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3223` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3223` | insert | by inserting “, pursuant to paragraphs (1) and (2) of section 116(f),” after “technical assistance”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3223` | add-at-end | Section 168 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3223) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3224` | insert | in subparagraph (E), by inserting “and” at the end; | the bill quotes the text inserted but describes where it goes |
@@ -1824,7 +1940,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3224` | add-at-end | Section 169 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3224) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3225` | amend | by amending subsection (a)(1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3225` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 3225` | replace | in subparagraph (D)(ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3225` | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3225` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3225` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3225` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1846,7 +1962,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3221` | insert | Subtitle D of title I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3221 et seq.), is further amended by inserting after section 172, as added by the preceding section, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (g) and (h), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (a) through (d) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 181(b) of the Workforce Innovation and Opportunity Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 3241` | add-at-end | Section 181(b) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3241(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3250` | amend | Section 190 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3250) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3271` | insert | in paragraph (1), by inserting “(including digital literacy skills)” before “necessary”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3272` | insert | in subparagraph (A), by inserting “listen,” after “write,”; | the bill quotes the text inserted but describes where it goes |
@@ -1857,7 +1973,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 3272` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3272` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3272` | strike | in the paragraph header, by striking “language”; and | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 3272` | redesignate | in paragraph (10) (as so redesignated), by inserting “and educational” after “economic”; | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3272` | redesignate | in the matter preceding subparagraph (A) in paragraph (10) (as so redesignated), by inserting “and educational” after “the economic”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3272` | insert | by inserting “and use digital technology,” after “problems,”. | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3275` | amend | Section 206 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3275) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3302` | add-at-end | Section 222(b) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3302(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1866,14 +1982,14 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 2301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2301` | redesignate | by redesignating subparagraph (D) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2301` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3303` | redesignate | by redesignating subparagraph (M) as subparagraph (O); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3303` | redesignate | by redesignating subparagraph (M) as subparagraph (P); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3303` | insert | by inserting after subparagraph (L) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3305` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 2322` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3321` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 3321` | amend | in subparagraph (B), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 3321` | insert | by inserting before the semicolon at the end the following: “, which may include the application of the principals of universal design for learning”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 3321` | insert | by inserting before the semicolon at the end the following: “, which may include the application of the principles of universal design for learning”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 3322` | insert | in paragraph (4), by inserting “and coordinate with the appropriate State entity” after “data”; | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 3322` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -1889,7 +2005,7 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 49e` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 49e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 49e` | insert | in subsection (b)(1), in the matter following subparagraph (B), by inserting “, the Commonwealth of the Northern Mariana Islands, American Samoa,” after “Guam”. | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 3174` | insert | in subsection (e), by inserting “and in an integrated manner as described in section 134(c)(2)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)), as amended by the A Stronger Workforce for America Act” before t… | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 3174` | insert | in subsection (e), by inserting before the period at the end the following: “and in accordance with the requirements of section 134(c)(2)(A)(i)(I) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3174(c)(2)(A)(i)(I))”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 49l-2` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 49l-2` | insert | by inserting after clause (ii), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 49l-2` | insert | in subparagraph (B)(i), by inserting “(including, to the extent practicable, real-time)” after “current”; and | the bill quotes the text inserted but describes where it goes |
