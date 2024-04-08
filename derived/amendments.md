@@ -1,7 +1,7 @@
 ---
 measure: S. 2581
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 7 executed, 1 stated and not applied.
+21 amendatory instructions. 20 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -86,6 +86,123 @@ to guess them.
 |---|---|
 | Removed | `2026` |
 | Inserted | `2029` |
+
+### 16 U.S.C. § 7111
+
+> Section 101 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7111) is amended, in subsections (a) and (b), by striking “2023” each place it appears and inserting “2026”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2026` |
+
+### 16 U.S.C. § 7113
+
+> Section 103(d)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7113(d)(2)) is amended by striking “2023” and inserting “2026”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2026` |
+
+### 16 U.S.C. § 7125
+
+> Section 205(d)(6)(C) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(d)(6)(C)) is amended by striking “2023” and inserting “2026”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2026` |
+
+### 16 U.S.C. § 7128
+
+> in subsection (a), by striking “2025” and inserting “2028”; and
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2028` |
+
+### 16 U.S.C. § 7128
+
+> in subsection (b), by striking “2026” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2026` |
+| Inserted | `2029` |
+
+### 16 U.S.C. § 7144
+
+> in subsection (a), by striking “2025” and inserting “2028”; and
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2028` |
+
+### 16 U.S.C. § 7144
+
+> in subsection (b), by striking “2026” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2026` |
+| Inserted | `2029` |
+
+### 16 U.S.C. § 7125
+
+> in paragraph (5), by striking “2023” and inserting “2026”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2026` |
+
+### 16 U.S.C. § 7125
+
+> in paragraph (6), in the matter preceding subparagraph (A), by striking “the date described in paragraph (5)” and inserting “October 1, 2023”.
+
+| | |
+|---|---|
+| Removed | `the date described in paragraph (5)` |
+| Inserted | `October 1, 2023` |
+
+### 16 U.S.C. § 7125
+
+> in paragraph (1), by striking “concerned,” and inserting “concerned”; and
+
+| | |
+|---|---|
+| Removed | `concerned,` |
+| Inserted | `concerned` |
+
+### 16 U.S.C. § 7125
+
+> in paragraph (3), by striking “the date of the enactment of this Act” and inserting “October 3, 2008”; and
+
+| | |
+|---|---|
+| Removed | `the date of the enactment of this Act` |
+| Inserted | `October 3, 2008` |
+
+### 16 U.S.C. § 7125
+
+> in subsection (d)(4), by striking “to extent” and inserting “to the extent”.
+
+| | |
+|---|---|
+| Removed | `to extent` |
+| Inserted | `to the extent` |
+
+### 16 U.S.C. § 7126
+
+> Section 206(b)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7126(b)(2)) is amended by striking “concerned,” and inserting “concerned”.
+
+| | |
+|---|---|
+| Removed | `concerned,` |
+| Inserted | `concerned` |
 
 ## Stated, not applied
 
