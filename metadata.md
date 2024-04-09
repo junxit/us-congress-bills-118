@@ -1,7 +1,7 @@
 ---
 measure: S. 2051
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2051
@@ -47,3 +47,13 @@ Missing Children’s Assistance Reauthorization Act of 2023
 - 2024-04-09 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 106). (text: CR H2229-2230)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 106). (text: CR H2229-2230)
+- 2024-04-10 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2024-06-05 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 2051 by Unanimous Consent. (consideration: CR S3999)
+- 2024-06-05 — Senate agreed to the House amendment to S. 2051 by Unanimous Consent. (consideration: CR S3999)
+- 2024-06-06 — Message on Senate action sent to the House.
+- 2024-06-12 — Presented to President.
+- 2024-06-12 — Presented to President.
+- 2024-06-17 — Became Public Law No: 118-65.
+- 2024-06-17 — Became Public Law No: 118-65.
+- 2024-06-17 — Signed by President.
+- 2024-06-17 — Signed by President.

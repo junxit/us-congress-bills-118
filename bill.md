@@ -1,12 +1,118 @@
 ---
 legis-num: S. 2051
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2051
 
-That the bill from the Senate (S. 2051) entitled “An Act to reauthorize the Missing Children’s Assistance Act, and for other purposes.”, do pass with the following
+> To reauthorize the Missing Children’s Assistance Act, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title
+
+This Act may be cited as the “Missing Children’s Assistance Reauthorization Act of 2023”.
+
+## § 2. Missing Children's Assistance Act amendments
+
+- **(a)** *Definitions* Section 403 of the Missing Children’s Assistance Act (34 U.S.C. 11292) is amended—
+  - **(1)** in paragraph (3), by striking “and” at the end;
+  - **(2)** in paragraph (4), by striking the period at the end and inserting “; and”, and
+  - **(3)** by adding at the end the following:
+    > - **(5)** the term child sexual abuse material has the meaning given the term child pornography in section 2256 of title 18, United States Code;
+
+- **(b)** *Duties and functions of the Administrator* Section 404 of the Missing Children’s Assistance Act (34 U.S.C. 11293) is amended—
+  - **(1)** in subsection (a)(6)(E), by striking “the tipline established” and inserting “the CyberTipline established”; and
+  - **(2)** in subsection (b)(1)—
+    - **(A)** in subparagraph (A)—
+      - **(i)** in clause (i)—
+        - **(I)** by striking “hotline by which” and inserting “call center to which”; and
+        - **(II)** by striking “individuals may report” and all that follows and inserting “individuals may—
+          > - **(I)** report child sexual exploitation and the location of any missing child; and
+          > - **(II)** request information pertaining to procedures necessary to reunite such child with such child’s parent;
+
+      - **(ii)** by redesignating clause (ii) as clause (iii); and
+      - **(iii)** by inserting after clause (i) the following:
+        > - **(ii)** manage the AMBER Alert Secondary Distribution Program; and
+
+    - **(B)** in subparagraph (D), by striking “with their families” and inserting “with their parents”;
+    - **(C)** in subparagraph (F), by striking “to families” and inserting “to parents”;
+    - **(D)** by striking subparagraph (G) and inserting the following:
+      > - **(G)** provide technical assistance and case-related resources, including—
+      >   - **(i)** referrals to—
+      >     - **(I)** child-serving professionals involved in helping to recover missing and exploited children; and
+      >     - **(II)** law enforcement officers in their efforts to identify, locate, and recover missing and exploited children; and
+      >   - **(ii)** searching public records databases and publicly accessible open source data to—
+      >     - **(I)** locate and identify potential abductors and offenders involved in attempted or actual abductions; and
+      >     - **(II)** identify, locate, and recover abducted children;
+
+    - **(E)** in subparagraph (H), by inserting “on long-term missing child cases” after “techniques to assist”;
+    - **(F)** by striking subparagraph (I) and inserting the following:
+      > - **(I)** provide education, technical assistance, and information to—
+      >   - **(i)** nongovernmental organizations with respect to procedures and resources to conduct background checks on individuals working with children; and
+      >   - **(ii)** law enforcement agencies with respect to identifying and locating noncompliant sex offenders;
+
+    - **(G)** in subparagraph (J), by striking “with their families” and inserting “with their parents”;
+    - **(H)** in subparagraph (K)—
+      - **(i)** in clause (i)—
+        - **(I)** in the matter preceding subclause (I), by striking “tipline” and inserting “CyberTipline”;
+        - **(II)** in subclause (I)—
+          - **(aa)** in item (aa), by striking “child pornography” and inserting “child sexual abuse material”;
+          - **(bb)** in item (dd) by striking “sex tourism involving children” and inserting “extraterritorial child sexual abuse and exploitation”; and
+          - **(cc)** in item (ee), by striking “extra-familial”; and
+        - **(III)** in subclause (II)—
+          - **(aa)** by striking “tipline” and inserting “CyberTipline”; and
+          - **(bb)** by adding “and” at the end;
+      - **(ii)** in clause (ii)—
+        - **(I)** by striking “child pornography” and inserting “child sexual abuse material”;
+        - **(II)** by inserting “and” after “other sexual crimes”; and
+        - **(III)** by striking “; and” at the end and inserting “, including by providing information on legal remedies available to such victims;”; and
+      - **(iii)** by striking clause (iii);
+    - **(I)** by redesignating subparagraphs (L) through (O) as subparagraphs (M) through (P), respectively;
+    - **(J)** by inserting after subparagraph (K) the following:
+      > - **(L)** provide support services, consultation, and assistance to missing and sexually exploited children, parents, their families, and child-serving professionals on—
+      >   - **(i)** recovery support, including counseling recommendations and community support;
+      >   - **(ii)** family and peer support;
+      >   - **(iii)** requesting the removal of child sexual abuse material and sexually exploitive content depicting children from the internet, including by assisting with requests to providers (as defined in section 2258E of title 18, United States Code) to remove visual depictions of victims that—
+      >     - **(I)** constitute or are associated with child sexual abuse material; or
+      >     - **(II)** do not constitute child sexual abuse material but are sexually suggestive;
+
+    - **(K)** in subparagraph (M), as so redesignated—
+      - **(i)** in the matter preceding clause (i), by inserting “educational” before “information to families”;
+      - **(ii)** in clause (i)—
+        - **(I)** by striking “child abduction and” and inserting “missing children and child”; and
+        - **(II)** by adding “and” at the end; and
+      - **(iii)** by striking clauses (ii) and (iii) and inserting the following:
+        > - **(ii)** internet safety, including tips and strategies to promote safety for children using technology (including social media) and reduce risk relating to—
+        >   - **(I)** cyberbullying;
+        >   - **(II)** child sex trafficking;
+        >   - **(III)** youth-produced child sexual abuse material or sexting;
+        >   - **(IV)** sextortion; and
+        >   - **(V)** online enticement;
+
+    - **(L)** in subparagraph (N), as so redesignated, by inserting “and preventing child sexual exploitation” after “recovering such children”;
+    - **(M)** by striking subparagraph (O), as so redesignated, and inserting the following:
+      > - **(O)** coordinate with and provide technical assistance to Federal, State, and local government agencies relating to cases of children missing from a State or Tribal child welfare system and assist the efforts of law enforcement agencies and State and Tribal child welfare agencies in—
+      >   - **(i)** coordinating to ensure the reporting, documentation, and resolution of cases involving children missing from a State or Tribal child welfare system; and
+      >   - **(ii)** responding to foster children missing from a State or Tribal child welfare system; and
+
+    - **(N)** in subparagraph (P), as so redesignated, by inserting “and recovery support services” after “technical assistance”; and
+  - **(3)** in subsection (c)—
+    - **(A)** in paragraph (1) by striking “and” at the end;
+    - **(B)** in paragraph (2) by striking the period at the end; and
+    - **(C)** by adding at the end the following:
+      > - **(3)** publish an analysis of the information determined under paragraph (1) that includes disaggregated demographic data and comparison of such data to demographic data from the census.
+
+- **(c)** *Reporting* Section 407 of the Missing Children's Assistance Act (34 U.S.C. 11295a) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (3) by striking “and” at the end;
+    - **(B)** in paragraph (4) by striking the period at the end and inserting a semicolon,
+    - **(C)** by inserting after paragraph (4) the following:
+      > - **(5)** the number of children nationwide who are reported to the grantee as missing from State-sponsored care;
+      > - **(6)** the number of children nationwide who are reported to the grantee as missing from State-sponsored care whose recovery was reported to the grantee; and
+      > - **(7)** the number of children nationwide who are reported to the grantee as missing from State-sponsored care and are likely victims of child sex trafficking.
+
+  - **(2)** by adding at end the following:
+    > - **(c)** *Criteria for forensic partnerships* As a condition of receiving funds under section 404(b), the grant recipient shall annually provide to the Administrator and make available to the general public, as appropriate, the criteria and processes the grantee uses to establish forensic partnerships and recommend forensic resources to law enforcement and shall annually review these forensic partnerships and forensic referrals against the criteria and review new advancements in technology.
+
+- **(d)** *Authorization of appropriations* Section 409(a) of the Missing Children’s Assistance Act (34 U.S.C. 11297(a)) is amended by striking “$40,000,000 for each of the fiscal years 2014 through 2023, up to $32,200,000” and inserting “$49,300,000 for each of fiscal years 2024 through 2028, up to $41,500,000”.
