@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1246
@@ -43,3 +43,9 @@ To authorize leases of up to 99 years for land held in trust for federally recog
 - 2024-03-12 — Placed on the Union Calendar, Calendar No. 348.
 - 2024-03-12 — Reported by the Committee on Natural Resources. H. Rept. 118-422.
 - 2024-03-12 — Reported by the Committee on Natural Resources. H. Rept. 118-422.
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2153-2154)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1246.
+- 2024-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-09 — Ms. Hageman moved to suspend the rules and pass the bill.
+- 2024-04-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2153)
+- 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2153)
