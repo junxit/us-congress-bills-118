@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6655
@@ -53,6 +53,10 @@ A Stronger Workforce for America Act
 - House — Ways and Means Committee
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2024-04-09 — [House 118-2-105](votes/house-118-2-0105.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (378–26)
+
 ## Actions
 
 - 2023-12-07 — Introduced in House
@@ -66,3 +70,11 @@ A Stronger Workforce for America Act
 - 2024-04-05 — Placed on the Union Calendar, Calendar No. 368.
 - 2024-04-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-444, Part I.
 - 2024-04-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-444, Part I.
+- 2024-04-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-09 — Considered as unfinished business. (consideration: CR H2232-2233)
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2191-2229)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6655.
+- 2024-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-09 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
+- 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 26 (Roll no. 105). (text: CR H2191-2222)
+- 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 26 (Roll no. 105). (text: CR H2191-2222)
