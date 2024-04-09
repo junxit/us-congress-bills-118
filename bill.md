@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 7896
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7896
+
+> To amend title 38, United States Code, to modify the criteria for approval of certain independent study programs for purposes of the educational assistance programs of the Department of Veterans Affairs.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Education and Technical Skills Opportunity Act of 2024” or the “VETS Opportunity Act of 2024”.
+
+## § 2. Treatment of certain independent study programs under educational assistance programs of Department of Veterans Affairs
+
+- **(a)** *In general* Section 3680A(4)(B)(iii)(II) of title 38, United States Code, is amended to read as follows:
+  > - **(II)** an institution of higher education, as such term is defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), that is qualified to participate in the student financial assistance programs authorized by title IV of that Act; and
+
+- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to a quarter, semester, or term, as applicable, that begins on or after August 1, 2024.
