@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 7905
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7905
+
+> To prohibit States from imposing a tax on the retail sale of menstrual products.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Taxes Against Menstrual Products Act of 2024” or the “STAMP Act of 2024”.
+
+## § 2. Prohibition
+
+It shall be unlawful for a State, or unit of local government of a State, to impose a tax on the retail sale of a menstrual product.
+
+## § 3. Definitions
+
+For purposes of this Act:
+
+- **(1)** *Menstrual product* The term “menstrual product” means a sanitary napkin, or tampon, menstrual cups, menstrual discs, period underwear, and that conforms to industry standards.
+- **(2)** *State* The term “State” means any of the several States or the District of Columbia.
+
+## § 4. Effective Date
+
+This Act shall take effect 120 days after the date of the enactment of this Act.
