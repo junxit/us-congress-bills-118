@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6492
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6492
@@ -97,3 +97,9 @@ EXPLORE Act
 - 2024-04-05 — Placed on the Union Calendar, Calendar No. 365.
 - 2024-04-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-441, Part I.
 - 2024-04-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-441, Part I.
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2162-2189)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6492.
+- 2024-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-09 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2162-2184)
+- 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2162-2184)
