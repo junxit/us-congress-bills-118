@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1955
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -20,4 +20,5 @@ Title II of the Central Utah Project Completion Act (Public Law 102–575; 106 S
 > ## § 213. Water conservation measures in the Great Salt Lake basin
 >
 > - **(a)** *In general* The Secretary may use any unexpended budget authority provided under subsections (a)(2) and (c) of section 202 for the conduct of water conservation measures within the Great Salt Lake basin in accordance with section 207.
-> - **(b)** *Compliance with Definite Plan Report* Any water conservation measure conducted under subsection (a) shall be considered to be compliant with the Definite Plan Report completed under section 205(a).
+> - **(b)** *Compliance with Definite Plan Report* Any water conservation measure conducted under subsection (a) shall be considered to be compliant with the Definite Plan Report completed under section 205(a).”.
+> - **(c)** *Completion of project* In accordance with section 207, the Secretary shall ensure that water conservation measures conducted under subsection (a) do not interfere with the completion of the project under this Act.
