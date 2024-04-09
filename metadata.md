@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 61
 congress: 118
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 61
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Cosponsors (47)
+## Cosponsors (49)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -65,6 +65,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Romney, Mitt [R-UT] (R000615)
 - Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Paul, Rand [R-KY] (P000603)
 
 ## Committees (1)
 
@@ -74,3 +76,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2024-02-07 — Introduced in Senate
 - 2024-02-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2024-04-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
+- 2024-04-09 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2024-04-09 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
