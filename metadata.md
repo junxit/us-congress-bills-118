@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4389
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4389
@@ -55,3 +55,9 @@ Migratory Birds of the Americas Conservation Enhancements Act of 2023
 - 2024-04-05 — Placed on the Union Calendar, Calendar No. 363.
 - 2024-04-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-439.
 - 2024-04-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-439.
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2152-2153)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4389.
+- 2024-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-09 — Ms. Hageman moved to suspend the rules and pass the bill, as amended.
+- 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
+- 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
