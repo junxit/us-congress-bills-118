@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5914
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 3679(f)(1)(A) of title 38, United States Code, is amended by inserting “to the maximum extent practicable,” before “provide”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “this paragraph” and inserting “this subparagraph”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “this paragraph” and inserting “subparagraph (A)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) though (C), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in the matter before subparagraph (A), as redesignated by paragraph (1), by inserting “(1)” before “The Secretary”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (1)(B), as redesignated by paragraph (1), by inserting “except as provided in paragraph (2),” before “the course”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph (2): | the bill names no machine-readable US Code section |
