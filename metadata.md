@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6233
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6233
@@ -30,3 +30,9 @@ Community Reclamation Partnerships Act
 - 2024-04-05 — Placed on the Union Calendar, Calendar No. 362.
 - 2024-04-05 — Reported by the Committee on Natural Resources. H. Rept. 118-438.
 - 2024-04-05 — Reported by the Committee on Natural Resources. H. Rept. 118-438.
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2189-2191)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6233.
+- 2024-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-09 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-04-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2189-2190)
+- 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2189-2190)
