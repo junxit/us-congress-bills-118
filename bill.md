@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2247
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -34,6 +34,7 @@ This Act may be cited as the “Upper Colorado and San Juan River Basins Endange
       > - **(1)** *Authorization*
       >   - **(A)** *In general* Subject to subparagraph (B), there is authorized to be appropriated to the Secretary for use by the Bureau of Reclamation to undertake capital projects to carry out the purposes of this Act $50,000,000 for the period of fiscal years 2024 through 2031.
       >   - **(B)** *Inflation adjustment* Each fiscal year, the amount authorized to be appropriated under subparagraph (A) shall be adjusted for inflation from the date of enactment of the Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reauthorization Act of 2023 to the beginning of that fiscal year.
+      >   - **(B)** *Annual adjustment* For each of fiscal years 2025 through 2031, the amount authorized to be appropriated under subparagraph (A) shall be annually adjusted to reflect widely available engineering cost indices applicable to relevant construction activities.
       >   - **(C)** *Nonreimbursable funds* Amounts made available pursuant to subparagraph (A)
 
     - **(B)** in paragraph (2), by striking “Program for Endangered Fish Species in the Upper Colorado River Basin shall expire in fiscal year 2024” and inserting “Programs shall expire in fiscal year 2031”; and

@@ -1,7 +1,7 @@
 ---
 measure: S. 2247
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2247
@@ -31,3 +31,8 @@ Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reaut
 
 - 2023-07-11 — Introduced in Senate
 - 2023-07-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-07-19 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 118-287.
+- 2023-12-14 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2024-04-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-167.
+- 2024-04-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-167.
+- 2024-04-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
