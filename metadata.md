@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7673
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7673
@@ -30,3 +30,10 @@ Liberty in Laundry Act
 - 2024-03-13 — Introduced in House
 - 2024-03-13 — Introduced in House
 - 2024-03-13 — Referred to the House Committee on Energy and Commerce.
+- 2024-03-15 — Referred to the Subcommittee on Energy, Climate and Grid Security.
+- 2024-03-19 — Subcommittee on Energy, Climate and Grid Security Discharged
+- 2024-03-20 — Committee Consideration and Mark-up Session Held
+- 2024-03-20 — Ordered to be Reported by the Yeas and Nays: 22 - 19.
+- 2024-04-10 — Placed on the Union Calendar, Calendar No. 377.
+- 2024-04-10 — Reported by the Committee on Energy and Commerce. H. Rept. 118-454.
+- 2024-04-10 — Reported by the Committee on Energy and Commerce. H. Rept. 118-454.
