@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4389
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4389
@@ -38,9 +38,10 @@ Migratory Birds of the Americas Conservation Enhancements Act of 2023
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Migratory Birds of the Americas Conservation Enhancements Act of 2023
 - 2024-04-09 — Ms. Hageman moved to suspend the rules and pass the bill, as amended.
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
+- 2024-04-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
