@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 61
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 61
@@ -72,6 +72,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2024-04-10 — [Senate 118-2-121](votes/senate-118-2-0121.md) — On the Joint Resolution — **Joint Resolution Passed** (53–47)
+
 ## Actions
 
 - 2024-02-07 — Introduced in Senate
@@ -79,3 +83,5 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2024-04-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.
 - 2024-04-09 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2024-04-09 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2024-04-10 — Passed Senate without amendment by Yea-Nay Vote. 53 - 47. Record Vote Number: 121. (text: CR S2695)
+- 2024-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 47. Record Vote Number: 121. (text: CR S2695)
