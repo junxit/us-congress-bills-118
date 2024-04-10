@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4389
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4389
@@ -63,3 +63,14 @@ Migratory Birds of the Americas Conservation Enhancements Act of 2023
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2152)
 - 2024-04-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2024-04-17 — Passed Senate without amendment by Voice Vote. (consideration: CR S2822)
+- 2024-04-17 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S2822)
+- 2024-04-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2024-04-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2024-04-19 — Message on Senate action sent to the House.
+- 2024-04-24 — Became Public Law No: 118-51.
+- 2024-04-24 — Became Public Law No: 118-51.
+- 2024-04-24 — Presented to President.
+- 2024-04-24 — Presented to President.
+- 2024-04-24 — Signed by President.
+- 2024-04-24 — Signed by President.
