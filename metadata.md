@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1792
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1792
@@ -20,9 +20,10 @@ South Pacific Tuna Treaty Act of 2023
 
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ South Pacific Tuna Treaty Act of 2023
 - 2024-04-09 — Ms. Hageman moved to suspend the rules and pass the bill, as amended.
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2157-2158)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2157-2158)
+- 2024-04-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
