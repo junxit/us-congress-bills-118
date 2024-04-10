@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6655
@@ -48,10 +48,11 @@ A Stronger Workforce for America Act
 - Rep. Mrvan, Frank J. [D-IN-1] (M001214)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -78,3 +79,4 @@ A Stronger Workforce for America Act
 - 2024-04-09 — Ms. Foxx moved to suspend the rules and pass the bill, as amended.
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 26 (Roll no. 105). (text: CR H2191-2222)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 26 (Roll no. 105). (text: CR H2191-2222)
+- 2024-04-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
