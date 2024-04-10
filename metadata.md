@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6492
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6492
@@ -103,3 +103,4 @@ EXPLORE Act
 - 2024-04-09 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-04-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2162-2184)
 - 2024-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2162-2184)
+- 2024-04-10 — Received in the Senate, read twice.

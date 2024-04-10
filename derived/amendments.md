@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6492
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
