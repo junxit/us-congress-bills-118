@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7952
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7952
+
+> To amend title 10, United States Code, to extend parental leave to members of the Coast Guard Reserve.
+
+## § 1. Short title
+
+This Act may be cited as the “Coast Guard Reserve Parental Leave Parity Act”.
+
+## § 2. Extension of parental leave to members of the Coast Guard Reserve
+
+- **(a)** *Extension* Section 711 of chapter 40 of title 10, United States Code, is amended, in subsection (b), in the matter preceding paragraph (1), by striking “is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who”.
+- **(b)** *Technical correction* Such section is redesignated as section 710a of such title.
