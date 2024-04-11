@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6011
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6011
@@ -44,3 +44,11 @@ ROWATA Act
 - 2024-03-12 — Placed on the Union Calendar, Calendar No. 346.
 - 2024-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-420, Part I.
 - 2024-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-420, Part I.
+- 2024-04-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Hageman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-04-09 — Considered under suspension of the rules. (consideration: CR H2150-2152)
+- 2024-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6011.
+- 2024-04-09 — Ms. Hageman moved to suspend the rules and pass the bill, as amended.
+- 2024-04-11 — Considered as unfinished business. (consideration: CR H2301)
+- 2024-04-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 4/9/2024 CR H2150)
+- 2024-04-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 4/9/2024 CR H2150)
