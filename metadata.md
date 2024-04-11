@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3947
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3947
@@ -69,3 +69,12 @@ To designate the facility of the United States Postal Service located at 859 Nor
 - 2024-04-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-04-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
+- 2024-04-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2993)
+- 2024-04-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S2993)
+- 2024-04-25 — Message on Senate action sent to the House.
+- 2024-05-01 — Presented to President.
+- 2024-05-01 — Presented to President.
+- 2024-05-07 — Became Public Law No: 118-58.
+- 2024-05-07 — Became Public Law No: 118-58.
+- 2024-05-07 — Signed by President.
+- 2024-05-07 — Signed by President.
