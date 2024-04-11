@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 7967
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7967
+
+> To amend the Trade Act of 1974 to modify provisions relating to withdrawal, suspension, or limitation of country designation under the Generalized System of Preferences.
+
+## § 1. Modification of provisions relating to withdrawal, suspension, or limitation of country designation under the Generalized System of Preferences
+
+Section 502(d)(1) of the Trade Act of 1974 (19 U.S.C. (2462(d)(1)) is amended—
+
+- **(1)** by striking “the President shall consider the factors” and inserting
+  > the President—
+  > - **(A)** shall consider—
+  >   - **(i)** the factors
+
+- **(2)** by striking the period at the end and inserting a semicolon; and
+- **(3)** by adding at the end the following:
+  > - **(ii)** the likely impacts of any such action on working toward, or continuing to meet, the criteria and factors described in subsections (b) and (c) of this section; and
+  > - **(iii)** the likely impacts of any such action on workers and populations in the country that such criteria and factors are intended to help; and
+  > - **(B)** take all available steps to facilitate continued duty-free treatment under this title for products with respect to which the imposition of duties is likely—
+  >   - **(i)** to have an adverse effect on meeting the criteria and factors described in subsections (b) and (c) of this section; or
+  >   - **(ii)** result in severe economic harm to the populations that such criteria and factors are intended to help.
