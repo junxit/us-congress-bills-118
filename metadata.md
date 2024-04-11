@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3250
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3250
@@ -49,3 +49,4 @@ National Museum of Play Recognition Act
 - 2024-04-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 31 (Roll no. 109). (text: 4/9/2024 CR H2159-2160)
 - 2024-04-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 31 (Roll no. 109). (text: 4/9/2024 CR H2159-2160)
+- 2024-04-11 — Received in the Senate.
