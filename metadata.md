@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2560
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2560
@@ -36,6 +36,10 @@ Sea Turtle Rescue Assistance and Rehabilitation Act of 2023
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-04-11 — [House 118-2-111](votes/house-118-2-0111.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (332–82)
+
 ## Actions
 
 - 2023-04-10 — Introduced in House
@@ -49,3 +53,11 @@ Sea Turtle Rescue Assistance and Rehabilitation Act of 2023
 - 2024-04-02 — Placed on the Union Calendar, Calendar No. 358.
 - 2024-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-433.
 - 2024-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-433.
+- 2024-04-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-11 — Considered as unfinished business. (consideration: CR H2300-2301)
+- 2024-04-11 — Considered under suspension of the rules. (consideration: CR H2298-2299)
+- 2024-04-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2560.
+- 2024-04-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-11 — Mr. Tiffany moved to suspend the rules and pass the bill, as amended.
+- 2024-04-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 82 (Roll no. 111). (text: CR H2298)
+- 2024-04-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 82 (Roll no. 111). (text: CR H2298)
