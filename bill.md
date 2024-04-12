@@ -30,7 +30,7 @@ This Act may be cited as the “Reforming Intelligence and Securing America Act�
   - **(1)** *Audits required* For each query identified by the Federal Bureau of Investigation as a United States person query against information acquired pursuant to subsection (a) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) conducted by the Federal Bureau of Investigation, not later than 180 days after the conduct of such query, the Department of Justice shall conduct an audit of such query.
   - **(2)** *Applicability* The requirement under paragraph (1) shall apply with respect to queries conducted on or after the date of the enactment of this Act.
   - **(3)** *Sunset* This section shall terminate on the earlier of the following:
-    - **(A)** The date that is 4 years after the date of the enactment of this Act.
+    - **(A)** The date that is 2 years after the date of the enactment of this Act.
     - **(B)** The date on which the Attorney General submits to the appropriate congressional committees a certification that the Federal Bureau of Investigation has implemented a process for the internal audit of all queries referred to in paragraph (1).
   - **(4)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
     - **(A)** the congressional intelligence committees, as such term is defined in subsection (b) of section 701 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881); and
@@ -98,6 +98,7 @@ This Act may be cited as the “Reforming Intelligence and Securing America Act�
   - **(1)** *Mandatory review* Not less frequently than annually, the Department of Justice National Security Division shall review each person targeted under section 702 of the Foreign Intelligence Surveillance Act of 1978 in the preceding year to ensure that the purpose of each targeting decision is not to target a known United States person. The results of this review shall be submitted to the Department of Justice Office of the Inspector General, the congressional intelligence committees, and the Committees on the Judiciary of the House of Representatives and of the Senate, subject to a declassification review.
   - **(2)** *Inspector general audit* Not less frequently than annually, the Department of Justice Office of the Inspector General shall audit a sampling of the targeting decisions reviewed by the National Security Division under paragraph (1) and submit a report to the congressional intelligence committees and the Committees on the Judiciary of the House of Representatives and of the Senate.
   - **(3)** *Certification* Within 180 days of enactment of this Act, and annually thereafter, each agency authorized to target non-United States persons under section 702 shall certify to Congress that the purpose of each targeting decision made in the prior year was not to target a known United States person.
+  - **(4)** *Application* The requirements under this subsection apply for any year to the extent that section 702 of the Foreign Intelligence Surveillance Act of 1978 was in effect during any portion of the previous year.
 
 ## § 5. Foreign intelligence surveillance court reform
 
@@ -141,6 +142,8 @@ This Act may be cited as the “Reforming Intelligence and Securing America Act�
   >     - **(A)** that the application should be approved, denied, or modified;
   >     - **(B)** that the Government should supply additional information in connection with such application; or
   >     - **(C)** that any requirements or conditions should be imposed on the Government for the approval of such application.
+
+- **(d)** *Member Access to the Foreign Intelligence Surveillance Court and Foreign Intelligence Surveillance Court of Review* The chair and ranking minority member of each of the congressional intelligence committees, the chairs and ranking members of the Committees on the Judiciary of the House of Representatives and of the Senate, the Majority and Minority Leaders of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives shall be entitled to attend any proceeding of the Foreign Intelligence Surveillance Court or any proceeding of the Foreign Intelligence Surveillance Court of Review. Each person entitled to attend a proceeding pursuant to this paragraph may designate not more than 2 staff members of such committee or office to attend on their behalf, pursuant to such procedures as the Attorney General, in consultation with the Director of National Intelligence may establish.
 
 ## § 6. Application for an order under the foreign intelligence surveillance act
 
@@ -235,8 +238,8 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
 ## § 9. Audit of FISA compliance by inspector general
 
 - **(a)** *Inspector general report on Federal Bureau of Investigation querying practices*
-  - **(1)** *Reports* Not later than 545 days after the date of enactment of this Act, and again not later than one year prior to the expiration of title VII of the Foreign Intelligence Surveillance Act of 1978, the Inspector General of the Department of Justice shall submit to the appropriate congressional committees two separate reports on the querying practices of the Federal Bureau of Investigation under section 702.
-  - **(2)** *Matters included* The reports under paragraph (1) shall include, at a minimum, the following:
+  - **(1)** *Report* Not later than 545 days after the date of enactment of this Act, the Inspector General of the Department of Justice shall submit to the appropriate congressional committees a report on the querying practices of the Federal Bureau of Investigation under section 702.
+  - **(2)** *Matters included* The report under paragraph (1) shall include, at a minimum, the following:
     - **(A)** An evaluation of compliance by personnel of the Federal Bureau of Investigation with the querying procedures adopted under section 702(f), with a particular focus on compliance by such personnel with the procedures governing queries using United States person query terms.
     - **(B)** An analysis of each specific reform that, in the view of the Inspector General, is responsible for any identified improvement in the Federal Bureau of Investigation’s record of compliance with the querying procedures, including an identification of whether such reform was—
       - **(i)** required by this Act or another Act of Congress;
@@ -246,7 +249,7 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
     - **(D)** An evaluation of the effectiveness of the Office of Internal Auditing of the Federal Bureau of Investigation with respect to monitoring and improving query compliance by personnel of the Federal Bureau of Investigation.
     - **(E)** Recommendations to further improve compliance with querying procedures by personnel of the Federal Bureau of Investigation, particularly with respect to compliance with the procedures governing queries using United States person query terms.
     - **(F)** Any other relevant matter the Inspector General determines appropriate.
-  - **(3)** *Form* The reports under paragraph (1) shall be submitted in unclassified form and may include a classified annex.
+  - **(3)** *Form* The report under paragraph (1) shall be submitted in unclassified form and may include a classified annex.
   - **(4)** *Definitions* In this subsection:
     - **(A)** *In general* Except as provided in this subsection, terms used in this subsection have the meanings given such terms in the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.).
     - **(B)** *Appropriate congressional committees* The term appropriate congressional committees means—
@@ -335,7 +338,7 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
 
   - **(6)** *Applicability* The amendments made by this subsection shall apply with respect to applications made on or after the date that is 120 days after the date of enactment of this Act.
 
-## § 11. Annual report of the Federal Bureau of Investigation
+## § 11. Annual Report of the Federal Bureau of Investigation and Quarterly Report to Congress
 
 - **(a)** *Revocation of statutory reporting exemption and additional reporting requirement for Federal Bureau of Investigation*
   - **(1)** *In general* Section 603, as amended by this Act, is further amended—
@@ -353,6 +356,7 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
       >     - **(E)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 702(a) primarily to protect the United States person who is the subject of the query; and
       >     - **(F)** a good faith estimate of the number of United States person query terms used by the Federal Bureau of Investigation to conduct queries of unminimized contents or noncontents acquired pursuant to section 702(a) where the United States person who is the subject of the query is a target or subject of an investigation by the Federal Bureau of Investigation.
       >   - **(2)** *Public availability* Subject to declassification review by the Attorney General and the Director of National Intelligence, each annual report submitted pursuant to paragraph (1) shall be available to the public during the first April following the calendar year covered by the report.
+      >   - **(3)** *Quarterly report* Beginning on the date that is not later than 1 year after the effective date of this paragraph, the Director of the Federal Bureau of Investigation shall submit a quarterly report to the congressional intelligence committees and to the Committees on the Judiciary of the House of Representatives and of the Senate that includes the number of U.S. person queries conducted during that quarter.
 
   - **(2)** *Effective date* The amendments made by this subsection shall take effect on January 1, 2025.
 
@@ -366,16 +370,16 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
 - **(b)** *Accountability measures for executive leadership of Federal Bureau of Investigation*
   - **(1)** *Measures required* The Director of the Federal Bureau of Investigation shall ensure that, as soon as practicable following the date of enactment of this Act, there are in effect measures for holding the executive leadership of each covered component appropriately accountable for ensuring compliance with covered procedures by the personnel of the Federal Bureau of Investigation assigned to that covered component. Such measures shall include a requirement for an annual evaluation of the executive leadership of each such covered component with respect to ensuring such compliance during the preceding year.
   - **(2)** *Briefings required*
-    - **(A)** *Briefings* On a semiannual basis for the 2-year period following the date of the enactment of this Act, and on an annual basis thereafter, the Federal Bureau of Investigation shall provide to the appropriate congressional committees a briefing on the implementation of paragraph (1).
+    - **(A)** *Briefings* Not later than December 31 of each calendar year, the Federal Bureau of Investigation shall provide to the appropriate congressional committees a briefing on the implementation of paragraph (1).
     - **(B)** *Matters* Each briefing under subparagraph (A) shall include, with respect to the period covered by the briefing, the following:
       - **(i)** A description of specific measures under paragraph (1) that the Federal Bureau of Investigation has implemented.
       - **(ii)** A description of specific measures under such subsection that the Federal Bureau of Investigation has proposed to be implemented or modified, and the timeline for such proposed implementation or modification.
       - **(iii)** A summary of compliance with covered procedures by the personnel of the Federal Bureau of Investigation, disaggregated by covered component, and a description of any adverse personnel actions taken against, or other actions taken to ensure the appropriate accountability of, the executive leadership of covered components that underperformed with respect to ensuring such compliance.
   - **(3)** *Definitions* In this subsection:
     - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means—
-      - **(i)** the congressional intelligence committees, as such term is defined in subsection (b) of section 701 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881); and
+      - **(i)** the congressional intelligence committees, as such term is defined in subsection (b) of section 701 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881) on the date of enactment of this Act; and
       - **(ii)** the Committees on the Judiciary of the House of Representatives and the Senate.
-    - **(B)** *Covered component* The term covered component means a field office, Headquarters division, or other element of the Federal Bureau of Investigation with personnel who have access to the unminimized contents of communications obtained through acquisitions authorized under section 702(a).
+    - **(B)** *Covered component* The term covered component means a field office, Headquarters division, or other element of the Federal Bureau of Investigation with personnel who, for any period during which section 702 is in effect, have access to the unminimized contents of communications obtained through acquisitions authorized under section 702(a).
     - **(C)** *Covered procedure* The term covered procedure—
       - **(i)** means any procedure governing the use of authorities under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.); and
       - **(ii)** includes querying procedures and minimization procedures adopted pursuant to such Act.
@@ -567,20 +571,19 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
   - **(1)** *Severability* If any provision of this Act, any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.
   - **(2)** *Applicability date* Subsection (f) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a), as amended by this Act, shall apply with respect to certifications submitted under subsection (h) of such section to the Foreign Intelligence Surveillance Court after January 1, 2024.
 
-## § 19. Extension of certain authorities; sunset
+## § 19. Extension of certain authorities
 
 - **(a)** *FISA amendments act of 2008* Section 403(b) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2474) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”; and
+    - **(A)** by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”; and
     - **(B)** by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”; and
-  - **(2)** in paragraph (2) in the matter preceding subparagraph (A), by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”.
+  - **(2)** in paragraph (2) in the matter preceding subparagraph (A), by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”.
 - **(b)** *Conforming amendments* Section 404(b) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2476), is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** in the heading, by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”; and
+    - **(A)** in the heading, by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”; and
     - **(B)** by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”;
   - **(2)** in paragraph (2), by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”; and
   - **(3)** in paragraph (4), by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017” in each place it appears.
-- **(c)** *Sunset* Effective five years after the date of enactment of this Act, the Foreign Intelligence Surveillance Act of 1978 is amended so that section 702 reads as it read on the day before the date of enactment of this Act.
 
 ## § 20. Amendments to the foreign intelligence surveillance act of 1978
 
@@ -589,4 +592,60 @@ Subsection (a) of section 602 is amended by inserting after “shall conduct a d
 
 ## § 21. Requirement for recertification
 
-Notwithstanding any orders or authorizations issued or made under section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) during the period beginning on January 1, 2024 and ending on April 19, 2024, no later than 90 days after the date of enactment of this Act, the Attorney General and the Director of National Intelligence shall be required to seek new orders consistent with the provisions of the Foreign Intelligence Surveillance Act of 1978, as amended by this Act, and thereafter to issue new authorizations consistent with such new orders.
+Notwithstanding any orders or authorizations issued or made under section 702 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) during the period beginning on January 1, 2024 and ending on April 30, 2024, no later than 90 days after the date of enactment of this Act, the Attorney General and the Director of National Intelligence shall be required to seek new orders consistent with the provisions of the Foreign Intelligence Surveillance Act of 1978, as amended by this Act, and thereafter to issue new authorizations consistent with such new orders.
+
+## § 22. Repeal of authority for the resumption of abouts collection
+
+- **(a)** *In general* Section 702(b)(5) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(b)(5)) is amended by striking “, except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017”.
+- **(b)** *Conforming amendments*
+  - **(1)** *Foreign Intelligence Surveillance Act of 1978* Section 702(m) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(m)) is amended—
+    - **(A)** in the subsection heading, by striking “Reviews, and Reporting” and inserting “and Reviews”; and
+    - **(B)** by striking paragraph (4).
+  - **(2)** *FISA Amendments Reauthorization Act of 2017* Section 103 of the FISA Amendments Reauthorization Act of 2017 (Public Law 115–118; 50 U.S.C. 1881a note) is amended—
+    - **(A)** by striking subsection (b); and
+    - **(B)** by striking “(a) In general.—”.
+
+## § 23. Inclusion of counternarcotics in definition of foreign intelligence
+
+Section 101(e)(1) is amended—
+
+- **(1)** in subparagraph (B), by striking “; or” and inserting a semicolon; and
+- **(2)** by adding at the end the following new subparagraph:
+  > - **(D)** international production, distribution, or financing of illicit synthetic drugs, opioids, cocaine, or other drugs driving overdose deaths, or precursors of any aforementioned; or
+
+## § 24. Vetting of non-United States persons
+
+Subsection (f) of section 702, as amended by this Act, is further amended by adding at the end the following new paragraph:
+
+> - **(6)** *Vetting of non-United States persons* For any procedures for one or more agencies adopted under paragraph (1)(A), the Attorney General, in consultation with the Director of National Intelligence, shall ensure that the procedures enable the vetting of all non-United States persons who are being processed for travel to the United States using terms that do not qualify as United States person query terms under this Act.
+
+## § 25. Definition of electronic communication service provider
+
+- **(a)** Section 701(b)(4) is amended—
+  - **(1)** by redesignating subparagraph (E) as subparagraph (F);
+  - **(2)** in subparagraph (D), by striking “; or” and inserting a semicolon;
+  - **(3)** by inserting after subparagraph (D) the following new subparagraph:
+    > - **(E)** any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+    >   - **(i)** a public accommodation facility, as that term is defined in section 501(4);
+    >   - **(ii)** a dwelling, as that term is defined in section 802 of the Fair Housing Act (42 U.S.C. 3602);
+    >   - **(iii)** a community facility, as that term is defined in section 315 of the Defense Housing and Community Facilities and Services Act of 1951 (42 U.S.C. 1592n); or
+    >   - **(iv)** a food service establishment, as that term is defined in section 281 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638); or
+
+  - **(4)** in subparagraph (F), as redesignated—
+    - **(A)** by inserting “custodian,” after “employee,”;
+    - **(B)** by striking “or” before “(D)”; and
+    - **(C)** by inserting “, or (E)” after “(D)”.
+- **(b)** Paragraph (6) of section 801 of the Foreign Intelligence Surveillance Act of 1978 is amended—
+  - **(1)** by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively;
+  - **(2)** in subparagraph (F), as redesignated, by striking “; or” and inserting a semicolon;
+  - **(3)** by inserting after subparagraph (D) the following new subparagraph:
+    > - **(E)** any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+    >   - **(i)** a public accommodation facility, as that term is defined in section 501(4);
+    >   - **(ii)** a dwelling, as that term is defined in section 802 of the Fair Housing Act (42 U.S.C. 3602);
+    >   - **(iii)** a community facility, as that term is defined in section 315 of the Defense Housing and Community Facilities and Services Act of 1951 (42 U.S.C. 1592n); or
+    >   - **(iv)** a food service establishment, as that term is defined in section 281 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638);
+
+  - **(4)** in subparagraph (G), as redesignated—
+    - **(A)** by inserting “custodian,” after “employee,”;
+    - **(B)** by striking “or” before “(E)”; and
+    - **(C)** by inserting “, or (F)” after “(E)”.

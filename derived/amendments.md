@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7888
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-117 amendatory instructions. 10 executed, 107 stated and not applied.
+137 amendatory instructions. 11 executed, 126 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -113,6 +113,15 @@ to guess them.
 |---|---|
 | Removed | `under subsection (a)` |
 | Inserted | `under paragraph (1) or (2) of subsection (a)` |
+
+### 50 U.S.C. § 1881a
+
+> in the subsection heading, by striking “Reviews, and Reporting” and inserting “and Reviews”; and
+
+| | |
+|---|---|
+| Removed | `Reviews, and Reporting` |
+| Inserted | `and Reviews` |
 
 ## Stated, not applied
 
@@ -223,10 +232,29 @@ complete account of the bill's effect, which it is not.
 | — | insert | Title I of the Foreign Intelligence Surveillance Act of 1978 is amended by inserting after section 110 the following: | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 1881a` | insert | Subsection (f) of section 702, as amended by this Act, is further amended by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 103, as amended by this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) in the matter preceding subparagraph (A), by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”. | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “April 19, 2024” and inserting “five years after the date of enactment of the Reforming Intelligence and Securing America Act”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) in the matter preceding subparagraph (A), by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”. | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “April 19, 2024” and inserting “two years after the date of enactment of the Reforming Intelligence and Securing America Act”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (4), by inserting “and the Reforming Intelligence and Securing America Act” after “the FISA Amendments Reauthorization Act of 2017” in each place it appears. | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 1881a` | strike | Section 702(b)(5) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(b)(5)) is amended by striking “, except as provided under section 103(b) of the FISA Amendments Reauthorization Act of 2017”. | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 1881a` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881a` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1881a` | strike | by striking “(a) In general.—”. | the bill quotes the text struck but describes what replaces it |
+| — | replace | in subparagraph (B), by striking “; or” and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (f) of section 702, as amended by this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3602` | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3602` | replace | in subparagraph (D), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3602` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3602` | insert | by inserting “custodian,” after “employee,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3602` | strike | by striking “or” before “(D)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3602` | insert | by inserting “, or (E)” after “(D)”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3602` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3602` | redesignate | in subparagraph (F), as redesignated, by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3602` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3602` | insert | by inserting “custodian,” after “employee,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3602` | strike | by striking “or” before “(E)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3602` | insert | by inserting “, or (F)” after “(E)”. | the bill quotes the text inserted but describes where it goes |
