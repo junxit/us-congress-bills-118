@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 7974
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7974
+
+> To amend the Federal Food, Drug, and Cosmetic Act to require labeling of food products containing insects, and for other purposes.
+
+## § 1. Misbranded food with respect to insect ingredients
+
+- **(a)** *In general* Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343) is amended by adding at the end the following:
+  > - **(z)** If the food contains one or more insects, insect parts, or products derived from insects as an ingredient and the front label of such food does not clearly state in a prominent manner that such food contains such ingredients.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to food introduced or delivered for introduction into interstate commerce on or after the date that is 180 days after the date of the enactment of this Act.
