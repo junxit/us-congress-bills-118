@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 7983
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7983
+
+> To amend the Internal Revenue Code of 1986 to define the term free trade agreement for purposes of the clean vehicle credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Executive Overreach on Trade Agreements”.
+
+## § 2. Free trade agreement defined for purposes of clean vehicle credit
+
+- **(a)** *In general* Section 30D(e)(1) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(C)** *Free trade agreement* For purposes of subparagraph (A)(i)(II), the term “free trade agreement” means an international agreement approved by Congress that eliminates duties and other restrictive regulations of commerce on substantially all the trade between the United States and 1 or more other countries.
+
+- **(b)** *Effective date* The amendment made by this subsection shall apply to vehicles placed in service after the date of the enactment of this Act.
