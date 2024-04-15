@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7888
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7888
@@ -21,7 +21,7 @@ Reforming Intelligence and Securing America Act
 - House — Intelligence (Permanent Select) Committee
 - House — Judiciary Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2024-04-12 — [House 118-2-114](votes/house-118-2-0114.md) — On Agreeing to the Amendment — **Failed** (212–212)
 - 2024-04-12 — [House 118-2-115](votes/house-118-2-0115.md) — On Agreeing to the Amendment — **Agreed to** (269–153)
@@ -29,6 +29,7 @@ Reforming Intelligence and Securing America Act
 - 2024-04-12 — [House 118-2-117](votes/house-118-2-0117.md) — On Agreeing to the Amendment — **Agreed to** (227–193)
 - 2024-04-12 — [House 118-2-118](votes/house-118-2-0118.md) — On Agreeing to the Amendment — **Agreed to** (236–186)
 - 2024-04-12 — [House 118-2-119](votes/house-118-2-0119.md) — On Passage — **Passed** (273–147)
+- 2024-04-15 — [House 118-2-120](votes/house-118-2-0120.md) — Table Motion to Reconsider — **Passed** (259–128)
 
 ## Actions
 
@@ -103,3 +104,9 @@ Reforming Intelligence and Securing America Act
 - 2024-04-12 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 7888.
 - 2024-04-12 — The Speaker designated the Honorable Daniel Meuser to act as Chairman of the Committee.
 - 2024-04-12 — The previous question was ordered pursuant to the rule.
+- 2024-04-15 — Considered as unfinished business. (consideration: CR H2382-2383)
+- 2024-04-15 — Motion to reconsider laid on the table.
+- 2024-04-15 — Mr. Turner moved to table the motion to reconsider
+- 2024-04-15 — On motion to table the motion to reconsider Agreed to by recorded vote: 259 - 128 (Roll no. 120).
+- 2024-04-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 365.
+- 2024-04-15 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day April 10, 2024).
