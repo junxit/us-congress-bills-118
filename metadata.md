@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2560
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2560
@@ -61,3 +61,4 @@ Sea Turtle Rescue Assistance and Rehabilitation Act of 2023
 - 2024-04-11 — Mr. Tiffany moved to suspend the rules and pass the bill, as amended.
 - 2024-04-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 82 (Roll no. 111). (text: CR H2298)
 - 2024-04-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 82 (Roll no. 111). (text: CR H2298)
+- 2024-04-15 — Received in the Senate.
