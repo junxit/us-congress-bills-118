@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6408
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6408
@@ -30,6 +30,10 @@ To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2024-04-15 — [House 118-2-121](votes/house-118-2-0121.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (382–11)
+
 ## Actions
 
 - 2023-11-14 — Introduced in House
@@ -40,3 +44,11 @@ To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of
 - 2023-12-19 — Placed on the Union Calendar, Calendar No. 270.
 - 2023-12-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-331.
 - 2023-12-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-331.
+- 2024-04-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-15 — Considered as unfinished business. (consideration: CR H2383)
+- 2024-04-15 — Considered under suspension of the rules. (consideration: CR H2371-2374)
+- 2024-04-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6408.
+- 2024-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2024-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 11 (Roll no. 121). (text: CR H2371-2372)
+- 2024-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 11 (Roll no. 121). (text: CR H2371-2372)
