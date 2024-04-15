@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4486
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4486
@@ -25,3 +25,8 @@ Hiring Preference for Veterans and Americans With Disabilities Act
 - 2023-07-06 — Introduced in House
 - 2023-07-06 — Introduced in House
 - 2023-07-06 — Referred to the House Committee on House Administration.
+- 2024-02-14 — Committee Consideration and Mark-up Session Held
+- 2024-02-14 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2024-04-15 — Placed on the Union Calendar, Calendar No. 382.
+- 2024-04-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-461.
+- 2024-04-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-461.

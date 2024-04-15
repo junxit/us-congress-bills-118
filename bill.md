@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4486
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,3 +23,4 @@ This Act may be cited as the “Hiring Preference for Veterans and Americans Wit
     - **(A)** may give preference to an individual who is a nonresident military spouse or dependent; and
     - **(B)** may not refuse to hire such an individual as an election worker solely on the grounds that the individual does not maintain a place of residence in the State or local jurisdiction.
   - **(2)** *Nonresident military spouse or dependent defined* In this subsection, a “nonresident military spouse or dependent” means an individual who is an absent uniformed services voter under section 107(1)(C) of the Uniformed and Overseas Citizen Absentee Voting Act (52 U.S.C. 20310(1)(C)).
+- **(c)** *Effective date* This section shall take effect on the date of the enactment of this Act.
