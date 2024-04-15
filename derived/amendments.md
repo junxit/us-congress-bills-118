@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7888
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
