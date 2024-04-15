@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5923
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5923
@@ -33,6 +33,10 @@ Iran-China Energy Sanctions Act of 2023
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2024-04-15 — [House 118-2-122](votes/house-118-2-0122.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (383–11)
+
 ## Actions
 
 - 2023-10-11 — Introduced in House
@@ -43,3 +47,11 @@ Iran-China Energy Sanctions Act of 2023
 - 2023-12-19 — Placed on the Union Calendar, Calendar No. 272.
 - 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-333.
 - 2023-12-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-333.
+- 2024-04-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-15 — Considered as unfinished business. (consideration: CR H2383-2384)
+- 2024-04-15 — Considered under suspension of the rules. (consideration: CR H2374-2376)
+- 2024-04-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5923.
+- 2024-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-15 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
+- 2024-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 11 (Roll no. 122). (text: CR H2374)
+- 2024-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 11 (Roll no. 122). (text: CR H2374)
