@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6285
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,7 @@ Congress finds that—
 - **(3)** the Department of the Interior’s cancelling of the leases for the covered Coastal Plain lease tracts represents a major decision of economic and political significance that Congress did not delegate to the Secretary;
 - **(4)** the Naval Petroleum Reserves Production Act of 1976 (42 U.S.C. 6501 et seq.) requires that the Bureau of Land Management—
   - **(A)** allow for the exploration, development, and production of petroleum products in the National Petroleum Reserve in Alaska; and
-  - **(B)** equally balance, to the extent consistent with that Act, the protection of ecological and cultural values in the National Petroleum Reserve in Alaska; and
+  - **(B)** balance, to the extent consistent with that Act, the protection of ecological and cultural values in the National Petroleum Reserve in Alaska; and
 - **(5)** the proposed rule of the Bureau of Land Management entitled “Management and Protection of the National Petroleum Reserve in Alaska” (88 Fed. Reg. 62025 (September 8, 2023)) fails to reflect the intent of Congress for the Naval Petroleum Reserves Production Act of 1976 (42 U.S.C. 6501 et seq.).
 
 ## § 3. Definitions
