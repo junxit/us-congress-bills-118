@@ -1,7 +1,7 @@
 ---
 measure: S. 3858
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3858
@@ -32,3 +32,5 @@ Legacy Mine Cleanup Act of 2024
 - 2024-03-12 — Committee on Environment and Public Works. Reported by Senator Carper with amendments. Without written report.
 - 2024-03-12 — Committee on Environment and Public Works. Reported by Senator Carper with amendments. Without written report.
 - 2024-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
+- 2024-04-15 — Passed Senate with amendments by Voice Vote.
+- 2024-04-15 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.

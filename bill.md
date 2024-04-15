@@ -65,10 +65,10 @@ This Act may be cited as the “Legacy Mine Cleanup Act of 2024”.
       - **(iii)** support—
         - **(I)** government-to-government consultations with Indian Tribes with respect to a covered mine site located within Indian country; and
         - **(II)** efforts to provide regular updates to the Tribal governments involved in response actions for a covered mine site located on Tribal land under the jurisdiction of the Indian Tribe.
-    - **(B)** *Tribal consultation* In supporting consultations with Indian Tribes under subparagraph (A)(iii)(I), and where a response action occurs within Indian country, the Administrator, in addition to existing applicable law and guidance, shall—
-      - **(i)** as appropriate, invite potentially responsible parties, including Federal agencies, to participate in government-to-government consultations with Indian Tribes; andTribes;
+    - **(B)** *Tribal consultation* In supporting consultations with Indian Tribes under subparagraph (A)(iii)(I), the Administrator, in addition to existing applicable law and guidance, shall—
+      - **(i)** as appropriate, invite potentially responsible parties, including Federal agencies, to participate in government-to-government consultations with Indian Tribes;
       - **(ii)** as appropriate, consult with Alaska Native Corporations in accordance with section 161 of division H of the Consolidated Appropriations Act, 2004 (25 U.S.C. 5301 note; Public Law 108–199); and
-      - **(ii)(iii)** as appropriate, ensure consultations with Tribal allottees occur pursuant to section 2 of the Act of February 5, 1948 (62 Stat. 18, chapter 45; 25 U.S.C. 324).
+      - **(iii)** as appropriate, ensure consultations with Tribal allottees occur pursuant to section 2 of the Act of February 5, 1948 (62 Stat. 18, chapter 45; 25 U.S.C. 324).
   - **(3)** *Interagency plans for uranium contamination on the Navajo Nation; reports*
     - **(A)** *In general* Not later than September 30, 2027, and not less frequently than once every 10 years thereafter, the Administrator, in cooperation with other relevant Federal agencies, including, at a minimum, the Department of Energy, the Nuclear Energy Regulatory Commission, the Department of the Interior, the Indian Health Service, and the Agency for Toxic Substances and Disease Registry, and in consultation with affected Tribal governments, shall develop a 10-year interagency plan for the coordination of the Federal Government with States and Tribal governments to carry out response actions at Navajo Nation abandoned uranium mine sites, including—
       - **(i)** goals for the assessment of, and response actions at, Navajo Nation abandoned uranium mine sites;
