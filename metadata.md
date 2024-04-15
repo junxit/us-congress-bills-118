@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6011
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6011
@@ -52,3 +52,5 @@ ROWATA Act
 - 2024-04-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 4/9/2024 CR H2150)
 - 2024-04-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 4/9/2024 CR H2150)
+- 2024-04-15 — Received in the Senate (Legislative Day, April 10, 2024).
+- 2024-04-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
