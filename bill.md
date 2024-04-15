@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6323
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,9 +28,7 @@ This Act may be cited as the “Iran Counterterrorism Act of 2023”.
     >   - **(1)** *In general* During the period of 30 calendar days beginning on the date on which the President submits a report under subsection (f)(1)(B), the appropriate congressional committees should, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the report.
     >   - **(2)** *Exception* The period for congressional review under paragraph (1) of a report required to be submitted under subsection (f)(1)(B) shall be 60 calendar days if the report is submitted on or after July 10 and on or before September 7 in any calendar year.
     >   - **(3)** *Limitation on actions during initial congressional review period* Notwithstanding any other provision of law, during the period for congressional review provided for under paragraph (1) of a report submitted under subsection (f)(1)(B) proposing a waiver of the imposition of sanctions under subsection (a), including any additional period for such review as applicable under the exception provided in paragraph (2), the President may not issue the waiver unless a joint resolution of approval with respect to that waiver is enacted in accordance with subsection (h).
-    >   - **(4)** *Limitation on actions during presidential consideration of a joint resolution of disapproval* Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (f)(1)(B) proposing a waiver of the imposition of sanctions under subsection (a) passes both Houses of Congress in accordance with subsection (h), the President may not issue the waiver for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
-    >   - **(5)** *Limitation on actions during congressional reconsideration of a joint resolution of disapproval* Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (f)(1)(B) proposing a waiver of the imposition of sanctions under subsection (a) passes both Houses of Congress in accordance with subsection (h), and the President vetoes the joint resolution, the President may not issue the waiver for a period of 10 calendar days after the date of the President’s veto.
-    >   - **(6)** *Effect of enactment of a joint resolution of disapproval* Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (f)(1)(B) proposing an action described in subsection (a)(2) is enacted in accordance with subsection (h), the President may not issue the waiver.
+    >   - **(4)** *Effect of enactment of a joint resolution of disapproval* Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (f)(1)(B) proposing an action described in subsection (f)(1)(A)(ii) is enacted in accordance with subsection (h), the President may not issue the waiver.
     > - **(h)** *Joint Resolutions of Disapproval or Approval Defined* In this subsection:
     >   - **(1)** *Joint resolution of approval* The term joint resolution of approval means only a joint resolution of either House of Congress—
     >     - **(A)** the title of which is as follows: “A joint resolution approving the President’s proposal to issue a waiver relating to the application of certain sanctions with respect to Iran.”; and
