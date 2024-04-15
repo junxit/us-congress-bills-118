@@ -1,7 +1,7 @@
 ---
 measure: H.R. 524
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 524
@@ -45,3 +45,5 @@ To amend the Coastal Barrier Resources Act to create an exemption for certain sh
 - 2024-04-11 — Mr. Tiffany moved to suspend the rules and pass the bill, as amended.
 - 2024-04-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2296)
 - 2024-04-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2296)
+- 2024-04-15 — Received in the Senate (Legislative Day, April 10, 2024).
+- 2024-04-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
