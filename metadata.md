@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 863
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Res. 863
@@ -89,3 +89,4 @@ Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high
 - 2024-02-13 — On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 214 - 213 (Roll no. 43).
 - 2024-02-13 — On motion to reconsider Agreed to by the Yeas and Nays: 216 - 211 (Roll no. 42). (text: 2/6/2024 CR H449-451)
 - 2024-02-13 — Passed/agreed to in House: On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 214 - 213 (Roll no. 43).
+- 2024-04-16 — Received in the Senate.
