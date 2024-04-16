@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6408
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6408
@@ -26,9 +26,10 @@ To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of
 - 2024-04-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 11 (Roll no. 121). (text: CR H2371-2372)
 - 2024-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 11 (Roll no. 121). (text: CR H2371-2372)
+- 2024-04-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
