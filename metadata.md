@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5921
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5921
@@ -49,9 +49,10 @@ No U.S. Financing for Iran Act of 2023
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ No U.S. Financing for Iran Act of 2023
 - 2024-04-15 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
 - 2024-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 105 (Roll no. 123). (text: CR H2376)
 - 2024-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 105 (Roll no. 123). (text: CR H2376)
+- 2024-04-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
