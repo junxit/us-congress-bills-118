@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4681
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -46,19 +46,25 @@ It is the policy of the United States to target individuals, entities, and netwo
         - **(II)** cancel any other valid visa or entry documentation that is in the possession of the alien.
 - **(c)** *Penalties* Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 - **(d)** *Waiver*
-  - **(1)** *In general* The President may waive the application of sanctions under this section with respect to a foreign person only if, not later than 15 days prior to the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is in the vital national security interests of the United States.
+  - **(1)** *In general* The President may waive the application of sanctions under this section with respect to a foreign person only if, not later than 15 days prior to the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is important to the national security interests of the United States.
   - **(2)** *Briefing* Not later than 60 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver.
-- **(e)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
-- **(f)** *Regulations*
+- **(e)** *Humanitarian waiver*
+  - **(1)** *In general* The President may waive, for renewable periods not to exceed 2 years, the application of sanctions with respect to a nongovernmental organization providing humanitarian assistance if the President certifies to the appropriate congressional committees that such a waiver is important to address a humanitarian need and is consistent with the national security interests of the United States.
+  - **(2)** *Briefing* Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver.
+- **(f)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+- **(g)** *Regulations*
   - **(1)** *In general* The President shall, not later than 120 days after the date of the enactment of this Act, promulgate regulations as necessary for the implementation of this section.
   - **(2)** *Notification to congress* Not later than 10 days before the promulgation of regulations under this subsection, the President shall notify the appropriate congressional committees of the proposed regulations and the provisions of this section that the regulations are implementing.
-- **(g)** *Exceptions*
+- **(h)** *Exceptions*
   - **(1)** *Exception for intelligence activities* Sanctions under this section shall not apply to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
   - **(2)** *Exception to comply with international obligations and for law enforcement activities* Sanctions under this section shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary—
     - **(A)** to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations; or
     - **(B)** to carry out or assist authorized law enforcement activity in the United States.
+- **(i)** *Exception relating to the importation of goods*
+  - **(1)** *In general* The authorities and requirements under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
 
-## § 5. Determinations with respect to the Government of Syria, Hizballah, and networks affiliated with the Government of Syria or Hizballah
+## § 5. Determinations with respect to the government of syria, hizballah, and networks affiliated with the government of syria or hizballah
 
 - **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the President shall—
   - **(1)** determine whether each foreign person described in subsection (b) meets the criteria for sanctions under this Act; and
@@ -73,7 +79,7 @@ It is the policy of the United States to target individuals, entities, and netwo
   - **(4)** Taher al-Kayyali.
   - **(5)** Raji Falhout.
   - **(6)** Mohammed Asif Issa Shalish.
-  - **(7)** Abdellatif Hamid, a Syrian national.
+  - **(7)** Abdellatif Hamid.
   - **(8)** Mustafa Al Masalmeh.
 
 ## § 6. Definitions
@@ -83,16 +89,16 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
   - **(A)** the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives; and
   - **(B)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate.
-- **(2)** *Captagon* The term captagon means any compound, mixture, or preparation which contains any quantity of a stimulant in schedule I or II of section 202 of the Controlled Substances Act (21 U.S.C. 812), including—
+- **(2)** *Captagon* The term “captagon” means any compound, mixture, or preparation which contains any quantity of a stimulant in schedule I or II of section 202 of the Controlled Substances Act (21 U.S.C. 812), including—
   - **(A)** amphetamine, methamphetamine, and fenethylline;
   - **(B)** any immediate precursor or controlled substance analogue of such a stimulant, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802); and
   - **(C)** any isomers, esters, ethers, salts, and salts of isomers, esters, and ethers of such a stimulant, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation.
 - **(3)** *Foreign person* The term “foreign person”—
   - **(A)** means an individual or entity that is not a United States person; and
   - **(B)** includes a foreign state (as such term is defined in section 1603 of title 28, United States Code).
-- **(4)** *Illicit proliferation* The term illicit proliferation refers to any illicit activity to produce, manufacture, distribute, sell, or knowingly finance or transport.
+- **(4)** *Illicit proliferation* The term “illicit proliferation” refers to any illicit activity to produce, manufacture, distribute, sell, or knowingly finance or transport.
 - **(5)** *Knowingly* The term “knowingly” has the meaning given that term in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
-- **(6)** *United States person* The term “United States person” means—
+- **(6)** *United states person* The term “United States person” means—
   - **(A)** a United States citizen;
   - **(B)** a permanent resident alien of the United States;
   - **(C)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
