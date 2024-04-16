@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 995
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Res. 995
@@ -27,3 +27,4 @@ Appointing and authorizing managers for the impeachment trial of Alejandro Nicho
 - 2024-02-05 — Referred to the House Committee on Homeland Security.
 - 2024-02-05 — Referred to the Subcommittee on Oversight, Investigations, and Accountability.
 - 2024-02-13 — Pursuant to the provisions of H. Res. 996, H. Res. 995 is considered passed House. (consideration: CR H573; text: CR H573)
+- 2024-04-16 — Received in the Senate.

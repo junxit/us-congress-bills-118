@@ -2,7 +2,7 @@
 legis-num: H. RES. 995
 congress: 118th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. RES. 995
