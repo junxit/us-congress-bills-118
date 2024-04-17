@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3033
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3033
@@ -56,13 +56,14 @@ Solidify Iran Sanctions Act of 2023
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (5)
+## Committees (6)
 
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
 - House — Oversight and Government Reform Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -87,3 +88,4 @@ Solidify Iran Sanctions Act of 2023
 - 2024-04-16 — Mr. Wilson (SC) moved to suspend the rules and pass the bill.
 - 2024-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 132). (text: CR H2426)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 16 (Roll no. 132). (text: CR H2426)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
