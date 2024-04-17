@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4681
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4681
@@ -24,10 +24,11 @@ Illicit Captagon Trafficking Suppression Act of 2023
 - Rep. Mills, Cory [R-FL-7] (M001216)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Illicit Captagon Trafficking Suppression Act of 2023
 - 2024-04-16 — Mr. Moran moved to suspend the rules and pass the bill, as amended.
 - 2024-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 13 (Roll no. 129). (text: CR H2419-2420)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 13 (Roll no. 129). (text: CR H2419-2420)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
