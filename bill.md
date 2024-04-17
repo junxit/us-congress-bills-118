@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4691
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,7 +61,7 @@ This Act may be cited as the “Iran Sanctions Relief Review Act of 2023”.
   - **(2)** *Introduction* During the period of 30 calendar days provided for under subsection (b)(1), including any additional period as applicable under the exception provided in subsection (b)(2), a joint resolution of approval or joint resolution of disapproval may be introduced—
     - **(A)** in the House of Representatives, by the majority leader or the minority leader; and
     - **(B)** in the Senate, by the majority leader (or the majority leader's designee) or the minority leader (or the minority leader's designee).
-  - **(3)** *Floor consideration in house of representatives* If a committee of the House of Representatives to which a joint resolution of approval or joint resolution of disapproval has been referred has not reported the joint resolution within 10 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
+  - **(3)** *Floor consideration in house of representatives* If a committee of the House of Representatives to which a joint resolution of approval or joint resolution of disapproval has been referred has not reported the joint resolution within 10 legislative days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
   - **(4)** *Consideration in the senate*
     - **(A)** *Committee referral* A joint resolution of approval or joint resolution of disapproval introduced in the Senate shall be—
       - **(i)** referred to the Committee on Banking, Housing, and Urban Affairs if the joint resolution relates to a report under subsection (a)(3)(A) that relates to an action that is not intended to significantly alter United States foreign policy with respect to Iran; and
@@ -73,7 +73,7 @@ This Act may be cited as the “Iran Sanctions Relief Review Act of 2023”.
   - **(5)** *Rules relating to senate and house of representatives*
     - **(A)** *Treatment of senate joint resolution in house* In the House of Representatives, the following procedures shall apply to a joint resolution of approval or a joint resolution of disapproval received from the Senate (unless the House has already passed a joint resolution relating to the same proposed action):
       - **(i)** The joint resolution shall be referred to the appropriate committees.
-      - **(ii)** If a committee to which a joint resolution has been referred has not reported the joint resolution within 2 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
+      - **(ii)** If a committee to which a joint resolution has been referred has not reported the joint resolution within 5 legislative days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
       - **(iii)** Beginning on the third legislative day after each committee to which a joint resolution has been referred reports the joint resolution to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on the joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
       - **(iv)** The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except 2 hours of debate equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
     - **(B)** *Treatment of house joint resolution in senate*
