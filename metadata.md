@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5917
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5917
@@ -55,11 +55,12 @@ Strengthening Tools to Counter the Use of Human Shields Act
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -82,3 +83,4 @@ Strengthening Tools to Counter the Use of Human Shields Act
 - 2024-04-16 — Mr. Moran moved to suspend the rules and pass the bill.
 - 2024-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 128). (text: CR H2416-2417)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 128). (text: CR H2416-2417)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
