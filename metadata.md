@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6015
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6015
@@ -16,12 +16,13 @@ Iran Sanctions Accountability Act of 2023
 
 - Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
 
-## Committees (4)
+## Committees (5)
 
 - House — Financial Services Committee
 - House — Ways and Means Committee
 - House — Oversight and Government Reform Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Iran Sanctions Accountability Act of 2023
 - 2024-04-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13 (Roll no. 127). (text: 4/15/2024 CR H2380)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13 (Roll no. 127). (text: 4/15/2024 CR H2380)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
