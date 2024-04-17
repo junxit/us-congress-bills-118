@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5947
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5947
@@ -16,7 +16,7 @@ To provide for the rescission of certain waivers and licenses relating to Iran, 
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (128)
+## Cosponsors (131)
 
 - Rep. Hern, Kevin [R-OK-1] (H001082)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -146,6 +146,9 @@ To provide for the rescission of certain waivers and licenses relating to Iran, 
 - Rep. Clyde, Andrew S. [R-GA-9] (C001116)
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (4)
 
@@ -153,6 +156,10 @@ To provide for the rescission of certain waivers and licenses relating to Iran, 
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2024-04-17 — [House 118-2-139](votes/house-118-2-0139.md) — On Passage — **Passed** (259–160)
 
 ## Actions
 
@@ -162,3 +169,13 @@ To provide for the rescission of certain waivers and licenses relating to Iran, 
 - 2023-10-25 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Accountability, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-10-25 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Accountability, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-10-25 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Accountability, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-04-16 — Rules Committee Resolution H. Res. 1149 Reported to House. Rule provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, H.R. 6046 and H.R. 4639. The resolution provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, and H.R. 6046 under a closed rule, and for consideration of H.R. 4639 under a structured rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 6323, H.R. 4691, H.R. 5947, H.R. 6046, and H.R. 4639.
+- 2024-04-17 — Considered as unfinished business. (consideration: CR H2483)
+- 2024-04-17 — Considered under the provisions of rule H. Res. 1149. (consideration: CR H2476-2480)
+- 2024-04-17 — DEBATE - The House proceeded with one hour of debate on H.R. 5947.
+- 2024-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-17 — On passage Passed by the Yeas and Nays: 259 - 160 (Roll no. 139). (text: CR H2476-2477)
+- 2024-04-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5947, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Self demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-04-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 259 - 160 (Roll no. 139). (text: CR H2476-2477)
+- 2024-04-17 — Rule provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, H.R. 6046 and H.R. 4639. The resolution provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, and H.R. 6046 under a closed rule, and for consideration of H.R. 4639 under a structured rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 6323, H.R. 4691, H.R. 5947, H.R. 6046, and H.R. 4639.
+- 2024-04-17 — The previous question was ordered pursuant to the rule.
