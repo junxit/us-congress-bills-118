@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5826
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5826
@@ -31,10 +31,11 @@ No Paydays for Hostage-Takers Act
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ No Paydays for Hostage-Takers Act
 - 2024-04-16 — Mr. Wilson (SC) moved to suspend the rules and pass the bill, as amended.
 - 2024-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 34 (Roll no. 131). (text: CR H2423-2425)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 34 (Roll no. 131). (text: CR H2423-2425)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
