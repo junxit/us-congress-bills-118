@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6245
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6245
@@ -22,9 +22,10 @@ Holding Iranian Leaders Accountable Act of 2023
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Holding Iranian Leaders Accountable Act of 2023
 - 2024-04-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 126). (text: 4/15/2024 CR H2378-2379)
 - 2024-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 126). (text: 4/15/2024 CR H2378-2379)
+- 2024-04-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
