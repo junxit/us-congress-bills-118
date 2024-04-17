@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4555
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `52 U.S.C. § 21001` | insert | Section 251(b)(1) of the Help America Vote Act of 2002 (52 U.S.C. 21001(b)(1)) is amended by inserting “, including to conduct and publish an audit of the effectiveness and accuracy of the voting systems, election procedures, and outcome… | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 21001` | insert | Section 251(b)(1) of the Help America Vote Act of 2002 (52 U.S.C. 21001(b)(1)) is amended by inserting “, including to conduct and publish an audit of the effectiveness and accuracy of the voting systems, nonvoting election technology (a… | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 21001` | add-at-end | Section 251(b) of such Act (52 U.S.C. 21001(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
