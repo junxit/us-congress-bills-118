@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1143
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1143
@@ -16,7 +16,7 @@ Condemning Iran's unprecedented drone and missile attack on Israel.
 
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
-## Cosponsors (42)
+## Cosponsors (45)
 
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
@@ -60,10 +60,17 @@ Condemning Iran's unprecedented drone and missile attack on Israel.
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2024-04-18 — [House 118-2-141](votes/house-118-2-0141.md) — On Agreeing to the Resolution — **Passed** (404–14)
 
 ## Actions
 
@@ -71,3 +78,13 @@ Condemning Iran's unprecedented drone and missile attack on Israel.
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Referred to the House Committee on Foreign Affairs.
 - 2024-04-15 — Submitted in House
+- 2024-04-16 — Rules Committee Resolution H. Res. 1149 Reported to House. Rule provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, H.R. 6046 and H.R. 4639. The resolution provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, and H.R. 6046 under a closed rule, and for consideration of H.R. 4639 under a structured rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 6323, H.R. 4691, H.R. 5947, H.R. 6046, and H.R. 4639.
+- 2024-04-18 — Considered as unfinished business. (consideration: CR H2509-2510)
+- 2024-04-18 — Considered under the provisions of rule H. Res. 1149. (consideration: CR H2507-2509)
+- 2024-04-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 1143.
+- 2024-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 404 - 14 (Roll no. 141). (text: CR H2507)
+- 2024-04-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1143, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Kean demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-04-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 404 - 14 (Roll no. 141). (text: CR H2507)
+- 2024-04-18 — Rule provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, H.R. 6046 and H.R. 4639. The resolution provides for consideration of H.R. 6323, H. Res. 1143, H.R. 4691, H.R. 5947, and H.R. 6046 under a closed rule, and for consideration of H.R. 4639 under a structured rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 6323, H.R. 4691, H.R. 5947, H.R. 6046, and H.R. 4639.
+- 2024-04-18 — The previous question was ordered pursuant to the rule on the resolution and preamble.
