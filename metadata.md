@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6323
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6323
@@ -23,10 +23,11 @@ Iran Counterterrorism Act of 2023
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Timmons, William R. [R-SC-4] (T000480)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ Iran Counterterrorism Act of 2023
 - 2024-04-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-17 — On passage Passed by the Yeas and Nays: 271 - 147 (Roll no. 140). (text of amendment in the nature of a substitute: 4/16/2024 CR H2437-2438)
 - 2024-04-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 271 - 147 (Roll no. 140). (text of amendment in the nature of a substitute: 4/16/2024 CR H2437-2438)
+- 2024-04-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
