@@ -1,0 +1,19 @@
+---
+legis-num: S. 4175
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4175
+
+> To reauthorize the Radiation Exposure Compensation Act.
+
+## § 1. Short title
+
+This Act may be cited as the “RECA Extension Act of 2024”.
+
+## § 2. Reauthorization of the Radiation Exposure Compensation Act
+
+- **(a)** *In general* Section 3(d) of the Radiation Exposure Compensation Act (Public Law 101–426; 42 U.S.C. 2210 note) is amended by striking the first sentence and inserting “The Fund shall terminate on the date that is 2 years after the date of enactment of the RECA Extension Act of 2024.”.
+- **(b)** *Limitation on claims* Section 8(a) of the Radiation Exposure Compensation Act (Public Law 101–426; 42 U.S.C. 2210 note) is amended by striking “the RECA Extension Act of 2022” and inserting “the RECA Extension Act of 2024”.
