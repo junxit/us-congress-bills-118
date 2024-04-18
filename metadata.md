@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4639
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4639
@@ -88,3 +88,4 @@ Fourth Amendment Is Not For Sale Act
 - 2024-04-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4639.
 - 2024-04-17 — The Speaker designated the Honorable Jerry L. Carl to act as Chairman of the Committee.
 - 2024-04-17 — The previous question was ordered pursuant to the rule.
+- 2024-04-18 — Received in the Senate.
