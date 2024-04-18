@@ -1,7 +1,7 @@
 ---
 measure: S. 2958
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -71,12 +71,12 @@ to guess them.
 
 ### 16 U.S.C. § 3510
 
-> Section 10 of the Coastal Barrier Resources Act (16 U.S.C. 3510) is amended by striking “$2,000,000” and all that follows through the period at the end of the sentence and inserting “$5,000,000 for each of fiscal years 2024 through 2028.”.
+> Section 10 of the Coastal Barrier Resources Act (16 U.S.C. 3510) is amended by striking “$2,000,000” and all that follows through the period at the end of the sentence and inserting “$3,000,000 for each of fiscal years 2024 through 2028.”.
 
 | | |
 |---|---|
 | Removed | `$2,000,000` |
-| Inserted | `$5,000,000 for each of fiscal years 2024 through 2028.` |
+| Inserted | `$3,000,000 for each of fiscal years 2024 through 2028.` |
 
 ## Stated, not applied
 

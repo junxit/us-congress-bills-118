@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2958
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
