@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8081
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8081
+
+> To terminate United States Secret Service protection for felons.
+
+## § 1. Short title
+
+This Act may be cited as the “Denying Infinite Security and Government Resources Allocated toward Convicted and Extremely Dishonorable Former Protectees Act” or the “DISGRACED Former Protectees Act”.
+
+## § 2. Denying certain felons secret service protection
+
+Section 3056(a) of title 18, United States Code, is amended by striking “declined.” and inserting “declined. The protection authorized in paragraphs (1) through (8) shall terminate for any person upon sentencing following conviction for a Federal or State offense that is punishable for a term of imprisonment of at least one year.”.
