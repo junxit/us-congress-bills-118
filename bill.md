@@ -2,7 +2,7 @@
 legis-num: H. RES. 1160
 congress: 118th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1160
@@ -30,7 +30,7 @@ During consideration of H.R. 8035 and H.R. 8038, the Chair may entertain a motio
 ## § 6.
 
 - **(a)** Upon disposition of the bills specified in subsection (d), the House shall be considered to have taken from the Speaker’s table the bill (H.R. 815) to amend title 38, United States Code, to make certain improvements relating to the eligibility of veterans to receive reimbursement for emergency treatment furnished through the Veterans Community Care program, and for other purposes, with the Senate amendment thereto, and to have concurred in the Senate amendment with an amendment inserting the respective texts of all bills specified in subsection (d), as passed by the House, in lieu of the matter proposed to be inserted by the Senate.
-- **(b)** In the engrossment of the House amendment to the Senate amendment to H.R. 815, the Clerk shall—
+- **(b)** In the engrossment of the House amendment to the Senate amendment to H.R. 815, the Clerk shall —
   - **(1)** assign appropriate designations to provisions within the engrossment;
   - **(2)** conform cross-references and provisions for short titles within the engrossment;
   - **(3)** be authorized to make technical corrections, to include corrections in spelling, punctuation, page and line numbering, section numbering, and insertion of appropriate headings; and
