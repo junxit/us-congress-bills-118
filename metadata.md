@@ -1,7 +1,7 @@
 ---
 measure: H.R. 815
 congress: 118
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 815
@@ -1105,3 +1105,8 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - 2024-02-13 — Message on Senate action sent to the House.
 - 2024-02-13 — Passed Senate with an amendment by Yea-Nay Vote. 70 - 29. Record Vote Number: 48.
 - 2024-02-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 70 - 29. Record Vote Number: 48.
+- 2024-04-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-20 — On motion that the House agree with an amendment to the Senate amendment Agreed to without objection.
+- 2024-04-20 — Pursuant to H. Res. 1160, the Senate amendment to H.R. 815 is considered as agreed to with the amendment described in section 6 of H. Res. 1160.
+- 2024-04-20 — Pursuant to the provisions of H. Res. 1160, the House took from the Speaker's table the bill H.R. 815 with the Senate amendment, and agreed to the Senate amendment with the amendment described in section 6.
+- 2024-04-20 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to without objection.
