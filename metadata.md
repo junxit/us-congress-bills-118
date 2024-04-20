@@ -1,7 +1,7 @@
 ---
 measure: H.R. 815
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 815
@@ -16,7 +16,7 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (284)
+## Cosponsors (288)
 
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
@@ -24,6 +24,10 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
@@ -307,7 +311,7 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 
 - House — Veterans' Affairs Committee
 
-## Recorded votes (10)
+## Recorded votes (14)
 
 - 2023-12-06 — [Senate 118-1-332](votes/senate-118-1-0332.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (49–51)
 - 2024-02-07 — [Senate 118-2-39](votes/senate-118-2-0039.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (49–50)
@@ -319,6 +323,10 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - 2024-02-12 — [Senate 118-2-46](votes/senate-118-2-0046.md) — On the Amendment — **Amendment Agreed to** (66–33)
 - 2024-02-12 — [Senate 118-2-47](votes/senate-118-2-0047.md) — On the Cloture Motion — **Cloture Motion Agreed to** (66–33)
 - 2024-02-13 — [Senate 118-2-48](votes/senate-118-2-0048.md) — On Passage of the Bill — **Bill Passed** (70–29)
+- 2024-04-23 — [Senate 118-2-151](votes/senate-118-2-0151.md) — On the Motion to Table — **Motion to Table Failed** (48–50)
+- 2024-04-23 — [Senate 118-2-152](votes/senate-118-2-0152.md) — On the Cloture Motion — **Cloture Motion Agreed to** (80–19)
+- 2024-04-23 — [Senate 118-2-153](votes/senate-118-2-0153.md) — On the Motion — **Motion Agreed to** (75–20)
+- 2024-04-23 — [Senate 118-2-154](votes/senate-118-2-0154.md) — On the Motion — **Motion Agreed to** (79–18)
 
 ## Actions
 
@@ -1110,3 +1118,233 @@ Making emergency supplemental appropriations for the fiscal year ending Septembe
 - 2024-04-20 — Pursuant to H. Res. 1160, the Senate amendment to H.R. 815 is considered as agreed to with the amendment described in section 6 of H. Res. 1160.
 - 2024-04-20 — Pursuant to the provisions of H. Res. 1160, the House took from the Speaker's table the bill H.R. 815 with the Senate amendment, and agreed to the Senate amendment with the amendment described in section 6.
 - 2024-04-20 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to without objection.
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — 
+- 2024-04-23 — Amendment SA 1842 proposed by Senator Schumer. (consideration: CR S2944, S2992) To add an effective date.
+- 2024-04-23 — Amendment SA 1843 proposed by Senator Schumer to Amendment SA 1842. (consideration: CR S2944) To add an effective date.
+- 2024-04-23 — Amendment SA 1844 proposed by Senator Schumer. (consideration: CR S2944, S2961) To add an effective date.
+- 2024-04-23 — Amendment SA 1845 proposed by Senator Schumer to Amendment SA 1844 (the instructions of the motion to refer). (consideration: CR S2944) To add an effective date.
+- 2024-04-23 — Amendment SA 1846 proposed by Senator Schumer to Amendment SA 1845. (consideration: CR S2944) To add an effective date.
+- 2024-04-23 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 815 presented in Senate. (CR S2943-2944)
+- 2024-04-23 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 815 invoked in Senate by Yea-Nay Vote. 80 - 19. Record Vote Number: 152. (CR S2960-2961)
+- 2024-04-23 — Measure laid before Senate by unanimous consent. (consideration: CR S2943-2992)
+- 2024-04-23 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2024-04-23 — Message on Senate action sent to the House.
+- 2024-04-23 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 815 with an amendment (SA 1842) made in Senate. (CR S2944)
+- 2024-04-23 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 815. (CR S2943)
+- 2024-04-23 — Motion by Senator Schumer to refer to Senate Committee on Appropriations the House message to accompany H.R. 815 with instructions to report back forthwith with the following amendment (SA 1844) made in Senate. (CR S2944)
+- 2024-04-23 — Motion by Senator Schumer to refer to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1844) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 815 in Senate.
+- 2024-04-23 — Motion to table the motion to refer the House message to accompany H.R. 815 to the Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 1844) rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 151.
+- 2024-04-23 — Motion to waive all applicable budgetary discipline with respect to the measure (the motion to concur in the House amendment to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 75 - 20. Record Vote Number: 153. (CR S2991)
+- 2024-04-23 — Point of order by Senator Lee pursuant to section 314(e) of the Congressional Budget Act of 1974 against the measure raised in Senate.
+- 2024-04-23 — Proposed amendment SA 1842 withdrawn in Senate.
+- 2024-04-23 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 815 by Yea-Nay Vote. 79 - 18. Record Vote Number: 154.
+- 2024-04-23 — SA 1843 fell when SA 1842 was withdrawn.
+- 2024-04-23 — SA 1844 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 815.
+- 2024-04-23 — SA 1845 fell when SA 1844 (the instructions of the motion to refer) fell.
+- 2024-04-23 — SA 1846 fell when SA 1845 fell.
+- 2024-04-23 — Senate agreed to the House amendment to the Senate amendment to H.R. 815 by Yea-Nay Vote. 79 - 18. Record Vote Number: 154.
+- 2024-04-23 — Senate amendment proposed (on the floor): Amendment SA 1842 proposed by Senator Schumer.
+- 2024-04-23 — Senate amendment proposed (on the floor): Amendment SA 1843 proposed by Senator Schumer to Amendment SA 1842.
+- 2024-04-23 — Senate amendment proposed (on the floor): Amendment SA 1844 proposed by Senator Schumer.
+- 2024-04-23 — Senate amendment proposed (on the floor): Amendment SA 1845 proposed by Senator Schumer to Amendment SA 1844 (the instructions of the motion to refer).
+- 2024-04-23 — Senate amendment proposed (on the floor): Amendment SA 1846 proposed by Senator Schumer to Amendment SA 1845.
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-23 — Senate amendment submitted
+- 2024-04-24 — Became Public Law No: 118-50.
+- 2024-04-24 — Became Public Law No: 118-50.
+- 2024-04-24 — Presented to President.
+- 2024-04-24 — Presented to President.
+- 2024-04-24 — Signed by President.
+- 2024-04-24 — Signed by President.
