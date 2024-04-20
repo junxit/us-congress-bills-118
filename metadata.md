@@ -1,7 +1,7 @@
 ---
 measure: S. 3998
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3998
@@ -16,7 +16,7 @@ Federal Judiciary Stabilization Act of 2024
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
@@ -35,6 +35,8 @@ Federal Judiciary Stabilization Act of 2024
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
 
 ## Committees (1)
 
@@ -44,3 +46,7 @@ Federal Judiciary Stabilization Act of 2024
 
 - 2024-03-20 — Introduced in Senate
 - 2024-03-20 — Read twice and referred to the Committee on the Judiciary.
+- 2024-04-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2928-2929; text: CR S2929)
+- 2024-04-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-04-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-04-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
