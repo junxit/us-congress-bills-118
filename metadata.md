@@ -1,7 +1,7 @@
 ---
 measure: S. 3687
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3687
@@ -28,3 +28,7 @@ Preventing Child Trafficking Act of 2024
 
 - 2024-01-30 — Introduced in Senate
 - 2024-01-30 — Read twice and referred to the Committee on the Judiciary.
+- 2024-04-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2928; text: CR S2928)
+- 2024-04-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-04-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-04-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
