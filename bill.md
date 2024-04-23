@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3724
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,35 +19,22 @@ This Act may be cited as the “Accreditation for College Excellence Act of 2023
   - **(1)** by striking “and” at the end of paragraph (8);
   - **(2)** in paragraph (9), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(10)** confirms that—
-    >   - **(A)** the standards for accreditation of the agency or association do not—
-    >     - **(i)** except as provided in clause (ii)—
-    >       - **(I)** require, encourage, or coerce any institution to—
-    >         - **(aa)** support, oppose, or commit to supporting or opposing—
-    >           - **(AA)** a specific partisan or political belief or set of beliefs; or
-    >           - **(BB)** a particular viewpoint on a social or political issue; or
-    >         - **(bb)** support or commit to supporting the disparate treatment of any individual or group of individuals on the basis of sex, race, or ethnicity, except as required by Federal law; or
-    >       - **(II)** assess an institution’s commitment to any ideology, belief, or viewpoint;
-    >     - **(ii)** prohibit an institution—
-    >       - **(I)** from having a religious mission, operating as a religious institution, or being controlled by a religious organization (in a manner described in paragraph (1), (2), (3), (4), (5), or (6) of section 106.12(c) of title 34, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph)), or from requiring an applicant, student, or employee of such an institution to—
-    >         - **(aa)** provide or adhere to a statement of faith; or
-    >         - **(bb)** adhere to a code of conduct consistent with the stated religious mission of such institution or the religious tenets of such organization; or
-    >       - **(II)** from requiring an applicant, student, or employee to take an oath to uphold the Constitution of the United States; or
-    >     - **(iii)** require, encourage, or coerce an institution of higher education to violate any right protected by the Constitution; and
-    >   - **(B)** no institution of higher education subject to its jurisdiction will—
-    >     - **(i)** be required, encouraged, or coerced by the agency or association to—
-    >       - **(I)** support, oppose, or make a commitment to supporting or opposing any belief or viewpoint described in subparagraph (A)(i)(I)(aa); or
-    >       - **(II)** support or commit to supporting the treatment described in subparagraph (A)(i)(I)(bb);
-    >     - **(ii)** be assessed by the agency or association in the manner described in subparagraph (A)(i)(II);
-    >     - **(iii)** be prohibited by the agency or association from—
-    >       - **(I)** having a religious mission, operating as a religious institution, or being controlled by a religious organization as described in subparagraph (A)(ii)(I); or
-    >       - **(II)** requiring an applicant, student, or employee to take an action, as described in subparagraph (A)(ii)(II); or
-    >     - **(iv)** be required, encouraged, or coerced to commit a violation described in subparagraph (A)(iii).
+    > - **(10)** confirms that the standards for accreditation of the agency or association do not—
+    >   - **(A)** except as provided in subparagraph (B)—
+    >     - **(i)** require, encourage, or coerce any institution to—
+    >       - **(I)** support, oppose, or commit to supporting or opposing—
+    >         - **(aa)** a specific partisan, political, or ideological viewpoint or belief or set of such viewpoints or beliefs; or
+    >         - **(bb)** a a specific viewpoint or belief or set of viewpoints or beliefs on social, cultural, or political issues; or
+    >       - **(II)** support or commit to supporting the disparate treatment of any individual or group of individuals on the basis of any protected class under Federal civil rights law, except as required by Federal law or a court order; or
+    >     - **(ii)** assess an institution’s or program of study’s commitment to any ideology, belief, or viewpoint;
+    >   - **(B)** prohibit an institution—
+    >     - **(i)** from having a religious mission, operating as a religious institution, or being controlled by a religious organization (in a manner described in paragraph (1), (2), (3), (4), (5), or (6) of section 106.12(c) of title 34, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph)), or from requiring an applicant, student, employee, or independent contractor (such as an adjunct professor) of such an institution to—
+    >       - **(I)** provide or adhere to a statement of faith; or
+    >       - **(II)** adhere to a code of conduct consistent with the stated religious mission of such institution or the religious tenets of such organization; or
+    >     - **(ii)** from requiring an applicant, student, employee, or contractor to take an oath to uphold the Constitution of the United States; or
+    >   - **(C)** require, encourage, or coerce an institution of higher education to violate any right protected by the Constitution.
 
-- **(b)** *Limitation on scope of criteria* Section 496(g) of the Higher Education Act of 1965 (20 U.S.C. 1099b(g)) is amended—
-  - **(1)** in the first sentence, by striking “Nothing in” and inserting the following:
-    > - **(1)** *Rules of construction* Nothing in
-
-  - **(2)** by striking the second sentence; and
-  - **(3)** by adding at the end the following:
-    > - **(2)** *Prohibition* No accrediting agency or association may adopt standards for accreditation not provided for in this section.
+- **(b)** *Limitation on scope of criteria* Section 496(g) of the Higher Education Act of 1965 (20 U.S.C. 1099b(g)) is amended to read as follows:
+  > - **(g)** *Limitation on scope of criteria*
+  >   - **(1)** *In general* The Secretary shall not establish criteria for accrediting agencies or associations that are not required by this section.
+  >   - **(2)** *Institutional eligibility* An institution of higher education shall be eligible for participation in programs under this title if the institution is in compliance with the standards of its accrediting agency or association that assess the institution in accordance with subsection (a)(5), regardless of any additional standards adopted by the agency or association for purposes unrelated to participation in programs under this title.
