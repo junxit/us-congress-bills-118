@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7987
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7987
@@ -29,3 +29,8 @@ Plain Language in Contracting Act
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Referred to the House Committee on Small Business.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2024-04-26 — Placed on the Union Calendar, Calendar No. 390.
+- 2024-04-26 — Reported by the Committee on Small Business. H. Rept. 118-471.
+- 2024-04-26 — Reported by the Committee on Small Business. H. Rept. 118-471.
