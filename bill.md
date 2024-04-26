@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5333
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,29 +15,48 @@ This Act may be cited as the “Investing in All of America Act of 2023”.
 
 ## § 2. SBIC maximum leverage exclusion
 
-- **(a)** *In general* Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)) is amended—
-  - **(1)** in subparagraph (C)—
+- **(a)** *Definitions* Section 103(9) of the Small Business Investment Act of 1958 (15 U.S.C. 662(9)) is amended—
+  - **(1)** in subparagraph (A)(ii), by striking “and” at the end;
+  - **(2)** in subparagraph (B)(iii)—
+    - **(A)** in subclause (I), by striking “established prior to October 1, 1987”;
+    - **(B)** in subclause (II)—
+      - **(i)** by striking “or” and inserting “,”; and
+      - **(ii)** by inserting “, or a foundation, endowment, or trust of a college or university” after “pension plan”; and
+    - **(C)** in subclause (III), by striking the semicolon at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(C)** does not include any funds obtained directly or indirectly from any Federal, State or local government or any government agency or instrumentality, except for funds described in subclauses (I) through (III) of subparagraph (B)(iii), for the purpose of approval by the Administrator of any request for leverage.
+
+- **(b)** *In general* Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)) is amended—
+  - **(1)** in subparagraph (A)(i), by striking “300” and inserting “200”;
+  - **(2)** in subparagraph (C)—
     - **(A)** in the heading—
       - **(i)** by inserting “or rural” after “low-income”; and
       - **(ii)** by inserting “or critical technology areas” after “geographic areas”;
     - **(B)** in clause (i)—
-      - **(i)** by inserting “or companies” after “of a company”;
-      - **(ii)** by striking “subparagraph (A)” and inserting “subparagraphs (A) and (B)”;
-      - **(iii)** by striking “equity”;
-      - **(iv)** by striking “the company in a smaller enterprise” and all that follows and inserting the following:
+      - **(i)** by striking “(i) In calculating” and inserting the following:
+        > - **(i)** *In general* Except as provided in clause (iii), in calculating
+
+      - **(ii)** by inserting “or companies” after “of a company”;
+      - **(iii)** by striking “subparagraph (A)” and inserting “subparagraphs (A) and (B)”;
+      - **(iv)** by striking “equity”;
+      - **(v)** by striking “the company in a smaller enterprise” and all that follows and inserting the following:
         > the company or companies in—
         > - **(I)** a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title) or in a rural area; or
 
-      - **(v)** by adding at the end the following new subclause:
+      - **(vi)** by adding at the end the following new subclause:
         > - **(II)** a small business concern in an area of critical technology (as defined in section 4801 of title 10, United States Code) vital to maintaining the national security of the United States.
 
     - **(C)** by amending clause (ii) to read as follows:
-      > - **(ii)** *Limitation* The aggregate amount excluded for a company or companies under clause (i) from the calculation of the outstanding leverage of such company or companies for the purposes of subparagraphs (A) and (B) may not exceed 50 percent of the private capital of such company or companies.
+      > - **(ii)** *Limitation* While maintaining the limitation of subparagraph (A)(i) and consistent with a leverage determination ratio issued pursuant to section 301(c), the aggregate amount excluded for a company or companies under clause (i) from the calculation of the outstanding leverage of such company or companies for the purposes of subparagraphs (A) and (B) may not exceed the lesser of 50 percent of the private capital of such company or companies or $125,000,000.
 
-    - **(D)** by striking clause (iii); and
-  - **(2)** by adding at the end the following new subparagraphs:
+    - **(D)** by amending clause (iii) to read as follows:
+      > - **(iii)** *Prospective applicability* An investment by a licensee is eligible for exclusion from the calculation of outstanding leverage under clause (i) only if such investment is made by such licensee after the date of enactment of the Investing in All of America Act of 2023.
+
+  - **(3)** by adding at the end the following new subparagraphs:
     > - **(E)** *Annual adjustment* The Administrator shall adjust the dollar amounts described in subparagraphs (A) and (B)—
-    >   - **(i)** on the date of the enactment of this subparagraph, by a percentage equal to the percentage (if any) by which the Consumer Price Index (all items; United States city average), as published by the Bureau of Labor Statistics, increased during the period beginning on the date of the most recent adjustment to each such dollar amount and the date of the enactment of this subparagraph; and
+    >   - **(i)** on the date of the enactment of this subparagraph, by a percentage equal to the percentage (if any) by which the Consumer Price Index (all items; United States city average), as published by the Bureau of Labor Statistics, increased during the period—
+    >     - **(I)** beginning on December 18, 2015, and ending on the date of the enactment of this subparagraph, for subparagraph (B); and
+    >     - **(II)** beginning on June 21, 2018, and ending on the date of the enactment of this subparagraph, for subparagraph (A); and
     >   - **(ii)** on the date that is one year after the date of the enactment of this subparagraph, and annually thereafter, by a percentage equal to the percentage (if any) by which the Consumer Price Index (all items; United States city average), as published by the Bureau of Labor Statistics, increased during the one-year period preceding the date of the adjustment under this clause.
 
-- **(b)** *Report* Not later than June 30 of the first year beginning after the date of the enactment of this Act, and annually thereafter, the Administrator of the Small Business Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of the exclusion under subparagraph (C) of section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)), as amended by subsection (a), including the economic activity generated and jobs directly and indirectly created by the exclusion.
+- **(c)** *Report* Not later than June 30 of the first year beginning after the date of the enactment of this Act, and annually thereafter, the Administrator of the Small Business Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of the exclusion under subparagraph (C) of section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)), as amended by subsection (a), including the economic activity generated and jobs directly and indirectly created by the exclusion.

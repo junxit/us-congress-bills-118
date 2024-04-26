@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5333
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5333
@@ -16,9 +16,23 @@ Investing in All of America Act of 2023
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 
-## Cosponsors (1)
+## Cosponsors (15)
 
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Kim, Young [R-CA-40] (K000397)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Luetkemeyer, Blaine [R-MO-3] (L000569)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Landsman, Greg [D-OH-1] (L000601)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +43,8 @@ Investing in All of America Act of 2023
 - 2023-09-01 — Introduced in House
 - 2023-09-01 — Introduced in House
 - 2023-09-01 — Referred to the House Committee on Small Business.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.
+- 2024-04-26 — Placed on the Union Calendar, Calendar No. 388.
+- 2024-04-26 — Reported (Amended) by the Committee on Small Business. H. Rept. 118-469.
+- 2024-04-26 — Reported (Amended) by the Committee on Small Business. H. Rept. 118-469.
