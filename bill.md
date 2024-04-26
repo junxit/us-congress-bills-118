@@ -55,7 +55,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 
 > ## § 112C. Freedom of association and religion
 >
-> - **(a)** *Students’ bill of rights To further protect speech and association*
+> - **(a)** *Students’ bill of rights to further protect speech and association*
 >   - **(1)** *Protected rights* A covered public institution shall comply with the following requirements:
 >     - **(A)** *Recognized student organizations* A covered public institution that has recognized student organizations shall comply with the following requirements:
 >       - **(i)** *Faculty advisors*
@@ -96,13 +96,13 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 > - **(b)** *Equal campus access* A covered public institution shall not deny to a religious student organization any right, benefit, or privilege that is otherwise afforded to other student organizations at the institution (including full access to the facilities of the institution and official recognition of the organization by the institution) because of the religious beliefs, practices, speech, leadership standards, or standards of conduct of the religious student organization.
 > - **(c)** *Freedom of association*
 >   - **(1)** *Upholding freedom of association protections* Any student (or group of students) enrolled in an institution of higher education that receives funds under this Act, including through an institution’s participation in any program under title IV, shall—
->     - **(A)** subject to paragraph (3)(A), be able to form a single-sex social organization, whether recognized by the institution or not;
+>     - **(A)** subject to paragraph (3)(A), be able to form a single-sex social organization, whether recognized by the institution or not; and
 >     - **(B)** be able to apply to join any single-sex social organization; and
 >     - **(C)** if selected for membership by any single-sex social organization, be able to join, and participate in, such single-sex organization, subject to its standards for regulating its own membership, as provided under paragraph (3)(C).
->   - **(2)** *Non-retaliation against students of single-sex social organizations* An institution of higher education that receives funds under this Act, including through an institution’s participation in any program under title IV, shall not—
+>   - **(2)** *Nonretaliation against students of single-sex social organizations* An institution of higher education that receives funds under this Act, including through an institution’s participation in any program under title IV, shall not—
 >     - **(A)** take any action to require or coerce a student or prospective student who is a member or prospective member of a single-sex social organization to waive the protections provided under paragraph (1), including as a condition of enrolling in the institution;
 >     - **(B)** take any adverse action against a single-sex social organization, or a student who is a member or a prospective member of a single-sex social organization, based on the membership practice of such organization limiting membership only to individuals of one sex; or
->     - **(C)** impose a recruitment restriction (including a recruitment restriction relating to the schedule for membership recruitment) on a single-sex social organization recognized by the institution, which is not imposed upon other student organizations by the institution, unless the organization (or a council of similar organizations) and the institution have entered into a mutually agreed-upon written agreement that allows the institution to impose such restriction.
+>     - **(C)** impose a recruitment restriction (including a recruitment restriction relating to the schedule for membership recruitment) on a single-sex social organization recognized by the institution, which is not imposed upon other student organizations by the institution, unless the organization (or a council of similar organizations) and the institution have entered into a mutually agreed upon written agreement that allows the institution to impose such restriction.
 >   - **(3)** *Rules of construction* Nothing in this subsection shall—
 >     - **(A)** require an institution of higher education to officially recognize a single-sex social organization;
 >     - **(B)** prohibit an institution of higher education from taking an adverse action against a student who organizes, leads, or joins a single-sex social organization—
@@ -129,6 +129,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 >     - **(B)** *Single-sex social organization* The term “single-sex social organization” means—
 >       - **(i)** a social fraternity or sorority described in section 501(c) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code, or an organization that has been historically single-sex, the active membership of which consists primarily of students or alumni of an institution of higher education; or
 >       - **(ii)** a single-sex private social club (including an independent organization located off-campus) that consists primarily of students or alumni of an institution of higher education.
+> - **(d)** *Construction* Nothing in this section shall be construed to prohibit an institution of higher education from taking any adverse action (such as denying or revoking recognition, funding, use of institutional venues or resources, or other privileges granted by the institution) against a student organization based on the student organization having knowingly provided material support or resources to an organization designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 
 ## § 5. Free speech on campus
 
@@ -140,8 +141,9 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 >   - **(1)** at each orientation for new and transfer students, provide students attending the orientation—
 >     - **(A)** a written statement that—
 >       - **(i)** explains the rights of students under the First Amendment to the Constitution;
->       - **(ii)** affirms the importance of, and the commitment of the institution to, freedom of expression; and
->       - **(iii)** includes assurances that students, and individuals invited by students to speak at the institution, will not be treated in a manner that violates the freedom of expression of such students or individuals; and
+>       - **(ii)** affirms the importance of, and the commitment of the institution to, freedom of expression;
+>       - **(iii)** explains students’ protections under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and the procedures for filing a discrimination claim with the Office for Civil Rights of the Department of Education; and
+>       - **(iv)** includes assurances that students, and individuals invited by students to speak at the institution, will not be treated in a manner that violates the freedom of expression of such students or individuals; and
 >     - **(B)** educational programming (including online resources) that describes their free speech rights and responsibilities under the First Amendment to the Constitution; and
 >   - **(2)** post on the publicly accessible website of the institution the statement described in paragraph (1)(A).
 > - **(b)** *Campus free speech and restoration*
@@ -152,7 +154,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 >       - **(iii)** carrying a sign;
 >       - **(iv)** circulating a petition; or
 >       - **(v)** other expressive activities guaranteed under the First Amendment to the Constitution;
->     - **(B)** applies equally to religious expression as it does to non-religious expression; and
+>     - **(B)** applies equally to religious expression as it does to nonreligious expression; and
 >     - **(C)** does not include unprotected speech (as defined by the precedents of the Supreme Court of the United States).
 >   - **(2)** *Expressive activities at an institution*
 >     - **(A)** *In general* A covered public institution may not prohibit, subject to subparagraph (B), a person from freely engaging in noncommercial expressive activity in a generally accessible area on the institution’s campus if the person’s conduct is lawful. The publicly accessible outdoor areas of campuses of public institutions of higher education shall be regulated pursuant to rules applicable to traditional public forums.
@@ -167,7 +169,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
 >   - **(1)** *In general* A covered public institution may not consider, require, or discriminate on the basis of a political test in the admission, appointment, hiring, employment, or promotion of any covered individual, or in the granting of tenure to any covered individual.
 >   - **(2)** *Rule of construction* Nothing in this subsection shall be construed—
 >     - **(A)** to prohibit an institution of higher education whose primary purpose is the education of individuals for the military services of the United States, or the merchant marine, from requiring an applicant, student, or employee to take an oath to uphold the Constitution of the United States;
->     - **(B)** to prohibit an institution of higher education from requiring a student, faculty member, or employee to comply with Federal or State anti-discrimination laws or from taking action against a student, faculty member, or employee for violations of Federal or State anti-discrimination laws, as applicable;
+>     - **(B)** to prohibit an institution of higher education from requiring a student, faculty member, or employee to comply with Federal or State antidiscrimination laws or from taking action against a student, faculty member, or employee for violations of Federal or State anti-discrimination laws, as applicable;
 >     - **(C)** to prohibit an institution of higher education from evaluating a prospective student, an employee, or a prospective employee based on their knowingly providing material support or resources to an organization designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189);
 >     - **(D)** to prohibit an institution of higher education from considering the subject-matter competency including the research and creative works, of any candidate for a faculty position or faculty member considered for promotion when the subject matter is germane to their given field of scholarship; or
 >     - **(E)** to apply to activities of registered student organizations.
@@ -209,12 +211,12 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
   >       - **(ii)** reasonable court costs; and
   >       - **(iii)** reasonable attorney’s fees.
   >   - **(3)** *Statute of limitations* A civil action under this subsection may not be commenced later than 2 years after the cause of action accrues. For purposes of calculating the two-year limitation period, each day that the violation of a requirement described in section 112B, 112C, or 112D persists, and each day that a policy in violation of a requirement described in section 112B, 112C, or 112D remains in effect, shall constitute a new day that the cause of action has accrued.
-  > - **(b)** *Non-Default, final judgment* In the case of a court’s non-default, final judgment in a civil action brought under subsection (a) that a covered public institution is in violation of a requirement described in section 112B, 112C, or 112D, such covered public institution shall—
-  >   - **(1)** not later than 7 days after the date on which the court makes such a non-default, final judgment, notify the Secretary of such judgment and submit to the Secretary a copy of the non-default, final judgment; and
-  >   - **(2)** not later than 30 days after the date on which the court makes such a non-default, final judgment, submit to the Secretary a report that—
+  > - **(b)** *Nondefault, final judgment* In the case of a court’s nondefault, final judgment in a civil action brought under subsection (a) that a covered public institution is in violation of a requirement described in section 112B, 112C, or 112D, such covered public institution shall—
+  >   - **(1)** not later than 7 days after the date on which the court makes such a nondefault, final judgment, notify the Secretary of such judgment and submit to the Secretary a copy of the nondefault, final judgment; and
+  >   - **(2)** not later than 30 days after the date on which the court makes such a nondefault, final judgment, submit to the Secretary a report that—
   >     - **(A)** certifies that the standard, policy, practice, or procedure that is in violation of the requirement described in section 112B, 112C, or 112D is no longer in use; and
   >     - **(B)** provides evidence to support such certification.
-  > - **(c)** *Revocation of eligibility* In the case of a covered public institution that does not notify the Secretary as required under subsection (b)(1) or submit the report required under subsection (b)(2), the Secretary shall revoke the eligibility of such institution to participate in a program authorized under title IV for each award year following the conclusion of the award year in which a court made a non-default, final judgment in a civil action brought under subsection (a) that the institution is in violation of a requirement described in section 112B, 112C, or 112D.
+  > - **(c)** *Revocation of eligibility* In the case of a covered public institution that does not notify the Secretary as required under subsection (b)(1) or submit the report required under subsection (b)(2), the Secretary shall revoke the eligibility of such institution to participate in a program authorized under title IV for each award year following the conclusion of the award year in which a court made a nondefault, final judgment in a civil action brought under subsection (a) that the institution is in violation of a requirement described in section 112B, 112C, or 112D.
   > - **(d)** *Restoration of eligibility*
   >   - **(1)** *In general* A covered public institution that loses eligibility under subsection (c) to participate in a program authorized under title IV may seek to restore such eligibility by submitting to the Secretary the report described in subsection (b)(2).
   >   - **(2)** *Determination by the Secretary* Not later than 90 days after a covered public institution submits a report under paragraph (1), the Secretary shall review such report and make a determination with respect to whether such report contained sufficient evidence to demonstrate that such institution is no longer in violation of a requirement described in section 112B, 112C, or 112D.
@@ -223,6 +225,6 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section
   >   - **(1)** a compilation of—
   >     - **(A)** the notifications of violation received by the Secretary under subsection (b)(1) in the year for which such report is being submitted; and
   >     - **(B)** the reports submitted to the Secretary under subsection (b)(2) for such year; and
-  >   - **(2)** any action taken by the Secretary revoke or restore eligibility under subsections (c) and (d) for such year.
+  >   - **(2)** any action taken by the Secretary to revoke or restore eligibility under subsections (c) and (d) for such year.
   > - **(f)** *Voluntary waiver of State and local sovereign immunity as condition of receiving Federal funding* The receipt, on or after the date of enactment of this section, of any Federal funding under title IV of this Act by a State or political subdivision of a State (including any municipal or county government) is deemed to constitute a clear and unequivocal expression of, and agreement to, waiving sovereign immunity under the 11th Amendment to the Constitution or otherwise, to a civil action for injunctive relief, compensatory damages, court costs, and attorney’s fees under this section.
-  > - **(g)** *Definition* In this section, the term non-default, final judgment means a final judgment by a court for a civil action brought under subsection (a) that a covered public institution is in violation of a requirement described in section 112B, 112C, or 112D that the covered public institution chooses not to appeal or that is not subject to further appeal.
+  > - **(g)** *Definition* In this section, the term nondefault, final judgment means a final judgment by a court for a civil action brought under subsection (a) that a covered public institution is in violation of a requirement described in section 112B, 112C, or 112D that the covered public institution chooses not to appeal or that is not subject to further appeal.
