@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 8133
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8133
+
+> To amend title 10, United States Code, to permit the Secretary concerned to furnish mortuary services in the case of certain citizens of the United States who die outside of the United States, and for other purposes.
+
+## § 1. Military mortuary services for civilians
+
+- **(a)** *Military mortuary services* Section 1486(a) of title 10, United States Code, is amended—
+  - **(1)** by inserting “or if the individual arranging for mortuary services and supplies for a decedent believes the local commercial mortuary services and supplies are undesirable,” after “prohibitive,”;
+  - **(2)** in paragraph (6), by striking “this section” and inserting “paragraphs (1) through (5)”; and
+  - **(3)** by adding at the end the following:
+    > - **(7)** Any person not otherwise covered by this section if a mortuary facility under the jurisdiction of the Secretary concerned has the capacity and personnel to provide such services and supplies.
+
+- **(b)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act and shall apply with respect to a death occurring on or after such date.
