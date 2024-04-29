@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1069
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1069
@@ -38,3 +38,9 @@ Clean Energy Demonstration Transparency Act of 2023
 - 2023-09-21 — Placed on the Union Calendar, Calendar No. 172.
 - 2023-09-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-212.
 - 2023-09-21 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-212.
+- 2024-04-29 — Considered under suspension of the rules. (consideration: CR H2651-2652)
+- 2024-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1069.
+- 2024-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-29 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2024-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2651)
+- 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2651)
