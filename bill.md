@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 8163
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8163
+
+> To amend title 10, United States Code, to permanently add stainless steel flatware to the list of covered items required to be procured from American sources, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Ordinance Requiring Kitchenware Specifically Made in America Act” or the “FORKS Made in America Act”.
+
+## § 2. Permanent addition of domestically produced stainless steel flatware to the Berry Amendment
+
+- **(a)** *Addition to covered items*
+  - **(1)** *In general* Section 4862(b) is amended by adding at the end the following new paragraph:
+    > - **(3)** Stainless steel flatware.
+
+  - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect on October 1, 2023.
+- **(b)** *Conforming amendment* Section 854(a)(3) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking “paragraphs (3) and (4)” and inserting “paragraph (4)”.
