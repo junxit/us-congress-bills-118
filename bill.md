@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Information Quality Assurance Act of 2024”.
+This Act may be cited as the “Information Quality Assurance Act”.
 
 ## § 2. Information Quality Assurance
 
 - **(a)** *In general* Subchapter 1 of chapter 35 of title 44, United States Code, is amended by adding at the end the following:
   > ## § 3522. Information Quality Assurance.
   >
-  > - **(a)** *In general* Not later than 1 year after the date of the enactment of the Information Quality Assurance Act of 2024, the Director shall—
+  > - **(a)** *In general* Not later than 1 year after the date of the enactment of the Information Quality Assurance Act, the Director shall—
   >   - **(1)** with public and Federal agency involvement, update the guidelines issued under subsection (a) of the Information Quality Act—
   >     - **(A)** to provide policy and procedural guidance to the heads of Federal agencies for better ensuring and maximizing the quality, objectivity, utility, and integrity of influential information or evidence—
   >       - **(i)** used by the heads of Federal agencies to develop or issue rules and guidance; or
