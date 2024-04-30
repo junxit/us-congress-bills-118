@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4866
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4866
@@ -21,9 +21,10 @@ Fire Weather Development Act of 2024
 - Rep. Caraveo, Yadira [D-CO-8] (C001134)
 - Rep. Kim, Young [R-CA-40] (K000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Fire Weather Development Act of 2024
 - 2024-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 48 (Roll no. 153). (text: CR H2646-2649)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 48 (Roll no. 153). (text: CR H2646-2649)
 - 2024-04-29 — The title of the measure was amended. Agreed to without objection.
+- 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
