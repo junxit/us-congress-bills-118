@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3195
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3195
@@ -36,6 +36,11 @@ Superior National Forest Restoration Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2024-04-30 — [House 118-2-170](votes/house-118-2-0170.md) — On Motion to Recommit — **Failed** (205–210)
+- 2024-04-30 — [House 118-2-171](votes/house-118-2-0171.md) — On Passage — **Passed** (212–203)
+
 ## Actions
 
 - 2023-05-10 — Introduced in House
@@ -49,3 +54,21 @@ Superior National Forest Restoration Act
 - 2024-02-09 — Placed on the Union Calendar, Calendar No. 308.
 - 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-377.
 - 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-377.
+- 2024-04-29 — Rules Committee Resolution H. Res. 1173 Reported to House. Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-30 — Considered as unfinished business. (consideration: CR H2752-2754)
+- 2024-04-30 — Considered under the provisions of rule H. Res. 1173. (consideration: CR H2718-2728)
+- 2024-04-30 — DEBATE - The House proceeded with one hour of debate on H.R. 3195.
+- 2024-04-30 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-30 — House amendment offered
+- 2024-04-30 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — Ms. McCollum moved to recommit to the Committee on Natural Resources. (text: CR H2728)
+- 2024-04-30 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-30 — On motion to recommit Failed by the Yeas and Nays: 205 - 210 (Roll no. 170).
+- 2024-04-30 — On passage Passed by the Yeas and Nays: 212 - 203 (Roll no. 171). (text of amendment in the nature of a substitute: CR H2718)
+- 2024-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3195, the Chair put the question on the motion to recommit and by voice vote announced that the noes had prevailed. Ms. McCollum demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 212 - 203 (Roll no. 171). (text of amendment in the nature of a substitute: CR H2718)
+- 2024-04-30 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-04-30 — The previous question was ordered pursuant to the rule.
