@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1069
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1069
@@ -24,9 +24,10 @@ Clean Energy Demonstration Transparency Act of 2023
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Clean Energy Demonstration Transparency Act of 2023
 - 2024-04-29 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2024-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2651)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2651)
+- 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
