@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4755
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4755
@@ -20,9 +20,10 @@ Privacy Enhancing Technology Research Act
 
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Privacy Enhancing Technology Research Act
 - 2024-04-29 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2024-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 354 - 36 (Roll no. 154). (text: CR H2652-2653)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 354 - 36 (Roll no. 154). (text: CR H2652-2653)
+- 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
