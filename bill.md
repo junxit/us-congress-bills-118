@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4877
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,7 +25,7 @@ This Act may be cited as the “Abandoned Well Remediation Research and Developm
     >   - **(3)** strategies to mitigate potential environmental impacts of documented and undocumented abandoned wells.
     > - **(b)** *Activities* The research, development, and demonstration under subsection (a) shall include activities to improve—
     >   - **(1)** remote sensor capabilities, LiDAR capabilities, optical gas imaging, magnetic survey technology, and any other technologies relevant to the efficient identification of abandoned wells;
-    >   - **(2)** understanding of how certain parameters of abandoned wells affect methane emission rates of such wells, including paramaters such as well age, well depth, geology, construction, case material, and geographic region;
+    >   - **(2)** understanding of how certain parameters of abandoned wells affect methane emission rates of such wells, including parameters such as well age, well depth, geology, construction, case material, and geographic region;
     >   - **(3)** the efficiency and cost-efficacy of processes for plugging, remediating, reclaiming, and repurposing abandoned wells, including—
     >     - **(A)** improvement of processes and technologies for the unique challenges associated with plugging remote abandoned wells;
     >     - **(B)** use of low carbon, lightweight cement or use of alternative materials and additives for plugging purposes; and
