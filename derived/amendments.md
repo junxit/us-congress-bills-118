@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7530
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 2(6) of the Youth Rehabilitation Act of 1985 (sec. 24–901(6), D.C. Official Code) is amended by striking “24 years of age or younger” and inserting “18 years of age or younger”. | the bill names no machine-readable US Code section |
 | — | strike | Section 3(a–1) of such Act (sec. 24–902(a–1), D.C. Official Code) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
-| — | replace | Section 4(a)(2) of such Act (sec. 24–903(a)(2), D.C. Official Code) is amended by striking “15 to 24 years of age” and inserting “15 to 18 years of age”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “(b)(1)” and inserting “(b)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
+| — | replace | Section 4(a)(2) of such Act (sec. 24–903(a)(2), D.C. Official Code) is amended by striking “15 to 24 years of age” and inserting “15 to 18 years of age15 to 18 years of age”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 23 of title 16, District of Columbia Official Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (h) the following new subsection: | the bill names no machine-readable US Code section |

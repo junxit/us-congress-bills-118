@@ -11,18 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “D. C. Criminal Reforms to Immediately Make Everyone Safe Act” or the “DC CRIMES Act”.
+This Act may be cited as the “D. C. Criminal Reforms to Immediately Make Everyone Safe Act of 2024” or the “DC CRIMES Act of 2024”.
 
 ## § 2. Youth offenders
 
-- **(a)** *Limiting youth offender status in District of Columbia to individuals 18 years of age or younger*
-  - **(1)** *Limitation* Section 2(6) of the Youth Rehabilitation Act of 1985 (sec. 24–901(6), D.C. Official Code) is amended by striking “24 years of age or younger” and inserting “18 years of age or younger”.
-  - **(2)** *Conforming amendments*
-    - **(A)** *Repeal consideration of individuals 18 through 24 years of age in strategic plan for facilities, treatment, and services* Section 3(a–1) of such Act (sec. 24–902(a–1), D.C. Official Code) is amended by striking paragraph (3).
-    - **(B)** *Community service for individuals under order of probation* Section 4(a)(2) of such Act (sec. 24–903(a)(2), D.C. Official Code) is amended by striking “15 to 24 years of age” and inserting “15 to 18 years of age”.
-- **(b)** *Prohibiting issuance of sentence less than mandatory-Minimum term* Section 4(b) of such Act (sec. 24–903(b), D.C. Official Code) is amended—
-  - **(1)** by striking “(b)(1)” and inserting “(b)”; and
-  - **(2)** by striking paragraph (2).
+- **(a)** *Limiting youth offender status in District of Columbia to individuals 18 years of age or younger* Section 2(6) of the Youth Rehabilitation Act of 1985 (sec. 24–901(6), D.C. Official Code) is amended by striking “24 years of age or younger” and inserting “18 years of age or younger”.
+- **(b)** *Conforming amendments*
+  - **(1)** *Repeal consideration of individuals 18 through 24 years of age in strategic plan for facilities, treatment, and services* Section 3(a–1) of such Act (sec. 24–902(a–1), D.C. Official Code) is amended by striking paragraph (3).
+  - **(2)** *Community service for individuals under order of probation* Section 4(a)(2) of such Act (sec. 24–903(a)(2), D.C. Official Code) is amended by striking “15 to 24 years of age” and inserting “15 to 18 years of age15 to 18 years of age”.
 
 ## § 3. Establishment and operation of website on District of Columbia juvenile crime statistics
 
@@ -77,4 +73,4 @@ Section 602(a) of the District of Columbia Home Rule Act (sec. 1–206.02(a), D.
 - **(1)** by striking “or” at the end of paragraph (9);
 - **(2)** by striking the period at the end of paragraph (10) and inserting “; or”; and
 - **(3)** by adding at the end the following new paragraph:
-  > - **(11)** enact any act, resolution, or rule to change any criminal liability sentence in effect on the date of the enactment of the DC CRIMES Act.
+  > - **(11)** enact any act, resolution, or rule to change any criminal liability sentence in effect on the date of the enactment of the DC CRIMES Act of 2024.
