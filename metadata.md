@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3722
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3722
@@ -54,3 +54,4 @@ Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Red
 - 2024-04-29 — Mrs. Kiggans (VA) moved to suspend the rules and pass the bill, as amended.
 - 2024-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2691)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2691)
+- 2024-04-30 — Received in the Senate.
