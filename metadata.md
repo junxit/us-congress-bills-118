@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7032
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7032
@@ -74,3 +74,12 @@ Congressional Budget Office Data Sharing Act
 - 2024-04-29 — Reported by the Committee on Budget. H. Rept. 118-474.
 - 2024-04-29 — Reported by the Committee on Budget. H. Rept. 118-474.
 - 2024-04-30 — Received in the Senate, read twice.
+- 2024-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5945-5946)
+- 2024-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-09-11 — Message on Senate action sent to the House.
+- 2024-09-18 — Presented to President.
+- 2024-09-18 — Presented to President.
+- 2024-09-30 — Became Public Law No: 118-89.
+- 2024-09-30 — Became Public Law No: 118-89.
+- 2024-09-30 — Signed by President.
+- 2024-09-30 — Signed by President.

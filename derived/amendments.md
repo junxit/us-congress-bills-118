@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7032
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
