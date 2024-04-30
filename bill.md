@@ -18,10 +18,10 @@ This Act may be cited as the “Veterans Economic Opportunity and Transition Adm
 - **(a)** *Veterans Economic Opportunity and Transition Administration*
   - **(1)** *In general* Part V of title 38, United States Code, is amended by adding at the end the following new chapter:
   - **(2)** *Clerical amendments* The tables of chapters at the beginning of title 38, United States Code, and of part V of title 38, United States Code, are each amended by inserting after the item relating to chapter 79 the following new item:
-- **(b)** *Effective date* Chapter 80 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2024.
-- **(c)** *Full-Time employees* For fiscal years 2024 and 2025, the total number of full-time equivalent employees authorized for the Veterans Benefits Administration and the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), may not exceed—
-  - **(1)** 34,228 in fiscal year 2024; and
-  - **(2)** 35,417 in fiscal year 2025.
+- **(b)** *Effective date* Chapter 80 of title 38, United States Code, as added by subsection (a), shall take effect on October 1, 2025.
+- **(c)** *Full-Time employees* For fiscal years 2025 and 2026, the total number of full-time equivalent employees authorized for the Veterans Benefits Administration and the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), may not exceed—
+  - **(1)** 34,228 in fiscal year 2025; and
+  - **(2)** 35,417 in fiscal year 2026.
 - **(d)** *Labor rights* Any labor rights, inclusion in the bargaining unit, and collective bargaining agreement that affects an employee of the Department of Veterans Affairs who is transferred to the Veterans Economic Opportunity and Transition Administration, as established under chapter 80 of title 38, United States Code, as added by subsection (a), shall apply in the same manner to such employee after such transfer.
 
 ## § 3. Under Secretary for Veterans Economic Opportunity and Transition
@@ -58,7 +58,7 @@ This Act may be cited as the “Veterans Economic Opportunity and Transition Adm
   - **(8)** in section 709(c)(2)(A), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”;
   - **(9)** in section 7701(a), by inserting after “assistance” the following: “, other than assistance related to Economic Opportunity and Transition,”; and
   - **(10)** in section 7703, by striking paragraphs (2) and (3) and redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively.
-- **(c)** *Effective date* Section 306A of title 38, United States Code, as added by subsection (a), and the amendments made by this section, shall take effect on October 1, 2024.
+- **(c)** *Effective date* Section 306A of title 38, United States Code, as added by subsection (a), and the amendments made by this section, shall take effect on October 1, 2025.
 
 ## § 4. Transfer of services
 
@@ -67,12 +67,12 @@ This Act may be cited as the “Veterans Economic Opportunity and Transition Adm
   - **(1)** the transition of the provision of services to such Administration will not negatively affect the provision of such services to veterans; and
   - **(2)** such services are ready to be transferred.
 - **(c)** *Deadline for certification* The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the certification required by subsection (b)—
-  - **(1)** no earlier than April 1, 2024; and
-  - **(2)** no later than September 1, 2024.
+  - **(1)** no earlier than April 1, 2025; and
+  - **(2)** no later than September 1, 2025.
 - **(d)** *Failure To certify* If the Secretary fails to submit the certification required by subsection (b) by the date specified in subsection (c)(2), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report that includes—
   - **(1)** the reason why the certification was not made by such date; and
   - **(2)** the estimated date when the certification will be made.
 
 ## § 5. Modification of certain housing loan fees
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 30, 2031”.
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “December 27, 2031”.

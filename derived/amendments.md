@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3738
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -79,4 +79,4 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 306` | insert | in section 709(c)(2)(A), by inserting after “Under Secretary for Benefits,” the following: “the Under Secretary for Veterans Economic Opportunity and Transition,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 306` | insert | in section 7701(a), by inserting after “assistance” the following: “, other than assistance related to Economic Opportunity and Transition,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 306` | redesignate | in section 7703, by striking paragraphs (2) and (3) and redesignating paragraphs (4) and (5) as paragraphs (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 30, 2031”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “December 27, 2031”. | the bill names no machine-readable US Code section |
