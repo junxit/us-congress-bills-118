@@ -11,11 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Western Economic Security Today Act of 2023” or the “WEST Act of 2023”.
+This Act may be cited as the “Western Economic Security Today Act of 2024” or the “WEST Act of 2024”.
 
-## § 2. Withdrawal of BLM proposed rule
+## § 2. Withdrawal of BLM rule
 
-The Director of the Bureau of Land Management—
-
-- **(1)** shall withdraw the proposed rule of the Bureau of Land Management entitled “Conservation and Landscape Health” (88 Fed. Reg. 19583 (April 3, 2023)); and
-- **(2)** shall not take any action to finalize, implement, or enforce the proposed rule described in paragraph (1) or any substantially similar rule.
+The final rule based on the proposed rule of the Bureau of Land Management entitled “Conservation and Landscape Health” (88 Fed. Reg. 19583 (April 3, 2023)) shall have no force or effect.

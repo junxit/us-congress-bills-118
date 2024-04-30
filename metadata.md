@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3397
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3397
@@ -43,6 +43,11 @@ WEST Act of 2024
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2024-04-30 — [House 118-2-164](votes/house-118-2-0164.md) — On Motion to Recommit — **Failed** (204–210)
+- 2024-04-30 — [House 118-2-165](votes/house-118-2-0165.md) — On Passage — **Passed** (212–202)
+
 ## Actions
 
 - 2023-05-17 — Introduced in House
@@ -54,3 +59,19 @@ WEST Act of 2024
 - 2024-02-09 — Placed on the Union Calendar, Calendar No. 309.
 - 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-378.
 - 2024-02-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-378.
+- 2024-04-29 — Rules Committee Resolution H. Res. 1173 Reported to House. Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-30 — Considered under the provisions of rule H. Res. 1173. (consideration: CR H2740-2750)
+- 2024-04-30 — DEBATE - The House proceeded with one hour of debate on H.R. 3397.
+- 2024-04-30 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-30 — House amendment offered
+- 2024-04-30 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — Ms. Kamlager-Dove moved to recommit to the Committee on Natural Resources. (text: CR H2748)
+- 2024-04-30 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-30 — On motion to recommit Failed by the Yeas and Nays: 204 - 210 (Roll no. 164).
+- 2024-04-30 — On passage Passed by recorded vote: 212 - 202 (Roll no. 165). (text of amendment in the nature of a substitute: CR H2740)
+- 2024-04-30 — Passed/agreed to in House: On passage Passed by recorded vote: 212 - 202 (Roll no. 165). (text of amendment in the nature of a substitute: CR H2740)
+- 2024-04-30 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-04-30 — The previous question was ordered pursuant to the rule.
