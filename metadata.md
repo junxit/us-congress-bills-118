@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7987
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7987
@@ -20,9 +20,10 @@ Plain Language in Contracting Act
 
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Plain Language in Contracting Act
 - 2024-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2645)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2645)
 - 2024-04-29 — Sponsor introductory remarks on measure. (CR H2638)
+- 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
