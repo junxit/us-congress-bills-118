@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 8166
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8166
+
+> To require the Secretary of Defense to issue regulations requiring that optional combat boots worn by members of the armed forces wear be made in America, and for other purposes.
+
+## § 1. Regulations applicable to combat footwear of members of all branches of the armed forces
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue regulations prohibiting any member of the armed forces from wearing optional combat boots as part of a required uniform unless the optional combat boots are entirely manufactured in the United States and entirely made of—
+  - **(1)** materials grown, reprocessed, reused, or produced in the United States; and
+  - **(2)** components that are manufactured entirely in the United States and entirely made of materials described in paragraph (1).
+- **(b)** *Definitions* In this section:
+  - **(1)** *Armed forces* The term armed forces has the meaning given such term in section 101(a) of title 10, United States Code.
+  - **(2)** *Optional combat boots* The term optional combat boots, with respect to a member of the armed forces, combat boots not furnished to such member of the armed forces by the Secretary of Defense.
+  - **(3)** *Required uniform* The term required uniform means a uniform a member of the armed forces is required to wear as a member of the armed forces.
