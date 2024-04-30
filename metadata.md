@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7032
 congress: 118
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 7032
@@ -73,3 +73,4 @@ Congressional Budget Office Data Sharing Act
 - 2024-04-29 — Placed on the Union Calendar, Calendar No. 393.
 - 2024-04-29 — Reported by the Committee on Budget. H. Rept. 118-474.
 - 2024-04-29 — Reported by the Committee on Budget. H. Rept. 118-474.
+- 2024-04-30 — Received in the Senate, read twice.
