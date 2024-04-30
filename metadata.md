@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4016
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4016
@@ -26,6 +26,10 @@ Veteran Fraud Reimbursement Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2024-04-30 — [House 118-2-160](votes/house-118-2-0160.md) — On Motion to Suspend the Rules and Pass — **Passed** (413–0)
+
 ## Actions
 
 - 2023-06-12 — Introduced in House
@@ -39,3 +43,11 @@ Veteran Fraud Reimbursement Act
 - 2024-04-12 — Placed on the Union Calendar, Calendar No. 379.
 - 2024-04-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-457.
 - 2024-04-12 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-457.
+- 2024-04-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-29 — Considered under suspension of the rules. (consideration: CR H2695-2696)
+- 2024-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4016.
+- 2024-04-29 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-04-30 — Considered as unfinished business. (consideration: CR H2715-2716)
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 160). (text: 04/29/2024 CR H2695)
+- 2024-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 160). (text: 04/29/2024 CR H2695)
