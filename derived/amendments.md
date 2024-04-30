@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4824
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -79,8 +79,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16293` | insert | by inserting “, and determining the fate of carbon dioxide concurrent with and after injection into geologic formations” before the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16293` | strike | by striking subparagraphs (F) and (G); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | redesignate | by redesignating subparagraphs (H) and (I) as subparagraphs (F) and (G), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16293` | strike | in subparagraph (F), as so resesignated, by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16293` | redesignate | in subparagraph (G), as so redesignated, by striking the period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16293` | redesignate | in subparagraph (F), as so redesignated, by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16293` | redesignate | in subparagraph (G), as so redesignated, by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | redesignate | by redesignating paragraph (3) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

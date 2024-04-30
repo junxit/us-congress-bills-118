@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4824
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -42,8 +42,8 @@ Section 963 of the Energy Policy Act of 2005 (42 U.S.C. 16293) is amended—
     - **(iv)** in subparagraph (E), by striking “geologic sequestration of carbon dioxide” and inserting “terrestrial carbon sequestration and carbon sequestration in geologic formations”;
     - **(v)** by striking subparagraphs (F) and (G);
     - **(vi)** by redesignating subparagraphs (H) and (I) as subparagraphs (F) and (G), respectively;
-    - **(vii)** in subparagraph (F), as so resesignated, by striking “and” after the semicolon;
-    - **(viii)** in subparagraph (G), as so redesignated, by striking the period; and
+    - **(vii)** in subparagraph (F), as so redesignated, by striking “and” after the semicolon;
+    - **(viii)** in subparagraph (G), as so redesignated, by striking the period and inserting a semicolon; and
     - **(ix)** by adding at the end the following new subparagraphs:
       > - **(H)** enhancing the scientific understanding of, and reducing uncertainties associated with, the cycling of carbon in agriculture lands, forests, and geologic formations, including long- and short-term behavior and potential environmental effects of sequestered carbon;
       > - **(I)** identifying scientific barriers and pursuing research solutions to challenges preventing terrestrial carbon sequestration and carbon sequestration in geologic formations, including supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program;
