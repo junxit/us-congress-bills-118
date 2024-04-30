@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7103
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7103
@@ -21,9 +21,10 @@ Agency Accountability Act of 2024
 - Rep. McGarvey, Morgan [D-KY-3] (M001220)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Agency Accountability Act of 2024
 - 2024-04-29 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2024-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2642)
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2642)
+- 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
