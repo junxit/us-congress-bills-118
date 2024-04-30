@@ -24,7 +24,7 @@ Section 236(c) of the Immigration and Nationality Act (8 U.S.C. 1226(c)) is amen
   - **(D)** by inserting after subparagraph (D) the following:
     > - **(E)**
     >   - **(i)** is inadmissible under section 212(a)(6)(A) or (C) or under section 212(a)(7); and
-    >   - **(ii)** is charged with, arrested for, convicted of, admits having committed, or admits committing acts which constitute the essential elements of any offense involving assault of a law enforcement officer,
+    >   - **(ii)** is charged with, is arrested for, is convicted of, admits having committed, or admits committing acts which constitute the essential elements of any offense involving assault of a law enforcement officer,
 
 - **(2)** by redesignating paragraph (2) as paragraph (4); and
 - **(3)** by inserting after paragraph (1) the following:
