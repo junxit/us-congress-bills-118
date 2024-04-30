@@ -1,7 +1,7 @@
 ---
 measure: H.R. 529
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 529
@@ -55,6 +55,10 @@ Extending Limits of U.S. Customs Waters Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2024-04-30 — [House 118-2-155](votes/house-118-2-0155.md) — On Passage — **Passed** (402–6)
+
 ## Actions
 
 - 2023-01-25 — Introduced in House
@@ -65,3 +69,21 @@ Extending Limits of U.S. Customs Waters Act
 - 2024-04-02 — Placed on the Union Calendar, Calendar No. 361.
 - 2024-04-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-436, Part I.
 - 2024-04-02 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-436, Part I.
+- 2024-04-05 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 118-436, Part II.
+- 2024-04-05 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 118-436, Part II.
+- 2024-04-10 — Rules Committee Resolution H. Res. 1125 Reported to House. Rule provides for consideration of H.R. 7888, H.R. 529, H. Res. 1112 and H. Res. 1117. The resolution provides for consideration of H.R. 7888 under a structured rule and H.R. 529, H. Res. 1112, and H. Res. 1117 each under a closed rule. The rule provides for two hours of general debate on H.R. 7888 and one hour of general debate on H.R. 529, H. Res. 1112, and H. Res. 1117. Motion to recommit provided on H.R. 7888 and H.R. 529.
+- 2024-04-12 — Rules Committee Resolution H. Res. 1137 Reported to House. Rule provides for consideration of H.R. 7888, H.R. 529, H. Res. 1112 and H. Res. 1117. The resolution provides for consideration of H.R. 7888 under a structured rule and H.R. 529, H. Res. 1112, and H. Res. 1117 each under a closed rule. Rule provides for one hour of general debate on H.R. 7888, H.R. 529, H. Res. 1112, and H. Res. 1117. Motion to recommit allowed on H.R. 7888 and H.R. 529.
+- 2024-04-29 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-29 — Considered under the provisions of rule H. Res. 1137. (consideration: CR H2689-2691)
+- 2024-04-29 — DEBATE - The House proceeded with one hour of debate on H.R. 529.
+- 2024-04-29 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-29 — House amendment offered
+- 2024-04-29 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-04-29 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-04-29 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 529, the Chair put the question on passage of H.R. 529 and by voice vote, announced that the ayes had prevailed. Mr. Smith (MO) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-04-29 — Rule provides for consideration of H.R. 7888, H.R. 529, H. Res. 1112 and H. Res. 1117. The resolution provides for consideration of H.R. 7888 under a structured rule and H.R. 529, H. Res. 1112, and H. Res. 1117 each under a closed rule. Rule provides for one hour of general debate on H.R. 7888, H.R. 529, H. Res. 1112, and H. Res. 1117. Motion to recommit allowed on H.R. 7888 and H.R. 529.
+- 2024-04-29 — The previous question was ordered pursuant to the rule.
+- 2024-04-30 — Considered as unfinished business. (consideration: CR H2712)
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — On passage Passed by the Yeas and Nays: 402 - 6 (Roll no. 155). (text of amendment in the nature of a substitute: 04/29/2024 CR H2689-2690)
+- 2024-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 402 - 6 (Roll no. 155). (text of amendment in the nature of a substitute: 04/29/2024 CR H2689-2690)
