@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6093
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6093
@@ -52,6 +52,10 @@ Weather Act Reauthorization Act of 2023
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2024-04-30 — [House 118-2-158](votes/house-118-2-0158.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–19)
+
 ## Actions
 
 - 2023-10-26 — Introduced in House
@@ -62,3 +66,11 @@ Weather Act Reauthorization Act of 2023
 - 2023-12-11 — Placed on the Union Calendar, Calendar No. 247.
 - 2023-12-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-306.
 - 2023-12-11 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-306.
+- 2024-04-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-04-29 — Considered under suspension of the rules. (consideration: CR H2658-2679)
+- 2024-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6093.
+- 2024-04-29 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2024-04-30 — Considered as unfinished business. (consideration: CR H2714)
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 19 (Roll no. 158). (text: 04/29/2024 CR H2658-2676)
+- 2024-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 19 (Roll no. 158). (text: 04/29/2024 CR H2658-2676)

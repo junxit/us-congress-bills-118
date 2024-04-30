@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6093
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-192 amendatory instructions. 32 executed, 160 stated and not applied.
+200 amendatory instructions. 36 executed, 164 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -179,12 +179,48 @@ to guess them.
 
 ### 43 U.S.C. § 3102
 
-> Subsection (h) of section 3 of the National Landslide Preparedness Act (43 U.S.C. 3102) is amended, in the matter preceding paragraph (1), by striking “2021 through 2024” and inserting “2024 through 2028”.
+> in subsection (a)(3), by striking “protect” and inserting “contribute to protecting”;
 
 | | |
 |---|---|
-| Removed | `2021 through 2024` |
-| Inserted | `2024 through 2028` |
+| Removed | `protect` |
+| Inserted | `contribute to protecting` |
+
+### 43 U.S.C. § 3102
+
+> in subsection (b)(1)(C)(ii), by striking “implement” and inserting “disseminate”;
+
+| | |
+|---|---|
+| Removed | `implement` |
+| Inserted | `disseminate` |
+
+### 43 U.S.C. § 3102
+
+> in subsection (h), by striking “2024” and inserting “2029”; and
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2029` |
+
+### 43 U.S.C. § 3104
+
+> in subsection (d)(3), by striking “publically” and inserting “publicly”; and
+
+| | |
+|---|---|
+| Removed | `publically` |
+| Inserted | `publicly` |
+
+### 43 U.S.C. § 3104
+
+> in subsection (e), by striking “2024” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2029` |
 
 ### 33 U.S.C. § 4001
 
@@ -224,12 +260,12 @@ to guess them.
 
 ### 33 U.S.C. § 4002
 
-> by striking “comprehensive research plan and action strategy under section 603B” and inserting “the Action Strategy, including scientific assessment, under section 603(c)”; and
+> by striking “comprehensive research plan and action strategy under section 603B” and inserting “Action Strategy, including scientific assessment, under section 603(c)”; and
 
 | | |
 |---|---|
 | Removed | `comprehensive research plan and action strategy under section 603B` |
-| Inserted | `the Action Strategy, including scientific assessment, under section 603(c)` |
+| Inserted | `Action Strategy, including scientific assessment, under section 603(c)` |
 
 ### 33 U.S.C. § 4002
 
@@ -406,6 +442,12 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 1537` | strike | in section 106, by striking subsection (c) (15 U.S.C. 1537); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8520` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8520` | redesignate | by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 3102` | add-at-end | in subsection (c)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 3104` | insert | in paragraph (1)(A), by inserting “and derivative” after “3D elevation”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 3104` | insert | in paragraph (2)(B)(i), by inserting “, process, and integrate” after “acquire”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 3104` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 3104` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4001` | redesignate | by redesignating paragraphs (13) and (14) as paragraphs (14) and (15); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4001` | insert | by inserting after paragraph (12) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4001` | redesignate | by striking subsections (b), (c), (d), (e), (h), and (i) and redesignating subsections (f) and (g) as subsections (b) and (c), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4001` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -423,24 +465,22 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3602` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3602` | redesignate | by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3602` | redesignate | in paragraph (5), as so redesignated, by inserting “and communities” after “ecosystems”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 3602` | redesignate | by inserting after paragraph (5) (as redesignated) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3602` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4002` | amend | by amending subsections (f) and (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4002` | amend | by amending subsection (h) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4003` | amend | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 is amended by amending section 603B (33 U.S.C. 4003) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4003` | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by amending the item relating to section 603B to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 is amended by inserting after section 603B, as amended by subsection (d), the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by inserting after the item relating to section 603B, as amended by subsection (e), the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4005` | amend | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 is amended by amending section 606 (33 U.S.C. 4005) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4005` | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by amending the item relating to section 606 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4008` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4003` | amend | Section 603B of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (33 U.S.C. 4003) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4003` | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 (Public Law 105–383) is amended by amending the item relating to section 603B to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4001` | insert | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (33 U.S.C. 4001 et seq.) is amended by inserting after section 603B of that Act (33 U.S.C. 4003), as amended by subsection (d), the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4001` | insert | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 (Public Law 105–383) is amended by inserting after the item relating to section 603B, as amended by subsection (e), the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4005` | amend | Section 606 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (33 U.S.C. 4005) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4005` | amend | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 (Public Law 105–383) is amended by amending the item relating to section 606 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4008` | strike | by striking paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4008` | redesignate | by redesignating paragraphs (4), (5), (6), (7), and (8) as paragraphs (6), (7), (9), (10), and (11); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4008` | redesignate | by redesignating paragraphs (4), (5), (6), (7), and (8) as paragraphs (6), (7), (8), (10), and (11); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4008` | insert | by inserting after paragraph (3) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4008` | redesignate | by inserting after paragraph (7), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4009` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4008` | redesignate | by inserting after paragraph (8), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4009` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | add-at-end | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 4001` | insert | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 is amended by inserting after the item relating to section 610 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4001` | add-at-end | The Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (33 U.S.C. 4001 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4001` | insert | The table of contents in section 2 of the Coast Guard Authorization Act of 1998 (Public Law 105–383) is amended by inserting after the item relating to section 610 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4010` | add-at-end | in subparagraph (B), by adding at the end the following new sentence: “The appropriate Federal official may waive the non-Federal share requirements of this subsection if such official determines no reasonable means are available through… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4010` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 4010` | insert | in paragraph (2)(A), by inserting “, leadership official of an affected Indian Tribe, the executive official of the District of Columbia, or a territory or possession of the United States, including Puerto Rico, the Virgin Islands, Guam,… | the bill quotes the text inserted but describes where it goes |
