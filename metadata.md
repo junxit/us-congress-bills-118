@@ -1,7 +1,7 @@
 ---
 measure: H.R. 764
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 764
@@ -48,6 +48,11 @@ Trust the Science Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2024-04-30 — [House 118-2-168](votes/house-118-2-0168.md) — On Motion to Recommit — **Failed** (205–210)
+- 2024-04-30 — [House 118-2-169](votes/house-118-2-0169.md) — On Passage — **Passed** (209–205)
+
 ## Actions
 
 - 2023-02-02 — Introduced in House
@@ -61,3 +66,16 @@ Trust the Science Act
 - 2023-09-20 — Placed on the Union Calendar, Calendar No. 167.
 - 2023-09-20 — Reported by the Committee on Natural Resources. H. Rept. 118-206.
 - 2023-09-20 — Reported by the Committee on Natural Resources. H. Rept. 118-206.
+- 2024-04-29 — Rules Committee Resolution H. Res. 1173 Reported to House. Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — Considered as unfinished business. (consideration: CR H2751-2752)
+- 2024-04-30 — Considered under the provisions of rule H. Res. 1173. (consideration: CR H2728-2735)
+- 2024-04-30 — DEBATE - The House proceeded with one hour of debate on H.R. 764.
+- 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-04-30 — Mr. Huffman moved to recommit to the Committee on Natural Resources. (text: CR H2735)
+- 2024-04-30 — On motion to recommit Failed by the Yeas and Nays: 205 - 210 (Roll no. 168).
+- 2024-04-30 — On passage Passed by recorded vote: 209 - 205 (Roll no. 169). (text: CR H2729)
+- 2024-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 764, the Chair put the question on the motion to recommit and by voice vote announced that the noes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-04-30 — Passed/agreed to in House: On passage Passed by recorded vote: 209 - 205 (Roll no. 169). (text: CR H2729)
+- 2024-04-30 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-04-30 — The previous question was ordered pursuant to the rule.
