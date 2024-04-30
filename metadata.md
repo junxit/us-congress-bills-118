@@ -1,7 +1,7 @@
 ---
 measure: S. 2116
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2116
@@ -32,3 +32,5 @@ Strengthening Support for American Manufacturing Act
 - 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.
+- 2024-04-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3084; text: CR S3084)
+- 2024-04-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3084; text: CR S3084)
