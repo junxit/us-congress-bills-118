@@ -1,7 +1,7 @@
 ---
 measure: H.R. 529
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 529
@@ -87,3 +87,4 @@ Extending Limits of U.S. Customs Waters Act
 - 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-30 — On passage Passed by the Yeas and Nays: 402 - 6 (Roll no. 155). (text of amendment in the nature of a substitute: 04/29/2024 CR H2689-2690)
 - 2024-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 402 - 6 (Roll no. 155). (text of amendment in the nature of a substitute: 04/29/2024 CR H2689-2690)
+- 2024-05-01 — Received in the Senate.
