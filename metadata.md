@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4824
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4824
@@ -20,9 +20,10 @@ Carbon Sequestration Collaboration Act
 
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Carbon Sequestration Collaboration Act
 - 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 44 (Roll no. 156). (text: 04/29/2024 CR H2654-2655)
 - 2024-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 44 (Roll no. 156). (text: 04/29/2024 CR H2654-2655)
+- 2024-05-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
