@@ -80,12 +80,14 @@ In this Act:
 
 ## § 6. Nullification of certain Federal agency actions
 
-- **(a)** *NPRA rule* The Secretary, acting through the Director of the Bureau of Land Management—
-  - **(1)** shall withdraw the proposed rule of the Bureau of Land Management entitled “Management and Protection of the National Petroleum Reserve in Alaska” (88 Fed. Reg. 62025 (September 8, 2023)); and
-  - **(2)** may not take any action to finalize, implement, administer, or enforce the proposed rule described in paragraph (1) or any substantially similar rule.
+- **(a)** *NPRA rule* The final rule based on the proposed rule of the Bureau of Land Management entitled “Management and Protection of the National Petroleum Reserve in Alaska” (88 Fed. Reg. 62025 (September 8, 2023)) shall have no force or effect.
 - **(b)** *Executive order 13990*
   - **(1)** *In general* Section 4 of Executive Order 13990 (86 Fed. Reg. 7037; relating to protecting public health and the environment and restoring science to tackle the climate crisis) shall have no force or effect.
   - **(2)** *Funding* No Federal funds may be obligated or expended to carry out section 4 of the Executive Order described in paragraph (1).
 - **(c)** *Secretarial order 3401*
   - **(1)** *In general* Secretarial Order 3401 (relating to the Comprehensive Analysis and Temporary Halt on all Activities in the Arctic National Wildlife Refuge Relating to the Coastal Plain Oil and Gas Leasing Program), issued by the Secretary on June 1, 2021, shall have no force or effect.
   - **(2)** *Funding* No Federal funds may be obligated or expended to carry out the Secretarial Order described in paragraph (1).
+
+## § 7. Designation of Special Areas of the National Petroleum Reserve in Alaska
+
+Beginning on the date of enactment of this Act, the Secretary may not designate any new Special Areas, add resource values to existing Special Areas, or expand existing Special Areas in the National Petroleum Reserve in Alaska unless an Act of Congress enacted after the date of enactment of this Act specifically authorizes the Secretary to do so.
