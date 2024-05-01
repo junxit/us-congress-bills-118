@@ -1,7 +1,7 @@
 ---
 measure: H.R. 615
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 615
@@ -69,10 +69,11 @@ Protecting Access for Hunters and Anglers Act of 2023
 - Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -116,3 +117,4 @@ Protecting Access for Hunters and Anglers Act of 2023
 - 2024-04-30 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-04-30 — The previous question was ordered pursuant to the rule.
+- 2024-05-01 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
