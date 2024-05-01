@@ -1,7 +1,7 @@
 ---
 measure: H.R. 764
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 764
@@ -79,3 +79,4 @@ Trust the Science Act
 - 2024-04-30 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-04-30 — The previous question was ordered pursuant to the rule.
+- 2024-05-01 — Received in the Senate.
