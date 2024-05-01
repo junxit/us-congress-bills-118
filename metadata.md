@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4016
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4016
@@ -22,9 +22,10 @@ Veteran Fraud Reimbursement Act
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Veteran Fraud Reimbursement Act
 - 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 160). (text: 04/29/2024 CR H2695)
 - 2024-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 160). (text: 04/29/2024 CR H2695)
+- 2024-05-01 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
