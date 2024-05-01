@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4877
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4877
@@ -25,9 +25,10 @@ Abandoned Well Remediation Research and Development Act
 - Rep. Foushee, Valerie P. [D-NC-4] (F000477)
 - Rep. Frost, Maxwell [D-FL-10] (F000476)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Abandoned Well Remediation Research and Development Act
 - 2024-04-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-04-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 75 (Roll no. 157). (text: 04/29/2024 CR H2656)
 - 2024-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 75 (Roll no. 157). (text: 04/29/2024 CR H2656)
+- 2024-05-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
