@@ -1,0 +1,26 @@
+---
+legis-num: S. 4259
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4259
+
+> To require the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land as the Lahaina National Heritage Area, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Lahaina National Heritage Area Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(2)** *State* The term State means the State of Hawaii.
+- **(3)** *Study area* The term study area means the census-designated place of Lahaina in Maui County in the State.
+
+## § 3. Lahaina National Heritage Area study
+
+The Secretary, in consultation with State and local historic preservation officers, State and local historical societies, State and local tourism offices, and other appropriate organizations and governmental agencies, shall carry out, in accordance with section 120103(a) of title 54, United States Code, a study to assess the suitability and feasibility of designating the study area as a National Heritage Area, to be known as the “Lahaina National Heritage Area”.
