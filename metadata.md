@@ -1,7 +1,7 @@
 ---
 measure: S. 3738
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3738
@@ -40,3 +40,7 @@ GLRI Act of 2024
 
 - 2024-02-06 — Introduced in Senate
 - 2024-02-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2024-05-01 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2024-05-02 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2024-05-02 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
+- 2024-05-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 366.
