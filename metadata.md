@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6285
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6285
@@ -35,9 +35,10 @@ Alaska’s Right to Produce Act of 2023
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Burlison, Eric [R-MO-7] (B001316)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -81,3 +82,4 @@ Alaska’s Right to Produce Act of 2023
 - 2024-05-01 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-05-01 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-05-01 — The previous question was ordered on the amendment (A002) and the bill pursuant to the rule.
+- 2024-05-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
