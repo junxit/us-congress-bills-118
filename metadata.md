@@ -1,7 +1,7 @@
 ---
 measure: S. 3285
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3285
@@ -28,3 +28,18 @@ A bill to rename the community-based outpatient clinic of the Department of Vete
 - 2024-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (text: CR S3367)
 - 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367)
 - 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367)
+- 2024-05-03 — Message on Senate action sent to the House.
+- 2024-05-06 — Held at the desk.
+- 2024-05-06 — Received in the House.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4648-4650)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on S. 3285.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4648-4649)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4648-4649)
+- 2024-07-25 — Presented to President.
+- 2024-07-25 — Presented to President.
+- 2024-07-30 — Became Public Law No: 118-76.
+- 2024-07-30 — Became Public Law No: 118-76.
+- 2024-07-30 — Signed by President.
+- 2024-07-30 — Signed by President.
