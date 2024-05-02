@@ -1,7 +1,7 @@
 ---
 measure: S. 3249
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3249
@@ -28,3 +28,7 @@ A bill to designate the outpatient clinic of the Department of Veterans Affairs 
 
 - 2023-11-08 — Introduced in Senate
 - 2023-11-08 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-05-02 — Passed Senate without amendment by Unanimous Consent. (text: CR S3367)
+- 2024-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (text: CR S3367)
+- 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367)
+- 2024-05-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S3367)
