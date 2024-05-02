@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6090
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6090
@@ -106,3 +106,4 @@ Antisemitism Awareness Act of 2023
 - 2024-05-01 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration on H.R. 6090.
 - 2024-05-01 — Rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, H.R. 6285 and H.R. 6090. The rule provides for consideration of H.R. 615, H.R. 2925, H.R. 3195, H.R. 764, H.R. 3397, and H.R. 6090 under a closed rule, and H.R. 6285 under a structured rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-05-01 — The previous question was ordered pursuant to the rule.
+- 2024-05-02 — Received in the Senate.
