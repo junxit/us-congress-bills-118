@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1747
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ This Act may be cited as the “Blockchain Regulatory Certainty Act”.
   - **(2)** *State law* Nothing in this section shall be construed to prevent any State from enforcing any State law that is consistent with this section. No cause of action may be brought and no liability may be imposed under any State or local law that is inconsistent with this section.
 - **(c)** *Definitions* As used in this section:
   - **(1)** *Blockchain developer* The term “blockchain developer” means any person or business that creates, maintains, or disseminates software facilitating the creation or maintenance of a blockchain network or a blockchain service.
-  - **(2)** *Blockchain network* The term “blockchain network” means any system of networked computers that cooperates to reach consensus over the state of a computer program and allows users to participate in the consensus-making process without the need to license proprietary software or obtain permission from any other user. The term includes, specifically, a public network of computers that cooperates to reach consensus over the state of a distributed ledger describing transactions in a digital asset.
+  - **(2)** *Blockchain network* The term “blockchain network” means any system of networked computers that cooperates to reach consensus over the state of a computer program and allows users to participate in the consensus-making process without the need to license proprietary software or obtain permission from any other user. The term “blockchain network” includes, specifically, a public network of computers that cooperates to reach consensus over the state of a distributed ledger describing transactions in a digital asset.
   - **(3)** *Blockchain service* The term “blockchain service” means any information, transaction, or computing service or system that provides or enables access to a blockchain network by multiple users, including specifically a service or system that enables users to send, receive, exchange, or store digital assets described by blockchain networks.
   - **(4)** *Control* The term “control” means the legal right, authority, or ability to obtain upon demand data sufficient to initiate transactions spending an amount of digital assets.
   - **(5)** *Digital asset* The term “digital asset” means any form of intangible personal property that can be exclusively possessed and transferred person to person without necessary reliance on an intermediary.

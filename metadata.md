@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1747
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1747
@@ -29,3 +29,8 @@ Blockchain Regulatory Certainty Act
 - 2023-03-23 — Introduced in House
 - 2023-03-23 — Introduced in House
 - 2023-03-23 — Referred to the House Committee on Financial Services.
+- 2023-07-26 — Committee Consideration and Mark-up Session Held
+- 2023-07-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 29 - 21.
+- 2024-05-06 — Placed on the Union Calendar, Calendar No. 403.
+- 2024-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-486.
+- 2024-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-486.
