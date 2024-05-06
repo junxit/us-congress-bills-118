@@ -9,9 +9,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the United States Postal Service to issue regulations requiring Postal Service employees and contractors to report to the Postal Service traffic crashes involving vehicles carrying mail that result in injury or death, and for other purposes.
 
-## § 1. Short title; findings
+## § 1. Short title
 
-This Act may be cited as the “Mail Traffic Deaths Reporting Act”.
+This Act may be cited as the “Mail Traffic Deaths Reporting Act of 2024”.
 
 ## § 2. Regulations on traffic crash deaths and injuries involving vehicles transporting mail
 
