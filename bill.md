@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8257
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8257
+
+> To prohibit the Secretary of the Army from implementing a withdrawn rule relating to restricted access to the Washington Channel in Washington, DC, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Washington Channel Public Access Act”.
+
+## § 2. Prohibition on implementation of rule
+
+The Secretary of the Army may not finalize, implement, or enforce the withdrawn rule entitled “Washington Channel, Fort McNair, Washington, DC; Restricted Area”, published by the Department of the Army on December 29, 2020 (Docket No. COE–2019–0010; 85 Fed. Reg. 85570), or any other rule that restricts public access to the Washington Channel in Washington, DC.
