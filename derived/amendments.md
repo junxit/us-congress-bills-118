@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 34 U.S.C. § 10381
 
-> Section 1701(b)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)(23)) is amended by striking “(21)” and inserting “(22)”.
+> Section 1701(b)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)(23)), as so redesignated, is amended by striking “(21)” and inserting “(22)”.
 
 | | |
 |---|---|
@@ -42,9 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `34 U.S.C. § 10381` | redesignate | by redesignating paragraphs (5) through (23) as paragraphs (6) through (24), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10381` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10381` | redesignate | by redesignating subsections (i) through (n) as subsections (j) through (o), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10381` | insert | by inserting after subsection (h) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 10381` | insert | Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by inserting after subsection (o) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10381` | redesignate | by redesignating paragraphs (22) through (23) as paragraphs (23) through (24), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10381` | insert | by inserting after paragraph (21) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10381` | add-at-end | Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `34 U.S.C. § 10384` | add-at-end | Section 1704 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10384) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

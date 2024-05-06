@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3325
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,29 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Recruit and Retain Act”.
+This Act may be cited as the “Recruit and Retain Act of 2024”.
 
 ## § 2. Improving COPS grants for police hiring purposes
 
 - **(a)** *Grant use expansion* Section 1701(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)) is amended—
-  - **(1)** by redesignating paragraphs (5) through (23) as paragraphs (6) through (24), respectively; and
-  - **(2)** by inserting after paragraph (4) the following:
-    > - **(5)** to support hiring activities by law enforcement agencies experiencing declines in officer recruitment applications by reducing application-related fees, such as fees for background checks, psychological evaluations, and testing.
+  - **(1)** by redesignating paragraphs (22) through (23) as paragraphs (23) through (24), respectively; and
+  - **(2)** by inserting after paragraph (21) the following:
+    > - **(22)** to support hiring activities by law enforcement agencies experiencing declines in officer recruitment applications by reducing application-related fees, such as fees for background checks, psychological evaluations, and testing;
 
-- **(b)** *Technical amendment* Section 1701(b)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)(23)) is amended by striking “(21)” and inserting “(22)”.
+- **(b)** *Technical amendment* Section 1701(b)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)(23)), as so redesignated, is amended by striking “(21)” and inserting “(22)”.
 
-## § 3. Administrative costs
+## § 3. Administrative costs; Pipeline Partnership Program
 
-Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended—
+Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by adding at the end the following:
 
-- **(1)** by redesignating subsections (i) through (n) as subsections (j) through (o), respectively; and
-- **(2)** by inserting after subsection (h) the following:
-  > - **(i)** *Administrative costs* Not more than 2 percent of a grant made for the hiring or rehiring of additional career law enforcement officers may be used for costs incurred to administer such grant.
-
-## § 4. Pipeline Partnership Program
-
-Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by inserting after subsection (o) the following:
-
+> - **(o)** *Administrative costs* Not more than 2 percent of a grant made for the hiring or rehiring of additional career law enforcement officers may be used for costs incurred to administer such grant.
 > - **(p)** *COPS Pipeline Partnership Program*
 >   - **(1)** *Eligible entity defined* In this subsection, the term eligible entity means a law enforcement agency in partnership with not less than 1 educational institution, which may include 1 or any combination of the following:
 >     - **(A)** An elementary school.
@@ -49,7 +42,7 @@ Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 196
 >     - **(D)** otherwise improve the outcomes of local law enforcement recruitment through activities such as dedicated programming for students, work-based learning opportunities, project-based learning, mentoring, community liaisons, career or job fairs, work site visits, job shadowing, apprenticeships, or skills-based internships.
 >   - **(3)** *Funding* Of the amounts made available to carry out this part for a fiscal year, the Attorney General may use not more than $3,000,000 to carry out this subsection.
 
-## § 5. COPS Grant guidance for agencies operating below budgeted strength
+## § 4. COPS Grant guidance for agencies operating below budgeted strength
 
 Section 1704 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10384) is amended by adding at the end the following:
 
@@ -62,7 +55,7 @@ Section 1704 of title I of the Omnibus Crime Control and Safe Streets Act of 196
 >     - **(B)** enables covered applicants to attest that the funding from a grant awarded under this part is not being used by the law enforcement agency to supplant State or local funds, as described in subsection (a).
 >   - **(3)** *Paperwork reduction* In developing the procedures and guidance under paragraph (2), the Attorney General shall take measures to reduce paperwork requirements for grants to covered applicants.
 
-## § 6. Study on Police Recruitment
+## § 5. Study on Police Recruitment
 
 - **(a)** *Study*
   - **(1)** *In general* The Comptroller General of the United States shall conduct a study to consider the comprehensive effects of recruitment and attrition rates on Federal, State, Tribal, and local law enforcement agencies in the United States, to identify—
