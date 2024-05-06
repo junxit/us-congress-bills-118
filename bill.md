@@ -11,22 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Police Our Border Act of 2024”.
+This Act may be cited as the “Police Our Border Act”.
 
 ## § 2. Findings
 
 Congress finds as follows:
 
 - **(1)** Our Federal, State, local, and Tribal law enforcement officers put their lives on the line each day in order to protect our country and serve their communities.
-- **(2)** According to the National Law Enforcement Officer Memorial Fund, 136 law enforcement officers died in the line of duty in 2023.
-- **(3)** Congress should do everything in its power to support law enforcement officers at every level and in every part of our Nation.
-- **(4)** The southwest border crisis created by the Biden Administration has made every State a border State.
-- **(5)** The Biden border crisis has placed a burden on law enforcement agencies across the Nation and has placed a significant strain on the resources that are critical to keeping communities safe.
-- **(6)** Law enforcement officers in every State are put in life-threatening scenarios as a direct result of the open borders.
+- **(2)** According to the National Law Enforcement Officer Memorial Fund, 136 law enforcement officers died in the line-of-duty in 2023.
+- **(3)** Congress should do everything in its power to support law enforcement officers at every level and in every part of our nation.
+- **(4)** The southwest border crisis created by the Biden Administration has made every state a border state.
+- **(5)** The Biden border crisis has placed a burden on law enforcement agencies across the nation and has placed a significant strain on the resources that are critical to keeping communities safe.
+- **(6)** Law enforcement officers in every state are put in life-threatening scenarios as a direct result of the open borders.
 - **(7)** Law enforcement has been forced to deal with the influx of fentanyl and many officers are exposed to the drug while on duty.
 - **(8)** It is in the best interest of law enforcement officers and the communities they serve for Congress to pass, and the President to sign into law, strong border security legislation.
 
-## § 3. Annual report
+## § 3. Report
 
 Not later than 180 days after the date of enactment of this Act, the Attorney General shall submit to Congress a report on the impact the Biden border crisis is having on law enforcement officers at the Federal, State, local, and Tribal level, including—
 
