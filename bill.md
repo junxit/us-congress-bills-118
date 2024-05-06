@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2969
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -51,7 +51,7 @@ This Act may be cited as the “Financial Technology Protection Act of 2023 ”.
 
 - **(a)** *Report and strategy with respect to digital assets and other related emerging technologies*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the President, acting through the Secretary of the Treasury and in consultation with the head of each agency represented on the Independent Financial Technology Working Group to Combat Terrorism and Illicit Financing pursuant to section 2(a)(2), shall submit to the appropriate congressional committees a report that describes—
-    - **(A)** the potential uses of digital assets and other related emerging technologies by States, non-State actors, foreign terrorist organizations, and other terrorist groups to evade sanctions, finance terrorism, or launder monetary instruments, and threaten United States national security; and
+    - **(A)** the potential uses of digital assets and other related emerging technologies by States, non-State actors, foreign terrorist organizations, and other terrorist groups to evade sanctions, finance terrorism, or launder monetary instruments, and threaten the national security of the United States; and
     - **(B)** a strategy how the United States will mitigate and prevent the illicit use of digital assets and other related emerging technologies.
   - **(2)** *Form of report; public availability*
     - **(A)** *In general* The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
