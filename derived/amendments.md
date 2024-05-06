@@ -1,7 +1,7 @@
 ---
 measure: S. 2073
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,3 +45,4 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | redesignate | by redesignating subsection (c) as subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | strike | Section 1105(a) of title 31, United States Code, is amended by striking paragraph (39). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | amend | Subsections (a) and (b) of section 7244 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; chapter 41 of title 44, United States Code, note), are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

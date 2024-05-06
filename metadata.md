@@ -1,7 +1,7 @@
 ---
 measure: S. 2073
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2073
@@ -34,3 +34,12 @@ Kids Online Safety and Privacy Act
 - 2023-08-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
 - 2023-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6027; text: CR S6027)
 - 2023-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6027; text: CR S6027)
+- 2023-12-20 — Message on Senate action sent to the House.
+- 2023-12-22 — Held at the desk.
+- 2023-12-22 — Received in the House.
+- 2024-05-06 — Considered under suspension of the rules. (consideration: CR H2850-2852)
+- 2024-05-06 — DEBATE - The House proceeded with forty minutes of debate on S. 2073.
+- 2024-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-06 — Mr. LaTurner moved to suspend the rules and pass the bill, as amended.
+- 2024-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2850-2851)
+- 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2850-2851)
