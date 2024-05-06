@@ -15,36 +15,30 @@ This Act may be cited as the “GSA Technology Accountability Act”.
 
 ## § 2. Transparency of GSA funded information technology services
 
-- **(a)** *Transparency on use of the Federal Citizen Services Fund* Section 323 of title 40, United States Code, is amended by adding at the end the following:
-  > - **(g)** *Requirement for annual report to Congress* The Administrator shall submit a report to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate not later than September 30 of each year, which shall include, at a minimum, the following:
-  >   - **(1)** A list of each project funded by expenditures during the previous year, or that have been funded by expenditures in the previous five-year period, including the following:
-  >     - **(A)** An explanation of the project.
-  >     - **(B)** An explanation of the project’s progress, including a description of any major changes to project scope, project cost, or project funding; a description of any project delays; and an explanation for any abandoned or failed projects.
-  >     - **(C)** The date of project initiation.
-  >     - **(D)** The date of project completion, if applicable, or the anticipated date of project completion if the project is ongoing.
-  >     - **(E)** The total cost for the project, including the total cost to be covered through expenditures, or the estimated total cost for the project and anticipated total cost to be covered through expenditures if the project is ongoing.
-  >     - **(F)** The amount of reimbursements associated with the project from another source of funds or another agency, if applicable, or the amount of reimbursements anticipated to be associated with the project, if applicable.
-  >     - **(G)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
-  >   - **(2)** For a project that does not have any associated reimbursement or estimated associated reimbursement, an explanation for the absence of associated reimbursements, an analysis of the need for the project, and an estimate of the number of General Services Administration personnel responsible for supporting the project.
+- **(a)** *Transparency on use of the federal citizen services fund* Section 323 of title 40, United States Code, is amended by adding at the end the following:
+  > - **(g)** *Requirement for annual report to congress* Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+  >   - **(1)** An explanation of the program.
+  >   - **(2)** Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
+  >   - **(3)** The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
+  >   - **(4)** A description of projects or initiatives associated with the program, including—
+  >     - **(A)** information about when the projects or initiatives were initiated and completed; and
+  >     - **(B)** funding information, to the extent practicable.
+  >   - **(5)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
   > - **(h)** *Definitions* In this section:
   >   - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
   >   - **(2)** *Expenditure* The term expenditure means any obligation of funds from the Fund.
-  >   - **(3)** *Project* The term project means services provided by the General Services Administration that are funded in whole or in part by an expenditure.
 
-- **(b)** *Transparency on Use of the Acquisition Citizen Services Fund* Section 321 of title 40, United States Code, is amended by adding at the end the following:
-  > - **(h)** *Requirement for annual report to Congress* The Administrator shall submit a report to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate not later than September 30 of each year, which shall include, at a minimum, the following:
-  >   - **(1)** A list of each project funded by expenditures during the previous year, or that have been funded by expenditures in the previous five-year period, including the following:
-  >     - **(A)** An explanation of the project.
-  >     - **(B)** An explanation of the project’s progress, including a description of any major changes to project scope, project cost, or project funding; a description of any project delays; and an explanation for any abandoned or failed projects.
-  >     - **(C)** The date of project initiation.
-  >     - **(D)** The date of project completion, if applicable, or the anticipated date of project completion if the project is ongoing.
-  >     - **(E)** The total cost for the project, including the total cost to be covered through expenditures, or the estimated total cost for the project and anticipated total cost to be covered through expenditures if the project is ongoing.
-  >     - **(F)** The amount of reimbursements associated with the project from another source of funds or another agency, if applicable, or the amount of reimbursements anticipated to be associated with the project, if applicable.
-  >     - **(G)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
-  >   - **(2)** For a project that does not have any associated reimbursement or anticipated associated reimbursement, an explanation for the absence of associated reimbursements, an analysis of the need for the project, and an estimate of the number of General Services Administration personnel responsible for supporting the project.
+- **(b)** *Transparency on use of the acquisition services fund* Section 321 of title 40, United States Code, is amended by adding at the end the following:
+  > - **(h)** *Requirement for annual report to congress* Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+  >   - **(1)** An explanation of the program.
+  >   - **(2)** Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
+  >   - **(3)** The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
+  >   - **(4)** A description of projects or initiatives associated with the program, including—
+  >     - **(A)** information about when the projects or initiatives were initiated and completed; and
+  >     - **(B)** funding information, to the extent practicable.
+  >   - **(5)** Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
   > - **(i)** *Definitions* In this section:
   >   - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
-  >   - **(2)** *Expenditure* The terms expenditure means any obligation of funds from the Acquisition Services Fund for personal services related to the provision of information technology authorized by subsection (c)(1)(A)(iii).
-  >   - **(3)** *Project* The term project means services provided by the General Services Administration that are funded in whole or in part by an expenditure.
+  >   - **(2)** *Expenditure* The term expenditure means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).
 
 - **(c)** *Effective date* The amendment made by this Act shall take effect on the commencement of the first fiscal year after the date of the enactment of this Act.
