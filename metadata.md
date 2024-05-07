@@ -1,7 +1,7 @@
 ---
 measure: S. 2336
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2336
@@ -16,9 +16,11 @@ MISSILES Act
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ MISSILES Act
 
 - 2023-07-18 — Introduced in Senate
 - 2023-07-18 — Read twice and referred to the Committee on Foreign Relations.
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.
