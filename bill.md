@@ -53,11 +53,15 @@ This Act may be cited as the “Hands Off Our Home Appliances Act”.
   >     - **(i)** energy; or
   >     - **(ii)** in the case of showerheads, faucets, water closets, or urinals, water.
   >   - **(D)** *Technologically feasible and economically justified* The Secretary may not prescribe a new or amended energy conservation standard under this section for a type (or class) of covered product unless the Secretary determines that the establishment and imposition of such energy conservation standard is technologically feasible and economically justified.
+  >   - **(E)** *Disclosure* The Secretary may not prescribe a new or amended energy conservation standard under this section for a type (or class) of covered product unless the Secretary, not later than the date on which the standard is prescribed, publicly discloses each meeting held by the Secretary, during the 5-year period preceding such date, with any entity that—
+  >     - **(i)** has ties to the People’s Republic of China or the Chinese Communist Party;
+  >     - **(ii)** has produced studies regarding, or advocated for, regulations or policy to limit, restrict, or ban the use of any type of energy; and
+  >     - **(iii)** has applied for or received Federal funds.
   > - **(3)** *Factors for determination*
   >   - **(A)** *Economic analysis* Prior to prescribing any new or amended energy conservation standard under this section for any type (or class) of covered product, the Secretary shall conduct a quantitative economic impact analysis of imposition of the energy conservation standard that determines the predicted—
   >     - **(i)** effects of imposition of the energy conservation standard on costs and monetary benefits to consumers of the products subject to such energy conservation standard, including—
   >       - **(I)** costs to low-income households; and
-  >       - **(II)** variations in costs to consumers based on differences in regions, including climatic differences;
+  >       - **(II)** variations in costs to consumers based on differences in regions, including rural populations, cost of living comparisons, and climatic differences;
   >     - **(ii)** effects of imposition of the energy conservation standard on employment; and
   >     - **(iii)** lifecycle costs for the covered product, including costs associated with the purchase, installation, maintenance, disposal, and replacement of the covered product.
   >   - **(B)** *Prohibition on additional costs to the consumer* The Secretary may not determine that imposition of an energy conservation standard is economically justified unless the Secretary, based on an economic analysis under subparagraph (A), determines that—
@@ -97,3 +101,7 @@ This Act may be cited as the “Hands Off Our Home Appliances Act”.
 - **(a)** *Regional standards* Section 325(o)(6)(D)(i)(II) of the Energy Policy and Conservation Act (42 U.S.C. 6295(o)(6)(D)(i)(II)) is amended by striking “this paragraph” and inserting “this subsection”.
 - **(b)** *Procedure for prescribing new or amended standards* Section 325(p)(2)(A) of the Energy Policy and Conservation Act (42 U.S.C. 6295(p)(2)(A)) is amended by striking “taking into account those factors which the Secretary must consider under subsection (o)(2)” and inserting “as determined in accordance with subsection (o)”.
 - **(c)** *Energy conservation standards for high-Intensity discharge lamps, distribution transformers, and small electric motors* Section 346 of the Energy Policy and Conservation Act (42 U.S.C. 6317) is amended by striking subsection (c).
+
+## § 4. Distribution transformers
+
+The final rule titled “Energy Conservation Program: Energy Conservation Standards for Distribution Transformers” (signed on April 3, 2024; Docket No. EERE–2019–BT–STD–0018) shall not take effect.
