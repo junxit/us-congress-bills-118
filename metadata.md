@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7527
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7527
@@ -20,9 +20,10 @@ Mail Traffic Deaths Reporting Act of 2024
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Mail Traffic Deaths Reporting Act of 2024
 - 2024-05-06 — Mr. LaTurner moved to suspend the rules and pass the bill, as amended.
 - 2024-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2846-2847)
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2846-2847)
+- 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
