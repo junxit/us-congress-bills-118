@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5403
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 13 of the Federal Reserve Act is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 13 of the Federal Reserve Act, as amended by section 2, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 10 of the Federal Reserve Act is amended by inserting before paragraph (12) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 16 of the Federal Reserve Act is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 16 of the Federal Reserve Act, as amended by section 2, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 16 of the Federal Reserve Act, as amended by section 3, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 221` | insert | The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after section 16 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 221` | insert | Chapter 3 of subtitle I of title 31 of the United States Code is amended by inserting after section 316 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
