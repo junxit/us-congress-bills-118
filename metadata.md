@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6972
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6972
@@ -33,9 +33,10 @@ Securing Chain of Command Continuity Act
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Securing Chain of Command Continuity Act
 - 2024-05-06 — Mr. LaTurner moved to suspend the rules and pass the bill, as amended.
 - 2024-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2841)
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2841)
+- 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
