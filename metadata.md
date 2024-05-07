@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7219
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7219
@@ -20,10 +20,11 @@ Information Quality Assurance Act
 
 - Rep. Porter, Katie [D-CA-47] (P000618)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Information Quality Assurance Act
 - 2024-05-06 — Mr. LaTurner moved to suspend the rules and pass the bill, as amended.
 - 2024-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 4 (Roll no. 177). (text: CR H2842-2843)
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 4 (Roll no. 177). (text: CR H2842-2843)
+- 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
