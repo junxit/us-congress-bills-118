@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4766
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,13 +34,12 @@ In this Act:
 - **(10)** *Monetary value* The term “monetary value” means a national currency or deposit (as defined under Section 3 of the Federal Deposit Insurance Act) denominated in a national currency.
 - **(11)** *National currency* The term “national currency” means a Federal Reserve note, (as the term is used in the first undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 411)), money issued by a central bank, and money issued by an intergovernmental organization pursuant to an agreement by one or more governments.
 - **(12)** *Nonbank entity* The term “nonbank entity” means a person that is not an insured depository institution or subsidiary of an insured depository institution.
-- **(13)** *Payment stablecoin* The term “payment stablecoin”—
-  - **(A)** means a digital asset—
-    - **(i)** that is or is designed to be used as a means of payment or settlement; and
-    - **(ii)** the issuer of which—
-      - **(I)** is obligated to convert, redeem, or repurchase for a fixed amount of monetary value; and
-      - **(II)** represents will maintain or creates the reasonable expectation that it will maintain a stable value relative to the value of a fixed amount of monetary value; and
-  - **(B)** that is not—
+- **(13)** *Payment stablecoin* The term “payment stablecoin” means a digital asset—
+  - **(A)** that is or is designed to be used as a means of payment or settlement;
+  - **(B)** the issuer of which—
+    - **(i)** is obligated to convert, redeem, or repurchase for a fixed amount of monetary value; and
+    - **(ii)** represents will maintain or creates the reasonable expectation that it will maintain a stable value relative to the value of a fixed amount of monetary value; and
+  - **(C)** that is not—
     - **(i)** a national currency; or
     - **(ii)** a security issued by an investment company registered under section 8(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–8(a)).
 - **(14)** *Permitted payment stablecoin issuer* The term “permitted payment stablecoin issuer” means—
@@ -77,11 +76,8 @@ It shall be unlawful for any person other than a permitted payment stablecoin is
       - **(i)** United States coins and currency (including Federal reserve notes);
       - **(ii)** funds held as insured demand deposits or insured shares at insured depository institutions, subject to limitations established by the Corporation and the National Credit Union Administration, respectively, to address safety and soundness risks of such insured depository institutions;
       - **(iii)** Treasury bills with a maturity of 90 days or less;
-      - **(iv)** repurchase agreements with a maturity of 7 days or less that are backed by Treasury bills with a maturity of 90 days or less;
-      - **(v)** central bank reserve deposits; or
-      - **(vi)** such other assets as—
-        - **(I)** the primary Federal payment stablecoin regulator determines appropriate; or
-        - **(II)** in the case of a State qualified payment stablecoin issuer, the State payment stablecoin regulator determines appropriate.
+      - **(iv)** repurchase agreements with a maturity of 7 days or less that are backed by Treasury bills with a maturity of 90 days or less; or
+      - **(v)** central bank reserve deposits;
     - **(B)** publicly disclose the issuer’s redemption policy;
     - **(C)** establish procedures for timely redemption of outstanding payment stablecoins; and
     - **(D)** publish the monthly composition of the issuer’s reserves on the website of the issuer, containing—
@@ -218,7 +214,6 @@ It shall be unlawful for any person other than a permitted payment stablecoin is
     - **(C)** in accordance with such terms and conditions as the Board may prescribe by rule, regulation, or order, any customer payment stablecoin, cash, and other property described in this subsection may be commingled and deposited in customer accounts with payment stablecoins, cash, and other property received by the person and required by the Board to be separately accounted for, treated, and dealt with as belonging to customers.
 - **(d)** *Regulatory information* A person described under subsection (a) shall submit to the Board information concerning the person’s business operations and processes to protect customer assets, in such form and manner as the Board shall determine.
 - **(e)** *Exclusion* The requirements of this section shall not apply to any person solely on the basis that such person engages in the business of providing hardware or software to facilitate a customer’s own custody or safekeeping of the customer’s payment stablecoins or private keys.
-- **(f)** *Clarification* The Board, the Comptroller, the Corporation, the National Credit Union Administration, and the Financial Crimes Enforcement Network shall make no rules, regulations, orders, or guidance, or take any other administrative action, which would restrict the ability of an individual to use digital assets for such individual’s own purposes or prohibit or otherwise restrict an individual to use hardware or software to facilitate such individual’s own custody or safekeeping of such individual’s digital assets.
 
 ## § 9. Interoperability standards
 
