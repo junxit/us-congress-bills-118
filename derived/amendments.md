@@ -1,7 +1,7 @@
 ---
 measure: S. 138
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,9 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 6901` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6901` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 6901` | add-at-end | The Tibetan Policy Act of 2002 (22 U.S.C. 6901 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 6901` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 6901` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 6901` | add-at-end | The Tibetan Policy Act of 2002 (22 U.S.C. 6901 note) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
