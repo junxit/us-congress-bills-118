@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 357
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 357
@@ -32,3 +32,7 @@ A resolution recognizing the formation of the Alliance for Development in Democr
 
 - 2023-09-21 — Introduced in Senate
 - 2023-09-21 — Referred to the Committee on Foreign Relations. (text: CR S4660)
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
