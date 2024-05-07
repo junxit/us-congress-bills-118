@@ -1,7 +1,7 @@
 ---
 measure: H.R. 272
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 272
@@ -20,10 +20,11 @@ ASTRO Act
 
 - Rep. Jackson, Jeff [D-NC-14] (J000308)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ ASTRO Act
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2854)
 - 2024-05-06 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-483, Part I.
 - 2024-05-06 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-483, Part I.
+- 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
