@@ -1,7 +1,7 @@
 ---
 measure: S. 1881
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1881
@@ -16,9 +16,10 @@ Restoring Sovereignty and Human Rights in Nicaragua Act of 2024
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cassidy, Bill [R-LA] (C001075)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Restoring Sovereignty and Human Rights in Nicaragua Act of 2024
 
 - 2023-06-08 — Introduced in Senate
 - 2023-06-08 — Read twice and referred to the Committee on Foreign Relations.
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.
