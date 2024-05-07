@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7525
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7525
@@ -41,9 +41,10 @@ Special District Grant Accessibility Act
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Special District Grant Accessibility Act
 - 2024-05-06 — Mr. LaTurner moved to suspend the rules and pass the bill.
 - 2024-05-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 27 (Roll no. 178). (text: CR H2849)
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 27 (Roll no. 178). (text: CR H2849)
+- 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
