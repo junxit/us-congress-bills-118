@@ -1,7 +1,7 @@
 ---
 measure: S. 3854
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3854
@@ -28,3 +28,7 @@ International Freedom Protection Act
 
 - 2024-02-29 — Introduced in Senate
 - 2024-02-29 — Read twice and referred to the Committee on Foreign Relations.
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
