@@ -2,7 +2,7 @@
 legis-num: H. RES. 1194
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1194
@@ -21,4 +21,4 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 
 ## § 4.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2925) to amend the Omnibus Budget Reconciliation Act of 1993 to provide for security of tenure for use of mining claims for ancillary activities, and for other purposes. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute printed in House Report 118-416 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 30 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on Natural Resources or their respective designees; and (2) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2925) to amend the Omnibus Budget Reconciliation Act of 1993 to provide for security of tenure for use of mining claims for ancillary activities, and for other purposes. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute printed in House Report 118–416 shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 30 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on Natural Resources or their respective designees; and (2) one motion to recommit.
