@@ -1,7 +1,7 @@
 ---
 legis-num: S. CON. RES. 18
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -34,4 +34,14 @@ That Congress—
 - **(4)** urges the Government of the Russian Federation to desist from issuing outlandishly disproportionate criminal sentences to nonviolent United States citizens;
 - **(5)** condemns the Government of the Russian Federation’s continued use of detentions and prosecutions of citizens and lawful permanent residents of the United States for political purposes;
 - **(6)** calls for the immediate release of other citizens and lawful permanent residents of the United States who are wrongfully detained in Russia, such as Paul Whelan, Evan Gershkovich, and Vladimir Kara-Murza; and
+- **(7)** expresses sympathy for and solidarity with the families of all other citizens and lawful permanent residents of the United States wrongfully detained abroad for the personal hardship experienced as a result of the arbitrary and baseless detention of their loved ones.
+
+That Congress—
+
+- **(1)** calls on the Government of the Russian Federation to immediately release Marc Fogel, who has already served more time in prison than his minor and nonviolent crimes can justify;
+- **(2)** urges the Government of the Russian Federation to respect Marc Fogel’s human rights and to provide full, unfettered, and consistent consular access to Marc Fogel while he remains in detention, in accordance with its international obligations;
+- **(3)** urges all United States executive branch officials, including relevant officials at the Department of State and the White House, to raise the case of Marc Fogel and to press for his immediate release in all interactions with the Government of the Russian Federation;
+- **(4)** urges the Government of the Russian Federation to desist from issuing outlandishly disproportionate criminal sentences to nonviolent United States nationals;
+- **(5)** condemns the Government of the Russian Federation’s continued use of detentions and prosecutions of citizens and lawful permanent residents of the United States for political purposes;
+- **(6)** calls for the immediate release of other citizens and lawful permanent residents of the United States who are wrongfully and unlawfully detained in Russia, such as Paul Whelan, Evan Gershkovich, Ksenia Khavana, Alsu Kurmasheva, and Vladimir Kara-Murza; and
 - **(7)** expresses sympathy for and solidarity with the families of all other citizens and lawful permanent residents of the United States wrongfully detained abroad for the personal hardship experienced as a result of the arbitrary and baseless detention of their loved ones.
