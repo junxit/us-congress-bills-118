@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 385
@@ -16,7 +16,7 @@ A resolution calling for the immediate release of Evan Gershkovich, a United Sta
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (26)
+## Cosponsors (36)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -44,6 +44,16 @@ A resolution calling for the immediate release of Evan Gershkovich, a United Sta
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -53,3 +63,7 @@ A resolution calling for the immediate release of Evan Gershkovich, a United Sta
 
 - 2023-09-28 — Introduced in Senate
 - 2023-09-28 — Referred to the Committee on Foreign Relations.
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
