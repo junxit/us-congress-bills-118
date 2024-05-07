@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 505
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 505
@@ -16,7 +16,7 @@ A resolution condemning the use of sexual violence and rape as a weapon of war b
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -40,6 +40,9 @@ A resolution condemning the use of sexual violence and rape as a weapon of war b
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -49,3 +52,7 @@ A resolution condemning the use of sexual violence and rape as a weapon of war b
 
 - 2023-12-14 — Introduced in Senate
 - 2023-12-14 — Referred to the Committee on Foreign Relations. (text: CR S6001)
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
