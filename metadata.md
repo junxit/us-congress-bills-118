@@ -1,7 +1,7 @@
 ---
 measure: S. 3874
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3874
@@ -16,9 +16,10 @@ Hamas and Palestinian Islamic Jihad International Terrorism Support Prevention A
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Hawley, Josh [R-MO] (H001089)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Hamas and Palestinian Islamic Jihad International Terrorism Support Prevention A
 
 - 2024-03-05 — Introduced in Senate
 - 2024-03-05 — Read twice and referred to the Committee on Foreign Relations.
+- 2024-04-16 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute. Without written report.
+- 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 376.
