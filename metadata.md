@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8289
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8289
@@ -50,3 +50,13 @@ Airport and Airway Extension Act of 2024, Part II
 - 2024-05-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Science, Space, and Technology, the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Science, Space, and Technology, the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-08 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Science, Space, and Technology, the Judiciary, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-05-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3665)
+- 2024-05-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S3665)
+- 2024-05-10 — Became Public Law No: 118-60.
+- 2024-05-10 — Became Public Law No: 118-60.
+- 2024-05-10 — Message on Senate action sent to the House.
+- 2024-05-10 — Presented to President.
+- 2024-05-10 — Presented to President.
+- 2024-05-10 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2024-05-10 — Signed by President.
+- 2024-05-10 — Signed by President.
