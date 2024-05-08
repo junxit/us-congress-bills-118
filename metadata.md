@@ -1,7 +1,7 @@
 ---
 measure: S. 2861
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2861
@@ -91,6 +91,10 @@ Billie Jean King Congressional Gold Medal Act
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (1)
+
+- 2024-09-17 — [House 118-2-419](votes/house-118-2-0419.md) — On Motion to Suspend the Rules and Pass — **Passed** (308–87)
+
 ## Actions
 
 - 2023-09-20 — Introduced in Senate
@@ -99,3 +103,20 @@ Billie Jean King Congressional Gold Medal Act
 - 2024-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S3627-3628; text: CR S3627-3628)
 - 2024-05-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
 - 2024-05-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-05-09 — Message on Senate action sent to the House.
+- 2024-05-10 — Held at the desk.
+- 2024-05-10 — Received in the House.
+- 2024-09-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-09-17 — Considered as unfinished business. (consideration: CR H5289-5290)
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5250-5253)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on S. 2861.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Kim (CA) moved to suspend the rules and pass the bill.
+- 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 308 - 87 (Roll no. 419). (text: CR H5250-5251)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 308 - 87 (Roll no. 419). (text: CR H5250-5251)
+- 2024-09-24 — Presented to President.
+- 2024-09-24 — Presented to President.
+- 2024-09-26 — Became Public Law No: 118-88.
+- 2024-09-26 — Became Public Law No: 118-88.
+- 2024-09-26 — Signed by President.
+- 2024-09-26 — Signed by President.
