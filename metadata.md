@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8063
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8063
@@ -29,3 +29,10 @@ To authorize the Secretary of the Army to posthumously award the Distinguished S
 - 2024-04-18 — Introduced in House
 - 2024-04-18 — Introduced in House
 - 2024-04-18 — Referred to the House Committee on Armed Services.
+- 2024-05-08 — Committee on Armed Services discharged.
+- 2024-05-08 — Committee on Armed Services discharged.
+- 2024-05-08 — Considered by unanimous consent. (consideration: CR H2987)
+- 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-08 — Mr. Kelly (MS) asked unanimous consent to discharge from committee and consider.
+- 2024-05-08 — On passage Passed without objection. (text: CR H2987)
+- 2024-05-08 — Passed/agreed to in House: On passage Passed without objection. (text: CR H2987)
