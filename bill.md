@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 8313
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8313
+
+> To prioritize Federal permitting for certain national defense activities related to the authorities under the Defense Production Act of 1950 and projects related to such activities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Help Expedite Lagging Permitting for Defense Production Act” or the “Help DPA Act”.
+
+## § 2. Findings; sense of Congress
+
+- **(a)** *Findings* The Congress finds that—
+  - **(1)** title III of the Defense Production Act of 1950 is used to ensure that our nation has sufficient industrial resources to meet our national security needs; and
+  - **(2)** projects funded under such title are of critical importance to the national security are almost always time sensitive.
+- **(b)** *Sense of Congress* It is the sense of Congress that—
+  - **(1)** the Federal permitting process should not delay crucial national defense projects any longer than necessary; and
+  - **(2)** projects funded under title III of the Defense Production Act of 1950 and projects given the highest priority under title I of the Defense Production Act of 1950 deserve an expedited Federal permitting process.
+
+## § 3. Improving permitting for certain national defense sectors experiencing an industrial base shortfall
+
+- **(a)** *Faster permitting* Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “a covered national defense activity (as defined in section 712(b) of the Defense Production Act of 1950),” after “energy storage,”.
+- **(b)** *Prioritized permitting* The Defense Production Act of 1950 (50 U.S.C. 4501) is amended by inserting after section 711 the following:
+  > ## § 712. Prioritized permitting
+  >
+  > - **(a)** *In general* With respect to a project that is a covered national defense activity, if such project requires a permit from a Federal agency, the Federal agency shall prioritize the consideration of such permit over all over projects requiring a permit from the agency.
+  > - **(b)** *Covered national defense activity defined* The term “covered national defense activity” means a project—
+  >   - **(1)** funded in whole or in part with loans made or guaranteed, or grants made, under title III;
+  >   - **(2)** in a sector essential for the national defense with respect to which the President makes a determination under this Act that the sector is experiencing an industrial base shortfall; or
+  >   - **(3)** for the production of goods or services, the contracts or orders for which the President has deemed necessary or appropriate to promote the national defense and has prioritized under title I.
