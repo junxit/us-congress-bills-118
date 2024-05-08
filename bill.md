@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 8307
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8307
+
+> To provide that the memorial to commemorate the sacrifice and service of the women who worked on the home front to support the efforts of the United States military during World War II may be located on the National Mall, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Women Who Worked on the Home Front Memorial Location Act”.
+
+## § 2. Findings
+
+Congress finds as follows:
+
+- **(1)** During World War II, more than 18 million women answered the call during a global crisis to hold down the home front by working as pilots, engineers, mechanics, code breakers, and more. These women built planes, tanks, munitions, and various other pieces of equipment needed to aid in the war effort.
+- **(2)** Section 702 of division DD of the Consolidated Appropriations Act, 2023 (40 U.S.C. 8903 note; Public Law 117–328) authorized the Women Who Worked on the Home Front Foundation to establish a memorial on Federal land in the District of Columbia and its environs to commemorate the service and sacrifice to the United States of the women who worked on the home front during World War II.
+- **(3)** Locating the commemorative work on the National Mall would be a respectful extension of the enduring legacy of the women who worked on the home front during World War II.
+
+## § 3. Location of memorial
+
+Notwithstanding section 8908 of title 40, United States Code, the commemorative work to commemorate the commitment and service of the women who worked on the home front during World War II authorized by section 702 of division DD of the Consolidated Appropriations Act, 2023 (40 U.S.C. 8903 note; Public Law 117–328), may be located within—
+
+- **(1)** Area I, as depicted on the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003; or
+- **(2)** the Reserve (as defined in section 8902(a) of title 40, United States Code).
