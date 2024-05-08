@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2925
 congress: 118
-version: Referred to Committee House
+version: Engrossed in House
 derived: true
 ---
 
