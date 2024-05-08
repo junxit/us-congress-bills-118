@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4143
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 7 executed, 11 stated and not applied.
+17 amendatory instructions. 7 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,7 +71,7 @@ to guess them.
 
 ### 15 U.S.C. § 7308
 
-> in section 9(2) (15 U.S.C. 7308(2)), by striking “building standards, codes, and practices” each place it appears and inserting “engineering standards, practices, and building codes”;
+> in section 9(2) (15 U.S.C. 7308(2)), by striking “building standards, codes, and practices” each place it appears and inserting “engineering standards, practices, and building codes”; and
 
 | | |
 |---|---|
@@ -80,7 +80,7 @@ to guess them.
 
 ### 15 U.S.C. § 7312
 
-> in section 14 (15 U.S.C. 7312), by striking “building standards, codes, or practices” and inserting “engineering standards, practices, and building codes”; and
+> in section 14 (15 U.S.C. 7312), by striking “building standards, codes, or practices” and inserting “engineering standards, practices, and building codes”.
 
 | | |
 |---|---|
@@ -101,9 +101,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7301` | insert | in subparagraph (G), by inserting “or structure” after “building”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7301` | insert | by inserting “or structure” after “building”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7301` | insert | by inserting “or the National Windstorm Impact Reduction Act of 2004” after “1977”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 7303` | strike | by striking the term “building” each place it appears; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7303` | strike | by striking the term building each place it appears; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7303` | insert | by inserting “building or structure” before “failure” each place it appears; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7306` | insert | in section 7 (15 U.S.C. 7306), by inserting “or structure” after “building”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7307` | insert | in paragraph (1), by inserting “or structure” after “building”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7307` | insert | in paragraph (4), by inserting “and structure” after “building”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 7313` | amend | by amending section 15 (15 U.S.C. 7313) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

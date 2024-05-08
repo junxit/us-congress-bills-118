@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4143
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Construction Safety Team Enhancement Act of 2023”.
+This Act may be cited as the “National Construction Safety Team Enhancement Act of 2024”.
 
 ## § 2. National construction safety team enhancement
 
@@ -33,16 +33,12 @@ The National Construction Safety Team Act is amended—
       - **(I)** by inserting “or structure” after “building”; and
       - **(II)** by inserting “or the National Windstorm Impact Reduction Act of 2004” after “1977”;
 - **(2)** in section 4 (15 U.S.C. 7303)—
-  - **(A)** by striking the term “building” each place it appears; and
+  - **(A)** by striking the term building each place it appears; and
   - **(B)** by inserting “building or structure” before “failure” each place it appears;
 - **(3)** in section 7 (15 U.S.C. 7306), by inserting “or structure” after “building”;
 - **(4)** in section 8 (15 U.S.C. 7307)—
   - **(A)** in paragraph (1), by inserting “or structure” after “building”;
   - **(B)** in paragraph (3), by striking “standards, codes, and practices” and inserting “engineering standards, practices, and building codes”; and
   - **(C)** in paragraph (4), by inserting “and structure” after “building”;
-- **(5)** in section 9(2) (15 U.S.C. 7308(2)), by striking “building standards, codes, and practices” each place it appears and inserting “engineering standards, practices, and building codes”;
-- **(6)** in section 14 (15 U.S.C. 7312), by striking “building standards, codes, or practices” and inserting “engineering standards, practices, and building codes”; and
-- **(7)** by amending section 15 (15 U.S.C. 7313) to read as follows:
-  > ## § 15. Authorization of appropriations
-  >
-  > There is authorized to be appropriated to the Director of the National Institute of Standards and Technology $5,000,000 for each of fiscal years 2024 through 2027.
+- **(5)** in section 9(2) (15 U.S.C. 7308(2)), by striking “building standards, codes, and practices” each place it appears and inserting “engineering standards, practices, and building codes”; and
+- **(6)** in section 14 (15 U.S.C. 7312), by striking “building standards, codes, or practices” and inserting “engineering standards, practices, and building codes”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4143
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4143
@@ -40,6 +40,10 @@ National Construction Safety Team Enhancement Act of 2024
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2024-05-08 — [House 118-2-195](votes/house-118-2-0195.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (358–41)
+
 ## Actions
 
 - 2023-06-15 — Introduced in House
@@ -50,3 +54,11 @@ National Construction Safety Team Enhancement Act of 2024
 - 2023-09-01 — Placed on the Union Calendar, Calendar No. 139.
 - 2023-09-01 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-175.
 - 2023-09-01 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-175.
+- 2024-05-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-07 — Considered under suspension of the rules. (consideration: CR H2922-2923)
+- 2024-05-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4143.
+- 2024-05-07 — Mr. Kean (NJ) moved to suspend the rules and pass the bill, as amended.
+- 2024-05-08 — Considered as unfinished business. (consideration: CR H2986-2987)
+- 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 41 (Roll no. 195). (text: 5/7/2024 CR H2922)
+- 2024-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 41 (Roll no. 195). (text: 5/7/2024 CR H2922)
