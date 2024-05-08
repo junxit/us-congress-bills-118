@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8289
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
