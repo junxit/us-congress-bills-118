@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8295
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8295
+
+> To require the President to deliver ammunition to Israel, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Immediate Support for Israel Act”.
+
+## § 2. Immediate delivery of available ammunition to Israel
+
+Title I of the Israel Security Supplemental Appropriations Act, 2024 (division A of Public Law 118–50) is amended in the matter under the heading “Procurement of Ammunition, Army” by striking “Provided” and inserting “Provided, That any ammunition procured under this heading shall be delivered to Israel not later than 30 days after the date such ammunition is so procured: Provided further,”.
