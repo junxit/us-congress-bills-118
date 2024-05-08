@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 109
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 109
@@ -27,6 +27,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2024-05-08 — [House 118-2-189](votes/house-118-2-0189.md) — On Passage — **Passed** (228–182)
+
 ## Actions
 
 - 2024-02-01 — Introduced in House
@@ -37,3 +41,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-05-01 — Placed on the Union Calendar, Calendar No. 398.
 - 2024-05-01 — Reported by the Committee on Financial Services. H. Rept. 118-480.
 - 2024-05-01 — Reported by the Committee on Financial Services. H. Rept. 118-480.
+- 2024-05-06 — Rules Committee Resolution H. Res. 1194 Reported to House. Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
+- 2024-05-08 — Considered as unfinished business. (consideration: CR H2981-2982)
+- 2024-05-08 — Considered under the provisions of rule H. Res. 1194. (consideration: CR H2950-2963)
+- 2024-05-08 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 109.
+- 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-08 — On passage Passed by the Yeas and Nays: 228 - 182 (Roll no. 189). (text: CR H2950)
+- 2024-05-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 109, the Chair put the question on passage of the joint resolution and by voice vote announced that the ayes had prevailed. Mr. McHenry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 182 (Roll no. 189). (text: CR H2950)
+- 2024-05-08 — Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
+- 2024-05-08 — The previous question was ordered pursuant to the rule.
