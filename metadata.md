@@ -1,7 +1,7 @@
 ---
 measure: S. 2195
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2195
@@ -16,11 +16,13 @@ Diesel Emissions Reduction Act of 2023
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
 ## Committees (1)
 
@@ -35,3 +37,7 @@ Diesel Emissions Reduction Act of 2023
 - 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2023-07-26 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2023-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.
+- 2023-09-29 — By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 118-100.
+- 2023-09-29 — By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 118-100.
+- 2024-05-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3626; text: CR S3626)
+- 2024-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S3626; text: CR S3626)
