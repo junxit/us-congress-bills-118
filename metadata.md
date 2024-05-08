@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7109
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7109
@@ -137,6 +137,11 @@ Equal Representation Act
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (2)
+
+- 2024-05-08 — [House 118-2-192](votes/house-118-2-0192.md) — On Motion to Recommit — **Failed** (203–207)
+- 2024-05-08 — [House 118-2-193](votes/house-118-2-0193.md) — On Passage — **Passed** (206–202)
+
 ## Actions
 
 - 2024-01-29 — Introduced in House
@@ -147,3 +152,23 @@ Equal Representation Act
 - 2024-04-29 — Placed on the Union Calendar, Calendar No. 395.
 - 2024-04-29 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-476.
 - 2024-04-29 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-476.
+- 2024-05-06 — Rules Committee Resolution H. Res. 1194 Reported to House. Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
+- 2024-05-08 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-08 — Considered as unfinished business. (consideration: CR H2983-2986)
+- 2024-05-08 — Considered under the provisions of rule H. Res. 1194. (consideration: CR H2970-2977)
+- 2024-05-08 — DEBATE - The House proceeded with one hour of debate on H.R. 7109.
+- 2024-05-08 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-08 — House amendment offered
+- 2024-05-08 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-08 — Ms. Manning moved to recommit to the Committee on Oversight and Accountability. (text: CR H2983-2984)
+- 2024-05-08 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-08 — On motion to recommit Failed by the Yeas and Nays: 203 - 207 (Roll no. 192).
+- 2024-05-08 — On passage Passed by the Yeas and Nays: 206 - 202 (Roll no. 193). (text of amendment in the nature of a substitute: CR H2970)
+- 2024-05-08 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule XIX, further consideration of H.R. 7109 is postponed.
+- 2024-05-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 206 - 202 (Roll no. 193). (text of amendment in the nature of a substitute: CR H2970)
+- 2024-05-08 — Pursuant to clause 1(c) of rule XIX, the House proceeded with further consideration of H.R. 7109.
+- 2024-05-08 — Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
+- 2024-05-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-05-08 — The previous question was ordered pursuant to the rule.
+- 2024-05-08 — The title of the measure was amended. Agreed to without objection.
