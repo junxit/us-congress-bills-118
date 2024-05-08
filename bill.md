@@ -1,47 +1,12 @@
 ---
 legis-num: S. 870
 congress: 118th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 870
 
-> To amend the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for the United States Fire Administration and firefighter assistance grant programs.
+That the bill from the Senate (S. 870) entitled “An Act to amend the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for the United States Fire Administration and firefighter assistance grant programs.” , do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Fire Grants and Safety Act”.
-
-## § 2. Reauthorization of the United States Fire Administration
-
-Section 17(g)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2216(g)(1)) is amended—
-
-- **(1)** in subparagraph (L), by striking “and”;
-- **(2)** in subparagraph (M)—
-  - **(A)** by striking “for for” and inserting “for”; and
-  - **(B)** by striking the period and inserting “; and”; and
-- **(3)** by adding at the end the following:
-  > - **(N)** $95,000,000 for each of fiscal years 2024 through 2030, of which $3,420,000 for each such fiscal year shall be used to carry out section 8(f).
-
-## § 3. Reauthorization of assistance to firefighters grants program and the fire prevention and safety grants program
-
-- **(a)** *Sunset* Section 33(r) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(r)) is amended by striking “2024” and inserting “2032”.
-- **(b)** *Authorization of appropriations* Section 33(q)(1)(B) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229(q)(1)(B)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
-
-## § 4. Reauthorization of staffing for adequate fire and emergency response grant program
-
-- **(a)** *Sunset* Section 34(k) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(k)) is amended by striking “2024” and inserting “2032”.
-- **(b)** *Authorization of appropriations* Section 34(j)(1)(I) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(j)(1)(I)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
-
-## § 5. GAO audit and report
-
-Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an audit of and issue a publicly available report on barriers that prevent fire departments from accessing Federal funds.
-
-## § 6. Limitation on fire grant funds
-
-Neither the Government of the People’s Republic of China, nor any entity or organization operating or incorporated in the People’s Republic of China, may be eligible to be a recipient or subrecipient of Federal assistance under any assistance program authorized under subsection (c) or (d) of section 33 or section 34(a) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229, 2229a).
-
-## § 7. GAO audit
-
-Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an audit of and issue a publicly available report on the United States Fire Administration.
+*Strike out all after the enacting clause and insert:*

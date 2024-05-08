@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 870
@@ -35,7 +35,7 @@ An act to authorize appropriations for the United States Fire Administration and
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Recorded votes (8)
+## Recorded votes (9)
 
 - 2023-03-29 — [Senate 118-1-78](votes/senate-118-1-0078.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (96–0)
 - 2023-04-18 — [Senate 118-1-87](votes/senate-118-1-0087.md) — On the Amendment — **Amendment Rejected** (49–50)
@@ -45,6 +45,7 @@ An act to authorize appropriations for the United States Fire Administration and
 - 2023-04-20 — [Senate 118-1-92](votes/senate-118-1-0092.md) — On the Amendment — **Amendment Rejected** (46–51)
 - 2023-04-20 — [Senate 118-1-93](votes/senate-118-1-0093.md) — On the Amendment — **Amendment Rejected** (42–56)
 - 2023-04-20 — [Senate 118-1-94](votes/senate-118-1-0094.md) — On Passage of the Bill — **Bill Passed** (95–2)
+- 2024-05-08 — [House 118-2-194](votes/house-118-2-0194.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–13)
 
 ## Actions
 
@@ -192,3 +193,14 @@ An act to authorize appropriations for the United States Fire Administration and
 - 2023-04-20 — Senate amendment not agreed to: Amendment SA 85, under the order of 4/18/2023, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 92.
 - 2023-04-20 — Senate amendment proposed (on the floor): Amendment SA 83 proposed by Senator Sullivan.(consideration: CR S1280-1281)
 - 2023-04-20 — Senate amendment proposed (on the floor): Amendment SA 85 proposed by Senator Van Hollen.(consideration: CR S1278-1280)
+- 2023-04-24 — Held at the desk.
+- 2023-04-24 — Received in the House.
+- 2024-05-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-07 — Considered under suspension of the rules. (consideration: CR H2910-2922)
+- 2024-05-07 — DEBATE - The House proceeded with forty minutes of debate on S. 870.
+- 2024-05-07 — Mr. Kean (NJ) moved to suspend the rules and pass the bill, as amended.
+- 2024-05-08 — Considered as unfinished business. (consideration: CR H2986)
+- 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 13, 1 Present (Roll no. 194). (text: 5/7/2024 CR H2910-2919)
+- 2024-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 13, 1 Present (Roll no. 194). (text: 5/7/2024 CR H2910-2919)
+- 2024-05-08 — The title of the measure was amended. Agreed to without objection.
