@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

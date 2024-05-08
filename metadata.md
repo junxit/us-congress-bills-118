@@ -1,7 +1,7 @@
 ---
 measure: S. 870
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 870
@@ -16,7 +16,7 @@ An act to authorize appropriations for the United States Fire Administration and
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -30,12 +30,14 @@ An act to authorize appropriations for the United States Fire Administration and
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Manchin, Joe, III [I-WV] (M001183)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Recorded votes (9)
+## Recorded votes (10)
 
 - 2023-03-29 — [Senate 118-1-78](votes/senate-118-1-0078.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (96–0)
 - 2023-04-18 — [Senate 118-1-87](votes/senate-118-1-0087.md) — On the Amendment — **Amendment Rejected** (49–50)
@@ -46,6 +48,7 @@ An act to authorize appropriations for the United States Fire Administration and
 - 2023-04-20 — [Senate 118-1-93](votes/senate-118-1-0093.md) — On the Amendment — **Amendment Rejected** (42–56)
 - 2023-04-20 — [Senate 118-1-94](votes/senate-118-1-0094.md) — On Passage of the Bill — **Bill Passed** (95–2)
 - 2024-05-08 — [House 118-2-194](votes/house-118-2-0194.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (393–13)
+- 2024-06-18 — [Senate 118-2-200](votes/senate-118-2-0200.md) — On the Motion — **Motion Agreed to** (88–2)
 
 ## Actions
 
@@ -204,3 +207,15 @@ An act to authorize appropriations for the United States Fire Administration and
 - 2024-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 13, 1 Present (Roll no. 194). (text: 5/7/2024 CR H2910-2919)
 - 2024-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 13, 1 Present (Roll no. 194). (text: 5/7/2024 CR H2910-2919)
 - 2024-05-08 — The title of the measure was amended. Agreed to without objection.
+- 2024-05-09 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2024-06-18 — Measure laid before Senate by unanimous consent. (consideration: CR S4125-4142)
+- 2024-06-18 — Motion by Senator Schumer to concur in the House amendment to S. 870 made in Senate. (CR S4125)
+- 2024-06-18 — Resolving differences -- Senate actions: Senate agreed to the House amendments to S. 870 by Yea-Nay Vote. 88 - 2. Record Vote Number: 200.
+- 2024-06-18 — Senate agreed to the House amendments to S. 870 by Yea-Nay Vote. 88 - 2. Record Vote Number: 200. (consideration: CR S4142)
+- 2024-06-20 — Message on Senate action sent to the House.
+- 2024-07-08 — Presented to President.
+- 2024-07-08 — Presented to President.
+- 2024-07-09 — Became Public Law No: 118-67.
+- 2024-07-09 — Became Public Law No: 118-67.
+- 2024-07-09 — Signed by President.
+- 2024-07-09 — Signed by President.
