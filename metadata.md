@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3354
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3354
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 220 Nor
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 220 Nor
 - 2024-05-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 28, 3 Present (Roll no. 179). (text: 5/6/2024 CR H2855)
 - 2024-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 28, 3 Present (Roll no. 179). (text: 5/6/2024 CR H2855)
+- 2024-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
