@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4143
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4143
@@ -36,9 +36,10 @@ National Construction Safety Team Enhancement Act of 2024
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ National Construction Safety Team Enhancement Act of 2024
 - 2024-05-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 41 (Roll no. 195). (text: 5/7/2024 CR H2922)
 - 2024-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 41 (Roll no. 195). (text: 5/7/2024 CR H2922)
+- 2024-05-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
