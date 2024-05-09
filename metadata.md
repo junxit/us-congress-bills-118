@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 109
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 109
@@ -51,3 +51,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-05-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 182 (Roll no. 189). (text: CR H2950)
 - 2024-05-08 — Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
 - 2024-05-08 — The previous question was ordered pursuant to the rule.
+- 2024-05-09 — Received in the Senate.
