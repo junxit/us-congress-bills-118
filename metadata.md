@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2925
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2925
@@ -20,9 +20,10 @@ Mining Regulatory Clarity Act of 2024
 
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -77,3 +78,4 @@ Mining Regulatory Clarity Act of 2024
 - 2024-05-08 — Rule provides for consideration of H.R. 6192, H.R. 7109, H.J. Res. 109 and H.R. 2925. The resolution provides for consideration of H.R. 6192 under a structured rule and H.R. 7109, H.J. Res. 109, and H.R. 2925 under a closed rule. Rule provides for one hour of general debate on H.R. 6192, H.R. 7109, and H.J. Res. 109, and thirty minutes of general debate on H.R. 2925. One motion to recommit allowed on each bill.
 - 2024-05-08 — The previous question on the motion was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-05-08 — The previous question was ordered pursuant to the rule.
+- 2024-05-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
