@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3029
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -52,6 +52,7 @@ This Act may be cited as the “Honoring Civil Servants Killed in the Line of Du
   - **(3)** *Technical and conforming amendments* The table of sections for chapter 55 of title 5, United States Code, is amended—
     - **(A)** by striking the item relating to subchapter VII and inserting the following:
     - **(B)** by inserting after the item relating to section 5570 the following:
+  - **(4)** *Additional technical and conforming amendment* The heading for subchapter VII of chapter 55 of title 5, United States Code, is amended by striking “employees” and inserting “persons and payments for disability or death”.
 - **(b)** *Amendment to title 49* Section 40122(g)(2) of title 49, United States Code, is amended—
   - **(1)** in subparagraph (I)(iii), by striking “and” after the semicolon;
   - **(2)** in subparagraph (J), by striking the period at the end and inserting “; and”; and
@@ -121,3 +122,19 @@ Section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973) is amended—
   - **(1)** there are authorized to be appropriated to the agency such sums as may be necessary to make those additional payments; and
   - **(2)** the head of the agency may make those additional payments only to the extent additional amounts are made available for those purposes.
 - **(c)** *Sense of Congress* It is the sense of Congress that, not later than 30 days after the date on which the head of an agency submits to Congress a request for supplemental appropriations for the purposes described in subsection (b), Congress should take action with respect to that request.
+
+## § 7. Personal Consumption Expenditures Price Index
+
+- **(a)** *Employee death gratuity payments* Section 5571(b)(2)(A) of title 5, United States Code, as added by section 2 of this Act, is amended by striking “Consumer Price Index for All Urban Consumers (all items; United States city average)” and inserting “Personal Consumption Expenditures Price Index”.
+- **(b)** *Death gratuity for injuries incurred in connection with employee’s service with an Armed Force* Paragraph (2) of section 8102a(a) of title 5, United States Code, as added by section 4(1)(C) of this Act, is amended by striking “Consumer Price Index for All Urban Consumers (all items; United States city average)” and inserting “Personal Consumption Expenditures Price Index”.
+
+## § 8. Reporting requirements
+
+- **(a)** *In general*
+  - **(1)** *Definition* In this subsection, the term agency has the meaning given the term in section 5561 of title 5, United States Code.
+  - **(2)** *Requirement* If the head of an agency makes a death gratuity payment under section 5571 of title 5, United States Code, as added by section 2 of this Act, the agency head shall, not later than 15 business days after the date on which the agency head makes that payment, submit to the Comptroller General of the United States a notification regarding that payment.
+- **(b)** *GAO reports* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report regarding the aggregate amount of death gratuities paid under section 5571 of title 5, United States Code, as added by section 2 of this Act, during the year covered by the report.
+- **(c)** *Audit* Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall—
+  - **(1)** perform an audit regarding death gratuities paid under section 5571 of title 5, United States Code, as added by section 2 of this Act;
+  - **(2)** as part of the audit performed under paragraph (1), determine the frequency with which future audits of the payments described in that paragraph shall occur; and
+  - **(3)** submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives the results of the audit performed under paragraph (1).

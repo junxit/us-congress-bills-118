@@ -1,7 +1,7 @@
 ---
 measure: S. 3029
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 1 executed, 22 stated and not applied.
+26 amendatory instructions. 2 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 22 U.S.C. § 3968
+
+> The heading for subchapter VII of chapter 55 of title 5, United States Code, is amended by striking “employees” and inserting “persons and payments for disability or death”.
+
+| | |
+|---|---|
+| Removed | `employees` |
+| Inserted | `persons and payments for disability or death` |
 
 ### 22 U.S.C. § 3973
 
@@ -64,3 +73,5 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 3973` | redesignate | by redesignating subsection (e) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3973` | insert | by inserting after subsection (d), as added by paragraph (4), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3973` | redesignate | in subsection (f), as so redesignated by paragraph (5), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5571(b)(2)(A) of title 5, United States Code, as added by section 2 of this Act, is amended by striking “Consumer Price Index for All Urban Consumers (all items; United States city average)” and inserting “Personal Consumption Ex… | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (2) of section 8102a(a) of title 5, United States Code, as added by section 4(1)(C) of this Act, is amended by striking “Consumer Price Index for All Urban Consumers (all items; United States city average)” and inserting “Perso… | the bill names no machine-readable US Code section |

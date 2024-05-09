@@ -1,7 +1,7 @@
 ---
 measure: S. 3029
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3029
@@ -30,3 +30,7 @@ Honoring Civil Servants Killed in the Line of Duty Act
 
 - 2023-10-04 — Introduced in Senate
 - 2023-10-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-10-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2024-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-174.
+- 2024-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-174.
+- 2024-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.
