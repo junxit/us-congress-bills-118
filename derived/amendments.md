@@ -1,7 +1,7 @@
 ---
 measure: S. 2150
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 12651d` | insert | Section 1143(c)(1) of title 10, United States Code, is amended by inserting “the Corporation for National and Community Service,” after “State employment agencies,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12651d` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12651d` | redesignate | by redesignating clause (v) as clause (vi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12651d` | insert | by inserting after clause (iv) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12651d` | strike | in paragraph (24), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12651d` | replace | in paragraph (25), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4951` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12651d` | insert | Section 1143(c)(1) of title 10, United States Code, is amended by inserting “the Corporation for National and Community Service,” after “State employment agencies,”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12651d` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12651d` | redesignate | by redesignating clause (v) as clause (vi); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
