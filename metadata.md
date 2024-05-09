@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3935
@@ -16,18 +16,200 @@ FAA Reauthorization Act of 2024
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Cosponsors (3)
+## Cosponsors (185)
 
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (2)
 
 - House — Transportation and Infrastructure Committee
 - House — Science, Space, and Technology Committee
 
-## Recorded votes (24)
+## Recorded votes (31)
 
 - 2023-07-19 — [House 118-1-341](votes/house-118-1-0341.md) — On Agreeing to the Amendment — **Agreed to** (243–191)
 - 2023-07-19 — [House 118-1-342](votes/house-118-1-0342.md) — On Agreeing to the Amendment — **Failed** (203–231)
@@ -53,6 +235,13 @@ FAA Reauthorization Act of 2024
 - 2023-07-20 — [House 118-1-362](votes/house-118-1-0362.md) — On Agreeing to the Amendment — **Failed** (64–329)
 - 2023-07-20 — [House 118-1-363](votes/house-118-1-0363.md) — On Agreeing to the Amendment — **Failed** (195–226)
 - 2023-07-20 — [House 118-1-364](votes/house-118-1-0364.md) — On Passage — **Passed** (351–69)
+- 2023-09-26 — [Senate 118-1-240](votes/senate-118-1-0240.md) — On the Cloture Motion — **Cloture Motion Agreed to** (77–19)
+- 2023-09-28 — [Senate 118-1-241](votes/senate-118-1-0241.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (76–22)
+- 2024-05-01 — [Senate 118-2-157](votes/senate-118-2-0157.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–10)
+- 2024-05-02 — [Senate 118-2-158](votes/senate-118-2-0158.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (81–10)
+- 2024-05-08 — [Senate 118-2-160](votes/senate-118-2-0160.md) — On the Motion to Table — **Motion to Table Failed** (12–85)
+- 2024-05-09 — [Senate 118-2-161](votes/senate-118-2-0161.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–13)
+- 2024-05-09 — [Senate 118-2-162](votes/senate-118-2-0162.md) — On Passage of the Bill — **Bill Passed** (88–4)
 
 ## Actions
 
@@ -351,3 +540,725 @@ FAA Reauthorization Act of 2024
 - 2023-09-21 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4665)
 - 2023-09-21 — Motion to proceed to consideration of measure made in Senate. (CR S4665)
 - 2023-09-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
+- 2023-09-26 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 77 - 19. Record Vote Number: 240.
+- 2023-09-26 — Motion to proceed to measure considered in Senate. (CR S4669)
+- 2023-09-27 — 
+- 2023-09-27 — Motion to proceed to measure considered in Senate. (CR S4689)
+- 2023-09-27 — Senate amendment submitted
+- 2023-09-27 — Senate amendment submitted
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — 
+- 2023-09-28 — Amendment SA 1292 proposed by Senator Schumer for Senator Murray. (consideration: CR S4733) In the nature of a substitute.
+- 2023-09-28 — Amendment SA 1293 proposed by Senator Schumer to Amendment SA 1292. (consideration: CR S4733-4734) To add an effective date.
+- 2023-09-28 — Amendment SA 1294 proposed by Senator Schumer. (consideration: CR S4734) To add an effective date.
+- 2023-09-28 — Amendment SA 1295 proposed by Senator Schumer to Amendment SA 1294 (the instructions of the motion to commit). (consideration: CR S4734) To modify the effective date.
+- 2023-09-28 — Cloture motion on amendment SA1292 presented in Senate.
+- 2023-09-28 — Cloture motion on the measure presented in Senate. (consideration: CR S4734; text: CR S4734)
+- 2023-09-28 — Measure laid before Senate by motion. (consideration: CR S4729-4739)
+- 2023-09-28 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 1294) made in Senate.
+- 2023-09-28 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 241.
+- 2023-09-28 — Motion to proceed to measure considered in Senate. (CR S4729)
+- 2023-09-28 — Senate amendment proposed (on the floor): Amendment SA 1292 proposed by Senator Schumer for Senator Murray.
+- 2023-09-28 — Senate amendment proposed (on the floor): Amendment SA 1293 proposed by Senator Schumer to Amendment SA 1292.(consideration: CR S4733-4734)
+- 2023-09-28 — Senate amendment proposed (on the floor): Amendment SA 1294 proposed by Senator Schumer.(consideration: CR S4734)
+- 2023-09-28 — Senate amendment proposed (on the floor): Amendment SA 1295 proposed by Senator Schumer to Amendment SA 1294 (the instructions of the motion to commit).(consideration: CR S4734)
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-28 — Senate amendment submitted
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — 
+- 2023-09-29 — Considered by Senate. (consideration: CR S4806)
+- 2023-09-29 — Considered by Senate. (consideration: CR S4806)
+- 2023-09-29 — Considered by Senate. (consideration: CR S4806)
+- 2023-09-29 — Considered by Senate. (consideration: CR S4806)
+- 2023-09-29 — Considered by Senate. (consideration: CR S4806, S4818-4820)
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-29 — Senate amendment submitted
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — 
+- 2023-09-30 — Cloture motion on amendment SA1292 withdrawn by unanimous consent in Senate.
+- 2023-09-30 — Cloture motion on the measure withdrawn by unanimous consent in Senate. (CR S4885)
+- 2023-09-30 — Considered by Senate. (consideration: CR S4885)
+- 2023-09-30 — Considered by Senate. (consideration: CR S4885)
+- 2023-09-30 — Considered by Senate. (consideration: CR S4885)
+- 2023-09-30 — Considered by Senate. (consideration: CR S4885)
+- 2023-09-30 — Considered by Senate. (consideration: CR S4885)
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2023-09-30 — Senate amendment submitted
+- 2024-04-20 — Motion to proceed to consideration of measure made in Senate. (CR S2928)
+- 2024-04-20 — Motion to proceed to measure considered in Senate. (CR S2941)
+- 2024-04-23 — Cloture motion on the motion to proceed to the measure presented in Senate.
+- 2024-04-23 — Motion to proceed to measure considered in Senate. (CR S2943)
+- 2024-04-30 — 
+- 2024-04-30 — 
+- 2024-04-30 — 
+- 2024-04-30 — Senate amendment submitted
+- 2024-04-30 — Senate amendment submitted
+- 2024-04-30 — Senate amendment submitted
+- 2024-04-30 — Senate amendment submitted
+- 2024-04-30 — Senate amendment submitted
+- 2024-04-30 — Senate amendment submitted
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — 
+- 2024-05-01 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 10. Record Vote Number: 157. (CR S3111)
+- 2024-05-01 — Motion to proceed to measure considered in Senate. (CR S3107)
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-01 — Senate amendment submitted
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — 
+- 2024-05-02 — Considered by Senate. (consideration: CR S3305)
+- 2024-05-02 — Considered by Senate. (consideration: CR S3305)
+- 2024-05-02 — Considered by Senate. (consideration: CR S3305)
+- 2024-05-02 — Considered by Senate. (consideration: CR S3305)
+- 2024-05-02 — Measure laid before Senate by motion. (consideration: CR S3305)
+- 2024-05-02 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 81 - 10. Record Vote Number: 158.
+- 2024-05-02 — Motion to proceed to measure considered in Senate. (CR S3295)
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-02 — Senate amendment submitted
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — 
+- 2024-05-07 — Amendment SA 1911 proposed by Senator Schumer for Senator Cantwell. (consideration: CR S3381) In the nature of a substitute.
+- 2024-05-07 — Amendment SA 2026 proposed by Senator Schumer to Amendment SA 1911 (as modified). (consideration: CR S3495) To add an effective date.
+- 2024-05-07 — Amendment SA 2027 proposed by Senator Schumer. (consideration: CR S3495) To add an effective date.
+- 2024-05-07 — Amendment SA 2028 proposed by Senator Schumer to Amendment SA 2027 (the instructions of the motion to commit). (consideration: CR S3496) To add an effective date.
+- 2024-05-07 — Amendment SA 2029 proposed by Senator Schumer to Amendment SA 2028. (consideration: CR S3496) To add an effective date.
+- 2024-05-07 — Cloture motion on amendment SA1911, as modified, presented in Senate. (CR S3496)
+- 2024-05-07 — Cloture motion on the measure presented in Senate. (CR S3496)
+- 2024-05-07 — Considered by Senate. (consideration: CR S3381)
+- 2024-05-07 — Considered by Senate. (consideration: CR S3381)
+- 2024-05-07 — Considered by Senate. (consideration: CR S3381)
+- 2024-05-07 — Considered by Senate. (consideration: CR S3381)
+- 2024-05-07 — Considered by Senate. (consideration: CR S3381-3496)
+- 2024-05-07 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 1294) tabled in Senate by Voice Vote.
+- 2024-05-07 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 2027) made in Senate. (text: CR S3495)
+- 2024-05-07 — Motion to table amendment SA 1292 agreed to in Senate by Voice Vote.
+- 2024-05-07 — Motion to table amendment SA 1294 agreed to in Senate by Voice Vote.
+- 2024-05-07 — SA 1293 fell when SA 1292 was tabled.
+- 2024-05-07 — SA 1295 fell when SA 1294 was tabled.
+- 2024-05-07 — Senate amendment proposed (on the floor): Amendment SA 1911 proposed by Senator Schumer for Senator Cantwell.
+- 2024-05-07 — Senate amendment proposed (on the floor): Amendment SA 2026 proposed by Senator Schumer to Amendment SA 1911 (as modified).
+- 2024-05-07 — Senate amendment proposed (on the floor): Amendment SA 2027 proposed by Senator Schumer.
+- 2024-05-07 — Senate amendment proposed (on the floor): Amendment SA 2028 proposed by Senator Schumer to Amendment SA 2027 (the instructions of the motion to commit).
+- 2024-05-07 — Senate amendment proposed (on the floor): Amendment SA 2029 proposed by Senator Schumer to Amendment SA 2028.
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-07 — Senate amendment submitted
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — 
+- 2024-05-08 — Considered by Senate.
+- 2024-05-08 — Considered by Senate.
+- 2024-05-08 — Considered by Senate.
+- 2024-05-08 — Considered by Senate.
+- 2024-05-08 — Considered by Senate.
+- 2024-05-08 — Considered by Senate. (consideration: CR S3567-3589)
+- 2024-05-08 — Motion to table the motion by Senator Schumer to commit the bill (H.R. 3935) to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with amendment SA 2027 rejected in Senate by Yea-Nay Vote. 12 - 85. Record Vote Number: 160.
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-08 — Senate amendment submitted
+- 2024-05-09 — Amendment SA 1911 as modified agreed to in Senate by Voice Vote.
+- 2024-05-09 — Amendment SA 2040 proposed by Senator Schumer. (consideration: CR S3632)
+- 2024-05-09 — Amendment SA 2041 proposed by Senator Cantwell for Senator Schumer to Amendment SA 2040. (consideration: CR S3633)
+- 2024-05-09 — Cloture on SA 1911, as modified, invoked in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 161.
+- 2024-05-09 — Considered by Senate.
+- 2024-05-09 — Considered by Senate. (consideration: CR S3629)
+- 2024-05-09 — Considered by Senate. (consideration: CR S3629)
+- 2024-05-09 — Considered by Senate. (consideration: CR S3629)
+- 2024-05-09 — Considered by Senate. (consideration: CR S3629, S3645)
+- 2024-05-09 — Considered by Senate. (consideration: CR S3629-3645)
+- 2024-05-09 — Motion by Senator Schumer to commit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 2027) fell when cloture was invoked on SA 1911, as modified, in Senate.
+- 2024-05-09 — Passed Senate, under the order of 5/9/2024, having achieved 60 votes in the affirmative with an amendment by Yea-Nay Vote. 88 - 4. Record Vote Number: 162. (text of amendment in the nature of a substitute: 05/07/2024 CR S3381-3495)
+- 2024-05-09 — Passed/agreed to in Senate: Passed Senate, under the order of 5/9/2024, having achieved 60 votes in the affirmative with an amendment by Yea-Nay Vote. 88 - 4. Record Vote Number: 162. (text of amendment in the nature of a substitute: 05/07/2024 CR S3381-3495)
+- 2024-05-09 — Proposed amendment SA 2026 withdrawn in Senate.
+- 2024-05-09 — Proposed amendment SA 2040 withdrawn in Senate.
+- 2024-05-09 — Roll call votes on amendments in Senate: Cloture on SA 1911, as modified, invoked in Senate by Yea-Nay Vote. 84 - 13. Record Vote Number: 161.
+- 2024-05-09 — SA 2027 fell when cloture invoked on SA 1911, as modified.
+- 2024-05-09 — SA 2028 fell when SA 2027 (the instructions of the motion to commit) fell.
+- 2024-05-09 — SA 2029 fell when SA 2028 fell.
+- 2024-05-09 — SA 2041 fell when SA 2040 was withdrawn.
+- 2024-05-09 — Senate amendment agreed to: Amendment SA 1911 as modified agreed to in Senate by Voice Vote.
+- 2024-05-09 — Senate amendment proposed (on the floor): Amendment SA 2040 proposed by Senator Schumer.
+- 2024-05-09 — Senate amendment proposed (on the floor): Amendment SA 2041 proposed by Senator Cantwell for Senator Schumer to Amendment SA 2040.
+- 2024-05-09 — Senate amendment submitted
+- 2024-05-09 — Senate amendment submitted
+- 2024-05-09 — Senate amendment submitted
+- 2024-05-09 — Senate amendment submitted
+- 2024-05-09 — Senate amendment submitted
+- 2024-05-09 — Senate amendment submitted
