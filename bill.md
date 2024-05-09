@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2825
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -55,12 +55,12 @@ The Congress finds that—
 
 ## § 4. Duplicate medals
 
-The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs thereof, including labor, materials, dies, use of machinery, and overhead expenses.
 
 ## § 5. Status of medals
 
 - **(a)** *National medal* Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+- **(b)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
 
 ## § 6. Authority to use fund amounts; proceeds of sale
 
