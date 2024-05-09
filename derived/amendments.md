@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3935
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
