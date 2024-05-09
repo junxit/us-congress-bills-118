@@ -1,7 +1,7 @@
 ---
 measure: S. 1835
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1835
@@ -28,3 +28,7 @@ National Cybersecurity Awareness Act
 
 - 2023-06-06 — Introduced in Senate
 - 2023-06-06 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-06-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-171.
+- 2024-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-171.
+- 2024-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 382.
