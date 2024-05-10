@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4814
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,5 +18,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act—
 
-- **(1)** the term “consumer product” has the meaning given such term in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)); and
-- **(2)** the term “Secretary” means the Secretary of Commerce.
+- **(1)** the term consumer product has the meaning given such term in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a));
+- **(2)** the term Secretary means the Secretary of Commerce; and
+- **(3)** the term token means a transferrable, digital representation of information recorded on a blockchain or other distributed ledger technology.
