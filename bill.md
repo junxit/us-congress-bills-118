@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 8366
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8366
+
+> To extend authorities to impose sanctions under certain laws relating to Hong Kong, Tibet, and the Xinjiang Uyghur Autonomous Region.
+
+## § 1. Extension of authorities to impose sanctions under certain laws relating to Hong Kong, Tibet, and the Xinjiang Uyghur Autonomous Region
+
+- **(a)** *Hong Kong Human Rights and Democracy Act of 2019* Section 7(h) of the Hong Kong Human Rights and Democracy Act of 2019 (Public Law 116–76; 22 U.S.C. 5701 note) is amended by striking “5 years” and inserting “10 years”.
+- **(b)** *An act To prohibit the commercial export of covered munitions items to the Hong Kong Police Force* Section 3 of the Act entitled “An Act to prohibit the commercial export of covered munitions items to the Hong Kong Police Force”, approved November 27, 2019 (Public Law 116–77; 133 Stat. 1173), is amended by striking “shall expire” and all that follows and inserting “shall expire on December 31, 2029.”.
+- **(c)** *Reciprocal Access to Tibet Act of 2018* The Reciprocal Access to Tibet Act of 2018 (Public Law 115–330; 8 U.S.C. 1182 note) is amended—
+  - **(1)** in section 4(a), in the matter preceding paragraph (1), by striking “the following five years” and inserting “the following 10 years”; and
+  - **(2)** in section 5(c), in the first sentence, by striking “the following five years” and inserting “the following 10 years”.
+- **(d)** *Uyghur Human Rights Policy Act of 2020* Section 6(h) of the Uyghur Human Rights Policy Act of 2020 (Public Law 116–145; 22 U.S.C. 6901 note) is amended by striking “5 years” and inserting “10 years”.
