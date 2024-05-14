@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5390
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5390
@@ -44,3 +44,9 @@ Critical Infrastructure Manufacturing Feasibility Act
 - 2024-05-10 — Placed on the Union Calendar, Calendar No. 415.
 - 2024-05-10 — Reported by the Committee on Energy and Commerce. H. Rept. 118-499.
 - 2024-05-10 — Reported by the Committee on Energy and Commerce. H. Rept. 118-499.
+- 2024-05-14 — Considered under suspension of the rules. (consideration: CR H3034-3035)
+- 2024-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5390.
+- 2024-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-14 — Mr. Bilirakis moved to suspend the rules and pass the bill.
+- 2024-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3034)
+- 2024-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3034)
