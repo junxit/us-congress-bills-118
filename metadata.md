@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7589
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7589
@@ -29,3 +29,11 @@ ROUTERS Act
 - 2024-03-08 — Introduced in House
 - 2024-03-08 — Introduced in House
 - 2024-03-08 — Referred to the House Committee on Energy and Commerce.
+- 2024-03-11 — Referred to the Subcommittee on Communications and Technology.
+- 2024-03-12 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 23 - 0.
+- 2024-03-12 — Subcommittee Consideration and Mark-up Session Held
+- 2024-03-20 — Committee Consideration and Mark-up Session Held
+- 2024-03-20 — Ordered to be Reported by the Yeas and Nays: 43 - 0.
+- 2024-05-14 — Placed on the Union Calendar, Calendar No. 420.
+- 2024-05-14 — Reported by the Committee on Energy and Commerce. H. Rept. 118-505.
+- 2024-05-14 — Reported by the Committee on Energy and Commerce. H. Rept. 118-505.
