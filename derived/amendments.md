@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7659
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-214 amendatory instructions. 32 executed, 182 stated and not applied.
+212 amendatory instructions. 32 executed, 180 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -369,7 +369,6 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 601` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 601` | repeal | Section 3534(j) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 601` | strike | Section 7510 of title 46, United States Code, is amended by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | The heading for subtitle II of title 46, United States Code, is amended by striking “Seamen” and inserting “Seafarer”. | the bill names no machine-readable US Code section |
 | — | replace | The heading for part E of subtitle II of title 46, United States Code, is amended by striking “MERCHANT SEAMEN LICENSES, CERTIFICATES, AND DOCUMENTS” and inserting “MERCHANT MARINER CREDENTIALS”. | the bill names no machine-readable US Code section |
 | — | replace | The section heading for section 7307 of title 46, United States Code, is amended by striking “seamen” and inserting “seafarers”. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 73 of title 46, United States Code, is further amended in the item relating to section 7307 by striking “seamen” and inserting “seafarers”. | the bill names no machine-readable US Code section |
@@ -386,7 +385,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “seaman” and inserting “seafarer” each place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “seamen” and inserting “seafarers” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for subtitle II of title 46, United States Code, is amended in the item relating to part E by striking “MERCHANT SEAMEN LICENSES, CERTIFICATES, AND DOCUMENTS” and inserting “MERCHANT MARINER CREDENTIALS”. | the bill names no machine-readable US Code section |
-| — | replace | The analysis of subtitles at the beginning of title 46, United States Code, is amended in the item relating to subtitle II by striking “SEAMEN” and inserting “SEAFARER” | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7507 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1408` | insert | in the section heading by inserting “or noncitizen nationality” after “Citizenship”; and | the bill quotes the text inserted but describes where it goes |
 | `8 U.S.C. § 1408` | insert | by inserting “or noncitizen nationals (as such term is described in section 308 of the Immigration and Nationality Act (8 U.S.C. 1408))” after “citizens”. | the bill quotes the text inserted but describes where it goes |
