@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6248
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,13 +15,17 @@ This Act may be cited as the “Think Differently Transportation Act”.
 
 ## § 2. Report on Amtrak ADA compliance
 
-Section 24315(b)(1) of title 49, United States Code, is amended—
+Section 24315(b) of title 49, United States Code, is amended—
 
-- **(1)** in subparagraph (B) by striking “and” at the end;
-- **(2)** in subparagraph (C) by striking the period at the end and inserting a semicolon; and
-- **(3)** by adding at the end the following:
-  > - **(D)** shall include an action plan for bringing Amtrak rail cars and Amtrak-served stations that are not in compliance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) into compliance with such Act as required by the settlement agreement entered into in 2020 between Amtrak and the Department of Justice, as applicable; and
-  > - **(E)** shall include a status report on—
-  >   - **(i)** Amtrak-served stations for which Amtrak is solely responsible for compliance with such Act based on an assessment carried out by Amtrak, including a timeline for any required compliance with such Act consistent with the terms of the agreement described in subparagraph (D);
-  >   - **(ii)** Amtrak-served stations for which Amtrak has a shared responsibility for compliance with such Act based on an assessment carried out by Amtrak, including a timeline for any required compliance with such Act for the portions of the station for which Amtrak is the responsible party consistent with the terms of the agreement described in subparagraph (D), and who is responsible for compliance with such Act for the other portions of the Amtrak-served station where Amtrak is not the responsible party and the timeline for compliance where Amtrak is not the responsible party; and
-  >   - **(iii)** the status of compliance with such Act for all Amtrak-served stations for which Amtrak is not the responsible party, nor is responsible for a portion of the station, and the entity or entities that have responsibility for compliance with such Act, based on an assessment carried out by Amtrak.
+- **(1)** in paragraph (1)—
+  - **(A)** in subparagraph (B) by striking “and” at the end;
+  - **(B)** in subparagraph (C) by striking the period at the end and inserting a semicolon; and
+  - **(C)** by adding at the end the following:
+    > - **(D)** shall include an action plan for bringing Amtrak rail cars and Amtrak-served stations that are not in compliance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) into compliance with such Act as required by the settlement agreement entered into in 2020 between Amtrak and the Department of Justice; and
+    > - **(E)** shall include a status report on—
+    >   - **(i)** Amtrak-served stations for which Amtrak is solely responsible for compliance with such Act based on a station assessment carried out by Amtrak, including a timeline for any required compliance with such Act, as required by the settlement agreement;
+    >   - **(ii)** Amtrak-served stations for which Amtrak has a shared responsibility for compliance with such Act based on a station assessment carried out by Amtrak, including a timeline for any required compliance with such Act for the portions of the station for which Amtrak is the responsible party consistent with the terms of the settlement agreement, identifying who is responsible for compliance (and the status of the compliance of each responsible party with such Act) for such portions and the timeline for compliance in cases in which Amtrak is not the responsible party; and
+    >   - **(iii)** the status of compliance with such Act for all Amtrak-served stations for which Amtrak is not the responsible party, nor is responsible for a portion of the station, and the entity or entities that have responsibility for compliance with such Act, based on a station assessment carried out by Amtrak or the party responsible under such Act.
+
+- **(2)** by adding at the end the following:
+  > - **(3)** In this subsection, the term “station assessment” means a review of all components of a station including the building, platform, path to train, and parking areas, as required by the Access Board on the date of enactment of the Think Differently Transportation Act.

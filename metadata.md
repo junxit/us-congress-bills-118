@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6248
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6248
@@ -16,7 +16,7 @@ Think Differently Transportation Act
 
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Cosponsors (6)
+## Cosponsors (18)
 
 - Rep. Payne, Donald M., Jr. [D-NJ-10] (P000604)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
@@ -24,6 +24,18 @@ Think Differently Transportation Act
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Garcia, Jesus G. "Chuy" [D-IL-4] (G000586)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Allred, Colin Z. [D-TX-32] (A000376)
+- Rep. Adams, Alma S. [D-NC-12] (A000370)
+- Rep. Lee, Barbara [D-CA-12] (L000551)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
 
 ## Committees (1)
 
@@ -34,3 +46,10 @@ Think Differently Transportation Act
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-11-14 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2024-01-31 — Committee Consideration and Mark-up Session Held
+- 2024-01-31 — Ordered to be Reported (Amended).
+- 2024-01-31 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged
+- 2024-05-14 — Placed on the Union Calendar, Calendar No. 424.
+- 2024-05-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-510.
+- 2024-05-14 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-510.
