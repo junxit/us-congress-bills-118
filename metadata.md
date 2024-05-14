@@ -1,7 +1,7 @@
 ---
 measure: H.R. 354
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 354
@@ -16,7 +16,7 @@ LEOSA Reform Act of 2024
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Cosponsors (18)
+## Cosponsors (43)
 
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
@@ -36,6 +36,31 @@ LEOSA Reform Act of 2024
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 - Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 
 ## Committees (1)
 
@@ -46,3 +71,8 @@ LEOSA Reform Act of 2024
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Introduced in House
 - 2023-01-13 — Referred to the House Committee on the Judiciary.
+- 2024-05-08 — Committee Consideration and Mark-up Session Held
+- 2024-05-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 9.
+- 2024-05-14 — Placed on the Union Calendar, Calendar No. 418.
+- 2024-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-502.
+- 2024-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-502.

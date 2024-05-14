@@ -1,7 +1,7 @@
 ---
 measure: H.R. 354
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,6 +42,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “not less recently than one year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the agency to meet the active duty standards for qualification in firearms… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking the period at the end and inserting “or”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (g), by adding at the end the following: | the bill names no machine-readable US Code section |

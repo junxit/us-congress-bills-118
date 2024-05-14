@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 354
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “LEOSA Reform Act”.
+This Act may be cited as the “LEOSA Reform Act of 2024”.
 
 ## § 2. Conforming the Law Enforcement Officer Safety Act and the Gun-Free School Zones Act of 1990
 
@@ -47,7 +47,7 @@ Section 930 of title 18, United States Code, is amended—
 
 - **(1)** in subsection (d)—
   - **(A)** in paragraph (2), by striking “or” at the end;
-  - **(B)** in paragraph (3), by striking the period at the end and inserting “or”; and
+  - **(B)** in paragraph (3), by striking the period at the end and inserting “; or”; and
   - **(C)** by adding at the end the following:
     > - **(4)** the possession of a firearm or ammunition in a Facility Security Level I or II civilian public access facility by a qualified law enforcement officer (as defined in section 926B(c)) or a qualified retired law enforcement officer (as defined in section 926C(c)).
 
