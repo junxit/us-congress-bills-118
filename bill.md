@@ -1,0 +1,37 @@
+---
+legis-num: S. 4350
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4350
+
+> To amend title XVIII of the Social Security Act to extend acute hospital care at home waiver flexibilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Hospital Inpatient Services Modernization Act”.
+
+## § 2. Extending acute hospital care at home waiver flexibilities
+
+Section 1866G of the Social Security Act (42 U.S.C. 1395cc–7) is amended—
+
+- **(1)** in subsection (a)(1), by striking “2024” and inserting “2029”; and
+- **(2)** in subsection (b)—
+  - **(A)** in the heading, by striking “Study and report” and inserting “Studies and reports”; and
+  - **(B)** in paragraph (1)—
+    - **(i)** in the matter preceding subparagraph (A), by striking “The Secretary” and inserting “Not later than September 30, 2024, and again not later than September 30, 2028, the Secretary”;
+    - **(ii)** in subparagraph (B)—
+      - **(I)** in clause (iv), by striking “and” at the end;
+      - **(II)** in clause (v), by striking the period and inserting “; and”; and
+      - **(III)** by adding at the end the following new clause:
+        > - **(vi)** in the case of the second study conducted under this paragraph, the quality of care, outcomes, costs, quantity and intensity of services, and other relevant metrics between individuals who entered into the Acute Hospital Care at Home initiative directly from an emergency department compared with individuals who entered into the Acute Hospital Care at Home initiative directly from an existing inpatient stay in a hospital.
+
+  - **(C)** in paragraph (2)—
+    - **(i)** in the header, by striking “Report” and inserting “Reports”; and
+    - **(ii)** by inserting “and again not later than September 30, 2028,” after “2024,”; and
+    - **(iii)** by striking “on the study conducted under paragraph (1).” and inserting the following:
+      > on—
+      > - **(A)** with respect to the first report submitted under this paragraph, the first study conducted under paragraph (1); and
+      > - **(B)** with respect to the second report submitted under this paragraph, the second study conducted under paragraph (1).
