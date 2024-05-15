@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4814
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4814
@@ -23,9 +23,10 @@ Consumer Safety Technology Act
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Consumer Safety Technology Act
 - 2024-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3032-3033)
 - 2024-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3032-3033)
 - 2024-05-14 — The title of the measure was amended. Agreed to without objection.
+- 2024-05-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
