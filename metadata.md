@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6132
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6132
@@ -22,9 +22,10 @@ Awning Safety Act of 2023
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Wenstrup, Brad R. [R-OH-2] (W000815)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Awning Safety Act of 2023
 - 2024-05-14 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2024-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3042)
 - 2024-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3042)
+- 2024-05-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
