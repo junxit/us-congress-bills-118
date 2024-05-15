@@ -294,5 +294,5 @@ In this Act:
   - **(D)** A cyber attack.
   - **(E)** A great power conflict.
   - **(F)** A terrorist or geopolitical attack.
-  - **(H)** An event for which the President declares a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 42 U.S.C. 5191).
-  - **(I)** Any other disruption or threat to a critical supply chain that affects the national security or economic security of the United States.
+  - **(G)** An event for which the President declares a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 42 U.S.C. 5191).
+  - **(H)** Any other disruption or threat to a critical supply chain that affects the national security or economic security of the United States.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6571
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6571
@@ -32,6 +32,10 @@ Promoting Resilient Supply Chains Act of 2023
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-05-15 — [House 118-2-211](votes/house-118-2-0211.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–19)
+
 ## Actions
 
 - 2023-12-04 — Introduced in House
@@ -43,3 +47,11 @@ Promoting Resilient Supply Chains Act of 2023
 - 2024-04-26 — Placed on the Union Calendar, Calendar No. 392.
 - 2024-04-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-473.
 - 2024-04-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-473.
+- 2024-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-14 — Considered under suspension of the rules. (consideration: CR H3035-3040)
+- 2024-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6571.
+- 2024-05-14 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2024-05-15 — Considered as unfinished business. (consideration: CR H3257-3258)
+- 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 19 (Roll no. 211). (text: 5/14/2024 CR H3035-3039)
+- 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 19 (Roll no. 211). (text: 5/14/2024 CR H3035-3039)
