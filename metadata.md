@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 106
@@ -16,7 +16,7 @@ Expressing support for local law enforcement officers and condemning efforts to 
 
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
@@ -30,10 +30,13 @@ Expressing support for local law enforcement officers and condemning efforts to 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +49,4 @@ Expressing support for local law enforcement officers and condemning efforts to 
 - 2024-05-14 — Mr. Jordan moved to suspend the rules and agree to the resolution.
 - 2024-05-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3048)
 - 2024-05-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3048)
+- 2024-05-15 — Received in the Senate and referred to the Committee on the Judiciary.
