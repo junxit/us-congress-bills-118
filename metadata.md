@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6960
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6960
@@ -33,6 +33,10 @@ Emergency Medical Services for Children Reauthorization Act of 2024
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-05-15 — [House 118-2-208](votes/house-118-2-0208.md) — On Motion to Suspend the Rules and Pass — **Passed** (399–13)
+
 ## Actions
 
 - 2024-01-11 — Introduced in House
@@ -46,3 +50,11 @@ Emergency Medical Services for Children Reauthorization Act of 2024
 - 2024-05-07 — Placed on the Union Calendar, Calendar No. 404.
 - 2024-05-07 — Reported by the Committee on Energy and Commerce. H. Rept. 118-488.
 - 2024-05-07 — Reported by the Committee on Energy and Commerce. H. Rept. 118-488.
+- 2024-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-14 — Considered under suspension of the rules. (consideration: CR H3029-3031)
+- 2024-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6960.
+- 2024-05-14 — Mr. Bucshon moved to suspend the rules and pass the bill.
+- 2024-05-15 — Considered as unfinished business. (consideration: CR H3255-3256)
+- 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 13 (Roll no. 208). (text: 5/14/2024 CR H3029)
+- 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 13 (Roll no. 208). (text: 5/14/2024 CR H3029)
