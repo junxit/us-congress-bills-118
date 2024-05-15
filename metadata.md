@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4581
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4581
@@ -85,6 +85,10 @@ Maternal and Child Health Stillbirth Prevention Act of 2024
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-05-15 — [House 118-2-207](votes/house-118-2-0207.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–3)
+
 ## Actions
 
 - 2023-07-12 — Introduced in House
@@ -98,3 +102,11 @@ Maternal and Child Health Stillbirth Prevention Act of 2024
 - 2024-05-07 — Placed on the Union Calendar, Calendar No. 406.
 - 2024-05-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-490.
 - 2024-05-07 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-490.
+- 2024-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-14 — Considered under suspension of the rules. (consideration: CR H3028-3029)
+- 2024-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4581.
+- 2024-05-14 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
+- 2024-05-15 — Considered as unfinished business. (consideration: CR H3254-3255)
+- 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 207). (text: 5/14/2024 CR H3028)
+- 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 207). (text: 5/14/2024 CR H3028)
