@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3950
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3950
@@ -40,6 +40,10 @@ TICKET Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-05-15 — [House 118-2-212](votes/house-118-2-0212.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (388–24)
+
 ## Actions
 
 - 2023-06-09 — Introduced in House
@@ -54,3 +58,11 @@ TICKET Act
 - 2024-05-10 — Placed on the Union Calendar, Calendar No. 412.
 - 2024-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-496.
 - 2024-05-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-496.
+- 2024-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-14 — Considered under suspension of the rules. (consideration: CR H3043-3046)
+- 2024-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3950.
+- 2024-05-14 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2024-05-15 — Considered as unfinished business. (consideration: CR H3258)
+- 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 24 (Roll no. 212). (text: 5/14/2024 CR H3043-3044)
+- 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 24 (Roll no. 212). (text: 5/14/2024 CR H3043-3044)
