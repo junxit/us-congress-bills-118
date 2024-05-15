@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4510
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-78 amendatory instructions. 42 executed, 36 stated and not applied.
+77 amendatory instructions. 42 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 47 U.S.C. § 902
 
-> Section 151 of the National Telecommunications and Information Administration Organization Act is amended by striking “$17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993” and inserting “$62,000,000 for fiscal year 2024 and $62,000,000 for fiscal year 2025”.
+> Section 151 of the National Telecommunications and Information Administration Organization Act is amended by striking “$17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993” and inserting “$57,000,000 for fiscal year 2024 and $57,000,000 for fiscal year 2025”.
 
 | | |
 |---|---|
 | Removed | `$17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993` |
-| Inserted | `$62,000,000 for fiscal year 2024 and $62,000,000 for fiscal year 2025` |
+| Inserted | `$57,000,000 for fiscal year 2024 and $57,000,000 for fiscal year 2025` |
 
 ### 47 U.S.C. § 902
 
@@ -441,7 +441,6 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 903` | add-at-end | Section 104 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 903) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 921` | add-at-end | Part B of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 901` | add-at-end | Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

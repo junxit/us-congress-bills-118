@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4510
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “National Telecommunications and Information Administration Reauthorization Act of 2023” or the “NTIA Reauthorization Act of 2023”.
+- **(a)** *Short title* This Act may be cited as the “National Telecommunications and Information Administration Reauthorization Act of 2024” or the “NTIA Reauthorization Act of 2024”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
