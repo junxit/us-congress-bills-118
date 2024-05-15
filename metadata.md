@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7659
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7659
@@ -23,9 +23,10 @@ Coast Guard Authorization Act of 2024
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Coast Guard Authorization Act of 2024
 - 2024-05-14 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-05-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 16 (Roll no. 197). (text: CR H3170-3184)
 - 2024-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 16 (Roll no. 197). (text: CR H3170-3184)
+- 2024-05-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
