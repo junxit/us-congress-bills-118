@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7581
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7581
@@ -48,6 +48,10 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2024-05-15 — [House 118-2-203](votes/house-118-2-0203.md) — On Passage — **Passed** (356–55)
+
 ## Actions
 
 - 2024-03-07 — Introduced in House
@@ -58,3 +62,17 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - 2024-05-08 — Placed on the Union Calendar, Calendar No. 410.
 - 2024-05-08 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-494.
 - 2024-05-08 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-494.
+- 2024-05-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-15 — Considered as unfinished business. (consideration: CR H3252)
+- 2024-05-15 — Considered under the provisions of rule H. Res. 1227. (consideration: CR H3236-3239)
+- 2024-05-15 — DEBATE - The House proceeded with one hour of debate on H.R. 7581.
+- 2024-05-15 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-15 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-15 — On passage Passed by the Yeas and Nays: 356 - 55 (Roll no. 203). (text of amendment in the nature of a substitute: CR H3236-3237)
+- 2024-05-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7581, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Bishop (NC) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 356 - 55 (Roll no. 203). (text of amendment in the nature of a substitute: CR H3236-3237)
+- 2024-05-15 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-15 — Rules Committee Resolution H. Res. 1227 Reported to House. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-15 — The previous question was ordered pursuant to the rule.
