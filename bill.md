@@ -37,6 +37,12 @@ Section 236(c) of the Immigration and Nationality Act (8 U.S.C. 1226(c)) is amen
   >     - **(i)** the term “assault” has the meaning given that term in the jurisdiction where the acts occurred; and
   >     - **(ii)** the term “law enforcement officer” is a person authorized by law—
   >       - **(I)** to engage in or supervise the prevention, detention, investigation, or prosecution, or the incarceration of any person for any criminal violation of law;
-  >       - **(II)** to apprehend, arrest, or prosecute an individual for any criminal violation of law; or
-  >       - **(III)** to be a firefighter or other first responder.
+  >       - **(II)** to apprehend, arrest, or prosecute an individual for any criminal violation of law;
+  >       - **(III)** to be a firefighter or other first responder; or
+  >       - **(IV)** to be a campus police officer or a school resource officer.
   > - **(3)** *Detainer* The Secretary of Homeland Security shall issue a detainer for an alien described in paragraph (1)(E) and, if the alien is not otherwise detained by Federal, State, or local officials, shall effectively and expeditiously take custody of the alien.
+  > - **(4)** *Annual report of the Secretary of Homeland Security* The Secretary of Homeland Security shall on an annual basis report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives the number of aliens described in paragraph (1)(E) who were detained in the custody of the Department of Homeland Security in the preceding year pursuant to such section.
+
+## § 3. GAO Study
+
+Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall complete a study and submit a report to Congress on the number of aliens present in the United States who are inadmissible under section 212(a)(6)(A) or (C) or under section 212(a)(7) of the Immigration and Nationality Act who were detained, during the 5 year period preceding the date of the report, for committing an assault against a law enforcement officer.
