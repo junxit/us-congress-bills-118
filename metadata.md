@@ -1,7 +1,7 @@
 ---
 measure: S. 594
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 594
@@ -28,3 +28,8 @@ Continental Divide National Scenic Trail Completion Act
 
 - 2023-03-01 — Introduced in Senate
 - 2023-03-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-06-21 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 118-284.
+- 2023-12-14 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-175.
+- 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-175.
+- 2024-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 391.
