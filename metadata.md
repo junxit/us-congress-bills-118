@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8369
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8369
@@ -16,7 +16,7 @@ Israel Security Assistance Support Act
 
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 
-## Cosponsors (117)
+## Cosponsors (119)
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
@@ -135,12 +135,19 @@ Israel Security Assistance Support Act
 - Rep. Franklin, Scott [R-FL-18] (F000472)
 - Rep. Banks, Jim [R-IN-3] (B001299)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
 ## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Intelligence (Permanent Select) Committee
 - House — Armed Services Committee
+
+## Recorded votes (2)
+
+- 2024-05-16 — [House 118-2-216](votes/house-118-2-0216.md) — On Motion to Recommit — **Failed** (202–210)
+- 2024-05-16 — [House 118-2-217](votes/house-118-2-0217.md) — On Passage — **Passed** (224–187)
 
 ## Actions
 
@@ -149,3 +156,16 @@ Israel Security Assistance Support Act
 - 2024-05-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-05-15 — Rules Committee Resolution H. Res. 1227 Reported to House. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-16 — Considered as unfinished business. (consideration: CR H3310-3311)
+- 2024-05-16 — Considered under the provisions of rule H. Res. 1227. (consideration: CR H3287-3294)
+- 2024-05-16 — DEBATE - The House proceeded with one hour of debate on H.R. 8369.
+- 2024-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-16 — Mr. Meeks moved to recommit to the Committee on Foreign Affairs. (text: CR H3294)
+- 2024-05-16 — On motion to recommit Failed by the Yeas and Nays: 202 - 210 (Roll no. 216).
+- 2024-05-16 — On passage Passed by the Yeas and Nays: 224 - 187 (Roll no. 217). (text: CR H3287-3288)
+- 2024-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8369, the Chair put the question on the motion to recommit and by voice vote announced that the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 187 (Roll no. 217). (text: CR H3287-3288)
+- 2024-05-16 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-16 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-05-16 — The previous question was ordered pursuant to the rule.
