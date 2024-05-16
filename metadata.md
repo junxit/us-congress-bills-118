@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6960
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6960
@@ -60,3 +60,14 @@ Emergency Medical Services for Children Reauthorization Act of 2024
 - 2024-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 13 (Roll no. 208). (text: 5/14/2024 CR H3029)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 13 (Roll no. 208). (text: 5/14/2024 CR H3029)
 - 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6935-6936)
+- 2024-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-10 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-11 — Message on Senate action sent to the House.
+- 2024-12-17 — Presented to President.
+- 2024-12-17 — Presented to President.
+- 2024-12-23 — Became Public Law No: 118-178.
+- 2024-12-23 — Became Public Law No: 118-178.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
