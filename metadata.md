@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4581
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4581
@@ -110,3 +110,4 @@ Maternal and Child Health Stillbirth Prevention Act of 2024
 - 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 207). (text: 5/14/2024 CR H3028)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 207). (text: 5/14/2024 CR H3028)
+- 2024-05-16 — Received in the Senate, read twice.
