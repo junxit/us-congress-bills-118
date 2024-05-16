@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7343
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7343
@@ -29,9 +29,10 @@ Detain and Deport Illegal Aliens Who Assault Cops Act
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -77,3 +78,4 @@ Detain and Deport Illegal Aliens Who Assault Cops Act
 - 2024-05-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 7343.
 - 2024-05-15 — The Speaker designated the Honorable Russ Fulcher to act as Chairman of the Committee.
 - 2024-05-15 — The previous question was ordered pursuant to the rule.
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
