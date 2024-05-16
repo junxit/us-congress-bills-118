@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7581
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7581
@@ -44,9 +44,10 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Franklin, Scott [R-FL-18] (F000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - 2024-05-15 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
 - 2024-05-15 — Rules Committee Resolution H. Res. 1227 Reported to House. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
 - 2024-05-15 — The previous question was ordered pursuant to the rule.
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
