@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7530
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7530
@@ -23,9 +23,10 @@ DC CRIMES Act of 2024
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 - Rep. Clyde, Andrew S. [R-GA-9] (C001116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ DC CRIMES Act of 2024
 - 2024-05-15 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
 - 2024-05-15 — Rules Committee Resolution H. Res. 1227 Reported to House. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
 - 2024-05-15 — The previous question was ordered pursuant to the rule.
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
