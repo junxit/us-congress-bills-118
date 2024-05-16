@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6571
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6571
@@ -28,9 +28,10 @@ Promoting Resilient Supply Chains Act of 2023
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Promoting Resilient Supply Chains Act of 2023
 - 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 19 (Roll no. 211). (text: 5/14/2024 CR H3035-3039)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 19 (Roll no. 211). (text: 5/14/2024 CR H3035-3039)
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
