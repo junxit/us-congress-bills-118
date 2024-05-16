@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1797
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1797
@@ -41,9 +41,10 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -71,3 +72,4 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 - 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 34 (Roll no. 209). (text: 5/14/2024 CR H3031)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 34 (Roll no. 209). (text: 5/14/2024 CR H3031)
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
