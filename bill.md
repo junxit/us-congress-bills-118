@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3045
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,12 +13,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Transfer of administrative jurisdiction*
   - **(1)** *National forest system land* Administrative jurisdiction over the approximately 160 acres of National Forest System land more particularly described as T.1 S., R.19 E., sec. 24, SE1/4NE1/4, NW1/4SE1/4, NE1/4SE1/4, and SE1/4SE1/4, Mount Diablo Meridian, Tuolumne County, California, as generally depicted on the map entitled “Ackerson Meadow Land Interchange” and dated February 24, 2022, is transferred to the Secretary of the Interior to be managed as part of Yosemite National Park, in accordance with laws applicable to the National Park System.
-  - **(2)** *National park system land* Administrative jurisdiction over the approximately 170 acres of National Park System land more particularly described as the SE1/4 of sec. 23 and the land to the north and west of Road 1S25 within the NW1/4SE1/4NW1/4 of sec. 24, T.1 S., R. 19 E., Mount Diablo Meridian, Tuolumne County, California, as generally depicted on the map entitled “Ackerson Meadow Land Interchange” and dated February 24, 2022, is transferred to the Secretary to be managed as part of Stanislaus National Forest in accordance with laws applicable to the National Forest System.
+  - **(2)** *National park system land* Administrative jurisdiction over the approximately 170 acres of National Park System land more particularly described as the SE1/4 of sec. 23 and the land to the north and west of Road 1S25 within the NW1/4SE1/4NW1/4 of sec. 24, T.1 S., R. 19 E., Mount Diablo Meridian, Tuolumne County, California, as generally depicted on the map entitled “Ackerson Meadow Land Interchange” and dated February 24, 2022, is transferred to the Secretary of Agriculture to be managed as part of Stanislaus National Forest in accordance with laws applicable to the National Forest System.
 - **(b)** *Corrections*
-  - **(1)** *Minor adjustments* The Secretary and the Secretary of the Interior may, by mutual agreement, make minor corrections and adjustments to the Federal land transferred under subsection (a) to facilitate land management, including making a correction or adjustment to any applicable survey.
+  - **(1)** *Minor adjustments* The Secretary of Agriculture and the Secretary of the Interior may, by mutual agreement, make minor corrections and adjustments to the Federal land transferred under subsection (a) to facilitate land management, including making a correction or adjustment to any applicable survey.
   - **(2)** *Publications* Any correction or adjustment made under paragraph (1) shall be effective on the date of publication of a notice of the correction or adjustment in the Federal Register.
 - **(c)** *Hazardous substances*
-  - **(1)** *Notice* The Secretary and the Secretary of the Interior shall, with respect to the land described in paragraphs (1) and (2) of subsection (a), respectively—
+  - **(1)** *Notice* The Secretary of Agriculture and the Secretary of the Interior shall, with respect to the land described in paragraphs (1) and (2) of subsection (a), respectively—
     - **(A)** identify any known sites containing hazardous substances; and
     - **(B)** provide to the head of the Federal agency to which the land is being transferred under subsection (a) notice of any site containing hazardous substances, as identified under subparagraph (A).
   - **(2)** *Cleanup obligations* To the same extent as on the day before the date of enactment of this Act, with respect to any Federal liability—
