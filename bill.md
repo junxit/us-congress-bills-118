@@ -1,7 +1,7 @@
 ---
 legis-num: S. 636
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -34,4 +34,5 @@ In this Act:
 - **(7)** *Special Management Area* The term Special Management Area means the Dolores River Special Management Area established by section 201(a).
 - **(8)** *State* The term State means the State of Colorado.
 - **(9)** *Unreasonably diminish* The term unreasonably diminish is within the meaning of the term used in section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)) and has the meaning of the term as applied in appendix D of the Technical Report of the Interagency Wild and Scenic Rivers Coordinating Council entitled “Wild & Scenic Rivers: Section 7” and dated October 2004.
+- **(9)** *Unreasonably diminish* The term unreasonably diminish has the same meaning as used in section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)).
 - **(10)** *Water resource project* The term water resource project means any dam, irrigation and pumping facility, reservoir, water conservation work, aqueduct, canal, ditch, pipeline, well, hydropower project, and transmission and other ancillary facility, and other water diversion, storage, and carriage structure.

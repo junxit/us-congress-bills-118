@@ -1,7 +1,7 @@
 ---
 measure: S. 636
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 636
@@ -28,3 +28,8 @@ Dolores River National Conservation Area and Special Management Area Act
 
 - 2023-03-02 — Introduced in Senate
 - 2023-03-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-285.
+- 2023-12-14 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-176.
+- 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-176.
+- 2024-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
