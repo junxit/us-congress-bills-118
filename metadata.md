@@ -1,7 +1,7 @@
 ---
 measure: H.R. 354
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 354
@@ -66,6 +66,10 @@ LEOSA Reform Act of 2024
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2024-05-16 — [House 118-2-213](votes/house-118-2-0213.md) — On Passage — **Passed** (221–185)
+
 ## Actions
 
 - 2023-01-13 — Introduced in House
@@ -76,3 +80,17 @@ LEOSA Reform Act of 2024
 - 2024-05-14 — Placed on the Union Calendar, Calendar No. 418.
 - 2024-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-502.
 - 2024-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-502.
+- 2024-05-15 — Rules Committee Resolution H. Res. 1227 Reported to House. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-16 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-16 — Considered as unfinished business. (consideration: CR H3308)
+- 2024-05-16 — Considered under the provisions of rule H. Res. 1227. (consideration: CR H3294-3297)
+- 2024-05-16 — DEBATE - The House proceeded with one hour of debate on H.R. 354.
+- 2024-05-16 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-16 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-16 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-16 — On passage Passed by the Yeas and Nays: 221 - 185 (Roll no. 213). (text of amendment in the nature of a substitute: CR H3295)
+- 2024-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 354, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Moore (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 185 (Roll no. 213). (text of amendment in the nature of a substitute: CR H3295)
+- 2024-05-16 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
+- 2024-05-16 — The previous question was ordered pursuant to the rule.
