@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4310
@@ -27,9 +27,10 @@ Youth Poisoning Protection Act
 - Rep. Caraveo, Yadira [D-CO-8] (C001134)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Youth Poisoning Protection Act
 - 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 33 (Roll no. 206). (text: 5/14/2024 CR H3027)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 33 (Roll no. 206). (text: 5/14/2024 CR H3027)
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
