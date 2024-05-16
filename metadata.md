@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4510
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4510
@@ -20,9 +20,10 @@ NTIA Reauthorization Act of 2024
 
 - Rep. Matsui, Doris O. [D-CA-7] (M001163)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ NTIA Reauthorization Act of 2024
 - 2024-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 36 (Roll no. 205). (text: 5/14/2024 CR H3014-3025)
 - 2024-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 36 (Roll no. 205). (text: 5/14/2024 CR H3014-3025)
+- 2024-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
