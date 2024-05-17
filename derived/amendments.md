@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7251
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,27 +26,27 @@ to guess them.
 
 ### 42 U.S.C. § 300d-71
 
-> Section 1271(c) of the Public Health Service Act (42 U.S.C. 300d–71(c)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2024 through 2028”.
+> Section 1271(c) of the Public Health Service Act (42 U.S.C. 300d–71(c)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2020 through 2024` |
-| Inserted | `fiscal years 2024 through 2028` |
+| Inserted | `fiscal years 2025 through 2029` |
 
 ### 42 U.S.C. § 300d-72
 
-> Section 1272(c) of the Public Health Service Act (42 U.S.C. 300d–72(c)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2024 through 2028”.
+> Section 1272(c) of the Public Health Service Act (42 U.S.C. 300d–72(c)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2020 through 2024` |
-| Inserted | `fiscal years 2024 through 2028` |
+| Inserted | `fiscal years 2025 through 2029` |
 
 ### 42 U.S.C. § 300d-73
 
-> Section 1273(g) of the Public Health Service Act (42 U.S.C. 300d–73(g)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2024 through 2028”.
+> Section 1273(g) of the Public Health Service Act (42 U.S.C. 300d–73(g)) is amended by striking “fiscal years 2020 through 2024” and inserting “fiscal years 2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2020 through 2024` |
-| Inserted | `fiscal years 2024 through 2028` |
+| Inserted | `fiscal years 2025 through 2029` |
