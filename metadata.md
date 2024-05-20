@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8146
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8146
@@ -16,9 +16,10 @@ Police Our Border Act
 
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -85,3 +86,4 @@ Police Our Border Act
 - 2024-05-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8146.
 - 2024-05-16 — The Speaker designated the Honorable John H. Rutherford to act as Chairman of the Committee.
 - 2024-05-16 — The previous question was ordered pursuant to the rule.
+- 2024-05-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
