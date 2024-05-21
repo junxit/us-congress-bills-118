@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 58
 congress: 118
-version: Engrossed in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 58
