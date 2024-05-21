@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 9 executed, 29 stated and not applied.
+37 amendatory instructions. 8 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 40 U.S.C. § 11301
-
-> in paragraph (4)(A), by striking “$250,000,000” and inserting “$50,000,000” and by striking “fiscal years 2018 and 2019” and inserting “fiscal years 2024 through 2030”;
-
-| | |
-|---|---|
-| Removed | `$250,000,000` |
-| Inserted | `$50,000,000` |
 
 ### 40 U.S.C. § 11301
 
@@ -98,12 +89,12 @@ to guess them.
 
 ### 40 U.S.C. § 11301
 
-> in subsection (g)(1), as so redesignated, by striking “On and after the date that is 2 years after the date on which the Comptroller General of the United States issues the third report required under subsection (b)(7)(B),” and inserting “After December 31, 2030,”.
+> in subsection (g)(1), as so redesignated, by striking “On and after the date that is 2 years after the date on which the Comptroller General of the United States issues the third report required under subsection (b)(7)(B),” and inserting “After December 31, 2031,”.
 
 | | |
 |---|---|
 | Removed | `On and after the date that is 2 years after the date on which the Comptroller General of the United States issues the third report required under subsection (b)(7)(B),` |
-| Inserted | `After December 31, 2030,` |
+| Inserted | `After December 31, 2031,` |
 
 ## Stated, not applied
 

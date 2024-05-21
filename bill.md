@@ -33,8 +33,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
     >     - **(iv)** To transfer such amounts only for programs, projects, or activities that will be reimbursed to the Fund to the extent necessary to ensure total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1).
     >   - **(B)** *Termination or suspension of funds* The Administrator shall, in accordance with recommendations from the Board, suspend or terminate funding for any project with respect to which the head of an agency provided fraudulent or misleading statements about such project (including fraudulent statements about technical design, the business case, or program management with respect to the project) in the application or proposal for amounts from the Fund for such project.
 
-  - **(B)** in paragraph (4)(A), by striking “$250,000,000” and inserting “$50,000,000” and by striking “fiscal years 2018 and 2019” and inserting “fiscal years 2024 through 2030”;
-  - **(C)** in paragraph (5)—
+  - **(B)** in paragraph (5)—
     - **(i)** in subparagraph (A)—
       - **(I)** in clause (i)—
         - **(aa)** by striking “or (B)”; and
@@ -43,7 +42,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
     - **(ii)** in subparagraph (B)(i)—
       - **(I)** by striking “paragraph (3)(C)” and inserting “paragraph (3)(A)(ii)”; and
       - **(II)** by striking “the solvency of the Fund, including operating expenses” and inserting the following: “total amounts in the Fund are no less than the amounts needed to keep the Fund operational until the Fund sunsets pursuant to subsection (g)(1)”;
-  - **(D)** in paragraph (6)—
+  - **(C)** in paragraph (6)—
     - **(i)** in subparagraph (A)—
       - **(I)** in the matter before clause (i), by striking “subparagraphs (A) and (B) of paragraph (3)” and inserting the following: “paragraph (3)(A)(i) and before any services or work are provided under paragraph (3)(A)(ii)(I)”;
       - **(II)** in clause (i)—
@@ -63,7 +62,7 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
       - **(II)** in clause (ii)—
         - **(aa)** by striking “subparagraphs (A) and (B) of paragraph (3)” and inserting “paragraph (3)(A)(i)”; and
         - **(bb)** by striking “paragraph (6)” and inserting “this paragraph”;
-  - **(E)** in paragraph (7)—
+  - **(D)** in paragraph (7)—
     - **(i)** in subparagraph (A)(i)—
       - **(I)** by inserting “the written agreement entered into under paragraph (6),” after “description of the project,”; and
       - **(II)** by inserting “(including documented market research into commercial products and services)” after “used”;
@@ -125,4 +124,4 @@ Section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (Pub
   >     - **(A)** *Agency Chief Information Officer* The term agency Chief Information Officer means a Chief Information Officer designated under section 3506(a)(2) of title 44, United States Code.
   >     - **(B)** *Federal chief information officer* The term Federal Chief Information Officer means the Administrator of the Office of Electronic Government.
 
-- **(7)** in subsection (g)(1), as so redesignated, by striking “On and after the date that is 2 years after the date on which the Comptroller General of the United States issues the third report required under subsection (b)(7)(B),” and inserting “After December 31, 2030,”.
+- **(7)** in subsection (g)(1), as so redesignated, by striking “On and after the date that is 2 years after the date on which the Comptroller General of the United States issues the third report required under subsection (b)(7)(B),” and inserting “After December 31, 2031,”.
