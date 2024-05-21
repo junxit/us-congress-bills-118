@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5863
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5863
@@ -58,6 +58,10 @@ Federal Disaster Tax Relief Act of 2023
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2024-05-21 — [House 118-2-219](votes/house-118-2-0219.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (382–7)
+
 ## Actions
 
 - 2023-10-02 — Introduced in House
@@ -68,3 +72,11 @@ Federal Disaster Tax Relief Act of 2023
 - 2024-01-16 — Placed on the Union Calendar, Calendar No. 284.
 - 2024-01-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-348.
 - 2024-01-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-348.
+- 2024-05-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-05-21 — Considered as unfinished business. (consideration: CR H3387-3388)
+- 2024-05-21 — Considered under suspension of the rules. (consideration: CR H3379-3382)
+- 2024-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5863.
+- 2024-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-21 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)
+- 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)

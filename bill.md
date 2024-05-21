@@ -27,6 +27,9 @@ For purposes of applying section 304(b) of the Taxpayer Certainty and Disaster T
   - **(1)** no deduction or credit shall be allowed (to the person for whose benefit a qualified wildfire relief payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure, and
   - **(2)** no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
 - **(d)** *Limitation on application* This section shall only apply to qualified wildfire relief payments received by the individual during taxable years beginning after December 31, 2019, and before January 1, 2026.
+- **(e)** *Extension of period of limitation* In the case of a claim for credit or refund which is properly allocable to the exclusion which is described in subsection (a)—
+  - **(1)** the period of limitation prescribed in section 6511(a) of the Internal Revenue Code of 1986 for the filing of such claim shall be treated as not expiring earlier than the date that is 1 year after the date of the enactment of this Act, and
+  - **(2)** any limitation described in section 6511(b)(2) of such Code shall not apply.
 
 ## § 4. East Palestine disaster relief payments
 
