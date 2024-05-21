@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 807
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -56,7 +56,7 @@ The Congress finds the following:
   - **(1)** *In general* The designs of the coins minted under this Act shall be emblematic of the vast contributions that working dogs serve in society to include the range of services that these dogs provide in detection, military service, therapy and assistance.
   - **(2)** *Designs and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2025”; and
+    - **(B)** an inscription of the year “2027”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The designs for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with—
@@ -68,7 +68,7 @@ The Congress finds the following:
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
 - **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2025.
+- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2027.
 
 ## § 6. Sale of coins
 
