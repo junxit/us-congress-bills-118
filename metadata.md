@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8369
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8369
@@ -169,3 +169,5 @@ Israel Security Assistance Support Act
 - 2024-05-16 — Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7343, H.R. 8146, H.R. 7581, H.R. 354, H. Res. 1213 and H. Res. 1210. Rule provides for consideration of H.R. 8369, H.R. 7530, H.R. 7581, H.R. 354, H. Res. 1213, and H. Res. 1210 under a closed rule with one hour of general debate each. Rule provides for consideration of H.R. 7343 and H.R. 8146 under a structured rule with one hour of general debate each. Rule provides for one motion to recommit each on H.R. 8369, H.R. 7530, H.R. 7343, H.R. 7581, H.R. 354, and H.R. 8146.
 - 2024-05-16 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-05-16 — The previous question was ordered pursuant to the rule.
+- 2024-05-20 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-05-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
