@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 58
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 58
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (29)
+## Cosponsors (36)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
@@ -47,12 +47,30 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Rounds, Mike [R-SD] (R000605)
 - Sen. Marshall, Roger [R-KS] (M001198)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Budd, Ted [R-NC] (B001305)
 
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-05-21 — [Senate 118-2-176](votes/senate-118-2-0176.md) — On the Joint Resolution — **Joint Resolution Passed** (50–45)
+
 ## Actions
 
 - 2024-02-01 — Introduced in Senate
 - 2024-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-05-21 — Measure laid before Senate by unanimous consent. (consideration: CR S3800)
+- 2024-05-21 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2024-05-21 — Passed Senate without amendment by Yea-Nay Vote. 50 - 45. Record Vote Number: 176. (text: CR S3800)
+- 2024-05-21 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 45. Record Vote Number: 176. (text: CR S3800)
+- 2024-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
+- 2024-05-21 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2024-05-21 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
