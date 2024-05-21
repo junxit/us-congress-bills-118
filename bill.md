@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3019
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,20 +18,29 @@ This Act may be cited as the “Federal Prison Oversight Act”.
 - **(a)** *In general* Section 413 of title 5, United States Code, is amended by adding at the end the following:
   > - **(e)** *Inspections regime*
   >   - **(1)** *Definitions* In this subsection:
-  >     - **(A)** *Bureau* The term Bureau means the Bureau of Prisons.
-  >     - **(B)** *Covered facility* The term covered facility—
+  >     - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  >       - **(i)** the Committee on the Judiciary and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+  >       - **(ii)** the Committee on the Judiciary and the Committee on Oversight and Accountability of the House of Representatives.
+  >     - **(B)** *Bureau* The term Bureau means the Bureau of Prisons.
+  >     - **(C)** *Covered facility* The term covered facility—
   >       - **(i)** means a correctional facility operated by the Bureau; and
-  >       - **(ii)** does not include a State, local, Tribal, or territorial facility.
-  >     - **(C)** *Family member* The term family member includes a grandparent, parent, sibling, spouse or domestic partner, child, aunt, uncle, cousin, niece, nephew, grandchild, or any other person related to an individual by blood, adoption, marriage, civil union, or a romantic or fostering relationship.
-  >     - **(D)** *Inspector General* The term Inspector General means the Inspector General of the Department of Justice.
-  >     - **(E)** *Ombudsman* The term Ombudsman means the Ombudsman established under paragraph (3)(A).
-  >     - **(F)** *Representative of an incarcerated person* The term representative of an incarcerated person includes paid or unpaid legal counsel or any other person or entity chosen by an incarcerated person to represent the interests of the incarcerated person.
-  >     - **(G)** *Sexual abuse* The term sexual abuse has the meaning given that term in section 115.6 of title 28, Code of Federal Regulations (or any successor thereto).
-  >     - **(H)** *Staff* The term staff means employees and contractors of the Bureau.
+  >       - **(ii)** does not include a post-incarceration residential re-entry center.
+  >     - **(D)** *Family advocate* The term family advocate includes—
+  >       - **(i)** a grandparent, parent, sibling, spouse or domestic partner, child, aunt, uncle, cousin, niece, nephew, grandchild, or any other person related to an individual by blood, adoption, marriage, civil union, a romantic or fostering relationship; or
+  >       - **(ii)** a friend of—
+  >         - **(I)** the incarcerated person; or
+  >         - **(II)** the family of the incarcerated person.
+  >     - **(E)** *Inspector General* The term Inspector General means the Inspector General of the Department of Justice.
+  >     - **(F)** *Ombudsman* The term Ombudsman means the Ombudsman established under paragraph (3)(A).
+  >     - **(G)** *Representative of an incarcerated person* The term representative of an incarcerated person includes paid or unpaid legal counsel or any other person or entity chosen by an incarcerated person to represent the interests of the incarcerated person.
+  >     - **(H)** *Sexual abuse* The term sexual abuse has the meaning given that term in section 115.6 of title 28, Code of Federal Regulations (or any successor thereto).
+  >     - **(I)** *Staff* The term staff means employees and contractors of the Bureau.
   >   - **(2)** *Inspections of covered facilities by the Inspector General*
   >     - **(A)** *Establishment of inspections regime*
   >       - **(i)** *In general* The Inspector General shall conduct periodic inspections of covered facilities pursuant to the requirements of this subsection.
-  >       - **(ii)** *Access to covered facilities* The Attorney General shall ensure that the Inspector General has access to any covered facility, including the incarcerated people, detainees, staff, bargaining unit representative organization, and any other information that the Inspector General determines is necessary to carry out the provisions of this subsection.
+  >       - **(ii)** *Access to covered facilities* The Attorney General shall ensure that the Inspector General has access to—
+  >         - **(I)** any covered facility (including the incarcerated people, detainees, staff, bargaining unit representative organization) in accordance with paragraph (4); and
+  >         - **(II)** any other information that the Inspector General determines is necessary to carry out the provisions of this subsection.
   >       - **(iii)** *Notice of inspections* An inspection of a covered facility under this subsection may be announced or unannounced.
   >       - **(iv)** *Community input* In developing the inspections regime under this subsection, the Inspector General is encouraged to consult formerly incarcerated people, family or representatives of incarcerated people, and community advocates.
   >     - **(B)** *Inspection criteria* An inspection of a covered facility under this subsection may include an assessment of the following:
@@ -42,7 +51,7 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >       - **(v)** The policies and procedures relating to visitation.
   >       - **(vi)** The policies and practices relating to classification and housing.
   >       - **(vii)** The policies and practices relating to the use of single-cell confinement, administrative segregation, and other forms of restrictive housing.
-  >       - **(viii)** The medical facilities and medical and mental health care, programs, procedures, and policies, including the number and qualifications of medical and mental health staff and the availability of gender-appropriate and trauma-responsive care for incarcerated people.
+  >       - **(viii)** The medical facilities and medical and mental health care, programs, procedures, and policies, including the number and qualifications of medical and mental health staff and the availability of sex-specific and trauma-responsive care for incarcerated people.
   >       - **(ix)** Medical services and mental health resources for staff.
   >       - **(x)** Lockdowns at the facility.
   >       - **(xi)** Credible allegations of incidents involving excessive use of force, completed, attempted, or threatened violence, including sexual abuse, or misconduct committed against incarcerated people.
@@ -60,14 +69,14 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >       - **(ii)** The Inspector General shall reevaluate the combined risk score methodology and inspection schedule periodically and may alter 1 or both to ensure that higher risk facilities are identified and receiving the appropriate frequency of inspection.
   >       - **(iii)** A determination by the Inspector General that 1 or more of the criteria listed in subparagraph (B) should be inspected, with regard to a covered facility or group of covered facilities.
   >     - **(D)** *Report*
-  >       - **(i)** *In general* Upon completion of an inspection of a covered facility under this subsection, or a group of inspections that assess the same or similar issues at more than 1 facility, the Inspector General shall produce a report to be made available to the Attorney General, the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives, employee representative organizations, and the public, that addresses 1 or more of the following topics:
+  >       - **(i)** *In general* Not later than 6 months after the completion of an inspection of a covered facility under this subsection, or a group of inspections that assess the same or similar issues at more than 1 facility, the Inspector General shall submit a final copy of the report to the Attorney General, the appropriate congressional committees, employee representative organizations, and the public, that addresses 1 or more of the following topics:
   >         - **(I)** A characterization of the conditions of confinement and working conditions, including a summary of the inspection criteria reviewed under clauses (ii) and (iii) of subparagraph (B).
   >         - **(II)** Recommendations made to the covered facility to improve safety and conditions within the facility, including recommendations regarding staffing.
   >         - **(III)** A recommended timeline for the next inspection and assessment, which shall not limit the authority of the Inspector General to perform additional inspections and assessments, announced or unannounced.
   >         - **(IV)** Any other issues or matters identified during the inspection of the facility or facilities.
   >       - **(ii)** *Consultation with stakeholders* In developing the recommendations described in clause (i), the Inspector General may consult with stakeholders, including employee representative organizations.
   >     - **(E)** *Risk score* Not later than 18 months after the date of enactment of the Federal Prison Oversight Act, the Inspector General shall establish methodology and protocols for determining the combined risk score of a covered facility, which—
-  >       - **(i)** shall be delivered to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
+  >       - **(i)** shall be delivered to the appropriate congressional committees; and
   >       - **(ii)** may be based on—
   >         - **(I)** frequency and duration of lockdowns;
   >         - **(II)** availability of programming;
@@ -90,7 +99,7 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >     - **(G)** *Rule of construction* The authority in this paragraph is consistent with and does not supersede, conflict with, or otherwise alter the authority provided to the Inspector General under section 406.
   >   - **(3)** *Ombudsman*
   >     - **(A)** *In general* Not later than 1 year after the date of enactment of the Federal Prison Oversight Act, the Attorney General shall establish in the Department of Justice an Ombudsman who may—
-  >       - **(i)** receive a complaint from an incarcerated person, a family member, a representative of an incarcerated person, staff, or others regarding issues that may adversely affect the health, safety, welfare, or rights of incarcerated people or staff, including—
+  >       - **(i)** receive a complaint from an incarcerated person, a family advocate, a representative of an incarcerated person, staff, a representative of staff, a Member of Congress, or a member of the judicial branch of the Federal Government regarding issues that may adversely affect the health, safety, welfare, or rights of incarcerated people or staff, including—
   >         - **(I)** abuse or neglect;
   >         - **(II)** the conditions of confinement, including the availability of health care;
   >         - **(III)** working conditions of staff;
@@ -118,14 +127,16 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >         - **(V)** rectify an omission.
   >     - **(D)** *Actions following a decision by the ombudsman*
   >       - **(i)** *Request for information about actions taken* If the Ombudsman so requests, the Bureau shall, within the time specified, respond to any inquiry or request for information from the Ombudsman and inform the Ombudsman about any action taken on the recommendations provided by the Ombudsman or the reasons for not complying with any request for information or recommendations.
-  >       - **(ii)** *Reporting of continuing issues* If the Ombudsman believes, based on an investigation conducted by the Ombudsman, that there has been or continues to be a significant health, safety, welfare, working conditions, or rehabilitation issue, the Ombudsman shall report the finding to the Attorney General, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives.
+  >       - **(ii)** *Reporting of continuing issues* If the Ombudsman believes, based on an investigation conducted by the Ombudsman, that there has been or continues to be a significant health, safety, welfare, working conditions, or rehabilitation issue, the Ombudsman shall report the finding to the Attorney General and the appropriate congressional committees.
   >       - **(iii)** *Monitoring of internal disciplinary actions of the bureau* In the event that the Bureau conducts an internal disciplinary investigation or review of 1 or more staff members of the Bureau as a result of an investigation by the Ombudsman, the Ombudsman may monitor the internal disciplinary action to ensure a fair and objective process.
   >   - **(4)** *Inspector General and Ombudsman access to Bureau of Prisons facilities*
-  >     - **(A)** *In general* Upon demand, in person or in writing and with or without prior notice, the Inspector General and the Ombudsman shall be granted access to all Bureau facilities, which shall include—
-  >       - **(i)** all areas that are used by incarcerated people, all areas that are accessible to incarcerated people, and access to programs for incarcerated people at any time of day; and
-  >       - **(ii)** the opportunity to—
-  >         - **(I)** conduct private and confidential interviews with any incarcerated person, staff, employee representative organization, or other person; and
-  >         - **(II)** communicate privately and confidentially, both formally and informally, with incarcerated people or staff by telephone, mail, electronic communication, and in person, which shall not be monitored or recorded by or conducted in the presence of staff.
+  >     - **(A)** *In general*
+  >       - **(i)** *Access to Bureau facilities* Except as provided in clause (ii), upon demand, in person or in writing and with or without prior notice, the Inspector General and the Ombudsman shall be granted access to all Bureau facilities, which shall include—
+  >         - **(I)** all areas that are used by incarcerated people, all areas that are accessible to incarcerated people, and access to programs for incarcerated people at any time of day; and
+  >         - **(II)** the opportunity to—
+  >           - **(aa)** conduct private and confidential interviews with any incarcerated person, staff, employee representative organization, or other person; and
+  >           - **(bb)** communicate privately and confidentially, both formally and informally, with incarcerated people or staff by telephone, mail, electronic communication, and in person, which shall not be monitored or recorded by or conducted in the presence of staff.
+  >       - **(ii)** *Exception* Clause (i) shall not apply in situations where the head of the covered facility provides evidence to the Inspector General or the Ombudsman that there is risk of serious and immediate physical harm to visitors due to an ongoing event that requires restricting access to the facility.
   >     - **(B)** *Purpose of visits* Access to Bureau facilities under subparagraph (A) is for the purposes of—
   >       - **(i)** conducting announced or unannounced inspections by the Inspector General as described in paragraph (2), including inspections to monitor the compliance of the Bureau with a corrective action plan described in paragraph (2)(F)(i);
   >       - **(ii)** conducting an investigation or other activity by the Ombudsman as described in paragraph (3); and
@@ -133,8 +144,8 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >     - **(C)** *Access to documents*
   >       - **(i)** *In general* The Inspector General and the Ombudsman have the right to access, inspect, and copy all relevant information, records, or documents in the possession or control of the Bureau that either the Inspector General or the Ombudsman considers necessary in an inspection, investigation, or other activity, and the Bureau shall assist the Inspector General and the Ombudsman in obtaining the necessary releases for those documents that are specifically restricted or privileged for use by the Bureau.
   >       - **(ii)** *Production of records* Following notification from the Inspector General or the Ombudsman with a written demand for access to Bureau records, the Bureau shall provide access to the requested documentation in a manner consistent with section 552a (commonly known as the “Privacy Act of 1974”)—
-  >         - **(I)** not later than 20 business days after receipt of the written request; or
-  >         - **(II)** in the case of records pertaining to the death of an incarcerated person or staff, threats of bodily harm including sexual or physical assaults, or the denial or delay of necessary medical treatment, not later than 5 business days after receipt of the written request, unless the Inspector General or the Ombudsman consents to an extension of that time frame.
+  >         - **(I)** not later than 30 business days after receipt of the written request; or
+  >         - **(II)** in the case of records pertaining to the death of an incarcerated person or staff, threats of bodily harm including sexual or physical assaults, or the denial or delay of necessary medical treatment, not later than 10 business days after receipt of the written request, unless the Inspector General or the Ombudsman consents to an extension of that time frame.
   >     - **(D)** *Minimize disruption of operations* The Inspector General and the Ombudsman shall—
   >       - **(i)** develop procedures—
   >         - **(I)** to ensure that the Inspector General has access to, and the right to review and investigate, any allegations received by the Ombudsman to ensure that the Inspector General may carry out the authorities provided to the Inspector General under this chapter; and
@@ -153,8 +164,8 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >     - **(C)** *Exception* The Inspector General and the Ombudsman may disclose identifying information for the sole purpose of carrying out an investigation and as otherwise authorized under section 407(b).
   >   - **(6)** *Filing complaints*
   >     - **(A)** *Filing complaints on behalf of an incarcerated individual*
-  >       - **(i)** *Online form* The Ombudsman shall create a secure online form to be made available on the website of the Ombudsman where the family members, friends, and representatives of incarcerated people can submit complaints and inquiries on issues identified in paragraph (3)(A)(i) on behalf of an individual incarcerated at a covered facility.
-  >       - **(ii)** *Telephone hotline* The Ombudsman shall create a telephone hotline through which family members, friends, and representatives of incarcerated people can call to file complaints and inquiries on issues identified in paragraph (3)(A)(i) on behalf of an individual incarcerated at a covered facility.
+  >       - **(i)** *Online form* The Ombudsman shall create a secure online form to be made available on the website of the Ombudsman where the family advocates and representatives of incarcerated people can submit complaints and inquiries on issues identified in paragraph (3)(A)(i) on behalf of an individual incarcerated at a covered facility.
+  >       - **(ii)** *Telephone hotline* The Ombudsman shall create a telephone hotline through which family advocates and representatives of incarcerated people can call to file complaints and inquiries on issues identified in paragraph (3)(A)(i) on behalf of an individual incarcerated at a covered facility.
   >     - **(B)** *Filing complaints by an incarcerated individual*
   >       - **(i)** *Internal private submission* The Bureau shall provide multiple internal ways for incarcerated individuals in covered facilities to privately submit to the Ombudsman complaints and inquiries on issues identified in paragraph (3)(A)(i).
   >       - **(ii)** *Submission via independent entity* The Bureau shall also provide not less than 1 process for incarcerated individuals in covered facilities to submit complaints and inquiries on issues identified in paragraph (3)(A)(i) to a public or private entity or office that is not part of the Bureau and that is able to receive and immediately forward complaints and inquiries to the Ombudsman, allowing the incarcerated individual to remain anonymous upon request.
@@ -173,3 +184,4 @@ This Act may be cited as the “Federal Prison Oversight Act”.
   >   - **(9)** *Percentage of annual appropriation for the bureau of prisons* It is the sense of Congress that the amount allocated to the Inspector General and the Ombudsman to carry out the activities described in this subsection should equal an amount between 0.2 percent and 0.5 percent of the annual appropriation for the Bureau.
 
 - **(b)** *Effective Date* This Act, and the amendments made by this Act, shall take effect on the date that is 90 days after the date on which appropriations are made available to the Inspector General of the Department of Justice and the Department of Justice for the specific purpose of carrying out the provisions of this Act and the amendments made by this Act.
+- **(c)** *Augmentation* On and after the effective date of this Act, the Bureau of Prisons shall implement the directive in the second sentence on the topic “Augmentation” in the matter under the heading “SALARIES AND EXPENSES” under the heading “FEDERAL PRISON SYSTEM” in the joint explanatory statement accompanying Public Law 117–328.
