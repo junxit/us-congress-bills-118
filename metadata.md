@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5754
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5754
@@ -99,3 +99,9 @@ To designate the United States courthouse located at 350 W. 1st Street, Los Ange
 - 2024-05-14 — Placed on the House Calendar, Calendar No. 75.
 - 2024-05-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-503.
 - 2024-05-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-503.
+- 2024-05-21 — Considered under suspension of the rules. (consideration: CR H3383-3385)
+- 2024-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5754.
+- 2024-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill, as amended.
+- 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3383)
+- 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3383)
