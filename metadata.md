@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3317
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3317
@@ -42,3 +42,9 @@ Rolling Stock Protection Act
 - 2024-05-14 — Placed on the Union Calendar, Calendar No. 423.
 - 2024-05-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-508.
 - 2024-05-14 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-508.
+- 2024-05-21 — Considered under suspension of the rules. (consideration: CR H3382-3383)
+- 2024-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3317.
+- 2024-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill.
+- 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3382)
+- 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3382)
