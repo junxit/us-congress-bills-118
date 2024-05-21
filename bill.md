@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6160
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Reauthorization of lifespan respite care program
 
-Section 2905 of the Public Health Service Act (42 U.S.C. 300ii–4) is amended by striking “fiscal years 2020 through fiscal year 2024” and inserting “fiscal years 2024 through 2028”.
+Section 2905 of the Public Health Service Act (42 U.S.C. 300ii–4) is amended by striking “fiscal years 2020 through fiscal year 2024” and inserting “fiscal years 2025 through 2029”.

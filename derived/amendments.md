@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 300ii-4
 
-> Section 2905 of the Public Health Service Act (42 U.S.C. 300ii–4) is amended by striking “fiscal years 2020 through fiscal year 2024” and inserting “fiscal years 2024 through 2028”.
+> Section 2905 of the Public Health Service Act (42 U.S.C. 300ii–4) is amended by striking “fiscal years 2020 through fiscal year 2024” and inserting “fiscal years 2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2020 through fiscal year 2024` |
-| Inserted | `fiscal years 2024 through 2028` |
+| Inserted | `fiscal years 2025 through 2029` |
