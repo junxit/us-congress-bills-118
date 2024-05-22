@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3019
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3019
@@ -58,9 +58,10 @@ Federal Prison Oversight Act
 - Rep. Sorensen, Eric [D-IL-17] (S001225)
 - Rep. DeSaulnier, Mark [D-CA-10] (D000623)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ Federal Prison Oversight Act
 - 2024-05-21 — Ms. Mace moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 220). (text: CR H3369-3372)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 220). (text: CR H3369-3372)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
