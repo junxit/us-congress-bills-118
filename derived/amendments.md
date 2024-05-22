@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7189
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 280g-13
 
-> Section 399V–2(g) of the Public Health Service Act (42 U.S.C. 280g–13(g)) is amended by striking “2020 through 2024” and inserting “2025 through 2029”.
+> in subsection (h), as so redesignated, by striking “2020 through 2024” and inserting “2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `2020 through 2024` |
 | Inserted | `2025 through 2029` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 280g-13` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g-13` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

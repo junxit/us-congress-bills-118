@@ -15,4 +15,20 @@ This Act may be cited as the “Congenital Heart Futures Reauthorization Act of 
 
 ## § 2. Reauthorization of national congenital heart disease research, surveillance, and awareness program
 
-Section 399V–2(g) of the Public Health Service Act (42 U.S.C. 280g–13(g)) is amended by striking “2020 through 2024” and inserting “2025 through 2029”.
+Section 399V–2 of the Public Health Service Act (42 U.S.C. 280g–13) is amended—
+
+- **(1)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively;
+- **(2)** by inserting after subsection (e) the following:
+  > - **(f)** *Report and strategy*
+  >   - **(1)** *Report* Not later than 2 years after the date of enactment of the Congenital Heart Futures Reauthorization Act of 2024, the Secretary shall issue a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate including the following:
+  >     - **(A)** A description of past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to congenital heart disease, including efforts to address the lifelong needs of congenital heart disease patients.
+  >     - **(B)** An assessment of past and present activities of the Department of Health and Human Services to increase education and training of health care providers with respect to congenital heart disease, including efforts to address the lifelong needs of congenital heart disease patients.
+  >     - **(C)** A description of the current workforce capacity in the United States of health care providers who treat adult patients living with congenital heart disease.
+  >   - **(2)** *Strategy*
+  >     - **(A)** *Development; submission to Congress* Not later than 1 year after submitting the report required by paragraph (1), the Secretary shall develop and submit to Congress a strategy for improving efforts to increase awareness and knowledge of the public and education and training of health care providers with respect to congenital heart disease. Such strategy shall include findings and recommendations to—
+  >       - **(i)** address any public awareness and research gaps and opportunities related to the lifelong needs of congenital heart disease patients, including long-term health outcomes, quality of life, mental health, and health care utilization;
+  >       - **(ii)** address any shortages in the current workforce of health care providers who treat adult patients living with congenital heart disease, which may include strategies to enhance fellowship training programs or other continuing education programs; and
+  >       - **(iii)** foster collaboration and dissemination of information across Federal agencies, health care providers, researchers, and patient organizations.
+  >     - **(B)** *Consultation* In developing the strategy under subparagraph (A), the Secretary shall, as appropriate, consult with qualified stakeholder groups, including patient organizations, health care professionals, research entities, health insurance providers, accrediting organizations, and relevant Federal agencies, including the Centers for Disease Control and Prevention, the National Institutes of Health, and the Health Resources and Services Administration.
+
+- **(3)** in subsection (h), as so redesignated, by striking “2020 through 2024” and inserting “2025 through 2029”.
