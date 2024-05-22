@@ -1,7 +1,7 @@
 ---
 measure: H.R. 807
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 807
@@ -337,3 +337,14 @@ Working Dog Commemorative Coin Act
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3374-3375)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3374-3375)
 - 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2024-11-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6638)
+- 2024-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-11-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-11-20 — Message on Senate action sent to the House.
+- 2024-11-21 — Presented to President.
+- 2024-11-21 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-109.
+- 2024-11-25 — Became Public Law No: 118-109.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
