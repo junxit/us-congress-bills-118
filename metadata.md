@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5863
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5863
@@ -82,3 +82,14 @@ Federal Disaster Tax Relief Act of 2023
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)
 - 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2024-12-04 — Passed Senate without amendment by Voice Vote. (consideration: CR S6813)
+- 2024-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-04 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2024-12-04 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2024-12-05 — Message on Senate action sent to the House.
+- 2024-12-10 — Presented to President.
+- 2024-12-10 — Presented to President.
+- 2024-12-12 — Became Public Law No: 118-148.
+- 2024-12-12 — Became Public Law No: 118-148.
+- 2024-12-12 — Signed by President.
+- 2024-12-12 — Signed by President.
