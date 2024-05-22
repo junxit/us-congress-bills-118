@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5863
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5863
@@ -54,9 +54,10 @@ Federal Disaster Tax Relief Act of 2023
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 - Rep. Stansbury, Melanie Ann [D-NM-1] (S001218)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,4 @@ Federal Disaster Tax Relief Act of 2023
 - 2024-05-21 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 7 (Roll no. 219). (text: CR H3379)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Finance.
