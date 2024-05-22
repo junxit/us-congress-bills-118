@@ -1,7 +1,7 @@
 ---
 measure: H.R. 807
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 807
@@ -318,10 +318,11 @@ Working Dog Commemorative Coin Act
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -335,3 +336,4 @@ Working Dog Commemorative Coin Act
 - 2024-05-21 — Mr. McHenry moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3374-3375)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3374-3375)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
