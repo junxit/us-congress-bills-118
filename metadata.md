@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5527
@@ -21,9 +21,10 @@ Modernizing Government Technology Reform Act
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Modernizing Government Technology Reform Act
 - 2024-05-21 — Ms. Mace moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3364-3365)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3364-3365)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
