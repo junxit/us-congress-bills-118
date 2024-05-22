@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5754
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5754
@@ -83,9 +83,10 @@ To designate the United States courthouse located at 350 W. 1st Street, Los Ange
 - Rep. Garamendi, John [D-CA-8] (G000559)
 - Rep. Duarte, John S. [R-CA-13] (D000633)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -105,3 +106,4 @@ To designate the United States courthouse located at 350 W. 1st Street, Los Ange
 - 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3383)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3383)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
