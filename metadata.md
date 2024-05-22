@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3317
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3317
@@ -26,9 +26,10 @@ Rolling Stock Protection Act
 - Rep. Garamendi, John [D-CA-8] (G000559)
 - Rep. Rouzer, David [R-NC-7] (R000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Rolling Stock Protection Act
 - 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill.
 - 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3382)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3382)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
