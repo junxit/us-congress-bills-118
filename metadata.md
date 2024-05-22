@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6248
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6248
@@ -37,9 +37,10 @@ Think Differently Transportation Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Underwood, Lauren [D-IL-14] (U000040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Think Differently Transportation Act
 - 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill, as amended.
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3385-3386)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3385-3386)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
