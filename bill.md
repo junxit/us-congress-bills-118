@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6829
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,84 +11,101 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Cardiomyopathy Health Education, Awareness, Research, and Training in the Schools Act of 2023” or the “HEARTS Act of 2023”.
+This Act may be cited as the “Cardiomyopathy Health Education, Awareness, and Research, and AED Training in the Schools Act of 2024” or the “HEARTS Act of 2024”.
 
-## § 2. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
+## § 2. Cardiomyopathy health education, awareness, and research, and AED training in schools
 
-Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following new section:
-
-> ## § 399V–8. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
->
-> - **(a)** *Materials and resources* Not later than 18 months after the date of the enactment of this section, the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention (in this section referred to as the “Director”) shall develop public education materials and resources to be disseminated to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals. The materials and resources shall include—
->   - **(1)** background information to increase education and awareness of cardiomyopathy;
->   - **(2)** guidelines regarding the placement of automated external defibrillators in schools, early childhood education programs, and child care centers;
->   - **(3)** training information on automated external defibrillators and cardiopulmonary resuscitation; and
->   - **(4)** recommendations for how schools, early childhood education programs, and child care centers can develop and implement a cardiac emergency response plan.
-> - **(b)** *Dissemination of materials and resources* Not later than 30 months after the date of the enactment of this section, the Secretary shall disseminate the materials and resources developed under subsection (a) in accordance with the following:
->   - **(1)** *Distribution by State educational agencies* The Secretary shall make available such materials and resources to State educational agencies to distribute—
->     - **(A)** to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals, the background materials developed under subsection (a)(1);
->     - **(B)** to parents, guardians, or other caregivers, the risk assessment for individuals with or at risk for cardiomyopathy developed pursuant to section 399V–9(b)(1); and
->     - **(C)** to school administrators, educators, school health professionals, and coaches—
->       - **(i)** the guidelines described in subsection (a)(2);
->       - **(ii)** the training information described in subsection (a)(3); and
->       - **(iii)** the recommendations described in subsection (a)(4).
->   - **(2)** *Dissemination to health departments and professionals* The Secretary shall make available the materials and resources developed under subsection (a) to State and local health departments, pediatricians, hospitals, and other health professionals, such as nurses and first responders.
->   - **(3)** *Posting on website*
->     - **(A)** *CDC*
->       - **(i)** *In general* The Secretary, through the Director, shall post the materials and resources developed under subsection (a) on the public Internet website of the Centers for Disease Control and Prevention.
->       - **(ii)** *Additional information* The Director is encouraged to maintain on such public Internet website such additional information regarding cardiomyopathy as deemed appropriate by the Director.
->     - **(B)** *State educational agencies* State educational agencies are encouraged to create public Internet webpages dedicated to cardiomyopathy and post the materials and resources developed under subsection (a) on such webpages.
-> - **(c)** *Definitions* In this section:
->   - **(1)** The term school administrator means a principal, director, manager, or other supervisor or leader within an elementary school, secondary school, State-based early childhood education program, or child care center.
->   - **(2)** The term school health professional means a health professional serving at an elementary school, secondary school, State-based early childhood education program, or child care center.
->   - **(3)** The terms early childhood education program, elementary school, and secondary school have the meanings given to those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
->   - **(4)** The term “cardiomyopathy” has the meaning given such term in section 399V–9(c).
-> - **(d)** *Authorization of appropriations* For carrying out this section and section 399V–9, there is authorized to be appropriated $5,000,000 for each of fiscal years 2025 through 2028.
-
-## § 3. Research and surveillance activities relating to cardiomyopathy
-
-- **(a)** *CDC research and surveillance* Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.), as amended by section 2, is further amended by adding at the end the following new section:
-  > ## § 399V–9. Research and surveillance activities relating to cardiomyopathy
+- **(a)** *In general* The Public Health Service Act is amended by inserting after section 312 (42 U.S.C. 244) the following:
+  > ## § 312A. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
   >
-  > - **(a)** *Reports on CDC national cardiomyopathy surveillance research activities*
-  >   - **(1)** *Initial report* Not later than June 1, 2024, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress an initial report on findings and data generated from surveillance and research activities conducted by the Centers for Disease Control and Prevention to improve the understanding of the prevalence and epidemiology of cardiomyopathy across the lifespan, from birth to adulthood, with particular interest in the following:
-  >     - **(A)** The health care costs, utilization, and natural history of individuals with cardiomyopathy, in both the pediatric and adult population.
+  > - **(a)** *Materials and resources* Not later than 18 months after the date of the enactment of the HEARTS Act of 2024, the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, shall develop public education materials and resources to be disseminated to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals. The materials and resources shall include—
+  >   - **(1)** information on the signs, symptoms, and risk factors associated with high-risk cardiac conditions and genetic heart rhythm abnormalities that may cause sudden cardiac arrest in children, adolescents, and young adults, including—
+  >     - **(A)** cardiomyopathy;
+  >     - **(B)** long QT syndrome, Brugada syndrome, catecholaminergic polymorphic ventricular tachycardia, short QT syndrome, and Wolff-Parkinson-White syndrome; and
+  >     - **(C)** other high-risk cardiac conditions, as determined by the Secretary;
+  >   - **(2)** guidelines regarding the placement of automated external defibrillators in schools, early childhood education programs, and child care centers;
+  >   - **(3)** training information on automated external defibrillators and cardiopulmonary resuscitation; and
+  >   - **(4)** recommendations for how schools, early childhood education programs, and child care centers can develop and implement a cardiac emergency response plan.
+  > - **(b)** *Dissemination of materials and resources* Not later than 30 months after the date of the enactment of the HEARTS Act of 2024, the Secretary shall disseminate the materials and resources developed under subsection (a) in accordance with the following:
+  >   - **(1)** *Distribution by State educational agencies* The Secretary shall make available such materials and resources to State educational agencies to distribute—
+  >     - **(A)** to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals, the information developed under subsection (a)(1);
+  >     - **(B)** to parents, guardians, or other caregivers, the cardiomyopathy risk assessment developed pursuant to section 312B(b)(1); and
+  >     - **(C)** to school administrators, educators, school health professionals, and coaches—
+  >       - **(i)** the guidelines described in subsection (a)(2);
+  >       - **(ii)** the training information described in subsection (a)(3); and
+  >       - **(iii)** the recommendations described in subsection (a)(4).
+  >   - **(2)** *Dissemination to health departments and professionals* The Secretary shall make available the materials and resources developed under subsection (a) to State and local health departments, pediatricians, hospitals, and other health professionals, such as nurses and first responders.
+  >   - **(3)** *Posting on website*
+  >     - **(A)** *CDC*
+  >       - **(i)** *In general* The Secretary, through the Director, shall post the materials and resources developed under subsection (a) on the public Internet website of the Centers for Disease Control and Prevention.
+  >       - **(ii)** *Additional information* The Director is encouraged to maintain on such public Internet website such additional information regarding cardiomyopathy as deemed appropriate by the Director.
+  >     - **(B)** *State educational agencies* State educational agencies are encouraged to create public Internet webpages dedicated to cardiomyopathy and post the materials and resources developed under subsection (a) on such webpages.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** The term cardiomyopathy means a heart disease that affects the heart’s muscle (myocardium)—
+  >     - **(A)** the symptoms of which may vary from case to case, including—
+  >       - **(i)** cases in which no symptoms are present (asymptomatic); and
+  >       - **(ii)** cases in which there are symptoms of a progressive condition that may result from an impaired ability of the heart to pump blood, such as fatigue, irregular heartbeats (arrhythmia), heart failure, and, potentially, sudden cardiac death; and
+  >     - **(B)** the recognized types of which include dilated, hypertrophic, restrictive, arrhythmogenic right ventricular dysplasia, and left ventricular non-compaction.
+  >   - **(2)** The term “Director” means the Director of the Centers for Disease Control and Prevention.
+  >   - **(3)** The terms early childhood education program, elementary school, and secondary school have the meanings given to those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(4)** The term school administrator means a principal, director, manager, or other supervisor or leader within an elementary school, secondary school, State-based early childhood education program, or child care center.
+  >   - **(5)** The term school health professional means a health professional serving at an elementary school, secondary school, State-based early childhood education program, or child care center.
+  >
+  > ## § 312B. Activities relating to cardiomyopathy
+  >
+  > - **(a)** *Report on CDC national cardiomyopathy activities*
+  >   - **(1)** *In general* Not later than 18 months after the date of the enactment of the HEARTS Act of 2024, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress a report on findings generated from existing activities conducted by the Centers for Disease Control and Prevention to improve the understanding of the prevalence and epidemiology of cardiomyopathy across the lifespan, from birth to adulthood, with particular interest in the following:
+  >     - **(A)** The natural history of individuals with cardiomyopathy, in both the pediatric and adult population.
   >     - **(B)** Estimates of cardiomyopathy-related emergency department visits and hospitalizations, in both the pediatric and adult population.
-  >   - **(2)** *Final report* Not later than January 1, 2029, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress a final report on the content described in paragraph (1).
-  >   - **(3)** *Public access* Subject to paragraph (4), the reports submitted under this subsection shall be made available to the public.
-  >   - **(4)** *Privacy protections* The Secretary shall ensure that this subsection is carried out in a manner that complies with all applicable privacy laws under Federal and State law.
+  >   - **(2)** *Public access* Subject to paragraph (3), the report submitted under this subsection shall be made available to the public.
+  >   - **(3)** *Privacy protections* The Secretary shall ensure that this subsection is carried out in a manner that complies with all applicable privacy laws under Federal and State law.
   > - **(b)** *Improving risk assessments for individuals with cardiomyopathy*
-  >   - **(1)** *In general* The Secretary shall develop and make publicly available a risk assessment for individuals with or at risk for cardiomyopathy. Such risk assessment shall, at a minimum, include the following:
-  >     - **(A)** Background information of the prevalence, incidence, and health impact of cardiomyopathy, including all forms of cardiomyopathy and their effects on pediatric, adolescent, and adult individuals.
-  >     - **(B)** A worksheet with variables and conditions for an individual or health care provider to use in assessing whether the individual is at risk for cardiomyopathy.
-  >     - **(C)** A worksheet with variables and stages of progression for an individual or health care provider to use in assessing whether and to what extent cardiomyopathy has progressed in the individual.
+  >   - **(1)** *In general* The Secretary shall develop and make publicly available a cardiomyopathy risk assessment for health care providers and individuals. Such risk assessment shall, at a minimum, include the following:
+  >     - **(A)** Background information on the prevalence, incidence, and health impact of cardiomyopathy, including all forms of cardiomyopathy and their effects on pediatric, adolescent, and adult individuals.
+  >     - **(B)** A worksheet with variables and conditions for an individual or health care provider to use in assessing whether an individual is at risk for cardiomyopathy.
+  >     - **(C)** A worksheet with variables and stages of progression for an individual or health care provider to use in assessing whether and to what extent cardiomyopathy has progressed in an individual.
   >     - **(D)** Guidelines on cardiomyopathy screenings for individuals who are at risk for, or have a family history of, cardiomyopathy.
   >   - **(2)** *Stakeholder Input* In carrying out paragraph (1), the Director of the Centers for Disease Control and Prevention shall seek input from external stakeholders including—
   >     - **(A)** representatives from national patient advocacy organizations expert in all forms of cardiomyopathy;
   >     - **(B)** representatives from medical professional societies that specialize in the care of adults and pediatrics with cardiomyopathy; and
   >     - **(C)** representatives from other relevant Federal agencies.
-  > - **(c)** *Cardiomyopathy defined* For purposes of this section, the term cardiomyopathy means a heart disease that affects the heart’s muscle (myocardium)—
-  >   - **(1)** the symptoms of which may vary from case to case, including—
-  >     - **(A)** cases in which no symptoms are present (asymptomatic); and
-  >     - **(B)** cases in which there are symptoms of a progressive condition that may result from an impaired ability of the heart to pump blood, such as fatigue, irregular heartbeats (arrhythmia), heart failure, and, potentially, sudden cardiac death; and
-  >   - **(2)** the recognized types of which include dilated, hypertrophic, restrictive, arrhythmogenic right ventricular dysplasia, and left ventricular non-compaction.
-
-- **(b)** *NIH research* Part A of title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by inserting after section 404E the following new section:
-  > ## § 404F. Cardiomyopathy research
+  > - **(c)** *Definition* In this section, the term “cardiomyopathy” has the meaning given to such term in section 312A.
   >
-  > - **(a)** *In general* The Director of NIH may expand, intensify, and coordinate research and related activities of the National Institutes of Health with respect to cardiomyopathy, which may include research with respect to—
+  > ## § 312C. Cardiomyopathy research
+  >
+  > - **(a)** *In general* The Secretary, in consultation with the Director of the National Institutes of Health, may expand and coordinate research and related activities of the National Institutes of Health with respect to cardiomyopathy, which may include research with respect to—
   >   - **(1)** causation of cardiomyopathy, including genetic causes and molecular biomarkers;
   >   - **(2)** long-term health outcomes in individuals with cardiomyopathy, including infants, children, teenagers, adults, and elderly individuals; and
   >   - **(3)** studies using longitudinal data and retrospective analysis to identify effective treatments and outcomes for individuals with cardiomyopathy.
-  > - **(b)** *Cardiomyopathy defined* For purposes of this section, the term cardiomyopathy means a heart disease that affects the heart’s muscle (myocardium)—
-  >   - **(1)** the symptoms of which may vary from case to case, including—
-  >     - **(A)** cases in which no symptoms are present (asymptomatic); and
-  >     - **(B)** cases in which there are symptoms of a progressive condition that may result from an impaired ability of the heart to pump blood, such as fatigue, irregular heartbeats (arrhythmia), heart failure, and, potentially, sudden cardiac death; and
-  >   - **(2)** the recognized types of which include dilated, hypertrophic, restrictive, arrhythmogenic right ventricular dysplasia, and left ventricular non-compaction.
+  > - **(b)** *Nonduplication* The Secretary shall ensure that any research and activities related to cardiomyopathy under this section do not unnecessarily duplicate activities, programs, or efforts of other agencies and offices within the Department of Health and Human Services.
+  > - **(c)** *NIH report* Not later than 18 months after the date of the enactment of the HEARTS Act of 2024, the Secretary, in consultation with the Director of the National Institutes of Health, shall submit to Congress a report—
+  >   - **(1)** outlining the ongoing research efforts of the National Institutes of Health regarding cardiomyopathy; and
+  >   - **(2)** identifying—
+  >     - **(A)** a research agenda regarding adult forms of cardiomyopathy;
+  >     - **(B)** plans for researching cardiomyopathy affecting the pediatric population; and
+  >     - **(C)** the areas of greatest need for such research.
+  > - **(d)** *Cardiomyopathy defined* In this section, the term cardiomyopathy has the meaning given to such term in section 312A.
+  >
+  > ## § 312D. Promoting student access to AEDs and CPR
+  >
+  > - **(a)** *In general* The Secretary shall award grants to eligible entities to develop and implement a comprehensive program to promote student access to automated external defibrillators (in this section referred to as “AEDs”) and cardiopulmonary resuscitation (in this section referred to as “CPR”) in public elementary schools and secondary schools.
+  > - **(b)** *Use of funds* An eligible entity receiving a grant under subsection (a) may use funds received through such grant to carry out any of the following activities:
+  >   - **(1)** Developing and providing comprehensive materials to establish AED and CPR programs in public elementary schools and secondary schools.
+  >   - **(2)** Providing support for CPR and AED training programs in such schools for students, staff, and related sports volunteers.
+  >   - **(3)** Providing support for developing a cardiac emergency response plan within such schools.
+  >   - **(4)** Purchasing AEDs that have been approved under section 515 of the Federal Food, Drug, and Cosmetic Act, cleared under section 510(k) of such Act, or classified under section 513(f)(2) of such Act.
+  >   - **(5)** Purchasing necessary AED batteries and performing necessary AED maintenance (such as by replacing AED pads) in accordance with the labeling of the AED involved.
+  >   - **(6)** Replacing old and outdated AED and CPR equipment, machinery, and educational materials.
+  > - **(c)** *Eligibility; application* To be eligible for a grant under subsection (a), an entity shall—
+  >   - **(1)** be a local educational agency (including a public charter school operating as a local educational agency under State law), in consultation with a qualified health care entity; and
+  >   - **(2)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
+  > - **(d)** *Definitions* In this section:
+  >   - **(1)** *ESEA terms* The terms “elementary school”, “local educational agency”, and “secondary school” have the meanings given such terms in section 8101 of the Elementary and Secondary Education Act of 1965.
+  >   - **(2)** *Qualified health care entity* The term “qualified health care entity” means a health care entity that—
+  >     - **(A)** is—
+  >       - **(i)** a public entity; or
+  >       - **(ii)** an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code;
+  >     - **(B)** demonstrates an ability to develop, train, and implement a comprehensive program to promote student access to defibrillation in public elementary and secondary schools; and
+  >     - **(C)** is qualified in providing technical assistance in AED and CPR training.
 
-- **(c)** *NIH report* Not later than 18 months after the date of the enactment of this Act, the Director of the National Institutes of Health shall submit to Congress a report—
-  - **(1)** outlining the ongoing research efforts of the National Institutes of Health regarding cardiomyopathy; and
-  - **(2)** identifying—
-    - **(A)** a research agenda regarding adult forms of cardiomyopathy;
-    - **(B)** plans for researching cardiomyopathy affecting the pediatric population; and
-    - **(C)** the areas of greatest need for such research.
+- **(b)** *Authorization of appropriations* Section 312(e) of the Public Health Service Act (42 U.S.C. 244(e)) is amended by striking the first sentence and inserting the following: “For the purpose of carrying out this section and sections 312A, 312B, 312C, and 312D, there is authorized to be appropriated $25,000,000 for each of fiscal years 2025 through 2029.”.
