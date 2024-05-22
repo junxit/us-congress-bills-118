@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3019
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3019
@@ -83,3 +83,14 @@ Federal Prison Oversight Act
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 220). (text: CR H3369-3372)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 2 (Roll no. 220). (text: CR H3369-3372)
 - 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2024-07-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4334-4337)
+- 2024-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4334-4337)
+- 2024-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-07-12 — Message on Senate action sent to the House.
+- 2024-07-23 — Presented to President.
+- 2024-07-23 — Presented to President.
+- 2024-07-25 — Became Public Law No: 118-71.
+- 2024-07-25 — Became Public Law No: 118-71.
+- 2024-07-25 — Signed by President.
+- 2024-07-25 — Signed by President.
