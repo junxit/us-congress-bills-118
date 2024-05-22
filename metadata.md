@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5799
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5799
@@ -41,9 +41,10 @@ James R. Dominguez Memorial Act of 2023
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ James R. Dominguez Memorial Act of 2023
 - 2024-05-21 — Mr. Molinaro moved to suspend the rules and pass the bill.
 - 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3386-3387)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3386-3387)
+- 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
