@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4688
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4688
@@ -45,3 +45,8 @@ To direct the Administrator of General Services to sell the property known as th
 - 2023-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6086)
 - 2023-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6086)
 - 2023-12-05 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2024-05-22 — Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 118-719.
+- 2024-05-22 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-22 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-05-22 — Committee on Environment and Public Works. Reported by Senator Carper with an amendment in the nature of a substitute. Without written report.
+- 2024-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.
