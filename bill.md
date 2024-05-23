@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 555
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,20 +22,20 @@ This Act may be cited as the “Securing America’s Vaccines for Emergencies Ac
 
 - **(b)** *Strengthening domestic capability* Section 107 of the Defense Production Act of 1950 (50 U.S.C. 4517) is amended—
   - **(1)** in subsection (a), by inserting “(including medical materials)” after “materials”; and
-  - **(2)** in subsection (b)(1), by inserting “(including medical materials such as drugs, devices, and biological products to diagnose, cure, mitigate, treat, or prevent disease that are essential to national defense)” after “essential materials”.
+  - **(2)** in subsection (b)(1), by inserting “(including medical materials such as drugs (as defined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.)), devices, and biological products (as that term is defined in section 351 of the Public Health Service Act (42 U.S.C. 262)) to diagnose, cure, mitigate, treat, or prevent disease that are essential to national defense)” after “essential materials”.
 - **(c)** *Strategy on securing supply chains for medical materials* Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amended by adding at the end the following:
   > ## § 109. Strategy on securing supply chains for medical materials
   >
   > - **(a)** *In general* Not later than 180 days after the date of the enactment of this section, the President, in consultation with the Secretary of Health and Human Services, the Secretary of Commerce, the Secretary of Homeland Security, and the Secretary of Defense, shall transmit a strategy to the appropriate Members of Congress that includes the following:
-  >   - **(1)** A detailed plan to use the authorities under this title and title III, or any other provision of law, to ensure the supply of medical materials (including drugs, devices, and biological products (as that term is defined in section 351 of the Public Health Service Act (42 U.S.C. 262)) to diagnose, cure, mitigate, treat, or prevent disease) essential to national defense, to the extent necessary for the purposes of this Act.
+  >   - **(1)** A detailed plan to use the authorities under this title and title III, or any other provision of law, to ensure the supply of medical materials (including drugs (as defined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.)), devices, and biological products (as that term is defined in section 351 of the Public Health Service Act (42 U.S.C. 262)) to diagnose, cure, mitigate, treat, or prevent disease) essential to national defense, to the extent necessary for the purposes of this Act.
   >   - **(2)** An analysis of vulnerabilities to existing supply chains for such medical materials, and recommendations to address the vulnerabilities.
   >   - **(3)** Measures to be undertaken by the President to diversify such supply chains, as appropriate and as required for national defense.
   >   - **(4)** A discussion of—
-  >     - **(A)** any significant effects resulting from the plan and measures described in this subsection on the production, cost, or distribution of biological products (as that term is defined in section 351 of the Public Health Service Act (42 U.S.C. 262)) or any other devices or drugs (as defined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.));
+  >     - **(A)** any significant effects resulting from the plan and measures described in this subsection on the production, cost, or distribution of biological products or any other devices or drugs;
   >     - **(B)** a timeline to ensure that essential components of the supply chain for medical materials are not under the exclusive control of a foreign government in a manner that the President determines could threaten the national defense of the United States; and
   >     - **(C)** efforts to mitigate any risks resulting from the plan and measures described in this subsection to United States competitiveness, scientific leadership, and innovative capacity, including efforts to cooperate and proactively engage with United States allies.
-  > - **(b)** *Progress Report* Following submission of the strategy under subsection (a), the President shall submit to the appropriate Members of Congress an annual progress report until September 30, 2025, evaluating the implementation of the strategy, and may include updates to the strategy as appropriate. The strategy and progress reports shall be submitted in unclassified form but may contain a classified annex.
-  > - **(c)** *Appropriate Members of Congress* The term appropriate Members of Congress means the Speaker, majority leader, and minority leader of the House of Representatives, the majority leader and minority leader of the Senate, the Chairman and Ranking Member of the Committee on Financial Services of the House of Representatives, and the Chairman and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  > - **(b)** *Progress Report* Following submission of the strategy under subsection (a), the President shall submit to the appropriate Members of Congress an annual progress report until September 30, 2027, evaluating the implementation of the strategy, and may include updates to the strategy as appropriate. The strategy and progress reports shall be submitted in unclassified form but may contain a classified annex.
+  > - **(c)** *Appropriate Members of Congress* In this section, the term appropriate Members of Congress means the Speaker, majority leader, and minority leader of the House of Representatives, the majority leader and minority leader of the Senate, the Chairman and Ranking Member of the Committee on Financial Services of the House of Representatives, and the Chairman and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 ## § 3. Investment in supply chain security
 
@@ -54,6 +54,6 @@ This Act may be cited as the “Securing America’s Vaccines for Emergencies Ac
   - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the President shall prescribe regulations setting forth definitions for the terms supply chain and supply chain activities for the purposes of section 303(h) of the Defense Production Act of 1950 (50 U.S.C. 4533(h)), as added by subsection (a).
   - **(2)** *Scope of definitions* The definitions required by paragraph (1)—
     - **(A)** shall encompass—
-      - **(i)** the organization, people, activities, information, and resources involved in the delivery and operation of a product or service used by the Government; or
+      - **(i)** the organizations, people, activities, information, and resources involved in the delivery and operation of a product or service used by the Government; or
       - **(ii)** critical infrastructure as defined in Presidential Policy Directive 21 (February 12, 2013; relating to critical infrastructure security and resilience); and
     - **(B)** may include variations as determined necessary and appropriate by the President for purposes of national defense.

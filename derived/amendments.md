@@ -1,7 +1,7 @@
 ---
 measure: H.R. 555
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,6 +34,6 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4502` | redesignate | by redesignating paragraphs (3) through (8) as paragraphs (4) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4502` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4517` | insert | in subsection (a), by inserting “(including medical materials)” after “materials”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 4517` | insert | in subsection (b)(1), by inserting “(including medical materials such as drugs, devices, and biological products to diagnose, cure, mitigate, treat, or prevent disease that are essential to national defense)” after “essential materials”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 301` | insert | in subsection (b)(1), by inserting “(including medical materials such as drugs (as defined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.)), devices, and biological products (as that term is defined in section 351 … | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4511` | add-at-end | Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4533` | add-at-end | Section 303 of the Defense Production Act of 1950 (50 U.S.C. 4533) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
