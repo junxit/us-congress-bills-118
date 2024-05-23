@@ -1,7 +1,7 @@
 ---
 measure: S. 3971
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3971
@@ -28,3 +28,8 @@ Small Business Contracting Transparency Act of 2024
 
 - 2024-03-19 — Introduced in Senate
 - 2024-03-19 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2024-03-20 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2024-05-22 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen with an amendment in the nature of a substitute. Without written report.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen with an amendment in the nature of a substitute. Without written report.
+- 2024-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
