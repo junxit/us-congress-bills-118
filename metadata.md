@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5403
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5403
@@ -188,6 +188,13 @@ CBDC Anti-Surveillance State Act
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2024-05-23 — [House 118-2-227](votes/house-118-2-0227.md) — On Agreeing to the Amendment — **Agreed to** (204–176)
+- 2024-05-23 — [House 118-2-228](votes/house-118-2-0228.md) — On Agreeing to the Amendment — **Agreed to** (206–193)
+- 2024-05-23 — [House 118-2-229](votes/house-118-2-0229.md) — On Agreeing to the Amendment — **Agreed to** (212–195)
+- 2024-05-23 — [House 118-2-230](votes/house-118-2-0230.md) — On Passage — **Passed** (216–192)
+
 ## Actions
 
 - 2023-09-12 — Introduced in House
@@ -198,3 +205,39 @@ CBDC Anti-Surveillance State Act
 - 2024-05-07 — Placed on the Union Calendar, Calendar No. 409.
 - 2024-05-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-493.
 - 2024-05-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-493.
+- 2024-05-21 — Rules Committee Resolution H. Res. 1243 Reported to House. Rule provides for consideration of H.R. 4763, H.R. 5403 and H.R. 192. The resolution provides for one hour of debate on each bill. H.R. 4763 and H.R. 5403 are considered under a structured rule and H.R. 192 is considered under a closed rule. The resolution provides for one motion to recommit on each bill.
+- 2024-05-23 — 
+- 2024-05-23 — 
+- 2024-05-23 — 
+- 2024-05-23 — Amendment (A001) offered by Mr. Ogles. (consideration: CR H3504-3505, H3506-3507; text: CR H3504)
+- 2024-05-23 — Amendment (A002) offered by Mr. Mooney. (consideration: CR H3505-3506, H3507-3508; text: CR H3505)
+- 2024-05-23 — Amendment (A003) offered by Mr. Davidson. (consideration: CR H3506, H3508; text: CR H3506)
+- 2024-05-23 — Considered under the provisions of rule H. Res. 1243. (consideration: H3496-3509)
+- 2024-05-23 — DEBATE - Pursuant to the provisions of H.Res. 1243, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson amendment No. 3.
+- 2024-05-23 — DEBATE - Pursuant to the provisions of H.Res. 1243, the Committee of the Whole proceeded with 10 minutes of debate on the Mooney amendment No. 2.
+- 2024-05-23 — DEBATE - Pursuant to the provisions of H.Res. 1243, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 1.
+- 2024-05-23 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5403.
+- 2024-05-23 — House Amendment Offered
+- 2024-05-23 — House Amendment Offered
+- 2024-05-23 — House Amendment Offered
+- 2024-05-23 — House amendment agreed to: On agreeing to the Davidson amendment (A003) Agreed to by recorded vote: 212 - 195 (Roll no. 229).
+- 2024-05-23 — House amendment agreed to: On agreeing to the Mooney amendment (A002) Agreed to by recorded vote: 206 - 193 (Roll no. 228).
+- 2024-05-23 — House amendment agreed to: On agreeing to the Ogles amendment (A001) Agreed to by recorded vote: 204 - 176 (Roll no. 227).
+- 2024-05-23 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1243 and Rule XVIII.
+- 2024-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-23 — On agreeing to the Davidson amendment (A003) Agreed to by recorded vote: 212 - 195 (Roll no. 229).
+- 2024-05-23 — On agreeing to the Mooney amendment (A002) Agreed to by recorded vote: 206 - 193 (Roll no. 228).
+- 2024-05-23 — On agreeing to the Ogles amendment (A001) Agreed to by recorded vote: 204 - 176 (Roll no. 227).
+- 2024-05-23 — On passage Passed by recorded vote: 216 - 192 (Roll no. 230).
+- 2024-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davidson amendment No. 3, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mooney amendment No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-23 — Passed/agreed to in House: On passage Passed by recorded vote: 216 - 192 (Roll no. 230).
+- 2024-05-23 — Roll call votes on amendments in House
+- 2024-05-23 — Roll call votes on amendments in House
+- 2024-05-23 — Roll call votes on amendments in House
+- 2024-05-23 — Rule provides for consideration of H.R. 4763, H.R. 5403 and H.R. 192. The resolution provides for one hour of debate on each bill. H.R. 4763 and H.R. 5403 are considered under a structured rule and H.R. 192 is considered under a closed rule. The resolution provides for one motion to recommit on each bill.
+- 2024-05-23 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-05-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5403.
+- 2024-05-23 — The Speaker designated the Honorable Clay Higgins to act as Chairman of the Committee.
+- 2024-05-23 — The previous question was ordered pursuant to the rule.

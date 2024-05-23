@@ -41,15 +41,25 @@ Section 16 of the Federal Reserve Act, as amended by section 3, is further amend
 - **(a)** *In general* The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after section 16 the following:
   > ## § 16A. Central bank digital currency
   >
-  > - **(a)** *In general* The Board of Governors of the Federal Reserve System may not, absent Congressional authorization, issue a central bank digital currency.
+  > - **(a)** *In general* The Board of Governors of the Federal Reserve System may not, absent Congressional authorization, design, build, develop, establish, or issue a central bank digital currency.
   > - **(b)** *Central bank digital currency defined* In this section, the term central bank digital currency means a form of digital money or monetary value, denominated in the national unit of account, that is a direct liability of the Federal Reserve System.
 
 - **(b)** *Treasury* Chapter 3 of subtitle I of title 31 of the United States Code is amended by inserting after section 316 the following:
   > ## § 317. Central bank digital currency
   >
-  > - **(a)** *In general* The Secretary of the Treasury may not, absent Congressional authorization, direct the Board of Governors of the Federal Reserve System to issue a central bank digital currency.
+  > - **(a)** *In general* The Secretary of the Treasury may not, absent Congressional authorization, direct the Board of Governors of the Federal Reserve System to design, build, develop, establish, or issue a central bank digital currency.
   > - **(b)** *Central Bank Digital Currency defined* In this section, the term central bank digital currency means a form of digital money or monetary value, denominated in the national unit of account, that is a direct liability of the central bank.
 
 ## § 6. Protection for open, permissionless, and private currency
 
-This Act and the amendments made by this Act shall not apply to any dollar-denominated currency that is open, permissionless, and private, and fully preserves the privacy protections of United States coins and physical currency.”
+This Act and the amendments made by this Act shall not apply to any dollar-denominated currency that is open, permissionless, and private, and fully preserves the privacy protections of United States coins and physical currency.
+
+## § 7. Sense of Congress
+
+It is the sense of Congress that the Board of Governors of the Federal Reserve System should not be permitted to develop, create, or implement a central bank digital currency, or use any such tool to implement monetary policy.
+
+## § 8. Prohibition on central bank digital currency testing
+
+Section 16A of the Federal Reserve Act, as added by section 5, is amended by adding at the end the following:
+
+> - **(C)** *Prohibition on central bank digital currency testing* Unless authorized by an Act of Congress enacted after the date of the enactment of this Act, the Board of Governors of the Federal Reserve System and the Federal reserve banks may not establish, carry out, or approve a program intended to test the practicability of issuing a central bank digital currency, including by partnering or coordinating with a private sector entity to carry out such a program.
