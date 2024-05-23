@@ -1,7 +1,7 @@
 ---
 measure: S. 3772
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3772
@@ -16,13 +16,14 @@ Simplifying Subcontracting Act
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Budd, Ted [R-NC] (B001305)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Kennedy, John [R-LA] (K000393)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Young, Todd [R-IN] (Y000064)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Simplifying Subcontracting Act
 
 - 2024-02-08 — Introduced in Senate
 - 2024-02-08 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2024-05-22 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen without amendment. Without written report.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen without amendment. Without written report.
+- 2024-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
