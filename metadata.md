@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7987
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7987
@@ -43,3 +43,7 @@ Plain Language in Contracting Act
 - 2024-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2645)
 - 2024-04-29 — Sponsor introductory remarks on measure. (CR H2638)
 - 2024-04-30 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2024-05-22 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen without amendment. Without written report.
+- 2024-05-23 — Committee on Small Business and Entrepreneurship. Reported by Senator Shaheen without amendment. Without written report.
+- 2024-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
