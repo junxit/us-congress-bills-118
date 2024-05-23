@@ -16,7 +16,7 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
 ## § 2. Advanced cement, concrete, and asphalt production research program
 
 - **(a)** *Program* Part I of subtitle C of title V of the Infrastructure Investment and Jobs Act (Public Law 117–58) is amended by inserting after section 40522 the following new section:
-  > ## § 40525. Advanced cement, concrete, and asphalt production research program
+  > ## § 40523. Advanced cement, concrete, and asphalt production research program
   >
   > - **(a)** *Definitions* In this section:
   >   - **(1)** *Advanced production* The term “advanced production” means production of cement, concrete, or asphalt with one or more of the following improvements with respect to the production of commercially available cement, concrete, or asphalt:
@@ -36,12 +36,12 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
   >     - **(F)** A partnership or consortium of two or more entities described in subparagraphs (A) through (E).
   >   - **(5)** *Engineering performance-based standard* The term “engineering performance-based standard” means an existing engineering standard with respect to which the requirements applicable to such standard are stated in terms of required results, with criteria for verifying compliance rather than specific composition, design, or procedure.
   >   - **(6)** *Institution of higher education* The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
-  >   - **(7)** *Low-emissions cement, concrete, and asphalt* The term “low-emissions cement, concrete, and asphalt” means cement, concrete, asphalt binder, or asphalt mixture that reduces, to the maximum extent practicable, greenhouse gas and directly-related copollutant emissions to levels below commercially available cement, concrete, or asphalt.
+  >   - **(7)** *Low-emissions cement, concrete, and asphalt* The term “low-emissions cement, concrete, and asphalt” means cement, concrete, asphalt binder, or asphalt mixture that reduces, to the maximum extent practicable, greenhouse gas or directly-related copollutant emissions to levels below commercially available cement, concrete, or asphalt.
   >   - **(8)** *Rural area* The term “rural area” has the meaning given such term in section 343(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a)).
   > - **(b)** *Establishment* Not later than 180 days after the date of the enactment of this section, the Secretary shall establish a program of research, development, demonstration, and commercial application of advanced tools, technologies, and methods for advanced production and use of low-emissions cement, concrete, and asphalt in order to—
   >   - **(1)** increase the technological and economic competitiveness of industry and production in the United States;
   >   - **(2)** expand and increase the stability of supply chains through enhanced domestic production, nearshoring, and cooperation with allies;
-  >   - **(3)** achieve measurable greenhouse gas and directly related copollutant emissions reductions in the production processes for cement, concrete, and asphalt products; and
+  >   - **(3)** achieve measurable greenhouse gas or directly related copollutant emissions reductions in the production processes for cement, concrete, and asphalt products; and
   >   - **(4)** create quality domestic jobs.
   > - **(c)** *Requirements* In carrying out the program under subsection (b), the Secretary shall—
   >   - **(1)** coordinate with the programs and activities authorized under title VI of division Z of the Consolidated Appropriations Act, 2021 (relating to industrial and manufacturing technologies) and the amendments made by such title;
@@ -62,7 +62,7 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
   >     - **(C)** Post combustion technologies.
   >     - **(D)** Direct carbon dioxide separation technologies.
   >   - **(2)** Materials, technologies, inputs, and processes that—
-  >     - **(A)** produce fewer greenhouse gas and directly related copollutant emissions during production, use, and end use of cement, concrete, and asphalt; or
+  >     - **(A)** produce fewer greenhouse gas or directly related copollutant emissions during production, use, and end use of cement, concrete, and asphalt; or
   >     - **(B)** provide quality, durability, resilience, engineering, or other performance metrics equal to or greater than commercially available products.
   >   - **(3)** Medium- and high-temperature heat-generation technologies used for the advanced production of low-emissions cement, concrete, and asphalt which may include the following:
   >     - **(A)** Alternative fuels.
@@ -73,7 +73,7 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
   >     - **(A)** Designing products that encourage reuse, refurbishment, remanufacturing, and recycling.
   >     - **(B)** Minimizing waste, including waste heat, from low-emissions cement, concrete, and asphalt production processes, including through the reuse of waste as a resource in other industrial processes for mutual benefit.
   >     - **(C)** Increasing the overall energy efficiency of low-emissions cement, concrete, and asphalt production processes, including through life cycle assessments.
-  >   - **(5)** Technologies and approaches to reduce greenhouse gas and directly related copollutant emissions from the advanced production of cement, concrete, and asphalt.
+  >   - **(5)** Technologies and approaches to reduce greenhouse gas or directly related copollutant emissions from the advanced production of cement, concrete, and asphalt.
   >   - **(6)** High-performance computing to develop advanced materials and production processes that may contribute to the focus areas described in paragraphs (1) through (5), including the following:
   >     - **(A)** Modeling, simulation, and optimization of the design of cost-effective and energy-efficient products and processes.
   >     - **(B)** The use of digital prototyping and additive production to enhance product design.
@@ -99,7 +99,7 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
   >     - **(B)** if any such demonstration is terminated, an assessment of the success of, and education provided by, the measures carried out by such demonstration.
   >   - **(4)** *Termination* The Secretary may terminate the demonstratives under paragraph (1) if the Secretary determines that sufficient low-emissions cement, concrete, and asphalt produced through advanced production are commercially available domestically at a price comparable to the price of cement, concrete, and asphalt produced through traditional methods of production.
   > - **(g)** *Technical assistance program*
-  >   - **(1)** *In general* The Secretary, in consultation with the Secretary of Transportation, the Secretary of Commerce (acting through the Director of the National Institute of Standards and Technology), the Administrator of General Services, and the Administrator of the Environmental Protection Agency, shall provide technical assistance to eligible entities to carry out an activity described in paragraph (2) to promote the commercial application of technologies for the production and use of low-emissions cement, concrete, and asphalt.
+  >   - **(1)** *In general* The Secretary, in consultation with the Secretary of Transportation, the Secretary of Commerce (acting through the Director of the National Institute of Standards and Technology), the Administrator of General Services, the Administrator of the Environmental Protection Agency, and appropriate representatives of relevant standards development organizations, shall provide technical assistance to eligible entities to carry out an activity described in paragraph (2) to promote the commercial application of technologies for the production and use of low-emissions cement, concrete, and asphalt.
   >   - **(2)** *Activities described* An activity referred to in paragraph (1) is any of the following:
   >     - **(A)** Efforts related to collecting data that could be used in the updating of local codes, specifications, and standards to engineering performance-based standards.
   >     - **(B)** A lifecycle assessment of the final product.
@@ -117,7 +117,7 @@ This Act may be cited as the “Innovative Mitigation Partnerships for Asphalt a
   >     - **(A)** leveraging the resources of relevant existing Manufacturing USA Institutes described in section 34(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278s(d));
   >     - **(B)** integrating program activities into a relevant existing Manufacturing USA Institute; or
   >     - **(C)** awarding financial assistance, consistent with section 34(e) of the National Institute of Standards and Technology Act (15 U.S.C. 278s(e)), to a person or group of persons to assist the person or group of persons in planning, establishing, or supporting a Manufacturing U.S.A. institute focused on advanced production of low-emissions cement, concrete, and asphalt.
-  >   - **(2)** *Other Federal agencies* In carrying out this section, the Secretary shall coordinate with other Federal agencies, including the Department of Defense, the Department of Transportation, and the National Institute of Standards and Technology, that are carrying out research and development initiatives to increase industrial competitiveness and achieve measurable greenhouse gas and directly related copollutant emissions reductions through the advanced production of cement, concrete, and asphalt.
+  >   - **(2)** *Other Federal agencies* In carrying out this section, the Secretary shall coordinate with other Federal agencies, including the Department of Defense, the Department of Transportation, and the National Institute of Standards and Technology, that are carrying out research and development initiatives to increase industrial competitiveness and achieve measurable greenhouse gas or directly related copollutant emissions reductions through the advanced production of cement, concrete, and asphalt.
   > - **(i)** *Sunset* This section shall terminate seven years after the date of the enactment of this section.
   > - **(j)** *Research security* The activities authorized under this section shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167 (42 U.S.C. 19231 et seq.)).
   > - **(k)** *Rule of construction* Nothing in this section may be construed to amend, alter, or affect the authorities of the Secretary to define, establish, or enforce new environmental industry standards for, or related to, cement, concrete, or asphalt.

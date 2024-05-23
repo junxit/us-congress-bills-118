@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7685
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7685
@@ -29,3 +29,8 @@ IMPACT Act
 - 2024-03-15 — Introduced in House
 - 2024-03-15 — Introduced in House
 - 2024-03-15 — Referred to the House Committee on Science, Space, and Technology.
+- 2024-03-20 — Committee Consideration and Mark-up Session Held
+- 2024-03-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 0.
+- 2024-05-23 — Placed on the Union Calendar, Calendar No. 434.
+- 2024-05-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-522.
+- 2024-05-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-522.
