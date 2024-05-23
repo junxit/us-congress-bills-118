@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1097
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1097
@@ -16,7 +16,7 @@ Everett Alvarez, Jr. Congressional Gold Medal Act of 2023
 
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Cosponsors (300)
+## Cosponsors (301)
 
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
@@ -318,6 +318,7 @@ Everett Alvarez, Jr. Congressional Gold Medal Act of 2023
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
 - Rep. Porter, Katie [D-CA-47] (P000618)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 
 ## Committees (2)
 
@@ -336,3 +337,14 @@ Everett Alvarez, Jr. Congressional Gold Medal Act of 2023
 - 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3376-3377)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3376-3377)
 - 2024-05-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2024-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6935)
+- 2024-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2024-12-11 — Message on Senate action sent to the House.
+- 2024-12-17 — Presented to President.
+- 2024-12-17 — Presented to President.
+- 2024-12-23 — Became Public Law No: 118-161.
+- 2024-12-23 — Became Public Law No: 118-161.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
