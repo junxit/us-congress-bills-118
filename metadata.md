@@ -1,7 +1,7 @@
 ---
 measure: H.R. 192
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 192
@@ -47,6 +47,11 @@ To prohibit individuals who are not citizens of the United States from voting in
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (2)
+
+- 2024-05-23 — [House 118-2-231](votes/house-118-2-0231.md) — On Motion to Recommit — **Failed** (195–212)
+- 2024-05-23 — [House 118-2-232](votes/house-118-2-0232.md) — On Passage — **Passed** (262–143)
+
 ## Actions
 
 - 2023-01-09 — Introduced in House
@@ -57,3 +62,22 @@ To prohibit individuals who are not citizens of the United States from voting in
 - 2023-07-18 — Placed on the Union Calendar, Calendar No. 118.
 - 2023-07-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-150.
 - 2023-07-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-150.
+- 2024-05-21 — Rules Committee Resolution H. Res. 1243 Reported to House. Rule provides for consideration of H.R. 4763, H.R. 5403 and H.R. 192. The resolution provides for one hour of debate on each bill. H.R. 4763 and H.R. 5403 are considered under a structured rule and H.R. 192 is considered under a closed rule. The resolution provides for one motion to recommit on each bill.
+- 2024-05-22 — Rule H. Res. 1243 passed House.
+- 2024-05-23 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: H3489-3496, H3510-3511; text: H3489)
+- 2024-05-23 — Considered as unfinished business. (consideration: CR H3509-3511)
+- 2024-05-23 — Considered under the provisions of rule H. Res. 1243. (consideration: CR H3489-3496)
+- 2024-05-23 — DEBATE - The House proceeded with one hour of debate on H.R. 192.
+- 2024-05-23 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-23 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-05-23 — Mr. Garcia, Robert moved to recommit to the Committee on Oversight and Accountability. (text: CR H3496)
+- 2024-05-23 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-05-23 — On motion to recommit Failed by the Yeas and Nays: 195 - 212 (Roll no. 231).
+- 2024-05-23 — On passage Passed by recorded vote: 262 - 143 (Roll no. 232).
+- 2024-05-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 192, the Chair put the question on the motion to recommit and by voice vote, announced that the nays had prevailed. Mr. Robert Garcia (CA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-05-23 — Passed/agreed to in House: On passage Passed by recorded vote: 262 - 143 (Roll no. 232).
+- 2024-05-23 — Rule provides for consideration of H.R. 4763, H.R. 5403 and H.R. 192. The resolution provides for one hour of debate on each bill. H.R. 4763 and H.R. 5403 are considered under a structured rule and H.R. 192 is considered under a closed rule. The resolution provides for one motion to recommit on each bill.
+- 2024-05-23 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-05-23 — The previous question was ordered pursuant to the rule.
+- 2024-05-23 — The title of the measure was amended. Agreed to without objection.

@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 192
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 192
 
-> To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia.
+> To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022.
 
 ## § 1. Prohibiting voting by noncitizens in District of Columbia Elections
 
