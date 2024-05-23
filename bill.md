@@ -1,0 +1,21 @@
+---
+legis-num: S. 4431
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4431
+
+> To reinstate the Bull Mountains Mining Plan Modification, and for other purposes.
+
+## § 1. Reinstatement of the Bull Mountains Mining Plan Modification
+
+- **(a)** *Definition of Bull Mountains mining plan modification* In this Act, the term Bull Mountains Mining Plan Modification means Amendment 3, Bull Mountains Mine No. 1, Mining Plan Modification for Federal Coal Lease MTM 97988, that was—
+  - **(1)** analyzed by the Office of Surface Mining Reclamation and Enforcement Environmental Assessment, dated May 11, 2018;
+  - **(2)** approved by the Department of the Interior Assistant Secretary for Land and Minerals Management on August 3, 2018;
+  - **(3)** further analyzed in the Office of Surface Mining Reclamation and Enforcement Environmental Assessment, dated October 2020; and
+  - **(4)** affirmed by Department of the Interior Principal Deputy Assistant Secretary for Land and Minerals Management in a concurrence memorandum, dated November 18, 2020.
+- **(b)** *Bull Mountains Mining Plan Modification reinstatement*
+  - **(1)** *In general* Not later than 30 days after the date of enactment of this Act, the Secretary of the Interior shall, without modification or delay, reinstate the Bull Mountains Mining Plan Modification.
+  - **(2)** *Duration* On reinstatement under paragraph (1), the Bull Mountains Mining Plan Modification shall remain in effect and operational until mining under the Bull Mountains Mining Plan Modification is complete, as determined by the Montana Department of Environmental Quality.
