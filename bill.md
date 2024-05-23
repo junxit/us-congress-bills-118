@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1166
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Public Health Emergency Medical Supplies Enhance
   > - **(c)** *Engagement with the private sector*
   >   - **(1)** *Outreach representative* Consistent with the authorities in this title VII, the Administrator of the Federal Emergency Management Agency, in consultation with the Secretary of Health and Human Services, may designate or appoint, pursuant to section 703, an individual to be known as the “Outreach Representative” for any public health emergency. Such individual shall—
   >     - **(A)** be appointed from among individuals with substantial experience in the production or distribution of medical supplies or equipment; and
-  >     - **(B)** act as the governmentwide single point of contact during the public health emergency for outreach to manufacturing companies and their suppliers who may be interested in producing medical supplies or equipment, including the materials described under subsection (a).
+  >     - **(B)** act as the Government-wide single point of contact during the public health emergency for outreach to manufacturing companies and their suppliers who may be interested in producing medical supplies or equipment, including the materials described under subsection (a).
   >   - **(2)** *Encouraging partnerships* During a public health emergency, the Outreach Representative shall seek to develop partnerships between companies, in coordination with any overall coordinator appointed by the President to oversee the response to the public health emergency, including through the exercise of the authorities delegated by the President under section 708.
   > - **(d)** *Enhancement of supply chain production* In exercising authority under title III during a public health emergency with respect to materials described in subsection (a), the President shall seek to ensure that support is provided to companies that comprise the supply chains for reagents, components, raw materials, and other materials and items necessary to produce or use the materials described in subsection (a), if applicable, to the extent necessary for the national defense during the public health emergency.
   > - **(e)** *Enhanced reporting during a public health emergency*
@@ -47,12 +47,13 @@ This Act may be cited as the “Public Health Emergency Medical Supplies Enhance
   >   - **(3)** *Update* The President shall provide an additional briefing to the appropriate congressional committees on the matters described under paragraph (2) no later than four months after the submission of each report.
   > - **(f)** *Definitions* In this section:
   >   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committees on Appropriations, Armed Services, Energy and Commerce, Financial Services, and Homeland Security of the House of Representatives and the Committees on Appropriations, Armed Services, Banking, Housing, and Urban Affairs, Health, Education, Labor, and Pensions, Homeland Security and Governmental Affairs, and Veterans’ Affairs of the Senate.
-  >   - **(2)** *Relevant stakeholder* The term relevant stakeholder means—
+  >   - **(2)** *Public health emergency* The term “public health emergency” means a public health emergency determined pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d).
+  >   - **(3)** *Relevant stakeholder* The term relevant stakeholder means—
   >     - **(A)** representative private sector entities;
   >     - **(B)** representatives of the nonprofit sector;
   >     - **(C)** representatives of primary and secondary school systems; and
   >     - **(D)** representatives of organizations representing workers, including health workers, manufacturers, teachers, other public sector employees, and service sector workers.
-  >   - **(3)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+  >   - **(4)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
 - **(c)** *Update to Federal regulations*
   - **(1)** *DPAS* Not later than 30 days after the date of enactment of this Act, the Defense Property Accountability System regulations (15 C.F.R. part 700) shall be revised to reflect the requirements of section 712(b) of the Defense Production Act of 1950.
