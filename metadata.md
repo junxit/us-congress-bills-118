@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1097
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1097
@@ -319,9 +319,10 @@ Everett Alvarez, Jr. Congressional Gold Medal Act of 2023
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
 - Rep. Porter, Katie [D-CA-47] (P000618)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -334,3 +335,4 @@ Everett Alvarez, Jr. Congressional Gold Medal Act of 2023
 - 2024-05-21 — Mr. McHenry moved to suspend the rules and pass the bill.
 - 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3376-3377)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3376-3377)
+- 2024-05-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
