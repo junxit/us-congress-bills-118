@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3916
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 9 executed, 10 stated and not applied.
+20 amendatory instructions. 10 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,12 +80,21 @@ to guess them.
 
 ### 42 U.S.C. § 300n-4
 
-> by striking “1 year after the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization of 2007, and annually thereafter,” and inserting “2 years after the date of enactment of the Screening for Communities to Receive Early and Equitable Needed Services for Cancer Act of 2023, and every 5 years thereafter,”;
+> in the heading, by striking “Report” and inserting “Reports”;
+
+| | |
+|---|---|
+| Removed | `Report` |
+| Inserted | `Reports` |
+
+### 42 U.S.C. § 300n-4
+
+> by striking “1 year after the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization of 2007, and annually thereafter,” and inserting “2 years after the date of enactment of the SCREENS for Cancer Act of 2024, and every 5 years thereafter,”;
 
 | | |
 |---|---|
 | Removed | `1 year after the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization of 2007, and annually thereafter,` |
-| Inserted | `2 years after the date of enactment of the Screening for Communities to Receive Early and Equitable Needed Services for Cancer Act of 2023, and every 5 years thereafter,` |
+| Inserted | `2 years after the date of enactment of the SCREENS for Cancer Act of 2024, and every 5 years thereafter,` |
 
 ### 42 U.S.C. § 300n-4
 
@@ -98,12 +107,12 @@ to guess them.
 
 ### 42 U.S.C. § 300n-4
 
-> by striking “preceding fiscal year” and inserting “preceding 2 fiscal years in the case of the first report after the date of enactment of the Screening for Communities to Receive Early and Equitable Needed Services for Cancer Act of 2023 and preceding 5 fiscal years for each report thereafter”; and
+> by striking “preceding fiscal year” and inserting “preceding 2 fiscal years in the case of the first report after the date of enactment of the SCREENS for Cancer Act of 2024, and preceding 5 fiscal years for each report thereafter,”.
 
 | | |
 |---|---|
 | Removed | `preceding fiscal year` |
-| Inserted | `preceding 2 fiscal years in the case of the first report after the date of enactment of the Screening for Communities to Receive Early and Equitable Needed Services for Cancer Act of 2023 and preceding 5 fiscal years for each report thereafter` |
+| Inserted | `preceding 2 fiscal years in the case of the first report after the date of enactment of the SCREENS for Cancer Act of 2024, and preceding 5 fiscal years for each report thereafter,` |
 
 ## Stated, not applied
 
@@ -117,10 +126,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300k` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300k` | redesignate | by redesignating paragraph (6) as paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300k` | insert | by inserting after paragraph (5), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300k` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300k` | strike | by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300m` | strike | by striking paragraphs (2) and (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300m` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300m` | redesignate | in paragraph (2), as so redesignated, by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300m` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300m` | strike | by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300n-5` | strike | by striking “and” after “2011,”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300n-5` | insert | by inserting “, $275,000,000 for fiscal year 2024, $330,000,000 for fiscal year 2025, $385,000,000 for fiscal year 2026, $440,000,000 for fiscal year 2027, and $500,000,000 for fiscal year 2028” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300n-5` | insert | by inserting “, and $275,000,000 for each of fiscal years 2025 through 2029” before the period at the end. | the bill quotes the text inserted but describes where it goes |
