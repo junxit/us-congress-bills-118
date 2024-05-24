@@ -1,7 +1,7 @@
 ---
 measure: H.R. 619
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-23 amendatory instructions. 9 executed, 14 stated and not applied.
+27 amendatory instructions. 11 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 11225
 
-> by striking “; and” and inserting “, including at least one researcher with demonstrated experience in recruitment and retention of diverse cohorts of clinical trial participants;”;
+> by striking “; and” and inserting “, including at least one researcher with demonstrated experience in recruitment and retention of underrepresented groups into research or clinical trials related to dementia;”;
 
 | | |
 |---|---|
 | Removed | `; and` |
-| Inserted | `, including at least one researcher with demonstrated experience in recruitment and retention of diverse cohorts of clinical trial participants;` |
+| Inserted | `, including at least one researcher with demonstrated experience in recruitment and retention of underrepresented groups into research or clinical trials related to dementia;` |
 
 ### 42 U.S.C. § 11225
 
@@ -80,6 +80,24 @@ to guess them.
 
 ### 42 U.S.C. § 11225
 
+> in subparagraph (B), by striking “initial” and inserting “annual”;
+
+| | |
+|---|---|
+| Removed | `initial` |
+| Inserted | `annual` |
+
+### 42 U.S.C. § 11225
+
+> in the matter preceding clause (i), by striking “initial” and inserting “annual”; and
+
+| | |
+|---|---|
+| Removed | `initial` |
+| Inserted | `annual` |
+
+### 42 U.S.C. § 11225
+
 > in subparagraph (D), by striking “annually thereafter, an evaluation” and inserting “annual evaluations”; and
 
 | | |
@@ -89,7 +107,7 @@ to guess them.
 
 ### 42 U.S.C. § 11225
 
-> in paragraph (6), by striking “2025” and inserting “2035”;
+> in paragraph (6), by striking “2025” and inserting “2035”.
 
 | | |
 |---|---|
@@ -98,7 +116,7 @@ to guess them.
 
 ### 42 U.S.C. § 11225
 
-> in subsection (h), by striking “2025” and inserting “2035”.
+> Section 2(h) of the National Alzheimer’s Project Act (42 U.S.C. 11225(h)) is amended by striking “2025” and inserting “2035”.
 
 | | |
 |---|---|
@@ -116,15 +134,17 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 11225` | redesignate | by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11225` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11225` | replace | in paragraph (5), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 11225` | insert | by inserting “and other underserved populations, including individuals with developmental disabilities such as Down syndrome,” after “populations”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11225` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 11225` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11225` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11225` | insert | by inserting “, across public and private sectors,” after “Nation’s progress”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 11225` | insert | by inserting “, including consideration of public-private collaborations, as appropriate” before the period; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11225` | insert | by inserting “, including consideration of public-private collaborations, as appropriate” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 11225` | add-at-end | in subparagraph (A), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11225` | replace | in clause (vi), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11225` | replace | in clause (vi), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 11225` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11225` | strike | in subparagraph (B), by striking “initial”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 11225` | strike | in the matter preceding clause (i), by striking “initial”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 11225` | insert | in clause (ii), by inserting “and reduce disparities” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 11225` | insert | in subsection (g)(3)(A)(ii), by inserting “and reduce disparities” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11225` | insert | in clause (ii), by inserting “and reduce disparities” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 11225` | replace | by striking “that includes an evaluation” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 11225` | amend | in subparagraph (A) (as so designated), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11225` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11225` | insert | in paragraph (3)(A)(ii), by inserting “and reduce disparities” before the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
