@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8070
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8070
@@ -57,3 +57,8 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-04-18 — Introduced in House
 - 2024-04-18 — Introduced in House
 - 2024-04-18 — Referred to the House Committee on Armed Services.
+- 2024-05-22 — Committee Consideration and Mark-up Session Held
+- 2024-05-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 1.
+- 2024-05-31 — Placed on the Union Calendar, Calendar No. 440.
+- 2024-05-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 118-529.
+- 2024-05-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 118-529.
