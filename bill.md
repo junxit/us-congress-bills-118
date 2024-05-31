@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4646
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,6 +32,6 @@ Section 330J of the Public Health Service Act (42 U.S.C. 254c–15) is amended�
 
 - **(3)** by striking subsection (f);
 - **(4)** by redesignating subsection (g) as subsection (f);
-- **(5)** in subsection (f)(1), as so redesignated, by striking “2019 through 2023” and inserting “2024 through 2028”;
+- **(5)** in subsection (f)(1), as so redesignated, by striking “2019 through 2023” and inserting “2025 through 2029”;
 - **(6)** by redesignating such section 330J as section 553 of the Public Health Service Act; and
 - **(7)** by transferring such section 553, as so redesignated, to appear at the end of part D of title V of the Public Health Service Act (42 U.S.C. 290dd et seq.).

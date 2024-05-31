@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4646
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 254c-15
 
-> in subsection (f)(1), as so redesignated, by striking “2019 through 2023” and inserting “2024 through 2028”;
+> in subsection (f)(1), as so redesignated, by striking “2019 through 2023” and inserting “2025 through 2029”;
 
 | | |
 |---|---|
 | Removed | `2019 through 2023` |
-| Inserted | `2024 through 2028` |
+| Inserted | `2025 through 2029` |
 
 ## Stated, not applied
 
