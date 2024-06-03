@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7321
@@ -30,3 +30,8 @@ Electronic Filing of Electioneering Communication Reports Act
 - 2024-02-13 — Introduced in House
 - 2024-02-13 — Introduced in House
 - 2024-02-13 — Referred to the House Committee on House Administration.
+- 2024-02-14 — Committee Consideration and Mark-up Session Held
+- 2024-02-14 — Ordered to be Reported by Voice Vote.
+- 2024-06-03 — Placed on the Union Calendar, Calendar No. 444.
+- 2024-06-03 — Reported by the Committee on House Administration. H. Rept. 118-534.
+- 2024-06-03 — Reported by the Committee on House Administration. H. Rept. 118-534.
