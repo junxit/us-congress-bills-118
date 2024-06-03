@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6983
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6983
@@ -36,8 +36,22 @@ To designate the facility of the United States Postal Service located at 15 Sout
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2024-06-03 — [House 118-2-234](votes/house-118-2-0234.md) — On Motion to Suspend the Rules and Pass — **Passed** (369–2)
+
 ## Actions
 
 - 2024-01-11 — Introduced in House
 - 2024-01-11 — Introduced in House
 - 2024-01-11 — Referred to the House Committee on Oversight and Accountability.
+- 2024-02-06 — Committee Consideration and Mark-up Session Held
+- 2024-02-06 — Ordered to be Reported by Voice Vote.
+- 2024-06-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-06-03 — Considered as unfinished business. (consideration: CR H3569-3570)
+- 2024-06-03 — Considered under suspension of the rules. (consideration: CR H3556)
+- 2024-06-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6983.
+- 2024-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
+- 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 2, 2 Present (Roll no. 234). (text: CR H3556)
+- 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 2, 2 Present (Roll no. 234). (text: CR H3556)
