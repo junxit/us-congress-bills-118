@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5403
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5403
@@ -184,9 +184,10 @@ CBDC Anti-Surveillance State Act
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -241,3 +242,4 @@ CBDC Anti-Surveillance State Act
 - 2024-05-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5403.
 - 2024-05-23 — The Speaker designated the Honorable Clay Higgins to act as Chairman of the Committee.
 - 2024-05-23 — The previous question was ordered pursuant to the rule.
+- 2024-06-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
