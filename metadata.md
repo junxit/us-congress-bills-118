@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7180
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7180
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 80 1st 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 80 1st 
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3559)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3559)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
