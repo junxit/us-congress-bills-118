@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6983
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6983
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 15 Sout
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ To designate the facility of the United States Postal Service located at 15 Sout
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 2, 2 Present (Roll no. 234). (text: CR H3556)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 2, 2 Present (Roll no. 234). (text: CR H3556)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
