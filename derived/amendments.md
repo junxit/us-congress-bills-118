@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6418
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+14 amendatory instructions. 6 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 20 U.S.C. § 7221b
 
-> in subparagraph (A), by striking “90 percent” and inserting “80 percent”;
+> in subparagraph (A), by striking “90 percent” and inserting “82 percent”;
 
 | | |
 |---|---|
 | Removed | `90 percent` |
-| Inserted | `80 percent` |
+| Inserted | `82 percent` |
 
 ### 20 U.S.C. § 7221b
 
@@ -44,12 +44,39 @@ to guess them.
 
 ### 20 U.S.C. § 7221b
 
-> in subparagraph (D), as redesignated by subparagraph (C), by striking “3 percent” and inserting “5 percent”; and
+> in subsection (d)(1)(B), by striking “this section” and inserting “subsection (b)(1)”;
 
 | | |
 |---|---|
-| Removed | `3 percent` |
-| Inserted | `5 percent` |
+| Removed | `this section` |
+| Inserted | `subsection (b)(1)` |
+
+### 20 U.S.C. § 7221b
+
+> in subsection (e)(2), by striking “this section” and inserting “subsection (b)(1)”;
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `subsection (b)(1)` |
+
+### 20 U.S.C. § 7221b
+
+> in subclause (II), by striking “subgrant funds under this section” and inserting “subgrant funds under subsection (b)(1)”; and
+
+| | |
+|---|---|
+| Removed | `subgrant funds under this section` |
+| Inserted | `subgrant funds under subsection (b)(1)` |
+
+### 20 U.S.C. § 7221b
+
+> in subsection (h), in the matter preceding paragraph (1), by striking “this section” and inserting “subsection (b)(1)”.
+
+| | |
+|---|---|
+| Removed | `this section` |
+| Inserted | `subsection (b)(1)` |
 
 ## Stated, not applied
 
@@ -60,10 +87,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 7221b` | strike | in paragraph (1)(C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 7221b` | insert | by inserting “which may include assistance in locating and accessing a facility and funding a revolving loan fund or a similar mechanism for expenses under subsection (h) prior to an eligible applicant receiving reimbursement,” after “pa… | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 7221b` | strike | in paragraph (1)(C), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 7221b` | insert | by inserting “which may include assistance in locating and accessing a facility, and technical assistance in assessing financial options, prior to an eligible applicant receiving a subgrant under this section,” after “paragraph (1),”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7221b` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7221b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 7221b` | redesignate | by redesignating subparagraph (C) as subparagraph (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7221b` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7221b` | insert | in the matter preceding subclause (I), by inserting “under subsection (b)(1)” after “program”; and | the bill quotes the text inserted but describes where it goes |
