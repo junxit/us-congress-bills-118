@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6188
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6188
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 420 Hig
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 420 Hig
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3553)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3553)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
