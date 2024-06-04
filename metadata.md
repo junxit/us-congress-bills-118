@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3608
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3608
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 28081 M
 - Rep. McCarthy, Kevin [R-CA-20] (M001165)
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 28081 M
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3551)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3551)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
