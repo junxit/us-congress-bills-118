@@ -1,7 +1,7 @@
 ---
 measure: H.R. 192
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 192
@@ -81,3 +81,5 @@ To prohibit individuals who are not citizens of the United States from voting in
 - 2024-05-23 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-05-23 — The previous question was ordered pursuant to the rule.
 - 2024-05-23 — The title of the measure was amended. Agreed to without objection.
+- 2024-06-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-06-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
