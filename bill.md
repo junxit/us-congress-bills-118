@@ -13,12 +13,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Illegitimate Court Counteraction Act”.
 
-## § 2. Sanctions with respect to the international criminal court
+## § 2. Findings
 
-- **(a)** *In general* No later than 60 days after the enactment of this Act, if the International Criminal Court is engaging in any attempt to investigate, arrest, detain, or prosecute any protected person, the President shall impose—
+Congress finds the following:
+
+- **(1)** The United States and Israel are not parties to the Rome Statute or members of the International Criminal Court (ICC), and therefore the ICC has no legitimacy or jurisdiction over the United States or Israel.
+- **(2)** On May 20, 2024, the Prosecutor of the International Criminal Court, Karim Khan, announced arrest warrant applications for Israeli Prime Minister Benjamin Netanyahu and Minister of Defense Yoav Gallant and should be condemned in the strongest possible terms.
+- **(3)** The bipartisan American Servicemembers’ Protection Act was enacted in 2002 to protect United States military personnel, United States officials, and officials and military personnel of certain allied countries against criminal prosecution by an international criminal court to which the United States is not party, stating, “In addition to exposing members of the Armed Forces of the United States to the risk of international criminal prosecution, the Rome Statute creates a risk that the President and other senior elected and appointed officials of the United States Government may be prosecuted by the International Criminal Court.”.
+- **(4)** The ICC’s actions against Israel are illegitimate and baseless, including the preliminary examination and investigation of Israel and applications for arrest warrants against Israeli officials, which create a damaging precedent that threatens the United States, Israel, and all United States partners who have not submitted to the ICC’s jurisdiction.
+- **(5)** The United States must oppose any action by the ICC against the United States, Israel, or any other ally of the United States that has not consented to ICC jurisdiction or is not a state party to the Rome Statute of the ICC.
+
+## § 3. Sanctions with respect to the International Criminal Court
+
+- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, and on an ongoing basis thereafter, if the International Criminal Court is engaging in any attempt to investigate, arrest, detain, or prosecute any protected person, the President shall impose—
   - **(1)** the sanctions described in subsection (b) with respect to any foreign person the President determines—
     - **(A)** has directly engaged in or otherwise aided any effort by the International Criminal Court to investigate, arrest, detain, or prosecute a protected person;
-    - **(B)** has or materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of any effort by the International Criminal Court to investigate, arrest, detain, or prosecute a protected person; or
+    - **(B)** has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of any effort by the International Criminal Court to investigate, arrest, detain, or prosecute a protected person; or
     - **(C)** is owned or controlled by, or is currently acting or purports to have acted, directly or indirectly, for or on behalf of any person that directly engages in any effort by the International Criminal Court to investigate, arrest, detain, or prosecute a protected person; and
   - **(2)** the sanctions described in subsection (b)(2) with respect to the immediate family members of each foreign person who is subject to sanctions pursuant to paragraph (1).
 - **(b)** *Sanctions described* The sanctions described in this subsection with respect to a foreign person described in subsection (a) are the following:
@@ -40,11 +50,25 @@ This Act may be cited as the “Illegitimate Court Counteraction Act”.
   - **(1)** a description of the foreign person or persons subject to the imposition of such sanctions, including the foreign person’s role at or relation to the International Criminal Court;
   - **(2)** a description of any activity undertaken by such foreign person or persons in support of efforts to investigate, arrest, detain, or prosecute any protected person; and
   - **(3)** the specific sanctions imposed on such foreign person or persons.
-- **(e)** *Special rule* The President may terminate the sanctions with respect to the foreign persons described in subsection (a) if the President certifies in writing to the appropriate congressional committees that the International Criminal Court—
+- **(e)** *Waiver*
+  - **(1)** *In general* The President may, on a case-by-case basis and for periods not to exceed 90 days each, waive the application of sanctions imposed or maintained with respect to a foreign person under this section if the President submits to the appropriate congressional committees before the waiver is to take effect a report that contains a determination of the President that the waiver is vital to the national security interests of the United States.
+  - **(2)** *Contents* Each report required by paragraph (1) with respect to a waiver of the application of sanctions imposed or maintained with respect to a foreign person under this section, or the renewal of such a waiver, shall include—
+    - **(A)** a specific and detailed rationale for the determination that the waiver is vital to the national security interests of the United States;
+    - **(B)** a description of the activity that resulted in the foreign person being subject to sanctions;
+    - **(C)** a detailed description and list of actions the United States has taken to—
+      - **(i)** stop the International Criminal Court from engaging in any effort to investigate, arrest, detain, or prosecute all protected persons; and
+      - **(ii)** permanently close, withdraw, end, or otherwise terminate any preliminary examination, investigation, or any other effort to investigate, arrest, detain, or prosecute all protected persons.
+  - **(3)** *Form* Each report required by paragraph by paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+- **(f)** *Special rule* The President may terminate the sanctions with respect to the foreign persons described in subsection (a) if the President certifies in writing to the appropriate congressional committees that the International Criminal Court—
   - **(1)** has ceased engaging in any effort to investigate, arrest, detain, or prosecute all protected persons; and
   - **(2)** has permanently closed, withdrawn, ended, and otherwise terminated any preliminary examination, investigation, or any other effort by the International Criminal Court to investigate, arrest, detain, or prosecute all protected persons.
 
-## § 3. Definitions
+## § 4. Rescission of funds for International Criminal Court
+
+- **(a)** *In general* Effective on the date of the enactment of this Act, any amounts appropriated for the International Criminal Court and available for obligation as of such date of enactment are hereby rescinded.
+- **(b)** *Prohibition on future appropriations* On and after the date of the enactment of this Act, no appropriated funds may be used for the International Criminal Court.
+
+## § 5. Definitions
 
 In this Act:
 
