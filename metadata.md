@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6651
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6651
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 603 Wes
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 603 Wes
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3567)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3567)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
