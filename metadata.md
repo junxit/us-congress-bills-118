@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 385
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 385
@@ -67,3 +67,5 @@ A resolution calling for the immediate release of Evan Gershkovich, a United Sta
 - 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
 - 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin without amendment and with a preamble. Without written report.
 - 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
+- 2024-06-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3961; text: 09/28/2023 CR S4766-4767)
+- 2024-06-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3961; text: 09/28/2023 CR S4766-4767)
