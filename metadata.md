@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 18
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 18
@@ -36,3 +36,5 @@ A concurrent resolution calling for the immediate release of Marc Fogel, a Unite
 - 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2024-05-07 — Committee on Foreign Relations. Reported by Senator Cardin with an amendment in the nature of a substitute and with a preamble. Without written report.
 - 2024-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 380.
+- 2024-06-04 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S3961-3962; text of amendment in the nature of a substitute: CR S3961-3962)
+- 2024-06-04 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (consideration: CR S3961-3962; text of amendment in the nature of a substitute: CR S3961-3962)
