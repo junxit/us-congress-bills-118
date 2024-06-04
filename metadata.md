@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8014
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8014
@@ -29,3 +29,8 @@ Transparency and Predictability in Small Business Opportunities Act
 - 2024-04-16 — Introduced in House
 - 2024-04-16 — Introduced in House
 - 2024-04-16 — Referred to the House Committee on Small Business.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2024-06-04 — Placed on the Union Calendar, Calendar No. 448.
+- 2024-06-04 — Reported by the Committee on Small Business. H. Rept. 118-539.
+- 2024-06-04 — Reported by the Committee on Small Business. H. Rept. 118-539.
