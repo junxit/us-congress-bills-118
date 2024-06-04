@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7417
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7417
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 135 Wes
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 - Rep. Evans, Dwight [D-PA-3] (E000296)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 135 Wes
 - 2024-06-03 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3563)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3563)
+- 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
