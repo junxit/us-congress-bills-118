@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3237
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,21 +13,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Patriot Bill of Rights”.
 
-## § 2. Information regarding Federal cause of actions relating to water at Camp Lejeune, North Carolina
+## § 2. Information regarding veterans’ benefits to veterans bringing Federal cause of action relating to water at Camp Lejeune, North Carolina
 
 - **(a)** *In general* The Camp Lejeune Justice Act of 2022 (28 U.S.C. 2671 note prec.) is amended by adding at the end the following:
   > - **(k)** *Acknowledgments*
-  >   - **(1)** *Guidance and advice services* An individual, or the legal representative of an individual, bringing a cause of action under subsection (b) shall sign a written acknowledgment, provided by the attorney, indicating that the individual or legal representative bringing the action understands that the individual or legal representative may seek guidance and advice free of charge from—
+  >   - **(1)** *Guidance and advice services* A veteran, or the legal representative of a veteran, bringing a cause of action under subsection (b) shall sign a written acknowledgment, provided by the attorney, indicating that the veteran or legal representative bringing the action understands that the veteran or legal representative may seek guidance and advice on any disability awards, payments, or benefits, in addition to and separate from rights provided under this Act, to which the veteran may be entitled under any program of the Department of Veterans Affairs, free of charge from—
   >     - **(A)** organizations recognized under section 5902 of title 38, United States Code;
-  >     - **(B)** the Secretary of Veterans Affairs;
-  >     - **(C)** the congressional representatives of the individual or legal representative; and
-  >     - **(D)** the Tort Claims Unit of the Department of the Navy.
-  >   - **(2)** *Other required acknowledgments* An attorney representing an individual or the legal representative of an individual in a cause of action brought under subsection (b) shall file with the Secretary of the Navy a written acknowledgment signed by the individual or legal representative indicating that the individual or legal representative understands—
-  >     - **(A)** legal representation by an attorney is not required to file an action; and
-  >     - **(B)** the attorney’s fee arrangement regarding representation in the action, which shall include an acknowledgment of whether the fee arrangement is one under which the total amount of the fee payable to the attorney is—
-  >       - **(i)** to be paid to the attorney by the claimant, subsequent to the allocation of the award; or
-  >       - **(ii)** contingent on whether the matter is resolved in a manner favorable to the claimant.
-  >   - **(3)** *Application to pending matters* For any cause of action brought under subsection (b) that is pending on the date of enactment of this subsection, not later than 90 days after such date of enactment, the individual bringing the action, the legal representative of the individual, or the attorney for the individual or legal representative, as applicable, shall file the acknowledgments described in paragraphs (1) and (2).
-  >   - **(4)** *Advertising* A law firm that receives veteran data from an advertising agency shall reduce the attorney’s legal fee in an amount equal to the cost incurred by the law firm to receive the data.
+  >     - **(B)** the Secretary of Veterans Affairs; and
+  >     - **(C)** the congressional representatives of the individual or legal representative.
+  >   - **(2)** *Application to pending matters* For any cause of action brought under subsection (b) that is pending on the date of enactment of this subsection, not later than 90 days after such date of enactment, the veteran bringing the action, the legal representative of the veteran, or the attorney for the veteran or legal representative, as applicable, shall file the acknowledgments described in paragraph (1).
 
 - **(b)** *Severability* If any provision of the amendment made by subsection (a), or the application of such a provision to any person or circumstance, is held to be unconstitutional, the remaining provisions of the amendment made by subsection (a), the other provisions of the Camp Lejeune Justice Act of 2022 (28 U.S.C. 2671 note prec.), and the application of the provision of the amendment made by subsection (a) held to be unconstitutional to any other person or circumstance shall not be affected thereby.
