@@ -1,0 +1,24 @@
+---
+legis-num: S. RES. 725
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 725
+
+> Affirming the legal status of contraception following the Supreme Court’s decision in Dobbs v. Jackson Women’s Health Organization, 597 U.S. 215 (2022).
+
+## Preamble
+
+- Whereas, in 2022, the United States Supreme Court issued its decision in Dobbs v. Jackson Women’s Health Organization, 597 U.S. 215 (2022), overturning the Court’s prior decisions in Roe v. Wade, 410 U.S. 113 (1973), and Planned Parenthood v. Casey, 505 U.S. 833 (1992);
+- Whereas, in issuing Dobbs, the Supreme Court invalidated any Federal judicial precedent suggesting that the Constitution of the United States guarantees the right of a woman to abort her unborn child;
+- Whereas the Supreme Court, “to ensure that [its] decision [was] not misunderstood or mischaracterized,” explicitly emphasized that the Dobbs decision “concern[ed] the constitutional right to abortion and no other right” and that “nothing in [its] opinion should be understood to cast doubt on precedents that do not concern abortion”;
+- Whereas the sole effect of the decision in Dobbs was to return “the authority to regulate abortion . . . to the people and their elected representatives”;
+- Whereas some, for political advantage and with the aim of sowing confusion and fear, have suggested that the Court’s decision in Dobbs restricts the ability or legal right of women to access contraception in the several States; and
+- Whereas Congress has the authority, under the 14th Amendment of the Constitution of the United States, “to enforce, by appropriate legislation,” the rights belonging to the People of the United States, as guaranteed by the Constitution of the United States: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** construes the Supreme Court’s decision in Dobbs v. Jackson Women’s Health Organization, 597 U.S. 215 (2022), as having no effect on the legal right of a woman to access contraception; and
+- **(2)** interprets Dobbs to in no way require the various agencies of the Federal Government to alter rules, regulations, or policies governing access to contraception.
