@@ -1,0 +1,37 @@
+---
+legis-num: S. 4486
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4486
+
+> To strengthen provisions relating to employment transparency regarding individuals who perform work in the People's Republic of China.
+
+## § 1. Short title
+
+This Act may be cited as the “Defense Technology Report Parity Act”.
+
+## § 2. Employment transparency regarding individuals who perform work in the People's Republic of China
+
+Section 855 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4651 note prec.) is amended—
+
+- **(1)** in subsection (a)(3)—
+  - **(A)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii) and moving such clauses, as so redesignated, two ems to the right;
+  - **(B)** by striking “If a covered entity” and inserting “(A) In general.—If a covered company”; and
+  - **(C)** in clause (ii), as so redeignated, by striking “performed.” and inserting the following: “performed; and
+    > - **(iii)** whether an agency or instrumentality of the People’s Republic of China or any non-governmental Chinese company has requested access to data or otherwise acquired data from such covered company pursuant to the People’s Republic of China’s National Intelligence Law of China or any similar legislative or regulatory requirements.
+    > - **(B)** *Additional disclosure of information and additional measures regarding certain entities*
+    >   - **(i)** *In general* If a covered company performs service contracts dealing with commercial computer software or noncommercial computer software and is required to make a disclosure under paragraph (1) or (2), such company shall—
+    >     - **(I)** describe the process for disclosing a software vulnerability, if such company is also required to disclose any software vulnerability to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People’s Republic of China; and
+    >     - **(II)** provide any information related to how a United States affiliate is notified of a flaw described in subclause (I).
+    >   - **(ii)** *Issuance of regulations* Not later than 180 days after the date of the enactment of this subparagraph, the Secretary shall revise the Defense Federal Acquisition Regulation Supplement to ensure that—
+    >     - **(I)** a company described in clause (i) is notified of any software vulnerability by any affiliated Chinese company within 48 hours of such company entity reporting any software vulnerability to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People’s Republic of China; and
+    >     - **(II)** the company shall retain and furnish to the Department of Defense information regarding any software vulnerability reported to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People’s Republic of China.
+
+- **(2)** in subsection (b)—
+  - **(A)** in the subsection heading, by striking “entities” and inserting “companies”; and
+  - **(B)** by striking “entity” both places it appears and inserting “company”; and
+- **(3)** by amending subsection (d)(2) to read as follows:
+  > - **(2)** *Covered company* The term covered company means a contractor offeror that also conducts software development in the People's Republic of China.
