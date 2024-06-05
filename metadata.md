@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8580
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8580
@@ -20,6 +20,19 @@ Military Construction, Veterans Affairs, and Related Agencies Appropriations Act
 
 - House — Appropriations Committee
 
+## Recorded votes (10)
+
+- 2024-06-04 — [House 118-2-237](votes/house-118-2-0237.md) — On Agreeing to the Amendment — **Agreed to** (207–195)
+- 2024-06-04 — [House 118-2-238](votes/house-118-2-0238.md) — On Agreeing to the Amendment — **Agreed to** (211–193)
+- 2024-06-04 — [House 118-2-239](votes/house-118-2-0239.md) — On Agreeing to the Amendment — **Failed** (46–354)
+- 2024-06-04 — [House 118-2-240](votes/house-118-2-0240.md) — On Agreeing to the Amendment — **Agreed to** (290–116)
+- 2024-06-04 — [House 118-2-241](votes/house-118-2-0241.md) — On Agreeing to the Amendment — **Agreed to** (206–200)
+- 2024-06-05 — [House 118-2-243](votes/house-118-2-0243.md) — On Agreeing to the Amendment — **Agreed to** (333–70)
+- 2024-06-05 — [House 118-2-244](votes/house-118-2-0244.md) — On Agreeing to the Amendment — **Agreed to** (392–11)
+- 2024-06-05 — [House 118-2-245](votes/house-118-2-0245.md) — On Agreeing to the Amendment — **Agreed to** (237–169)
+- 2024-06-05 — [House 118-2-246](votes/house-118-2-0246.md) — On Motion to Recommit — **Failed** (199–207)
+- 2024-06-05 — [House 118-2-247](votes/house-118-2-0247.md) — On Passage — **Passed** (209–197)
+
 ## Actions
 
 - 2024-05-28 — Introduced in House
@@ -27,3 +40,212 @@ Military Construction, Veterans Affairs, and Related Agencies Appropriations Act
 - 2024-05-28 — Placed on the Union Calendar, Calendar No. 439.
 - 2024-05-28 — The House Committee on Appropriations reported an original measure, H. Rept. 118-528, by Mr. Carter (TX).
 - 2024-05-28 — The House Committee on Appropriations reported an original measure, H. Rept. 118-528, by Mr. Carter (TX).
+- 2024-06-03 — Rules Committee Resolution H. Res. 1269 Reported to House. Rule provides for consideration of H.R. 8580 and H.R. 8282. The resolution provides for consideration of H.R. 8580 under a structured rule and H.R. 8282 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-06-04 — 
+- 2024-06-04 — 
+- 2024-06-04 — 
+- 2024-06-04 — 
+- 2024-06-04 — 
+- 2024-06-04 — Amendment (A002) offered by Mr. Bergman. (consideration: CR H3615-3616; text: CR H3616)
+- 2024-06-04 — Amendment (A003) offered by Mr. Bergman. (consideration: CR H3616-3617; text: CR H3616)
+- 2024-06-04 — Amendment (A004) offered by Mr. Bost. (consideration: CR H3617, H3633-3634; text: CR H3617)
+- 2024-06-04 — Amendment (A005) offered by Mr. Burchett. (consideration: CR H3617-3618; text: CR H3617-3618)
+- 2024-06-04 — Amendment (A006) offered by Mr. Crane. (consideration: CR H3618-3619, H3634; text: CR H3618)
+- 2024-06-04 — Amendment (A007) offered by Ms. Greene (GA). (consideration: CR H3619-3620, H3634-3635; text: CR H3619)
+- 2024-06-04 — Amendment (A008) offered by Ms. Hageman. (consideration: CR H3620-3621; text: CR H3620)
+- 2024-06-04 — Amendment (A009) offered by Mr. James. (consideration: CR H3621; text: CR H3621)
+- 2024-06-04 — Amendment (A010) offered by Mrs. Kiggans (VA). (consideration: CR H3621-3622; text: CR H3621)
+- 2024-06-04 — Amendment (A011) offered by Mrs. Kiggans (VA). (consideration: CR H3622-3623; text: CR H3622)
+- 2024-06-04 — Amendment (A012) offered by Mrs. Kiggans (VA). (consideration: CR H3623-3624; text: CR H3623)
+- 2024-06-04 — Amendment (A013) offered by Mrs. Kiggans (VA). (consideration: CR H3624; text: CR H3624)
+- 2024-06-04 — Amendment (A014) offered by Mr. Mast. (consideration: CR H3625-3626, H3635-3636; text: CR H3625)
+- 2024-06-04 — Amendment (A015) offered by Mr. Molinaro. (consideration: CR H3626; text: CR H3626)
+- 2024-06-04 — Amendment (A016) offered by Mr. Ogles. (consideration: CR H3626-3627; text: CR H3627)
+- 2024-06-04 — Amendment (A017) offered by Mr. Ogles. (consideration: CR H3627; text: CR H3627)
+- 2024-06-04 — Amendment (A018) offered by Mr. Ogles. (consideration: CR H3627-3628; text: CR H3627)
+- 2024-06-04 — Amendment (A019) offered by Mr. Ogles. (consideration: CR H3628; text: CR H3628)
+- 2024-06-04 — Amendment (A020) offered by Mr. Ogles. (consideration: CR H3628-3629; text: CR H3628)
+- 2024-06-04 — Amendment (A021) offered by Mr. Perry. (consideration: CR H3629-3630; text: CR H3629)
+- 2024-06-04 — Amendment (A022) offered by Mr. Peters. (consideration: CR H3630; text: CR H3630)
+- 2024-06-04 — Amendment (A023) offered by Mr. Peters. (consideration: CR H3630; text: CR H3630)
+- 2024-06-04 — Amendment (A024) offered by Mr. Pfluger. (consideration: CR H3630-3631; text: CR H3630)
+- 2024-06-04 — Amendment (A025) offered by Mrs. Rodgers (WA). (consideration: CR H3631; text: CR H3631)
+- 2024-06-04 — Amendment (A026) offered by Mrs. Rodgers (WA). (consideration: CR H3631-3632; text: CR H3631)
+- 2024-06-04 — Amendment (A027) offered by Mr. Self. (consideration: CR H3632-3633, H3636; text: CR H3632)
+- 2024-06-04 — Amendments en bloc (A001) offered by Mr. Carter (TX). (consideration: CR H3615; text: CR H3615)
+- 2024-06-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 8580 as unfinished business.
+- 2024-06-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 8580 as unfinished business.
+- 2024-06-04 — Considered as unfinished business. (consideration: CR H3633-3637)
+- 2024-06-04 — Considered under the provisions of rule H. Res. 1269. (consideration: CR H3601-3637; text: CR H3605-3615)
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Bergman amendment No. 1.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Bergman amendment No. 2.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Bost amendment No. 8.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 9.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Crane amendment No. 10.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 16.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 17.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the James amendment No. 18.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Kiggans (VA) amendment No. 19.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Kiggans (VA) amendment No. 20.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Kiggans (VA) amendment No. 21.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Kiggans (VA) amendment No. 22.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Mast amendment No. 28.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Molinaro amendment No. 29.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 31.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 32.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 33.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 34.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 35.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 36.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 37.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment No. 38.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Pfluger amendment No. 39.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Rodgers (WA) amendment No. 40.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Rodgers (WA) amendment No. 41.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Self amendment No. 42.
+- 2024-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 20 minutes of debate on the Carter (TX) amendment en bloc.
+- 2024-06-04 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8580.
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House Amendment Offered
+- 2024-06-04 — House amendment agreed to: On agreeing to the Bergman amendment (A002) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Bergman amendment (A003) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Bost amendment (A004) Agreed to by recorded vote: 207 - 195 (Roll no. 237).
+- 2024-06-04 — House amendment agreed to: On agreeing to the Burchett amendment (A005) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Carter (TX) amendments (A001) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Crane amendment (A006) Agreed to by recorded vote: 211 - 193 (Roll no. 238).
+- 2024-06-04 — House amendment agreed to: On agreeing to the Hageman amendment (A008) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the James amendment (A009) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Kiggans (VA) amendment (A010) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Kiggans (VA) amendment (A011) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Kiggans (VA) amendment (A012) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Kiggans (VA) amendment (A013) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Mast amendment (A014) Agreed to by recorded vote: 290 - 116 (Roll no. 240).
+- 2024-06-04 — House amendment agreed to: On agreeing to the Molinaro amendment (A015) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Ogles amendment (A016) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Ogles amendment (A017) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Ogles amendment (A018) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Ogles amendment (A019) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Ogles amendment (A020) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Perry amendment (A021) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Peters amendment (A022) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Peters amendment (A023) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Pfluger amendment (A024) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Rodgers (WA) amendment (A025) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Rodgers (WA) amendment (A026) Agreed to by voice vote.
+- 2024-06-04 — House amendment agreed to: On agreeing to the Self amendment (A027) Agreed to by recorded vote: 206 - 200 (Roll no. 241).
+- 2024-06-04 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A007) Failed by recorded vote: 46 - 354 (Roll no. 239).
+- 2024-06-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1269 and Rule XVIII.
+- 2024-06-04 — Mr. Carter (TX) moved that the committee rise.
+- 2024-06-04 — Mr. Carter (TX) moved that the committee rise.
+- 2024-06-04 — On agreeing to the Bergman amendment (A002) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Bergman amendment (A003) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Bost amendment (A004) Agreed to by recorded vote: 207 - 195 (Roll no. 237).
+- 2024-06-04 — On agreeing to the Burchett amendment (A005) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Carter (TX) amendments (A001) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Crane amendment (A006) Agreed to by recorded vote: 211 - 193 (Roll no. 238).
+- 2024-06-04 — On agreeing to the Greene (GA) amendment (A007) Failed by recorded vote: 46 - 354 (Roll no. 239).
+- 2024-06-04 — On agreeing to the Hageman amendment (A008) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the James amendment (A009) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Kiggans (VA) amendment (A010) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Kiggans (VA) amendment (A011) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Kiggans (VA) amendment (A012) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Kiggans (VA) amendment (A013) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Mast amendment (A014) Agreed to by recorded vote: 290 - 116 (Roll no. 240).
+- 2024-06-04 — On agreeing to the Molinaro amendment (A015) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Ogles amendment (A016) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Ogles amendment (A017) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Ogles amendment (A018) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Ogles amendment (A019) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Ogles amendment (A020) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Perry amendment (A021) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Peters amendment (A022) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Peters amendment (A023) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Pfluger amendment (A024) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Rodgers (WA) amendment (A025) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Rodgers (WA) amendment (A026) Agreed to by voice vote.
+- 2024-06-04 — On agreeing to the Self amendment (A027) Agreed to by recorded vote: 206 - 200 (Roll no. 241).
+- 2024-06-04 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-04 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bost amendment No. 8, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Wasserman Schultz demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crane amendment No. 10, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Wasserman Schultz demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 16, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Wasserman Schultz demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mast amendment No. 28, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Carter (TX) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Self amendment No. 42, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Wasserman Schultz demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-04 — Roll call votes on amendments in House
+- 2024-06-04 — Roll call votes on amendments in House
+- 2024-06-04 — Roll call votes on amendments in House
+- 2024-06-04 — Roll call votes on amendments in House
+- 2024-06-04 — Roll call votes on amendments in House
+- 2024-06-04 — Rule provides for consideration of H.R. 8580 and H.R. 8282. The resolution provides for consideration of H.R. 8580 under a structured rule and H.R. 8282 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-06-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-04 — The Speaker designated the Honorable John W. Rose to act as Chairman of the Committee.
+- 2024-06-05 — 
+- 2024-06-05 — 
+- 2024-06-05 — 
+- 2024-06-05 — Amendment (A028) offered by Mr. Schweikert. (consideration: CR H3661, H3664-3665; text: CR H3661)
+- 2024-06-05 — Amendment (A029) offered by Mr. Schweikert. (consideration: CR H3661-3662, H3665-3666; text: CR H3662)
+- 2024-06-05 — Amendment (A030) offered by Mr. Steube. (consideration: CR H3662-3663, H3666; text: CR H3662)
+- 2024-06-05 — Amendment (A031) offered by Mr. Steube. (consideration: CR H3663-3664; text: CR H3663)
+- 2024-06-05 — Committee of the Whole House on the state of the Union rises leaving H.R. 8580 as unfinished business.
+- 2024-06-05 — Considered as unfinished business. (consideration: CR H3661-3664)
+- 2024-06-05 — Considered as unfinished business. (consideration: CR H3664-3668)
+- 2024-06-05 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 43.
+- 2024-06-05 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 44.
+- 2024-06-05 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 45.
+- 2024-06-05 — DEBATE - Pursuant to the provisions of H. Res. 1269, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 46.
+- 2024-06-05 — House Amendment Offered
+- 2024-06-05 — House Amendment Offered
+- 2024-06-05 — House Amendment Offered
+- 2024-06-05 — House Amendment Offered
+- 2024-06-05 — House amendment agreed to: On agreeing to the Schweikert amendment (A028) Agreed to by recorded vote: 333 - 70 (Roll no. 243).
+- 2024-06-05 — House amendment agreed to: On agreeing to the Schweikert amendment (A029) Agreed to by recorded vote: 392 - 11 (Roll no. 244).
+- 2024-06-05 — House amendment agreed to: On agreeing to the Steube amendment (A030) Agreed to by recorded vote: 237 - 169, 1 Present (Roll no. 245).
+- 2024-06-05 — House amendment agreed to: On agreeing to the Steube amendment (A031) Agreed to by voice vote.
+- 2024-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-05 — Mr. Rutherford moved that the committee rise.
+- 2024-06-05 — Ms. Wasserman Schultz moved to recommit to the Committee on Appropriations. (text: CR H3666)
+- 2024-06-05 — On agreeing to the Schweikert amendment (A028) Agreed to by recorded vote: 333 - 70 (Roll no. 243).
+- 2024-06-05 — On agreeing to the Schweikert amendment (A029) Agreed to by recorded vote: 392 - 11 (Roll no. 244).
+- 2024-06-05 — On agreeing to the Steube amendment (A030) Agreed to by recorded vote: 237 - 169, 1 Present (Roll no. 245).
+- 2024-06-05 — On agreeing to the Steube amendment (A031) Agreed to by voice vote.
+- 2024-06-05 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-05 — On motion to recommit Failed by the Yeas and Nays: 199 - 207 (Roll no. 246).
+- 2024-06-05 — On passage Passed by the Yeas and Nays: 209 - 197 (Roll no. 247).
+- 2024-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schweikert Amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rutherford demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schweikert Amendment No. 44, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rutherford demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steube Amendment No. 45, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rutherford demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 209 - 197 (Roll no. 247).
+- 2024-06-05 — Roll call votes on amendments in House
+- 2024-06-05 — Roll call votes on amendments in House
+- 2024-06-05 — Roll call votes on amendments in House
+- 2024-06-05 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-06-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-05 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8580.
+- 2024-06-05 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-06-05 — The previous question was ordered pursuant to the rule.
