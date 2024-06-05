@@ -1,7 +1,7 @@
 ---
 measure: S. 2291
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2291
@@ -32,3 +32,13 @@ Northern Border Coordination Act
 - 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-119.
 - 2023-11-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-119.
 - 2023-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.
+- 2024-06-05 — 
+- 2024-06-05 — Amendment SA 2073 agreed to in Senate by Unanimous Consent.
+- 2024-06-05 — Amendment SA 2073 proposed by Senator Schumer for Senator Peters. (consideration: CR S4001-4002) In the nature of a substitute.
+- 2024-06-05 — Measure laid before Senate by unanimous consent. (consideration: CR S3993-4002)
+- 2024-06-05 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4001-4002)
+- 2024-06-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4001-4002)
+- 2024-06-05 — Senate amendment agreed to: Amendment SA 2073 agreed to in Senate by Unanimous Consent.
+- 2024-06-05 — Senate amendment proposed (on the floor): Amendment SA 2073 proposed by Senator Schumer for Senator Peters.
+- 2024-06-05 — Senate amendment submitted
+- 2024-06-05 — The committee substitute withdrawn by Unanimous Consent. (CR S4001)
