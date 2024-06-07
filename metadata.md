@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7404
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7404
@@ -16,7 +16,7 @@ Subterranean Border Defense Act
 
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -27,6 +27,11 @@ Subterranean Border Defense Act
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Thanedar, Shri [D-MI-13] (T000488)
+- Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
+- Rep. Pfluger, August [R-TX-11] (P000048)
 
 ## Committees (1)
 
@@ -38,3 +43,9 @@ Subterranean Border Defense Act
 - 2024-02-16 — Introduced in House
 - 2024-02-16 — Referred to the House Committee on Homeland Security.
 - 2024-02-16 — Referred to the Subcommittee on Border Security and Enforcement.
+- 2024-04-10 — Committee Consideration and Mark-up Session Held
+- 2024-04-10 — Ordered to be Reported by Voice Vote.
+- 2024-04-10 — Subcommittee on Border Security and Enforcement Discharged
+- 2024-06-07 — Placed on the Union Calendar, Calendar No. 451.
+- 2024-06-07 — Reported by the Committee on Homeland Security. H. Rept. 118-543.
+- 2024-06-07 — Reported by the Committee on Homeland Security. H. Rept. 118-543.
