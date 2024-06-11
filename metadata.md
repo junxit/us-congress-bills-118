@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 713
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 713
@@ -34,3 +34,7 @@ A resolution designating May 2024 as "ALS Awareness Month".
 
 - 2024-05-23 — Introduced in Senate
 - 2024-05-23 — Referred to the Committee on the Judiciary.
+- 2024-06-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4023; text: 5/23/2024 CR S3893)
+- 2024-06-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4023; text: 5/23/2024 CR S3893)
+- 2024-06-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-06-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.

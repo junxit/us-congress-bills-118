@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the cause of ALS is unknown in up to 90 percent of cases;
 - Whereas approximately 10 percent of ALS cases have a strong known genetic driver;
 - Whereas, on average, the period between the date on which an individual first experiences symptoms of ALS and the date on which the individual is diagnosed with ALS is more than 1 year;
-- Whereas the onset of ALS often involves muscle weakness or stiffness, and the progression of ALS results in the further weakening, wasting, and paralysis of— (1)the muscles of the limbs and trunk; and (2)the muscles that control vital functions, such as speech, swallowing, and breathing;
+- Whereas the onset of ALS often involves muscle weakness or stiffness, and the progression of ALS results in the further weakening, wasting, and paralysis of—(1)the muscles of the limbs and trunk; and(2)the muscles that control vital functions, such as speech, swallowing, and breathing;
 - Whereas ALS can strike individuals of any age, but it predominantly strikes adults;
 - Whereas it is estimated that tens of thousands of individuals in the United States have ALS at any given time;
 - Whereas, based on studies of the population of the United States, more than 5,000 individuals in the United States are diagnosed with ALS each year, and approximately 15 individuals in the United States are diagnosed with ALS each day;
