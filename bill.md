@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2964
 
-> To require the Federal Trade Commission to issue regulations requiring certain products to have “Do Not Flush” labeling, and for other purposes.
+> To require certain products to be labeled with ‘Do Not Flush’ labeling, and for other purposes.
 
 ## § 1. Short title
 

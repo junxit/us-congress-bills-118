@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2964
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2964
@@ -26,6 +26,10 @@ WIPPES Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-06-11 — [House 118-2-249](votes/house-118-2-0249.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (351–56)
+
 ## Actions
 
 - 2023-04-27 — Introduced in House
@@ -40,3 +44,12 @@ WIPPES Act
 - 2024-04-05 — Placed on the Union Calendar, Calendar No. 371.
 - 2024-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-447.
 - 2024-04-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-447.
+- 2024-06-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-06-11 — Considered as unfinished business. (consideration: CR H3709-3710)
+- 2024-06-11 — Considered under suspension of the rules. (consideration: CR H3707-3709)
+- 2024-06-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2964.
+- 2024-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-11 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2024-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 56 (Roll no. 249). (text: CR H3707-3708)
+- 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 56 (Roll no. 249). (text: CR H3707-3708)
+- 2024-06-11 — The title of the measure was amended. Agreed to without objection.
