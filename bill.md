@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 27
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,8 +18,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Mr. Kara-Murza has consistently advocated for democracy in Russia and insisted that democracy in Russia must be advanced by Russians for all those living in Russia;
 - Whereas, in August 2022, new charges were brought against Mr. Kara-Murza for “carrying out the activities” of an “undesirable foreign organization” and his arrest was extended for his work as a leading member of Russian civil society;
 - Whereas, in October 2022, Mr. Kara-Murza was further charged unjustly with “high treason” in part due to his public condemnations of the Kremlin’s military aggression on Ukraine and domestic repressions;
-- Whereas Mr. Kara-Murza remains in pretrial detention and faces a prison sentence of up to 24 years on high treason and other charges;
-- Whereas the state of Mr. Kara-Murza’s health has deteriorated and in addition to losing over 45 pounds, he was diagnosed with polyneuropathy, a condition that under Russian law should preclude him from his current detainment;
+- Whereas, in April 2023, Mr. Kara-Murza was unjustly sentenced to 25 years in prison;
+- Whereas the state of Mr. Kara-Murza’s health has deteriorated and in addition to losing over 45 pounds, he was diagnosed with polyneuropathy, a condition that under Russian law should have precluded him from detainment;
 - Whereas, as a result of his diagnosis, he has lost feeling in both his feet and has experienced symptoms similar to those he experienced following his 2015 poisoning due to peripheral nerve damage;
 - Whereas section 5599F of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263) condemned Mr. Kara-Murza’s unjust detention, expressed solidarity with Mr. Kara-Murza, his family, and all individuals imprisoned in Russia for their beliefs, and urged the United States and other ally governments to work to secure the release of Mr. Kara-Murza and other citizens of the Russian Federation imprisoned for opposition to Vladimir Putin’s regime and his illegal war in Ukraine;
 - Whereas, in April 2022, Vladimir Kara-Murza was presented the McCain Institute’s Courage and Leadership Award for his unwavering commitment to fundamental values and his acts of selfless courage which have inspired the world;
@@ -33,5 +33,6 @@ That Congress—
 - **(1)** condemns in the strongest possible terms the unjust and arbitrary detention of Russian democratic opposition leader Vladimir Kara-Murza;
 - **(2)** calls on the Russian Federation to immediately release Mr. Kara-Murza and all other Russian opposition leaders who are detained as a result of their opposition to the Putin regime;
 - **(3)** calls on all Russian citizens to outright condemn Russia’s illegal and unjust invasion of Ukraine in the spirit of Mr. Kara-Murza’s defiant opposition stance in front of the Arizona House of Representatives in March 2022;
-- **(4)** expresses solidarity and calls for the release of all political prisoners in Russia and Belarus as well as Ukrainian citizens illegally held as prisoners by Putin’s regime in violation of the rule of law as a result of their support for liberal democratic values; and
-- **(5)** calls on the President of the United States and leaders from across the free world to work tirelessly for the release of political prisoners in Russia and increase support for those advocating for democracy in Russia as well as independent media and civil society which Mr. Kara-Murza has worked to further.
+- **(4)** expresses solidarity and calls for the release of all political prisoners in Russia and Belarus, including Ukrainian citizens illegally held as prisoners by Putin’s regime in violation of the rule of law as a result of their support for liberal democratic values, Radio Free Europe/Radio Liberty journalist Alsu Kurmasheva, and wrongfully-detained Americans Paul Whelan and Evan Gershkovich;
+- **(5)** calls on the United States Government to designate Mr. Kara-Murza, as well as Radio Free Europe/Radio Liberty journalist Alsu Kurmasheva, as wrongfully detained under the Levinson Act; and
+- **(6)** calls on the President of the United States and leaders from across the free world to work tirelessly for the release of political prisoners in Russia and increase support for those advocating for democracy in Russia as well as independent media and civil society which Mr. Kara-Murza has worked to further.
