@@ -1,0 +1,18 @@
+---
+legis-num: S. 4513
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4513
+
+> To expand eligibility for Junior Reserve Officers' Training Corps unit participation.
+
+## § 1. Short title
+
+This Act may be cited as the “Preserving JROTC Programs Act of 2024”.
+
+## § 2. Number of enrolled students requirement for Junior Reserve Officers' Training Corps unit participation
+
+Section 2031(b)(1)(A) of title 10, United States Code, is amended by striking “or (ii) 100, whichever is less” and inserting “or (ii) 50, whichever is less”.
