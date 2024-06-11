@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 537
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,19 +29,19 @@ Congress finds the following:
 
 - **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of Congress, of a single gold medal of appropriate design in honor of the 60 diplomats identified in section 2(1), in recognition of their brave and vital service of saving Jews during World War II.
 - **(b)** *Design and striking* For purposes of the presentation referred to in subsection (a), the Secretary of the Treasury (referred to in this Act as the “Secretary”) shall strike a gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
-- **(c)** *Presentation of medal* The gold medal presented under subsection (a) shall be presented to the eldest next of kin of each of the 60 diplomats identified in section 2(1), who shall receive the medal as part of a delegation consisting of a senior official representative of the country that each diplomat served and the cochairs of the Forgotten Heroes of the Holocaust Committee.
+- **(c)** *Presentation of medal* The single gold medal presented under subsection (a) shall be presented collectively to the eldest next of kin of each of the 60 diplomats identified in section 2(1), who shall receive the medal as part of a delegation consisting of a senior official representative of the country that each diplomat served and the cochairs of the Forgotten Heroes of the Holocaust Committee.
 - **(d)** *United States Holocaust Memorial Museum*
   - **(1)** *In general* Following the award of the gold medal in honor of the 60 diplomats identified in section 2(1), the gold medal shall be given to the United States Holocaust Memorial Museum, where it will be available for display as appropriate and available for research.
   - **(2)** *Sense of Congress* It is the sense of Congress that the United States Holocaust Memorial Museum should make the gold medal awarded pursuant to this Act available for display elsewhere, particularly at appropriate locations associated with Holocaust remembrance.
 
 ## § 4. Duplicate medals
 
-The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3, at a price sufficient to cover the costs thereof, including labor, materials, dies, use of machinery, and overhead expenses.
 
 ## § 5. Status of medals
 
 - **(a)** *National medal* Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+- **(b)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
 
 ## § 6. Authority to use fund amounts; proceeds of sale
 
