@@ -34,4 +34,4 @@ This Act may be cited as the “End Chinese Dominance of Electric Vehicles in Am
   >   - **(D)** *Covered nation* For purposes of this paragraph, the term “covered nation” has the meaning given such term in section 4872(d) of title 10, United States Code.
   >   - **(E)** *Drive battery* For purposes of this paragraph, the term “drive battery” means, with respect to a vehicle, the battery from which the electric motor of such vehicle draws electricity.
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply to vehicles placed in service after the date of enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to vehicles placed in service after the date of enactment of this Act.
