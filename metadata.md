@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6543
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6543
@@ -22,9 +22,10 @@ No Hidden FEES Act of 2023
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ No Hidden FEES Act of 2023
 - 2024-06-11 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2024-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 25 (Roll no. 248). (text: CR H3704-3705)
 - 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 25 (Roll no. 248). (text: CR H3704-3705)
+- 2024-06-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
