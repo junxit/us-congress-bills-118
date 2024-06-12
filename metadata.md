@@ -1,7 +1,7 @@
 ---
 measure: H.R. 537
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 537
@@ -314,9 +314,10 @@ Forgotten Heroes of the Holocaust Congressional Gold Medal Act
 - Rep. DeSaulnier, Mark [D-CA-10] (D000623)
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -329,3 +330,4 @@ Forgotten Heroes of the Holocaust Congressional Gold Medal Act
 - 2024-06-11 — Mr. Flood moved to suspend the rules and pass the bill, as amended.
 - 2024-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3695-3696)
 - 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3695-3696)
+- 2024-06-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
