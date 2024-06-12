@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 27
@@ -39,9 +39,10 @@ Condemning Russia's unjust and arbitrary detention of Russian opposition leader 
 - Rep. Porter, Katie [D-CA-47] (P000618)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Condemning Russia's unjust and arbitrary detention of Russian opposition leader 
 - 2024-06-11 — Mr. McCaul moved to suspend the rules and agree to the resolution, as amended.
 - 2024-06-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3699-3700)
 - 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H3699-3700)
+- 2024-06-12 — Received in the Senate and referred to the Committee on Foreign Relations.
