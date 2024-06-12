@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2964
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2964
@@ -22,9 +22,10 @@ WIPPES Act
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ WIPPES Act
 - 2024-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 56 (Roll no. 249). (text: CR H3707-3708)
 - 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 56 (Roll no. 249). (text: CR H3707-3708)
 - 2024-06-11 — The title of the measure was amended. Agreed to without objection.
+- 2024-06-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
