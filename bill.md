@@ -2,7 +2,7 @@
 legis-num: H. RES. 1287
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1287
@@ -31,4 +31,4 @@ If House Report 118–527 is called up by direction of the Committee on the Judi
 
 ## § 6.
 
-Upon adoption of the resolution accompanying House Report 118-527, the resolution accompanying House Report 118-533 is hereby adopted.
+Upon adoption of the resolution accompanying House Report 118–527, the resolution accompanying House Report 118–533 is hereby adopted.
