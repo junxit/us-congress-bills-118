@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7988
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7988
@@ -20,9 +20,10 @@ SPUR Act
 
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ SPUR Act
 - 2024-06-11 — Placed on the Union Calendar, Calendar No. 453.
 - 2024-06-11 — Reported by the Committee on Small Business. H. Rept. 118-547.
 - 2024-06-11 — Reported by the Committee on Small Business. H. Rept. 118-547.
+- 2024-06-12 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
