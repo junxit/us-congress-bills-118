@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 8707
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8707
+
+> To amend title 28, United States Code, to clarify that protection for jurors on the basis of sex includes sexual orientation and gender identity.
+
+## § 1. Short title
+
+This Act may be cited as the “Juror Non-Discrimination Act of 2024”.
+
+## § 2. Juries
+
+Chapter 121 of title 28, United States Code, is amended—
+
+- **(1)** in section 1862, by inserting “(including sexual orientation and gender identity)” after “sex”;
+- **(2)** in section 1867(e), in the second sentence, by inserting “(including sexual orientation and gender identity)” after “sex”; and
+- **(3)** in section 1869—
+  - **(A)** in subsection (j), by striking “and” at the end;
+  - **(B)** in subsection (k), by striking the period at the end and inserting a semicolon; and
+  - **(C)** by adding at the end the following:
+    > - **(l)** “gender identity” shall mean the gender-related identity, appearance, mannerisms, or other gender-related characteristics of an individual, regardless of the individual’s designated sex at birth;
+    > - **(m)** “sex” shall include—
+    >   - **(1)** a sex stereotype;
+    >   - **(2)** pregnancy, childbirth, or a related medical condition;
+    >   - **(3)** sexual orientation or gender identity; and
+    >   - **(4)** sex characteristics, including intersex traits;
+    > - **(n)** “sexual orientation” shall mean homosexuality, heterosexuality, or bisexuality; and
+    > - **(o)** “race”, “color”, “religion”, “sex” (including “sexual orientation” and “gender identity”), “economic status”, or “national origin”, used with respect to an individual, includes—
+    >   - **(1)** the race, color, religion, sex (including sexual orientation and gender identity), economic status, or national origin, respectively, of another person with whom the individual is associated or has been associated; and
+    >   - **(2)** a perception or belief, even if inaccurate, concerning the race, color, religion, sex (including sexual orientation and gender identity), economic status, or national origin, respectively, of the individual.
