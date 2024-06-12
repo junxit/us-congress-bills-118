@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8014
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8014
@@ -20,9 +20,10 @@ Transparency and Predictability in Small Business Opportunities Act
 
 - Rep. Alford, Mark [R-MO-4] (A000379)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Transparency and Predictability in Small Business Opportunities Act
 - 2024-06-11 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2024-06-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3693)
 - 2024-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3693)
+- 2024-06-12 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
