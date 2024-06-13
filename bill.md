@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 8729
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8729
+
+> To ensure that institutions of higher education that withhold certain transcripts are eligible to participate in title IV of the Higher Education Act of 1965, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Backdoors for Student Debt Cancellation Act”.
+
+## § 2. Title IV eligibility
+
+The Secretary of Education may not determine an institution of higher education (as such term is defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)) ineligible for participation in title IV of such Act (20 U.S.C. 1070 et seq.) because such institution withholds from a student, for any reason, transcripts that include all credit or clock hours for payment periods in which the student received funds under such title and for which all institutional charges were paid.
