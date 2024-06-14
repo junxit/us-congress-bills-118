@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8070
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8070
@@ -52,6 +52,35 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - House — Transportation and Infrastructure Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (26)
+
+- 2024-06-12 — [House 118-2-253](votes/house-118-2-0253.md) — On Agreeing to the Amendment — **Agreed to** (204–199)
+- 2024-06-12 — [House 118-2-254](votes/house-118-2-0254.md) — On Agreeing to the Amendment — **Failed** (173–241)
+- 2024-06-12 — [House 118-2-255](votes/house-118-2-0255.md) — On Agreeing to the Amendment — **Failed** (196–231)
+- 2024-06-12 — [House 118-2-256](votes/house-118-2-0256.md) — On Agreeing to the Amendment — **Agreed to** (215–210)
+- 2024-06-12 — [House 118-2-257](votes/house-118-2-0257.md) — On Agreeing to the Amendment — **Failed** (201–217)
+- 2024-06-12 — [House 118-2-258](votes/house-118-2-0258.md) — On Agreeing to the Amendment — **Agreed to** (238–187)
+- 2024-06-12 — [House 118-2-259](votes/house-118-2-0259.md) — On Agreeing to the Amendment — **Failed** (81–346)
+- 2024-06-13 — [House 118-2-261](votes/house-118-2-0261.md) — On Agreeing to the Amendment — **Failed** (74–343)
+- 2024-06-13 — [House 118-2-262](votes/house-118-2-0262.md) — On Agreeing to the Amendment — **Agreed to** (213–206)
+- 2024-06-13 — [House 118-2-263](votes/house-118-2-0263.md) — On Agreeing to the Amendment — **Agreed to** (214–207)
+- 2024-06-13 — [House 118-2-264](votes/house-118-2-0264.md) — On Agreeing to the Amendment — **Failed** (134–286)
+- 2024-06-13 — [House 118-2-265](votes/house-118-2-0265.md) — On Agreeing to the Amendment — **Agreed to** (216–206)
+- 2024-06-13 — [House 118-2-266](votes/house-118-2-0266.md) — On Agreeing to the Amendment — **Failed** (212–212)
+- 2024-06-13 — [House 118-2-267](votes/house-118-2-0267.md) — On Agreeing to the Amendment — **Agreed to** (211–208)
+- 2024-06-13 — [House 118-2-268](votes/house-118-2-0268.md) — On Agreeing to the Amendment — **Agreed to** (214–210)
+- 2024-06-13 — [House 118-2-269](votes/house-118-2-0269.md) — On Agreeing to the Amendment — **Failed** (192–230)
+- 2024-06-13 — [House 118-2-270](votes/house-118-2-0270.md) — On Agreeing to the Amendment — **Agreed to** (218–206)
+- 2024-06-13 — [House 118-2-271](votes/house-118-2-0271.md) — On Agreeing to the Amendment — **Agreed to** (221–202)
+- 2024-06-13 — [House 118-2-272](votes/house-118-2-0272.md) — On Agreeing to the Amendment — **Agreed to** (215–206)
+- 2024-06-13 — [House 118-2-273](votes/house-118-2-0273.md) — On Agreeing to the Amendment — **Agreed to** (217–206)
+- 2024-06-13 — [House 118-2-274](votes/house-118-2-0274.md) — On Agreeing to the Amendment — **Failed** (205–216)
+- 2024-06-13 — [House 118-2-275](votes/house-118-2-0275.md) — On Agreeing to the Amendment — **Agreed to** (218–205)
+- 2024-06-14 — [House 118-2-276](votes/house-118-2-0276.md) — On Agreeing to the Amendment — **Failed** (188–228)
+- 2024-06-14 — [House 118-2-277](votes/house-118-2-0277.md) — On Agreeing to the Amendment — **Agreed to** (272–144)
+- 2024-06-14 — [House 118-2-278](votes/house-118-2-0278.md) — On Motion to Recommit — **Failed** (202–214)
+- 2024-06-14 — [House 118-2-279](votes/house-118-2-0279.md) — On Passage — **Passed** (217–199)
+
 ## Actions
 
 - 2024-04-18 — Introduced in House
@@ -62,3 +91,384 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-05-31 — Placed on the Union Calendar, Calendar No. 440.
 - 2024-05-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 118-529.
 - 2024-05-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 118-529.
+- 2024-06-11 — Rules Committee Resolution H. Res. 1287 Reported to House. Rule provides for consideration of H.R. 8070. The resolution provides for consideration of H.R. 8070 under a structured rule and the resolution accompanying House Report 118-527 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8070.
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — 
+- 2024-06-12 — Amendment (A001) offered by Mr. Rogers (AL). (consideration: CR H3937-3938; text: CR H3938)
+- 2024-06-12 — Amendment (A003) offered by Mr. Mast. (consideration: CR H3951-3952; text: CR H3951-3952)
+- 2024-06-12 — Amendment (A004) offered by Mr. Ogles. (consideration: CR H3952; text: CR H3952)
+- 2024-06-12 — Amendment (A005) offered by Mr. Mast. (consideration: CR H3952-3954, H3966; text: CR H3952)
+- 2024-06-12 — Amendment (A006) offered by Mr. Mast. (consideration: CR H3954-3955; text: CR H3954)
+- 2024-06-12 — Amendment (A007) offered by Mr. Roy. (consideration: CR H3955-3956; text: CR H3955)
+- 2024-06-12 — Amendment (A008) offered by Ms. Greene (GA). (consideration: CR H3956-3958, H3966-3967; text: CR H3956)
+- 2024-06-12 — Amendment (A009) offered by Mr. Biggs. (consideration: CR H3958-3959, H3967-3968; text: CR H3958)
+- 2024-06-12 — Amendment (A010) offered by Mr. Roy. (consideration: CR H3959-3961, H3968; text: CR H3959)
+- 2024-06-12 — Amendment (A011) offered by Ms. Mace. (consideration: CR H3961-3962, H3968-3969; text: H3961)
+- 2024-06-12 — Amendment (A012) offered by Mr. Crenshaw. (consideration: CR H3962-3963; text: CR H3962)
+- 2024-06-12 — Amendment (A013) offered by Mr. Waltz. (consideration: CR H3963-3964, H3969-3970; text: CR H3963)
+- 2024-06-12 — Amendment (A014) offered by Mr. Biggs. (consideration: CR H3964-3965, H3970; text: CR H3964)
+- 2024-06-12 — Amendments en bloc (A002) offered by Mr. Rogers (AL). (consideration: CR H3938-3951; text: CR H3938-3950)
+- 2024-06-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 8070 as unfinished business.
+- 2024-06-12 — Considered under the provisions of rule H. Res. 1287. (consideration: CR H3767-3970; text: CR H3777-3938)
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 23.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 36.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Crenshaw amendment No. 34.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 22.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 28.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Mast amendment No. 14.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Mast amendment No. 5.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Mast amendment No. 8.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 6.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 1.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 21.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 24.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Waltz amendment No. 35.
+- 2024-06-12 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 1.
+- 2024-06-12 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8070.
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House Amendment Offered
+- 2024-06-12 — House amendment agreed to: On agreeing to the Crenshaw amendment (A012) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Mast amendment (A003) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Mast amendment (A005) Agreed to by recorded vote: 204 - 199 (Roll no. 253).
+- 2024-06-12 — House amendment agreed to: On agreeing to the Mast amendment (A006) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Ogles amendment (A004) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A001) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A002) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Roy amendment (A007) Agreed to by voice vote.
+- 2024-06-12 — House amendment agreed to: On agreeing to the Roy amendment (A010) Agreed to by recorded vote: 215 - 210 (Roll no. 256).
+- 2024-06-12 — House amendment agreed to: On agreeing to the Waltz amendment (A013) Agreed to by recorded vote: 238 - 187 (Roll no. 258).
+- 2024-06-12 — House amendment not agreed to: On agreeing to the Biggs amendment (A009) Failed by recorded vote: 196 - 231 (Roll no. 255).
+- 2024-06-12 — House amendment not agreed to: On agreeing to the Biggs amendment (A014) Failed by recorded vote: 81 - 346 (Roll no. 259).
+- 2024-06-12 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A008) Failed by recorded vote: 173 - 241 (Roll no. 254).
+- 2024-06-12 — House amendment not agreed to: On agreeing to the Mace amendment (A011) Failed by recorded vote: 201 - 217 (Roll no. 257).
+- 2024-06-12 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1287 and Rule XVIII.
+- 2024-06-12 — Mr. Rogers (AL) moved that the committee rise.
+- 2024-06-12 — On agreeing to the Biggs amendment (A009) Failed by recorded vote: 196 - 231 (Roll no. 255).
+- 2024-06-12 — On agreeing to the Biggs amendment (A014) Failed by recorded vote: 81 - 346 (Roll no. 259).
+- 2024-06-12 — On agreeing to the Crenshaw amendment (A012) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Greene (GA) amendment (A008) Failed by recorded vote: 173 - 241 (Roll no. 254).
+- 2024-06-12 — On agreeing to the Mace amendment (A011) Failed by recorded vote: 201 - 217 (Roll no. 257).
+- 2024-06-12 — On agreeing to the Mast amendment (A003) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Mast amendment (A005) Agreed to by recorded vote: 204 - 199 (Roll no. 253).
+- 2024-06-12 — On agreeing to the Mast amendment (A006) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Ogles amendment (A004) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Rogers (AL) amendment (A001) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Rogers (AL) amendments (A002) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Roy amendment (A007) Agreed to by voice vote.
+- 2024-06-12 — On agreeing to the Roy amendment (A010) Agreed to by recorded vote: 215 - 210 (Roll no. 256).
+- 2024-06-12 — On agreeing to the Waltz amendment (A013) Agreed to by recorded vote: 238 - 187 (Roll no. 258).
+- 2024-06-12 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 23, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Beyer demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 36, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Biggs demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 22, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 28, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mast amendment No. 8, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roy amendment No. 24, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. McClellan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waltz amendment No. 35, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Roll call votes on amendments in House
+- 2024-06-12 — Rule H. Res. 1287 passed House.
+- 2024-06-12 — Rule provides for consideration of H.R. 8070. The resolution provides for consideration of H.R. 8070 under a structured rule and the resolution accompanying House Report 118-527 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8070.
+- 2024-06-12 — The Speaker designated the Honorable Tom McClintock to act as Chairman of the Committee.
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — 
+- 2024-06-13 — Amendment (A015) offered by Ms. Greene (GA). (consideration: CR H3990-3991, H4037; text: CR H3990)
+- 2024-06-13 — Amendment (A016) offered by Mr. Gaetz. (consideration: CR H3991-3993, H4039; text: CR H3991)
+- 2024-06-13 — Amendment (A017) offered by Mr. Grothman. (consideration: CR H3993-3994, H4039-4040; text: CR H3993)
+- 2024-06-13 — Amendment (A018) offered by Mr. Norman. (consideration: CR H3994-3995, H4040-4041; text: CR H3994)
+- 2024-06-13 — Amendment (A019) offered by Mr. Higgins (LA). (consideration: CR H3995-3997, H4041-4042; text: CR H3995-3996)
+- 2024-06-13 — Amendment (A020) offered by Mr. Clyde. (consideration: CR H3997-3997, H4042-4043; text: CR H3997)
+- 2024-06-13 — Amendment (A021) offered by Mr. Williams (TX). (consideration: CR H3998-4000, H4043; text: CR H3998)
+- 2024-06-13 — Amendment (A022) offered by Mr. Steube. (consideration: CR H4000-4001, H4043-4044; text: CR H4000)
+- 2024-06-13 — Amendment (A023) offered by Mrs. Luna. (consideration: CR H4001-4003; text: CR H4001)
+- 2024-06-13 — Amendment (A024) offered by Ms. Boebert. (consideration: CR H4003-4004, H4044-4045; text: CR H4003)
+- 2024-06-13 — Amendment (A025) offered by Mr. Mills. (consideration: CR H4004-4006, H4045; text: CR H4004)
+- 2024-06-13 — Amendment (A026) offered by Mr. Waltz. (consideration: CR H4006-4007, H4045-4046; text: CR H4006)
+- 2024-06-13 — Amendment (A027) offered by Mr. Ogles. (consideration: CR H4007-4008; text: CR H4007)
+- 2024-06-13 — Amendment (A028) offered by Mr. Rosendale. (consideration: CR H4008-4009, H4037-4038; text: CR H4008)
+- 2024-06-13 — Amendment (A029) offered by Mr. Norman. (consideration: CR H4009-4011, H4046-4047; text: CR H4009)
+- 2024-06-13 — Amendment (A030) offered by Mr. Brecheen. (consideration: CR H4011-4012; text: CR H4011)
+- 2024-06-13 — Amendment (A031) offered by Ms. Van Duyne. (consideration: CR H4012-4013, H4038-4039; text: CR H4012)
+- 2024-06-13 — Amendments en bloc (A032) offered by Mr. Rogers (AL). (consideration: CR H4014-4028; text: CR H4014-4026)
+- 2024-06-13 — Amendments en bloc (A033) offered by Mr. Rogers (AL). (consideration: CR H4028-4036; text: CR H4028-4036)
+- 2024-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 8070 as unfinished business.
+- 2024-06-13 — Committee of the Whole House on the state of the Union rises leaving H.R. 8070 as unfinished business.
+- 2024-06-13 — Considered as unfinished business. (consideration: CR H3990-4036)
+- 2024-06-13 — Considered as unfinished business. (consideration: CR H4036-4047)
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 41.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 42.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 46.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 48.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 54.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Clyde amendment No. 44.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Gaetz amendment No. 40.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 37.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Higgins (LA) amendment No. 43.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 47.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Mills amendment No. 49.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 53.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 51.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 52.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Van Duyne amendment No. 55.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Waltz amendment No. 50.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Williams (TX) amendment No. 45.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 2.
+- 2024-06-13 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 3.
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House Amendment Offered
+- 2024-06-13 — House amendment agreed to: On agreeing to the Boebert amendment (A024) Agreed to by recorded vote: 215 - 206 (Roll no. 272).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Brecheen amendment (A030) Agreed to by voice vote.
+- 2024-06-13 — House amendment agreed to: On agreeing to the Grothman amendment (A017) Agreed to by recorded vote: 216 - 206 (Roll no. 265).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Higgins (LA) amendment (A019) Agreed to by recorded vote: 214 - 210 (Roll no. 268).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Luna amendment (A023) Agreed to by voice vote.
+- 2024-06-13 — House amendment agreed to: On agreeing to the Mills amendment (A025) Agreed to by recorded vote: 217 - 206 (Roll no. 273).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Norman amendment (A018) Agreed to by recorded vote: 211 - 208 (Roll no. 267).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Norman amendment (A029) Agreed to by recorded vote: 218 - 205 (Roll no. 275).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Ogles amendment (A027) Agreed to by voice vote.
+- 2024-06-13 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A032) Agreed to by voice vote.
+- 2024-06-13 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A033) Agreed to by voice vote.
+- 2024-06-13 — House amendment agreed to: On agreeing to the Rosendale amendment (A028) Agreed to by recorded vote: 213 - 206 (Roll no. 262).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Steube amendment (A022) Agreed to by recorded vote: 221 - 202 (Roll no. 271).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Van Duyne amendment (A031) Agreed to by recorded vote: 214 - 207 (Roll no. 263).
+- 2024-06-13 — House amendment agreed to: On agreeing to the Williams (TX) amendment (A021) Agreed to by recorded vote: 218 - 206 (Roll no. 270).
+- 2024-06-13 — House amendment not agreed to: On agreeing to the Clyde amendment (A020) Failed by recorded vote: 192 - 230 (Roll no. 269).
+- 2024-06-13 — House amendment not agreed to: On agreeing to the Gaetz amendment (A016) Failed by recorded vote: 134 - 286 (Roll no. 264).
+- 2024-06-13 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 74 - 343 (Roll no. 261).
+- 2024-06-13 — House amendment not agreed to: On agreeing to the Norman amendment (A018) Failed by recorded vote: 212 - 212 (Roll no. 266).
+- 2024-06-13 — House amendment not agreed to: On agreeing to the Waltz amendment (A026) Failed by recorded vote: 205 - 216 (Roll no. 274).
+- 2024-06-13 — Mr. Rogers (AL) moved that the committee rise.
+- 2024-06-13 — Mr. Rogers (AL) moved that the committee rise.
+- 2024-06-13 — On agreeing to the Boebert amendment (A024) Agreed to by recorded vote: 215 - 206 (Roll no. 272).
+- 2024-06-13 — On agreeing to the Brecheen amendment (A030) Agreed to by voice vote.
+- 2024-06-13 — On agreeing to the Clyde amendment (A020) Failed by recorded vote: 192 - 230 (Roll no. 269).
+- 2024-06-13 — On agreeing to the Gaetz amendment (A016) Failed by recorded vote: 134 - 286 (Roll no. 264).
+- 2024-06-13 — On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 74 - 343 (Roll no. 261).
+- 2024-06-13 — On agreeing to the Grothman amendment (A017) Agreed to by recorded vote: 216 - 206 (Roll no. 265).
+- 2024-06-13 — On agreeing to the Higgins (LA) amendment (A019) Agreed to by recorded vote: 214 - 210 (Roll no. 268).
+- 2024-06-13 — On agreeing to the Luna amendment (A023) Agreed to by voice vote.
+- 2024-06-13 — On agreeing to the Mills amendment (A025) Agreed to by recorded vote: 217 - 206 (Roll no. 273).
+- 2024-06-13 — On agreeing to the Norman amendment (A018) Agreed to by recorded vote: 211 - 208 (Roll no. 267).
+- 2024-06-13 — On agreeing to the Norman amendment (A018) Failed by recorded vote: 212 - 212 (Roll no. 266).
+- 2024-06-13 — On agreeing to the Norman amendment (A029) Agreed to by recorded vote: 218 - 205 (Roll no. 275).
+- 2024-06-13 — On agreeing to the Ogles amendment (A027) Agreed to by voice vote.
+- 2024-06-13 — On agreeing to the Rogers (AL) amendments (A032) Agreed to by voice vote.
+- 2024-06-13 — On agreeing to the Rogers (AL) amendments (A033) Agreed to by voice vote.
+- 2024-06-13 — On agreeing to the Rosendale amendment (A028) Agreed to by recorded vote: 213 - 206 (Roll no. 262).
+- 2024-06-13 — On agreeing to the Steube amendment (A022) Agreed to by recorded vote: 221 - 202 (Roll no. 271).
+- 2024-06-13 — On agreeing to the Van Duyne amendment (A031) Agreed to by recorded vote: 214 - 207 (Roll no. 263).
+- 2024-06-13 — On agreeing to the Waltz amendment (A026) Failed by recorded vote: 205 - 216 (Roll no. 274).
+- 2024-06-13 — On agreeing to the Williams (TX) amendment (A021) Agreed to by recorded vote: 218 - 206 (Roll no. 270).
+- 2024-06-13 — On motion that the Committee rise Agreed to by voice vote.
+- 2024-06-13 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 48, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Tokuda demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clyde amendment No. 44, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. McClellan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gaetz amendment No. 40, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Gaetz demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 37, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Greene (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment No. 41, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. McClellan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Higgins (LA) amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. McClellan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luna amendment No. 47, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mills amendment No. 49, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 42, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. McClellan demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 53, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 52, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steube amendment No. 46, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Van Duyne amendment No. 55, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Van Duyne demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waltz amendment No. 50, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Williams (TX) amendment No. 45, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-13 — Pursuant to clause 6(h) of rule XVIII, the Committee of the Whole resumed its sitting.
+- 2024-06-13 — Pursuant to clause 6(h) of rule XVIII, the Committee rose.
+- 2024-06-13 — Pursuant to clause 6(h) of rule XVIII, the votes of the Delegates and Resident Commissioner were decisive on the previous vote and a separate vote in the House was required.
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — Roll call votes on amendments in House
+- 2024-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-13 — UNANIMOUS CONSENT REQUEST - Mr. Smith (WA) asked unanimous consent that the request for a recorded vote on amendment No. 47 be withdrawn to the end and that the amendment stand disposed of by the earlier voice vote theron. Agreed to without objection.
+- 2024-06-14 — 
+- 2024-06-14 — 
+- 2024-06-14 — Amendment (A036) offered by Mr. Perry. (consideration: CR H4089-4010, H4094; text: CR H4089)
+- 2024-06-14 — Amendment (A037) offered by Mr. Doggett. (consideration: CR H4090-4092; text: CR H4091)
+- 2024-06-14 — Amendment (A038) offered by Mr. James. (consideration: CR H4092-4094, H4094-4095; text: CR H4092)
+- 2024-06-14 — Amendments en bloc (A034) offered by Mr. Rogers (AL). (consideration: CR H4067-4078; text: CR H4067-4077)
+- 2024-06-14 — Amendments en bloc (A035) offered by Mr. Rogers (AL). (consideration: CR H4078-4089; text: CR H4078-4087)
+- 2024-06-14 — Considered as unfinished business. (consideration: CR H4067-4097)
+- 2024-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Doggett amendment No. 134.
+- 2024-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the James amendment No. 228.
+- 2024-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 56.
+- 2024-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 4.
+- 2024-06-14 — DEBATE - Pursuant to the provisions of H. Res. 1287, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 5.
+- 2024-06-14 — House Amendment Offered
+- 2024-06-14 — House Amendment Offered
+- 2024-06-14 — House Amendment Offered
+- 2024-06-14 — House Amendment Offered
+- 2024-06-14 — House Amendment Offered
+- 2024-06-14 — House amendment agreed to: On agreeing to the Doggett amendment (A037) Agreed to by voice vote.
+- 2024-06-14 — House amendment agreed to: On agreeing to the James amendment (A038) Agreed to by recorded vote: 272 - 144 (Roll no. 277).
+- 2024-06-14 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A034) Agreed to by voice vote.
+- 2024-06-14 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A035) Agreed to by voice vote.
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — House amendment not agreed to: On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-14 — Ms. Sherrill moved to recommit to the Committee on Armed Services.
+- 2024-06-14 — On agreeing to the Doggett amendment (A037) Agreed to by voice vote.
+- 2024-06-14 — On agreeing to the James amendment (A038) Agreed to by recorded vote: 272 - 144 (Roll no. 277).
+- 2024-06-14 — On agreeing to the Perry amendment (A036) Failed by recorded vote: 188 - 228 (Roll no. 276).
+- 2024-06-14 — On agreeing to the Rogers (AL) amendments (A034) Agreed to by voice vote.
+- 2024-06-14 — On agreeing to the Rogers (AL) amendments (A035) Agreed to by voice vote.
+- 2024-06-14 — On motion to recommit Failed by the Yeas and Nays: 202 - 214 (Roll no. 278).
+- 2024-06-14 — On passage Passed by recorded vote: 217 - 199 (Roll no. 279).
+- 2024-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the James amendment No. 228, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kamlager-Dove demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 56, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Norcross demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-14 — Passed/agreed to in House: On passage Passed by recorded vote: 217 - 199 (Roll no. 279).
+- 2024-06-14 — Roll call votes on amendments in House
+- 2024-06-14 — Roll call votes on amendments in House
+- 2024-06-14 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8070.
+- 2024-06-14 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-06-14 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8070.
+- 2024-06-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX. (text: CR H4095)
+- 2024-06-14 — The previous question was ordered pursuant to the rule.
