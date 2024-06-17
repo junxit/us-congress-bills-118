@@ -1,0 +1,104 @@
+---
+measure: H.R. 8773
+congress: 118
+version: Reported in House
+derived: true
+---
+
+# What H.R. 8773 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+71 amendatory instructions. 0 executed, 71 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `28 U.S.C. § 133` | replace | in the second sentence (relating to the District of Kansas), by striking “33 years and 6 months” and inserting “34 years and 6 months”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 133` | replace | in the sixth sentence (relating to the District of Hawaii), by striking “30 years and 6 months” and inserting “31 years and 6 months”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 133` | replace | Section 406 of the Transportation, Treasury, Housing and Urban Development, the Judiciary, the District of Columbia, and Independent Agencies Appropriations Act, 2006 (Public Law 109–115; 119 Stat. 2470; 28 U.S.C. 133 note) is amended in… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 133` | replace | in the first sentence by striking “22 years” and inserting “23 years”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 133` | replace | in the second sentence (relating to the central District of California), by striking “21 years and 6 months” and inserting “22 years and 6 months”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 133` | replace | in the third sentence (relating to the western district of North Carolina), by striking “20 years” and inserting “21 years”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | amend | by amending the heading of such subsection to read as follows: ‘‘BUDGET, FINANCIAL MANAGEMENT, AND AUDIT.—’’; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | strike | by striking paragraphs (1), (2), and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | redesignate | by striking subparagraphs (E) and (F) of paragraph (1), as so redesignated; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | strike | by striking subsections (b) and (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | redesignate | by redesignating subsections (d) and (e) as subsections (b) and (c), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | replace | by striking paragraphs (1), (2), and (3) and inserting the following: — | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5497` | redesignate | by redesignating paragraph (4) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking ‘‘in the Federal Reserve System,’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking ‘‘independent bureau’’ and inserting ‘‘independent agency’’; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking subsections (b), (c), and (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | redesignate | by redesignating subsection (e) as subsection (j); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | redesignate | in subsection (j), as so redesignated, by striking ‘‘, including in cities in which the Federal reserve banks, or branches of such banks, are located,’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | insert | by inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in the heading, by striking “AUTONOMY OF THE BUREAU” and inserting “COORDINATION WITH THE BOARD OF GOVERNORS”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking “(1) COORDINATION WITH THE BOARD OF GOVERNORS.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking paragraphs (2), (3), (4), and (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in section 1014(b), by striking “Not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.” and inserting “Not fewer than half of all members shall have priv… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “Director of the Bureau” each place such term appears, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection, and inserting “Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “Director” each place such term appears and inserting “Bureau”, other than where such term is used to refer to a Director other than the Director of the Bureau of Consumer Financial Protection; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | in section 1002, by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “Assistant Director of the Bureau for” and inserting “Head of the Office of”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in subparagraph (B), by striking “Assistant Director” and inserting “Head of the Office”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “ASSISTANT DIRECTOR” and inserting “HEAD OF THE OFFICE”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “an assistant director” and inserting “a Head of the Office of Financial Protection for Older Americans”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in section 1016(a), by striking “Director of the Bureau” and inserting “Chair of the Bureau”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking section 1066. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | The table of contents for the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by striking the item relating to section 1066. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5301` | replace | in section 111(b)(1)(D), by striking “Director” and inserting “Chair”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5301` | replace | in section 1447, by striking “Director of the Bureau” each place such term appears and inserting “Chair of the Bureau”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1693o-2` | replace | Section 921(a)(4)(C) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(a)(4)(C)), as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4001` | replace | The Expedited Funds Availability Act (12 U.S.C. 4001 et seq.) is amended by striking “Director of the Bureau” each place such term appears and inserting “Bureau”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1812` | replace | Section 2 of the Federal Deposit Insurance Act (12 U.S.C. 1812) is amended by striking “Director of the Consumer Financial Protection Bureau” each place such term appears and inserting “Chair of the Bureau of Consumer Financial Protection”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3303` | replace | Section 1004(a)(4) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(4)) is amended by striking “Director of the Consumer Financial Protection Bureau” and inserting “Chair of the Bureau of Consumer … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 9702` | replace | Section 513 of the Financial Literacy and Education Improvement Act (20 U.S.C. 9702) is amended by striking “Director” each place such term appears and inserting “Chair”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | Section 307 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2806 et seq) is amended by striking “Director of the Bureau of Consumer Financial Protection” each place such term appears and inserting “Bureau of Consumer Financial Pro… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | redesignate | by redesignating paragraphs (2) through (12) as paragraphs (1) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “him” and inserting “the Bureau”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “he” and inserting “the Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in subsection (c), by striking “he” and inserting “the Bureau”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in subsection (e), by striking “Director or anyone designated by him” and inserting “Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “his findings” and inserting “the findings of the Bureau”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “his recommendation” and inserting “the recommendation of the Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in subsection (a), by striking “he may, in his discretion,” and inserting “the Bureau may, in the discretion of the Bureau,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | ) by striking “in his discretion” each place such term appears and inserting “in the discretion of the Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “he deems” and inserting “the Bureau determines”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “he may deem” and inserting “the Bureau may determine”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in subsection (c), by striking “the Director, or any officer designated by him,” and inserting “the Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “Director of the Bureau of Consumer Financial Protection who may delegate any of his” and inserting “Bureau of Consumer Financial Protection, which may delegate any”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “his administrative” and inserting “administrative”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “himself” and inserting “the commission of the Bureau”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | in section 1418a(b)(4), by striking “Secretary’s determination” and inserting “determination of the Bureau”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | replace | by striking “Director” each place such term appears and inserting “Bureau”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2604` | replace | by striking “The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the ‘Director’)” and inserting “The Bureau of Consumer Financial Protection (hereafter in this section referred to as the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2604` | replace | by striking “Director” each place such term appears and inserting “Bureau”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5101` | replace | by striking “Director” each place such term appears in headings and text and inserting “Bureau of Consumer Financial Protection”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5101` | strike | in section 1503, by striking paragraph (10). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5481` | strike | Section 3513(c) of title 44, United States Code, is amended by striking “Director of the”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 302 of the Universal Service Antideficiency Temporary Suspension Act is amended by striking “December 31, 2024” each place it appears and inserting “December 31, 2025”. | the bill names no machine-readable US Code section |
+| — | amend | None of the funds made available by this Act may be used to compel a private company to make a public offering under the Securities Act of 1933 by amending the “held of record” definition under section 12(g)(1) of the Securities Exchange… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 14402` | strike | by striking “or” at the end of paragraph (9); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 14402` | replace | by striking the period at the end of paragraph (10) and inserting “; or ;” and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 14402` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 5 of the Corrections Oversight Improvement Omnibus Amendment Act of 2022 (D.C. Law 24–344) is repealed, and the provision of law amended by such section (section 16–5505, D.C. Official Code) is restored as if such section had not… | the bill names no machine-readable US Code section |
