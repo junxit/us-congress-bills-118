@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 710
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 710
@@ -16,9 +16,10 @@ A resolution supporting the designation of May 29, 2024, as "Mental Health Aware
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution supporting the designation of May 29, 2024, as "Mental Health Aware
 
 - 2024-05-23 — Introduced in Senate
 - 2024-05-23 — Referred to the Committee on the Judiciary.
+- 2024-06-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117; text: 05/23/2024 CR S3892)
+- 2024-06-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117; text: 05/23/2024 CR S3892)
+- 2024-06-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-06-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
