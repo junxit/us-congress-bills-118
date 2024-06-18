@@ -1,7 +1,7 @@
 ---
 measure: S. 4199
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+53 amendatory instructions. 0 executed, 53 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,3 +44,43 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the item relating to New Jersey and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Delaware and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Indiana and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Iowa and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to New Jersey and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Arizona and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Georgia and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Idaho and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Colorado and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Delaware and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Nebraska and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Arizona and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to New Jersey and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to Colorado and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Georgia and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to New Jersey and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 125(2) of title 28, United States Code, is amended by striking “and St. George” and inserting “St. George, Moab, and Monticello”. | the bill names no machine-readable US Code section |
+| — | insert | Section 124(b)(2) of title 28, United States Code, is amended, in the matter preceding paragraph (3), by inserting “and College Station” before the period at the end. | the bill names no machine-readable US Code section |
+| — | insert | Section 84(d) of title 28, United States Code, is amended by inserting “and El Centro” after “at San Diego”. | the bill names no machine-readable US Code section |
