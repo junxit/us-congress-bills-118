@@ -1,7 +1,7 @@
 ---
 measure: S. 4325
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4325
@@ -28,3 +28,7 @@ Lifespan Respite Care Reauthorization Act of 2024
 
 - 2024-05-14 — Introduced in Senate
 - 2024-05-14 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-05-23 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2024-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
+- 2024-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
+- 2024-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
