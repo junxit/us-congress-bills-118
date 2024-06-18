@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 8781
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8781
+
+> To prohibit the implementation of the Proposed Resource Management Plan Amendment and Final Supplemental Environmental Impact Statement for Federal coal managed by the Buffalo, Wyoming Field Office of the Bureau of Land Management.
+
+## § 1. Restriction on Proposed Resource Management Plan Amendment and Final Supplemental Environmental Impact Statement for Federal coal managed by Buffalo, Wyoming Field Office of Bureau of Land Management
+
+The Secretary of the Interior may not finalize, implement, administer, or enforce the Proposed Resource Management Plan Amendment or Final Supplemental Environmental Impact Statement for Federal coal managed by the Buffalo, Wyoming Field Office of the Bureau of Land Management referred to in the notice of availability published by the Bureau of Land Management titled “Notice of Availability of the Proposed Resource Management Plan Amendment and Final Supplemental Environmental Impact Statement for the Buffalo Field Office, Wyoming” (89 Fed. Reg. 43431; published May 17, 2024).
