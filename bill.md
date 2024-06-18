@@ -1,0 +1,28 @@
+---
+legis-num: S. 4577
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4577
+
+> To amend the Older Americans Act of 1965 to require the Assistant Secretary for Aging to publish on an online portal information on national resource centers authorized or supported under such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Senior Resource Center Transparency Act”.
+
+## § 2. Online portal on national resource centers
+
+- **(a)** *In general* Section 202 of the Older Americans Act of 1965 (42 U.S.C. 3012) is amended by adding at the end the following:
+  > - **(j)** Not later than 180 days after the date of enactment of this subsection, and every 180 days thereafter, the Assistant Secretary shall publish on an online portal—
+  >   - **(1)** a list of all national resource centers authorized or supported under this Act;
+  >   - **(2)** a description of each such resource center, including—
+  >     - **(A)** the goals of the center;
+  >     - **(B)** the population served by the center, including the location of that population, by State;
+  >     - **(C)** the number of older individuals served by the center each year; and
+  >     - **(D)** the amount and source of Federal and non-Federal funding the center receives each year; and
+  >   - **(3)** a description of quantitative and qualitative metrics, including measures of effectiveness, that demonstrate how each such center has advanced the goals described in paragraph (2)(A).
+
+- **(b)** *GAO evaluation* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall evaluate all national resource centers authorized or supported under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) for functions to streamline, as appropriate, and to improve the efficiencies of taxpayer funds.
