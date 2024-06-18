@@ -1,7 +1,7 @@
 ---
 measure: S. 3679
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 1 executed, 7 stated and not applied.
+18 amendatory instructions. 2 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 294t
+
+> in subsection (f), by striking “2022 through 2024” and inserting “2025 through 2029”.
+
+| | |
+|---|---|
+| Removed | `2022 through 2024` |
+| Inserted | `2025 through 2029` |
 
 ### 42 U.S.C. § 294t
 
@@ -42,6 +51,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | insert | in subsection (b), by inserting “and annually thereafter,” after “of this Act,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “2022 through 2024” and inserting “2025 through 2029”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 294t` | redesignate | by redesignating such section 764 as section 764A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 294t` | replace | by striking “to eligible entities in” and inserting “to eligible entities that— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 294t` | replace | by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 294t` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 294t` | insert | in subsection (c), by inserting “not less than” after “period of”; and | the bill quotes the text inserted but describes where it goes |
+| — | replace | by striking “of this Act” and inserting “of the Dr. Lorna Breen Health Care Provider Protection Reauthorization Act”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and prevent substance use and misuse” after “promote their mental health”. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting “and annually thereafter,” after “of this Act,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “2022 through 2024” and inserting “2025 through 2029”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 294t` | redesignate | by redesignating such section 764 as section 764A; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
