@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1254
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -117,6 +117,10 @@ This Act may be cited as the “Wild Olympics Wilderness and Wild and Scenic Riv
   > - **(251)** *Lyre river, washington* The approximately 0.2-mile segment of the Lyre River from Lake Crescent to the Olympic National Park boundary, to be administered by the Secretary of the Interior as a scenic river.
 
 - **(b)** *Effect* The amendment made by subsection (a) does not affect valid existing water rights.
+- **(b)** *Restoration* Consistent with the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.) (including any regulations promulgated under that Act), the Secretary of the Interior or the Secretary of Agriculture, as applicable, may authorize, with respect to a river segment designated by the amendment made by subsection (a), an activity or a project, the primary purpose of which is—
+  - **(1)** river restoration;
+  - **(2)** the recovery of a species listed as endangered or threatened under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
+  - **(3)** restoring ecological and hydrological function.
 - **(c)** *Updates to land and resource management plans*
   - **(1)** *In general* Except as provided in paragraph (2), not later than 3 years after the date of enactment of this Act, the Secretary of Agriculture shall, with respect to the designations made under subsection (a) on lands under the jurisdiction of the Secretary, incorporate such designations into updated management plans for units of the National Forest System in accordance with applicable laws (including regulations).
   - **(2)** *Exception* The date specified in paragraph (1) shall be 5 years after the date of enactment of this Act if the Secretary of Agriculture—
