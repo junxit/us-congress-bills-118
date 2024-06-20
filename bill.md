@@ -1,0 +1,18 @@
+---
+legis-num: S. 4604
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4604
+
+> To authorize the appropriation of amounts for the construction of a trident refit facility expansion at Kings Bay Naval Submarine Base, Georgia.
+
+## § 1. Short title
+
+This Act may be cited as the “Kings Bay Trident Modernization Act”.
+
+## § 2. Authorization of amounts for construction of a trident refit facility expansion at Kings Bay Naval Submarine Base, Georgia
+
+There is authorized to be appropriated to the Secretary of Defense for fiscal year 2025 $115,000,000 for the construction of a trident refit facility expansion at Kings Bay Naval Submarine Base, Georgia.
