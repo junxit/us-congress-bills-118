@@ -1,7 +1,7 @@
 ---
 measure: S. 3960
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3960
@@ -28,3 +28,8 @@ A bill to amend title 35, United States Code, to provide a good faith exception 
 
 - 2024-03-14 — Introduced in Senate
 - 2024-03-14 — Read twice and referred to the Committee on the Judiciary.
+- 2024-06-20 — Message on Senate action sent to the House.
+- 2024-06-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4198; text: CR S4198)
+- 2024-06-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4198; text: CR S4198)
+- 2024-06-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-06-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.
