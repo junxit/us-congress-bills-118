@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1987
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fort Belknap Indian Community Water Rights Settlement Act of 2023”.
+This Act may be cited as the “Fort Belknap Indian Community Water Rights Settlement Act of 2024”.
 
 ## § 2. Purposes
 
@@ -47,7 +47,7 @@ In this Act:
   - **(A)** *In general* The term Fort Belknap Indian Irrigation Project means the Federal Indian irrigation project constructed and operated by the Bureau of Indian Affairs, consisting of the Milk River unit, including—
     - **(i)** the Three Mile unit; and
     - **(ii)** the White Bear unit.
-  - **(B)** *Inclusions* The term Fort Belknap Indian Irrigation Project includes any addition to the Fort Belknap Indian Irrigation Project constructed pursuant to this Act, including expansion of the Fort Belknap Indian Irrigation Project, the Pumping Plant, delivery Pipe and Canal, the Fort Belknap Reservoir and Dam, and the Peoples Creek Flood Project.
+  - **(B)** *Inclusions* The term Fort Belknap Indian Irrigation Project includes any addition to the Fort Belknap Indian Irrigation Project constructed pursuant to this Act, including expansion of the Fort Belknap Indian Irrigation Project, the Pumping Plant, delivery Pipe and Canal, the Fort Belknap Reservoir and Dam, and the Peoples Creek Flood Protection Project.
 - **(10)** *Implementation Fund* The term Implementation Fund means the Fort Belknap Indian Community Water Settlement Implementation Fund established by section 13(a).
 - **(11)** *Indian tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(12)** *Lake elwell* The term Lake Elwell means the water impounded on the Marias River in the State by Tiber Dam, a feature of the Lower Marias Unit of the Pick-Sloan Missouri River Basin Program authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
@@ -94,9 +94,9 @@ In this Act:
 - **(26)** *Tribal water rights* The term Tribal water rights means the water rights of the Fort Belknap Indian Community, as described in Article III of the Compact and this Act, including the allocation of water to the Fort Belknap Indian Community from Lake Elwell under section 7.
 - **(27)** *Trust fund* The term Trust Fund means the Aaniiih Nakoda Settlement Trust Fund established for the Fort Belknap Indian Community under section 12(a).
 
-## § 4. Ratification of compact
+## § 4. Ratification of Compact
 
-- **(a)** *Ratification of compact*
+- **(a)** *Ratification of Compact*
   - **(1)** *In general* As modified by this Act, the Compact is authorized, ratified, and confirmed.
   - **(2)** *Amendments* Any amendment to the Compact is authorized, ratified, and confirmed to the extent that the amendment is executed to make the Compact consistent with this Act.
 - **(b)** *Execution*
@@ -108,7 +108,7 @@ In this Act:
     - **(B)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), including the implementing regulations of that Act; and
     - **(C)** other applicable Federal environmental laws and regulations.
   - **(2)** *Compliance*
-    - **(A)** *In general* In implementing the Compact and this Act, the Fort Belknap Indian Community shall prepare any necessary environmental documents, consistent with all applicable provisions of—
+    - **(A)** *In general* In implementing the Compact and this Act, the Fort Belknap Indian Community shall prepare any necessary environmental documents, except for any environmental documents required under section 8, consistent with all applicable provisions of—
       - **(i)** the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
       - **(ii)** the National Environmental Policy Act of 1969 (42 U.S.C. 4231 et seq.), including the implementing regulations of that Act; and
       - **(iii)** all other applicable Federal environmental laws and regulations.
@@ -116,7 +116,7 @@ In this Act:
       - **(i)** independently evaluate the documentation submitted under subparagraph (A); and
       - **(ii)** be responsible for the accuracy, scope, and contents of that documentation.
   - **(3)** *Effect of execution* The execution of the Compact by the Secretary under this section shall not constitute a major Federal action for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
-  - **(4)** *Costs* Any costs associated with the performance of the compliance activities under this subsection shall be paid from funds deposited in the Trust Fund, subject to the condition that any costs associated with the performance of Federal approval or other review of such compliance work or costs associated with inherently Federal functions shall remain the responsibility of the Secretary.
+  - **(4)** *Costs* Any costs associated with the performance of the compliance activities described in paragraph (2) shall be paid from funds deposited in the Trust Fund, subject to the condition that any costs associated with the performance of Federal approval or other review of such compliance work or costs associated with inherently Federal functions shall remain the responsibility of the Secretary.
 
 ## § 5. Tribal water rights
 
@@ -133,7 +133,7 @@ In this Act:
   - **(1)** shall be held in trust by the United States for the use and benefit of the Fort Belknap Indian Community and allottees in accordance with this Act; and
   - **(2)** shall not be subject to loss through non-use, forfeiture, or abandonment.
 - **(d)** *Allottees*
-  - **(1)** *Applicability of the act of february 8, 1887* The provisions of section 7 of the Act of February 8, 1887 (24 Stat. 390, chapter 119; 25 U.S.C. 381), relating to the use of water for irrigation purposes, shall apply to the Tribal water rights.
+  - **(1)** *Applicability of the Act of february 8, 1887* The provisions of section 7 of the Act of February 8, 1887 (24 Stat. 390, chapter 119; 25 U.S.C. 381), relating to the use of water for irrigation purposes, shall apply to the Tribal water rights.
   - **(2)** *Entitlement to water* Any entitlement to water of an allottee under Federal law shall be satisfied from the Tribal water rights.
   - **(3)** *Allocations* An allottee shall be entitled to a just and equitable allocation of water for irrigation purposes.
   - **(4)** *Claims*
@@ -175,7 +175,7 @@ In this Act:
       - **(ii)** the expenditure of those funds.
 - **(g)** *Tribal water code*
   - **(1)** *In general* Notwithstanding Article IV.A.2. of the Compact, not later than 4 years after the date on which the Fort Belknap Indian Community approves the Compact in accordance with section 11(f)(1), the Fort Belknap Indian Community shall enact a Tribal water code that provides for—
-    - **(A)** the management, regulation, and governance of all uses of the Tribal water rights in accordance with the Compact and this Act; and
+    - **(A)** the administration, management, regulation, and governance of all uses of the Tribal water rights in accordance with the Compact and this Act; and
     - **(B)** the establishment by the Fort Belknap Indian Community of the conditions, permit requirements, and other requirements for the allocation, distribution, or use of the Tribal water rights in accordance with the Compact and this Act.
   - **(2)** *Inclusions* Subject to the approval of the Secretary, the Tribal water code shall provide—
     - **(A)** that use of water by allottees shall be satisfied with water from the Tribal water rights;
@@ -205,21 +205,23 @@ In this Act:
   - **(1)** *In general* Notwithstanding any other provision of law, the Secretary, in cooperation with the Secretary of Energy, shall make available the Pick-Sloan Missouri River Basin Program irrigation project pumping power rates to the Fort Belknap Indian Community, the Fort Belknap Indian Irrigation Project, and any projects funded under this Act.
   - **(2)** *Authorized purposes* The power rates made available under paragraph (1) shall be authorized for the purposes of wheeling, administration, and payment of irrigation project pumping power rates, including project use power for gravity power.
 
-## § 6. Exchange and transfer of public land into trust
+## § 6. Exchange and transfer of land
 
-- **(a)** *Exchange of federal and state land*
+- **(a)** *Exchange of eligible land and State land*
   - **(1)** *Definitions* In this subsection:
-    - **(A)** *Public land* The term public land means, as applicable—
-      - **(i)** public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702)); and
-      - **(ii)** land managed by the Secretary of Agriculture under the jurisdiction of the Forest Service.
+    - **(A)** *Eligible land* The term eligible land means—
+      - **(i)** public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702)) that are administered by the Secretary, acting through the Director of the Bureau of Land Management; and
+      - **(ii)** land in the National Forest System (as defined in section 11(a) of the Forest and Rangeland Resources Planning Act of 1974 (16 U.S.C. 1609(a)) that is administered by the Secretary of Agriculture, acting through the Chief of the Forest Service.
     - **(B)** *Secretary concerned* The term Secretary concerned means, as applicable—
-      - **(i)** the Secretary, with respect to the public land managed by the Department of the Interior; and
-      - **(ii)** the Secretary of Agriculture, with respect to land managed by the Forest Service.
+      - **(i)** the Secretary, with respect to the eligible land administered by the Bureau of Land Management; and
+      - **(ii)** the Secretary of Agriculture, with respect to eligible land managed by the Forest Service.
   - **(2)** *Negotiations authorized*
-    - **(A)** *In general* The Secretary concerned shall offer to enter into negotiations with the State for the purpose of exchanging Federal land described in paragraph (4) for the State land described in paragraph (3).
-    - **(B)** *Requirement* Any exchange of land made pursuant to this subsection shall be subject to the requirements of this subsection.
-    - **(C)** *Priority* In carrying out this paragraph, the Secretary concerned shall, during the 5-year period beginning on the date of enactment of this Act, give priority to an exchange of public land located within the State for trust land owned by the State.
-  - **(3)** *State land* The Secretary concerned is authorized to accept the following parcels of land owned by the State located on and off of the Reservation:
+    - **(A)** *In general* The Secretary concerned shall offer to enter into negotiations with the State for the purpose of exchanging eligible land described in paragraph (4) for the State land described in paragraph (3).
+    - **(B)** *Requirements* Any exchange of land made pursuant to this subsection shall be subject to the terms and conditions of this subsection.
+    - **(C)** *Priority*
+      - **(i)** *In general* In carrying out this paragraph, the Secretary and the Secretary of Agriculture shall, during the 5-year period beginning on the date of enactment of this Act, give priority to an exchange of eligible land located within the State for State land.
+      - **(ii)** *Secretary of Agriculture* The responsibility of the Secretary of Agriculture under clause (i), during the 5-year period described in that clause, shall be limited to negotiating with the State an acceptable package of land in the National Forest System (as defined in section 11(a) of the Forest and Rangeland Resources Planning Act of 1974 (16 U.S.C. 1609(a))).
+  - **(3)** *State land* The Secretary is authorized to accept the following parcels of State land located on and off the Reservation:
     - **(A)** 717.56 acres in T. 26 N., R. 22 E., sec. 16.
     - **(B)** 707.04 acres in T. 27 N., R. 22 E., sec. 16.
     - **(C)** 640 acres in T. 27 N., R. 21 E., sec. 36.
@@ -260,22 +262,30 @@ In this Act:
     - **(HH)** 640 acres in T. 31 N., R. 23 E., sec. 16.
     - **(II)** 640 acres in T. 31 N., R. 23 E., sec. 36.
     - **(JJ)** 34.04 acres in T. 31 N., R. 26 E., sec. 16, lot 4.
-  - **(4)** *Federal land* Subject to valid existing rights, and the requirements of this subsection, the Secretary concerned is authorized to convey to the State any public land within the State, except for land that is included within the National Landscape Conservation System established by section 2002(a) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 7202(a)), without regard to whether that land has been identified as available for disposal in a land use plan.
+    - **(KK)** 640 acres in T. 25 N., R. 22 E., sec. 16.
+  - **(4)** *Eligible land*
+    - **(A)** *In general* Subject to valid existing rights, the reservation of easements or rights-of-way deemed necessary to be retained by the Secretary concerned, and the requirements of this subsection, the Secretary is authorized and directed to convey to the State any eligible land within the State identified in the negotiations authorized by paragraph (2) and agreed to by the Secretary concerned.
+    - **(B)** *Exceptions* The Secretary concerned shall exclude from any conveyance any parcel of eligible land that is—
+      - **(i)** included within the National Landscape Conservation System established by section 2002(a) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 7202(a)), without regard to whether that land has been identified as available for disposal in a land use plan;
+      - **(ii)** designated as wilderness by Congress;
+      - **(iii)** within a component of the National Wild and Scenic Rivers System; or
+      - **(iv)** designated in the Forest Land and Resource Management Plan as a Research Natural Area.
+    - **(C)** *Administrative responsibility* The Secretary shall be responsible for meeting all substantive and any procedural requirements necessary to complete the exchange and the conveyance of the eligible land.
   - **(5)** *Land into trust* On completion of the land exchange authorized by this subsection, the Secretary shall, as soon as practicable after the enforceability date, take the land received by the United States pursuant to this subsection into trust for the benefit of the Fort Belknap Indian Community.
   - **(6)** *Terms and conditions*
-    - **(A)** *Equal value* The values of the Federal land and State land exchanged under this subsection shall be equal, except that the Secretary concerned may—
+    - **(A)** *Equal value* The values of the eligible land and State land exchanged under this subsection shall be equal, except that the Secretary concerned may—
       - **(i)** exchange land that is of approximately equal value if such an exchange complies with the requirements of section 206(h) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(h)) (and any regulations implementing that section) without regard to the monetary limitation described in paragraph (1)(A) of that section; and
       - **(ii)** make or accept an equalization payment, or waive an equalization payment, if such a payment or waiver of a payment complies with the requirements of section 206(b) of that Act (43 U.S.C. 1716(b)) (and any regulations implementing that section).
-    - **(B)** *Impacts on local governments* In selecting public land to offer to the State, the Secretary concerned may—
-      - **(i)** consider the financial impacts of exchanging specific Federal land on local governments; and
+    - **(B)** *Impacts on local governments* In identifying eligible land to be exchanged with the State, the Secretary concerned and the State may—
+      - **(i)** consider the financial impacts of exchanging specific eligible land on local governments; and
       - **(ii)** attempt to minimize the financial impact of the exchange on local governments.
     - **(C)** *Existing authorizations*
-      - **(i)** *Federal land transferred to the state*
-        - **(I)** *In general* Any Federal land transferred to the State under this subsection shall be conveyed subject to any valid existing rights, contracts, leases, permits, and rights-of-way, unless the holder of the right, contract, lease, permit, or right-of-way requests an earlier termination in accordance with existing law.
+      - **(i)** *Eligible land conveyed to the state*
+        - **(I)** *In general* Any eligible land conveyed to the State under this subsection shall be subject to any valid existing rights, contracts, leases, permits, and rights-of-way, unless the holder of the right, contract, lease, permit, or right-of-way requests an earlier termination in accordance with existing law.
         - **(II)** *Assumption by State* The State shall assume all benefits and obligations of the Forest Service or the Bureau of Land Management, as applicable, under the existing rights, contracts, leases, permits, and rights-of-way described in subclause (I).
-      - **(ii)** *State land transferred to the united states*
-        - **(I)** *In general* Any State land transferred to the United States under this subsection shall be conveyed and taken into trust for the benefit of the Fort Belknap Indian Community subject to any valid existing rights, contracts, leases, permits, and rights-of-way, unless the holder of the right, contract, lease, permit, or right-of-way requests an earlier termination in accordance with existing law.
-        - **(II)** *Assumption by BIA* The Bureau of Indian Affairs shall—
+      - **(ii)** *State land conveyed to the united states*
+        - **(I)** *In general* Any State land conveyed to the United States under this subsection and taken into trust for the benefit of the Fort Belknap Indian Community subject shall be to any valid existing rights, contracts, leases, permits, and rights-of-way, unless the holder of the right, contract, lease, permit, or right-of-way requests an earlier termination in accordance with existing law.
+        - **(II)** *Assumption by Bureau of Indian Affairs* The Bureau of Indian Affairs shall—
           - **(aa)** assume all benefits and obligations of the State under the existing rights, contracts, leases, permits, and rights-of-way described in subclause (I); and
           - **(bb)** disburse to the Fort Belknap Indian Community any amounts that accrue to the United States from those rights, contracts, leases, permits, and rights-of-way, after the date of transfer from any sale, bonus, royalty, or rental relating to that land in the same manner as amounts received from other land held by the Secretary in trust for the benefit of the Fort Belknap Indian Community.
     - **(D)** *Personal property*
@@ -437,18 +447,18 @@ In this Act:
         - **(I)** 80 acres in the E1⁄2 of the NE1⁄4;
         - **(II)** 80 acres in the N1⁄2 of the SE1⁄4;
         - **(III)** 40 acres in the SE1⁄4 of the NW1⁄4; and
-        - **(IV)** 40 acres in the SW1⁄4 of the NE1/4.
+        - **(IV)** 40 acres in the SW1⁄4 of the NE1⁄4.
     - **(B)** *Bureau of indian affairs* The parcels of approximately 3,519.3 acres of trust land that have been converted to fee land, judicially foreclosed on, acquired by the Department of Agriculture, and transferred to the Bureau of Indian Affairs, described in clauses (i) through (iii).
       - **(i)** *Parcel 1* The land described in this clause is 640 acres in T. 29 N., R. 26 E., comprised of—
-        - **(I)** 160 acres in the SW1/4 of sec. 27;
-        - **(II)** 160 acres in the NE1/4 of sec. 33; and
-        - **(III)** 320 acres in the W1/2 of sec. 34.
-      - **(ii)** *Parcel 2* The land described in this clause is 320 acres in the N1/2 of T. 30 N., R. 23 E., sec. 28.
+        - **(I)** 160 acres in the SW¼ of sec. 27;
+        - **(II)** 160 acres in the NE¼ of sec. 33; and
+        - **(III)** 320 acres in the W½ of sec. 34.
+      - **(ii)** *Parcel 2* The land described in this clause is 320 acres in the N½ of T. 30 N., R. 23 E., sec. 28.
       - **(iii)** *Parcel 3* The land described in this clause is 2,559.3 acres, comprised of—
         - **(I)** T. 28 N., R. 24 E., including—
           - **(aa)** of sec. 16—
             - **(AA)** 5 acres in the E1/2, W1/2, E1/2, W1/2, W1/2, NE1/4;
-            - **(BB)** 10 acres in the E1/2, E1/2, W1/2, W1/2, NE1/4;
+            - **(BB)** 10 acres in the E1/2 , E1/2, W1/2, W1/2, NE1/4;
             - **(CC)** 40 acres in the E1/2, W1/2, NE1/4;
             - **(DD)** 40 acres in the W1/2, E1/2, NE1/4;
             - **(EE)** 20 acres in the W1/2, E1/2, E1/2, NE1/4;
@@ -468,11 +478,10 @@ In this Act:
           - **(dd)** 80 acres in the S1/2 of the SE1/4 of sec. 7; and
           - **(ee)** 40 acres in the N1/2, N1/2, NE1/4 of sec. 18; and
         - **(V)** 40 acres in T. 31 N., R. 26 E., PMM, the NW1/4 of the SE1/4 of sec. 31.
-    - **(C)** *Foreclosed department of agriculture land* Any Department of Agriculture trust land within the Reservation that has been or is converted to fee land, judicially foreclosed on, and acquired by the United States.
   - **(3)** *Terms and conditions*
     - **(A)** *Existing authorizations*
       - **(i)** *In general* Federal land transferred under this subsection shall be conveyed and taken into trust subject to valid existing rights, contracts, leases, permits, and rights-of-way, unless the holder of the right, contract, lease, permit, and rights-of-way requests an earlier termination in accordance with existing law.
-      - **(ii)** *Assumption by BIA* The Bureau of Indian Affairs shall—
+      - **(ii)** *Assumption by Bureau of Indian Affairs* The Bureau of Indian Affairs shall—
         - **(I)** assume all benefits and obligations of the previous land management agency under the existing rights, contracts, leases, permits, and rights-of-way described in clause (i); and
         - **(II)** disburse to the Fort Belknap Indian Community any amounts that accrue to the United States from those rights, contracts, leases, permits, and rights-of-ways after the date of transfer from any sale, bonus, royalty, or rental relating to that land in the same manner as amounts received from other land held by the Secretary in trust for the Fort Belknap Indian Community.
     - **(B)** *Personal property*
@@ -484,14 +493,14 @@ In this Act:
         - **(II)** be subject to removal and disposition at the discretion of the Fort Belknap Indian Community.
       - **(iii)** *Liability of previous holder* The holder of personal property described in clause (i) shall be liable to the Fort Belknap Indian Community for costs incurred by the Fort Belknap Indian Community in removing and disposing of the property under clause (ii)(II).
     - **(C)** *Existing roads* If any road within the Federal land transferred under this subsection is necessary for customary access to private land, the Bureau of Indian Affairs shall offer the owner of the private land to apply for a right-of-way along the existing road, at the expense of the landowner.
-    - **(D)** *Limitation on the transfer of water rights* Water rights that transfer with the land described in paragraph (2) shall not become part of the Tribal water rights.
+    - **(D)** *Limitation on the transfer of water rights* Water rights that transfer with the land described in paragraph (2) shall not become part of the Tribal water rights, unless those rights are recognized and ratified in the Compact.
   - **(4)** *Withdrawal of Federal land*
     - **(A)** *In general* Subject to valid existing rights, effective on the date of enactment of this Act, all Federal land within the parcels described in paragraph (2) is withdrawn from all forms of—
       - **(i)** entry, appropriation, or disposal under the public land laws;
       - **(ii)** location, entry, and patent under the mining laws; and
       - **(iii)** disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
     - **(B)** *Expiration* The withdrawals pursuant to subparagraph (A) shall terminate on the date that the Secretary takes the land into trust for the benefit of the Fort Belknap Indian Community pursuant to paragraph (1).
-    - **(C)** *No new reservation of Federal water rights* Nothing in this paragraph establishes a new reservation in favor of the United States or the Fort Belknap Indian Community with respect to any water or water right on the land withdrawn by paragraph (2).
+    - **(C)** *No new reservation of Federal water rights* Nothing in this paragraph establishes a new reservation in favor of the United States or the Fort Belknap Indian Community with respect to any water or water right on the land withdrawn by this paragraph.
   - **(5)** *Technical corrections* Notwithstanding the descriptions of the parcels of Federal land in paragraph (2), the United States may, with the consent of the Fort Belknap Indian Community, make technical corrections to the legal land descriptions to more specifically identify the parcels.
   - **(6)** *Survey*
     - **(A)** *In general* Unless the United States or the Fort Belknap Indian Community request an additional survey for the transferred land or a technical correction is made under paragraph (5), the description of land under this subsection shall be controlling.
@@ -534,7 +543,7 @@ In this Act:
   - **(2)** *Priority date* The priority date of the allocation to the Fort Belknap Indian Community under subsection (a) shall be the priority date of the Lake Elwell water right held by the Bureau of Reclamation.
   - **(3)** *Administration* The Fort Belknap Indian Community shall administer the water allocated under subsection (a) in accordance with the Compact and this Act.
 - **(c)** *Allocation agreement*
-  - **(1)** *In general* As a condition of receiving an allocation under this section, the Fort Belknap Indian Community shall enter into an agreement with the Secretary to establish the terms and conditions of the allocation, in accordance with the Compact and this Act.
+  - **(1)** *In general* As a condition of receiving the allocation under this section, the Fort Belknap Indian Community shall enter into an agreement with the Secretary to establish the terms and conditions of the allocation, in accordance with the Compact and this Act.
   - **(2)** *Inclusions* The agreement under paragraph (1) shall include provisions establishing that—
     - **(A)** the agreement shall be without limit as to term;
     - **(B)** the Fort Belknap Indian Community, and not the United States, shall be entitled to all consideration due to the Fort Belknap Indian Community under any lease, contract, exchange, or agreement entered into by the Fort Belknap Indian Community pursuant to subsection (d);
@@ -568,34 +577,37 @@ In this Act:
 - **(c)** *Satisfaction of mitigation requirement* Notwithstanding any provision of the Compact, the mitigation required by Article VI.B. of the Compact shall be deemed satisfied if—
   - **(1)** the Secretary has—
     - **(A)** restored the St. Mary Canal and associated facilities to convey 850 cubic-feet per second; and
-    - **(B)** enlarged the Dodson South Canal and headworks at the upstream end of Dodson South Canal to divert and convey 700 cubic-feet per second; and
+    - **(B)** enlarged the Dodson South Canal and headworks at the upstream end of Dodson South Canal to divert and convey 700 cubic-feet per second; or
   - **(2)** the Secretary—
-    - **(A)** has expended all of the available funding provided pursuant to section 14(a)(1)(D) to rehabilitate the St Mary Canal and enlarge the Dodson South Canal; and
+    - **(A)** has expended all of the available funding provided pursuant to section 14(a)(1)(D) to rehabilitate the St. Mary Canal and enlarge the Dodson South Canal; and
     - **(B)** despite diligent efforts, could not complete the activities described in subsection (a).
 - **(d)** *Nonreimbursability of costs* The costs to the Secretary of carrying out this section shall be nonreimbursable.
 
 ## § 9. Fort Belknap Indian Irrigation Project System
 
-- **(a)** *In general* Subject to the availability of appropriations, the Secretary, acting through the Assistant Secretary for Indian Affairs, shall rehabilitate, modernize, and expand the Fort Belknap Indian Irrigation Project, which shall include—
-  - **(1)** planning, studies, and designing of the existing and expanded Milk River unit, including the Pumping Plant, delivery pipe and canal, Fort Belknap Dam and Reservoir, and Peoples Creek Flood Protection Project;
+- **(a)** *In general* Subject to the availability of appropriations, the Secretary shall rehabilitate, modernize, and expand the Fort Belknap Indian Irrigation Project, as generally described in the document of Natural Resources Consulting Engineers, Inc., entitled “Fort Belknap Indian Community Comprehensive Water Development Plan” and dated February 2019, which shall include—
+  - **(1)** planning, studies, and designing of the existing and expanded Milk River unit, including the irrigation system, Pumping Plant, delivery pipe and canal, Fort Belknap Dam and Reservoir, and Peoples Creek Flood Protection Project;
   - **(2)** the rehabilitation, modernization, and construction of the existing Milk River unit; and
-  - **(3)** construction of the expanded Milk River Project, including the Pumping Plant, delivery pipe and canal, Fort Belknap Dam and Reservoir, and Peoples Creek Flood Protection Project.
-- **(b)** *Lead agency* The Bureau of Indian Affairs shall serve as the lead agency with respect to any activities carried out under this section.
+  - **(3)** construction of the expanded Milk River unit, including the irrigation system, Pumping Plant, delivery pipe and canal, Fort Belknap Dam and Reservoir, and Peoples Creek Flood Protection Project.
+- **(b)** *Lead agency* The Bureau of Indian Affairs, in coordination with the Bureau of Reclamation, shall serve as the lead agency with respect to any activities carried out under this section.
 - **(c)** *Consultation with the Fort Belknap Indian Community* The Secretary shall consult with the Fort Belknap Indian Community on appropriate changes to the final design and costs of any activity under this section.
 - **(d)** *Funding* The total amount of obligations incurred by the Secretary in carrying out this section, prior to any adjustment provided for in section 14(b), shall not exceed $415,832,153.
 - **(e)** *Nonreimbursability of costs* All costs incurred by the Secretary in carrying out this section shall be nonreimbursable.
-- **(f)** *Administration* The Assistant Secretary of Indian Affairs and the Fort Belknap Indian Community shall negotiate the cost of any oversight activity carried out by the Bureau of Indian Affairs under any agreement entered into under subsection (i), subject to the condition that the total cost for the oversight shall not exceed 3 percent of the total project costs for each project.
-- **(g)** *Project efficiencies* If the total cost of planning, studies, design, rehabilitation, modernization, and construction activities relating to the projects described in subsection (a) results in cost savings and is less than the amounts authorized to be obligated, the Secretary, at the request of the Fort Belknap Indian Community, shall deposit those savings in the the Fort Belknap Indian Community Water Resources and Water Rights Administration, Operation, and Maintenance Account established under section 12(b)(2).
-- **(h)** *Treatment* Any activities carried out pursuant to this section that result in improvements, additions, or modifications to the Fort Belknap Indian Irrigation Project shall—
+- **(f)** *Administration* The Secretary and the Fort Belknap Indian Community shall negotiate the cost of any oversight activity carried out by the Bureau of Indian Affairs or the Bureau of Reclamation under any agreement entered into under subsection (j), subject to the condition that the total cost for the oversight shall not exceed 3 percent of the total project costs for each project.
+- **(g)** *Project management committee* Not later than 1 year after the date of enactment of this Act, the Secretary shall facilitate the formation of a project management committee composed of representatives of the Bureau of Indian Affairs, the Bureau of Reclamation, and the Fort Belknap Indian Community—
+  - **(1)** to review and make recommendations relating to cost factors, budgets, and implementing the activities for rehabilitating, modernizing, and expanding the Fort Belknap Indian Irrigation Project; and
+  - **(2)** to improve management of inherently governmental activities through enhanced communication.
+- **(h)** *Project efficiencies* If the total cost of planning, studies, design, rehabilitation, modernization, and construction activities relating to the projects described in subsection (a) results in cost savings and is less than the amounts authorized to be obligated, the Secretary, at the request of the Fort Belknap Indian Community, shall deposit those savings in the Fort Belknap Indian Community Water Resources and Water Rights Administration, Operation, and Maintenance Account established under section 12(b)(2).
+- **(i)** *Treatment* Any activities carried out pursuant to this section that result in improvements, additions, or modifications to the Fort Belknap Indian Irrigation Project shall—
   - **(1)** become a part of the Fort Belknap Indian Irrigation Project; and
   - **(2)** be recorded in the inventory of the Secretary relating to the Fort Belknap Indian Irrigation Project.
-- **(i)** *Applicability of ISDEAA* At the request of the Fort Belknap Indian Community, and in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), the Secretary shall enter into agreements with the Fort Belknap Indian Community to carry out all or a portion of this section.
-- **(j)** *Effect* Nothing in this section—
+- **(j)** *Applicability of ISDEAA* At the request of the Fort Belknap Indian Community, and in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), the Secretary shall enter into agreements with the Fort Belknap Indian Community to carry out all or a portion of this section.
+- **(k)** *Effect* Nothing in this section—
   - **(1)** alters any applicable law under which the Bureau of Indian Affairs collects assessments or carries out the operations and maintenance of the Fort Belknap Indian Irrigation Project; or
   - **(2)** impacts the availability of amounts under section 14.
-- **(k)** *Satisfaction of Fort Belknap Indian Irrigation Project System requirement* The obligations of the Secretary under subsection (a) shall be deemed satisfied if—
-  - **(1)** the Secretary has rehabilitated, modernized, and expanded the Fort Belknap Indian Irrigation Project in accordance with subsection (a); or
-  - **(2)** the Secretary—
+- **(l)** *Satisfaction of Fort Belknap Indian Irrigation Project System requirement* The obligations of the Secretary under subsection (a) shall be deemed satisfied if the Secretary—
+  - **(1)** has rehabilitated, modernized, and expanded the Fort Belknap Indian Irrigation Project in accordance with subsection (a); or
+  - **(2)**
     - **(A)** has expended all of the available funding provided pursuant to paragraphs (1)(C) and (2)(A)(iv) of section 14(a); and
     - **(B)** despite diligent efforts, could not complete the activities described in subsection (a).
 
@@ -615,7 +627,7 @@ In this Act:
     - **(A)** first arising before the enforceability date relating to—
       - **(i)** water rights within the State that the United States, acting as trustee for the Fort Belknap Indian Community, asserted or could have asserted in any proceeding, including a general stream adjudication in the State, except to the extent that such rights are recognized as Tribal water rights under this Act;
       - **(ii)** foregone benefits from nontribal use of water, on and off the Reservation (including water from all sources and for all uses);
-      - **(iii)** damage, loss, or injury to water, water rights, land, or natural resources due to loss of water or water rights, including damages, losses, or injuries to hunting, fishing, gathering, or cultural rights due to loss of water or water rights, claims relating to interference with, diversion of, or taking of water, or claims relating to a failure to protect, acquire, replace, or develop water, water rights, or water infrastructure within the State;
+      - **(iii)** damage, loss, or injury to water, water rights, land, or natural resources due to loss of water or water rights, including damages, losses, or injuries to hunting, fishing, gathering, or cultural rights due to loss of water or water rights, claims relating to interference with, diversion of, or taking of water, or claims relating to a failure to protect, acquire, replace, or develop water, water rights, or water infrastructure) within the State;
       - **(iv)** a failure to establish or provide a municipal rural or industrial water delivery system on the Reservation;
       - **(v)** damage, loss, or injury to water, water rights, land, or natural resources due to construction, operation, and management of the Fort Belknap Indian Irrigation Project and other Federal land and facilities (including damages, losses, or injuries to Tribal fisheries, fish habitat, wildlife, and wildlife habitat);
       - **(vi)** a failure to provide for operation and maintenance, or deferred maintenance, for the Fort Belknap Indian Irrigation Project or any other irrigation system or irrigation project;
@@ -641,7 +653,7 @@ In this Act:
   - **(2)** all claims relating to off-Reservation hunting rights, fishing rights, gathering rights, or other rights;
   - **(3)** all claims relating to the right to use and protect water rights acquired after the date of enactment of this Act;
   - **(4)** all claims relating to the allocation of waters of the Milk River and the Milk River Project between the Fort Belknap Indian Community and the Blackfeet Tribe, pursuant to section 3705(e)(3) of the Blackfeet Water Rights Settlement Act (Public Law 114–322; 130 Stat. 1818);
-  - **(5)** all claims relating to the enforcement of the Act, including the required transfer of land under section 6; and
+  - **(5)** all claims relating to the enforcement of this Act, including the required transfer of land under section 6; and
   - **(6)** all rights, remedies, privileges, immunities, and powers not specifically waived and released pursuant to this Act or the Compact.
 - **(e)** *Effect of Compact and Act* Nothing in the Compact or this Act—
   - **(1)** affects the authority of the Fort Belknap Indian Community to enforce the laws of the Fort Belknap Indian Community, including with respect to environmental protections;
@@ -664,7 +676,7 @@ In this Act:
     - **(A)** the Montana Water Court has approved the Compact in a manner from which no further appeal may be taken; or
     - **(B)** if the Montana Water Court is found to lack jurisdiction, the appropriate district court of the United States has approved the Compact as a consent decree from which no further appeal may be taken;
   - **(3)** all of the amounts authorized to be appropriated under section 14 have been appropriated and deposited in the designated accounts;
-  - **(4)** the Secretary and the Fort Belknap Indian Community have executed an allocation agreement described in section 7(c)(1);
+  - **(4)** the Secretary and the Fort Belknap Indian Community have executed the allocation agreement described in section 7(c)(1);
   - **(5)** the State has provided the required funding into the Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account of the Trust Fund pursuant to section 14(a)(3); and
   - **(6)** the waivers and releases under subsection (a) have been executed by the Fort Belknap Indian Community and the Secretary.
 - **(g)** *Tolling of claims*
@@ -735,26 +747,26 @@ In this Act:
     - **(E)** *Enforcement* The Secretary may carry out such judicial and administrative actions as the Secretary determines to be necessary to enforce an expenditure plan under this paragraph to ensure that amounts disbursed under this paragraph are used in accordance with this Act.
 - **(g)** *Uses* Amounts from the Trust Fund shall be used by the Fort Belknap Indian Community for the following purposes:
   - **(1)** *Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account* Amounts in the Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account established under subsection (b)(1) shall be used to pay the cost of activities relating to—
-    - **(A)** planning, studies, and design of the Southern Tributary Irrigation Project and the Peoples Creek Irrigation Project, including the Upper Peoples Creek Dam and Reservoir, as described in the Fort Belknap Indian Community Comprehensive Water Development Plan dated 2019;
+    - **(A)** planning, studies, and design of the Southern Tributary Irrigation Project and the Peoples Creek Irrigation Project, including the Upper Peoples Creek Dam and Reservoir, as generally described in the document of Natural Resources Consulting Engineers, Inc., entitled “Fort Belknap Indian Community Comprehensive Water Development Plan” and dated February 2019;
     - **(B)** environmental compliance;
     - **(C)** construction of the Southern Tributary Irrigation Project and the Peoples Creek Irrigation Project, including the Upper Peoples Creek Dam and Reservoir;
     - **(D)** wetlands restoration and development;
     - **(E)** stock watering infrastructure; and
-    - **(F)** on farm development support and reacquisition of fee lands within the Fort Belknap Indian Irrigation Project.
+    - **(F)** on farm development support and reacquisition of fee lands within the Fort Belknap Indian Irrigation Project and Fort Belknap Indian Community irrigation projects within the Reservation.
   - **(2)** *Fort Belknap Indian Community Water Resources and Water Rights Administration, Operation, and Maintenance Account* Amounts in the Fort Belknap Indian Community Water Resources and Water Rights Administration, Operation, and Maintenance Account established under subsection (b)(2), the principal and investment earnings, including interest, may only be used by the Fort Belknap Indian Community to pay the costs of activities described in subparagraphs (A) through (C) as follows:
     - **(A)** $9,000,000 shall be used for the establishment, operation, and capital expenditures in connection with the administration of the Tribal water resources and water rights development, including the development or enactment of a Tribal water code.
     - **(B)** Only investment earnings, including interest, on $29,299,059 shall be used and be available to pay the costs of activities for administration, operations, and regulation of the Tribal water resources and water rights department, in accordance with the Compact and this Act.
-    - **(C)** Only investment earnings, including interest, on $28,331,693 shall be used and be available to pay the costs of activities relating to a portion of the annual assessment costs for the Fort Belknap Indian Community and Tribal members, including allottees, under the Fort Belknap Indian Irrigation Project.
+    - **(C)** Only investment earnings, including interest, on $28,331,693 shall be used and be available to pay the costs of activities relating to a portion of the annual assessment costs for the Fort Belknap Indian Community and Tribal members, including allottees, under the Fort Belknap Indian Irrigation Project and Fort Belknap Indian Community irrigation projects within the Reservation.
   - **(3)** *Fort Belknap Indian Community Clean and Safe Domestic Water and Sewer Systems, and Lake Elwell Project Account* Amounts in the Fort Belknap Indian Community Clean and Safe Domestic Water and Sewer Systems, and Lake Elwell Project Account established under subsection (b)(3), the principal and investment earnings, including interest, may only be used by the Fort Belknap Indian Community to pay the costs of activities relating to—
-    - **(A)** planning, studies, and design of domestic water supply, sewer collection and treatment systems, and Lake Elwell Project, as described in the Fort Belknap Indian Community Comprehensive Water Development Plan dated 2019, including water delivery to the southern part of the Reservation;
+    - **(A)** planning, studies, design, and environmental compliance of domestic water supply, and sewer collection and treatment systems, as generally described in the document of Natural Resources Consulting Engineers, Inc., entitled “Fort Belknap Indian Community Comprehensive Water Development Plan” and dated February 2019, including the Lake Elwell Project water delivery to the southern part of the Reservation;
     - **(B)** construction of domestic water supply, sewer collection, and treatment systems;
     - **(C)** construction, in accordance with applicable law, of infrastructure for delivery of Lake Elwell water diverted from the Missouri River to the southern part of the Reservation; and
-    - **(D)** planning, studies, design, and construction of a Tribal wellness center for a work force health and wellbeing project.
+    - **(D)** planning, studies, design, environmental compliance, and construction of a Tribal wellness center for a work force health and wellbeing project.
 - **(h)** *Liability* The Secretary shall not be liable for any expenditure or investment of amounts withdrawn from the Trust Fund by the Fort Belknap Indian Community pursuant to subsection (f).
 - **(i)** *Project efficiencies* If the total cost of the activities described in subsection (g) results in cost savings and is less than the amounts authorized to be obligated under any of paragraphs (1) through (3) of that subsection required to carry out those activities, the Secretary, at the request of the Fort Belknap Indian Community, shall deposit those savings in the Trust Fund to be used in accordance with that subsection.
 - **(j)** *Annual report* The Fort Belknap Indian Community shall submit to the Secretary an annual expenditure report describing accomplishments and amounts spent from use of withdrawals under a Tribal management plan or an expenditure plan described in this section.
 - **(k)** *No per capita payments* No principal or interest amount in any account established by this section shall be distributed to any member of the Fort Belknap Indian Community on a per capita basis.
-- **(l)** *Effect* Nothing in this Act entitles the Fort Belknap Indian Community to judicial review of a determination of the Secretary regarding whether to approve a Tribal management plan under paragraph (1) or an expenditure plan under paragraph (2), except as provided under subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
+- **(l)** *Effect* Nothing in this Act entitles the Fort Belknap Indian Community to judicial review of a determination of the Secretary regarding whether to approve a Tribal management plan under subsection (f)(1) or an expenditure plan under subsection (f)(2), except as provided under subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
 
 ## § 13. Fort Belknap Indian Community Water Settlement Implementation Fund
 
@@ -766,7 +778,7 @@ In this Act:
   - **(1)** in the Fort Belknap Indian Irrigation Project System Account established under subsection (b)(1), the amount made available pursuant to paragraphs (1)(C) and (2)(A)(iv) of section 14(a); and
   - **(2)** in the Milk River Project Mitigation Account established under subsection (b)(2), the amount made available pursuant to section 14(a)(1)(D).
 - **(d)** *Uses*
-  - **(1)** *Fort belknap indian irrigation project system account* The Fort Belknap Indian Irrigation Project Rehabilitation Account established under subsection (b)(1) shall be used to carry out section 9, except as provided in subsection (g) of that section.
+  - **(1)** *Fort belknap indian irrigation project system account* The Fort Belknap Indian Irrigation Project Rehabilitation Account established under subsection (b)(1) shall be used to carry out section 9, except as provided in subsection (h) of that section.
   - **(2)** *Milk river project mitigation account* The Milk River Project Mitigation Account established under subsection (b)(2) may only be used to carry out section 8.
 - **(e)** *Management*
   - **(1)** *In general* Amounts in the Implementation Fund shall not be available to the Secretary for expenditure until the enforceability date.
@@ -778,7 +790,7 @@ In this Act:
 - **(a)** *Funding*
   - **(1)** *Authorization of appropriations* Subject to subsection (b), there are authorized to be appropriated to the Secretary—
     - **(A)** for deposit in the Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account of the Trust Fund established under section 12(b)(1), $89,643,100, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury;
-    - **(B)** for deposit in the Fort Belknap Indian Community Clean and Safe Domestic Water and Sewer Systems, and Lake Elwell Project Account of the Trust Fund established under section 12(b)(3), $157,371,593, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury;
+    - **(B)** for deposit in the Fort Belknap Indian Community Clean and Safe Domestic Water and Sewer Systems, and Lake Elwell Project Account of the Trust Fund established under section 12(b)(3), $331,885,220, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury;
     - **(C)** for deposit in the Fort Belknap Indian Irrigation Project System Account of the Implementation Fund established under section 13(b)(1), such sums as are necessary, but not more than $187,124,469, for the Secretary to carry out section 9, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury; and
     - **(D)** for deposit in the Milk River Project Mitigation Account of the Implementation Fund established under section 13(b)(2), such sums as are necessary, but not more than $300,000,000, for the Secretary to carry out obligations of the Secretary under section 8, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury.
   - **(2)** *Mandatory appropriations*
@@ -786,8 +798,8 @@ In this Act:
       - **(i)** in the Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account of the Trust Fund established under section 12(b)(1), $29,881,034, to be retained until expended, withdrawn, or reverted to the general fund of the Treasury;
       - **(ii)** in the Fort Belknap Indian Community Water Resources and Water Rights Administration, Operation, and Maintenance Account of the Trust Fund established under section 12(b)(2), $66,630,752;
       - **(iii)** in the Fort Belknap Indian Community Clean and Safe Domestic Water and Sewer Systems, and Lake Elwell Project Account of the Trust Fund established under section 12(b)(3), $110,628,407; and
-      - **(iv)** in the Fort Belknap Indian Irrigation Project System Account of the Implementation Fund established under section 13(b)(1), $228,717,684.
-    - **(B)** *Availability* Amounts deposited in the Trust Fund under subparagraph (A) shall be available without further appropriation.
+      - **(iv)** in the Fort Belknap Indian Irrigation Project System Account of the Implementation Fund established under section 13(b)(1), $228,707,684.
+    - **(B)** *Availability* Amounts deposited in the accounts under subparagraph (A) shall be available without further appropriation.
   - **(3)** *State cost share* The State shall contribute $5,000,000, plus any earned interest, payable to the Secretary for deposit in the Fort Belknap Indian Community Tribal Irrigation and Other Water Resources Development Account of the Trust Fund established under section 12(b)(1) on approval of a final decree by the Montana Water Court for the purpose of activities relating to the Upper Peoples Creek Dam and Reservoir under subparagraphs (A) through (C) of section 12(g)(1).
 - **(b)** *Fluctuation in costs*
   - **(1)** *In general* The amounts authorized to be appropriated under paragraphs (1) and (2) of subsection (a) and this subsection shall be—
