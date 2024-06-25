@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 165
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 165
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 
-## Cosponsors (65)
+## Cosponsors (72)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
@@ -83,6 +83,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Perry, Scott [R-PA-10] (P000605)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
 
 ## Committees (1)
 
@@ -93,3 +100,8 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-06-05 — Introduced in House
 - 2024-06-05 — Introduced in House
 - 2024-06-05 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported by the Yeas and Nays: 24 - 16.
+- 2024-06-25 — Placed on the Union Calendar, Calendar No. 461.
+- 2024-06-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-558.
+- 2024-06-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-558.
