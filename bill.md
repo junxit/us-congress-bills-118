@@ -2,7 +2,7 @@
 legis-num: H. RES. 1316
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1316
@@ -81,4 +81,8 @@ The Clerk shall not transmit to the Senate a message that the House has passed H
 
 The amendment referred to in section 11 of this resolution is as follows:
 
--  "Strike section 406 and strike section 413 and insert SEC.___. Notwithstanding the numerical limitation set forth in section 214(g)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(1)(B)), the Secretary of Homeland Security, after consultation with the Secretary of Labor, and upon determining that the needs of American businesses cannot be satisfied during fiscal year 2025 with United States workers who are willing, qualified, and able to perform temporary nonagricultural labor, may increase the total number of aliens who may receive a visa under section 101(a)(15)(H)(ii)(b) of such Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)) in such fiscal year above such limitation by not more than the highest number of H–2B nonimmigrants who participated in the H–2B returning worker program in any fiscal year in which returning workers were exempt from such numerical limitation.”.
+-  “Strike section 406 and strike section 413 and insert SEC.___. Notwithstanding the numerical limitation set forth in section 214(g)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1184(g)(1)(B)), the Secretary of Homeland Security, after consultation with the Secretary of Labor, and upon determining that the needs of American businesses cannot be satisfied during fiscal year 2025 with United States workers who are willing, qualified, and able to perform temporary nonagricultural labor, may increase the total number of aliens who may receive a visa under section 101(a)(15)(H)(ii)(b) of such Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)) in such fiscal year above such limitation by not more than the highest number of H–2B nonimmigrants who participated in the H–2B returning worker program in any fiscal year in which returning workers were exempt from such numerical limitation.”.
+
+## § 18.
+
+Notwithstanding any other provision of this resolution, during consideration of H.R. 8771 pursuant to this resolution, it shall not be in order to consider amendment number 37 printed in part B of House Report 118–559.
