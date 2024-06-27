@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 897
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -83,7 +83,3 @@ In this Act—
 
 - **(a)** *Establishment* The Secretary shall establish an advisory council pursuant to section 315 of the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1445a) to advise the Secretary with respect to the designation and management of the Sanctuary.
 - **(b)** *Membership* The Secretary shall include a representative from the Alabama Department of Conservation and Natural Resources as a voting member of the advisory council.
-
-## § 9. Authorization of appropriations
-
-There is authorized to be appropriated $1,000,000 for each of the fiscal years 2024 through 2028 to carry out the provisions of this Act.
