@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5443
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Accelerating Appraisals and Conservation Efforts
 - **(b)** *Use of non-Federal covered appraisers* If the Secretary uses a non-Federal covered appraiser to perform appraisal or valuation services for real property for a transaction described in subsection (a), the Secretary—
   - **(1)** shall, to the maximum extent practicable, use a non-Federal covered appraiser who is a certified general real property appraiser licensed in a State in which the real property that is the subject of the transaction is located; and
   - **(2)** may only use a non-Federal covered appraiser who is a certified general real property appraiser licensed in a State other than one in which the real property that is the subject of the transaction is located if a non-Federal covered appraiser described in paragraph (1) is, as determined by the Secretary—
-    - **(A)** unavailable;
+    - **(A)** unavailable to complete an assignment within a reasonable period of time;
     - **(B)** not assignment qualified; or
     - **(C)** not cost competitive.
 - **(c)** *Report* Not later than 1 year after the date of the enactment of this section, and annually thereafter for at least the following 4 years, the Secretary shall submit to Congress a report that includes the following:
@@ -29,11 +29,13 @@ This Act may be cited as the “Accelerating Appraisals and Conservation Efforts
   - **(2)** A qualitative assessment of the impact of subsection (a) in providing flexibility to the Secretary when contracting with non-Federal covered appraisers.
   - **(3)** Recommendations, if any, for congressional action that could help the Department operate more efficiently or overcome challenges with respect to timely completion of requests for appraisal or valuation services while ensuring the independence, impartiality, and objectivity of such services.
   - **(4)** An overview of the workforce of the Department with regard to appraisal and valuation services provided by the Department, including hiring and staffing during the reporting period with respect to employees and contractors of the Department.
+  - **(5)** A complete list of cases in which the authority granted under section 2 of this Act was used during the reporting period, describing for each case the specific criteria used to satisfy the conditions of this Act.
 - **(d)** *Statutory clarifications*
   - **(1)** *Applicability of relevant laws and regulations* Except as provided in paragraph (3), nothing in this section shall be interpreted to affect the application of any Federal or State law or regulation to a non-Federal covered appraiser with regard to the performance by such non-Federal covered appraiser of appraisal and valuation services for real property.
   - **(2)** *Jurisdiction requirement* Nothing in this section shall be interpreted to authorize a non-Federal covered appraiser to perform appraisal and valuation services for real property in a State in which such non-Federal covered appraiser is not licensed or certified to perform such services except to the extent that such services are performed for a transaction over which the Secretary has jurisdiction.
   - **(3)** *Nonapplicability of certain relevant laws and regulations* Any provision of a Federal or State law or regulation enacted before the date of the enactment of this section that requires a covered appraiser to be licensed or certified in a specific State to perform appraisal or valuation services for real property in that State shall not apply to any transaction over which the Secretary has jurisdiction.
-- **(e)** *Definitions* In this section:
+- **(e)** *Public availability* Not later than 90 days after the enactment of this Act, the text of all policies (including any successor policies), including reference manuals, guidance documents, handbooks, standard operating procedures, and statements of policy specific to the scoping, contracting, and review of appraisals performed for the Department by Federal or non-Federal covered appraisers, shall be made publicly available online and provided upon request.
+- **(f)** *Definitions* In this section:
   - **(1)** *Covered appraiser* The term covered appraiser means a State-licensed or -certified real property appraiser.
   - **(2)** *Department* The term Department means the Department of the Interior.
   - **(3)** *Reporting period* The term reporting period means the 1-year period before the date on which a report is submitted under subsection (c).

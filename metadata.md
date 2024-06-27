@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5443
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5443
@@ -16,9 +16,21 @@ AACE Act
 
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Cosponsors (1)
+## Cosponsors (13)
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Peters, Scott H. [D-CA-50] (P000608)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Panetta, Jimmy [D-CA-19] (P000613)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. D'Esposito, Anthony [R-NY-4] (D000632)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
 
 ## Committees (1)
 
@@ -29,3 +41,11 @@ AACE Act
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Introduced in House
 - 2023-09-13 — Referred to the House Committee on Natural Resources.
+- 2024-01-30 — Referred to the Subcommittee on Federal Lands.
+- 2024-01-31 — Subcommittee Hearings Held
+- 2024-03-12 — Committee Consideration and Mark-up Session Held
+- 2024-03-12 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2024-03-12 — Subcommittee on Federal Lands Discharged
+- 2024-06-27 — Placed on the Union Calendar, Calendar No. 467.
+- 2024-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-565.
+- 2024-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-565.
