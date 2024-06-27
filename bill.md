@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6368
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,11 @@ In this Act:
 - **(4)** *Indian land* The term Indian land has the meaning given the term in paragraph (2) of section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501), except that, in that paragraph, the term Indian reservation shall be considered to have the meaning given the term Indian reservation in paragraph (3) of that section, without regard to the date specified in paragraph (3) of that section.
 - **(5)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(7)** *Tribal organization* The term Tribal organization means a legally established organization of Indians that is chartered under section 17 of the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 5124) with demonstrable experience in the restoration of buffalo and buffalo habitat on Indian land.
+- **(7)** *Tribal organization* The term “Tribal organization” means any legally established organization of Indians that—
+  - **(A)**
+    - **(i)** is chartered under section 17 of the Act of June 18, 1934, (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 5124) and recognized by the governing body of one or more Indian Tribes; or
+    - **(ii)** is a Tribal corporation federally chartered under section 3 of the Oklahoma Indian Welfare Act (25 U.S.C. 5203); and
+  - **(B)** has demonstrable experience in the restoration of buffalo and buffalo habitat on Indian land.
 
 ## § 3. Buffalo resource management
 
