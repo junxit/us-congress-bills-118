@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7377
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 1721` | amend | Section 111(j) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1721(j)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1721` | amend | Section 111(j) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1721(j)), as amended by the Federal Oil and Gas Royalty Simplification and Fairness Act of 1996 (Public Law 104–185), is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
