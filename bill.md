@@ -28,4 +28,4 @@ This Act may be cited as the “Foreign Grant Reporting Act”.
   >   - **(2)** *Foreign entity* For purposes of this subsection, the term foreign entity means any organization or entity created or organized outside the United States. For purposes of the preceding sentence, the term United States includes the possessions of the United States.
   >   - **(3)** *Indirect contributions* In the case of any grant or other contribution made indirectly to any foreign entity, the information required to be reported under paragraph (1) shall be reported with respect to each person to which such grant or other contribution is made directly or indirectly.
 
-- **(b)** *Effective date* The amendments made by this subsection shall apply to returns filed for taxable years beginning after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendments made by this section shall apply to returns filed for taxable years beginning after the date of the enactment of this Act.
