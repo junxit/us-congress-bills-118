@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 8906
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8906
+
+> To amend titles 18 and 38, United States Code, to permit the lawful carrying of firearms in properties under the jurisdiction of the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Gun Rights Protection Act of 2024”.
+
+## § 2. Possession of firearms
+
+Section 930(d) of title 18, United States Code, is amended—
+
+- **(1)** in paragraph (2) by striking “or” after the semicolon;
+- **(2)** in paragraph (3) by striking the period and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(4)** the otherwise lawful carrying of a firearm by an individual on property under the jurisdiction of the Department of Veterans Affairs, to the extent consistent with section 901 of title 38 and not prohibited by any law of the State or of any political subdivision of the State in which the property is located.
+
+## § 3. Authority to prescribe rules for conduct and penalties for violations
+
+Section 901 of title 38, United States Code, is amended by adding at the end the following:
+
+> - **(g)**
+>   - **(1)** The otherwise lawful possession of a firearm on Department property, consistent with the laws of the State and of all political subdivisions of the State in which the Department property is located, shall not be a violation of this section or any regulation prescribed under this section.
+>   - **(2)** In this subsection, the term “firearm” has the meaning specified for the purposes of section 930 of title 18.
