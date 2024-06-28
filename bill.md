@@ -16,7 +16,7 @@ This Act may be cited as the “Taxpayer Data Protection Act”.
 ## § 2. Increase in penalties for unauthorized disclosures of taxpayer information
 
 - **(a)** *In general* Paragraphs (1), (2), (3), (4), and (5) of section 7213(a) of the Internal Revenue Code of 1986 are each amended by striking “$5,000, or imprisonment of not more than 5 years” and inserting “$250,000, or imprisonment of not more than 10 years”.
-- **(b)** *Disclosures affecting multiple taxpayers treated as multiple violations* Section 7213(a) of such Code is amended by adding at the end the following new paragraph:
-  > - **(6)** *Disclosures affecting multiple taxpayers treated as multiple violations* For purposes of paragraphs (1), (2), (3), (4), and (5), any violation of any such paragraph which affects more than 1 taxpayer shall be treated as a separate violation with respect to each such taxpayer.
+- **(b)** *Disclosures of return information of multiple taxpayers treated as multiple violations* Section 7213(a) of such Code is amended by adding at the end the following new paragraph:
+  > - **(6)** *Disclosures of return information of multiple taxpayers treated as multiple violations* For purposes of paragraphs (1), (2), (3), (4), and (5), a separate violation occurs with respect to each taxpayer whose return or return information is disclosed in violation of any such paragraph.
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to disclosures made after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to disclosures made after the date of the enactment of this Act.

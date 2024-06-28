@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8292
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8292
@@ -16,7 +16,7 @@ Taxpayer Data Protection Act
 
 - Rep. Smith, Jason [R-MO-8] (S001195)
 
-## Cosponsors (24)
+## Cosponsors (25)
 
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
@@ -42,6 +42,7 @@ Taxpayer Data Protection Act
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
 
 ## Committees (1)
 
@@ -52,3 +53,8 @@ Taxpayer Data Protection Act
 - 2024-05-08 — Introduced in House
 - 2024-05-08 — Introduced in House
 - 2024-05-08 — Referred to the House Committee on Ways and Means.
+- 2024-05-15 — Committee Consideration and Mark-up Session Held
+- 2024-05-15 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 40 - 1.
+- 2024-06-28 — Placed on the Union Calendar, Calendar No. 471.
+- 2024-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-570.
+- 2024-06-28 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-570.
