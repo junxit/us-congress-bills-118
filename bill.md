@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 8894
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8894
+
+> To improve the distribution of tsunami alerts to the public, and for other purposes.
+
+## § 1. Review of NOAA Weather Radio coverage
+
+The Administrator of the National Oceanic and Atmospheric Administration shall—
+
+- **(1)** conduct a review of the extent to which NOAA Weather Radio coverage extends to populated areas at risk of tsunamis; and
+- **(2)** make the results of such review available to the public.
+
+## § 2. Use of IPAWS to deliver tsunami alerts
+
+The Administrator of the Federal Emergency Management Agency, in consultation with the Administrator of the National Oceanic and Atmospheric Administration and the Federal Communications Commission, shall clarify and document the responsibilities and decision-making process of the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and the Federal Communications Commission with respect to the use of the Integrated Public Alert and Warning System to deliver tsunami alerts to the Emergency Alert System.
