@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8771
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8771
@@ -21,6 +21,37 @@ Department of State, Foreign Operations, and Related Programs Appropriations Act
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
+## Recorded votes (28)
+
+- 2024-06-27 — [House 118-2-297](votes/house-118-2-0297.md) — On Agreeing to the Amendment — **Failed** (164–246)
+- 2024-06-27 — [House 118-2-298](votes/house-118-2-0298.md) — On Agreeing to the Amendment — **Failed** (180–227)
+- 2024-06-27 — [House 118-2-299](votes/house-118-2-0299.md) — On Agreeing to the Amendment — **Failed** (164–244)
+- 2024-06-27 — [House 118-2-300](votes/house-118-2-0300.md) — On Agreeing to the Amendment — **Failed** (166–244)
+- 2024-06-27 — [House 118-2-301](votes/house-118-2-0301.md) — On Agreeing to the Amendment — **Agreed to** (210–204)
+- 2024-06-27 — [House 118-2-302](votes/house-118-2-0302.md) — On Agreeing to the Amendment — **Failed** (156–254)
+- 2024-06-27 — [House 118-2-303](votes/house-118-2-0303.md) — On Agreeing to the Amendment — **Failed** (61–350)
+- 2024-06-27 — [House 118-2-304](votes/house-118-2-0304.md) — On Agreeing to the Amendment — **Failed** (76–334)
+- 2024-06-27 — [House 118-2-305](votes/house-118-2-0305.md) — On Agreeing to the Amendment — **Failed** (109–303)
+- 2024-06-27 — [House 118-2-306](votes/house-118-2-0306.md) — On Agreeing to the Amendment — **Failed** (133–277)
+- 2024-06-27 — [House 118-2-307](votes/house-118-2-0307.md) — On Agreeing to the Amendment — **Failed** (70–342)
+- 2024-06-27 — [House 118-2-308](votes/house-118-2-0308.md) — On Agreeing to the Amendment — **Failed** (81–331)
+- 2024-06-27 — [House 118-2-309](votes/house-118-2-0309.md) — On Agreeing to the Amendment — **Failed** (175–236)
+- 2024-06-27 — [House 118-2-310](votes/house-118-2-0310.md) — On Agreeing to the Amendment — **Failed** (187–225)
+- 2024-06-27 — [House 118-2-311](votes/house-118-2-0311.md) — On Agreeing to the Amendment — **Failed** (163–249)
+- 2024-06-27 — [House 118-2-312](votes/house-118-2-0312.md) — On Agreeing to the Amendment — **Agreed to** (213–199)
+- 2024-06-27 — [House 118-2-313](votes/house-118-2-0313.md) — On Agreeing to the Amendment — **Agreed to** (269–144)
+- 2024-06-27 — [House 118-2-314](votes/house-118-2-0314.md) — On Agreeing to the Amendment — **Agreed to** (216–197)
+- 2024-06-27 — [House 118-2-315](votes/house-118-2-0315.md) — On Agreeing to the Amendment — **Failed** (101–312)
+- 2024-06-27 — [House 118-2-316](votes/house-118-2-0316.md) — On Agreeing to the Amendment — **Failed** (182–230)
+- 2024-06-27 — [House 118-2-317](votes/house-118-2-0317.md) — On Agreeing to the Amendment — **Failed** (103–308)
+- 2024-06-27 — [House 118-2-318](votes/house-118-2-0318.md) — On Agreeing to the Amendment — **Agreed to** (208–202)
+- 2024-06-27 — [House 118-2-319](votes/house-118-2-0319.md) — On Agreeing to the Amendment — **Agreed to** (218–188)
+- 2024-06-27 — [House 118-2-320](votes/house-118-2-0320.md) — On Agreeing to the Amendment — **Failed** (149–259)
+- 2024-06-27 — [House 118-2-321](votes/house-118-2-0321.md) — On Agreeing to the Amendment — **Agreed to** (209–200)
+- 2024-06-27 — [House 118-2-322](votes/house-118-2-0322.md) — On Agreeing to the Amendment — **Agreed to** (257–154)
+- 2024-06-28 — [House 118-2-334](votes/house-118-2-0334.md) — On Motion to Recommit — **Failed** (200–212)
+- 2024-06-28 — [House 118-2-335](votes/house-118-2-0335.md) — On Passage — **Passed** (212–200)
+
 ## Actions
 
 - 2024-04-09 — Committee on Appropriations Senate Subcommittee on State, Foreign Operations, and Related Programs. Hearings held on the subject prior to measure being received from the House. Hearings printed: S. Hrg. 118-603.
@@ -31,3 +62,317 @@ Department of State, Foreign Operations, and Related Programs Appropriations Act
 - 2024-06-14 — Placed on the Union Calendar, Calendar No. 457.
 - 2024-06-14 — The House Committee on Appropriations reported an original measure, H. Rept. 118-554, by Mr. Diaz-Balart.
 - 2024-06-14 — The House Committee on Appropriations reported an original measure, H. Rept. 118-554, by Mr. Diaz-Balart.
+- 2024-06-25 — Rules Committee Resolution H. Res. 1316 Reported to House. Rule provides for consideration of H.R. 8774, H.R. 8771 and H.R. 8752. The resolution provides for consideration of H.R. 8774, H.R. 8771, and H.R. 8752, all under a structured rule. The resolution provides for one hour of general debate and one motion to recommit for each bill.
+- 2024-06-26 — Amendment (A002) offered by Mr. Brecheen. (consideration: CR H4299; text: CR H4299)
+- 2024-06-26 — Amendment (A003) offered by Mr. Brecheen. (consideration: CR H4299-4300; text: CR H4299)
+- 2024-06-26 — Amendment (A004) offered by Mr. Brecheen. (consideration: CR H4300-4301; text: CR H4300)
+- 2024-06-26 — Amendment (A005) offered by Mr. Burchett. (consideration: CR H4301-4302; text: CR H4301)
+- 2024-06-26 — Amendment (A006) offered by Mr. Burchett. (consideration: CR H4302; text: CR H4302)
+- 2024-06-26 — Amendment (A007) offered by Mr. Burchett. (consideration: CR H4302-4303; text: CR H4302)
+- 2024-06-26 — Amendment (A008) offered by Mr. Burlison. (consideration: CR H4303-4304; text: CR H4303)
+- 2024-06-26 — Amendment (A009) offered by Mr. Burchett. (consideration: CR H4304; text: CR H4304)
+- 2024-06-26 — Amendment (A010) offered by Mr. Gosar. (consideration: CR H4304-4305; text: CR H4304)
+- 2024-06-26 — Amendment (A011) offered by Mr. Gosar. (consideration: CR H4305-4306; text: CR H4305)
+- 2024-06-26 — Amendment (A012) offered by Mr. Gosar. (consideration: CR H4306-4307; text: CR H4306)
+- 2024-06-26 — Amendment (A013) offered by Mr. Gosar. (consideration: CR H4307; text: CR H4307)
+- 2024-06-26 — Amendment (A014) offered by Ms. Greene (GA). (consideration: CR H4307-4308; text: CR H4307)
+- 2024-06-26 — Amendment (A015) offered by Ms. Greene (GA). (consideration: CR H4308-4309; text: CR H4308)
+- 2024-06-26 — Amendment (A016) offered by Ms. Greene (GA). (consideration: CR H4309-4310; text: CR H4309)
+- 2024-06-26 — Amendment (A017) offered by Ms. Hageman. (consideration: CR H4310-4311; text: CR H4310)
+- 2024-06-26 — Amendment (A018) offered by Ms. Hageman. (consideration: CR H4311-4312; text: CR H4311)
+- 2024-06-26 — Amendment (A019) offered by Mr. Issa. (consideration: CR H4312-4314; text: CR H4312)
+- 2024-06-26 — Amendment (A020) offered by Mr. Issa. (consideration: CR H4314-4315; text: CR H4314)
+- 2024-06-26 — Amendment (A021) offered by Mr. Lawler. (consideration: CR H4315-4316; text: CR H4315)
+- 2024-06-26 — Amendment (A022) offered by Ms. Mace. (consideration: CR H4316-4317; text: CR H4316)
+- 2024-06-26 — Amendment (A023) offered by Ms. Mace. (consideration: CR H4317-4318; text: CR H4317)
+- 2024-06-26 — Amendment (A024) offered by Mr. Moskowitz. (consideration: CR H4318; text: CR H4318)
+- 2024-06-26 — Amendments en bloc (A001) offered by Mr. Diaz-Balart. (consideration: CR H4297-4299; text: CR H4297-4298)
+- 2024-06-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 8771 as unfinished business.
+- 2024-06-26 — Considered under the provisions of rule H. Res. 1316. (consideration: CR H4262-4319; text of amendment in the nature of a substitute: CR H4266-4297)
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 1.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 2.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 3.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 4.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 5.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 6.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Burchett amendment No. 9.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Burlison amendment No. 8.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 13.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 14.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 15.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 16.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 18.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 19.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 20.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 21.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 22.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment No. 23.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment No. 24.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Lawler amendment No. 32.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 35.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 36.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Moskowitz amendment No. 45.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 20 minutes of debate on the Diaz-Balart amendment en bloc.
+- 2024-06-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8771.
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House amendment agreed to: On agreeing to the Burchett amendment (A006) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Burchett amendment (A007) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Burlison amendment (A008) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Diaz-Balart amendments (A001) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Issa amendment (A019) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Issa amendment (A020) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Lawler amendment (A021) Agreed to by voice vote.
+- 2024-06-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1316 and Rule XVIII.
+- 2024-06-26 — Mr. Diaz-Balart moved that the committee rise.
+- 2024-06-26 — On agreeing to the Burchett amendment (A006) Agreed to by voice vote. (consideration: CR H4337)
+- 2024-06-26 — On agreeing to the Burchett amendment (A007) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Burlison amendment (A008) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Diaz-Balart amendments (A001) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Issa amendment (A019) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Issa amendment (A020) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Lawler amendment (A021) Agreed to by voice vote.
+- 2024-06-26 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 3, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burchett amendment No. 4, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burchett amendment No. 9, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 13, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 16, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 19, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Greene (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Greene (GA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hageman amendment No. 21, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hageman amendment No. 22, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 35, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Mace demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 36, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Mace demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moskowitz amendment No. 45, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Diaz-Balart demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — Rule provides for consideration of H.R. 8774, H.R. 8771 and H.R. 8752. The resolution provides for consideration of H.R. 8774, H.R. 8771, and H.R. 8752, all under a structured rule. The resolution provides for one hour of general debate and one motion to recommit for each bill.
+- 2024-06-26 — The Speaker designated the Honorable Randy K. Weber, Sr. to act as Chairman of the Committee.
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — 
+- 2024-06-27 — Amendment (A025) offered by Mr. Ogles. (consideration: CR H4326-4327; text: CR H4326)
+- 2024-06-27 — Amendment (A026) offered by Mr. Ogles. (consideration: CR H4327-4328; text: CR H4327)
+- 2024-06-27 — Amendment (A027) offered by Mr. Ogles. (consideration: CR H4328-4329; text: CR H4328)
+- 2024-06-27 — Amendment (A028) offered by Mr. Perry. (consideration: CR H4329-4330; text: CR H4329)
+- 2024-06-27 — Amendment (A029) offered by Mrs. Ramirez. (consideration: CR H4330-4331; text: CR H4330)
+- 2024-06-27 — Amendment (A030) offered by Mrs. Spartz. (consideration: CR H4331-4332; text: CR H4331)
+- 2024-06-27 — Amendment (A031) offered by Mr. Steube. (consideration: CR H4333-4334; text: CR H4333)
+- 2024-06-27 — Amendment (A032) offered by Mr. Steube. (consideration: CR H4348-4349; text: CR H4348)
+- 2024-06-27 — Amendment (A033) offered by Ms. Tenney. (consideration: CR H4349-4350, H4389-4390; text: CR H4349)
+- 2024-06-27 — Amendment (A034) offered by Ms. Tenney. (consideration: CR H4350, H4390; text: CR H4350)
+- 2024-06-27 — Amendment (A035) offered by Mr. Tiffany. (consideration: CR H4350-4351; text: CR H4350)
+- 2024-06-27 — Amendment (A036) offered by Mr. Tiffany. (consideration: CR H4351-4352, H4390-4391; text: CR H4351)
+- 2024-06-27 — Amendment (A037) offered by Mr. Waltz. (consideration: CR H4352-4353, H4391-4392; text: CR H4352)
+- 2024-06-27 — Amendment (A038) offered by Mr. Wilson (SC). (consideration: CR H4353-4354, H4392; text: CR H4353)
+- 2024-06-27 — Committee of the Whole House on the state of the Union rises leaving H.R. 8771 as unfinished business.
+- 2024-06-27 — Considered as unfinished business. (consideration: CR H4326-4354)
+- 2024-06-27 — Considered as unfinished business. (consideration: CR H4389-4393)
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 48.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 49.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 50.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 54.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ramirez amendment No. 57.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Spartz amendment No. 59.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 61.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 62.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 63.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 64.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Waltz amendment No. 72.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (SC) amendment No. 75.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H.Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 67.
+- 2024-06-27 — DEBATE - Pursuant to the provisions of H.Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 68.
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House Amendment Offered
+- 2024-06-27 — House amendment agreed to: On agreeing to the Burchett amendment (A009) Agreed to by recorded vote: 210 - 204 (Roll no. 301).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Burchett amendment (A009) Agreed to by recorded vote: 210 - 204 (Roll no. 301).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Mace amendment (A023) Agreed to by recorded vote: 213 - 199 (Roll no. 312).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Mace amendment (A023) Agreed to by recorded vote: 213 - 199 (Roll no. 312).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Moskowitz amendment (A024) Agreed to by recorded vote: 269 - 144 (Roll no. 313).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Moskowitz amendment (A024) Agreed to by recorded vote: 269 - 144 (Roll no. 313).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Ogles amendment (A025) Agreed to by voice vote.
+- 2024-06-27 — House amendment agreed to: On agreeing to the Ogles amendment (A026) Agreed to by voice vote.
+- 2024-06-27 — House amendment agreed to: On agreeing to the Ogles amendment (A027) Agreed to by recorded vote: 216 - 197 (Roll no. 314).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Steube amendment (A032) Agreed to by voice vote.
+- 2024-06-27 — House amendment agreed to: On agreeing to the Tenney amendment (A033) Agreed to by recorded vote: 208 - 202 (Roll no. 318).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Tenney amendment (A034) Agreed to by recorded vote: 218 - 188 (Roll no. 319).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Tiffany amendment (A035) Agreed to by voice vote.
+- 2024-06-27 — House amendment agreed to: On agreeing to the Waltz amendment (A037) Agreed to by recorded vote: 209 - 200 (Roll no. 321).
+- 2024-06-27 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A038) Agreed to by recorded vote: 257 - 154 (Roll no. 322).
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A002) Failed by recorded vote: 164 - 246 (Roll no. 297). (consideration: CR H1030)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A002) Failed by recorded vote: 164 - 246 (Roll no. 297). (consideration: CR H1030)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A003) Failed by recorded vote: 180 - 227 (Roll no. 298). (consideration: CR H4335)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A003) Failed by recorded vote: 180 - 227 (Roll no. 298). (consideration: CR H4335)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A004) Failed by recorded vote: 164 - 244 (Roll no. 299). (consideration: CR H4335-4336)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Brecheen amendment (A004) Failed by recorded vote: 164 - 244 (Roll no. 299). (consideration: CR H4335-4336)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Burchett amendment (A005) Failed by recorded vote: 166 - 244, 2 Present (Roll no. 300). (consideration: CR H4336-4337)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Burchett amendment (A005) Failed by recorded vote: 166 - 244, 2 Present (Roll no. 300). (consideration: CR H4336-4337)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A010) Failed by recorded vote: 156 - 254 (Roll no. 302). (consideration: CR H4337-4338)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A010) Failed by recorded vote: 156 - 254 (Roll no. 302). (consideration: CR H4337-4338)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A011) Failed by recorded vote: 61 - 350 (Roll no. 303). (consideration: CR H4338-4339)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A011) Failed by recorded vote: 61 - 350 (Roll no. 303). (consideration: CR H4338-4339)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A012) Failed by recorded vote: 76 - 334 (Roll no. 304). (consideration: CR H4339)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A012) Failed by recorded vote: 76 - 334 (Roll no. 304). (consideration: CR H4339)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A013) Failed by recorded vote: 109 - 303 (Roll no. 305). (consideration: CR H4339-4340)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Gosar amendment (A013) Failed by recorded vote: 109 - 303 (Roll no. 305). (consideration: CR H4339-4340)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A014) Failed by recorded vote: 133 - 277, 1 Present (Roll no. 306). (consideration: CR H4340-4341)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A014) Failed by recorded vote: 133 - 277, 1 Present (Roll no. 306). (consideration: CR H4340-4341)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 70 - 342 (Roll no. 307). (consideration: CR H4341)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 70 - 342 (Roll no. 307). (consideration: CR H4341)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A016) Failed by recorded vote: 81 - 331 (Roll no. 308). (consideration: CR H4341-4342)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A016) Failed by recorded vote: 81 - 331 (Roll no. 308). (consideration: CR H4341-4342)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Hageman amendment (A017) Failed by recorded vote: 175 - 236 (Roll no. 309). (consideration: CR H4342-4343)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Hageman amendment (A017) Failed by recorded vote: 175 - 236 (Roll no. 309). (consideration: CR H4342-4343)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Hageman amendment (A018) Failed by recorded vote: 187 - 225 (Roll no. 310). (consideration: CR H4343)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Hageman amendment (A018) Failed by recorded vote: 187 - 225 (Roll no. 310). (consideration: CR H4343)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Mace amendment (A022) Failed by recorded vote: 163 - 249 (Roll no. 311). (consideration: CR H4343-4344)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Mace amendment (A022) Failed by recorded vote: 163 - 249 (Roll no. 311). (consideration: CR H4343-4344)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Perry amendment (A028) Failed by recorded vote: 101 - 312 (Roll no. 315). (consideration: CR H4346-4347)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Ramirez amendment (A029) Failed by voice vote.
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Spartz amendment (A030) Failed by recorded vote: 182 - 230 (Roll no. 316). (consideration: CR H4347)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Steube amendment (A031) Failed by recorded vote: 103 - 308 (Roll no. 317). (consideration: CR H4347-4348)
+- 2024-06-27 — House amendment not agreed to: On agreeing to the Tiffany amendment (A036) Failed by recorded vote: 149 - 259 (Roll no. 320).
+- 2024-06-27 — Mr. Diaz-Balart moved that the committee rise.
+- 2024-06-27 — On agreeing to the Brecheen amendment (A002) Failed by recorded vote: 164 - 246 (Roll no. 297). (consideration: CR H1030)
+- 2024-06-27 — On agreeing to the Brecheen amendment (A003) Failed by recorded vote: 180 - 227 (Roll no. 298). (consideration: CR H4335)
+- 2024-06-27 — On agreeing to the Brecheen amendment (A004) Failed by recorded vote: 164 - 244 (Roll no. 299). (consideration: CR H4335-4336)
+- 2024-06-27 — On agreeing to the Burchett amendment (A005) Failed by recorded vote: 166 - 244, 2 Present (Roll no. 300). (consideration: CR H4336-4337)
+- 2024-06-27 — On agreeing to the Burchett amendment (A009) Agreed to by recorded vote: 210 - 204 (Roll no. 301). (consideration: CR H4337)
+- 2024-06-27 — On agreeing to the Gosar amendment (A010) Failed by recorded vote: 156 - 254 (Roll no. 302). (consideration: CR H4337-4338)
+- 2024-06-27 — On agreeing to the Gosar amendment (A011) Failed by recorded vote: 61 - 350 (Roll no. 303). (consideration: CR H4338-4339)
+- 2024-06-27 — On agreeing to the Gosar amendment (A012) Failed by recorded vote: 76 - 334 (Roll no. 304). (consideration: CR H4339)
+- 2024-06-27 — On agreeing to the Gosar amendment (A013) Failed by recorded vote: 109 - 303 (Roll no. 305). (consideration: CR H4339-4340)
+- 2024-06-27 — On agreeing to the Greene (GA) amendment (A014) Failed by recorded vote: 133 - 277, 1 Present (Roll no. 306). (consideration: CR H4340-4341)
+- 2024-06-27 — On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 70 - 342 (Roll no. 307). (consideration: CR H4341)
+- 2024-06-27 — On agreeing to the Greene (GA) amendment (A016) Failed by recorded vote: 81 - 331 (Roll no. 308). (consideration: CR H4341-4342)
+- 2024-06-27 — On agreeing to the Hageman amendment (A017) Failed by recorded vote: 175 - 236 (Roll no. 309). (consideration: CR H4342-4343)
+- 2024-06-27 — On agreeing to the Hageman amendment (A018) Failed by recorded vote: 187 - 225 (Roll no. 310). (consideration: CR H4343)
+- 2024-06-27 — On agreeing to the Mace amendment (A022) Failed by recorded vote: 163 - 249 (Roll no. 311). (consideration: CR H4343-4344)
+- 2024-06-27 — On agreeing to the Mace amendment (A023) Agreed to by recorded vote: 213 - 199 (Roll no. 312). (consideration: CR H4344-4345)
+- 2024-06-27 — On agreeing to the Moskowitz amendment (A024) Agreed to by recorded vote: 269 - 144 (Roll no. 313). (consideration: CR H4345)
+- 2024-06-27 — On agreeing to the Ogles amendment (A025) Agreed to by voice vote.
+- 2024-06-27 — On agreeing to the Ogles amendment (A026) Agreed to by voice vote.
+- 2024-06-27 — On agreeing to the Ogles amendment (A027) Agreed to by recorded vote: 216 - 197 (Roll no. 314). (consideration: CR H4345-4346)
+- 2024-06-27 — On agreeing to the Perry amendment (A028) Failed by recorded vote: 101 - 312 (Roll no. 315). (consideration: CR H4346-4347)
+- 2024-06-27 — On agreeing to the Ramirez amendment (A029) Failed by voice vote.
+- 2024-06-27 — On agreeing to the Spartz amendment (A030) Failed by recorded vote: 182 - 230 (Roll no. 316). (consideration: CR H4347)
+- 2024-06-27 — On agreeing to the Steube amendment (A031) Failed by recorded vote: 103 - 308 (Roll no. 317). (consideration: CR H4347-4348)
+- 2024-06-27 — On agreeing to the Steube amendment (A032) Agreed to by voice vote.
+- 2024-06-27 — On agreeing to the Tenney amendment (A033) Agreed to by recorded vote: 208 - 202 (Roll no. 318).
+- 2024-06-27 — On agreeing to the Tenney amendment (A034) Agreed to by recorded vote: 218 - 188 (Roll no. 319).
+- 2024-06-27 — On agreeing to the Tiffany amendment (A035) Agreed to by voice vote.
+- 2024-06-27 — On agreeing to the Tiffany amendment (A036) Failed by recorded vote: 149 - 259 (Roll no. 320).
+- 2024-06-27 — On agreeing to the Waltz amendment (A037) Agreed to by recorded vote: 209 - 200 (Roll no. 321).
+- 2024-06-27 — On agreeing to the Wilson (SC) amendment (A038) Agreed to by recorded vote: 257 - 154 (Roll no. 322).
+- 2024-06-27 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 50, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 54, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Diaz-Balart demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Spartz amendment No. 59, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Meng demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steube amendment No. 61, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Mr. Issa demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tenney amendment No. 63, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tenney amendment No. 64, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Tenney demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tiffany amendment No. 68, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waltz amendment No. 72, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wilson (SC) amendment No. 75, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Wilson (SC) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-27 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 8771 would be postponed.
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — Roll call votes on amendments in House
+- 2024-06-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8771.
+- 2024-06-27 — The previous question was ordered pursuant to the rule.
+- 2024-06-28 — Considered as unfinished business. (consideration: CR H4424-4426)
+- 2024-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-28 — Ms. Meng moved to recommit to the Committee on Appropriations. (text: CR H4425)
+- 2024-06-28 — On motion to recommit Failed by the Yeas and Nays: 200 - 212 (Roll no. 334).
+- 2024-06-28 — On passage Passed by the Yeas and Nays: 212 - 200 (Roll no. 335).
+- 2024-06-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 212 - 200 (Roll no. 335).
+- 2024-06-28 — Pursuant to clause 1(c) of Rule XIX, the House resumed consideration on H.R. 8771.
+- 2024-06-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8771.
+- 2024-06-28 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-06-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
