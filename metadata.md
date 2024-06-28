@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8752
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8752
@@ -20,6 +20,23 @@ Department of Homeland Security Appropriations Act, 2025
 
 - House — Appropriations Committee
 
+## Recorded votes (14)
+
+- 2024-06-26 — [House 118-2-285](votes/house-118-2-0285.md) — On Agreeing to the Amendment — **Agreed to** (193–173)
+- 2024-06-26 — [House 118-2-286](votes/house-118-2-0286.md) — On Agreeing to the Amendment — **Failed** (94–302)
+- 2024-06-26 — [House 118-2-287](votes/house-118-2-0287.md) — On Agreeing to the Amendment — **Failed** (200–208)
+- 2024-06-26 — [House 118-2-288](votes/house-118-2-0288.md) — On Agreeing to the Amendment — **Failed** (193–218)
+- 2024-06-26 — [House 118-2-289](votes/house-118-2-0289.md) — On Agreeing to the Amendment — **Agreed to** (207–206)
+- 2024-06-26 — [House 118-2-290](votes/house-118-2-0290.md) — On Agreeing to the Amendment — **Failed** (206–208)
+- 2024-06-26 — [House 118-2-291](votes/house-118-2-0291.md) — On Agreeing to the Amendment — **Agreed to** (204–203)
+- 2024-06-26 — [House 118-2-292](votes/house-118-2-0292.md) — On Agreeing to the Amendment — **Failed** (189–222)
+- 2024-06-26 — [House 118-2-293](votes/house-118-2-0293.md) — On Agreeing to the Amendment — **Failed** (193–216)
+- 2024-06-26 — [House 118-2-294](votes/house-118-2-0294.md) — On Agreeing to the Amendment — **Agreed to** (235–176)
+- 2024-06-26 — [House 118-2-295](votes/house-118-2-0295.md) — On Agreeing to the Amendment — **Failed** (190–222)
+- 2024-06-26 — [House 118-2-296](votes/house-118-2-0296.md) — On Agreeing to the Amendment — **Failed** (191–222)
+- 2024-06-28 — [House 118-2-332](votes/house-118-2-0332.md) — On Motion to Recommit — **Failed** (201–213)
+- 2024-06-28 — [House 118-2-333](votes/house-118-2-0333.md) — On Passage — **Passed** (212–203)
+
 ## Actions
 
 - 2024-06-14 — Introduced in House
@@ -27,3 +44,222 @@ Department of Homeland Security Appropriations Act, 2025
 - 2024-06-14 — Placed on the Union Calendar, Calendar No. 456.
 - 2024-06-14 — The House Committee on Appropriations reported an original measure, H. Rept. 118-553, by Mr. Amodei.
 - 2024-06-14 — The House Committee on Appropriations reported an original measure, H. Rept. 118-553, by Mr. Amodei.
+- 2024-06-25 — Rules Committee Resolution H. Res. 1316 Reported to House. Rule provides for consideration of H.R. 8774, H.R. 8771 and H.R. 8752. The resolution provides for consideration of H.R. 8774, H.R. 8771, and H.R. 8752, all under a structured rule. The resolution provides for one hour of general debate and one motion to recommit for each bill.
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — 
+- 2024-06-26 — Amendment (A002) offered by Mr. Armstrong. (consideration: CR H4183-4184; text: CR H4183)
+- 2024-06-26 — Amendment (A003) offered by Mr. Biggs. (consideration: CR H4184-4185, H4208-4209; text: CR H4184)
+- 2024-06-26 — Amendment (A004) offered by Mr. Biggs. (consideration: CR H4185-4186; text: CR H4185)
+- 2024-06-26 — Amendment (A005) offered by Mrs. Cammack. (consideration: CR H4186-4187; text: CR H4186)
+- 2024-06-26 — Amendment (A006) offered by Mr. Clyde. (consideration: CR H4188-4189, H4209; text: CR H4188)
+- 2024-06-26 — Amendment (A007) offered by Mr. Feenstra. (consideration: CR H4189; text: CR H4189)
+- 2024-06-26 — Amendment (A008) offered by Mr. Garcia, Robert. (consideration: CR H4189-4191; text: CR H4189)
+- 2024-06-26 — Amendment (A009) offered by Ms. Greene (GA). (consideration: CR H4191, H4209-4210; text: CR H4191)
+- 2024-06-26 — Amendment (A010) offered by Ms. Greene (GA). (consideration: CR H4191-4192; text: CR H4191-4192)
+- 2024-06-26 — Amendment (A011) offered by Mr. Grothman. (consideration: CR H4192-4193, H4210-4211; text: CR H4192)
+- 2024-06-26 — Amendment (A012) offered by Mr. McCormick. (consideration: CR H4193-4194; text: CR H4193)
+- 2024-06-26 — Amendment (A013) offered by Mr. Molinaro. (consideration: CR H4194-4195; text: CR H4194)
+- 2024-06-26 — Amendment (A014) offered by Mr. Moore (AL). (consideration: CR H4195; text: CR H4195)
+- 2024-06-26 — Amendment (A015) offered by Mr. Mullin. (consideration: CR H4195-4196; text: CR H4195)
+- 2024-06-26 — Amendment (A016) offered by Mr. Norman. (consideration: CR H4196-4197; text: CR H4196)
+- 2024-06-26 — Amendment (A017) offered by Mr. Norman. (consideration: CR H4197-4198; text: CR H4197)
+- 2024-06-26 — Amendment (A018) offered by Mr. Ogles. (consideration: CR H4198; text: CR H4198)
+- 2024-06-26 — Amendment (A019) offered by Mr. Ogles. (consideration: CR H4198-4199, H4211; text: CR H4198)
+- 2024-06-26 — Amendment (A020) offered by Mr. Ogles. (consideration: CR H4199; text: CR H4199)
+- 2024-06-26 — Amendment (A021) offered by Mr. Ogles. (consideration: CR H4199-4200, H4211-4213; text: CR H4199)
+- 2024-06-26 — Amendment (A022) offered by Mr. Ogles. (consideration: CR H4200-4201; text: CR H4200)
+- 2024-06-26 — Amendment (A023) offered by Mr. Gottheimer. (consideration: CR H4201-4202; text: CR H4201)
+- 2024-06-26 — Amendment (A024) offered by Mr. Roy. (consideration: CR H4202; text: CR H4202)
+- 2024-06-26 — Amendment (A025) offered by Mr. Rosendale. (consideration: CR H4202-4203, H4213-4214; text: CR H4202)
+- 2024-06-26 — Amendment (A026) offered by Mr. Roy. (consideration: CR H4203-4204, H4214; text: CR H4203)
+- 2024-06-26 — Amendment (A027) offered by Mr. Roy. (consideration: CR H4204-4205; text: CR H4204)
+- 2024-06-26 — Amendment (A028) offered by Mr. Amodei. (consideration: CR H4205; text: CR H4205)
+- 2024-06-26 — Amendment (A029) offered by Mr. Steube. (consideration: CR H4205-4206, H4214-4215; text: CR H4205)
+- 2024-06-26 — Amendment (A030) offered by Mr. Tiffany. (consideration: CR H4206-4207, H4215-4216; text: CR H4206)
+- 2024-06-26 — Amendment (A031) offered by Mr. Tiffany. (consideration: CR H4207, H4216; text: CR H4207)
+- 2024-06-26 — Amendments en bloc (A001) offered by Mr. Amodei. (consideration: CR H4182-4183; text: CR H4182-4183)
+- 2024-06-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 8752 as unfinished business.
+- 2024-06-26 — Considered as unfinished business. (consideration: CR H4208-4216)
+- 2024-06-26 — Considered under the provisions of rule H. Res. 1316. (consideration: CR H4167-4208; text of amendment in the nature of a substitute: CR H4171-4182)
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Amodei amendment No. 56.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 4.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 5.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Cammack amendment No. 9.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Clyde amendment No. 11.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Feenstra amendment No. 12.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Gottheimer amendment No. 48.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 18.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 19.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 20.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 29.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Molinaro amendment No. 30.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (AL) amendment No. 32.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 37.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 38.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 39.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 42.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 43.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 44.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 45.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 46.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Robert Garcia (CA) amendment No. 14.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Rosendale amendment No. 53.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 50.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 54.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Roy amendment No. 55.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 57.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 58.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H. Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 59.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H.Res. 1316, the Committee of Whole proceeded with 20 minutes of debate on the Amodei en bloc amendment.
+- 2024-06-26 — DEBATE - Pursuant to the provisions of H.Res. 1316, the Committee of the Whole proceeded with 10 minutes of debate on the Armstrong amendment No. 1.
+- 2024-06-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8752.
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House Amendment Offered
+- 2024-06-26 — House amendment agreed to: On agreeing to the Amodei amendment (A028) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Amodei amendments (A001) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Armstrong amendment (A002) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Biggs amendment (A003) Agreed to by recorded vote: 193 - 173 (Roll no. 285).
+- 2024-06-26 — House amendment agreed to: On agreeing to the Biggs amendment (A004) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Cammack amendment (A005) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Feenstra amendment (A007) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Gottheimer amendment (A023) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Greene (GA) amendment (A010) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the McCormick amendment (A012) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Molinaro amendment (A013) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Moore (AL) amendment (A014) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Mullin amendment (A015) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Norman amendment (A016) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Norman amendment (A017) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Ogles amendment (A018) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Ogles amendment (A019) Agreed to by recorded vote: 207 - 206 (Roll no. 289).
+- 2024-06-26 — House amendment agreed to: On agreeing to the Ogles amendment (A020) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Ogles amendment (A021) Agreed to by recorded vote: 204 - 203 (Roll no. 291).
+- 2024-06-26 — House amendment agreed to: On agreeing to the Ogles amendment (A022) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Roy amendment (A024) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Roy amendment (A027) Agreed to by voice vote.
+- 2024-06-26 — House amendment agreed to: On agreeing to the Steube amendment (A029) Agreed to by recorded vote: 235 - 176 (Roll no. 294).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Clyde amendment (A006) Failed by recorded vote: 94 - 302 (Roll no. 286).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Garcia, Robert amendment (A008) Failed by voice vote.
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A009) Failed by recorded vote: 200 - 208, 1 Present (Roll no. 287).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Grothman amendment (A011) Failed by recorded vote: 193 - 218 (Roll no. 288).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Ogles amendment (A021) Failed by recorded vote: 206 - 208 (Roll no. 290).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Rosendale amendment (A025) Failed by recorded vote: 189 - 222 (Roll no. 292).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Roy amendment (A026) Failed by recorded vote: 193 - 216 (Roll no. 293).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Tiffany amendment (A030) Failed by recorded vote: 190 - 222 (Roll no. 295).
+- 2024-06-26 — House amendment not agreed to: On agreeing to the Tiffany amendment (A031) Failed by recorded vote: 191 - 222 (Roll no. 296).
+- 2024-06-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1316 and Rule XVIII.
+- 2024-06-26 — Mr. Amodei moved that the committee rise.
+- 2024-06-26 — On agreeing to the Amodei amendment (A028) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Amodei amendments (A001) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Armstrong amendment (A002) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Biggs amendment (A003) Agreed to by recorded vote: 193 - 173 (Roll no. 285).
+- 2024-06-26 — On agreeing to the Biggs amendment (A004) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Cammack amendment (A005) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Clyde amendment (A006) Failed by recorded vote: 94 - 302 (Roll no. 286).
+- 2024-06-26 — On agreeing to the Feenstra amendment (A007) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Garcia, Robert amendment (A008) Failed by voice vote.
+- 2024-06-26 — On agreeing to the Gottheimer amendment (A023) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Greene (GA) amendment (A009) Failed by recorded vote: 200 - 208, 1 Present (Roll no. 287).
+- 2024-06-26 — On agreeing to the Greene (GA) amendment (A010) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Grothman amendment (A011) Failed by recorded vote: 193 - 218 (Roll no. 288).
+- 2024-06-26 — On agreeing to the McCormick amendment (A012) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Molinaro amendment (A013) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Moore (AL) amendment (A014) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Mullin amendment (A015) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Norman amendment (A016) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Norman amendment (A017) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Ogles amendment (A018) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Ogles amendment (A019) Agreed to by recorded vote: 207 - 206 (Roll no. 289).
+- 2024-06-26 — On agreeing to the Ogles amendment (A020) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Ogles amendment (A021) Agreed to by recorded vote: 204 - 203 (Roll no. 291).
+- 2024-06-26 — On agreeing to the Ogles amendment (A021) Failed by recorded vote: 206 - 208 (Roll no. 290).
+- 2024-06-26 — On agreeing to the Ogles amendment (A022) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Rosendale amendment (A025) Failed by recorded vote: 189 - 222 (Roll no. 292).
+- 2024-06-26 — On agreeing to the Roy amendment (A024) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Roy amendment (A026) Failed by recorded vote: 193 - 216 (Roll no. 293).
+- 2024-06-26 — On agreeing to the Roy amendment (A027) Agreed to by voice vote.
+- 2024-06-26 — On agreeing to the Steube amendment (A029) Agreed to by recorded vote: 235 - 176 (Roll no. 294).
+- 2024-06-26 — On agreeing to the Tiffany amendment (A030) Failed by recorded vote: 190 - 222 (Roll no. 295).
+- 2024-06-26 — On agreeing to the Tiffany amendment (A031) Failed by recorded vote: 191 - 222 (Roll no. 296).
+- 2024-06-26 — On motion that the committee rise Agreed to by voice vote.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment No. 4, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clyde amendment No. 11, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 43, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 45, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Underwood demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosendale amendment No. 53, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Underwood demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roy amendment No. 54, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Underwood demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steube amendment No. 57, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Underwood demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tiffany amendment No. 58, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Underwood demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tiffany amendment No. 59, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Underwood demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-06-26 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 8752 would be postponed.
+- 2024-06-26 — Pursuant to clause 6(h) of rule XVIII, the Committee of the Whole resumed its sitting.
+- 2024-06-26 — Pursuant to clause 6(h) of rule XVIII, the Committee rose.
+- 2024-06-26 — Pursuant to clause 6(h) of rule XVIII, the votes of the Delegates and Resident Commissioner were decisive on the previous vote and a separate vote in the House was required.
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Roll call votes on amendments in House
+- 2024-06-26 — Rule H. Res. 1316 passed House.
+- 2024-06-26 — Rule provides for consideration of H.R. 8774, H.R. 8771 and H.R. 8752. The resolution provides for consideration of H.R. 8774, H.R. 8771, and H.R. 8752, all under a structured rule. The resolution provides for one hour of general debate and one motion to recommit for each bill.
+- 2024-06-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-06-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8752.
+- 2024-06-26 — The Speaker designated the Honorable Mariannette Miller-Meeks to act as Chairwoman of the Committee.
+- 2024-06-28 — Considered as unfinished business. (consideration: CR H4423-4424)
+- 2024-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-06-28 — Mr. Magaziner moved to recommit to the Committee on Appropriations. (text: CR H4423)
+- 2024-06-28 — On motion to recommit Failed by the Yeas and Nays: 201 - 213 (Roll no. 332).
+- 2024-06-28 — On passage Passed by the Yeas and Nays: 212 - 203 (Roll no. 333).
+- 2024-06-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 212 - 203 (Roll no. 333).
+- 2024-06-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8752.
+- 2024-06-28 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-06-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-06-28 — The previous question was ordered pursuant to the rule.
