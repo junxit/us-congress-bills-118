@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5567
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5567
@@ -16,7 +16,7 @@ CLASS Act
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Case, Ed [D-HI-1] (C001055)
@@ -30,6 +30,9 @@ CLASS Act
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
 
 ## Committees (1)
 
@@ -40,3 +43,8 @@ CLASS Act
 - 2023-09-19 — Introduced in House
 - 2023-09-19 — Introduced in House
 - 2023-09-19 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 16.
+- 2024-07-05 — Placed on the Union Calendar, Calendar No. 473.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-572.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-572.
