@@ -1,7 +1,7 @@
 ---
 measure: H.R. 618
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of paragraphs (18) and (19); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (20) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or other eligible provider” after “physician” in each instance; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or other eligible provider” after “physician” each place it appears; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3), by inserting “or other eligible providers” after “physicians”; | the bill names no machine-readable US Code section |
 | — | insert | in section 8121(6), by inserting “or other eligible provider” after “physician”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or other eligible provider” after “The employee may have a physician”; and | the bill names no machine-readable US Code section |

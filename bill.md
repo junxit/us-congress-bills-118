@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 618
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,10 +24,10 @@ This Act may be cited as the “Improving Access to Workers’ Compensation for 
 
 - **(b)** *Conforming amendments* Chapter 81 of title 5, United States Code, is amended—
   - **(1)** in section 8103(a)—
-    - **(A)** by inserting “or other eligible provider” after “physician” in each instance; and
+    - **(A)** by inserting “or other eligible provider” after “physician” each place it appears; and
     - **(B)** in paragraph (3), by inserting “or other eligible providers” after “physicians”;
   - **(2)** in section 8121(6), by inserting “or other eligible provider” after “physician”; and
   - **(3)** in section 8123(a)—
     - **(A)** by inserting “or other eligible provider” after “The employee may have a physician”; and
     - **(B)** by inserting “or other eligible provider” after “United States and the physician”.
-- **(c)** *Regulations* Not later than 6 months after the date of enactment of this Act, the Secretary shall finalize rules to carry out the amendments made by this Act.
+- **(c)** *Regulations* Not later than 6 months after the date of enactment of this Act, the Secretary of Labor shall finalize rules to carry out the amendments made by this Act.
