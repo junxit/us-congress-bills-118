@@ -19,9 +19,9 @@ This Act may be cited as the “Transparency in Reporting of Adversarial Contrib
   > ## § 8549D. Parents’ right to know about foreign influence
   >
   > - **(a)** *In general* As a condition of receiving funds under this Act, a local educational agency shall ensure that each elementary school and each secondary school served by such agency provides to each parent of a child attending the school, at a minimum—
-  >   - **(1)** the right (in a manner consistent with copyright law) to review, and make copies of free of cost, at least every four weeks, any curricular material or professional development material used at the school that was purchased, or otherwise obtained, using funds received from the government of a foreign country or a foreign entity of concern;
-  >   - **(2)** the right to know how many personnel of the school are compensated, in whole or in part, using funds received from the government of a foreign country or a foreign entity of concern; and
-  >   - **(3)** the right to know of—
+  >   - **(1)** the right (in a manner consistent with copyright law) to review, and make copies of free of cost, at least every four weeks and not later than 30 days after submission of a written request by the parent, any curricular material or professional development material used at the school that was purchased, or otherwise obtained, using funds received from the government of a foreign country or a foreign entity of concern;
+  >   - **(2)** the right to know, by written response provided not later than 30 days after submission of a written request by the parent, how many personnel of the school are compensated, in whole or in part, using funds received from the government of a foreign country or a foreign entity of concern; and
+  >   - **(3)** the right to know, by written response provided not later than 30 days after submission of a written request by the parent, of—
   >     - **(A)** any donation received by the school or local educational agency from a foreign country or a foreign entity of concern;
   >     - **(B)** any agreement in writing (such as a contract or memorandum of understanding) between the school or local educational agency and a foreign country or a foreign entity of concern; and
   >     - **(C)** any financial transaction between the school or local educational agency and a foreign country or a foreign entity of concern.
@@ -33,7 +33,7 @@ This Act may be cited as the “Transparency in Reporting of Adversarial Contrib
   > - **(c)** *Notice of rights* At the beginning of each school year, a local educational agency receiving funds under this Act shall ensure that each elementary school and each secondary school served by such agency posts on a publicly accessible website of the school or, if the school does not operate a website, widely disseminates to the public, a summary notice of the rights of parents described in subsections (a) and (b).
   > - **(d)** *Notification of requirements* At the beginning of each school year, the Secretary shall notify State educational agencies about the requirements of this section. As a condition of receiving funds under this Act, State educational agencies shall, at the beginning of each school year, notify local educational agencies of the requirements of this section.
   > - **(e)** *Definitions* In this section:
-  >   - **(1)** The term ‘foreign country’ means a foreign country or a dependent territory or possession of a foreign country. Such term does not include any of the outlying areas.
+  >   - **(1)** The term “foreign country” means a foreign country or a dependent territory or possession of a foreign country. Such term does not include any of the outlying areas.
   >   - **(2)** The term “foreign entity of concern” has the meaning given such term in section 10612(a) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19221(a)).
 
 - **(b)** *Table of contents* The table of contents in section 2 of the Elementary and Secondary Education Act of 1965 is amended by inserting after the item relating to section 8549C the following:

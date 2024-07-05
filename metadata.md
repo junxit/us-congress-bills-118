@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8649
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8649
@@ -25,3 +25,8 @@ Transparency in Reporting of Adversarial Contributions to Education Act
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 16.
+- 2024-07-05 — Placed on the Union Calendar, Calendar No. 476.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-575.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-575.
