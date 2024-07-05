@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6816
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6816
@@ -16,7 +16,7 @@ PROTECT Our Kids Act
 
 - Rep. Hern, Kevin [R-OK-1] (H001082)
 
-## Cosponsors (28)
+## Cosponsors (37)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Walberg, Tim [R-MI-5] (W000798)
@@ -46,6 +46,15 @@ PROTECT Our Kids Act
 - Rep. Scott, Austin [R-GA-8] (S001189)
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. McCormick, Richard [R-GA-6] (M001218)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
 
 ## Committees (1)
 
@@ -56,3 +65,8 @@ PROTECT Our Kids Act
 - 2023-12-14 — Introduced in House
 - 2023-12-14 — Introduced in House
 - 2023-12-14 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 15.
+- 2024-07-05 — Placed on the Union Calendar, Calendar No. 475.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-574.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-574.
