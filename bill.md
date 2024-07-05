@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting Student Athletes’ Economic Freedom Act”.
+This Act may be cited as the “Protecting Student Athletes’ Economic Freedom Act of 2024”.
 
 ## § 2. Employment standings
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8534
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8534
@@ -38,3 +38,8 @@ Protecting Student Athletes’ Economic Freedom Act of 2024
 - 2024-05-23 — Introduced in House
 - 2024-05-23 — Introduced in House
 - 2024-05-23 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 16.
+- 2024-07-05 — Placed on the Union Calendar, Calendar No. 474.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-573.
+- 2024-07-05 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-573.
