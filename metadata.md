@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2789
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2789
@@ -20,9 +20,10 @@ American Cooperation with Our Neighbors Act
 
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ American Cooperation with Our Neighbors Act
 - 2024-06-25 — Mr. McCormick moved to suspend the rules and pass the bill, as amended.
 - 2024-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 19 (Roll no. 282). (text: CR H4136)
 - 2024-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 19 (Roll no. 282). (text: CR H4136)
+- 2024-07-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
