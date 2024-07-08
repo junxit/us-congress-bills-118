@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6062
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6062
@@ -38,3 +38,9 @@ To restore the ability of the people of American Samoa to approve amendments to 
 - 2024-06-27 — Placed on the Union Calendar, Calendar No. 466.
 - 2024-06-27 — Reported by the Committee on Natural Resources. H. Rept. 118-564.
 - 2024-06-27 — Reported by the Committee on Natural Resources. H. Rept. 118-564.
+- 2024-07-08 — Considered under suspension of the rules. (consideration: CR H4467-4468)
+- 2024-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6062.
+- 2024-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-07-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4468)
+- 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4468)
