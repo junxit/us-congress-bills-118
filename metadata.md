@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4132
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4132
@@ -37,10 +37,11 @@ Falun Gong Protection Act
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Falun Gong Protection Act
 - 2024-06-25 — Mr. McCormick moved to suspend the rules and pass the bill, as amended.
 - 2024-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4134)
 - 2024-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4134)
+- 2024-07-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
