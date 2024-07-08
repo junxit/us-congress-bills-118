@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6586
@@ -24,9 +24,10 @@ To require a strategy to oppose financial or material support by foreign countri
 - Rep. Baird, James R. [R-IN-4] (B001307)
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To require a strategy to oppose financial or material support by foreign countri
 - 2024-06-25 — Mr. McCormick moved to suspend the rules and pass the bill, as amended.
 - 2024-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4129)
 - 2024-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4129)
+- 2024-07-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
