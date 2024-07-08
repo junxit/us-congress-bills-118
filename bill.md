@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6493
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Promoting Free and Fair Elections Act of 2023”.
+This Act may be cited as the “Promoting Free and Fair Elections Act of 2023”“Safeguarding Electoral Integrity Act of 2023”.
 
 ## § 2. Federal agency involvement in voter registration activities
 
