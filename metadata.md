@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7152
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7152
@@ -29,9 +29,10 @@ Korean American Divided Families National Registry Act
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Lee, Barbara [D-CA-12] (L000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Korean American Divided Families National Registry Act
 - 2024-06-25 — Mr. McCormick moved to suspend the rules and pass the bill, as amended.
 - 2024-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 8 (Roll no. 281). (text: CR H4130-4131)
 - 2024-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 8 (Roll no. 281). (text: CR H4130-4131)
+- 2024-07-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
