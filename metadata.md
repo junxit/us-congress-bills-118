@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 897
@@ -29,6 +29,10 @@ Alabama Underwater Forest National Marine Sanctuary and Protection Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-07-08 — [House 118-2-336](votes/house-118-2-0336.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (349–19)
+
 ## Actions
 
 - 2023-02-09 — Introduced in House
@@ -42,3 +46,11 @@ Alabama Underwater Forest National Marine Sanctuary and Protection Act
 - 2024-06-27 — Placed on the Union Calendar, Calendar No. 462.
 - 2024-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-560.
 - 2024-06-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-560.
+- 2024-07-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-07-08 — Considered as unfinished business. (consideration: CR H4470-4471)
+- 2024-07-08 — Considered under suspension of the rules. (consideration: CR H4463-4464)
+- 2024-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 897.
+- 2024-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 19 (Roll no. 336). (text: CR H4463)
+- 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 19 (Roll no. 336). (text: CR H4463)
