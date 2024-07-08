@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8070
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8070
@@ -472,3 +472,4 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-06-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8070.
 - 2024-06-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX. (text: CR H4095)
 - 2024-06-14 — The previous question was ordered pursuant to the rule.
+- 2024-07-08 — Received in the Senate.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8070
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,037 amendatory instructions. 98 executed, 939 stated and not applied.
+1,037 amendatory instructions. 108 executed, 929 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -843,6 +843,78 @@ to guess them.
 | Removed | `If` |
 | Inserted | `(a) In general.—Subject to subsection (b), if` |
 
+### 26 U.S.C. § 2391
+
+> in paragraph (1)(A), by striking “State and local governments” and inserting “State governments, local governments, and not-for-profit, member-owned utility services”; and
+
+| | |
+|---|---|
+| Removed | `State and local governments` |
+| Inserted | `State governments, local governments, and not-for-profit, member-owned utility services` |
+
+### 26 U.S.C. § 2391
+
+> in subparagraph (A), by striking “the State or local government agree” and inserting “the recipient of such assistance agrees”; and
+
+| | |
+|---|---|
+| Removed | `the State or local government agree` |
+| Inserted | `the recipient of such assistance agrees` |
+
+### 26 U.S.C. § 2391
+
+> in the matter preceding clause (i), by striking “in a rural area or the Secretary of Defense” and inserting “in a rural area or a covered insular area, or if the Secretary of Defense”;
+
+| | |
+|---|---|
+| Removed | `in a rural area or the Secretary of Defense` |
+| Inserted | `in a rural area or a covered insular area, or if the Secretary of Defense` |
+
+### 26 U.S.C. § 2391
+
+> in clause (i), by striking “a State or local government” and inserting “the recipient of assistance under this subsection”; and
+
+| | |
+|---|---|
+| Removed | `a State or local government` |
+| Inserted | `the recipient of assistance under this subsection` |
+
+### 26 U.S.C. § 2391
+
+> in clause (ii), by striking “a State or local government contribution” and inserting “the contribution of such recipient”.
+
+| | |
+|---|---|
+| Removed | `a State or local government contribution` |
+| Inserted | `the contribution of such recipient` |
+
+### 26 U.S.C. § 2391
+
+> Section 2391(d)(1)(B)(iii) of such title is amended by striking “section 101(e)(8) of this title” and inserting “section 101 of this title”.
+
+| | |
+|---|---|
+| Removed | `section 101(e)(8) of this title` |
+| Inserted | `section 101 of this title` |
+
+### 26 U.S.C. § 2684a
+
+> by striking “In the case of” and inserting “(1) In the case of”;
+
+| | |
+|---|---|
+| Removed | `In the case of` |
+| Inserted | `(1) In the case of` |
+
+### 26 U.S.C. § 2684a
+
+> by striking “section 2391(d),” and inserting “section 2391, 2684,”; and
+
+| | |
+|---|---|
+| Removed | `section 2391(d),` |
+| Inserted | `section 2391, 2684,` |
+
 ### 10 U.S.C. § 2821
 
 > Section 3001(a)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2821 note) is amended by striking “military housing provided” and inserting “military housing that is not Government-owned that is provided”.
@@ -905,6 +977,24 @@ to guess them.
 |---|---|
 | Removed | `If on July 1 each year beginning in 2025 and continuing for as long as the MOX facility is in use, less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility` |
 | Inserted | `If less than 34 metric tons of defense plutonium or defense plutonium materials have been processed by the MOX facility by October 1, 2026` |
+
+### 26 U.S.C. § 53411
+
+> Section 53404(a) of title 46, United States Code, is amended by striking “2035” and inserting “2040”.
+
+| | |
+|---|---|
+| Removed | `2035` |
+| Inserted | `2040` |
+
+### 26 U.S.C. § 53411
+
+> Section 53411 of such title is amended by striking “2035” and inserting “2040”.
+
+| | |
+|---|---|
+| Removed | `2035` |
+| Inserted | `2040` |
 
 ## Stated, not applied
 
@@ -1620,7 +1710,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsections (d) and (e), as so redesignated, by striking “subsection (f)” each place it appears and inserting “subsection (g)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g) as so redesignated, by striking “subsections (c)(1) and (d)” and inserting “subsections (c)(1), (d)(1), and (e)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 70912(5)(C) of the Infrastructure Investment and Jobs Act (Public Law 117–58) is amended by inserting “(except naval vessels which are oceanographic research vessels operated by academic institutions)” after “facilities”. | the bill names no machine-readable US Code section |
-| — | insert | Chapter 19 of title 10, United States Code, is amended by inserting before section 399 the following new section: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 3001` | insert | Chapter 19 of title 10, United States Code, is amended by inserting before section 399 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2224` | add-at-end | Section 1727 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 2224 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1601` | add-at-end | Section 2(c) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking the item relating to chapter 19 and inserting the following new item: | the bill names no machine-readable US Code section |
@@ -1748,8 +1838,8 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1791` | add-at-end | Section 589(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 1791 note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 226` | insert | Chapter 9 of title 10, United States Code, is amended by inserting after section 226 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 523(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(A)” before “The Secretary”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 1074d` | insert | by inserting “(A)” before “The Secretary”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1074d` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1599c(b) of title 10, United States Code, is amended by striking “December 31, 2025” both places it appears and inserting “December 31, 2030”. | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 1071` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Section 1784(h) of title 10, United States Code, is amended by striking paragraph (5). | the bill names no machine-readable US Code section |
@@ -1761,28 +1851,20 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (b)(5)(D) by adding at the end the following: “The Secretary of Defense shall coordinate with the Commandant of the Coast Guard before providing assistance under this paragraph for Coast Guard installations and facilities t… | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (e)(1) by adding at the end the following: “For purposes of paragraphs (1)(E) and (5)(D) of subsection (b), the term military installation includes Coast Guard installations and facilities”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1)(A), by striking “State and local governments” and inserting “State governments, local governments, and not-for-profit, member-owned utility services”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “the State or local government agree” and inserting “the recipient of such assistance agrees”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “in a rural area or the Secretary of Defense” and inserting “in a rural area or a covered insular area, or if the Secretary of Defense”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “a State or local government” and inserting “the recipient of assistance under this subsection”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “a State or local government contribution” and inserting “the contribution of such recipient”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (e) of such section is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 2391(d)(1)(B)(iii) of such title is amended by striking “section 101(e)(8) of this title” and inserting “section 101 of this title”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 2391` | add-at-end | Subsection (e) of such section is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (5), by striking “$150,000,000” and inserting “$300,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(B), by striking “$1,000,0000” and inserting “$4,000,0000”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2810 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, retention, and filtration” after “water-slowing”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “In the case of” and inserting “(1) In the case of”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 2391(d),” and inserting “section 2391, 2684,”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 2805` | add-at-end | Section 2810 of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 2684a` | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 2684a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | insert | by inserting “, retention, and filtration” after “water-slowing”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 2684a` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 2684a` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Subsection (a) of section 2810 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) is amended by striking “$15,000,000” and inserting “$20,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (4) of section 2856a(a) of title 10, United States Code, is amended by striking “9 months” and inserting “18 months”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “regarding housing units” and inserting “by a tenant regarding covered dwelling units”; | the bill names no machine-readable US Code section |
@@ -1831,15 +1913,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “$408,000,000” and inserting “$422,400,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2032, 2033, 2034, and 2035” and inserting “2031 and 2032”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 4321` | add-at-end | Section 54301(a)(5) of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | strike | in subparagraph (B) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 4321` | replace | in subparagraph (C) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 4321` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | add-at-end | Section 54301(a)(11) of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 54301` | add-at-end | Section 54301(a)(5) of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 54301` | strike | in subparagraph (B) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 54301` | replace | in subparagraph (C) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 54301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 54301` | add-at-end | Section 54301(a)(11) of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Subtitle V of title 46, United States Code, is amended by inserting after chapter 575 the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for subtitle V of title 46, United States Code, is amended by inserting after the item relating to chapter 575 the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 53404(a) of title 46, United States Code, is amended by striking “2035” and inserting “2040”. | the bill names no machine-readable US Code section |
-| — | replace | Section 53411 of such title is amended by striking “2035” and inserting “2040”. | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 1860` | add-at-end | Chapter 571 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1860` | add-at-end | The analysis for chapter 571 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 57100` | amend | Subsection (a) of section 3546 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 46 U.S.C. 57100 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
