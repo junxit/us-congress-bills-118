@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5443
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5443
@@ -32,9 +32,10 @@ AACE Act
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ AACE Act
 - 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4469)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4469)
+- 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
