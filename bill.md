@@ -1,0 +1,16 @@
+---
+legis-num: S. 4649
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4649
+
+> To amend the Mutual Security Act of 1954 by declaring that if all NATO countries consent to the accession of Ukraine to NATO membership, the United States will have grounds for withdrawing from the North Atlantic Treaty.
+
+## § 1. Grounds for immediate withdrawal of the United States from North Atlantic Treaty if all NATO countries consent to Ukraine beginning the NATO accession process
+
+Section 408 of the Mutual Security Act of 1954 (22 U.S.C. 1928) is amended by adding at the end the following:
+
+> - **(d)** *Grounds for immediate withdrawal* If the North Atlantic Treaty Organization provides unanimous consent for Ukraine to begin the accession process, such action shall be grounds for the immediate withdrawal by the United States from the North Atlantic Treaty in accordance with Article 13 of the North Atlantic Treaty.
