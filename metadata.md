@@ -1,7 +1,7 @@
 ---
 measure: H.R. 897
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 897
@@ -25,9 +25,10 @@ Alabama Underwater Forest National Marine Sanctuary and Protection Act
 - Rep. Doggett, Lloyd [D-TX-37] (D000399)
 - Rep. Jackson, Jeff [D-NC-14] (J000308)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Alabama Underwater Forest National Marine Sanctuary and Protection Act
 - 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 19 (Roll no. 336). (text: CR H4463)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 19 (Roll no. 336). (text: CR H4463)
+- 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
