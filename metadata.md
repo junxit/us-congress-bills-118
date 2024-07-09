@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5770
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5770
@@ -21,9 +21,10 @@ Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act
 - 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4466)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4466)
+- 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
