@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6062
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6062
@@ -21,9 +21,10 @@ To restore the ability of the people of American Samoa to approve amendments to 
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To restore the ability of the people of American Samoa to approve amendments to 
 - 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-07-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4468)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4468)
+- 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
