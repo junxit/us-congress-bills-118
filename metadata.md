@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5770
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5770
@@ -46,3 +46,15 @@ Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act
 - 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4466)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4466)
 - 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-09-11 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7133)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-12-23 — Became Public Law No: 118-174.
+- 2024-12-23 — Became Public Law No: 118-174.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
