@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1341
 congress: 118
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1341
