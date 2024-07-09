@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5441
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5441
@@ -26,10 +26,11 @@ Long Island Sound Restoration and Stewardship Reauthorization Act of 2023
 - Rep. Himes, James A. [D-CT-4] (H001047)
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Long Island Sound Restoration and Stewardship Reauthorization Act of 2023
 - 2024-07-08 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-07-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 333 - 51 (Roll no. 337). (text: CR H4464)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 333 - 51 (Roll no. 337). (text: CR H4464)
+- 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
