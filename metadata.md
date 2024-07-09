@@ -1,7 +1,7 @@
 ---
 measure: S. 3448
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3448
@@ -31,3 +31,7 @@ Never Again Education Reauthorization Act of 2023
 
 - 2023-12-07 — Introduced in Senate
 - 2023-12-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-07-09 — Passed Senate without amendment by Unanimous Consent.
+- 2024-07-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2024-07-09 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
