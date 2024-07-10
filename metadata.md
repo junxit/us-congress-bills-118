@@ -1,7 +1,7 @@
 ---
 measure: S. 912
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 912
@@ -16,7 +16,7 @@ Mining Schools Act of 2023
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
@@ -31,6 +31,8 @@ Mining Schools Act of 2023
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Romney, Mitt [R-UT] (R000615)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
 
 ## Committees (1)
 
@@ -45,3 +47,5 @@ Mining Schools Act of 2023
 - 2023-12-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-139.
 - 2023-12-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-139.
 - 2023-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
+- 2024-07-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S4337-4338; text: CR S4337-4338)
+- 2024-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S4337-4338; text: CR S4337-4338)
