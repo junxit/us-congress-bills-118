@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8281
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8281
@@ -127,6 +127,11 @@ SAVE Act
 
 - House — Committee on House Administration
 
+## Recorded votes (2)
+
+- 2024-07-10 — [House 118-2-344](votes/house-118-2-0344.md) — On Motion to Recommit — **Failed** (184–197)
+- 2024-07-10 — [House 118-2-345](votes/house-118-2-0345.md) — On Passage — **Passed** (221–198)
+
 ## Actions
 
 - 2024-05-07 — Introduced in House
@@ -137,3 +142,22 @@ SAVE Act
 - 2024-06-14 — Placed on the Union Calendar, Calendar No. 455.
 - 2024-06-14 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-552.
 - 2024-06-14 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-552.
+- 2024-07-09 — Rules Committee Resolution H. Res. 1341 Reported to House. Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-07-10 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-07-10 — Considered as unfinished business. (consideration: CR H4567-4568)
+- 2024-07-10 — Considered as unfinished business. (consideration: CR H4569)
+- 2024-07-10 — Considered under the provisions of rule H. Res. 1341. (consideration: CR H4556-4567)
+- 2024-07-10 — DEBATE - The House proceeded with one hour of debate on H.R. 8281.
+- 2024-07-10 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-07-10 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-10 — Ms. Sewell moved to recommit to the Committee on House Administration. (text: CR H4566)
+- 2024-07-10 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-07-10 — On motion to recommit Failed by the Yeas and Nays: 184 - 197 (Roll no. 344).
+- 2024-07-10 — On passage Passed by recorded vote: 221 - 198 (Roll no. 345). (text of amendment in the nature of a substitute: CR H4556-4559)
+- 2024-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8281, the Chair put the question on the motion to recommit and by voice vote, announced that the ayes had prevailed. Mr. Steil demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-10 — POSTPONED PROCEEDINGS - The Chair put the question on passage of H.R. 8281 and by voice vote, announced that the ayes had prevailed. Ms. Lee (FL) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-10 — Passed/agreed to in House: On passage Passed by recorded vote: 221 - 198 (Roll no. 345). (text of amendment in the nature of a substitute: CR H4556-4559)
+- 2024-07-10 — Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-07-10 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-07-10 — The previous question was ordered pursuant to the rule.
