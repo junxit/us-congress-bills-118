@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7637
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7637
@@ -16,9 +16,10 @@ Refrigerator Freedom Act
 
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -50,3 +51,4 @@ Refrigerator Freedom Act
 - 2024-07-09 — Rules Committee Resolution H. Res. 1341 Reported to House. Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-07-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-07-09 — The previous question was ordered pursuant to the rule.
+- 2024-07-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
