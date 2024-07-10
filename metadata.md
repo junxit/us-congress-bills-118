@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 746
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 746
@@ -28,3 +28,7 @@ A resolution commemorating the passage of 3 years since the tragic building coll
 
 - 2024-06-20 — Introduced in Senate
 - 2024-06-20 — Referred to the Committee on the Judiciary.
+- 2024-07-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: S4334; text: 6/20/2024 CR S4185)
+- 2024-07-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: S4334; text: 6/20/2024 CR S4185)
+- 2024-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-07-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
