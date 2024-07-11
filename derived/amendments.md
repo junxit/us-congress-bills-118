@@ -1,7 +1,7 @@
 ---
 measure: S. 159
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
