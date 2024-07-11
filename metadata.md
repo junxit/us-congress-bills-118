@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 165
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 165
@@ -95,6 +95,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2024-07-11 — [House 118-2-354](votes/house-118-2-0354.md) — On Passage — **Passed** (210–205)
+
 ## Actions
 
 - 2024-06-05 — Introduced in House
@@ -105,3 +109,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-06-25 — Placed on the Union Calendar, Calendar No. 461.
 - 2024-06-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-558.
 - 2024-06-25 — Reported by the Committee on Education and the Workforce. H. Rept. 118-558.
+- 2024-07-09 — Rules Committee Resolution H. Res. 1341 Reported to House. Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-07-10 — Considered under the provisions of rule H. Res. 1341. (consideration: CR H4547-4556)
+- 2024-07-10 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 165.
+- 2024-07-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 165, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Ms. Bonamici demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-10 — Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-07-10 — The previous question was ordered pursuant to the rule.
+- 2024-07-11 — Considered as unfinished business. (consideration:  H4609-4610)
+- 2024-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-11 — On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 354). (text: 7/10/2024 CR H4547)
+- 2024-07-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 354). (text: 7/10/2024 CR H4547)
