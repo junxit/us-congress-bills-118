@@ -1,7 +1,7 @@
 ---
 measure: S. 4351
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4351
@@ -36,3 +36,18 @@ Poison Control Centers Reauthorization Act of 2024
 - 2024-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.
 - 2024-07-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5147-5148; text: CR S5147-5148)
 - 2024-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-07-12 — Message on Senate action sent to the House.
+- 2024-07-15 — Held at the desk.
+- 2024-07-15 — Received in the House.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5303-5304)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on S. 4351.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill.
+- 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5303)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5303)
+- 2024-09-24 — Presented to President.
+- 2024-09-24 — Presented to President.
+- 2024-09-26 — Became Public Law No: 118-86.
+- 2024-09-26 — Became Public Law No: 118-86.
+- 2024-09-26 — Signed by President.
+- 2024-09-26 — Signed by President.
