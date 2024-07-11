@@ -1,0 +1,52 @@
+---
+legis-num: S. 4704
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4704
+
+> To authorize shoreline erosion control projects to protect the infrastructure of military installations from shoreline erosion.
+
+## § 1. Short title
+
+This Act may be cited as the “Military Installation Shoreline Protection Act”.
+
+## § 2. Authority for shoreline erosion control projects to protect military installation infrastructure
+
+- **(a)** *In general* Section 2815a of title 10, United States Code is amended—
+  - **(1)** in the section heading, by striking “management” and inserting “management and shoreline erosion control”;
+  - **(2)** in subsection (a)—
+    - **(A)** in the matter preceding paragraph (1), by striking “carry out a stormwater management project on or related to a military installation for the purposes of” and inserting “, on or related to a military installation, carry out”; and
+    - **(B)** by striking paragraphs (1) and (2) and inserting the following:
+      > - **(1)** a stormwater management project for the purposes of—
+      >   - **(A)** improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting the military installation; and
+      >   - **(B)** protecting nearby waterways and stormwater-stressed ecosystems; or
+      > - **(2)** a shoreline erosion control project for the purpose of improving, protecting, or repairing shoreline to protect the infrastructure of a military installation from shoreline erosion.
+
+  - **(3)** in subsection (b), in the matter preceding paragraph (1), by striking “management” and inserting “management or shoreline erosion control”;
+  - **(4)** in subsection (c)—
+    - **(A)** by striking “stormwater management”;
+    - **(B)** by striking “proposals involving” and inserting “proposals—
+      > - **(1)** for stormwater management that involve
+
+    - **(C)** by striking the period and inserting “; and”; and
+    - **(D)** by adding at the end the following new paragraph:
+      > - **(2)** for shoreline erosion control that involve the improvement, protection, or repair of shoreline subject to wave action or stormwater runoff and water levels resulting from extreme weather conditions.
+
+  - **(5)** in subsection (d)—
+    - **(A)** in the matter preceding paragraph (1), by striking “stormwater management”;
+    - **(B)** in paragraph (1), by striking “measures” and inserting “measures to address storm water management”; and
+    - **(C)** by adding at the end the following new paragraph:
+      > - **(4)** The use of sheet piles, riprap, armor stone, sea walls, natural plantings, or any future technologies created to address shoreline erosion control.
+
+  - **(6)** in subsection (f)—
+    - **(A)** by striking “stormwater management” each place it appears; and
+    - **(B)** in paragraph (2)(B)—
+      - **(i)** in clause (i), by striking “; and” and inserting a semicolon;
+      - **(ii)** in clause (ii), by striking the period and inserting “; and”; and
+      - **(iii)** by adding at the end the following new clause:
+        > - **(iii)** improve, protect, or repair shoreline to protect infrastructure of a military installation from shoreline erosion.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of subchapter I of chapter 169 of such title is amended by striking the item relating to section 2815a and inserting the following new item:
