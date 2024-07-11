@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4848
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,4 +19,4 @@ This Act may be cited as the “Censorship Accountability Act”.
 - **(b)** *Exception* This section does not authorize a Federal employee to bring a suit against their Federal employer or the Federal Government for conduct that is within the scope of the employment relationship.
 - **(c)** *Attorney’s fees* In any action or proceeding to enforce this Act, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
 - **(d)** *Definition* In this section, the term “Federal employee” means an individual, other than the President or the Vice President, who occupies a position in any agency or instrumentality of the executive branch (including any independent agency).
-- **(e)** *Severability* If any provision of this Act or the application of a provision of this Act to any person or circumstance, is held to be unconstitutional, the remainder of this Act, and the application of the provisions to any person or circumstance, shall not be affected thereby.
+- **(e)** *Severability* If any provision of this Act or the application of a provision of this Act to any person or circumstance is held to be unconstitutional, the remainder of this Act, and the application of the provisions to any person or circumstance, shall not be affected thereby.
