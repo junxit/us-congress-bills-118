@@ -1,0 +1,27 @@
+---
+measure: H.R. 9022
+congress: 118
+version: Introduced in House
+---
+
+# H.R. 9022
+
+Military Moms Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+
+## Committees (1)
+
+- House — Armed Services Committee
+
+## Actions
+
+- 2024-07-11 — Introduced in House
+- 2024-07-11 — Introduced in House
+- 2024-07-11 — Referred to the House Committee on Armed Services.
