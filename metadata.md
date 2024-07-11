@@ -1,7 +1,7 @@
 ---
 measure: S. 4351
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4351
@@ -34,3 +34,5 @@ Poison Control Centers Reauthorization Act of 2024
 - 2024-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
 - 2024-06-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
 - 2024-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 428.
+- 2024-07-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5147-5148; text: CR S5147-5148)
+- 2024-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
