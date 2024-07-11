@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 9011
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9011
+
+> To amend the Ukraine Democracy Defense Lend-Lease Act of 2022 to extend and modify the lend-lease authority, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ukraine Democracy Defense Lend-Lease Act of 2024”.
+
+## § 2. Extension and modification to Ukraine lend-lease authority
+
+- **(a)** *Sense of Congress* It is the sense of Congress that the President shall utilize the authorities provided by the Ukraine Defense Democracy Lend-Lease Act where applicable but in such a manner that does not conflict or interfere with the drawdown authorities provided under section 506 of the Foreign Assistance Act (22 U.S.C. 2318).
+- **(b)** *Extension and modification* Section 2 of the Ukraine Democracy Defense Lend-Lease Act of 2022 (Public Law 117–118; 136 Stat. 1184) is amended—
+  - **(1)** in subsection (a)(1), by striking “fiscal years 2022 and 2023” and inserting “fiscal years 2022 through 2026”;
+  - **(2)** by redesignating subsection (c) as subsection (d); and
+  - **(3)** by inserting after subsection (b) the following new subsection:
+    > - **(c)** *Report* Not later than 90 days after the use of the authority under subsection (a), the Secretary of Defense shall submit to Congress a report that includes—
+    >   - **(1)** a description of the defense articles loaned or leased to the Government of Ukraine, or to the government of an Eastern European country impacted by the Russian Federation’s invasion of Ukraine, under such authority; and
+    >   - **(2)** a strategy and timeline for recovery and return of such defense articles.
