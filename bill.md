@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 9065
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9065
+
+> To amend the Internal Revenue Code of 1986 to include room air conditioners as qualified energy property for purposes of the energy efficient home improvement credit.
+
+## § 1. Room air conditioners as qualified energy property for purposes of the energy efficient home improvement credit
+
+- **(a)** *In general* Section 25C(d)(2) of the Internal Revenue Code of 1986 is amended by adding at the end the following new clause:
+  > - **(E)** Any room air conditioner that meets the Energy Star Most Efficient criteria.
+
+- **(b)** *Effective date* The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
