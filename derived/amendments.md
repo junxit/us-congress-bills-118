@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7156
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,11 +26,11 @@ to guess them.
 
 ### 22 U.S.C. § 262p-13
 
-> Section 7125(b) of division F of the National Defense Authorization Act for Fiscal Year 2020 (22 U.S.C. 262p–13 note; Public Law 116–92) is amended by striking “5” and inserting “10”.
+> Section 7125(b) of division F of the National Defense Authorization Act for Fiscal Year 2020 (22 U.S.C. 262p-13 note; Public Law 116–92) is amended by striking “6” and inserting “10”.
 
 | | |
 |---|---|
-| Removed | `5` |
+| Removed | `6` |
 | Inserted | `10` |
 
 ## Stated, not applied

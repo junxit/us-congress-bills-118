@@ -32,4 +32,4 @@ Section 310(d)(3)(A) of title 31, United States Code, is amended by striking “
 
 ## § 4. International financial institutions
 
-Section 7125(b) of division F of the National Defense Authorization Act for Fiscal Year 2020 (22 U.S.C. 262p–13 note; Public Law 116–92) is amended by striking “5” and inserting “10”.
+Section 7125(b) of division F of the National Defense Authorization Act for Fiscal Year 2020 (22 U.S.C. 262p-13 note; Public Law 116–92) is amended by striking “6” and inserting “10”.
