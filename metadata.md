@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8812
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8812
@@ -32,3 +32,8 @@ Water Resources Development Act of 2024
 - 2024-06-25 — Introduced in House
 - 2024-06-25 — Referred to the House Committee on Transportation and Infrastructure.
 - 2024-06-25 — Referred to the Subcommittee on Water Resources and Environment.
+- 2024-06-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 61 - 2.
+- 2024-06-26 — Subcommittee on Water Resources and Environment Discharged
+- 2024-07-18 — Placed on the Union Calendar, Calendar No. 487.
+- 2024-07-18 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-587.
+- 2024-07-18 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-587.
