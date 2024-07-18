@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 890
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Guidance Out Of Darkness Act” or the “GOOD Act”.
+This Act may be cited as the “Guidance Out Of Darkness Act of 2023” or the “GOOD Act of 2023”.
 
 ## § 2. Definitions
 
