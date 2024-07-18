@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6452
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Scam and Fraud Evasion Act of 2023” or the “VSAFE Act of 2023”.
+This Act may be cited as the “Veterans Scam and Fraud Evasion Act of 2024” or the “VSAFE Act of 2024”.
 
 ## § 2. Veterans Scam and Fraud Evasion Officer
 
@@ -28,11 +28,16 @@ This Act may be cited as the “Veterans Scam and Fraud Evasion Act of 2023” o
   >     - **(B)** enable advanced data analytics; and
   >     - **(C)** facilitate proactive and robust fraud and scam trend identification.
   >   - **(5)** Developing comprehensive training plans for Department employees fielding fraud and scam inquiries and reports.
-  >   - **(6)** Coordinate with other Federal departments and agencies, including the Executive Office of the President, the Office of Management and Budget, the Internal Revenue Service, the Department of Justice, the Department of State, the Consumer Financial Protection Bureau, the Department of Defense, the Department of Education, the Social Security Administration, and other relevant agencies to—
+  >   - **(6)** Coordinating with the Inspector General of the Department and other Federal departments and agencies, including the Executive Office of the President, the Office of Management and Budget, the Internal Revenue Service, the Department of Justice, the Department of State, the Consumer Financial Protection Bureau, the Department of Defense, the Department of Education, the Social Security Administration, and other relevant agencies to—
   >     - **(A)** create a whole-of-Government view within the Department with respect to the fraud prevention efforts at other Federal departments and agencies;
   >     - **(B)** identify the proper avenues for veterans to report fraud attempts and receive assistance; and
   >     - **(C)** identify opportunities for coordination with such departments and agencies.
-  >   - **(7)** Consulting with veterans service organizations and State and local governments, as necessary, to improve the understanding of fraud and scam risks within the Department.
+  >   - **(7)** Consulting with veterans service organizations and State, local, and tribal governments, as necessary, to improve the understanding of fraud and scam risks within the Department.
   > - **(c)** *Full-time employees* Nothing in this section authorizes an increase in the number of full-time employees otherwise authorized for the Department.
+  > - **(d)** *Rule of construction* Nothing in this section shall be construed to limit the authority of the Office of Inspector General of the Department as otherwise provided in this title or in chapter 4 of title 5 (commonly referred to as the Inspector General Act of 1978).
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
+
+## § 3. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.
