@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8648
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8648
@@ -25,3 +25,8 @@ Civil Rights Protection Act of 2024
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Referred to the House Committee on Education and the Workforce.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 15.
+- 2024-07-18 — Placed on the Union Calendar, Calendar No. 493.
+- 2024-07-18 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-593.
+- 2024-07-18 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-593.
