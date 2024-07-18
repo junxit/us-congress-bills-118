@@ -1,0 +1,26 @@
+---
+legis-num: H. RES. 1363
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1363
+
+> Honoring the life and legacy of Patrick Gottsch.
+
+## Preamble
+
+- Whereas Patrick Gottsch was born on June 3, 1953, in Elkhorn, Nebraska;
+- Whereas Patrick Gottsch grew up on a family farm raising corn, soybeans, and cattle;
+- Whereas Patrick Gottsch founded Rural Media Group, Inc., which is the parent company for RFD–TV, RURAL RADIO, The Cowboy Channel, and The Cowgirl Channel;
+- Whereas, in December 2000, Patrick Gottsch launched Rural Free Delivery Television (RFD–TV) on DISH Network, as the first 24-hour television network devoted to rural America, and features programming focused on the agribusiness, equine, and the rural lifestyle, along with traditional country music and entertainment, which has sparked a new generation of farmers and ranchers throughout rural America;
+- Whereas Patrick Gottsch expanded Rural Media Group, Inc., to include RURAL RADIO, The Cowboy Channel, and The Cowgirl Channel;
+- Whereas The Cowboy Channel is credited with revolutionizing western sports, providing rodeo with a media platform on par with traditional urban sports;
+- Whereas RFD–TV, The Cowboy Channel, and The Cowgirl Channel are broadcast to more than 40,000,000 homes worldwide;
+- Whereas RFD–TV has received many awards and has been deemed “Rural America’s Most Important Network”;
+- Whereas Patrick Gottsch is survived by his 3 daughters, Raquel, Gatsby, and Rose, and his wife, Angie;
+- Whereas, on May 18, 2024, Patrick Gottsch passed away, and is buried in his hometown of Elkhorn, Nebraska; and
+- Whereas this resolution honors the life of Patrick Gottsch, founder of Rural Media Group, Inc., who has educated and inspired decades of ranchers and farmers around rural America: Now, therefore, be it
+
+That the House of Representatives honors the life and legacy of Patrick Gottsch.
