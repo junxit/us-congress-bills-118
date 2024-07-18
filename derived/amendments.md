@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,27 +26,27 @@ to guess them.
 
 ### 38 U.S.C. § 5101
 
-> Section 504(c)(2) of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), as amended by paragraph (1) of subsection (a) of section 2002 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 5101 note), is further amended, subject to the sunset in paragraph (4) of such subsection, by striking “or psychologist” both places it appears and inserting “psychologist, podiatrist, dentist, or optometrist”.
+> in the matter preceding subparagraph (A), by striking “or psychologist” and inserting “psychologist, podiatrist, dentist, optometrist, or other health care professional specified in regulations prescribed by the Secretary”; and
 
 | | |
 |---|---|
 | Removed | `or psychologist` |
-| Inserted | `psychologist, podiatrist, dentist, or optometrist` |
+| Inserted | `psychologist, podiatrist, dentist, optometrist, or other health care professional specified in regulations prescribed by the Secretary` |
 
 ### 38 U.S.C. § 5101
 
-> Paragraph (2) of such subsection is amended by striking “and psychologists” and inserting “psychologists, podiatrists, dentists, and optometrists”.
+> in subparagraph (A), by striking “the physician, physician assistant, nurse practitioner, audiologist, or psychologist, as the case may be” and inserting “such health care professional”.
 
 | | |
 |---|---|
-| Removed | `and psychologists` |
-| Inserted | `psychologists, podiatrists, dentists, and optometrists` |
+| Removed | `the physician, physician assistant, nurse practitioner, audiologist, or psychologist, as the case may be` |
+| Inserted | `such health care professional` |
 
 ### 38 U.S.C. § 5101
 
-> Section 2002(a)(4) of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 5101 note) is amended by striking “three years” and inserting “five years”.
+> Section 2002(a)(2) of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 5101 note) is amended by striking “physicians assistants, nurse practitioners, audiologists, and psychologists” and inserting “health care professionals”.
 
 | | |
 |---|---|
-| Removed | `three years` |
-| Inserted | `five years` |
+| Removed | `physicians assistants, nurse practitioners, audiologists, and psychologists` |
+| Inserted | `health care professionals` |
