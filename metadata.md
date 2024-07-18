@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7777
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7777
@@ -29,3 +29,12 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2024
 - 2024-03-21 — Introduced in House
 - 2024-03-21 — Introduced in House
 - 2024-03-21 — Referred to the House Committee on Veterans' Affairs.
+- 2024-04-09 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2024-04-10 — Subcommittee Hearings Held
+- 2024-04-16 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2024-04-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported by Voice Vote.
+- 2024-07-18 — Placed on the Union Calendar, Calendar No. 491.
+- 2024-07-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-591.
+- 2024-07-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-591.
