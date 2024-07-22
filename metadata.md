@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6162
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6162
@@ -34,3 +34,11 @@ To designate the facility of the United States Postal Service located at 379 Nor
 - 2023-11-01 — Introduced in House
 - 2023-11-01 — Introduced in House
 - 2023-11-01 — Referred to the House Committee on Oversight and Accountability.
+- 2024-02-06 — Committee Consideration and Mark-up Session Held
+- 2024-02-06 — Ordered to be Reported by Voice Vote.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4717)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6162.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
