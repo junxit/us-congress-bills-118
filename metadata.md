@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7385
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7385
@@ -38,3 +38,13 @@ To designate the facility of the United States Postal Service located at 29 Fran
 - 2024-02-15 — Introduced in House
 - 2024-02-15 — Introduced in House
 - 2024-02-15 — Referred to the House Committee on Oversight and Accountability.
+- 2024-03-07 — Committee Consideration and Mark-up Session Held
+- 2024-03-07 — Defeated Measure by Unanimous Consent.
+- 2024-04-10 — Committee Consideration and Mark-up Session Held.
+- 2024-04-10 — Ordered to be Reported by the Yeas and Nays: 37 - 1.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4717-4718)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7385.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
