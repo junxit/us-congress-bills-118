@@ -33,19 +33,19 @@ This Act may be cited as the “Financial Technology Protection Act of 2023 ”.
     - **(B)** Blockchain intelligence companies.
     - **(C)** Financial institutions.
     - **(D)** Institutions or organizations engaged in research.
+    - **(E)** Institutions or organizations focused on individual privacy and civil liberties.
 - **(b)** *Duties* The Working Group shall—
   - **(1)** conduct research on terrorist and illicit use of new financial technologies, including digital assets; and
   - **(2)** develop legislative and regulatory proposals to improve anti-money laundering, counter-terrorist, and other counter-illicit financing efforts in the United States.
 - **(c)** *Reports*
   - **(1)** *In general* Not later than one year after the date of the enactment of this Act, and annually for the 3 years thereafter, the Working Group shall submit to the Secretary of the Treasury, the heads of each agency represented in the Working Group pursuant to subsection (a)(2), and the appropriate congressional committees a report containing the findings and determinations made by the Working Group in the previous year and any legislative and regulatory proposals developed by the Working Group.
-  - **(2)** *Final report* Before the date on which the Working Group terminates under subsection (e)(1), the Working Group shall submit to the appropriate congressional committees a final report detailing the findings, recommendations, and activities of the Working Group.
-- **(d)** *Travel expenses* Members of the Working Group shall serve without pay, but shall receive travel expenses in accordance with sections 5702 and 5703 of title 5, United States Code.
-- **(e)** *Sunset*
+  - **(2)** *Final report* Before the date on which the Working Group terminates under subsection (d)(1), the Working Group shall submit to the appropriate congressional committees a final report detailing the findings, recommendations, and activities of the Working Group.
+- **(d)** *Sunset*
   - **(1)** *In general* The Working Group shall, subject to paragraph (3), terminate on the date that is 4 years after the date of the enactment of this Act.
   - **(2)** *Expiration and return of appropriated funds* On the date on which the Working Group terminates under paragraph (1)—
     - **(A)** all authorities granted to the Working Group under this section shall expire, subject to paragraph (3); and
     - **(B)** any funds appropriated for the Working Group that are available for obligation as of that date shall be returned to the Treasury.
-  - **(3)** *Authority to wind up activities* The termination of the Working Group under paragraph (1) and the expiration of authorities under paragraph (2) shall not affect any investigations, research, or other activities of the Working Group ongoing as of the date on which the Working Group terminates under paragraph (1). Such investigations, research, and activities may continue until their completion.
+  - **(3)** *Authority to wind up activities* The termination of the Working Group under paragraph (1) and the expiration of authorities under paragraph (2) shall not affect any research, proposals, or other related activities of the Working Group ongoing as of the date on which the Working Group terminates under paragraph (1). Such research, proposals, and other related activities may continue until their completion.
 
 ## § 3. Preventing rogue and foreign actors from evading sanctions
 
