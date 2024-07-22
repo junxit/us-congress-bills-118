@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1631
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -56,9 +56,123 @@ Congress finds the following:
   >     - **(B)** a voluntary consensus standard, as that term is used for the purposes of Circular A–119.
   >   - **(4)** *Standards development organization* The term standards development organization means a holder of a copyright under this title that plans, develops, establishes, or coordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the requirements of Circular A–119.
   >   - **(5)** *Publicly accessible online*
-  >     - **(A)** *In general* The term publicly accessible online, with respect to material, means that the material is displayed for review in a readily accessible manner on a public website.
-  >     - **(B)** *Rule of construction* If a user is required to create an account or agree to the terms of service of a website or organization in order to access material online, that requirement shall not be construed to render the material not publicly accessible online for the purposes of subparagraph (A), if there is no monetary cost to the user to access that material.
-  > - **(b)** *Standards incorporated by reference into law or regulation* A standard to which copyright protection subsists under section 102(a) at the time of its fixation shall retain such protection, notwithstanding that the standard is incorporated by reference, if the applicable standards development organization, within a reasonable period of time after obtaining actual or constructive notice that the standard has been incorporated by reference, makes all portions of the standard so incorporated publicly accessible online at no monetary cost.
+  >     - **(A)** *In general* The term publicly accessible online, with respect to material, means that the material is displayed for review in a readily accessible manner on a public website that conforms with the accessibility requirements of section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), including the regulations implementing that section as set forth in part 1194 of title 36, Code of Federal Regulations, or any successor regulation.
+  >     - **(B)** *Rule of construction* If a user is required to create an account or agree to the terms of service of a website or organization in order to access material online, that requirement shall not be construed to render the material not publicly accessible online for the purposes of subparagraph (A), if—
+  >       - **(i)** there is no monetary cost to the user to access that material; and
+  >       - **(ii)** no personally identifiable information collected pursuant to such a requirement is used without the affirmative and express consent of the user.
+  > - **(b)** *Standards incorporated by reference into law or regulation* A standard to which copyright protection subsists under section 102(a) at the time of its fixation shall retain such protection, notwithstanding that the standard is incorporated by reference, if the applicable standards development organization, within a reasonable period of time after obtaining actual or constructive notice that the standard has been incorporated by reference, makes all portions of the standard so incorporated publicly accessible online at no monetary cost and in a format that includes a searchable table of contents and index, or equivalent aids to facilitate the location of specific content.
   > - **(c)** *Burden of proof* In any proceeding in which a party asserts that a standards development organization has failed to comply with the requirements under subsection (b) for retaining copyright protection with respect to a standard, the burden of proof shall be on the party making that assertion to prove that the standards development organization has failed to comply with those requirements.
 
-- **(b)** *Technical and conforming amendment* The table of sections for chapter 1 of title 17, United States Code, is amended by adding at the end the following:
+- **(b)** *PRO Codes Act Reporting Requirement*
+  - **(1)** *In general* The United States Copyright Office is required to prepare and submit a comprehensive report to the House Judiciary Committee, which shall include—
+    - **(A)** a detailed assessment of this Act’s effect on case law;
+    - **(B)** an analysis of this Act’s effectiveness in achieving its stated goals;
+    - **(C)** a review of any challenges or obstacles encountered during the implementation process;
+    - **(D)** recommendations for legislative or regulatory modifications to improve the effectiveness of this Act; and
+    - **(E)** an overview of the impact of this Act on the public, including access to legal information and compliance costs for governments, businesses, and individuals.
+  - **(2)** *Timeline for Submission*
+    - **(A)** The initial report must be submitted within two years of the enactment of this Act.
+    - **(B)** Subsequent reports shall be submitted every five years on the anniversary of the first report’s submission.
+- **(c)** *GAO Study on Disadvantaged Communities*
+  - **(1)** *Study Directed* The Comptroller General of the United States shall conduct a study on the potential disparate impact of this Act on historically disadvantaged communities.
+  - **(2)** *Elements of the Study* The study shall include, but not be limited to:
+    - **(A)** An analysis of how limited access to technical standards incorporated in the PRO Codes Act could disproportionately hinder the ability of historically disadvantaged communities to assert their legal rights and advocate for legal reforms.
+    - **(B)** An assessment of how the potential costs associated with accessing standards could create additional barriers for residents of historically disadvantaged communities seeking to understand and enforce their rights.
+    - **(C)** An examination of potential disparities in outcomes for historically disadvantaged communities arising from the implementation of the PRO Codes Act.
+    - **(D)** Recommendations on ways to mitigate any identified disparate impacts on historically disadvantaged communities.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within two years of the enactment of this Act, detailing the findings of the GAO Study on the impact of PRO Codes on historically disadvantaged communities from paragraphs (1) and (2).
+- **(d)** *Study of Costs for States, Cities, Municipalities, Counties, Special Districts, Associated with Standards Incorporated by Reference (SIBR)*
+  - **(1)** *Requirement for Cost Analysis* The Comptroller General of the United States shall conduct a comprehensive study of the costs associated with the implementation of this Act. This study will encompass levels of government, including state, cities, municipalities, counties, and special district governments, to ensure a complete understanding of the potential financial impact.
+  - **(2)** *Scope of Analysis* The analysis shall include, but not be limited to:
+    - **(A)** Fees charged by Standard Development Organizations to state, cities, municipalities, counties, and special district governments for access to standards incorporated by reference.
+    - **(B)** An analysis of indirect costs to state, cities, municipalities, counties, and special district governments associated with compliance with this Act.
+  - **(3)** *Reporting* The Comptroller General shall submit a report to Congress within two years of the enactment of this Act, detailing the findings of the cost analysis required under paragraph (2). The report shall include recommendations on potential actions to improve cost-effectiveness related to SIBRs.
+- **(e)** *U.S. Government Accountability Office (GAO) Study on Consumers*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the potential impact of this Act on consumers.
+  - **(2)** *Elements of the Study*
+    - **(A)** Implications for consumer protection under this Act.
+    - **(B)** Potential for increased costs or confusion among consumers due to new regulations.
+    - **(C)** Accessibility of information about rights and protections for consumers under this Act.
+    - **(D)** Recommendations to enhance consumer protection and information accessibility.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within one year of the enactment of this Act, detailing the findings of the GAO Study on the impact of this Act on consumers.
+- **(f)** *U.S. Government Accountability Office (GAO) Study on Digital Privacy and Data Protection*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the potential impact of this Act on digital privacy and data protection.
+  - **(2)** *Elements of the study*
+    - **(A)** Analysis of how this Act affects the protection of personal data.
+    - **(B)** Evaluation of the Act's compliance requirements related to data security.
+    - **(C)** Recommendations for strengthening digital privacy protections.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within 18 months of the enactment of this Act, detailing the findings of the GAO Study on the impact of this Act on digital privacy and data protection.
+- **(g)** *U.S. Government Accountability Office (GAO) Study on access to the law*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the impact of this Act specifically on platforms that offer legal codes online at no cost to the public. The study will assess how the Act influences these platforms' operations and the public's access to and understanding of the law.
+  - **(2)** *Elements of the study*
+    - **(A)** Assessment of how this Act influences the operations of online platforms that provide public access to legal codes and other regulatory documents.
+    - **(B)** Evaluation of the Act’s provisions that may limit or enhance public accessibility to legal information via these platforms.
+    - **(C)** Analysis of potential barriers introduced by the Act that could hinder public understanding of legal standards and codes.
+    - **(D)** Recommendations for amendments or new provisions to ensure continued and enhanced public access to legal codes and standards, fostering transparency and legal literacy.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within two years of the enactment of this Act, detailing the findings of the GAO Study.
+- **(h)** *U.S. Government Accountability Office (GAO) Study on inclusive of accessibility and usability standards for people with disabilities*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the impact of this Act on disabled populations, specifically assessing whether the Act’s definition of “publicly accessible” is sufficiently inclusive of accessibility and usability standards for people with disabilities.
+  - **(2)** *Elements of the study*
+    - **(A)** Evaluation of how the accessibility provisions of this Act impact the ability of people with disabilities to access and use public codes and standards.
+    - **(B)** Examination of current gaps in accessibility that may prevent full participation of disabled individuals in public and legal affairs as affected by the Act.
+    - **(C)** Recommendations to ensure this Act aligns with federal accessibility standards and effectively serves the needs of the disabled community.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within 18 months of the enactment of this Act, detailing the findings of the GAO Study on the accessibility of this Act for disabled populations.
+- **(i)** *U.S. Government Accountability Office (GAO) Study on Affordable Housing*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the potential impact of this Act on the development and accessibility of affordable housing.
+  - **(2)** *Elements of the study*
+    - **(A)** Analysis of this Act's impact on the costs and regulatory barriers to building affordable housing.
+    - **(B)** Evaluation of the Act’s impact on the availability of affordable housing units in urban and rural areas.
+    - **(C)** Assessment of the Act's cost on affordable housing projects.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within two years of the enactment of this Act, detailing the findings of the GAO Study on the impact of this Act on affordable housing.
+- **(j)** *U.S. Government Accountability Office (GAO) Study on SDO Access Conditions*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on whether Standards Development Organizations (SDOs) condition access to standards under this Act by requiring users to create accounts, agree to restrictive terms of service, or meet other potentially burdensome conditions.
+  - **(2)** *Elements of the study*
+    - **(A)** Assessment of the extent to which SDOs impose conditions that could restrict public access to standards and legal codes, such as account creation, agreement to terms of service, or other barriers.
+    - **(B)** Evaluation of the impact of these conditions on the public’s ability to freely access, distribute, share, and print essential legal information.
+    - **(C)** Analysis of potential violations of the fundamental principle that laws should be accessible without undue restrictions, considering the implications for transparency and accountability.
+    - **(D)** Recommendations for legislative or regulatory measures to ensure that access to legal information under this Act is not conditioned on undue or discriminatory terms.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within 18 months of the enactment of this Act, detailing the findings of the GAO Study.
+- **(k)** *U.S. Government Accountability Office (GAO) Study on Executive Compensation at SDOs*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on executive compensation within Standards Development Organizations (SDOs), particularly those with substantial revenue streams and tax-exempt status.
+  - **(2)** *Elements of the study*
+    - **(A)** Analysis of the revenue sources of large SDOs, including details on income from sales of publications, fees for training and certification services, and membership dues.
+    - **(B)** Examination of the scale of executive compensation at these organizations, including total executive compensation as a proportion of total revenues and in comparison to industry standards.
+    - **(C)** Evaluation of the governance practices related to executive compensation at SDOs, including transparency, accountability, and alignment with nonprofit organization standards.
+    - **(D)** Recommendations for potential regulatory or legislative actions to ensure that executive compensation at tax-exempt SDOs remains within reasonable limits and aligns with best practices for nonprofit management.
+  - **(3)** *Submission* The Comptroller General shall submit this report to Congress within 18 months of the enactment of this Act, detailing the findings of the GAO.
+- **(l)** *U.S. Government Accountability Office (GAO) study on this Act and homeowner costs for building code access*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on how this Act would affect the costs imposed on homeowners' access to building codes.
+  - **(2)** *Elements of the study*
+    - **(A)** Examination of the financial impact on homeowners, particularly focusing on how these costs might deter necessary maintenance, safety upgrades, and other costs associated with renovations.
+    - **(B)** Evaluation of how this Act would affect the availability and affordability of building codes across different regions and income groups.
+    - **(C)** Recommendations for improving this Act to make building codes more accessible and affordable for homeowners.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within 18 months of the enactment of this Act.
+- **(m)** *U.S. Government Accountability Office (GAO) on Small Businesses*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the potential impact of this Act on small businesses.
+  - **(2)** *Elements of the study*
+    - **(A)** The extent to which compliance burdens are affected by this Act.
+    - **(B)** Analysis of small businesses' ability to compete with larger entities under the new regulatory framework.
+    - **(C)** Availability and effectiveness of legal resources for small businesses navigating this Act.
+    - **(D)** Recommendations to mitigate any identified negative impacts on small businesses.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within one year of the enactment of this Act, detailing the findings of the GAO Study on the impact of this Act on small businesses.
+- **(n)** *U.S. Government Accountability Office (GAO) Study on First Amendment Rights*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study on the potential impact of this Act on First Amendment rights, specifically the public’s ability to access, read, share, and debate the law, including codes incorporated by reference.
+  - **(2)** *Elements of the study*
+    - **(A)** Analysis of how this Act may lead standard development organizations to place the law behind paywalls, thus restricting public access to essential legal information and potentially violating First Amendment rights.
+    - **(B)** Evaluation of the economic, legal, and social impacts of restricting public access to codes and standards referenced in the Act.
+    - **(C)** Examination of precedents and legal interpretations regarding public access to laws and how they align with First Amendment protections.
+    - **(D)** Recommendations for legislative or regulatory changes to ensure that all laws and standards referenced in the Act are accessible without undue financial or procedural barriers.
+  - **(3)** *Report* The Comptroller General shall submit a report to Congress within one year of the enactment of this Act, detailing the findings of the GAO Study on the impact of this Act on First Amendment rights.
+- **(o)** *Technical and conforming amendment* The table of sections for chapter 1 of title 17, United States Code, is amended by adding at the end the following:
+
+## § 4. Study of standards cost to governments
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study on the financial impact to federal, state, and local governments in the United States associated with acquiring access to standards incorporated by reference into law.
+- **(b)** *Scope* The study under subsection (a) shall—
+  - **(1)** Analyze the total expenditure by government entities for accessing these standards;
+  - **(2)** Assess any financial burdens or resource constraints these costs impose on governments, particularly for smaller municipalities;
+  - **(3)** Evaluate the cost-effectiveness of current mechanisms for acquiring these standards; and
+  - **(4)** Examine the impacts on public services due to the costs associated with accessing these standards.
+- **(c)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General shall submit a report to Congress that includes—
+  - **(1)** The findings of the study conducted under subsection (a); and
+  - **(2)** Recommendations to mitigate any adverse financial impacts identified by the study, including suggestions for legislative or administrative actions as appropriate.
