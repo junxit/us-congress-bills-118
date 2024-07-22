@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4424
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,3 +27,7 @@ This Act may be cited as the “Vietnam Veterans Liver Fluke Cancer Study Act”
   - **(1)** The term “Secretary” means the Secretary of Veterans Affairs.
   - **(2)** The term “Vietnam era” has the meaning given such term in section 101 of title 38, United States Code.
   - **(3)** The term “covered veterans of the Vietnam era” means veterans who served in the Vietnam theater of operations during the Vietnam era.
+
+## § 3. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.
