@@ -1,7 +1,7 @@
 ---
 measure: S. 1258
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1258
@@ -38,3 +38,12 @@ Billion Dollar Boondoggle Act of 2023
 - 2024-02-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
 - 2024-03-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2616-2617; text: CR S2616-2617)
 - 2024-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-03-25 — Message on Senate action sent to the House.
+- 2024-03-26 — Held at the desk.
+- 2024-03-26 — Received in the House.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4715-4716)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on S. 1258.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill, as amended.
+- 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4715)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4715)
