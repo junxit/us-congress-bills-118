@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 1373
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1373
+
+> Calling on Vice President Kamala Harris to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Joseph R. Biden, Jr. incapable of executing the duties of his office and to immediately exercise powers as acting President.
+
+## Preamble
+
+- Whereas for years it has been clear to the American people that President Joseph R. Biden, Jr. was experiencing severe cognitive decline and was mentally unable of discharging the powers and duties of his office;
+- Whereas, on June 27, 2024, the performance of President Joseph R. Biden, Jr. during the televised presidential debate raised new urgency to concerns that President Joseph R. Biden, Jr. is mentally unable of discharging the powers and duties of his office;
+- Whereas following the presidential debate, comments and gaffes made by President Joseph R. Biden, Jr. compounded existing concerns regarding his cognitive ability to discharge the powers and duties of his office;
+- Whereas in the weeks following the presidential debate, dozens of members of the House of Representatives and Senate from the President’s own party called on President Joseph R. Biden, Jr. not to seek reelection to the office of President of the United States, citing concerns about his cognitive ability to discharge the powers and duties of his office;
+- Whereas, on July, 21, 2024, President Joseph R. Biden, Jr. announced that he would not seek reelection to the office of President of the United States, indicating he believed it was in the best interest of the country for him to stand down; and
+- Whereas if President Joseph R. Biden, Jr. does not have the cognitive ability to seek reelection to the office of President of the United States, then he does not have the ability to discharge the powers and duties of his office for the remaining six months of his term: Now, therefore, be it
+
+That the House of Representatives calls upon Vice President Kamala Harris—
+
+- **(1)** to immediately use her powers under section 4 of the 25th Amendment to convene and mobilize the principal officers of the executive departments in the Cabinet to declare what is obvious to the Nation: That the President is unable to successfully discharge the duties and powers of his office; and
+- **(2)** to transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives notice that she will be immediately assuming the powers and duties of the office as Acting President.
