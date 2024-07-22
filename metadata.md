@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7333
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7333
@@ -16,7 +16,7 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 
 - Rep. Mast, Brian J. [R-FL-21] (M001199)
 
-## Cosponsors (27)
+## Cosponsors (28)
 
 - Rep. Gaetz, Matt [R-FL-1] (G000578)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
@@ -45,6 +45,7 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 - Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
+- Rep. Kildee, Daniel T. [D-MI-8] (K000380)
 
 ## Committees (1)
 
@@ -55,3 +56,10 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 - 2024-02-13 — Introduced in House
 - 2024-02-13 — Introduced in House
 - 2024-02-13 — Referred to the House Committee on Veterans' Affairs.
+- 2024-02-29 — Referred to the Subcommittee on Health.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4647-4648)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7333.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
