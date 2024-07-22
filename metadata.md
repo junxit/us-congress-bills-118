@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4136
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4136
@@ -16,7 +16,7 @@ U.S. Congressman Sam Johnson Memorial VA Clinic Act
 
 - Rep. Self, Keith [R-TX-3] (S001224)
 
-## Cosponsors (30)
+## Cosponsors (32)
 
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Babin, Brian [R-TX-36] (B001291)
@@ -48,6 +48,8 @@ U.S. Congressman Sam Johnson Memorial VA Clinic Act
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Green, Al [D-TX-9] (G000553)
 
 ## Committees (1)
 
@@ -58,3 +60,10 @@ U.S. Congressman Sam Johnson Memorial VA Clinic Act
 - 2023-06-14 — Introduced in House
 - 2023-06-14 — Introduced in House
 - 2023-06-14 — Referred to the House Committee on Veterans' Affairs.
+- 2023-07-25 — Referred to the Subcommittee on Health.
+- 2024-07-22 — Considered under suspension of the rules. (consideration: CR H4712-4715)
+- 2024-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4136.
+- 2024-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-22 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4712)
+- 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4712)
