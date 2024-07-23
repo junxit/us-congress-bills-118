@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 9103
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9103
+
+> To amend title 10, United States Code, to establish an Air Force Technical Training Center of Excellence.
+
+## § 1. Short title
+
+This Act may be cited as the “Air Force Technical Training Enhancement Act”.
+
+## § 2. Establishment of Air Force Technical Training Center of Excellence
+
+Chapter 903 of title 10, United States Code, is amended by adding at the end the following new section:
+
+> ## § 9025. Air Force Technical Training Center of Excellence
+>
+> - **(a)** *Establishment* The Secretary of the Air Force shall operate a Technical Training Center of Excellence. The head of the Center shall be the designee of the Commander of Airmen Development Command.
+> - **(b)** *Purpose* The purpose of the Center shall be to—
+>   - **(1)** facilitate collaboration among all Air Force technical training installations;
+>   - **(2)** serve as a premier training location for all maintainers throughout the military departments;
+>   - **(3)** publish a set of responsibilities aimed at driving excellence, innovation, and leadership across all technical training specialties;
+>   - **(4)** advocate for innovative improvements in curriculum, facilities, and medial;
+>   - **(5)** foster outreach with industry and academia;
+>   - **(6)** identify and promulgate best practices, standards, and benchmarks;
+>   - **(7)** create a hub of excellence for the latest advancements in aviation technology and training methodologies; and
+>   - **(8)** carry out such other responsibilities as the Secretary determines appropriate.
+> - **(c)** *Location* The Secretary shall select a location for the Center that is an Air Force installation that provides technical training and maintenance proficiency.
