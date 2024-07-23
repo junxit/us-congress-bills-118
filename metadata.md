@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7333
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7333
@@ -47,9 +47,10 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
 - Rep. Kildee, Daniel T. [D-MI-8] (K000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 - 2024-07-22 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
