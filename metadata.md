@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4136
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4136
@@ -51,9 +51,10 @@ U.S. Congressman Sam Johnson Memorial VA Clinic Act
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ U.S. Congressman Sam Johnson Memorial VA Clinic Act
 - 2024-07-22 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4712)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4712)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
