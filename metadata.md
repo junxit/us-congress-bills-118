@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6249
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6249
@@ -57,3 +57,12 @@ Think Differently About Emergencies Act
 - 2024-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-195.
 - 2024-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-195.
 - 2024-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.
+- 2024-11-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6638)
+- 2024-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-20 — Message on Senate action sent to the House.
+- 2024-11-21 — Presented to President.
+- 2024-11-21 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-123.
+- 2024-11-25 — Became Public Law No: 118-123.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
