@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8281
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8281
@@ -161,3 +161,5 @@ SAVE Act
 - 2024-07-10 — Rule provides for consideration of H.R. 8281, H.J. Res. 165, H.R. 8772, H.R. 7637 and H.R. 7700 The resolution provides for consideration of H.R. 8772 under a structured rule and H.R. 8281, H.J. Res. 165, H.R. 7700, and H.R. 7637 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-07-10 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-07-10 — The previous question was ordered pursuant to the rule.
+- 2024-07-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day July 10, 2024).
+- 2024-07-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.
