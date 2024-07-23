@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6162
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6162
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 379 Nor
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 379 Nor
 - 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill.
 - 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
