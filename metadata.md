@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7377
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7377
@@ -49,3 +49,12 @@ Royalty Resiliency Act
 - 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4650)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4650)
 - 2024-07-23 — Received in the Senate, read twice.
+- 2024-09-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6003)
+- 2024-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-09-12 — Message on Senate action sent to the House.
+- 2024-09-18 — Presented to President.
+- 2024-09-18 — Presented to President.
+- 2024-09-20 — Became Public Law No: 118-81.
+- 2024-09-20 — Became Public Law No: 118-81.
+- 2024-09-20 — Signed by President.
+- 2024-09-20 — Signed by President.
