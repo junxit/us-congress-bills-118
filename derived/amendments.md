@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6020
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 274f
+
+> in paragraph (1), by striking “subsection (c)(1)” and inserting “subsection (d)(1)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (c)(1)` |
+| Inserted | `subsection (d)(1)` |
+
+### 42 U.S.C. § 274f
+
+> in paragraph (2), by striking “subsection (c)(2)” and inserting “subsection (d)(2)”.
+
+| | |
+|---|---|
+| Removed | `subsection (c)(2)` |
+| Inserted | `subsection (d)(2)` |
 
 ## Stated, not applied
 
@@ -31,9 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 274f` | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274f` | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 274f` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 274f` | insert | in paragraph (1), by inserting “or” at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 274f` | amend | in paragraph (1), by adding “or” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 274f` | replace | in paragraph (2), by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 274f` | strike | by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 274f` | add-at-end | Section 377 of the Public Health Service Act (42 U.S.C. 274f), as amended, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274f` | add-at-end | Section 377 of the Public Health Service Act (42 U.S.C. 274f), as amended by sections 2 and 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
