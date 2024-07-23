@@ -1,7 +1,7 @@
 ---
 measure: H.R. 890
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 890
@@ -34,9 +34,10 @@ GOOD Act
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ GOOD Act
 - 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill, as amended.
 - 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4709-4710)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4709-4710)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
