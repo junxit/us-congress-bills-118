@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7385
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7385
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 29 Fran
 - Rep. Wexton, Jennifer [D-VA-10] (W000825)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the facility of the United States Postal Service located at 29 Fran
 - 2024-07-22 — Ms. Mace moved to suspend the rules and pass the bill.
 - 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4717)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
