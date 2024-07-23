@@ -21,4 +21,4 @@ Section 1902(kk)(1) of the Social Security Act (42 U.S.C. 1396a(kk)(1)) is amend
   > - **(A)** *In general* The State
 
 - **(2)** by adding at the end the following new subparagraph:
-  > - **(B)** *Additional provider screening* Beginning January 1, 2025, as part of the enrollment (or revalidation of enrollment) of a provider or supplier under this title, and not less frequently than quarterly during the period that such provider or supplier is so enrolled, the State conducts a check of the Death Master File (as such term is defined in section 203(d) of the Bipartisan Budget Act of 2013) to determine whether such provider or supplier is deceased.
+  > - **(B)** *Additional provider screening* Beginning January 1, 2027, as part of the enrollment (or reenrollment or revalidation of enrollment) of a provider or supplier under this title, and not less frequently than quarterly during the period that such provider or supplier is so enrolled, the State conducts a check of the Death Master File (as such term is defined in section 203(d) of the Bipartisan Budget Act of 2013) to determine whether such provider or supplier is deceased.
