@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7280
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7280
@@ -42,9 +42,10 @@ HUD Transparency Act of 2024
 - Rep. Williams, Brandon [R-NY-22] (W000828)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ HUD Transparency Act of 2024
 - 2024-07-22 — Mr. Nunn (IA) moved to suspend the rules and pass the bill, as amended.
 - 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4653)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4653)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
