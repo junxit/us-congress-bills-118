@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4152
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,8 @@ This Act may be cited as the “Space Resources Institute Act”.
 - **(a)** *Report* Not later than 180 days after the date of the enactment of this Act, the Administrator and Secretary shall jointly submit to the appropriate congressional committees a report on the merits of, and options for, establishing an institute relating to space resources to advance the objectives of NASA and the Department in maintaining United States preeminence in space. Such objectives shall include the following:
   - **(1)** Identifying, developing, and distributing space resources, including by encouraging the development of foundational science and technology.
   - **(2)** Reducing the technological risks associated with identifying, developing, and distributing space resources.
-  - **(3)** Developing options for using space resources to—
+  - **(3)** Research to maximize the responsible use of space resources.
+  - **(4)** Developing options for using space resources to—
     - **(A)** support current and future space architectures, programs, and missions; and
     - **(B)** enable such architectures, programs, and missions that would not otherwise be possible.
 - **(b)** *Additional matters* The report required under subsection (a) shall also include the following assessments of the Administrator and the Secretary:
