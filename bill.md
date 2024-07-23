@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6219
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,12 +33,10 @@ This Act may be cited as the “Accessing Satellite Data to Enable New Discoveri
     >   - **(1)** the publication of commercial data or imagery for scientific purposes; or
     >   - **(2)** the publication of information that is derived from, incorporates, or enhances the original commercial data or imagery of a vendor.
     > - **(c)** *Authorization* In carrying out the program under this section, the Administrator may—
-    >   - **(1)** procure the commercial Earth remote sensing data and imagery from commercial vendors to advance scientific research and applications in accordance with subsection (a);
-    >   - **(2)** establish or modify end-use license terms and conditions to allow for the use of procured commercial Earth remote sensing data and imagery by individuals other than NASA-funded users, consistent with the goals of the program; and
-    >   - **(3)** as practicable, procure commercial Earth remote sensing data and imagery from commercial vendors to support—
-    >     - **(A)** nonscientific applications; and
-    >     - **(B)** nonmilitary activities of Federal agencies.
-    > - **(d)** *Report* Not later than 180 days after the date of the enactment of this section and annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes the following:
+    >   - **(1)** procure commercial Earth remote sensing data and imagery from commercial vendors to advance scientific research and applications in accordance with subsection (a); and
+    >   - **(2)** establish or modify end-use license terms and conditions to allow for the widest-possible use of procured commercial Earth remote sensing data and imagery by individuals other than NASA-funded users, consistent with the goals of the program.
+    > - **(d)** *United States vendors* Commercial Earth remote sensing data and imagery referred to in subsections (a) and (c) shall, to the maximum extent practicable, be procured from United States vendors.
+    > - **(e)** *Report* Not later than 180 days after the date of the enactment of this section and annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes the following information regarding the agreements, vendors, license terms, and uses of commercial Earth remote sensing data and imagery under this section:
     >   - **(1)**
     >     - **(A)** In the case of the initial report, a list of all agreements that are providing commercial Earth remote sensing data and imagery to NASA as of the date of the report.
     >     - **(B)** For each subsequent report, a list of all agreements that have provided commercial Earth remote sensing data and imagery to NASA during the reporting period.
