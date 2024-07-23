@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 9102
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9102
+
+> To amend the Higher Education Act of 1965 to prohibit students convicted of hate crimes for conduct that occurred during a campus protest from being eligible for student loans or loan forgiveness.
+
+## § 1. Short title
+
+This Act may be cited as the “Prohibiting Student Loan Forgiveness for Antisemites Act”.
+
+## § 2. Termination of eligibility for student loans and loan forgiveness for certain hate crime convictions
+
+Section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091) is amended by adding at the end the following:
+
+> - **(u)** *Termination of eligibility for loans and loan forgiveness for certain hate crime convictions*
+>   - **(1)** *In general* A student who is convicted of a hate crime under State or Federal law for conduct that occurred during a protest at an institution of higher education that disrupts the normal campus functions at such institution of higher education shall not be eligible, as of the date of such conviction—
+>     - **(A)** for any program under this title or any other provision of law that forgives, discharges, cancels, or otherwise reduces the amount that the student owes on any loan made, insured, or guaranteed under this title; or
+>     - **(B)** to receive any loan made, insured, or guaranteed under this title.
+>   - **(2)** *Hate crime defined* The term hate crime includes an act described in section 249 of title 18, United States Code.
