@@ -19,7 +19,12 @@ This Act may be cited as the “Medicaid Program Improvement Act”.
   - **(1)** in paragraph (86), by striking “and” at the end;
   - **(2)** in paragraph (87), by striking the period at the end and inserting “; and”; and
   - **(3)** by inserting after paragraph (87) the following new paragraph:
-    > - **(88)** beginning January 1, 2026, provide for a process to regularly obtain address information for individuals enrolled under such plan (or a waiver of such plan) from reliable data sources (as described in section 435.919 of title 42, Code of Federal Regulations (or a successor regulation)) and act on any changes to such an address based on such information in accordance with such section (or successor regulation).
+    > - **(88)** beginning January 1, 2026, provide for a process to regularly obtain address information for individuals enrolled under such plan (or a waiver of such plan) from reliable data sources (as described in section 435.919(f)(1)(iii) of title 42, Code of Federal Regulations (or a successor regulation)) and act on any changes to such an address based on such information in accordance with such section (or successor regulation), except that this paragraph shall only apply in the case of the 50 States and the District of Columbia.
 
-- **(b)** *Ensuring transmission of address information from managed care organizations* Section 1932 of the Social Security Act (42 U.S.C. 1396u–2) is amended by adding at the end the following new subsection:
+- **(b)** *Application to CHIP* Section 2107(e)(1) of the Social Security Act (42 U.S.C. 1397gg(e)(1)) is amended—
+  - **(1)** by redesignating subparagraphs (H) through (U) as subparagraphs (I) through (V), respectively; and
+  - **(2)** by inserting after subparagraph (G) the following new subparagraph:
+    > - **(H)** Section 1902(a)(88) (relating to regularly obtaining address information for enrollees).
+
+- **(c)** *Ensuring transmission of address information from managed care organizations* Section 1932 of the Social Security Act (42 U.S.C. 1396u–2) is amended by adding at the end the following new subsection:
   > - **(j)** *Transmission of address information* Beginning January 1, 2026, each contract under a State plan with a managed care entity under section 1903(m) shall provide that the entity transmits to the State any address information for an individual enrolled with the entity that is provided to such entity directly from, or verified by such entity directly with, such individual.
