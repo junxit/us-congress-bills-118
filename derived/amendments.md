@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5473
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,3 +54,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5133` | add-at-end | Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5135` | insert | by inserting “2” after “latest”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5135` | insert | by inserting “, including any amendments made by State, local, Tribal, or territorial governments to such codes, specifications, and standards,” after “standards”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5133` | add-at-end | Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5135` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5135` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

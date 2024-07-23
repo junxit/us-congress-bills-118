@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5473
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5473
@@ -47,3 +47,7 @@ Promoting Resilient Buildings Act of 2024
 - 2023-12-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-305.
 - 2023-12-11 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-305.
 - 2023-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-194.
+- 2024-07-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-194.
+- 2024-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.
