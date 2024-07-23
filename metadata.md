@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 165
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 165
@@ -119,3 +119,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-07-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-07-11 — On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 354). (text: 7/10/2024 CR H4547)
 - 2024-07-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 354). (text: 7/10/2024 CR H4547)
+- 2024-07-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.
