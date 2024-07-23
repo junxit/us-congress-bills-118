@@ -1,7 +1,7 @@
 ---
 measure: S. 3696
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 8 executed, 16 stated and not applied.
+25 amendatory instructions. 8 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -105,6 +105,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 6851` | insert | in the heading, by inserting “or nonconsensual activity involving digital forgeries” after “intimate images”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6851` | insert | in paragraph (2), by inserting “competent,” after “conscious,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6851` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6851` | redesignate | by redesignating paragraph (3) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
