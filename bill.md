@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 1377
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1377
+
+> Directing the Secretary of Homeland Security to transmit to the House of Representatives not later than 7 days after the date of the adoption of this resolution all documents, records, and communications in the possession of the Secretary of Homeland Security relating to the July 13, 2024, attempted assassination of former President Donald J. Trump, and for other purposes.
+
+That the Secretary of Homeland Security is directed to transmit to the House of Representatives, not later than 7 days after the date of the adoption of this resolution, copies of any document, memorandum, correspondence, and other communication or any portion of any such communication, that refers or relates to the July 13, 2024, attempted assassination of former President Donald J. Trump, including the following:
+
+- **(1)** All documents and communications relating to United States Secret Service protection for former President Donald J. Trump’s campaign in Butler, Pennsylvania, on July 13, 2024.
+- **(2)** All documents and communications, including text messages and email communications, between and among, the United States Secret Service and the Department of Homeland Security related to former President Donald J. Trump’s campaign rally in Butler, Pennsylvania, on July 13, 2024.
+- **(3)** All audio and video recordings in the United States Secret Service’s possession or custody related to former President Donald J. Trump’s campaign rally in Butler, Pennsylvania, on July 13, 2024.
