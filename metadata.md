@@ -1,7 +1,7 @@
 ---
 measure: S. 3033
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3033
@@ -28,3 +28,8 @@ Pecos Watershed Protection Act
 
 - 2023-10-04 — Introduced in Senate
 - 2023-10-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-10-25 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-311.
+- 2023-12-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-07-23 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-196.
+- 2024-07-23 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-196.
+- 2024-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
