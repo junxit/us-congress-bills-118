@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8812
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8812
@@ -49,3 +49,4 @@ Water Resources Development Act of 2024
 - 2024-07-22 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 13 (Roll no. 358). (text: CR H4665-4703)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 13 (Roll no. 358). (text: CR H4665-4703)
+- 2024-07-23 — Received in the Senate.
