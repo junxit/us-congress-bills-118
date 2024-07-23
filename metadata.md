@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7333
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7333
@@ -65,3 +65,14 @@ To name the Department of Veterans Affairs medical center in West Palm Beach, Fl
 - 2024-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4647)
 - 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-11-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6566-6567)
+- 2024-11-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-11-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-11-14 — Message on Senate action sent to the House.
+- 2024-11-20 — Presented to President.
+- 2024-11-20 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-128.
+- 2024-11-25 — Became Public Law No: 118-128.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
