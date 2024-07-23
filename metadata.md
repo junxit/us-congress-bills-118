@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2969
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2969
@@ -23,9 +23,10 @@ Financial Technology Protection Act of 2023
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Timmons, William R. IV [R-SC-4] (T000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Financial Technology Protection Act of 2023
 - 2024-07-22 — Mr. Nunn (IA) moved to suspend the rules and pass the bill, as amended.
 - 2024-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4651-4652)
 - 2024-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4651-4652)
+- 2024-07-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

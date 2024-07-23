@@ -2,7 +2,7 @@
 legis-num: H.R. 2969
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2969
@@ -74,4 +74,4 @@ In this Act:
 - **(3)** *Digital asset* The term digital asset means any digital representation of value that is recorded on a cryptographically secured digital ledger or any similar technology.
 - **(4)** *Foreign terrorist organization* The term foreign terrorist organization means an organization that is designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 - **(5)** *Illicit use* The term illicit use includes fraud, darknet marketplace transactions, money laundering, the purchase and sale of illicit goods, sanctions evasion, theft of funds, funding of illegal activities, transactions related to child sexual abuse material, and any other financial transaction involving the proceeds of specified unlawful activity (as defined in section 1956(c) of title 18, United States Code).
-- **(6)** *Terrorist* The term terrorist includes a person carrying out domestic terrorism or international terrorism (as such terms are defined, respectively, under section 2331 of title 18, United States Code).
+- **(6)** *Terrorist* The term terrorist includes a person carrying out domestic terrorism or international terrorism (as such terms are defined, re-spectively, under section 2331 of title 18, United States Code).
