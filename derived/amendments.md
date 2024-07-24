@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8998
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 3150
 
-> For expenses necessary for the management, operation, and maintenance of areas and facilities administered by the National Park Service and for the general administration of the National Park Service, $2,709,203,000, of which $11,661,000 for planning and interagency coordination in support of Everglades restoration and $15,000,000 for uses authorized by section 101122 of title 54, United States Code shall remain available until September 30, 2026, and not to exceed $15,000 may be for official reception and representative expenses: Provided, That funds appropriated under this heading in this Act are available for the purposes of section 5 of Public Law 95–348: Provided further, That notwithstanding section 9 of the 400 Years of African-American History Commission Act (36 U.S.C. note prec. 101; Public Law 115–102), $3,300,000 of the funds provided under this heading shall be made available for the purposes specified by that Act: Provided further, That sections 7(b) and 8(a) of that Act is amended by striking “July 1, 2025” and inserting “July 1, 2026”.
+> For expenses necessary for the management, operation, and maintenance of areas and facilities administered by the National Park Service and for the general administration of the National Park Service, $2,709,203,000 (reduced by $3,000,000) (increased by $3,000,000) (reduced by $500,000) (increased by $500,000) (increased by $5,000,000) (reduced by $5,000,000) (increased by $5,000,000) (increased by $1,000,000) (reduced by $1,000,000), of which $11,661,000 for planning and interagency coordination in support of Everglades restoration and $15,000,000 for uses authorized by section 101122 of title 54, United States Code shall remain available until September 30, 2026, and not to exceed $15,000 may be for official reception and representative expenses: Provided, That funds appropriated under this heading in this Act are available for the purposes of section 5 of Public Law 95–348: Provided further, That notwithstanding section 9 of the 400 Years of African-American History Commission Act (36 U.S.C. note prec. 101; Public Law 115–102), $3,300,000 of the funds provided under this heading shall be made available for the purposes specified by that Act: Provided further, That sections 7(b) and 8(a) of that Act is amended by striking “July 1, 2025” and inserting “July 1, 2026”.
 
 | | |
 |---|---|

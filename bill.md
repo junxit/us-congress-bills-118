@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 8998
 congress: 118th CONGRESS
-session: 2D Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 

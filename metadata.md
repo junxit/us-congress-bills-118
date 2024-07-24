@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8998
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8998
@@ -20,6 +20,25 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 
 - House — Appropriations Committee
 
+## Recorded votes (16)
+
+- 2024-07-23 — [House 118-2-381](votes/house-118-2-0381.md) — On Agreeing to the Amendment — **Failed** (146–264)
+- 2024-07-23 — [House 118-2-382](votes/house-118-2-0382.md) — On Agreeing to the Amendment — **Failed** (134–272)
+- 2024-07-23 — [House 118-2-383](votes/house-118-2-0383.md) — On Agreeing to the Amendment — **Failed** (145–267)
+- 2024-07-23 — [House 118-2-384](votes/house-118-2-0384.md) — On Agreeing to the Amendment — **Failed** (208–211)
+- 2024-07-23 — [House 118-2-385](votes/house-118-2-0385.md) — On Agreeing to the Amendment — **Failed** (145–268)
+- 2024-07-23 — [House 118-2-386](votes/house-118-2-0386.md) — On Agreeing to the Amendment — **Failed** (147–269)
+- 2024-07-24 — [House 118-2-387](votes/house-118-2-0387.md) — On Agreeing to the Amendment — **Failed** (156–236)
+- 2024-07-24 — [House 118-2-388](votes/house-118-2-0388.md) — On Agreeing to the Amendment — **Agreed to** (211–202)
+- 2024-07-24 — [House 118-2-389](votes/house-118-2-0389.md) — On Agreeing to the Amendment — **Failed** (174–239)
+- 2024-07-24 — [House 118-2-390](votes/house-118-2-0390.md) — On Agreeing to the Amendment — **Failed** (148–267)
+- 2024-07-24 — [House 118-2-394](votes/house-118-2-0394.md) — On Agreeing to the Amendment — **Failed** (207–211)
+- 2024-07-24 — [House 118-2-395](votes/house-118-2-0395.md) — On Agreeing to the Amendment — **Failed** (185–231)
+- 2024-07-24 — [House 118-2-396](votes/house-118-2-0396.md) — On Agreeing to the Amendment — **Failed** (173–243)
+- 2024-07-24 — [House 118-2-397](votes/house-118-2-0397.md) — On Agreeing to the Amendment — **Agreed to** (210–204)
+- 2024-07-24 — [House 118-2-398](votes/house-118-2-0398.md) — On Agreeing to the Amendment — **Failed** (160–256)
+- 2024-07-24 — [House 118-2-399](votes/house-118-2-0399.md) — On Passage — **Passed** (210–205)
+
 ## Actions
 
 - 2024-07-11 — Introduced in House
@@ -27,3 +46,350 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2024-07-11 — Placed on the Union Calendar, Calendar No. 481.
 - 2024-07-11 — The House Committee on Appropriations reported an original measure, H. Rept. 118-581, by Mr. Simpson.
 - 2024-07-11 — The House Committee on Appropriations reported an original measure, H. Rept. 118-581, by Mr. Simpson.
+- 2024-07-22 — Rules Committee Resolution H. Res. 1370 Reported to House. Rule provides for consideration of H.R. 8997 and H.R. 8998. The resolution provides for consideration of H.R. 8997 and H.R. 8998 under a structured rule with one hour of general debate and one motion to recommit on each bill.
+- 2024-07-23 — 
+- 2024-07-23 — 
+- 2024-07-23 — 
+- 2024-07-23 — 
+- 2024-07-23 — 
+- 2024-07-23 — 
+- 2024-07-23 — Amendment (A002) offered by Mr. Arrington. (consideration: CR H4828-4829; text: CR H4828)
+- 2024-07-23 — Amendment (A003) offered by Mr. Arrington. (consideration: CR H4829-4830; text: CR H4829)
+- 2024-07-23 — Amendment (A004) offered by Mr. Bentz. (consideration: CR H4830-4831; text: CR H4830)
+- 2024-07-23 — Amendment (A005) offered by Mrs. Bice. (consideration: CR H4831-4832; text: CR H4831)
+- 2024-07-23 — Amendment (A006) offered by Ms. Boebert. (consideration: CR H4832, H4843-4844; text: CR H4832)
+- 2024-07-23 — Amendment (A007) offered by Ms. Boebert. (consideration: CR H4832-4833, H4844-4845; text: CR H4832)
+- 2024-07-23 — Amendment (A008) offered by Ms. Boebert. (consideration: CR H4833-4834, H4845; text: CR H4833)
+- 2024-07-23 — Amendment (A009) offered by Ms. Boebert. (consideration: CR H4834; text: CR H4834)
+- 2024-07-23 — Amendment (A010) offered by Ms. Boebert. (consideration: CR H4834-4835; text: CR H4834)
+- 2024-07-23 — Amendment (A011) offered by Ms. Boebert. (consideration: CR H4835-4836; text: CR H4835)
+- 2024-07-23 — Amendment (A012) offered by Ms. Boebert. (consideration: CR H4836-4837; text: CR H4836)
+- 2024-07-23 — Amendment (A013) offered by Ms. Boebert. (consideration: CR H4837-4838; text: CR H4837)
+- 2024-07-23 — Amendment (A014) offered by Ms. Boebert. (consideration: CR H4838-4839; text: CR H4838)
+- 2024-07-23 — Amendment (A015) offered by Ms. Boebert. (consideration: CR H4839-4840; text: CR H4839)
+- 2024-07-23 — Amendment (A016) offered by Ms. Boebert. (consideration: CR H4840, H4845-4846; text: CR H4840)
+- 2024-07-23 — Amendment (A017) offered by Ms. Boebert. (consideration: CR H4840-4841; text: CR H4840)
+- 2024-07-23 — Amendment (A018) offered by Ms. Boebert. (consideration: CR H4841, H4846-4847; text: CR H4841)
+- 2024-07-23 — Amendment (A019) offered by Mr. Brecheen. (consideration: CR H4841-4842; text: CR H4841)
+- 2024-07-23 — Amendment (A020) offered by Mr. Brecheen. (consideration: CR H4842-4843; text: CR H4842)
+- 2024-07-23 — Amendment (A021) offered by Mr. Brecheen. (consideration: CR H4843, H4847; text: CR H4843)
+- 2024-07-23 — Amendment (A022) offered by Mr. Brecheen. (consideration: CR H4848; text: CR H4848)
+- 2024-07-23 — Amendment (A023) offered by Mr. Brecheen. (consideration: CR H4848; text: CR H4848)
+- 2024-07-23 — Amendment (A024) offered by Mrs. Cammack. (consideration: CR H4848-4849; text: CR H4849)
+- 2024-07-23 — Amendment (A025) offered by Mr. Griffith. (consideration: CR H4849-4850; text: CR H4849)
+- 2024-07-23 — Amendment (A026) offered by Ms. Hageman. (consideration: CR H4850-4851; text: CR H4850)
+- 2024-07-23 — Amendment (A027) offered by Ms. Hageman. (consideration: CR H4851-4852; text: CR H4851)
+- 2024-07-23 — Amendment (A028) offered by Ms. Hageman. (consideration: CR H4852-4853; text: CR H4852)
+- 2024-07-23 — Amendment (A029) offered by Ms. Hageman. (consideration: CR H4853-4854; text: CR H4853)
+- 2024-07-23 — Amendment (A030) offered by Mrs. Harshbarger. (consideration: CR H4854; text: CR H4854)
+- 2024-07-23 — Amendment (A031) offered by Mr. Huizenga. (consideration: CR H4854-4856; text: CR H4854)
+- 2024-07-23 — Amendment (A032) offered by Mr. Jackson (TX). (consideration: CR H4856; text: CR H4856)
+- 2024-07-23 — Amendment (A033) offered by Mr. Jackson (TX). (consideration: CR H4856-4857; text: CR H4856)
+- 2024-07-23 — Amendments en bloc (A001) offered by Mr. Simpson. (consideration: CR H4826-4828; text: CR H4826-4827)
+- 2024-07-23 — Committee of the Whole House on the state of the Union rises leaving H.R. 8998 as unfinished business.
+- 2024-07-23 — Considered under the provisions of rule H. Res. 1370. (consideration: CR H4798-4857; text of amendment in the nature of a substitute: CR H4801-4826)
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Arrington amendment No. 2.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Arrington amendment No. 3.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Bentz amendment No. 4.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Bice amendment No. 6.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 10.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 11.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 13.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 14.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 15.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 16.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 17.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 18.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 19.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 20.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 7.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 8.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 9.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 21.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 22.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 23.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 24.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Brecheen amendment No. 25.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Cammack amendment No. 30.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 40.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 41.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 42.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 43.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Hageman amendment No. 44.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Harshbarger amendment No. 45.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 46.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson (TX) amendment No. 47.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson (TX) amendment No. 48.
+- 2024-07-23 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 20 minutes of debate on the Simpson amendment en bloc.
+- 2024-07-23 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8998.
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House Amendment Offered
+- 2024-07-23 — House amendment agreed to: On agreeing to the Arrington amendment (A002) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Arrington amendment (A003) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Bentz amendment (A004) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Bice amendment (A005) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A009) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A010) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A011) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A012) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A013) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A014) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A015) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Boebert amendment (A017) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Brecheen amendment (A019) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Cammack amendment (A024) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Griffith amendment (A025) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Hageman amendment (A026) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Hageman amendment (A027) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Hageman amendment (A028) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Hageman amendment (A029) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Huizenga amendment (A031) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Jackson (TX) amendment (A032) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Jackson (TX) amendment (A033) Agreed to by voice vote.
+- 2024-07-23 — House amendment agreed to: On agreeing to the Simpson amendments (A001) Agreed to by voice vote.
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Boebert amendment (A006) Failed by recorded vote: 146 - 264, 1 Present (Roll no. 381).
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Boebert amendment (A007) Failed by recorded vote: 134 - 272, 1 Present (Roll no. 382).
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Boebert amendment (A008) Failed by recorded vote: 145 - 267, 1 Present (Roll no. 383).
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Boebert amendment (A016) Failed by recorded vote: 208 - 211 (Roll no. 384).
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Boebert amendment (A018) Failed by recorded vote: 145 - 268, 1 Present (Roll no. 385).
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Brecheen amendment (A020) Failed by voice vote.
+- 2024-07-23 — House amendment not agreed to: On agreeing to the Brecheen amendment (A021) Failed by recorded vote: 147 - 269 (Roll no. 386).
+- 2024-07-23 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1370 and Rule XVIII.
+- 2024-07-23 — Mr. Simpson moved that the committee rise.
+- 2024-07-23 — On agreeing to the Arrington amendment (A002) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Arrington amendment (A003) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Bentz amendment (A004) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Bice amendment (A005) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A006) Failed by recorded vote: 146 - 264, 1 Present (Roll no. 381).
+- 2024-07-23 — On agreeing to the Boebert amendment (A007) Failed by recorded vote: 134 - 272, 1 Present (Roll no. 382).
+- 2024-07-23 — On agreeing to the Boebert amendment (A008) Failed by recorded vote: 145 - 267, 1 Present (Roll no. 383).
+- 2024-07-23 — On agreeing to the Boebert amendment (A009) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A010) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A011) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A012) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A013) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A014) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A015) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A016) Failed by recorded vote: 208 - 211 (Roll no. 384).
+- 2024-07-23 — On agreeing to the Boebert amendment (A017) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Boebert amendment (A018) Failed by recorded vote: 145 - 268, 1 Present (Roll no. 385).
+- 2024-07-23 — On agreeing to the Brecheen amendment (A019) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Brecheen amendment (A020) Failed by voice vote.
+- 2024-07-23 — On agreeing to the Brecheen amendment (A021) Failed by recorded vote: 147 - 269 (Roll no. 386).
+- 2024-07-23 — On agreeing to the Cammack amendment (A024) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Griffith amendment (A025) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Hageman amendment (A026) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Hageman amendment (A027) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Hageman amendment (A028) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Hageman amendment (A029) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Huizenga amendment (A031) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Jackson (TX) amendment (A032) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Jackson (TX) amendment (A033) Agreed to by voice vote.
+- 2024-07-23 — On agreeing to the Simpson amendments (A001) Agreed to by voice vote.
+- 2024-07-23 — On motion that the committee rise Agreed to by voice vote.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 7, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Boebert demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 8, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 9, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Boebert demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 23, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Brecheen demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 24, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brecheen amendment No. 25, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Harshbarger amendment No. 45, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Roll call votes on amendments in House
+- 2024-07-23 — Rule H. Res. 1370 passed House.
+- 2024-07-23 — Rule provides for consideration of H.R. 8997 and H.R. 8998. The resolution provides for consideration of H.R. 8997 and H.R. 8998 under a structured rule with one hour of general debate and one motion to recommit on each bill.
+- 2024-07-23 — The Speaker designated the Honorable Virginia Foxx to act as Chairwoman of the Committee.
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — 
+- 2024-07-24 — Amendment (A034) offered by Mr. McCormick. (consideration: CR H4868; text: CR H4868)
+- 2024-07-24 — Amendment (A035) offered by Mrs. Miller (IL). (consideration: CR H4868-4869, H4876-4877; text: CR H4868)
+- 2024-07-24 — Amendment (A036) offered by Mrs. Miller (IL). (consideration: CR H4869; text: CR H4869)
+- 2024-07-24 — Amendment (A037) offered by Mrs. Miller (IL). (consideration: CR H4869; text: CR H4869)
+- 2024-07-24 — Amendment (A038) offered by Mr. Obernolte. (consideration: CR H4869-4870; text: CR H4869-4870)
+- 2024-07-24 — Amendment (A039) offered by Mr. Ogles. (consideration: CR H4870-4871; text: CR H4870)
+- 2024-07-24 — Amendment (A040) offered by Mr. Ogles. (consideration: CR H4871-4872; text: CR H4871)
+- 2024-07-24 — Amendment (A041) offered by Mr. Ogles. (consideration: CR H4872-4873; text: CR H4872)
+- 2024-07-24 — Amendment (A042) offered by Mr. Palmer. (consideration: CR H4873-4874; text: CR H4873)
+- 2024-07-24 — Amendment (A043) offered by Mr. Palmer. (consideration: CR H4881-4882; text: CR H4881)
+- 2024-07-24 — Amendment (A044) offered by Mr. Perry. (consideration: CR H4882-4883, H4905; text: CR H4882)
+- 2024-07-24 — Amendment (A045) offered by Mr. Perry. (consideration: CR H4883-4884, H4905-4906; text: CR H4883)
+- 2024-07-24 — Amendment (A046) offered by Mr. Perry. (consideration: CR H4884, H4906-4907; text: CR H4884)
+- 2024-07-24 — Amendment (A047) offered by Mr. Perry. (consideration: CR H4884-4886; text: CR H4884-4885)
+- 2024-07-24 — Amendment (A048) offered by Mr. Perry. (consideration: CR H4886, H4907; text: CR H4886)
+- 2024-07-24 — Amendment (A049) offered by Mr. Stauber. (consideration: CR H4886-4887; text: CR H4887)
+- 2024-07-24 — Amendment (A050) offered by Mr. Stauber. (consideration: CR H4887-4888; text: CR H4887)
+- 2024-07-24 — Amendment (A051) offered by Mr. Stauber. (consideration: CR H4888-4889; text: CR H4888)
+- 2024-07-24 — Amendment (A052) offered by Ms. Tenney. (consideration: CR H4889, H4907-4908; text: CR H4889)
+- 2024-07-24 — Amendment (A053) offered by Ms. Tenney. (consideration: CR H4889-4890; text: CR H4889)
+- 2024-07-24 — Amendment (A054) offered by Mr. Tiffany. (consideration: CR H4890-4891; text: CR H4890)
+- 2024-07-24 — Committee of the Whole House on the state of the Union rises leaving H.R. 8998 as unfinished business.
+- 2024-07-24 — Committee of the Whole House on the state of the Union rises leaving H.R. 8998 as unfinished business.
+- 2024-07-24 — Considered as unfinished business. (consideration: CR H4867-4877)
+- 2024-07-24 — Considered as unfinished business. (consideration: CR H4881-4891)
+- 2024-07-24 — Considered as unfinished business. (consideration: CR H4904-4909)
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 56.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 57.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 72.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (IL) amendment No. 73.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Obernolte amendment No. 75.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 76.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 77.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 78.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 79.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 80.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 81.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 82.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 83.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 84.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 85.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Stauber amendment No. 88.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Stauber amendment No. 89.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Stauber amendment No. 90.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 91.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 92.
+- 2024-07-24 — DEBATE - Pursuant to the provisions of H. Res. 1370, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 93.
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House Amendment Offered
+- 2024-07-24 — House amendment agreed to: On agreeing to the Brecheen amendment (A023) Agreed to by recorded vote: 211 - 202 (Roll no. 388).
+- 2024-07-24 — House amendment agreed to: On agreeing to the Brecheen amendment (A023) Agreed to by recorded vote: 211 - 202 (Roll no. 388).
+- 2024-07-24 — House amendment agreed to: On agreeing to the McCormick amendment (A034) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Miller (IL) amendment (A036) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Miller (IL) amendment (A037) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Obernolte amendment (A038) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Ogles amendment (A039) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Ogles amendment (A040) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Ogles amendment (A041) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Palmer amendment (A042) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Palmer amendment (A043) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Perry amendment (A047) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Perry amendment (A048) Agreed to by recorded vote: 210 - 204 (Roll no. 397).
+- 2024-07-24 — House amendment agreed to: On agreeing to the Stauber amendment (A049) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Stauber amendment (A050) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Stauber amendment (A051) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Tenney amendment (A053) Agreed to by voice vote.
+- 2024-07-24 — House amendment agreed to: On agreeing to the Tiffany amendment (A054) Agreed to by voice vote.
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Brecheen amendment (A022) Failed by recorded vote: 156 - 236 (Roll no. 387). (consideration: CR H4874-4875)
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Brecheen amendment (A022) Failed by recorded vote: 156 - 236 (Roll no. 387). (consideration: CR H4874-4875)
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Harshbarger amendment (A030) Failed by recorded vote: 174 - 239 (Roll no. 389). (consideration: CR H4875-4876)
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Harshbarger amendment (A030) Failed by recorded vote: 174 - 239 (Roll no. 389). (consideration: CR H4875-4876)
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Miller (IL) amendment (A035) Failed by recorded vote: 148 - 267, 1 Present (Roll no. 390).
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Perry amendment (A044) Failed by recorded vote: 207 - 211 (Roll no. 394).
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Perry amendment (A045) Failed by recorded vote: 185 - 231 (Roll no. 395).
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Perry amendment (A046) Failed by recorded vote: 173 - 243 (Roll no. 396).
+- 2024-07-24 — House amendment not agreed to: On agreeing to the Tenney amendment (A052) Failed by recorded vote: 160 - 256, 1 Present (Roll no. 398).
+- 2024-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-07-24 — Mr. Simpson moved that the committee rise.
+- 2024-07-24 — Mr. Simpson moved that the committee rise.
+- 2024-07-24 — On agreeing to the Brecheen amendment (A022) Failed by recorded vote: 156 - 236 (Roll no. 387). (consideration: CR H4874-4875)
+- 2024-07-24 — On agreeing to the Brecheen amendment (A023) Agreed to by recorded vote: 211 - 202 (Roll no. 388). (consideration: CR H4875)
+- 2024-07-24 — On agreeing to the Harshbarger amendment (A030) Failed by recorded vote: 174 - 239 (Roll no. 389). (consideration: CR H4875-4876)
+- 2024-07-24 — On agreeing to the McCormick amendment (A034) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Miller (IL) amendment (A035) Failed by recorded vote: 148 - 267, 1 Present (Roll no. 390).
+- 2024-07-24 — On agreeing to the Miller (IL) amendment (A036) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Miller (IL) amendment (A037) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Obernolte amendment (A038) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Ogles amendment (A039) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Ogles amendment (A040) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Ogles amendment (A041) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Palmer amendment (A042) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Palmer amendment (A043) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Perry amendment (A044) Failed by recorded vote: 207 - 211 (Roll no. 394).
+- 2024-07-24 — On agreeing to the Perry amendment (A045) Failed by recorded vote: 185 - 231 (Roll no. 395).
+- 2024-07-24 — On agreeing to the Perry amendment (A046) Failed by recorded vote: 173 - 243 (Roll no. 396).
+- 2024-07-24 — On agreeing to the Perry amendment (A047) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Perry amendment (A048) Agreed to by recorded vote: 210 - 204 (Roll no. 397).
+- 2024-07-24 — On agreeing to the Stauber amendment (A049) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Stauber amendment (A050) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Stauber amendment (A051) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Tenney amendment (A052) Failed by recorded vote: 160 - 256, 1 Present (Roll no. 398).
+- 2024-07-24 — On agreeing to the Tenney amendment (A053) Agreed to by voice vote.
+- 2024-07-24 — On agreeing to the Tiffany amendment (A054) Agreed to by voice vote.
+- 2024-07-24 — On motion that the committee rise Agreed to by voice vote.
+- 2024-07-24 — On motion that the committee rise Agreed to by voice vote.
+- 2024-07-24 — On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 399).
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Miller (IL) amendment No. 57, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Pingree demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 81, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 82, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 83, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 85, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tenney amendment No. 91, the Chair put the question on agreeing to the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-07-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 210 - 205 (Roll no. 399).
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — Roll call votes on amendments in House
+- 2024-07-24 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8998.
+- 2024-07-24 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-07-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-07-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-07-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-07-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8998.
+- 2024-07-24 — The previous question was ordered pursuant to the rule.
