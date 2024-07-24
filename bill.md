@@ -2,7 +2,7 @@
 legis-num: H. RES. 1367
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1367
@@ -13,14 +13,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Establishment* There is hereby established in the House of Representatives the Task Force on the Attempted Assassination of Donald J. Trump (hereafter in this resolution referred to as the “Task Force”).
 - **(b)** *Composition*
-  - **(1)** *In general* The Task Force shall be composed of not more than 11 Members, Delegates, or the Resident Commissioner appointed by the Speaker, not more than 5 of whom shall be appointed after consultation with the minority leader. The Speaker shall designate one member of the Task Force as its chair. A vacancy in the membership of the Task Force shall be filled in the same manner as the original appointment.
+  - **(1)** *In general* The Task Force shall be composed of not more than 13 Members, Delegates, or the Resident Commissioner appointed by the Speaker, not more than 6 of whom shall be appointed after consultation with the minority leader. The Speaker shall designate one member of the Task Force as its chair. A vacancy in the membership of the Task Force shall be filled in the same manner as the original appointment.
   - **(2)** *Ex officio members* The Speaker and the minority leader shall be ex officio members of the Task Force but shall have no vote in the Task Force and may not be counted for purposes of determining a quorum.
   - **(3)** *Designation of leadership staff member* The Speaker and the minority leader each may designate a leadership staff member to assist in their capacity as ex officio members, with the same access to Task Force meetings, hearings, briefings, and materials as employees of the Task Force and subject to the same security clearance and confidentiality requirements as employees of the Task Force, or as required to conduct the functions of the Task Force.
 
 ## § 2. Jurisdiction; functions
 
 - **(a)** *Functions* The functions of the Task Force shall be to—
-  - **(1)** investigate and fully examine all actions by any agency, Department, officer, or employee of the Federal Government, as well as State and local law enforcement or any other State or local government or private entities or individuals, related to the attempted assassination of Donald J. Trump on July 13, 2024 in Butler, Pennsylvania; and
+  - **(1)** investigate and fully examine all actions by any agency, Department, officer, or employee of the federal government, as well as State and local law enforcement or any other State or local government or private entities or individuals, related to the attempted assassination of Donald J. Trump on July 13, 2024 in Butler, Pennsylvania; and
   - **(2)** issue a final report of its findings to the House not later than December 13, 2024, including any recommendations for legislative reforms necessary to prevent future security lapses.
 - **(b)** *Interim reports* In addition to any final report addressing the matters described in subsection (a), the Task Force may issue such interim reports as it deems necessary.
 - **(c)** *Unclassified form* Any report issued by the Task Force shall be issued in unclassified form but may include a classified annex, a law enforcement-sensitive annex, or both.
