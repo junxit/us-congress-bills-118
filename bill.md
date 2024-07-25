@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 9176
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9176
+
+> To amend the Small Business Act to increase the maximum loan amount for a loan made under section 7(a) of such Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Loans In Our Neighborhoods Act of 2024” or the “LIONs Act of 2024”.
+
+## § 2. Maximum loan amount for a 7(a) loan
+
+Section 7(a)(3)(A) of the Small Business Act (15 U.S.C. 636(a)(3)(A)) is amended by striking “$3,750,000 (or if the gross loan amount would exceed $5,000,000)” and inserting “$7,500,000 (or if the gross loan amount would exceed $10,000,000)”.
