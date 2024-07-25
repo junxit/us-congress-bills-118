@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6213
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-205 amendatory instructions. 57 executed, 148 stated and not applied.
+220 amendatory instructions. 53 executed, 167 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -89,7 +89,7 @@ to guess them.
 
 ### 15 U.S.C. § 8811
 
-> by striking “development” and inserting “research development, and near- and medium-term, and long-term demonstration”; and
+> by striking “development” and inserting “research development, and near- and medium-term, and long-term demonstration”;
 
 | | |
 |---|---|
@@ -125,7 +125,7 @@ to guess them.
 
 ### 15 U.S.C. § 8812
 
-> in paragraph (3), by striking “science and technology” and inserting “science, engineering, and technology research and workforce”; and
+> in paragraph (3), by striking “science and technology” and inserting “science, engineering, and technology research and workforce”;
 
 | | |
 |---|---|
@@ -204,16 +204,7 @@ to guess them.
 | Removed | `information science` |
 | Inserted | `information science, engineering, and technology` |
 
-### 15 U.S.C. § 8814a
-
-> by striking “information science” and inserting “information science, engineering, and technology”; and
-
-| | |
-|---|---|
-| Removed | `information science` |
-| Inserted | `information science, engineering, and technology` |
-
-### 15 U.S.C. § 8831
+### 6 U.S.C. § 1526
 
 > by striking “science and technology” and inserting “science, engineering, and technology”;
 
@@ -222,7 +213,7 @@ to guess them.
 | Removed | `science and technology` |
 | Inserted | `science, engineering, and technology` |
 
-### 15 U.S.C. § 8831
+### 6 U.S.C. § 1526
 
 > by striking “science and technology” and inserting “science, engineering, and technology”;
 
@@ -231,16 +222,16 @@ to guess them.
 | Removed | `science and technology` |
 | Inserted | `science, engineering, and technology` |
 
-### 15 U.S.C. § 8831
+### 6 U.S.C. § 1526
 
-> in paragraph (7), as so redesignated, by striking “infrastructure” and inserting “, communications, sensing, and computing”; and
+> in paragraph (8), as so redesignated, by striking “infrastructure” and inserting “, communications, sensing, and computing”;
 
 | | |
 |---|---|
 | Removed | `infrastructure` |
 | Inserted | `, communications, sensing, and computing` |
 
-### 15 U.S.C. § 8831
+### 6 U.S.C. § 1526
 
 > by striking “and engineering; and” and inserting “, engineering, and technology and expanding the domestic STEM workforce;”; and
 
@@ -339,7 +330,7 @@ to guess them.
 | Removed | `science and engineering` |
 | Inserted | `science, engineering, and technology` |
 
-### 42 U.S.C. § 19261
+### 15 U.S.C. § 8841
 
 > in the subsection heading, by striking “QISE” and inserting “QISET”;
 
@@ -348,16 +339,16 @@ to guess them.
 | Removed | `QISE` |
 | Inserted | `QISET` |
 
-### 42 U.S.C. § 19261
+### 15 U.S.C. § 8841
 
-> by striking “information science and engineering (referred to in this subsection as QISE)” and inserting “information science, engineering, and technology”; and
+> by striking “information science and engineering (referred to in this subsection as QISE)” and inserting “information science, engineering, and technology (referred to in this subsection as QISET)”; and
 
 | | |
 |---|---|
 | Removed | `information science and engineering (referred to in this subsection as QISE)` |
-| Inserted | `information science, engineering, and technology` |
+| Inserted | `information science, engineering, and technology (referred to in this subsection as QISET)` |
 
-### 42 U.S.C. § 19261
+### 15 U.S.C. § 8841
 
 > in subparagraph (A), by striking “QISE” and inserting “quantum information science, engineering, and technology”;
 
@@ -366,7 +357,7 @@ to guess them.
 | Removed | `QISE` |
 | Inserted | `quantum information science, engineering, and technology` |
 
-### 42 U.S.C. § 19261
+### 15 U.S.C. § 8841
 
 > in paragraph (3), by striking “QISE” and inserting “quantum information science, engineering, and technology”; and
 
@@ -377,7 +368,7 @@ to guess them.
 
 ### 15 U.S.C. § 8842
 
-> by striking “5” and inserting “10”;
+> in subsection (a), by striking “5” and inserting “10”;
 
 | | |
 |---|---|
@@ -395,57 +386,30 @@ to guess them.
 
 ### 15 U.S.C. § 8842
 
-> in paragraph (2), by striking “and engineering” and inserting “, engineering, and technology and engineering, including leveraging or expanding activities established pursuant to section 301(d)”;
+> in paragraph (2), by striking “and engineering” and inserting “, engineering, and technology, including leveraging or expanding activities established pursuant to section 301(d)”;
 
 | | |
 |---|---|
 | Removed | `and engineering` |
-| Inserted | `, engineering, and technology and engineering, including leveraging or expanding activities established pursuant to section 301(d)` |
+| Inserted | `, engineering, and technology, including leveraging or expanding activities established pursuant to section 301(d)` |
 
 ### 15 U.S.C. § 8842
 
-> in subparagraph (A), by striking “quantum science” and inserting “quantum information science, engineering, and technology,”;
+> in subparagraph (A), by striking “quantum science” and inserting “quantum information science, engineering, and technology”;
 
 | | |
 |---|---|
 | Removed | `quantum science` |
-| Inserted | `quantum information science, engineering, and technology,` |
+| Inserted | `quantum information science, engineering, and technology` |
 
 ### 15 U.S.C. § 8842
 
-> by striking “established” and inserting “supported”; and
-
-| | |
-|---|---|
-| Removed | `established` |
-| Inserted | `supported` |
-
-### 15 U.S.C. § 8842
-
-> by striking “2019 through 2023” and inserting “2024 through 2028”.
+> in subsection (f), by striking “2019 through 2023” and inserting “2024 through 2028”.
 
 | | |
 |---|---|
 | Removed | `2019 through 2023` |
 | Inserted | `2024 through 2028` |
-
-### 15 U.S.C. § 8852
-
-> in the heading, by striking “Establishment” and inserting “Reauthorization”;
-
-| | |
-|---|---|
-| Removed | `Establishment` |
-| Inserted | `Reauthorization` |
-
-### 15 U.S.C. § 8852
-
-> by striking “establish” and inserting “maintain”;
-
-| | |
-|---|---|
-| Removed | `establish` |
-| Inserted | `maintain` |
 
 ### 15 U.S.C. § 8852
 
@@ -530,12 +494,12 @@ to guess them.
 
 ### 15 U.S.C. § 8854
 
-> in the matter preceding paragraph (1), by striking “and quantum computing clouds” and inserting “, software, and cloud-based quantum”;
+> in the matter preceding paragraph (1), by striking “and quantum computing clouds” and inserting “, software, and cloud-based quantum computers”;
 
 | | |
 |---|---|
 | Removed | `and quantum computing clouds` |
-| Inserted | `, software, and cloud-based quantum` |
+| Inserted | `, software, and cloud-based quantum computers` |
 
 ## Stated, not applied
 
@@ -555,17 +519,18 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8801` | redesignate | by inserting after paragraph (13), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8802` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8802` | strike | in subparagraph (C), by striking “basic”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8802` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8802` | insert | in subparagraph (E), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 8802` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8802` | strike | by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8802` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8802` | insert | by inserting “National Laboratories,” after “Federal laboratories,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8802` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8802` | insert | by inserting “partnerships, research collaborations, and” after “international”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 8802` | strike | in subparagraph (A), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8802` | insert | by inserting “, social benefit,” after “innovation”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8802` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8802` | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8802` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8802` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8811` | strike | by striking “information science and technology”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8811` | strike | by striking “information science and technology”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8811` | insert | by inserting “in diverse sectors” after “applications”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8811` | strike | by striking “fundamental”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8811` | insert | by inserting “infrastructure,” after “demonstration,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8811` | insert | by inserting “and retain” after “to develop”; and | the bill quotes the text inserted but describes where it goes |
@@ -574,50 +539,60 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8812` | insert | by inserting “who shall be” before “appointed”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8812` | insert | by inserting “, and who shall serve a four year term, subject to renewal” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8812` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8812` | strike | in paragraph (6), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8812` | replace | in paragraph (7), by striking the period at the end and inserting “;”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8812` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8812` | insert | in paragraph (7), by inserting “nonprofit research organizations,” after “universities,”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8812` | amend | by adding after paragraph (7), the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8813` | strike | in paragraph (8), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8813` | redesignate | by redesignating paragraph (9) as paragraph (13); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8813` | redesignate | by redesignating paragraph (9) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8813` | insert | by inserting after paragraph (8) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8813` | insert | in paragraph (4), by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 8813` | insert | in paragraph (5), by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8813` | insert | by inserting “, engineering, and technology” after “science”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8813` | insert | by inserting “and conduct comparative benchmarking of Federal investments and research strategies relative to those of our strategic partners and other countries” after “development efforts”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8813` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8813` | insert | by inserting “, technology, and engineering” after “science”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8813` | insert | by inserting “, engineering and technology” after “science”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8813` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8813` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8813` | insert | in subsection (h)(2)(A), by inserting “, including a description of agency roles and responsibilities” before the period. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8813` | insert | in subsection (h)(2)(A), by inserting “, including a description of agency roles and responsibilities” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8813` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8814` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5195c` | redesignate | by redesignating subparagraphs (D), (E), (F), and (G) as subparagraphs (E), (F), (G), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5195c` | insert | by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5195c` | redesignate | in subparagraph (F), as so redesignated, by inserting “, including to address any gaps that may exist” before the semicolon; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5195c` | insert | by inserting “educational,” after “legal,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5195c` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5195c` | insert | by inserting “educational, environmental, health,” after “legal,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5195c` | replace | by striking the period and inserting “;”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5195c` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8814` | insert | in subsection (e), by inserting “through December 31, 2030” after “thereafter”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8814` | insert | by inserting “through December 31, 2030” after “thereafter”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8814` | add-at-end | by adding at the end the following new sentence: “In the first such report required after the date of the enactment of this sentence, the Advisory Committee shall assess the advisability and feasibility of establishing a quantum communic… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8814` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8814a` | strike | in paragraph (10), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8814a` | redesignate | by redesignating paragraph (11) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8814a` | insert | by inserting after paragraph (10) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8814a` | insert | in paragraph (3), by inserting “, or supply chains” after “investments”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8814a` | insert | in paragraph (2), by inserting “or to supply chains” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8814a` | insert | in paragraph (3), by inserting “or supply chains” before the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8814a` | insert | by inserting “and engineering” after “quantum information science”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8814a` | insert | by inserting “any” before “export controls”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8814a` | strike | in paragraph (7), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8814a` | insert | by inserting “nonprofit research organizations,” after “universities,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8814a` | replace | by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8814a` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | The National Quantum Initiative Act is amended by inserting after section 105 the following new section: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 8815` | amend | Section 106(a) of the National Quantum Initiative Act (15 U.S.C. 8815(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8831` | strike | by striking “basic and applied”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8831` | insert | by inserting “attract, educate, and” before “train”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 8831` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8831` | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (7), (8), and (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8831` | insert | by inserting the following after paragraph (4) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8831` | strike | by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8831` | insert | by inserting after paragraph (8) the following the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1526` | strike | by striking “basic and applied”; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 1526` | insert | by inserting “attract, educate, and” before “train”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1526` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1526` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1526` | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (8), (9), and (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1526` | insert | by inserting the following after paragraph (4) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1526` | insert | by inserting “non-profit research organizations,” after “universities,”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1526` | insert | by inserting after paragraph (9) the following the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8831` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8831` | replace | by striking subparagraphs (B) and (C) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8831` | insert | by inserting “periodically, but not less than every five years,” after “shall”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8831` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8831` | replace | by striking subsection (c) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Title II of the National Quantum Initiative Act is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 650` | replace | by striking subsection (c) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 19231` | add-at-end | Title II of the National Quantum Initiative Act is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8841` | insert | in the heading, by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8841` | strike | by striking “basic”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8841` | strike | by striking “basic”; and | the bill quotes the text struck but describes what replaces it |
@@ -629,22 +604,23 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8841` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8841` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862p-6` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 19261` | insert | by inserting “and career and technical education entities” after “colleges”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 19261` | insert | in subparagraph (D), by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 19261` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 19261` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 19261` | redesignate | by inserting after subparagraph (F), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 19261` | insert | by inserting “, engineering, and technology” after “science”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 19261` | insert | by inserting “of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19261(d))” after “section 10661 of the Research and Development, Competition, and Innovation Act”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 19261` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8841` | insert | by inserting “and career and technical education entities” after “colleges”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8841` | insert | in subparagraph (D), by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8841` | insert | in subparagraph (D), by inserting “, including those relevant to emerging technologies, such as artificial intelligence, microelectronics, and nano technology” after “fields”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8841` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8841` | insert | by inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8841` | redesignate | by inserting after subparagraph (F), as so redesignated, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8841` | redesignate | in subparagraph (H), as so redesignated, by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8841` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8841` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8842` | strike | by striking “in consultation with other Federal departments and agencies,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8842` | strike | in the matter preceding paragraph (1), by striking “basic”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8842` | insert | in subparagraph (B), by inserting “health,” after “chemistry,”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8842` | insert | in subparagraph (C), by inserting “, including how each participant will develop and implement outreach activities to increase the participation of women and other students from groups historically underrepresented in STEM” before the se… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8842` | strike | in subparagraph (D), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8842` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8842` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8842` | amend | in subsection (e), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8841` | add-at-end | Title III of the National Quantum Initiative Act (15 U.S.C. 8841 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8851` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8851` | insert | in paragraph (1), by inserting “, engineering, and technology” after “science”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8851` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (5), (6), and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -658,9 +634,10 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8851` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8851` | insert | Title IV of the National Quantum Initiative Act (15 U.S.C. 8851 et seq.) is amended by inserting after section 401 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8852` | strike | by striking “basic”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8852` | insert | in paragraph (2)(C), by inserting “that may include one or more commercial entities,” after “collaborations,”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8852` | insert | in paragraph (2)(C), by inserting “that may include one or more commercial entities” after “collaborations”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8852` | insert | in subsection (b), by inserting “, and should be inclusive of the variety of viable quantum technologies, where appropriate” before the period; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 8852` | insert | in subsection (c), by inserting “, engineering, and technology, accelerating quantum workforce development,” after “science”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 8852` | strike | by striking “basic”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8852` | insert | by inserting “, engineering, and technology, accelerating quantum workforce development,” after “science”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8852` | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8852` | redesignate | by redesignating subparagraph (D) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8852` | insert | by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -677,18 +654,24 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8853` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8853` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8853` | strike | by striking “basic”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 8853` | strike | in paragraph (5), by striking “fundamental”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8853` | strike | in paragraph (5), by striking “fundamental”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 8853` | insert | in subsection (c)(6), by inserting “, including small and medium-sized businesses and startups” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8854` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8854` | replace | in paragraph (4), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8854` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8854` | strike | in paragraph (4), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8854` | replace | in paragraph (5), by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 8854` | redesignate | by redesignating paragraphs (4), (5), (6), (7), and (8) and paragraphs (5), (6), (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8854` | redesignate | by redesignating paragraphs (4), (5), (6), (7), and (8) as paragraphs (5), (6), (7), (8), and (9), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8854` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8854` | redesignate | in paragraph (7), as so redesignated, by inserting “, including small and medium-sized businesses and startups” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8854` | strike | in paragraph (4), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8854` | replace | in paragraph (5), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8854` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | The National Quantum Initiative Act is amended by adding at the end the following new title: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 8851` | add-at-end | Title IV of the National Quantum Initiative Act (15 U.S.C. 8851 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8851` | insert | The table of contents in section 1(b) of the National Quantum Initiative Act (Public Law 115–368; 132 Stat. 5092; 136 Stat. 1441) is amended by inserting after the item relating to section 404 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 8851` | add-at-end | Title IV of the National Quantum Initiative Act (15 U.S.C. 8851 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 19231` | add-at-end | The National Quantum Initiative Act is amended by adding at the end the following new title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7403` | insert | Subsection (a)(1)(A) of section 4 of the Cyber Security Research and Development Act (15 U.S.C. 7403) is amended by inserting “, including post-quantum cryptography (as such term is defined in section 3 of the Quantum Computing Cybersecu… | the bill quotes the text inserted but describes where it goes |
 | — | insert | By inserting after the item relating to section 105 the following new item: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after the item relating to section 201 the following new items: | the bill names no machine-readable US Code section |
 | — | insert | By inserting after the item relating to section 302 the following new items: | the bill names no machine-readable US Code section |
