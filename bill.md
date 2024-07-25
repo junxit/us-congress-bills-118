@@ -2,7 +2,7 @@
 legis-num: H. RES. 1371
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1371
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on March 24, 2021, President Biden asked Vice President Kamala Harris to serve as the administration’s border czar in charge of: working to address the “root causes” of illegal immigration into the United States;
+- Whereas, on March 24, 2021, President Biden tasked Vice President Kamala Harris with working to address illegal immigration into the United States, including “root causes”, and came to be known colloquially as the Biden administration’s “border czar”;
 - Whereas it took Vice President Kamala Harris 93 days as the border czar before finally visiting the southern border on June 25, 2021;
 - Whereas when Vice President Kamala Harris traveled near the southern border for the first time on June 25, 2021, she decided to travel to El Paso, Texas, 800 miles away from the lower Rio Grande;
 - Whereas former United States Border Patrol Chief Raul Ortiz stated that during his two years in the position, “I’ve never had one conversation with the president [Biden] or the vice president [Harris], for that matter. I was the Chief of the Border Patrol, I commanded 21,000 people. That’s a problem.”;
@@ -23,11 +23,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, in May 2024, there were 170,723 illegal immigrant encounters at the United States southern border, a 185 percent increase from the average May encounter total under President Trump;
 - Whereas May 2024 was the 39th straight month where monthly illegal immigrant encounters have been higher than even the highest month seen under President Trump;
 - Whereas illegal immigrants with violent criminal histories who have murdered innocent Americans like Laken Riley, Jocelyn Nungary, Rachel Morin, and others throughout the United States, pose an existential threat to the safety and security of the American people;
-- Whereas, in June 2024, NBC News reported that over 50 illegal immigrants with ties to ISIS were on the loose in the United States after having been released by the Biden administration;
-- Whereas, during the Biden administration, over 350 of these individuals whose names appear on the terrorist watch list were stopped trying to cross the southern border;
-- Whereas, to date in fiscal year 2024, there have been a record-breaking 31,077 Communist Chinese nationals encountered at the southwest border;
+- Whereas, in June 2024, NBC News reported that over 400 illegal immigrants with ties to an ISIS-affiliated smuggling network entered the United States under Border Czar Harris's leadership, and that the whereabouts of over 50 of these individuals were unknown;
+- Whereas, under Border Czar Harris's leadership, multiple illegal aliens with terrorist ties have been released into the United States;
+- Whereas, to date in fiscal year 2024, there have been a record-breaking 31,077 Chinese nationals encountered at the southwest border;
 - Whereas the Biden border crisis is costing the United States approximately $150.7 billion each year and each taxpayer $1,156 each year;
-- Whereas, in May 2024, the Committee on Homeland Security Republicans released documents showing the Biden administration secretly flew over 400,000 illegal immigrants into the country; and
+- Whereas, in April 2024, Republicans on the House Committee on Homeland Security released documents showing the Biden administration, under Border Czar Harris, flew at least 400,000 illegal immigrants into the country through the abuse of parole programs; and
 - Whereas President Biden’s and Border Czar Harris’s far left Democrat open border policies are to blame for this historic crisis, and in August 2022, Biden and his administration decided to make the border crisis significantly worse by formally ending former President Trump’s successful Remain in Mexico program: Now, therefore, be it
 
 That the House of Representatives—
