@@ -1,7 +1,7 @@
 ---
 measure: S. 1524
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 7 executed, 19 stated and not applied.
+46 amendatory instructions. 14 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,6 +87,69 @@ to guess them.
 | Removed | `the employee` |
 | Inserted | `the protected individual` |
 
+### 50 U.S.C. § 3003
+
+> by striking “An employee” and all that follows through “services contractor” and inserting “A protected individual”; and
+
+| | |
+|---|---|
+| Removed | `An employee” and all that follows through “services contractor` |
+| Inserted | `A protected individual` |
+
+### 50 U.S.C. § 3003
+
+> in subparagraph (A), by striking “an employee” and inserting “a protected individual”; and
+
+| | |
+|---|---|
+| Removed | `an employee` |
+| Inserted | `a protected individual` |
+
+### 50 U.S.C. § 3003
+
+> by striking “an employee” and inserting “a protected individual”; and
+
+| | |
+|---|---|
+| Removed | `an employee` |
+| Inserted | `a protected individual` |
+
+### 50 U.S.C. § 3003
+
+> by striking “the employee” and inserting “the protected individual”; and
+
+| | |
+|---|---|
+| Removed | `the employee` |
+| Inserted | `the protected individual` |
+
+### 50 U.S.C. § 3003
+
+> in subparagraph (A), by striking “an employee” and inserting “a protected individual”; and
+
+| | |
+|---|---|
+| Removed | `an employee` |
+| Inserted | `a protected individual` |
+
+### 50 U.S.C. § 3003
+
+> by striking “an employee” and inserting “a protected individual”; and
+
+| | |
+|---|---|
+| Removed | `an employee` |
+| Inserted | `a protected individual` |
+
+### 50 U.S.C. § 3003
+
+> by striking “the employee” and inserting “the protected individual”;
+
+| | |
+|---|---|
+| Removed | `the employee` |
+| Inserted | `the protected individual` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -115,3 +178,16 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | redesignate | by inserting after paragraph (3), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | redesignate | by redesignating subsection (h) as subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | insert | by inserting after subsection (g) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | strike | by striking “disclosing” and all that follows through “evidence of”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3003` | replace | by striking subparagraphs (A), (B), and (C) and inserting the following subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking subparagraph (B) and inserting the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | in paragraph (1), by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking paragraph (7) and inserting the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | by striking subsection (e) and redesignating subsections (f) and (g) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | in subsection (f), as so redesignated, by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking paragraph (1) and inserting the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking subparagraph (B) and inserting the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | add-at-end | in paragraph (1), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | replace | by striking paragraph (7) and inserting the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | by striking subsection (f) and redesignating subsections (g) and (h) as subsections (f) and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | in subsection (f), as so redesignated, by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
