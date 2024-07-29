@@ -1,7 +1,7 @@
 ---
 measure: S. 4610
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4610
@@ -30,3 +30,7 @@ A bill to amend title 36, United States Code, to designate the bald eagle as the
 
 - 2024-06-20 — Introduced in Senate
 - 2024-06-20 — Read twice and referred to the Committee on the Judiciary.
+- 2024-07-29 — Passed Senate without amendment by Unanimous Consent. (text: CR S5541)
+- 2024-07-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (text: CR S5541)
+- 2024-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5541)
+- 2024-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5541)
