@@ -1,0 +1,20 @@
+---
+legis-num: S. 4851
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4851
+
+> To adjust the boundaries of the Golden Gate National Recreation Area to include the Scarper Ridge property.
+
+## § 1. Short title
+
+This Act may be cited as the “Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act of 2024”.
+
+## § 2. Scarper Ridge boundary adjustment
+
+Section 2(a)(2) of Public Law 92–589 (16 U.S.C. 460bb–1(a)(2)) is amended by adding at the end the following:
+
+> - **(F)** Land generally depicted as “Proposed Boundary Addition” on the map entitled “Golden Gate National Recreation Area Proposed Boundary Addition”, numbered 641/193973, and dated July 2024.
