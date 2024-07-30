@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4116
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4116
@@ -30,3 +30,8 @@ Systemic Risk Authority Transparency Act
 - 2023-06-14 — Introduced in House
 - 2023-06-14 — Introduced in House
 - 2023-06-14 — Referred to the House Committee on Financial Services.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 50 - 0.
+- 2024-07-30 — Placed on the Union Calendar, Calendar No. 512.
+- 2024-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-614.
+- 2024-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-614.
