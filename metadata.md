@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 127
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 127
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 
-## Cosponsors (21)
+## Cosponsors (40)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
@@ -39,6 +39,25 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Weber, Randy K. [R-TX-14] (W000814)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Issa, Darrell [R-CA-48] (I000056)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
 
 ## Committees (1)
 
@@ -49,3 +68,8 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-04-09 — Introduced in House
 - 2024-04-09 — Introduced in House
 - 2024-04-09 — Referred to the House Committee on Financial Services.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported by the Yeas and Nays: 28 - 22.
+- 2024-07-30 — Placed on the Union Calendar, Calendar No. 513.
+- 2024-07-30 — Reported by the Committee on Financial Services. H. Rept. 118-615.
+- 2024-07-30 — Reported by the Committee on Financial Services. H. Rept. 118-615.
