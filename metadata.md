@@ -1,7 +1,7 @@
 ---
 measure: S. 133
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 133
@@ -85,3 +85,18 @@ NAPA Reauthorization Act
 - 2024-07-30 — Senate amendment proposed (on the floor): Amendment SA 3201 proposed by Senator Collins.
 - 2024-07-30 — Senate amendment submitted
 - 2024-07-30 — The committee substitute withdrawn by Unanimous Consent.
+- 2024-07-31 — Message on Senate action sent to the House.
+- 2024-08-02 — Held at the desk.
+- 2024-08-02 — Received in the House.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5576-5577)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on S. 133.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bucshon moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5576-5577)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5576-5577)
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-10-01 — Became Public Law No: 118-92.
+- 2024-10-01 — Became Public Law No: 118-92.
+- 2024-10-01 — Signed by President.
+- 2024-10-01 — Signed by President.
