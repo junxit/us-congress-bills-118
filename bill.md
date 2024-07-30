@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 802
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Respect State Housing Laws Act”.
 
-## § 2. Notice
+## § 2. Clarification
 
 Section 4024 of the CARES Act (15 U.S.C. 9058) is amended by striking subsection (c).
