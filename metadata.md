@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7734
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7734
@@ -25,3 +25,11 @@ Personnel Integrity in Veterans Affairs Act of 2024
 - 2024-03-20 — Introduced in House
 - 2024-03-20 — Introduced in House
 - 2024-03-20 — Referred to the House Committee on Veterans' Affairs.
+- 2024-04-04 — Referred to the Subcommittee on Oversight and Investigations.
+- 2024-04-17 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2024-04-17 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2024-07-30 — Placed on the Union Calendar, Calendar No. 511.
+- 2024-07-30 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-613.
+- 2024-07-30 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-613.
