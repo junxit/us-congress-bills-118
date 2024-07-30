@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 134
@@ -16,7 +16,7 @@ Alzheimer’s Accountability and Investment Act
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (24)
+## Cosponsors (41)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -42,6 +42,23 @@ Alzheimer’s Accountability and Investment Act
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Tillis, Thomas [R-NC] (T000476)
 
 ## Committees (1)
 
@@ -55,3 +72,5 @@ Alzheimer’s Accountability and Investment Act
 - 2023-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
 - 2023-07-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders without amendment. Without written report.
 - 2023-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.
+- 2024-07-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5569-5570; text: CR S5569)
+- 2024-07-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5569-5570; text: CR S5569)
