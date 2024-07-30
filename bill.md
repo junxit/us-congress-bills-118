@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6033
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,54 +11,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Supporting Patient Education And Knowledge Act of 2023” or the “SPEAK Act of 2023”.
+This Act may be cited as the “Supporting Patient Education And Knowledge Act of 2024” or the “SPEAK Act of 2024”.
 
-## § 2. Findings
+## § 2. Guidance on furnishing services via telehealth to individuals with limited English proficiency
 
-Congress finds the following:
-
-- **(1)** Telehealth has become a critical source of health care for patients.
-- **(2)** Patients with limited English proficiency have lower telehealth use rates than proficient English speakers.
-- **(3)** Patients with limited English proficiency are less likely to utilize video telehealth options for primary care visits.
-- **(4)** Physicians providing telehealth services for people with limited English proficiency would benefit from additional resources and support.
-- **(5)** Access to telehealth saves patients money through reduced travel costs, as well as time-related tradeoffs.
-
-## § 3. Improved access to health care information technology for non-English speakers task force
-
-- **(a)** *In general* Within 180 days of the passage of this legislation, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall convene a task force known as the “Improved Access to Health Care Information Technology for non-English Speakers Task Force” (in this section referred to as the “Task Force”) to—
-  - **(1)** assess current barriers to health information technology services, including telehealth platforms and patient portals, for people with limited English proficiency; and
-  - **(2)** develop recommendations and best practices for addressing identified barriers including—
-    - **(A)** how health information technology platforms can be designed to maximize access for people with limited English proficiency, including those with additional barriers such as living in rural locations or with communications-related disabilities;
-    - **(B)** how health information technology platforms and language service providers, including providers of remote video interpretation, can improve integration; and
-    - **(C)** how health care providers can best facilitate access to health information technology for their patients with limited English proficiency.
-- **(b)** *Membership* The Task Force shall be composed of representatives of—
-  - **(1)** the Centers for Medicare & Medicaid Services;
-  - **(2)** the Office of the National Coordinator for Health Information Technology;
-  - **(3)** the Health Resources and Services Administration;
-  - **(4)** the Office of Minority Health;
-  - **(5)** the Office for Civil Rights;
-  - **(6)** health information technology service providers, including electronic medical record, remote patient monitoring and tele- and mobile-health vendors and companies;
-  - **(7)** health care providers, including practicing physicians, and hospitals;
-  - **(8)** health care insurance companies;
-  - **(9)** language service companies;
-  - **(10)** interpreter and translator professional associations;
-  - **(11)** health and language services quality certification organizations;
-  - **(12)** patient and consumer advocates, including but not limited to those working directly with limited English-proficient populations; and
-  - **(13)** any other entity determined necessary by the Secretary.
-- **(c)** *Request for information*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue a request for information for health care providers, insurance plans, consumer organizations, language service providers, interpreters and other relevant parties on barriers to providing telehealth services to people with limited English proficiency.
-  - **(2)** *Summary of responses* The Secretary shall compile and summarize the responses to the request for information for the Task Force which shall utilize them in completing its duties under section (a).
-- **(d)** *Submission to Congress*
-  - **(1)** *Interim report* Not later than one year after the date of enactment of this section, the Task Force shall submit to Congress a report on the progress of the Task Force in carrying out subsection (a).
-  - **(2)** *Final report* Not later than 2 years after the date of enactment of this section, and annually thereafter, the Task Force shall submit to the appropriate congressional committees a report on the activities of the Task Force in carrying out subsection (a), including—
-    - **(A)** the results of the assessment under subsection (a)(1); and
-    - **(B)** any recommendations and best practices developed under subsection (a)(2).
-
-## § 4. Best practices publication
-
-No later than 90 days after completion of each report described in section 2(d), the Secretary of Health and Human Services shall publish, publicize, and maintain a website for the purposes of informing health care and technology providers about best practices for connecting people with limited English proficiency to health care information technology services. The website shall provide guidance and resources, identifying best practices in—
-
-- **(1)** facilitating and integrating use of interpreters during telehealth sessions;
-- **(2)** providing accessible instructions on how to access telehealth platforms for people with limited English proficiency;
-- **(3)** improving access to digital patient portals; and
-- **(4)** other topics need appropriate by the Secretary, as advised by the Task Force established under section 3.
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this section, the Secretary of Health and Human Services, in consultation with 1 or more entities from each of the categories described in paragraphs (1) through (7) of subsection (b), shall issue and disseminate, or update and revise as applicable, guidance for the entities described in such subsection on the following:
+  - **(1)** Best practices on facilitating and integrating use of interpreters during a telemedicine appointment.
+  - **(2)** Best practices on providing accessible instructions on how to access telecommunications systems (as such term is used for purposes of section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) for individuals with limited English proficiency.
+  - **(3)** Best practices on improving access to digital patient portals for individuals with limited English proficiency.
+  - **(4)** Best practices on integrating the use of video platforms that enable multi-person video calls furnished via a telecommunications system for purposes of providing interpretation during a telemedicine appointment for an individual with limited English proficiency.
+  - **(5)** Best practices for providing patient materials, communications, and instructions in multiple languages, including text message appointment reminders and prescription information.
+- **(b)** *Entities described* For purposes of subsection (a), an entity described in this subsection is an entity in 1 or more of the following categories:
+  - **(1)** Health information technology service providers, including—
+    - **(A)** electronic medical record companies;
+    - **(B)** remote patient monitoring companies; and
+    - **(C)** telehealth or mobile health vendors and companies.
+  - **(2)** Health care providers, including—
+    - **(A)** physicians; and
+    - **(B)** hospitals.
+  - **(3)** Health insurers.
+  - **(4)** Language service companies.
+  - **(5)** Interpreter or translator professional associations.
+  - **(6)** Health and language services quality certification organizations.
+  - **(7)** Patient and consumer advocates, including such advocates that work with individuals with limited English proficiency.

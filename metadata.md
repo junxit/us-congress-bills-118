@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6033
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6033
@@ -16,7 +16,7 @@ SPEAK Act of 2024
 
 - Rep. Steel, Michelle [R-CA-45] (S001135)
 
-## Cosponsors (14)
+## Cosponsors (29)
 
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
@@ -32,6 +32,21 @@ SPEAK Act of 2024
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Caraveo, Yadira [D-CO-8] (C001134)
+- Rep. Pettersen, Brittany [D-CO-7] (P000620)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Balint, Becca [D-VT-At Large] (B001318)
+- Rep. Phillips, Dean [D-MN-3] (P000616)
+- Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Soto, Darren [D-FL-9] (S001200)
 
 ## Committees (1)
 
@@ -42,3 +57,11 @@ SPEAK Act of 2024
 - 2023-10-24 — Introduced in House
 - 2023-10-24 — Introduced in House
 - 2023-10-25 — Referred to the House Committee on Energy and Commerce.
+- 2023-11-03 — Referred to the Subcommittee on Health.
+- 2024-05-16 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 23 - 0.
+- 2024-05-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.
+- 2024-07-30 — Placed on the Union Calendar, Calendar No. 519.
+- 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-621.
+- 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-621.
