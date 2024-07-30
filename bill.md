@@ -1,0 +1,26 @@
+---
+legis-num: S. 4867
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4867
+
+> To require the Comptroller General of the United States to conduct, and submit to Congress a report describing the results of, a study that analyzes housing programs and services for older individuals under the Older Americans Act of 1965.
+
+## § 1. Short title
+
+This Act may be cited as the “Housing Options for Older Adults Act of 2024 ”.
+
+## § 2. GAO study and report on access to housing for older individuals
+
+Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct, and submit to Congress a report describing the results of, a study that analyzes housing programs and services for older individuals under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), including—
+
+- **(1)** an analysis of the Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities that—
+  - **(A)** assesses any metrics used by the Committee to evaluate the success of the Committee’s activities and related Federal programs;
+  - **(B)** evaluates interagency coordination of Federal housing programs for older individuals; and
+  - **(C)** assesses the availability of affordable housing for older individuals as the result of interagency coordination;
+- **(2)** an analysis of any overlap between, and gaps in, housing programs and services that assist older individuals in obtaining accessible and affordable housing that achieves the objectives of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), including programs under the Administration for Community Living, the Department of Housing and Urban Development, and other Federal programs, as applicable, and the availability, accessibility, and demand for such services;
+- **(3)** an analysis of the availability of affordable housing for such older individuals, to the extent such information is available and taking into consideration incomes and geographic and demographic trends; and
+- **(4)** any recommendations to improve the supply, accessibility, and affordability of housing for older individuals and coordination of services provided under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) and other related Federal programs, as applicable.
