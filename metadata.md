@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 750
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 750
@@ -28,3 +28,7 @@ A resolution commending the Professional Women's Hockey League Minnesota for win
 
 - 2024-06-20 — Introduced in Senate
 - 2024-06-20 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5658; text: 06/20/2024 CR S4188)
+- 2024-07-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5658; text: 06/20/2024 CR S4188)
+- 2024-07-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-07-31 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
