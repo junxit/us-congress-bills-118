@@ -1,7 +1,7 @@
 ---
 measure: S. 2781
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2781
@@ -81,3 +81,18 @@ Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024
 - 2024-07-31 — Senate amendment proposed (on the floor): Amendment SA 3215 proposed by Senator Welch for Senator Heinrich.
 - 2024-07-31 — Senate amendment submitted
 - 2024-07-31 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2024-08-02 — Message on Senate action sent to the House.
+- 2024-08-06 — Held at the desk.
+- 2024-08-06 — Received in the House.
+- 2024-12-10 — Considered under suspension of the rules. (consideration: CR H6570-6578)
+- 2024-12-10 — DEBATE - The House proceeded with forty minutes of debate on S. 2781.
+- 2024-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-10 — Ms. Maloy moved to suspend the rules and pass the bill.
+- 2024-12-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6570-6576)
+- 2024-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6570-6576)
+- 2024-12-12 — Presented to President.
+- 2024-12-12 — Presented to President.
+- 2024-12-17 — Became Public Law No: 118-155.
+- 2024-12-17 — Became Public Law No: 118-155.
+- 2024-12-17 — Signed by President.
+- 2024-12-17 — Signed by President.
