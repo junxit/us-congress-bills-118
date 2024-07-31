@@ -1,0 +1,34 @@
+---
+legis-num: S. 4908
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4908
+
+> To designate the checkpoint of the United States Border Patrol located on United States Highway 90 West in Uvalde County, Texas, as the “James R. Dominguez Border Patrol Checkpoint”.
+
+## § 1. Short title
+
+This Act may be cited as the “James R. Dominguez Memorial Act of 2024”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** A native of San Antonio, Texas, Border Patrol Agent James R. Dominguez—
+  - **(A)** proudly and honorably served his country as an agent of the U.S. Border Patrol for more than 12 years;
+  - **(B)** began his service with the U.S. Border Patrol in 2000; and
+  - **(C)** graduated as part of the 434th session of the Border Patrol Academy.
+- **(2)** Agent Dominguez served at the Uvalde Station in the Del Rio Sector.
+- **(3)** On July 19, 2012, Agent Dominguez stopped to clear debris from the roadway that posed risks to road and community safety along Highway 90 near Cline, Texas. While on scene, Agent Dominguez was struck and killed by a passing vehicle.
+- **(4)** Agent Dominguez is survived by his wife and 4 children.
+
+## § 3. Designation
+
+The checkpoint of the United States Border Patrol located on United States Highway 90 West in Uvalde County, Texas, shall be known and designated as the “James R. Dominguez Border Patrol Checkpoint”.
+
+## § 4. References
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the checkpoint described in section 3 shall be deemed to be a reference to the “James R. Dominguez Border Patrol Checkpoint”.
