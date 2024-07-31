@@ -1,0 +1,34 @@
+---
+legis-num: S. 4903
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4903
+
+> To amend the Workforce Innovation and Opportunity Act to require youth representation on each State workforce development board, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Generation Now Workforce Representation Act of 2024”.
+
+## § 2. Amendments to the Workforce Innovation and Opportunity Act
+
+Section 101 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111) is amended—
+
+- **(1)** in subsection (b)(1)(C)(iii)—
+  - **(A)** in subclause (I)(bb), by striking “and” at the end;
+  - **(B)** by redesignating subclause (II) as subclause (IV); and
+  - **(C)** by inserting after subclause (I) the following:
+    > - **(II)** shall include not less than one representative of youth in the State who is selected in coordination with the State educational agency of the State and—
+    >   - **(aa)** is—
+    >     - **(AA)** an out-of-school youth; or
+    >     - **(BB)** not younger than age 16 or older than age 24 and disconnected from school and work; or
+    >   - **(bb)** has successfully completed a program of youth workforce investment activities under subtitle B or activities under section 171;
+    > - **(III)** shall include not less than one representative from a youth-serving nonprofit organization in the State that—
+    >   - **(aa)** is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code; and
+    >   - **(bb)** provides supportive services to youth; and
+
+- **(2)** by adding at the end the following:
+  > - **(i)** *Standing youth workforce committee* The State board shall have a standing youth workforce committee of members of the State board that shall provide recommendations to the full State board regarding youth workforce investment activities under subtitle B or activities under section 171.
