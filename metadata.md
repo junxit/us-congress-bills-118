@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 753
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 753
@@ -16,9 +16,10 @@ A resolution calling for the immediate release of George Glezmann, a United Stat
 
 - Sen. Ossoff, Jon [D-GA] (O000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murray, Patty [D-WA] (M001111)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution calling for the immediate release of George Glezmann, a United Stat
 
 - 2024-07-09 — Introduced in Senate
 - 2024-07-09 — Referred to the Committee on Foreign Relations.
+- 2024-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 7/9/2024 CR S4269)
+- 2024-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 7/9/2024 CR S4269)
+- 2024-08-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S5836)
+- 2024-08-01 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S5836)
