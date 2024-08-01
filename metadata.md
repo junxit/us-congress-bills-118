@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3608
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3608
@@ -90,3 +90,7 @@ To designate the facility of the United States Postal Service located at 28081 M
 - 2024-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3551)
 - 2024-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3551)
 - 2024-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
