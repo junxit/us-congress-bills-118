@@ -1,7 +1,7 @@
 ---
 measure: S. 4235
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4235
@@ -16,7 +16,7 @@ Reauthorizing Support and Treatment for Officers in Crisis Act of 2024
 
 - Sen. Hawley, Josh [R-MO] (H001089)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Ossoff, Jon [D-GA] (O000174)
@@ -36,6 +36,9 @@ Reauthorizing Support and Treatment for Officers in Crisis Act of 2024
 - Sen. Cotton, Tom [R-AR] (C001095)
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -49,3 +52,5 @@ Reauthorizing Support and Treatment for Officers in Crisis Act of 2024
 - 2024-06-05 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2024-06-05 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
 - 2024-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
+- 2024-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5836; text: CR S5836)
+- 2024-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5836; text: CR S5836)
