@@ -27,72 +27,175 @@ Congress finds the following:
 ## § 3. Additional district judges for the district courts
 
 - **(a)** *Additional judgeships*
-  - **(1)** *2025* On or after January 21, 2025, the President shall appoint, by and with the advice and consent of the Senate—
-    - **(A)** 1 additional district judge for the district of Arizona;
-    - **(B)** 5 additional district judges for the central district of California;
-    - **(C)** 2 additional district judges for the eastern district of California;
-    - **(D)** 3 additional district judges for the northern district of California;
-    - **(E)** 1 additional district judge for the southern district of California;
-    - **(F)** 1 additional district judge for the district of Colorado;
-    - **(G)** 1 additional district judge for the district of Delaware;
-    - **(H)** 2 additional district judges for the middle district of Florida;
-    - **(I)** 1 additional district judge for the southern district of Florida;
-    - **(J)** 1 additional district judge for the northern district of Georgia;
-    - **(K)** 1 additional district judge for the district of Idaho;
-    - **(L)** 1 additional district judge for the southern district of Indiana;
-    - **(M)** 1 additional district judge for the northern district of Iowa;
-    - **(N)** 1 additional district judge for the district of Nebraska;
-    - **(O)** 1 additional district judge for the district of New Jersey;
-    - **(P)** 1 additional district judge for the eastern district of New York;
-    - **(Q)** 1 additional district judge for the southern district of New York;
-    - **(R)** 1 additional district judge for the eastern district of Texas;
-    - **(S)** 1 additional district judge for the northern district of Texas;
-    - **(T)** 2 additional district judges for the southern district of Texas; and
-    - **(U)** 3 additional district judges for the western district of Texas.
-  - **(2)** *2029* On or after January 21, 2029, the President shall appoint, by and with the advice and consent of the Senate—
-    - **(A)** 1 additional district judge for the district of Arizona;
-    - **(B)** 4 additional district judges for the central district of California;
-    - **(C)** 2 additional district judge for the eastern district of California;
-    - **(D)** 3 additional district judges for the northern district of California;
-    - **(E)** 1 additional district judge for the southern district of California;
-    - **(F)** 1 additional district judge for the district of Colorado;
-    - **(G)** 1 additional district judge for the district of Delaware;
-    - **(H)** 3 additional district judges for the middle district of Florida;
-    - **(I)** 1 additional district judge for the northern district of Florida;
-    - **(J)** 2 additional district judges for the southern district of Florida;
-    - **(K)** 1 additional district judge for the northern district of Georgia;
-    - **(L)** 2 additional district judges for the district of New Jersey;
-    - **(M)** 1 additional district judge for the eastern district of New York;
-    - **(N)** 1 additional district judge for the southern district of New York;
-    - **(O)** 1 additional district judge for the western district of New York;
-    - **(P)** 1 additional district judge for the eastern district of Texas;
-    - **(Q)** 2 additional district judge for the southern district of Texas; and
-    - **(R)** 3 additional district judges for the western district of Texas.
+  - **(1)** *2025*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 1 additional district judge for the central district of California;
+      - **(ii)** 1 additional district judge for the eastern district of California;
+      - **(iii)** 1 additional district judge for the northern district of California;
+      - **(iv)** 1 additional district judge for the district of Delaware;
+      - **(v)** 1 additional district judge for the middle district of Florida;
+      - **(vi)** 1 additional district judge for the southern district of Indiana;
+      - **(vii)** 1 additional district judge for the northern district of Iowa;
+      - **(viii)** 1 additional district judge for the district of New Jersey;
+      - **(ix)** 1 additional district judge for the southern district of New York;
+      - **(x)** 1 additional district judge for the eastern district of Texas; and
+      - **(xi)** 1 additional district judge for the southern district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, is amended—
+      - **(i)** by striking the items relating to California and inserting the following:
+      - **(ii)** by striking the item relating to Delaware and inserting the following:
+      - **(iii)** by striking the items relating to Florida and inserting the following:
+      - **(iv)** by striking the items relating to Indiana and inserting the following:
+      - **(v)** by striking the items relating to Iowa and inserting the following:
+      - **(vi)** by striking the item relating to New Jersey and inserting the following:
+      - **(vii)** by striking the items relating to New York and inserting the following:
+      - **(viii)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2025.
+  - **(2)** *2027*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 1 additional district judge for the district of Arizona;
+      - **(ii)** 2 additional district judges for the central district of California;
+      - **(iii)** 1 additional district judge for the eastern district of California;
+      - **(iv)** 1 additional district judge for the northern district of California;
+      - **(v)** 1 additional district judge for the middle district of Florida;
+      - **(vi)** 1 additional district judge for the southern district of Florida;
+      - **(vii)** 1 additional district judge for the northern district of Georgia;
+      - **(viii)** 1 additional district judge for the district of Idaho;
+      - **(ix)** 1 additional district judge for the northern district of Texas; and
+      - **(x)** 1 additional district judge for the southern district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, as amended by paragraph (1) of this subsection, is amended—
+      - **(i)** by striking the item relating to Arizona and inserting the following:
+      - **(ii)** by striking the items relating to California and inserting the following:
+      - **(iii)** by striking the items relating to Florida and inserting the following:
+      - **(iv)** by striking the items relating to Georgia and inserting the following:
+      - **(v)** by striking the item relating to Idaho and inserting the following:
+      - **(vi)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2027.
+  - **(3)** *2029*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 1 additional district judge for the central district of California;
+      - **(ii)** 1 additional district judge for the eastern district of California;
+      - **(iii)** 1 additional district judge for the northern district of California;
+      - **(iv)** 1 additional district judge for the district of Colorado;
+      - **(v)** 1 additional district judge for the district of Delaware;
+      - **(vi)** 1 additional district judge for the district of Nebraska;
+      - **(vii)** 1 additional district judge for the eastern district of New York;
+      - **(viii)** 1 additional district judge for the eastern district of Texas;
+      - **(ix)** 1 additional district judge for the southern district of Texas; and
+      - **(x)** 1 additional district judge for the western district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, as amended by paragraph (2) of this subsection, is amended—
+      - **(i)** by striking the items relating to California and inserting the following:
+      - **(ii)** by striking the item relating to Colorado and inserting the following:
+      - **(iii)** by striking the item relating to Delaware and inserting the following:
+      - **(iv)** by striking the item relating to Nebraska and inserting the following:
+      - **(v)** by striking the items relating to New York and inserting the following:
+      - **(vi)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2029.
+  - **(4)** *2031*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 1 additional district judge for the district of Arizona;
+      - **(ii)** 1 additional district judge for the central district of California;
+      - **(iii)** 1 additional district judge for the eastern district of California;
+      - **(iv)** 1 additional district judge for the northern district of California;
+      - **(v)** 1 additional district judge for the southern district of California;
+      - **(vi)** 1 additional district judge for the middle district of Florida;
+      - **(vii)** 1 additional district judge for the southern district of Florida;
+      - **(viii)** 1 additional district judge for the district of New Jersey;
+      - **(ix)** 1 additional district judge for the western district of New York; and
+      - **(x)** 2 additional district judges for the western district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, as amended by paragraph (3) of this subsection, is amended—
+      - **(i)** by striking the item relating to Arizona and inserting the following:
+      - **(ii)** by striking the items relating to California and inserting the following:
+      - **(iii)** by striking the items relating to Florida and inserting the following:
+      - **(iv)** by striking the item relating to New Jersey and inserting the following:
+      - **(v)** by striking the items relating to New York and inserting the following:
+      - **(vi)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2031.
+  - **(5)** *2033*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 2 additional district judges for the central district of California;
+      - **(ii)** 1 additional district judge for the northern district of California;
+      - **(iii)** 1 additional district judge for the district of Colorado;
+      - **(iv)** 1 additional district judge for the middle district of Florida;
+      - **(v)** 1 additional district judge for the northern district of Florida;
+      - **(vi)** 1 additional district judge for the northern district of Georgia;
+      - **(vii)** 1 additional district judge for the southern district of New York;
+      - **(viii)** 1 additional district judge for the southern district of Texas; and
+      - **(ix)** 1 additional district judge for the western district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, as amended by paragraph (4) of this subsection, is amended—
+      - **(i)** by striking the items relating to California and inserting the following:
+      - **(ii)** by striking the item relating to Colorado and inserting the following:
+      - **(iii)** by striking the items relating to Florida and inserting the following:
+      - **(iv)** by striking the items relating to Georgia and inserting the following:
+      - **(v)** by striking the items relating to New York and inserting the following:
+      - **(vi)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2033.
+  - **(6)** *2035*
+    - **(A)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
+      - **(i)** 2 additional district judges for the central district of California;
+      - **(ii)** 1 additional district judge for the northern district of California;
+      - **(iii)** 1 additional district judge for the southern district of California;
+      - **(iv)** 1 additional district judge for the middle district of Florida;
+      - **(v)** 1 additional district judge for the southern district of Florida;
+      - **(vi)** 1 additional district judge for the district of New Jersey;
+      - **(vii)** 1 additional district judge for the eastern district of New York;
+      - **(viii)** 2 additional district judges for the western district of Texas.
+    - **(B)** *Tables* The table contained in section 133(a) of title 28, United States Code, as amended by paragraph (5) of this subsection, is amended—
+      - **(i)** by striking the items relating to California and inserting the following:
+      - **(ii)** by striking the items relating to Florida and inserting the following:
+      - **(iii)** by striking the item relating to New Jersey and inserting the following:
+      - **(iv)** by striking the items relating to New York and inserting the following:
+      - **(v)** by striking the items relating to Texas and inserting the following:
+    - **(C)** *Effective date* This paragraph shall take effect on January 21, 2035.
 - **(b)** *Temporary judgeships*
   - **(1)** *In general* The President shall appoint, by and with the advice and consent of the Senate—
     - **(A)** 2 additional district judges for the eastern district of Oklahoma; and
     - **(B)** 1 additional district judge for the northern district of Oklahoma.
   - **(2)** *Vacancies not filled* The first vacancy in the office of district judge in each of the offices of district judge authorized by this subsection, occurring 5 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in the applicable district by this subsection, shall not be filled.
   - **(3)** *Effective date* This subsection shall take effect on January 21, 2025.
-- **(c)** *Technical and conforming amendments* The table contained in section 133(a) of title 28, United States Code, is amended—
-  - **(1)** by striking the item relating to Arizona and inserting the following:
-  - **(2)** by striking the items relating to California and inserting the following:
-  - **(3)** by striking the item relating to Colorado and inserting the following:
-  - **(4)** by striking the item relating to Delaware and inserting the following:
-  - **(5)** by striking the items relating to Florida and inserting the following:
-  - **(6)** by striking the items relating to Georgia and inserting the following:
-  - **(7)** by striking the item relating to Idaho and inserting the following:
-  - **(8)** by striking the items relating to Indiana and inserting the following:
-  - **(9)** by striking the items relating to Iowa and inserting the following:
-  - **(10)** by striking the item relating to Nebraska and inserting the following:
-  - **(11)** by striking the item relating to New Jersey and inserting the following:
-  - **(12)** by striking the items relating to New York and inserting the following:
-  - **(13)** by striking the items relating to Texas and inserting the following:
+- **(c)** *Authorization of appropriations*
+  - **(1)** *In general* There is authorized to be appropriated to carry out this section and the amendments made by this section—
+    - **(A)** for each of fiscal years 2025 and 2026, $12,965,330;
+    - **(B)** for each of fiscal years 2027 and 2028, $23,152,375;
+    - **(C)** for each of fiscal years 2029 and 2030, $32,413,325;
+    - **(D)** for each of fiscal years 2031 and 2032, $42,600,370;
+    - **(E)** for each of fiscal years 2033 and 2034, $51,861,320; and
+    - **(F)** for fiscal year 2035 and each fiscal year thereafter, $61,122,270.
+  - **(2)** *Inflation adjustment* For each fiscal year described in paragraph (1), the amount authorized to be appropriated for such fiscal year shall be increased by the percentage by which—
+    - **(A)** the Consumer Price Index for the previous fiscal year, exceeds
+    - **(B)** the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).
+  - **(3)** *Definition* In this subsection, the term Consumer Price Index means the Consumer Price Index for All Urban Consumers (all items, United States city average), published by the Bureau of Labor Statistics of the Department of Labor.
 
-## § 4. GAO report on vacant and underutilized courthouses
+## § 4. Organization of Utah district courts
 
-Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall make publicly available a report identifying Federal courthouses that are vacant or underused.
+Section 125(2) of title 28, United States Code, is amended by striking “and St. George” and inserting “St. George, Moab, and Monticello”.
 
-## § 5. Authorization of appropriations
+## § 5. Organization of Texas district courts
 
-There are authorized to be appropriated such sums as may be necessary to carry out this Act and the amendments made by this Act, including such sums as may be necessary to provide appropriate space and facilities for the judicial positions created by this Act or an amendment made by this Act.
+Section 124(b)(2) of title 28, United States Code, is amended, in the matter preceding paragraph (3), by inserting “and College Station” before the period at the end.
+
+## § 6. Organization of California district courts
+
+Section 84(d) of title 28, United States Code, is amended by inserting “and El Centro” after “at San Diego”.
+
+## § 7. GAO reports
+
+- **(a)** *Judicial caseloads* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives and make publicly available reports—
+  - **(1)** evaluating—
+    - **(A)** the accuracy and objectiveness of case-related workload measures and methodologies used by the Administrative Office of the United States Courts for district courts of the United States and courts of appeals of the United States;
+    - **(B)** the impact of non-case-related activities of judges of the district courts of the United States and courts of appeals of the United States on judicial caseloads; and
+    - **(C)** the effectiveness and efficiency of the policies of the Administrative Office of the United States Courts regarding senior judges; and
+  - **(2)** providing any recommendations of the Comptroller General with respect to the matters described in paragraph (1).
+- **(b)** *Detention space* The Comptroller General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on an assessment of—
+  - **(1)** a determination of the needs of Federal agencies for detention space;
+  - **(2)** efforts by Federal agencies to acquire detention space; and
+  - **(3)** any challenges in determining and acquiring detention space.
+
+## § 8. Public accessibility of the article III judgeship recommendations of the Judicial Conference of the United States report
+
+- **(a)** *In general* The Administrative Office of the United States Courts, in consultation with the Judicial Conference of the United States, shall make publicly available on their website, free of charge, the biennial report entitled “Article III Judgeship Recommendations of the Judicial Conference of the United States”.
+- **(b)** *Contents* The report described in subsection (a) should be released not less frequently than biennially and contain the summaries and all related appendixes supporting the judgeship recommendations of the Judicial Conference of the United States, including—
+  - **(1)** the process used by the Judicial Conference in developing the recommendations;
+  - **(2)** any caseload and methodology changes;
+  - **(3)** judgeship surveys with recommendations; and
+  - **(4)** specific information about each court for which the Judicial Conference recommends additional judgeships.
+- **(c)** *Submission to Congress* The Administrative Office of the United States Courts shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives copies of the report described in subsection (a).

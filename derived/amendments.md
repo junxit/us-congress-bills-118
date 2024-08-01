@@ -1,7 +1,7 @@
 ---
 measure: S. 4199
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-53 amendatory instructions. 0 executed, 53 stated and not applied.
+40 amendatory instructions. 0 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,19 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking the item relating to Arizona and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to Colorado and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to Delaware and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to Georgia and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to Idaho and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to Indiana and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to Iowa and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to Nebraska and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to New Jersey and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to New York and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the items relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to California and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to Delaware and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to Florida and inserting the following: | the bill names no machine-readable US Code section |
