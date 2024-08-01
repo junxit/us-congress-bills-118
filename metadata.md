@@ -1,7 +1,7 @@
 ---
 measure: S. 3475
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3475
@@ -28,3 +28,7 @@ Strengthening the Commercial Driver’s License Information System Act
 
 - 2023-12-12 — Introduced in Senate
 - 2023-12-12 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
