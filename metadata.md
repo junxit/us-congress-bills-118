@@ -1,7 +1,7 @@
 ---
 measure: S. 211
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 211
@@ -34,3 +34,5 @@ SMART Leasing Act
 - 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-35.
 - 2023-05-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-35.
 - 2023-05-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
+- 2024-08-01 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5835-5836; text: CR S5835-5836)
+- 2024-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5835-5836; text: CR S5835-5836)

@@ -1,7 +1,7 @@
 ---
 legis-num: S. 211
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,18 +27,30 @@ This Act may be cited as the “Saving Money and Accelerating Repairs Through Le
 - **(c)** *Monetary consideration*
   - **(1)** *Fair market value* A person or entity entering into a lease under the pilot program shall provide monetary consideration for the lease at fair market value, as determined by the Administrator.
   - **(2)** *Utilization*
-    - **(A)** *In general* The Administrator may use monetary consideration received under this subsection for a lease entered into under the pilot program to cover the full costs to the Administration in connection with the lease.
-    - **(B)** *Capital revitalization and improvements* Any amounts of monetary consideration received under this subsection that are not used in accordance with subparagraph (A) shall—
-      - **(i)** be deposited in a working capital account to be established by the Federal agency engaged in the lease of the property; and
-      - **(ii)** remain available until expended for maintenance, capital revitalization, and improvements of the real property assets and related personal property at the Federal agency, subject to the concurrence of the Administrator.
+    - **(A)** *In general* The Administrator may use monetary consideration received under this subsection for a lease entered into under the pilot program to cover the full costs to the Administrator in connection with the lease.
+    - **(B)** *Capital revitalization and improvements; deficit reduction*
+      - **(i)** *Capital revitalization and improvements* 50 percent of the amounts of monetary consideration received under this subsection that are not used in accordance with subparagraph (A) shall—
+        - **(I)** be deposited in a working capital account to be established by the Federal agency engaged in the lease of the property; and
+        - **(II)** remain available until expended for maintenance, capital revitalization, and improvements of the real property assets and related personal property at the Federal agency, subject to the concurrence of the Administrator.
+      - **(ii)** *Deficit reduction* 50 percent of the amounts of monetary consideration received under this subsection that are not used in accordance with subparagraph (A) shall be deposited in the general fund of the Treasury for the sole purpose of deficit reduction.
 - **(d)** *Additional terms and conditions* The Administrator may require such terms and conditions in connection with a lease under the pilot program as the Administrator considers appropriate to protect the interests of the United States.
 - **(e)** *Relationship to other lease authority* The authority under the pilot program to lease property under the jurisdiction of the Administrator is in addition to any other authority under Federal law to lease property under the jurisdiction of the Administrator.
-- **(f)** *Waiver* A property leased under the pilot program shall not be subject to section 501 of the McKinney–Vento Homeless Assistance Act (42 U.S.C. 11411) before leasing the property under such pilot program.
+- **(f)** *Waiver* A property leased under the pilot program shall not be subject to section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) before leasing the property under such pilot program.
 - **(g)** *Lease restrictions*
   - **(1)** *No leaseback or guaranteed service contract* The Administrator may not lease back property under the pilot program during the term of the lease or enter into guaranteed service or similar contracts with the lessee relating to the property.
   - **(2)** *Certification* The Administrator may not enter into a lease under the pilot program unless the Administrator certifies that the lease will not have a negative impact on the mission of the Administrator or the applicable Federal agency.
   - **(3)** *Maximum number of leases* The Administrator may enter into not more than 6 leases under the pilot program during each fiscal year.
   - **(4)** *Duration of leases* The Administrator may not enter into a lease under the pilot program with a term of more than 15 years.
+  - **(5)** *Prohibition* The Administrator may not enter into a lease under the pilot program with any individual or entity that—
+    - **(A)** intends to carry out, under the lease—
+      - **(i)** activities that are illegal—
+        - **(I)** to conduct in Federal facilities; or
+        - **(II)** under Federal law; or
+      - **(ii)** activities for which Federal funding is prohibited;
+    - **(B)** is a political organization described in section 527 of the Internal Revenue Code of 1986;
+    - **(C)** is owned, operated, or controlled by a foreign government; or
+    - **(D)** received any Federal grant, contract, or award from the applicable Federal agency engaged in the lease that is still in the performance period.
+  - **(6)** *Limitation on use of leases* No lease entered into under the pilot program may be used to carry out lobbying activities (as defined in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602)).
 - **(h)** *Reporting*
   - **(1)** *Annual reports* Not later than January 31 of each year until the year after the year in which authority to enter into leases under the pilot program expires under subsection (i)(1), the Administrator shall submit to the relevant congressional committees a report on the pilot program, including—
     - **(A)** a description of each lease entered into under the pilot program, including the value of the lease, the amount of consideration received, and the use of the consideration received; and
