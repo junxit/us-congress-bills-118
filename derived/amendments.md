@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
