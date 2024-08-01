@@ -1,7 +1,7 @@
 ---
 measure: S. 3946
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3946
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2024-03-14 — Introduced in Senate
 - 2024-03-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
