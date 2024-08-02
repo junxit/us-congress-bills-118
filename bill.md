@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 9296
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9296
+
+> To direct the Secretary of Defense to submit a report to Congress on recruitment and retention efforts under the John S. McCain Strategic Defense Fellows Program, the Presidential Management Fellowship, and the Boren Fellowship, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Next Generation Civilian Leaders Program Act”.
+
+## § 2. DOD report on recruitment and retention under certain fellowship programs
+
+Not later than January 1, 2025, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall submit a report to the Committees on Armed Services of the House of Representatives and the Senate detailing the recruitment and retention of employees under the John S. McCain Strategic Defense Fellows Program (in this Act referred to as the “McCain Fellowship”), the Presidential Management Fellowship (in this Act referred to as the “PMF”), and the Boren Fellowship. The report shall include—
+
+- **(1)** the total number of fellows entering the McCain Fellowship since its inception and their host organization;
+- **(2)** the total number of fellows hired into the Department of Defense from the McCain Fellowship, the PMF, and the Boren Fellowship following the individual’s fellowship tenure’s termination;
+- **(3)** promotion pathways up to level GS–15 of the General Schedule and the Senior Executive Service available to fellows in the McCain Fellowship;
+- **(4)** demographic details on each class of the McCain Fellowship since its inception, including gender, race, geographic diversity, and number of years of work experience prior to employment at the Department of Defense; and
+- **(5)** career development opportunities available to employees hired through the McCain Fellowship, the PMF, or the Boren Fellowship, including detail and secondment assignments to other executive agencies.
