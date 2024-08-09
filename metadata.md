@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2499
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2499
@@ -16,6 +16,11 @@ VA Supply Chain Management System Authorization Act
 
 - Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
 
+## Cosponsors (2)
+
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +30,11 @@ VA Supply Chain Management System Authorization Act
 - 2023-04-06 — Introduced in House
 - 2023-04-06 — Introduced in House
 - 2023-04-06 — Referred to the House Committee on Veterans' Affairs.
+- 2023-04-14 — Referred to the Subcommittee on Oversight and Investigations.
+- 2023-07-19 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2023-07-19 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2024-08-09 — Placed on the Union Calendar, Calendar No. 523.
+- 2024-08-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-625.
+- 2024-08-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-625.
