@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6874
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -43,7 +43,7 @@ This Act may be cited as the “Department of Veterans Affairs Watching over Ele
   - **(4)** a description of how the Secretary plans to eliminate or mitigate, to the extent possible, any such susceptibility.
 - **(e)** *Testing strategy* Not later than one year after the date of the enactment of this Act, the Assistant Secretary for Information and Technology of the Department of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a strategy to reduce the occurrence of adverse events by improving testing for each modification or software update to a covered feature or underlying system or interface.
 - **(f)** *Definitions* In this section:
-  - **(1)** The term adverse event means, with respect to the covered website, including covered features—
+  - **(1)** The term “adverse event” means, with respect to the covered website, including covered features—
     - **(A)** a failure to properly receive or process a submission;
     - **(B)** a system outage;
     - **(C)** an error in an underlying interface or system that prevents the transmission of data;
@@ -52,9 +52,13 @@ This Act may be cited as the “Department of Veterans Affairs Watching over Ele
     - **(F)** a presentation of incorrect information;
     - **(G)** an error regarding a status notification; or
     - **(H)** any similar event that affects a function of the covered website, as determined by the Secretary.
-  - **(2)** The term covered feature means any feature or function of the covered website for use in the facilitation of the application, maintenance, or receipt of benefits under the laws administered by the Secretary.
-  - **(3)** The term covered website means the main internet website of the Department of Veterans Affairs.
-  - **(4)** The term significant adverse event, with respect to the covered website, including covered features, means an adverse event that affects 1,000 or more users of, or submissions to, the covered website.
-  - **(5)** The term underlying interface or system means—
+  - **(2)** The term “covered feature” means any feature or function of the covered website for use in the facilitation of the application, maintenance, or receipt of benefits under the laws administered by the Secretary.
+  - **(3)** The term “covered website” means the main internet website of the Department of Veterans Affairs.
+  - **(4)** The term “significant adverse event”, with respect to the covered website, including covered features, means an adverse event that affects users of, or submissions to, the covered website for a period of 24 hours or longer.
+  - **(5)** The term “underlying interface or system” means—
     - **(A)** any information technology system that transmits data through, or accepts data from, a covered feature; or
     - **(B)** any mechanism through which any such information technology system connects and interacts with the covered website.
+
+## § 3. Adjustment of certain loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 28, 2031”.
