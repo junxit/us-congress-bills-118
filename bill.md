@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6531
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,12 +15,17 @@ This Act may be cited as the “Training Responsible And Informed National VA Em
 
 ## § 2. Training program for certain senior executives and supervisors
 
-- **(a)** *Program required* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall develop a training program for all covered employees. Such training shall be mandatory for all such covered employees and for any individual who is hired to be such an covered employee.
+- **(a)** *Program required* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
+  - **(1)** implement a mandatory training program for all covered employees;
+  - **(2)** annually evaluate such training; and
+  - **(3)** regularly update the curriculum for such program to ensure that such curriculum—
+    - **(A)** covers areas of critical importance to success as a supervisor and leader in the Department of Veterans Affairs; and
+    - **(B)** is based on industry standards for supervisory competencies and needs identified through evaluations under paragraph (2).
 - **(b)** *Consultation* In developing the training required under subsection (a), the Secretary shall consult with the heads of at least three other Federal departments and agencies, including the Department of Defense, to gather information about how such departments and agencies approach management training.
 - **(c)** *Current employees* Any individual who as of the date of the enactment of this Act is an covered employee shall be required, as a condition of continued employment at the Department of Veterans Affairs, to complete the training program developed under subsection (a) by not later than 18 months after the date of the enactment of this Act.
 - **(d)** *Refresher training* The Secretary shall develop a refresher training program for the program required under subsection (a), and each covered employee shall be required, as a condition of continued employment at the Department of Veterans Affairs, to complete such refresher training once every two years.
 - **(e)** *Design of training* The training program required under subsection (a) shall be designed using principles of adult learning and industry standard instructional design. To the extent practicable, the training shall—
-  - **(1)** be instructor-based and provided in-person; and
+  - **(1)** be instructor-based; and
   - **(2)** focus on—
     - **(A)** developing and discussing relevant performance goals and objectives with the employees they supervise;
     - **(B)** communicating and discussing employees’ progress relative to performance goals and objectives, and conducting performance appraisals;
@@ -31,6 +36,11 @@ This Act may be cited as the “Training Responsible And Informed National VA Em
     - **(G)** addressing reports of a hostile work environment, retaliation, or harassment of, or by, another supervisor or employee;
     - **(H)** collaborating with human resources employees to recruit, select, appraise, and reward employees to build a workforce based on organizational goals, budget considerations, and staffing needs; and
     - **(I)** carrying out the duties or responsibilities of a supervisor.
-- **(f)** *Covered employee defined* In this section, the term “covered employee” means an employee of the Department of Veterans Affairs who is—
+- **(f)** *Report* Not later than one year after the date on which the Secretary implements the training program under subsection (a), and annually thereafter, the Secretary shall submit to the Committees on Veterans Affairs of the Senate and House of Representatives a report on the rate at which covered employees completed such training program during the year preceding the date of each such report.
+- **(g)** *Covered employee defined* In this section, the term “covered employee” means an employee of the Department of Veterans Affairs who is—
   - **(1)** a supervisor (as defined in section 7103(a) of title 5, United States Code); or
   - **(2)** a covered individual under section 713 of title 38, United States Code.
+
+## § 3. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “December 4, 2031”.
