@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8631
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8631
@@ -16,11 +16,12 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 - 2024-06-05 — Introduced in House
 - 2024-06-05 — Introduced in House
 - 2024-06-05 — Referred to the House Committee on Homeland Security.
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2024-08-23 — Placed on the Union Calendar, Calendar No. 530.
+- 2024-08-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-633.
+- 2024-08-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-633.
