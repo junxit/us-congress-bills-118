@@ -39,3 +39,5 @@ Veterans Congressional Work Study Act of 2024
 - 2024-07-18 — Placed on the Union Calendar, Calendar No. 496.
 - 2024-07-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-596.
 - 2024-07-18 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-596.
+- 2024-08-27 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 118-596, Part II.
+- 2024-08-27 — Supplemental report filed by the Committee on Veterans' Affairs, H. Rept. 118-596, Part II.

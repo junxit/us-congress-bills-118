@@ -11,26 +11,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Clear Communication for Veterans Claims Act”.
+This Act may be cited as the “Veterans Congressional Work Study Act of 2024”.
 
-## § 2. Independent assessment of notices that the Secretary of Veterans Affairs sends to claimants
+## § 2. Authorized activities in certain congressional offices using Department of Veterans Affairs work-study allowance
 
-- **(a)** *Agreement* Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with an FFRDC for an assessment of notices that the Secretary sends to claimants.
-- **(b)** *Assessment* An FFRDC that enters to an agreement under subsection (a) shall submit to the Secretary a written assessment of such notices. The assessment shall include the following:
-  - **(1)** The determination of the FFRDC, made in consultation with covered entities, whether each such notice may be feasibly altered to reduce paper consumption by, and costs to, the Federal Government.
-  - **(2)** The recommendations of the FFRDC regarding how the Secretary may make such notices clearer to claimants, better organized, and more concise.
-- **(c)** *Report; implementation* Not later than 90 days after the Secretary receives the assessment under subsection (b), the Secretary shall—
-  - **(1)** submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a copy of such assessment; and
-  - **(2)** implement the recommendations in the assessment that are in compliance with the laws administered by the Secretary.
-- **(d)** *Deadline for implementation* The Secretary shall complete the implementation of such recommendations pursuant to subsection (c)(2) by not later than one year after the date on which the Secretary commences such implementation.
-- **(e)** *Definitions* In this section:
-  - **(1)** The term “FFRDC” means a federally funded research and development center.
-  - **(2)** The term “covered entities” includes—
-    - **(A)** the Secretary of Veterans Affairs;
-    - **(B)** an expert in laws administered by the Secretary of Veterans Affairs;
-    - **(C)** a veterans service organization recognized under section 5902 of title 38, United States Code; and
-    - **(D)** an entity that advocates for veterans.
-  - **(3)** The terms “claimant” and “notice” have the meanings given such terms in section 5100 of title 38, United States Code.
+Section 3485 of title 38, United States Code, is amended—
+
+- **(1)** in subsection (a)(5)—
+  - **(A)** in subparagraph (K), by inserting “or at the offices of a committee of the Senate or House of Representatives on behalf of such committee” after “such Members”; and
+  - **(B)** by adding at the end the following new subparagraph:
+    > - **(L)** Activities supporting casework, policy making, and oversight related to the activities of the Department carried out at the offices of a committee of the Senate or House of Representatives, the office of a Member of Congress, the Congressional Research Service, the Government Accountability Office, or the Congressional Budget Office.
+
+- **(2)** by adding at the end the following new subsection:
+  > - **(g)** The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the number of individuals who received a work-study allowance under this section for qualifying work-study activities performed during the year covered by the report at each of the following:
+  >   - **(1)** An office of a Member of Congress.
+  >   - **(2)** A committee of the Senate or House of Representatives.
+  >   - **(3)** The Congressional Research Service.
+  >   - **(4)** The Government Accountability Office.
+  >   - **(5)** The Congressional Budget Office.
 
 ## § 3. Modification of certain housing loan fees
 
