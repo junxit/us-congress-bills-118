@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1398
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,40 +11,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect America’s Innovation and Economic Security from CCP Act”.
+This Act may be cited as the “Protect America’s Innovation and Economic Security from CCP Act of 2024”.
 
-## § 2. CCP Initiative program
+## § 2. CCP Initiative
 
 - **(a)** *Establishment* There is established in the National Security Division of the Department of Justice the CCP Initiative to—
   - **(1)** counter nation-state threats to the United States;
-  - **(2)** curb spying by the Chinese Communist Party on United States intellectual property and academic institutions in the United States; and
-  - **(3)** focus on—
+  - **(2)** curb spying by the Chinese Communist Party on United States intellectual property and academic institutions in the United States;
+  - **(3)** develop an enforcement strategy concerning nontraditional collectors, including researchers in labs, universities, and the defense industrial base, that are being used to transfer technology contrary to United States interests;
+  - **(4)** implement the Foreign Investment Risk Review Modernization Act of 2018 (title XVII of division A of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2173)) for the Department of Justice, including by working with the Department of the Treasury to develop regulations under that Act;
+  - **(5)** identify cases under the Foreign Corrupt Practices Act of 1977 (Public Law 95–213; 91 Stat. 1494) involving Chinese companies that compete with United States businesses; and
+  - **(6)** prioritize—
     - **(A)** identifying and prosecuting those engaged in trade secret theft, hacking, and economic espionage; and
     - **(B)** protecting the critical infrastructure in the United States against external threats through foreign direct investment and supply chain compromises.
-- **(b)** *Steering committee* The CCP Initiative shall be led by a steering committee comprised of—
-  - **(1)** the Assistant Attorney General for National Security;
-  - **(2)** senior officials in the Federal Bureau of Investigation, as determined by the Attorney General;
-  - **(3)** the Assistant Attorney General for the Criminal Division of the Department of Justice;
-  - **(4)** the Executive Assistant Director of the National Security Branch of the Federal Bureau of Investigation; and
-  - **(5)** five United States attorneys, appointed by the Attorney General, from the judicial districts with the most cases involving espionage, intellectual property theft, and trade secrets during the preceding 5-year period.
-- **(c)** *Goals* The CCP Initiative shall have the following goals:
-  - **(1)** Identify priority trade secret theft cases, ensuring that investigations are adequately resourced.
-  - **(2)** Work to bring the cases described in paragraph (1) to fruition in a timely manner and according to the facts and applicable law.
-  - **(3)** Develop an enforcement strategy concerning nontraditional collectors, including researchers in labs, universities, and the defense industrial base, that are being co-opted into transferring technology contrary to United States interests.
-  - **(4)** Educate colleges and universities about potential threats to academic freedom and open discourse from influence efforts on campus.
-  - **(5)** Apply the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611 et seq.) to unregistered agents seeking to advance the political agenda of the People's Republic of China, bringing enforcement actions if appropriate.
-  - **(6)** Equip United States attorneys with intelligence and materials to be used to—
-    - **(A)** raise awareness of the threats described in this section within their judicial districts; and
-    - **(B)** support outreach efforts.
-  - **(7)** Implement the Foreign Investment Risk Review Modernization Act of 2018 (division A of title XVII of Public Law 115–232; 132 Stat. 2173) for the Department of Justice, including by working with the Department of the Treasury to develop regulations under that Act and prepare for increased workflow.
-  - **(8)** Identify opportunities to better address supply chain threats, especially ones impacting the telecommunications sector, prior to the transition to 5G networks.
-  - **(9)** Identify Foreign Corrupt Practices Act of 1977 (Public Law 95–213; 91 Stat. 1494) cases involving Chinese companies that compete with United States businesses.
-  - **(10)** Increase efforts to improve Chinese responses to requests under the Mutual Legal Assistance Agreement with the United States.
-  - **(11)** Evaluate whether additional legislative and administrative authorities are required to protect United States assets from foreign economic aggression.
-- **(d)** *Requirement* Under the CCP Initiative—
-  - **(1)** all investigations and prosecutions shall be set as priority and not based on discretion;
-  - **(2)** the Initiative shall be separate from and not under the authority or discretion of any other Department of Justice initiative dedicated to countering nation-state threats; and
-  - **(3)** all resources used for the CCP Initiative shall solely be set aside for the CCP Initiative and shall not be combined to support any other Department of Justice program, including other programs and initiatives dedicated to countering nation-state threats.
-- **(e)** *Annual briefing* The Attorney General shall brief the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives annually on the progress and challenges of the CCP Initiative.
-- **(f)** *Sunset* This Act is effective beginning on the date of enactment of this Act and ending on the date that is 6 years after that date.
-- **(g)** *Severability* If any provision of this Act, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act, and the application of the provisions of such to any person or circumstance, shall not be affected thereby.
+- **(b)** *Consultation* In executing the CCP Initiative’s objectives as set forth in subsection (a), the Attorney General, acting through the Assistant Attorney General for National Security, shall consult with relevant components of the Department of Justice as necessary, and coordinate activities with the Federal Bureau of Investigation and any other Federal agency as necessary.
+- **(c)** *Requirement* Under the CCP Initiative—
+  - **(1)** the Initiative shall be separate from and not under the authority or discretion of any other Department of Justice initiative dedicated to countering nation-state threats; and
+  - **(2)** all resources used for the CCP Initiative shall solely be set aside for the CCP Initiative and shall not be combined to support any other Department of Justice program, including other programs and initiatives dedicated to countering nation-state threats.
+- **(d)** *Annual report* The Attorney General shall submit annually a written report to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate, and the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives, on the progress and challenges of the CCP Initiative over the preceding year, including—
+  - **(1)** its progress in accomplishing the objectives set forth in subsection (a);
+  - **(2)** the amount and sufficiency of resources provided to, and expended by, the CCP Initiative;
+  - **(3)** the level and effectiveness of coordination with the Federal Bureau of Investigation and other Federal agencies;
+  - **(4)** the status of efforts by the Chinese Communist Party to engage in trade secret theft, hacking, and economic espionage; and
+  - **(5)** the impact of the CCP Initiative on those efforts of the Chinese Communist Party.
+- **(e)** *Sunset* This Act shall take effect on the date of enactment of this Act and cease to be in effect on the date that is 6 years after that date.
+- **(f)** *Severability* If any provision of this Act, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act, and the application of the provisions of such to any person or circumstance, shall not be affected thereby.
