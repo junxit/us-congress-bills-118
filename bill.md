@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3507
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ The purpose of this Act is to discourage the use of discriminatory land use poli
 ## § 3. Land use plan
 
 - **(a)** *In general* Section 104 of the Housing and Community Development Act of 1974 (42 U.S.C. 5304) is amended by adding at the end the following:
-  > - **(n)** *Plan To track discriminatory land use policies*
+  > - **(n)** *Plan to track and reduce discriminatory land use policies*
   >   - **(1)** *In general* Prior to receipt in any fiscal year of a grant from the Secretary under subsection (b), (d)(1), or (d)(2)(B) of section 106, each recipient shall have prepared and submitted, not less frequently than once during the preceding 5-year period, in accordance with this subsection and in such standardized form as the Secretary shall, by regulation, prescribe, with respect to each land use policy described in paragraph (2) that is applicable to the jurisdiction served by the recipient, a description of—
   >     - **(A)** whether the recipient has already adopted the policy in the jurisdiction served by the recipient;
   >     - **(B)** the plan of the recipient to implement the policy in that jurisdiction; or
