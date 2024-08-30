@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8654
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8654
@@ -31,3 +31,9 @@ Streamlining Law Enforcement Information Sharing Act
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Referred to the House Committee on Homeland Security.
 - 2024-06-07 — Referred to the Subcommittee on Counterterrorism, Law Enforcement, and Intelligence.
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported by Voice Vote.
+- 2024-06-12 — Subcommittee on Counterterrorism, Law Enforcement, and Intelligence Discharged
+- 2024-08-30 — Placed on the Union Calendar, Calendar No. 532.
+- 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-635.
+- 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-635.
