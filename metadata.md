@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8658
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8658
@@ -16,6 +16,10 @@ Emerging Digital Identity Ecosystem Report Act of 2024
 
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
+## Cosponsors (1)
+
+- Rep. Foster, Bill [D-IL-11] (F000454)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -26,3 +30,9 @@ Emerging Digital Identity Ecosystem Report Act of 2024
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Referred to the House Committee on Homeland Security.
 - 2024-06-07 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported by Voice Vote.
+- 2024-06-12 — Subcommittee on Transportation and Maritime Security Discharged
+- 2024-08-30 — Placed on the Union Calendar, Calendar No. 535.
+- 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-638.
+- 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-638.
