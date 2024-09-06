@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7347
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7347
@@ -16,6 +16,10 @@ To amend title 38, United States Code, to direct the Secretary of Veterans Affai
 
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
+## Cosponsors (1)
+
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +29,12 @@ To amend title 38, United States Code, to direct the Secretary of Veterans Affai
 - 2024-02-14 — Introduced in House
 - 2024-02-14 — Introduced in House
 - 2024-02-14 — Referred to the House Committee on Veterans' Affairs.
+- 2024-02-29 — Referred to the Subcommittee on Health.
+- 2024-03-21 — Subcommittee Hearings Held
+- 2024-04-16 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2024-04-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported by Voice Vote.
+- 2024-09-06 — Placed on the Union Calendar, Calendar No. 544.
+- 2024-09-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-647.
+- 2024-09-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-647.
