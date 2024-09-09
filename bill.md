@@ -11,37 +11,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Export Control Enforcement and Enhancement Act ”.
+This Act may be cited as the “Export Control Enforcement and Enhancement Act”.
 
 ## § 2. Expedited consideration of proposals for additions to, removals from, or other modifications with respect to entities on the Entity List
 
 Section 1754 of the Export Control Reform Act of 2018 (50 U.S.C. 4813) is amended by adding at the end the following:
 
 > - **(g)** *Expedited consideration of proposals for additions to, removals from, or other modifications with respect to entities on the Entity List*
->   - **(1)** *In general* The Secretary of State, the Secretary of Defense, the Secretary of Energy, or the heads of other Federal agencies as appropriate may submit to the Secretary proposals for additions to, removals from, or other modifications with respect to entities on the list required by subsection (a).
->   - **(2)** *Consideration by Committee* The Secretary shall submit to the Committee each proposal submitted under paragraph (1) and, subject to paragraph (3), the Committee shall vote to approve or disapprove the proposal by not later than the date that is 30 days after the date on which the Committee receives the proposal from the Secretary.
->   - **(3)** *Additional information* The Chair of the Committee, with the concurrence of the head of the Federal agency that submitted the proposal under paragraph (1), may suspend the time period specified in paragraph (2) with respect to consideration of the proposal if the Chair and the head of the agency determine that additional information is required in order make a determination with respect to the proposal.
->   - **(4)** *Committee defined* In this subsection, the term Committee means—
->     - **(A)** the End-User Review Committee established under section 744.16(d) of title 15, Code of Federal Regulations; or
->     - **(B)** any successor committee.
+>   - **(1)** *In general* Any member of the End-User Review Committee may submit a proposal directly to the Committee requesting a vote of all members of the Committee for additions to, removals from, or other modifications with respect to the Entity List. A proposal to add an entity to the Entity List shall be made in accordance with the provisions of paragraph (3).
+>   - **(2)** *Consideration* Subject to paragraph (4)(B), the End-User Review Committee shall vote to approve or disapprove a proposal submitted under paragraph (1) not later than 30 days after the date on which the proposal is submitted to the Committee.
+>   - **(3)** *Additional information* The Chair of the End-User Review Committee, with the concurrence of the member of the Committee that submitted a proposal under paragraph (1), may suspend for an additional 15 days the time period specified in paragraph (2) with respect to consideration of the proposal if the Chair and the member determine that additional information is required in order make a determination with respect to the proposal, including the impact and effect of the proposal.
+>   - **(4)** *Additions to the Entity List*
+>     - **(A)** *In general* An entity may be added to the Entity List if the End-User Review Committee by majority vote of its members has determined that the entity has engaged, is engaged, or is at risk of engaging in activities contrary to the national security or foreign policy interests of the United States.
+>     - **(B)** *Licensing policy*
+>       - **(i)** *In general* Subject to clause (ii), there shall be in effect a policy of presumption of denial for all applications for a license to export, reexport, or in-country transfer any item subject to the Export Administration Regulations if an entity added to the Entity List under this subsection is or would be a party to a transaction with respect to which the application applies.
+>       - **(ii)** *Exception* The licensing policy required by clause (i) shall not apply with respect an entity described in such clause if the members of the End-User Review Committee that voted to add the entity to the Entity List under this subsection agree by majority vote of such members to apply a different policy with respect to the entity for all or specific types of items subject to the Export Administration Regulations that would be in the national security and foreign policy interests of the United States.
+>     - **(C)** *Rule of construction* Nothing in this paragraph may be construed to limit or otherwise affect the escalation procedures described in part 750 of the Export Administration Regulations.
+>   - **(5)** *Administrative provisions*
+>     - **(A)** *In general* Each member of the End-User Review Committee shall have 1 vote with respect to matters described in this subsection. The chairperson of the Committee shall not have the authority to make determinations or override any voting decision with respect to such matters.
+>     - **(B)** *Suspension of voting period* The chairperson of the End-User Review Committee may suspend the 30-day voting period described in paragraph (2) if the members of the Committee unanimously agree to postpone the vote.
+>     - **(C)** *Notice; implementing authority* The chairperson of the End-User Review Committee shall notify the Assistant Secretary of Commerce for Export Administration of all final decisions of the Committee with respect to additions to, removals from, or other modifications with respect to the Entity List under this subsection so that the Assistant Secretary of Commerce for Export Administration may implement all such modifications.
+>   - **(6)** *Definitions* In this subsection—
+>     - **(A)** the terms “End-User Review Committee” and “Committee” mean—
+>       - **(i)** the End-User Review Committee established under section 744.16(d) of title 15, Code of Federal Regulations; and
+>       - **(ii)** any successor committee; and
+>     - **(B)** the term Entity List means the list maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations, or successor regulations.
 
-## § 3. Licensing and presumption of denial requirements relating to the Entity List
+## § 3. Definitions
 
-- **(a)** *In general* The Secretary of Commerce shall—
-  - **(1)** require a license for the export, reexport, release, or in-country transfer of any item (including software and technology) included on the Commerce Control List that is controlled for national security reasons to or in a country subject to an embargo, including an arms embargo, imposed by the United States or to any foreign person included on the Entity List; and
-  - **(2)** except as provided by subsection (b), apply a presumption of denial for an export, reexport, release, or in-country transfer of an item described in paragraph (1).
-- **(b)** *Exception*
-  - **(1)** *In general* The Secretary is not required to apply a presumption of denial under subsection (a)(2) for an export, reexport, release, or in-country transfer of an item described in subsection (a)(1) if the Secretary, in concurrence with all the members of the Committee determines that the recipient of the item has, by clear and convincing evidence, demonstrated in detail that the item will not be diverted or otherwise used for any purpose outside its intended end-use and end-user.
-  - **(2)** *Congressional notification* The Secretary shall submit the appropriate congressional committees a notification not later than 15 days after—
-    - **(A)** the Secretary makes a determination under paragraph (1) not to apply a presumption of denial; or
-    - **(B)** removing the national security as the reason for a control on any item on the Commerce Control List.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
-    - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
-    - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
-  - **(2)** *Commerce Control List* The term “Commerce Control List” means list maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 1 to Part 774 of the Export Administration Regulations.
-  - **(3)** *Committee* The term Committee means—
-    - **(A)** the End-User Review Committee established under section 744.16(d) of title 15, Code of Federal Regulations; or
-    - **(B)** any successor committee.
-  - **(4)** *Entity List* The term “Entity List” means the list maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations, or successor regulations.
-  - **(5)** *Export Administration Regulations* The term “Export Administration Regulations” means the regulations set forth in subchapter C of chapter VII of title 15, Code of Federal Regulations, or successor regulations.
+In this Act:
+
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
+- **(2)** *End-User Review Committee* The term End-User Review Committee means—
+  - **(A)** the End-User Review Committee established under section 744.16(d) of title 15, Code of Federal Regulations; or
+  - **(B)** any successor committee.
+- **(3)** *Export, reexport, and in-country transfer* The terms “export”, “reexport”, and “in-country transfer” have the meanings given such terms in section 1742 of the Export Control Reform Act of 2018 (50 U.S.C. 4801).
+- **(4)** *Entity List* The term Entity List means the list maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations, or successor regulations.
+- **(5)** *Export Administration Regulations* The term Export Administration Regulations means the regulations set forth in subchapter C of chapter VII of title 15, Code of Federal Regulations, or successor regulations.
