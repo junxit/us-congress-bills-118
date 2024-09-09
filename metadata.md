@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6513
@@ -35,3 +35,9 @@ COCOA Act of 2024
 - 2024-01-29 — Placed on the Union Calendar, Calendar No. 296.
 - 2024-01-29 — Reported by the Committee on House Administration. H. Rept. 118-361.
 - 2024-01-29 — Reported by the Committee on House Administration. H. Rept. 118-361.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5049-5051)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6513.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
