@@ -1,7 +1,7 @@
 ---
 measure: S. 2796
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2796
@@ -16,6 +16,11 @@ A bill to provide for the equitable settlement of certain Indian land disputes r
 
 - Sen. Mullin, Markwayne [R-OK] (M001190)
 
+## Cosponsors (2)
+
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+
 ## Committees (1)
 
 - Senate — Indian Affairs Committee
@@ -24,3 +29,8 @@ A bill to provide for the equitable settlement of certain Indian land disputes r
 
 - 2023-09-13 — Introduced in Senate
 - 2023-09-13 — Read twice and referred to the Committee on Indian Affairs.
+- 2024-02-08 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-416.
+- 2024-05-01 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2024-09-09 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-211.
+- 2024-09-09 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-211.
+- 2024-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
