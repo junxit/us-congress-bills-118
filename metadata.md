@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 126
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 126
@@ -32,3 +32,5 @@ Authorizing the use of the rotunda of the Capitol for a ceremony to award posthu
 - 2024-08-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H4994)
 - 2024-08-16 — Referred to the House Committee on House Administration.
 - 2024-08-16 — Without objection, the Chair laid before the House H. Con. Res. 126.
+- 2024-09-09 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
+- 2024-09-09 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5893)
