@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7593
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7593
@@ -40,3 +40,9 @@ Modernizing the Congressional Research Service’s Access to Data Act
 - 2024-08-16 — Placed on the Union Calendar, Calendar No. 528.
 - 2024-08-16 — Reported by the Committee on House Administration. H. Rept. 118-631.
 - 2024-08-16 — Reported by the Committee on House Administration. H. Rept. 118-631.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5047-5049)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7593.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5047-5048)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5047-5048)
