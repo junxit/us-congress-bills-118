@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4763
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4763
@@ -30,10 +30,11 @@ Financial Innovation and Technology for the 21st Century Act
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -98,3 +99,4 @@ Financial Innovation and Technology for the 21st Century Act
 - 2024-05-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4763.
 - 2024-05-22 — The Speaker designated the Honorable Michael Guest to act as Chairman of the Committee.
 - 2024-05-22 — The previous question was ordered pursuant to the rule.
+- 2024-09-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
