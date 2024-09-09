@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4190
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4190
@@ -16,9 +16,12 @@ Restoring Benefits to Defrauded Veterans Act
 
 - Rep. Trone, David J. [D-MD-6] (T000483)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Murphy, Gregory F. [R-NC-3] (M001210)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
 
 ## Committees (1)
 
@@ -29,3 +32,11 @@ Restoring Benefits to Defrauded Veterans Act
 - 2023-06-15 — Introduced in House
 - 2023-06-15 — Introduced in House
 - 2023-06-15 — Referred to the House Committee on Veterans' Affairs.
+- 2023-07-25 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2023-11-29 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2023-11-29 — Subcommittee Consideration and Mark-up Session Held
+- 2023-12-05 — Committee Consideration and Mark-up Session Held
+- 2023-12-05 — Ordered to be Reported by Voice Vote.
+- 2024-09-09 — Placed on the Union Calendar, Calendar No. 552.
+- 2024-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-655.
+- 2024-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-655.
