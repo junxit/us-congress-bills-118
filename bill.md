@@ -36,7 +36,7 @@ This Act may be cited as the “Decoupling from Foreign Adversarial Battery Depe
     - **(B)** There is no available alternative to procure batteries that are—
       - **(i)** of similar or better cost and quality; and
       - **(ii)** produced by an entity not specified in subsection (b).
-  - **(2)** *Relating to research* The Secretary of Homeland Security may waive the limitation under subsection (a) if the Secretary determines that the batteries to be procured are for the sole purpose of research, evaluation, training, testing, or analysis
+  - **(2)** *Relating to research* The Secretary of Homeland Security may waive the limitation under subsection (a) if the Secretary determines that the batteries to be procured are for the sole purpose of research, evaluation, training, testing, or analysis.
   - **(3)** *Congressional notification* Not later than 15 days after granting a waiver under this subsection, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a notification relating thereto.
 - **(e)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the anticipated impacts on mission and costs on the Department of Homeland Security associated with carrying out this section, including with respect to following components of the Department:
   - **(1)** U.S. Customs and Border Protection, including the U.S. Border Patrol.

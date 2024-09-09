@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8631
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8631
@@ -37,3 +37,9 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 - 2024-08-23 — Placed on the Union Calendar, Calendar No. 530.
 - 2024-08-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-633.
 - 2024-08-23 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-633.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5062-5063)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8631.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mr. Gimenez moved to suspend the rules and pass the bill, as amended.
+- 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5062)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5062)
