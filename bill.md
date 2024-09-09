@@ -51,9 +51,14 @@ Congress finds the following:
   - **(3)** the violation of United States export control laws.
 - **(c)** *Sanctions described* The sanctions that may be imposed with respect to a foreign person under subsection (b) are the following:
   - **(1)** *Property blocking* The exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-  - **(2)** *Visa revocation*
-    - **(A)** *In general* An alien described in subsection (b) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
-    - **(B)** *Immediate effect* A revocation under subparagraph (A) shall take effect immediately; and automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
+  - **(2)** *Ineligibility for visas, admission, or parole*
+    - **(A)** *Visas, admission, or parole* An alien described in subsection (b) is—
+      - **(i)** inadmissible to the United States;
+      - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
+      - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+    - **(B)** *Current visas revoked*
+      - **(i)** *In general* An alien described in subsection (b) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
+      - **(ii)** *Immediate effect* A revocation under clause (i) shall take effect immediately and automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
 - **(d)** *Exceptions*
   - **(1)** *Exception for intelligence activities* Sanctions under this section shall not apply to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
   - **(2)** *Exception to comply with international obligations* Sanctions under subsection (c)(2) shall not apply with respect to the admission of an alien if admitting or paroling the alien into the United States is necessary to permit the United States to comply with—
