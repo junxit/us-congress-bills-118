@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7089
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7089
@@ -16,6 +16,14 @@ Global Anti-Human Trafficking Enhancement Act
 
 - Rep. James, John [R-MI-10] (J000307)
 
+## Cosponsors (5)
+
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Ryan, Patrick [D-NY-18] (R000579)
+
 ## Committees (1)
 
 - House — Foreign Affairs Committee
@@ -25,3 +33,11 @@ Global Anti-Human Trafficking Enhancement Act
 - 2024-01-25 — Introduced in House
 - 2024-01-25 — Introduced in House
 - 2024-01-25 — Referred to the House Committee on Foreign Affairs.
+- 2024-02-06 — Committee Consideration and Mark-up Session Held
+- 2024-02-06 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 46 - 0.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5091-5093)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7089.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
+- 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5091-5092)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5091-5092)
