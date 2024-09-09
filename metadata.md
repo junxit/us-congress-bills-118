@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7480
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7480
@@ -16,7 +16,7 @@ Disabled Veterans Housing Support Act
 
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 
-## Cosponsors (13)
+## Cosponsors (20)
 
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
@@ -31,6 +31,13 @@ Disabled Veterans Housing Support Act
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Emmer, Tom [R-MN-6] (E000294)
 
 ## Committees (1)
 
@@ -41,3 +48,8 @@ Disabled Veterans Housing Support Act
 - 2024-02-29 — Introduced in House
 - 2024-02-29 — Introduced in House
 - 2024-02-29 — Referred to the House Committee on Financial Services.
+- 2024-05-16 — Committee Consideration and Mark-up Session Held
+- 2024-05-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 12.
+- 2024-09-09 — Placed on the Union Calendar, Calendar No. 549.
+- 2024-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-652.
+- 2024-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-652.
