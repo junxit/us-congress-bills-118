@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6606
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6606
@@ -25,3 +25,11 @@ To amend the Export Control Reform Act of 2018 relating to the statement of poli
 - 2023-12-05 — Introduced in House
 - 2023-12-05 — Introduced in House
 - 2023-12-05 — Referred to the House Committee on Foreign Affairs.
+- 2023-12-13 — Committee Consideration and Mark-up Session Held
+- 2023-12-13 — Ordered to be Reported by the Yeas and Nays: 43 - 0.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5084-5085)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6606.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mrs. Radewagen moved to suspend the rules and pass the bill.
+- 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5084)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5084)
