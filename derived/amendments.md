@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 118
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
