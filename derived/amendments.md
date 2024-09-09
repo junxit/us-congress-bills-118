@@ -1,7 +1,7 @@
 ---
 measure: S. 4698
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 6 U.S.C. § 348
 
-> in paragraph (13), by striking “2024” and inserting “2029”.
+> in paragraph (13), by striking “2024” and inserting “20292026”.
 
 | | |
 |---|---|
 | Removed | `2024` |
-| Inserted | `2029` |
+| Inserted | `20292026` |
 
 ## Stated, not applied
 

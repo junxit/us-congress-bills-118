@@ -29,7 +29,7 @@ This Act may be cited as the “DHS Joint Task Forces Reauthorization Act of 202
       >   - **(ii)** the staffing plan developed for each Joint Task Force pursuant to subparagraph (A)(iv); and
       >   - **(iii)** any modification to the mission, strategic goals, and objectives of each Joint Task Force, and a description of, and rationale for, any such modifications.
 
-  - **(2)** in paragraph (13), by striking “2024” and inserting “2029”.
+  - **(2)** in paragraph (13), by striking “2024” and inserting “20292026”.
 - **(b)** *Annual briefing*
   - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall brief—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
