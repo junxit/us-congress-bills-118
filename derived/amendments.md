@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8152
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 20 executed, 18 stated and not applied.
+38 amendatory instructions. 24 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `and in-country transfer of items` |
 | Inserted | `in-country transfer, and remote access of items` |
 
+### 50 U.S.C. § 4811
+
+> in the matter preceding clause (i), by striking “release” and inserting “release or remote access”;
+
+| | |
+|---|---|
+| Removed | `release` |
+| Inserted | `release or remote access` |
+
 ### 50 U.S.C. § 4812
 
 > by striking “or in-country transfer” each place it appears and inserting “in-country transfer, or remote access”; and
@@ -44,12 +53,21 @@ to guess them.
 
 ### 50 U.S.C. § 4812
 
-> by striking “subsections (b)(1) or (b)(2)” and inserting “subsections (b)(1), (b)(2), or (b)(8)”.
+> by striking “subsections (b)(1) or (b)(2)” and inserting “subsections (b)(1), (b)(2), or (b)(3)”;
 
 | | |
 |---|---|
 | Removed | `subsections (b)(1) or (b)(2)` |
-| Inserted | `subsections (b)(1), (b)(2), or (b)(8)` |
+| Inserted | `subsections (b)(1), (b)(2), or (b)(3)` |
+
+### 50 U.S.C. § 4813
+
+> in paragraph (3), by striking “and in-country transfers” and inserting “in-country transfers, and remote access”;
+
+| | |
+|---|---|
+| Removed | `and in-country transfers` |
+| Inserted | `in-country transfers, and remote access` |
 
 ### 50 U.S.C. § 4813
 
@@ -71,30 +89,12 @@ to guess them.
 
 ### 50 U.S.C. § 4813
 
-> in paragraph (6), by striking “United States export control” and inserting “United States control”;
-
-| | |
-|---|---|
-| Removed | `United States export control` |
-| Inserted | `United States control` |
-
-### 50 U.S.C. § 4813
-
-> in paragraph (7), by striking “export controls” and inserting “controls”;
-
-| | |
-|---|---|
-| Removed | `export controls` |
-| Inserted | `controls` |
-
-### 50 U.S.C. § 4813
-
-> in paragraph (10), by striking “or in-country transferred” and inserting “in-country transferred or accessed remotely”;
+> in paragraph (10), by striking “or in-country transferred” and inserting “in-country transferred, or remotely accessed”;
 
 | | |
 |---|---|
 | Removed | `or in-country transferred` |
-| Inserted | `in-country transferred or accessed remotely` |
+| Inserted | `in-country transferred, or remotely accessed` |
 
 ### 50 U.S.C. § 4813
 
@@ -123,18 +123,27 @@ to guess them.
 | Removed | `and in-country transfers` |
 | Inserted | `in-country transfers, and remote access` |
 
-### 50 U.S.C. § 4814
+### 50 U.S.C. § 4815
 
-> in subsection (c), by striking “export controls” and inserting “controls”.
+> in subsection (a), in the matter preceding paragraph (1), by striking “and in-country transfer” and inserting “in-country transfer, and remote access”; and
 
 | | |
 |---|---|
-| Removed | `export controls` |
-| Inserted | `controls` |
+| Removed | `and in-country transfer` |
+| Inserted | `in-country transfer, and remote access` |
+
+### 50 U.S.C. § 4815
+
+> in subsection (b), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”;
+
+| | |
+|---|---|
+| Removed | `or in-country transfer` |
+| Inserted | `in-country transfer, or remote access` |
 
 ### 50 U.S.C. § 4816
 
-> in subsection (a), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”; and
+> in section 1757(a) (50 U.S.C. 4816(a)), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”; and
 
 | | |
 |---|---|
@@ -143,16 +152,7 @@ to guess them.
 
 ### 50 U.S.C. § 4819
 
-> in clause (ii), by striking “any export control document or any report” and inserting “any document or report”; and
-
-| | |
-|---|---|
-| Removed | `any export control document or any report` |
-| Inserted | `any document or report` |
-
-### 50 U.S.C. § 4819
-
-> in clause (iii), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”;
+> in subsection (a)(2)(F)(iii), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”;
 
 | | |
 |---|---|
@@ -170,16 +170,16 @@ to guess them.
 
 ### 50 U.S.C. § 4819
 
-> in clause (i), by striking “or in-country transfer outside the United States any item” and inserting “in-country transfer outside the United States any item or remotely access any item”; and
+> in clause (i), by striking “or in-country transfer outside the United States any item” and inserting “in-country transfer outside the United States any item, or remotely access any item”; and
 
 | | |
 |---|---|
 | Removed | `or in-country transfer outside the United States any item` |
-| Inserted | `in-country transfer outside the United States any item or remotely access any item` |
+| Inserted | `in-country transfer outside the United States any item, or remotely access any item` |
 
 ### 50 U.S.C. § 4819
 
-> in clause (ii), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”.
+> in clause (ii), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”;
 
 | | |
 |---|---|
@@ -188,7 +188,25 @@ to guess them.
 
 ### 50 U.S.C. § 4820
 
-> in subsection (h)(1)(B), by striking “or in-country transfer” and inserting “in-country transfer, or remotely access”.
+> in subsection (a)(5), by striking “or in-country transferred” and inserting “in-country transferred, or remotely accessed”;
+
+| | |
+|---|---|
+| Removed | `or in-country transferred` |
+| Inserted | `in-country transferred, or remotely accessed` |
+
+### 50 U.S.C. § 4820
+
+> in subsection (d)(2), by striking “export” each place it appears and inserting “export control”; and
+
+| | |
+|---|---|
+| Removed | `export` |
+| Inserted | `export control` |
+
+### 50 U.S.C. § 4820
+
+> in subsection (h)(1)(B), by striking “or in-country transfer” and inserting “in-country transfer, or remotely access”; and
 
 | | |
 |---|---|
@@ -197,12 +215,30 @@ to guess them.
 
 ### 50 U.S.C. § 4825
 
-> In section 1767(b)(2)(A) (50 U.S.C. 4825(b)(2)(A)), by striking “and in-country transfer” and inserting “in-country transfer, or remote access”.
+> in subsection (a), by striking “or reexport” and inserting “reexport, or remote access”; and
+
+| | |
+|---|---|
+| Removed | `or reexport` |
+| Inserted | `reexport, or remote access` |
+
+### 50 U.S.C. § 4825
+
+> in subparagraph (A), by striking “and in-country transfer” and inserting “in-country transfer, and remote access”; and
 
 | | |
 |---|---|
 | Removed | `and in-country transfer` |
-| Inserted | `in-country transfer, or remote access` |
+| Inserted | `in-country transfer, and remote access` |
+
+### 50 U.S.C. § 4825
+
+> in subparagraph (C), by striking “or in-country transferred” and inserting “in-country transferred, or remotely accessed”.
+
+| | |
+|---|---|
+| Removed | `or in-country transferred` |
+| Inserted | `in-country transferred, or remotely accessed` |
 
 ## Stated, not applied
 
@@ -213,21 +249,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 4801` | add-at-end | In section 1742 (50 U.S.C. 4801), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4811` | insert | in subparagraph (A), by inserting “or remote access of such items” after “export of items”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 4811` | insert | in subparagraph (B), by inserting “or remote access of such items” after “export of items”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 4811` | insert | in subparagraph (A), by inserting “or remote access” after “the release”. | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4801` | add-at-end | in section 1742 (50 U.S.C. 4801), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4811` | insert | in subparagraph (A), by inserting “or remote access” after “export”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4811` | insert | in subparagraph (B), by inserting “or remote access” after “export”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4811` | replace | in clause (iv), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4811` | replace | in clause (v), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4811` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4812` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4812` | replace | in paragraph (2)(F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4812` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4812` | strike | in paragraph (6), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 4812` | replace | in paragraph (7), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 4812` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4813` | insert | in paragraph (3), by inserting “and remote access of controlled items” after “in-country transfers of controlled items”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 4812` | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (4) through (8), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4812` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4813` | add-at-end | in paragraph (11), by adding at the end before the semicolon the following: “or remote access”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4813` | add-at-end | in paragraph (15), by adding at the end before “; and” the following: “or remotely access”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4813` | replace | in subsection (d)(1)(A), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4815` | replace | in subsection (a), in the matter preceding paragraph (1), by striking “and in-country transfer” and inserting “in-country transfer, and remote access”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4815` | replace | in subsection (b), by striking “or in-country transfer” and inserting “in-country transfer, or remote access”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4816` | replace | in subsection (c)(2), by striking “export controls” and inserting “controls”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4820` | replace | in subsection (a)(5), by striking “or in-country transferred” and inserting “in-country transferred, or remotely accessed”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4813` | add-at-end | in paragraph (15), by adding at the end before “; and” the following: “or remotely access (including the provision thereof)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4813` | amend | in subsection (d)(1), by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
