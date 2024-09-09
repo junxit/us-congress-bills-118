@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7592
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7592
@@ -39,3 +39,9 @@ To direct the Librarian of Congress to promote the more cost-effective, efficien
 - 2024-08-16 — Placed on the Union Calendar, Calendar No. 529.
 - 2024-08-16 — Reported by the Committee on House Administration. H. Rept. 118-632.
 - 2024-08-16 — Reported by the Committee on House Administration. H. Rept. 118-632.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5046-5047)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7592.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
