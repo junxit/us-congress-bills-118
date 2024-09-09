@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6614
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,17 +19,16 @@ Section 1756 of the Export Control Reform Act of 2018 (50 U.S.C. 4815) is amende
 
 > - **(e)** *Report*
 >   - **(1)** *In general* Not later than 90 days after the date of the enactment of this subsection, and not less frequently than every 90 days thereafter, the Secretary, shall submit to the appropriate congressional committees a report on license applications, enforcement actions, and other requests for authorization for the export, reexport, release, and in-country transfer of items controlled under this part to covered entities.
->   - **(2)** *Elements* The report required by paragraph (1) shall include, with respect to the preceding 90-day period, the following:
->     - **(A)** For each license application or other request for authorization—
->       - **(i)** the name of the entity submitting the application (both parent company as well as the subsidiary directly involved), a brief description of the item (including the Export Control Classification Number (ECCN) and level of control, if applicable), the name of the end-user, the end-user’s location, a value estimate, decision with respect to the license application or authorization, and the date of submission; and
->       - **(ii)** the date, location, and result of site inspections, monitoring, and enforcement actions to ensure compliance with United States export controls.
->     - **(B)** Aggregate statistics on all license applications and other requests for authorization as described in subparagraph (A).
->     - **(C)** For each license denial in which items in category EAR99 constitute at least 50 percent of the financial value of the license application, a list detailing what specific items are being denied a license.
->   - **(3)** *Definitions* In this section—
+>   - **(2)** *Elements* The report required by paragraph (1) shall include, with respect to the 90 days preceding the previous 90-day period, the following:
+>     - **(A)** For each license application or other request for authorization, the name of the entity submitting the application (both parent company as well as the subsidiary directly involved), a brief description of the item (including the Export Control Classification Number (ECCN) and level of control, if applicable), the name of the end-user, the end-user’s location, a value estimate, decision with respect to the license application or authorization, and the date of submission.
+>     - **(B)** The date, location, and result of site inspections, monitoring, and enforcement actions to ensure compliance with United States export controls.
+>     - **(C)** Aggregate statistics on all license applications and other requests for authorization as described in subparagraph (A).
+>     - **(D)** For each license denial in which items in category EAR99 constitute at least 50 percent of the financial value of the license application, a list detailing what specific items are being denied a license.
+>   - **(3)** *Confidentiality of information* The information required to be provided in the reports required by this subsection (other than the information required by paragraph (2)(C)) shall be exempt from public disclosure pursuant to section 1761(h)(1).
+>   - **(4)** *Definitions* In this subsection—
 >     - **(A)** the term ‘appropriate congressional committees’ means—
 >       - **(i)** the Committee on Foreign Affairs of the House of Representatives; and
 >       - **(ii)** the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 >     - **(B)** the term ‘covered entity’ means any entity included on—
->       - **(i)** the list maintained and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations;
->       - **(ii)** the list maintained and set forth in Supplement No. 7 to part 744 of the Export Administration Regulations; or
->       - **(iii)** the list maintained and published under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note).
+>       - **(i)** the list maintained and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations; or
+>       - **(ii)** the list maintained and set forth in Supplement No. 7 to part 744 of the Export Administration Regulations.
