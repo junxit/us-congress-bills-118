@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1056
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1056
@@ -50,3 +50,11 @@ Recognizing the importance of trilateral cooperation among the United States, Ja
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Referred to the House Committee on Foreign Affairs.
+- 2024-05-16 — Committee Consideration and Mark-up Session Held
+- 2024-05-16 — Ordered to be Reported by Unanimous Consent.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5085-6086)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1056.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mrs. Radewagen moved to suspend the rules and agree to the resolution.
+- 2024-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5085)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5085)
