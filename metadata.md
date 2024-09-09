@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7686
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7686
@@ -29,3 +29,14 @@ To amend the Research and Development, Competition, and Innovation Act to clarif
 - 2024-03-15 — Introduced in House
 - 2024-03-15 — Introduced in House
 - 2024-03-15 — Referred to the House Committee on Science, Space, and Technology.
+- 2024-03-20 — Committee Consideration and Mark-up Session Held
+- 2024-03-20 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 0.
+- 2024-09-09 — Considered under suspension of the rules. (consideration: CR H5039-5041)
+- 2024-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7686.
+- 2024-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-09 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5039-5040)
+- 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5039-5040)
+- 2024-09-09 — Placed on the Union Calendar, Calendar No. 550.
+- 2024-09-09 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-653.
+- 2024-09-09 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-653.

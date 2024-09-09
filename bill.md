@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Clarification of definition of foreign country for purposes of malign foreign talent recruitment restriction
 
-Section 10638 of title VI of division B of the Research and Development, Competition, and Innovation Act is amended—
+Paragraph (4) of section 10638 of title VI of division B of the Research and Development, Competition, and Innovation Act is amended—
 
 - **(1)** by inserting “of concern” after “foreign country” each place such term appears;
 - **(2)** by striking “means—” and all that follows through “any program, position, or activity” and inserting “means any program, position, or activity”;
