@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2911
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 

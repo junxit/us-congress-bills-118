@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2911
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2911
@@ -16,7 +16,7 @@ Fairness for Servicemembers and their Families Act of 2024
 
 - Rep. Strickland, Marilyn [D-WA-10] (S001159)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Kim, Andy [D-NJ-3] (K000394)
@@ -26,6 +26,9 @@ Fairness for Servicemembers and their Families Act of 2024
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 - Rep. Slotkin, Elissa [D-MI-7] (S001208)
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Issa, Darrell [R-CA-48] (I000056)
 
 ## Committees (1)
 
@@ -36,3 +39,12 @@ Fairness for Servicemembers and their Families Act of 2024
 - 2023-04-26 — Introduced in House
 - 2023-04-26 — Introduced in House
 - 2023-04-26 — Referred to the House Committee on Veterans' Affairs.
+- 2023-05-12 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2024-04-10 — Subcommittee Hearings Held
+- 2024-04-16 — Forwarded by Subcommittee to Full Committee in the Nature of a Substitute by Voice Vote.
+- 2024-04-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported by Voice Vote.
+- 2024-09-09 — Placed on the Union Calendar, Calendar No. 551.
+- 2024-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-654.
+- 2024-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-654.
