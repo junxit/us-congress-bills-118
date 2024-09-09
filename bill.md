@@ -29,17 +29,12 @@ It is the sense of Congress as follows:
   - **(B)** preserves the Pacific Ocean as a corridor for international maritime economic opportunities and growth and promotes sustainable development;
   - **(C)** supports regional efforts to address shared challenges, including by strengthening resilience to natural disasters and stewardship of natural resources; and
   - **(D)** strengthens democratic governance and the rule of law, and promotes human rights and the preservation of the region’s cultural heritages.
-- **(4)** The United States should support the vision, values, and objectives of existing regional multilateral institutions and frameworks, such as the Pacific Islands Forum and the Pacific Community, including—
-  - **(A)** the 2000 Biketawa Declaration;
-  - **(B)** the 2014 Framework for Pacific Regionalism;
-  - **(C)** the 2018 Boe Declaration on Regional Security;
-  - **(D)** the Boe Declaration Action Plan; and
-  - **(E)** the 2050 Strategy for the Blue Pacific Continent.
+- **(4)** The United States should support the vision, values, and objectives of existing regional multilateral institutions and frameworks, such as the Pacific Islands Forum and the Pacific Community.
 - **(5)** The United States should work closely with United States allies and partners with existing relationships and interests in the Pacific Islands, such as Australia, Japan, South Korea, New Zealand, and Taiwan, and regional institutions like the Pacific Islands Forum.
 
 ## § 3. Strategy for Pacific Partnership
 
-- **(a)** *In general* Not later than January 1, 2026, and every 4 years thereafter, the President, in coordination with the Secretary of State, shall develop and submit to the appropriate congressional committees a strategy entitled the “Strategy for Pacific Partnership” (in this section referred to as the “Strategy”).
+- **(a)** *In general* Not later than January 1, 2026, and again not later than January 1, 2030, the President, in coordination with the Secretary of State, shall develop and submit to the appropriate congressional committees a strategy entitled the “Strategy for Pacific Partnership” (in this section referred to as the “Strategy”).
 - **(b)** *Matters To be included* The Strategy shall include each of the following:
   - **(1)** A description of overarching goals for United States engagement in the Pacific Islands region, including United States diplomatic posts, defense posture, and economic engagement.
   - **(2)** An assessment of threats and pressures to the Pacific Islands region including those caused by factors such as—
@@ -84,7 +79,7 @@ The provisions of the International Organizations Immunities Act (22 U.S.C. 288 
   - **(1)** deconflicting programming;
   - **(2)** ensuring that any programming does not adversely affect the absorptive capacity of the Pacific Islands;
   - **(3)** ensuring complementary programs benefit the Pacific Islands to the maximum extent practicable; and
-  - **(4)** ensuring that programming aligns with regional development goals, as outlined by documents such as the 2050 Strategy for the Blue Pacific Continent in order to support sustainable development and promote a shared vision for the future of the Pacific Islands.
+  - **(4)** ensuring that programming aligns with regional development goals to promote a shared vision for the future of the Pacific Islands.
 - **(b)** *Formal consultative process* The President should establish a formal consultative process with such regional allies and partners to coordinate with respect to such programs and future-years programming.
 
 ## § 7. Reporting
