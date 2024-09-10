@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8663
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8663
@@ -21,9 +21,10 @@ DETECT Fentanyl and Xylazine Act of 2024
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ DETECT Fentanyl and Xylazine Act of 2024
 - 2024-09-09 — Mr. Gimenez moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5064)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5064)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
