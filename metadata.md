@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7701
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7701
@@ -26,10 +26,11 @@ No Russian Tunnel to Crimea Act
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ No Russian Tunnel to Crimea Act
 - 2024-09-09 — Mr. Barr moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5078-5079)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5078-5079)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
