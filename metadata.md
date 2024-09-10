@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6614
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6614
@@ -20,9 +20,10 @@ Maintaining American Superiority by Improving Export Control Transparency Act
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Maintaining American Superiority by Improving Export Control Transparency Act
 - 2024-09-09 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5093)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5093)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
