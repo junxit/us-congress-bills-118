@@ -1,7 +1,7 @@
 ---
 measure: H.R. 510
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 510
@@ -21,9 +21,10 @@ Chinese Currency Accountability Act of 2023
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Chinese Currency Accountability Act of 2023
 - 2024-09-09 — Mrs. Kim (CA) moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5041)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5041)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
