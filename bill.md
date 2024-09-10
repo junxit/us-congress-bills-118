@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5870
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,23 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veteran Appeals Transparency Act of 2023”.
+This Act may be cited as the “Veteran Appeals Transparency Act of 2024”.
 
-## § 2. Options of claimants for benefits under laws administered by Secretary of Veterans Affairs following decision by agency of original jurisdiction
-
-Section 5104C(a) of title 38, United States Code, is amended—
-
-- **(1)** in paragraph (1), by striking “any of the following” and inserting “one of the following”; and
-- **(2)** in paragraph (2)(B)—
-  - **(A)** by striking “Nothing in this subsection shall prohibit a claimant from taking” and inserting “A claimant may take”;
-  - **(B)** by striking “in succession”; and
-  - **(C)** by striking the period and inserting “as long as—”; and
-  - **(D)** by adding at the end the following new clauses:
-    > - **(i)** the claimant only takes one such action at a time; and
-    > - **(ii)** any such action is taken in response to, and not later than one year after, the date of the most recent decision on the claim made by the agency of original jurisdiction
-
-## § 3. Board of Veterans’ Appeals publication of dates of docket activity
+## § 2. Board of Veterans’ Appeals publication of dates of docket activity
 
 Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection:
 
-> - **(f)** *Publication of expected actions* On a weekly basis, for each docket, the Board shall publish the docket dates of the cases assigned to a Board member for a decision for that week.
+> - **(f)** *Publication of expected actions*
+>   - **(1)** On a weekly basis, for each docket, the Board shall publish, on a website of the Department, notice of the docket dates of the cases assigned to a Board member for a decision for that week.
+>   - **(2)** Each notice published under paragraph (1) shall include a statement that an assignment described in such paragraph does not require the Board to issue a decision regarding the case during such week.
+>   - **(3)** Paragraph (1) shall not apply to a case—
+>     - **(A)** that has been advanced under subsection (b); or
+>     - **(B)** remanded by the United States Court of Appeals for Veterans Claims.

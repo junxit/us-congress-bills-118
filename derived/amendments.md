@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5870
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (1), by striking “any of the following” and inserting “one of the following”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Nothing in this subsection shall prohibit a claimant from taking” and inserting “A claimant may take”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “in succession”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period and inserting “as long as—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
