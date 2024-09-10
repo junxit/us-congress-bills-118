@@ -1,0 +1,18 @@
+---
+legis-num: S. 5006
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5006
+
+> To redesignate certain facilities at Paterson Great Falls National Historical Park in honor of Congressman Bill Pascrell, Jr.
+
+## § 1. Redesignation of Paterson Great Falls National Historical Park facilities
+
+- **(a)** *Great Falls Scenic Overlook Trail Bridge* Great Falls Scenic Overlook Trail Bridge at Paterson Great Falls National Historical Park shall hereafter be known and designated as “Congressman Bill Pascrell, Jr. Scenic Overlook Trail Bridge”.
+- **(b)** *Overlook Park* Overlook Park at Paterson Great Falls National Historical Park shall hereafter be known and designated as “Congressman Bill Pascrell, Jr. Overlook Park”.
+- **(c)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to—
+  - **(1)** Great Falls Scenic Overlook Trail Bridge shall be deemed to be a reference to Congressman Bill Pascrell, Jr. Scenic Overlook Trail Bridge; and
+  - **(2)** Overlook Park shall be deemed to be a reference to Congressman Bill Pascrell, Jr. Overlook Park.
