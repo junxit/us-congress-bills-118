@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5890
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the heading, by striking “compensation claims” and inserting “claims for benefits”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “treat an examination or opinion as being necessary to make a decision on a claim for purposes of ” and inserting “provide for a medical examination or obtain a medical opinion under”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “All questions”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraphs (A) and (B), by striking “; and” both places it appears and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B), as amended, as subparagraph (C); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting, after subparagraph (A), the following new subparagraph (B): | the bill names no machine-readable US Code section |
+| — | redesignate | By redesignating paragraph (3) as paragraph (4). | the bill names no machine-readable US Code section |
+| — | insert | By inserting, after paragraph (2), the following new paragraph (3): | the bill names no machine-readable US Code section |
+| — | strike | Section 7105 of such title is amended by striking subparagraph (C) of paragraph (1) of subsection (b). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 22, 2031”. | the bill names no machine-readable US Code section |
