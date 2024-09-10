@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7589
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7589
@@ -20,9 +20,10 @@ ROUTERS Act
 
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ ROUTERS Act
 - 2024-09-09 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5061)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5061)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
