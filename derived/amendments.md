@@ -1,7 +1,7 @@
 ---
 measure: S. 1889
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
