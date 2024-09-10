@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7404
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7404
@@ -33,9 +33,10 @@ Subterranean Border Defense Act
 - Rep. Rosendale, Matthew M. [R-MT-2] (R000103)
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Subterranean Border Defense Act
 - 2024-09-09 — Mr. Gimenez moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5065)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5065)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
