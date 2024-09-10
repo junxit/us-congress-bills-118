@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7593
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7593
@@ -23,9 +23,10 @@ Modernizing the Congressional Research Service’s Access to Data Act
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Modernizing the Congressional Research Service’s Access to Data Act
 - 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5047-5048)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5047-5048)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
