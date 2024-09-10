@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5245
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5245
@@ -26,9 +26,10 @@ Science and Technology Agreement Enhanced Congressional Notification Act of 2024
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Science and Technology Agreement Enhanced Congressional Notification Act of 2024
 - 2024-09-09 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5074-5075)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5074-5075)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
