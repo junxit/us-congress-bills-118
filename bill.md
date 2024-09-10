@@ -22,7 +22,7 @@ This Act may be cited as the “Survivor Benefits Delivery Improvement Act of 20
     >
     > - **(a)** *Collection* The Secretary, in consultation with the entities described in subsection (b), shall—
     >   - **(1)** develop a method to collect the demographic data of—
-    >     - **(A)** each covered survivor receiving disability and indemnity compensation under chapter 13 of this title, pension under chapter 15 of this title, or increased pension (or additional compensation or allowances) under this title based on the need of regular aid and attendance or by reason of being permanently housebound; and
+    >     - **(A)** each covered survivor receiving dependency and indemnity compensation under chapter 13 of this title, pension under chapter 15 of this title, or increased pension (or additional compensation or allowances) under this title based on the need of regular aid and attendance or by reason of being permanently housebound; and
     >     - **(B)** each person who receives burial benefits under chapter 23 of this title; and
     >   - **(2)** collect demographic data pursuant to the method developed under paragraph (1).
     > - **(b)** *Entities for consultation* The entities described in this subsection are the following:
@@ -37,17 +37,19 @@ This Act may be cited as the “Survivor Benefits Delivery Improvement Act of 20
     > - **(e)** *Effect on application* Nothing in this section shall be construed as requiring any person to submit demographic data or as authorizing the Secretary to consider whether a person submits demographic data in evaluating any claim for benefits under the laws administered by the Secretary.
     > - **(f)** *Definitions* In this section:
     >   - **(1)** The term covered survivor means a surviving spouse, child, or parent of a veteran.
-    >   - **(2)** The term demographic data includes, with respect to an individual, the following:
-    >     - **(A)** Race.
-    >     - **(B)** Ethnicity.
-    >     - **(C)** Tribal affiliation, if any.
-    >     - **(D)** LGBTQIA+ status.
-    >     - **(E)** Geographic location.
+    >   - **(2)** The term demographic data includes—
+    >     - **(A)** with respect to an individual—
+    >       - **(i)** age;
+    >       - **(ii)** race;
+    >       - **(iii)** ethnicity;
+    >       - **(iv)** tribal affiliation, if any; and
+    >       - **(v)** geographic location; and
+    >     - **(B)** with respect to a covered survivor, the cause of death of the applicable veteran.
     >   - **(3)** The term veterans service organization means any organization recognized by the Secretary under section 5902 of this title.
 
   - **(2)** *Deadlines; applicability*
-    - **(A)** *Deadline for collection* The Secretary of Veterans Affairs shall develop the data collection method under subsection (a) of section 5321 of title 38, United States Code (as added by paragraph (1)), and commence the collection of data pursuant to such method, by not later than 180 days after the date of the enactment of this Act.
-    - **(B)** *Deadline for initial designations* The Secretary shall make the initial designation of any underserved demographics under subsection (c) of such section 5321 by not later than one year after the date on which the Secretary commences the collection of data under subsection (a) of such section.
+    - **(A)** *Deadline for collection* The Secretary of Veterans Affairs shall develop the data collection method under subsection (a) of section 5321 of title 38, United States Code (as added by paragraph (1)), and commence the collection of data pursuant to such method, by not later than 1 year after the date of the enactment of this Act.
+    - **(B)** *Deadline for initial designations* The Secretary shall make the initial designation of any underserved demographics under subsection (c) of such section 5321 by not later than 180 days after the date on which the Secretary commences the collection of data under subsection (a) of such section.
     - **(C)** *Applicability regarding annual reports* The requirement under subsection (d) of such section 5321 shall apply with respect to annual benefits reports of the Veterans Benefits Administration submitted on or after the date that is one year after the date on which the Secretary commences the collection of data under subsection (a) of such section.
 - **(c)** *Outreach and education*
   - **(1)** *Strategy for underserved demographics* Not later than one year after the date of initial designation, the Secretary shall develop and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an outreach and education strategy for raising awareness regarding the benefits specified in section 5321(a) of title 38, United States Code (as added by subsection (b)), among covered survivors who belong to an underserved demographic.
@@ -85,15 +87,15 @@ This Act may be cited as the “Survivor Benefits Delivery Improvement Act of 20
   - **(4)** in section 6306—
     - **(A)** in subsection (a), by striking “eligible veteran” and inserting “covered individual”; and
     - **(B)** in subsection (b)—
-      - **(i)** by striking “opportunities for veterans” and inserting “opportunities for covered individuals”;
+      - **(i)** by striking “opportunities for veterans” and inserting “opportunities for covered individuals”; and
       - **(ii)** by striking “eligible veterans” and inserting “covered individuals”; and
   - **(5)** in section 6307, by adding at the end the following new subsection:
     > - **(c)** *Outreach services for surviving eligible dependents*
     >   - **(1)**
-    >     - **(A)** Upon receipt of notification of the death of a covered individual, the Secretary, acting through the Under Secretary for Benefits, shall provide outreach services, by mail, email, and telephone, to each eligible dependent of such individual not less than once each quarter calendar year until the eligible dependent files a claim for a benefit under laws administered by the Secretary.
+    >     - **(A)** Upon receipt of notification of the death of a covered individual, the Secretary, acting through the Under Secretary for Benefits, shall provide outreach services, by either mail, email, or telephone, to each eligible dependent of such individual not less than once each quarter calendar year until the eligible dependent files a claim for a benefit under laws administered by the Secretary.
     >     - **(B)** In the case of an eligible dependent described in subparagraph (A) who is a minor child, the Secretary shall provide such outreach services to the legal guardian of the eligible dependent.
     >     - **(C)** If the Secretary does not have the contact information of an eligible dependent or legal guardian described in subparagraph (A) or (B), the Secretary shall make reasonable efforts to obtain such contact information to carry out this subsection.
-    >     - **(D)** An eligible dependent or legal guardian described in subparagraph (A) or (B) may elect to not receive, or to receive fewer, outreach services under this subsection. Not less than once each calendar year, the Secretary shall notify each such eligible dependent or legal guardian of the option to make such an election.
+    >     - **(D)** An eligible dependent or legal guardian described in subparagraph (A) or (B) to whom the Secretary has provided outreach services under this subsection twice may elect to not receive, or to receive fewer, outreach services under this subsection. Not less than once each calendar year, the Secretary shall notify each such eligible dependent or legal guardian who has not made such an election of the option to make such an election.
     >   - **(2)** Outreach services under this subsection shall provide an eligible dependent with information including the following:
     >     - **(A)** Contact information for the Office of Survivors Assistance established under section 321 of this title.
     >     - **(B)** Information regarding assistance in filing a claim for a benefit under laws administered by the Secretary furnished by—
@@ -107,5 +109,10 @@ This Act may be cited as the “Survivor Benefits Delivery Improvement Act of 20
     >     - **(B)** The Advisory Committee on Women Veterans established under section 542 of this title.
     >     - **(C)** The Advisory Committee on Minority Veterans established under section 544 of this title.
     >     - **(D)** The Veterans’ Family, Caregiver, and Survivor Advisory Committee of the Department, or successor advisory committee.
+    >   - **(4)** The Secretary shall seek to ensure, to the extent practicable, that materials used in outreach services by the Pension and Fiduciary Service of the Veterans Benefits Administration are in accordance with materials used by the Under Secretary for Benefits to provide outreach services under this subsection.
 
 - **(c)** *Personnel* The Secretary of Veterans Affairs shall establish at least 5, but not more than 10, full-time equivalent positions at call centers of the Department of Veterans Affairs to carry out subsection (c) of section 6307 of such title, as added by subsection (b).
+
+## § 4. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.

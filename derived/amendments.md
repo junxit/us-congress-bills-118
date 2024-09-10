@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7150
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c)(2), by striking “veteran or dependent” each place it appears and inserting “covered individual or eligible dependent”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “veterans” and inserting “covered individuals”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “eligible veteran” and inserting “covered individual”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “opportunities for veterans” and inserting “opportunities for covered individuals”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “opportunities for veterans” and inserting “opportunities for covered individuals”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “eligible veterans” and inserting “covered individuals”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 6307, by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”. | the bill names no machine-readable US Code section |
