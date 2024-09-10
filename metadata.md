@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7686
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7686
@@ -20,9 +20,10 @@ To amend the Research and Development, Competition, and Innovation Act to clarif
 
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Research and Development, Competition, and Innovation Act to clarif
 - 2024-09-09 — Placed on the Union Calendar, Calendar No. 550.
 - 2024-09-09 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-653.
 - 2024-09-09 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-653.
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
