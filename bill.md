@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3790
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,5 +27,9 @@ This Act may be cited as the “Justice for ALS Veterans Act of 2023”.
 
 - **(a)** *Report required* Not later than 180 days after the date of enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report that includes an identification of any service-connected disability, other than amyotrophic lateral sclerosis, that the Secretary determines should be treated in the same manner as amyotrophic lateral sclerosis is treated under subparagraphs (B) and (C) of section 1311(a)(2) of title 38, United States Code, as added by section 2.
 - **(b)** *Contents* The report required by subsection (a) shall include the following:
-  - **(1)** A comprehensive list of service-connected disabilities with high mortality rates.
+  - **(1)** A comprehensive list of service-connected disabilities with mortality rates exceeding 95 percent within eight years of diagnoses of persons with each such disability.
   - **(2)** Detailed information on the average life expectancy for persons with each such disability.
+
+## § 4. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “December 2, 2031”.
