@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8333
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8333
@@ -33,10 +33,11 @@ BIOSECURE Act
 - Rep. LaHood, Darin [R-IL-16] (L000585)
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Intelligence (Permanent Select) Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ BIOSECURE Act
 - 2024-09-09 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 306 - 81 (Roll no. 402). (text: CR H5051-5052)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 306 - 81 (Roll no. 402). (text: CR H5051-5052)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

@@ -2,7 +2,7 @@
 legis-num: H.R. 8333
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8333
@@ -100,4 +100,4 @@ This Act may be cited as the “BIOSECURE Act”.
   - **(5)** *Executive agency* The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
   - **(6)** *Foreign adversary* The term foreign adversary has the meaning given the term covered nation in section 4872(d) of title 10, United States Code.
   - **(7)** *Multiomic* The term multiomic means data types that include genomics, epigenomics, transcriptomics, proteomics, and metabolomics.
-  - **(8)** *Overseas* The term overseas means any area outside of the United States, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
+  - **(8)** *Overseas* The term overseas means any area outside of the United States, the Common-wealth of Puerto Rico, or a territory or possession of the United States.
