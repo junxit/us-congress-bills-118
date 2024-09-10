@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6513
@@ -21,9 +21,10 @@ COCOA Act of 2024
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ COCOA Act of 2024
 - 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
