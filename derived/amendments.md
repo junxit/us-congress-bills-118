@@ -1,7 +1,7 @@
 ---
 measure: S. 3071
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; and | the bill names no machine-readable US Code section |
-| — | redesignate | in the matter preceding clause (i), as so redesignated, by striking “provide the following percentage rates” and inserting “provide— | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5165b` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5165b` | redesignate | in the matter preceding clause (i), as so redesignated, by striking “provide the following percentage rates” and inserting “provide— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5165b` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5165b` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

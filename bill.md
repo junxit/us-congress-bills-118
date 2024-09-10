@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3071
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -41,3 +41,7 @@ This Act may be cited as the “Disaster Management Costs Modernization Act”.
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to any grant award in relation to a major disaster or emergency declared under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191)—
   - **(1)** the declaration of which is open on, or made on or after, the date of enactment of this Act; and
   - **(2)** that is funded with amounts appropriated on or after the date of enactment of this Act.
+- **(c)** *GAO study* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report—
+  - **(1)** on the actual management costs described in section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) during the period of a major disaster declaration under section 401 of such Act (42 U.S.C. 5170) to determine whether the amount set aside for those management costs after the date of enactment of this Act is appropriate; and
+  - **(2)** that includes the management costs described in section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) for each disaster declared under during the period of a major disaster declaration under section 401 of such Act (42 U.S.C. 5170) during the 5-year period preceding the date of the report, the amount set aside for those management costs, the use of those management costs, the length of each disaster, and the reason for the length of each disaster.
+- **(d)** *No additional funds* No additional funds are authorized to be appropriated to carry out the amendments made by subsection (a).
