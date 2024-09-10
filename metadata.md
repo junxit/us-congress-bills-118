@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1157
@@ -16,9 +16,10 @@ Countering the PRC Malign Influence Fund Authorization Act of 2023
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ Countering the PRC Malign Influence Fund Authorization Act of 2023
 - 2024-09-09 — Mr. Barr moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 36 (Roll no. 401). (text: CR H5066-5067)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 36 (Roll no. 401). (text: CR H5066-5067)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
