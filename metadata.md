@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8152
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8152
@@ -23,9 +23,10 @@ Remote Access Security Act
 - Rep. Crockett, Jasmine [D-TX-30] (C001130)
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Remote Access Security Act
 - 2024-09-09 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5077-5078)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5077-5078)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
