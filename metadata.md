@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7592
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7592
@@ -22,9 +22,10 @@ To direct the Librarian of Congress to promote the more cost-effective, efficien
 - Rep. Kilmer, Derek [D-WA-6] (K000381)
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To direct the Librarian of Congress to promote the more cost-effective, efficien
 - 2024-09-09 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5046)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
