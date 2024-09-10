@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7159
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7159
@@ -44,9 +44,10 @@ Pacific Partnership Act
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Pacific Partnership Act
 - 2024-09-09 — Mrs. Radewagen moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5088-5089)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5088-5089)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
