@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6606
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6606
@@ -16,9 +16,10 @@ To amend the Export Control Reform Act of 2018 relating to the statement of poli
 
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To amend the Export Control Reform Act of 2018 relating to the statement of poli
 - 2024-09-09 — Mrs. Radewagen moved to suspend the rules and pass the bill.
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5084)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5084)
+- 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
