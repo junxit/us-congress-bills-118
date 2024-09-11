@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1425
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1425
@@ -82,6 +82,12 @@ No WHO Pandemic Preparedness Treaty Without Senate Approval Act
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (3)
+
+- 2024-09-11 — [House 118-2-409](votes/house-118-2-0409.md) — On Agreeing to the Amendment — **Agreed to** (403–0)
+- 2024-09-11 — [House 118-2-410](votes/house-118-2-0410.md) — On Motion to Recommit — **Failed** (202–215)
+- 2024-09-11 — [House 118-2-411](votes/house-118-2-0411.md) — On Passage — **Passed** (219–199)
+
 ## Actions
 
 - 2023-03-07 — Introduced in House
@@ -93,3 +99,41 @@ No WHO Pandemic Preparedness Treaty Without Senate Approval Act
 - 2024-08-30 — Placed on the Union Calendar, Calendar No. 540.
 - 2024-08-30 — Reported by the Committee on Foreign Affairs. H. Rept. 118-643.
 - 2024-08-30 — Reported by the Committee on Foreign Affairs. H. Rept. 118-643.
+- 2024-09-10 — Rules Committee Resolution H. Res. 1430 Reported to House. Rule provides for consideration of H.R. 1398, H.R. 1425, H.R. 1516, H.R. 7980, H.R. 9456 and H.R. 9494. The resolution provides for consideration of H.R. 1398, H.R. 1425, and H.R. 1516 under a structured rule and H.R. 7980, H.R. 9456, and H.R. 9494 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-09-11 — 
+- 2024-09-11 — Amendment (A001) offered by Mr. Ogles. (consideration: CR H5179-5180; text: CR H5179)
+- 2024-09-11 — Amendment (A002) offered by Ms. Foxx. (consideration: CR H5180; text: CR H5180)
+- 2024-09-11 — Amendment (A003) offered by Mr. Massie. (consideration: CR H5180-5181; text: CR H5180)
+- 2024-09-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 1425 as unfinished business.
+- 2024-09-11 — Considered as unfinished business. (consideration: CR H5182-5184)
+- 2024-09-11 — Considered under the provisions of rule H. Res. 1430. (consideration: CR H5173-5181)
+- 2024-09-11 — DEBATE - Pursuant to the provisions of H. Res. 1430, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 2.
+- 2024-09-11 — DEBATE - Pursuant to the provisions of H. Res. 1430, the Committee of the Whole proceeded with 10 minutes of debate on the Massie amendment No. 3.
+- 2024-09-11 — DEBATE - Pursuant to the provisions of H. Res. 1430, the Committee of the Whole proceeded with 10 minutes of debate on the Ogles amendment No. 1.
+- 2024-09-11 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1425.
+- 2024-09-11 — House Amendment Offered
+- 2024-09-11 — House Amendment Offered
+- 2024-09-11 — House Amendment Offered
+- 2024-09-11 — House amendment agreed to: On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2024-09-11 — House amendment agreed to: On agreeing to the Massie amendment (A003) Agreed to by voice vote.
+- 2024-09-11 — House amendment agreed to: On agreeing to the Ogles amendment (A001) Agreed to by recorded vote: 403 - 0 (Roll no. 409).
+- 2024-09-11 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1430 and Rule XVIII.
+- 2024-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-11 — Mr. Davidson moved that the committee rise.
+- 2024-09-11 — Ms. Lee (CA) moved to recommit to the Committee on Foreign Affairs. (CR H5183)
+- 2024-09-11 — On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2024-09-11 — On agreeing to the Massie amendment (A003) Agreed to by voice vote.
+- 2024-09-11 — On agreeing to the Ogles amendment (A001) Agreed to by recorded vote: 403 - 0 (Roll no. 409).
+- 2024-09-11 — On motion that the committee rise Agreed to by voice vote.
+- 2024-09-11 — On motion to recommit Failed by the Yeas and Nays: 202 - 215 (Roll no. 410).
+- 2024-09-11 — On passage Passed by the Yeas and Nays: 219 - 199 (Roll no. 411).
+- 2024-09-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ogles amendment No. 1, the Chair put the question on agreeing to the amendment and by voice vote announced that the ayes had prevailed. Mr. Ogles demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2024-09-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 199 (Roll no. 411).
+- 2024-09-11 — Roll call votes on amendments in House
+- 2024-09-11 — Rule provides for consideration of H.R. 1398, H.R. 1425, H.R. 1516, H.R. 7980, H.R. 9456 and H.R. 9494. The resolution provides for consideration of H.R. 1398, H.R. 1425, and H.R. 1516 under a structured rule and H.R. 7980, H.R. 9456, and H.R. 9494 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-09-11 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2024-09-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2024-09-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1425.
+- 2024-09-11 — The Speaker designated the Honorable Jefferson Van Drew to act as Chairman of the Committee.
+- 2024-09-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-09-11 — The previous question was ordered pursuant to the rule.

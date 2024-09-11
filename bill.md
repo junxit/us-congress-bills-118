@@ -47,16 +47,34 @@ Congress makes the following findings:
   - **(F)** “The degree of formality desired for an agreement”.
   - **(G)** “The proposed duration of the agreement, the need for prompt conclusion of an agreement, and the desirability of concluding a routine or short-term agreement”.
   - **(H)** “The general international practice as to similar agreements”.
+- **(12)** Article II, Section 2 of the United States Constitution provides that the President “shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two-thirds of the Senators present concur”.
+- **(13)** Alexander Hamilton writes in Federalist Paper #75 regarding the Treaty Making Powers of the Executive that “Its objects are CONTRACTS with foreign nations, which have the force of law, but derive it from the obligations of good faith. They are not rules prescribed by the sovereign to the subject, but agreements between sovereign and sovereign. The power in question seems therefore to form a distinct department, and to belong, properly, neither to the legislative nor to the Executive. The qualities elsewhere detailed as indispensable in the management of foreign negotiations, point out the Executive as the most fit agent in those transactions; while the vast importance of the trust, and the operation of treaties as laws, plead strongly for the participation of the whole or a portion of the legislative body in the office of making them”.
+- **(14)** If any provisions of a treaty are to have legal bearing on United States citizens those provisions must pass both the United States House of Representatives and the Senate and be presented to the President, as all Federal laws must.
+- **(15)** The United States Constitution establishes a clear framework for making treaties by the Executive and with the advice and consent of the Senate. This process is indispensable for the Founders’ vision of constitutional government.
+- **(16)** The United States House of Representatives does not vote for, ratify, affirm, or consent to treaties.
 
-## § 3. Sense of Congress
+## § 3. Statement of policy
+
+It is the policy of the United States to unequivocally support Taiwan’s full participation in the World Health Organization.
+
+## § 4. Sense of congress
 
 It is the sense of Congress that—
 
-- **(1)** a significant segment of the American public is deeply skeptical of the World Health Organization, its leadership, and its independence from the pernicious political influence of certain member states, including the People's Republic of China;
+- **(1)** a significant segment of the American public is deeply skeptical of the World Health Organization, its leadership, and its independence from the pernicious political influence of certain member states, including the People’s Republic of China;
 - **(2)** Congress strongly prefers that any agreement related to pandemic prevention, preparedness, and response adopted by the World Health Assembly pursuant to the work of the INB be considered a treaty requiring the advice and consent of the Senate, with two-thirds of Senators concurring;
 - **(3)** the scope of the agreement which the INB has been tasked with drafting, as outlined by the Director-General, is so broad that any application of the factors referred to in section 2(11) will weigh strongly in favor of it being considered a treaty; and
 - **(4)** given the level of public distrust, any relevant new agreement by the World Health Assembly which cannot garner the two-thirds vote needed for Senate ratification should not be agreed to or implemented by the United States.
 
-## § 4. Any World Health Agency convention or agreement or other international instrument resulting from the International Negotiating Body’s final report deemed to be a treaty subject to advice and consent of the Senate
+## § 5. Any world health agency convention or agreement or other international instrument resulting from the international negotiating body’s final report deemed to be a treaty subject to advice and consent of the senate
 
 Notwithstanding any other provision of law, any convention, agreement, or other international instrument on pandemic prevention, preparedness, and response reached by the World Health Assembly pursuant to the recommendations, report, or work of the International Negotiating Body established by the second special session of the World Health Assembly is deemed to be a treaty that is subject to the requirements of article II, section 2, clause 2 of the Constitution of the United States, which requires the advice and consent of the Senate, with two-thirds of Senators concurring.
+
+## § 6. No force or effect to treaty prior to ratification
+
+Notwithstanding any other provision of law, any convention, agreement, or other international instrument on pandemic prevention, preparedness, and response deemed to be a treaty by section 5—
+
+- **(1)** shall have no force or effect under the laws of the United States before the date on which such treaty is ratified with the advice and consent of the Senate; and
+- **(2)** may not be used, prior to such date, to establish or demonstrate the existence of a violation of United States law or an offense against the law of nations in United States courts, including—
+  - **(A)** to establish standing, a cause of action, or damages as a matter of law; or
+  - **(B)** to demonstrate whether an action by a Federal agency is arbitrary or capricious, an abuse of discretion, or otherwise not in accordance with law.
