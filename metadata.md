@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8282
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8282
@@ -95,10 +95,11 @@ Illegitimate Court Counteraction Act
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -125,3 +126,5 @@ Illegitimate Court Counteraction Act
 - 2024-06-04 — Rule H. Res. 1269 passed House.
 - 2024-06-04 — Rule provides for consideration of H.R. 8580 and H.R. 8282. The resolution provides for consideration of H.R. 8580 under a structured rule and H.R. 8282 under a closed rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-06-04 — The previous question was ordered pursuant to the rule.
+- 2024-06-05 — Received in the Senate.
+- 2024-09-11 — Read twice and referred to the Committee on Foreign Relations.
