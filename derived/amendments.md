@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7858
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1395m` | add-at-end | Section 1834(m)(7) of the Social Security Act (42 U.S.C. 1395m(m)(7)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

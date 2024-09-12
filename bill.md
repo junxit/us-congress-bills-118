@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Telehealth Enhancement for Mental Health Act of 2024” or the “TELEMH Act of 2024”.
 
-## § 2. Establishment of Medicare incident to modifier for mental health services furnished through telehealth
+## § 2. Establishment of Medicare incident to modifier for mental health services furnished through telehealth and other telehealth services
 
-Section 1834(m)(7) of the Social Security Act (42 U.S.C. 1395m(m)(7)) is amended by adding at the end the following new subparagraph:
+Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended by adding at the end the following new paragraph:
 
-> - **(C)** *Establishment of incident to modifier for mental health services furnished through telehealth* Not later than 2 years after the date of the enactment of this subparagraph, the Secretary shall establish requirements to include a code or modifier, as determined appropriate by the Secretary, on claims for mental health services furnished through telehealth under this paragraph that are furnished by auxiliary personnel (as defined in section 410.26(a)(1) of title 42, Code of Federal Regulations, or any successor regulation) and billed incident to a physician or practitioner's professional services.
+> - **(10)** *Required use of modifiers in certain instances* Not later than January 1, 2026, the Secretary shall establish requirements to include a code or modifier, as determined appropriate by the Secretary, in the case of claims for telehealth services under this subsection that are billed incident to a physician’s or practitioner’s professional service.
