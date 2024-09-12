@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1516
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1516
@@ -37,9 +37,10 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (3)
 
@@ -116,3 +117,4 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - 2024-09-10 — The Speaker designated the Honorable Stephanie I. Bice to act as Chairwoman of the Committee.
 - 2024-09-10 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-09-10 — The previous question was ordered pursuant to the rule.
+- 2024-09-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
