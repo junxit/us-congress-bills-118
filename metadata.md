@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8580
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8580
@@ -249,3 +249,5 @@ Military Construction, Veterans Affairs, and Related Agencies Appropriations Act
 - 2024-06-05 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8580.
 - 2024-06-05 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-06-05 — The previous question was ordered pursuant to the rule.
+- 2024-06-11 — Received in the Senate.
+- 2024-09-12 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
