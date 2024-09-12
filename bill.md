@@ -35,7 +35,7 @@ This Act may be cited as the “Preventing Foreign Interference in American Elec
     > - **(3)** a person to knowingly aid or facilitate a violation of paragraph (1) or (2).
 
 - **(c)** *Indirect contributions* Section 319 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121) is amended by adding at the end the following new subsection:
-  > - **(c)** *Indirect contributions* For purposes of this section, a person shall be treated as having indirectly made a contribution, donation, expenditure, or disbursement described in subparagraph (A), (B), (C), or (D) of subsection (a)(1) if such person has made a contribution or donation to a person with a designation, instruction, or encumbrance (whether direct or indirect, express or implied, oral or written, or involving intermediaries or conduits) which results in any part of such contribution, donation, expenditure, or disbursement being used for an activity described in subparagraph (A), (B), (C), or (D) of subsection (a)(1).
+  > - **(c)** *Indirect contributions* For purposes of this section, a person shall be treated as having indirectly made a contribution, donation, expenditure, or disbursement described in subparagraphs (A), (B), (C), or (D) of subsection (a)(1) if such person has made a contribution or donation to a person with a designation, instruction, or encumbrance (whether direct or indirect, express or implied, oral or written, or involving intermediaries or conduits) which results in any part of such contribution, donation, expenditure, or disbursement being used for an activity described in subparagraphs (A), (B), (C), or (D) of subsection (a)(1).
 
 - **(d)** *Enforcement provisions* Section 319 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121), as amended by subsection (c), is amended by adding at the end the following new subsection:
   > - **(d)** *Enforcement*
@@ -71,7 +71,7 @@ This Act may be cited as the “Preventing Foreign Interference in American Elec
 ## § 3. Protecting privacy of donors to tax-exempt organizations
 
 - **(a)** *Restrictions on collection of donor information*
-  - **(1)** *Restrictions* An entity of the Federal Government may not collect or require the submission of information on the identification of any donor to a tax-exempt organization.
+  - **(1)** *Restrictions* An entity of the Federal government may not collect or require the submission of information on the identification of any donor to a tax-exempt organization.
   - **(2)** *Exceptions* Paragraph (1) does not apply to the following:
     - **(A)** The Internal Revenue Service, acting lawfully pursuant to section 6033 of the Internal Revenue Code of 1986 or any successor provision.
     - **(B)** The Secretary of the Senate and the Clerk of the House of Representatives, acting lawfully pursuant to section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604).
@@ -80,7 +80,7 @@ This Act may be cited as the “Preventing Foreign Interference in American Elec
       - **(ii)** any provision of title III of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.).
     - **(D)** An entity acting pursuant to a lawful order of a court or administrative body which has the authority under law to direct the entity to collect or require the submission of the information, but only to the extent permitted by the lawful order of such court or administrative body.
 - **(b)** *Restrictions on release of donor information*
-  - **(1)** *Restrictions* An entity of the Federal Government may not disclose to the public information revealing the identification of any donor to a tax-exempt organization.
+  - **(1)** *Restrictions* An entity of the Federal government may not disclose to the public information revealing the identification of any donor to a tax-exempt organization.
   - **(2)** *Exceptions* Paragraph (1) does not apply to the following:
     - **(A)** The Internal Revenue Service, acting lawfully pursuant to section 6104 of the Internal Revenue Code of 1986 or any successor provision.
     - **(B)** The Secretary of the Senate and the Clerk of the House of Representatives, acting lawfully pursuant to section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604).
@@ -91,3 +91,10 @@ This Act may be cited as the “Preventing Foreign Interference in American Elec
     - **(E)** An entity which discloses the information as authorized by the organization.
 - **(c)** *Tax-Exempt organization defined* In this section, a tax-exempt organization means an organization which is described in section 501(c) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code. Nothing in this subsection may be construed to treat a political organization under section 527 of such Code as a tax-exempt organization for purposes of this section.
 - **(d)** *Penalties* It shall be unlawful for any officer or employee of the United States, or any former officer or employee, willfully to disclose to any person, except as authorized in this section, any information revealing the identification of any donor to a tax-exempt organization. Any violation of this section shall be a felony punishable upon conviction by a fine in any amount not exceeding $250,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution, and if such offense is committed by any officer or employee of the United States, he shall, in addition to any other punishment, be dismissed from office or discharged from employment upon conviction for such offense.
+
+## § 4. Effective date
+
+- **(a)** *Modifications to foreign money ban*
+  - **(1)** *In general* Except as provided in paragraph (2), section 2 and the amendments made by section 2 shall apply with respect to donations or other amounts provided on or after the date of the enactment of this Act.
+  - **(2)** *Reporting requirements* Subsection (e) of section 2 and the amendments made by such subsection shall apply with respect to reports filed under the Federal Election Campaign Act of 1971 on or after the date of the enactment of this Act.
+- **(b)** *Protecting privacy of donors* Section 3 shall apply with respect to donations made on or after the date of the enactment of this Act.
