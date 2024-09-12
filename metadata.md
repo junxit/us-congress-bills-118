@@ -1,7 +1,7 @@
 ---
 measure: S. 4000
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4000
@@ -24,3 +24,8 @@ A bill to reaffirm the applicability of the Indian Reorganization Act to the Lyt
 
 - 2024-03-20 — Introduced in Senate
 - 2024-03-20 — Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S2472)
+- 2024-06-12 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-418.
+- 2024-07-25 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2024-09-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-223.
+- 2024-09-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-223.
+- 2024-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
