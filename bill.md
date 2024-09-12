@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 9568
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9568
+
+> To prohibit any person from using a motor vehicle to intentionally run over or kill a wild animal on public lands, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Snowmobiles Aren’t Weapons Act” or the “SAW Act”.
+
+## § 2. Use a motor vehicle to intentionally run over or kill a wild animal on public lands prohibited
+
+- **(a)** *Prohibition* Except as provided in subsection (b), whoever intentionally uses a motor vehicle to run over, strike, or kill a wild animal on public lands shall be fined not more than $5,000, imprisoned not more than 1 year, or both.
+- **(b)** *Exceptions* A person shall not be considered to have violated the prohibition in subsection (a) if their actions were taken—
+  - **(1)** to avoid injury or death to themselves or another person;
+  - **(2)** to avoid the destruction of personal property; or
+  - **(3)** while conducting wildlife management activities pursuant to a preexisting wildlife management plan.
+- **(c)** *Investigation of violations* The Secretary of the Interior, or a person authorized by the Secretary—
+  - **(1)** shall make such investigations as the Secretary deems necessary to determine whether any person has violated or is violating this Act; and
+  - **(2)** when conducting investigations under this subsection, may request and accept the assistance of State and local law enforcement and governmental agencies.
+- **(d)** *Statutory construction* Nothing in this Act shall be construed to affect section 13 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742j–1).
+- **(e)** *Definitions* In this Act—
+  - **(1)** the term motor vehicle means a ground-based self-propelled vehicle or a vehicle propelled or drawn by a ground-based self-propelled vehicle;
+  - **(2)** the term public lands means any land owned by the United States and administered by the Secretary of the Interior, except lands where the title is held in trust by the United States for the benefit of an American Indian tribe or an individual American Indian; and
+  - **(3)** the term wild animal means a wolf or coyote.
