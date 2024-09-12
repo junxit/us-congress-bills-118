@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6852
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,28 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Holcombe Rucker Park Landmark Act”.
+This Act may be cited as the “Holcombe Rucker Park National Commemorative Site Act”.
 
-## § 2. Findings
+## § 2. National Commemorative Site
 
-Congress finds the following:
-
-- **(1)** Holcombe Rucker Park is located between West 155th Street, 8th Avenue, and Harlem River Drive in Manhattan, New York.
-- **(2)** The park has been a source of inspiration, entertainment, and education for many people who have played or witnessed basketball games at the park, also serving as a showcase of talent, creativity, and diversity that reflects the spirit of Harlem.
-- **(3)** In 1974, this playground was renamed Holcombe Rucker Park after NYC Parks’ beloved Playground Director, Holcombe Rucker, at the request of Rucker’s protégés.
-- **(4)** Holcombe Rucker (1926–1965) is remembered for the basketball tournaments he founded at this court and the generations of players he mentored.
-- **(5)** The basketball tournaments at the park’s Greg Marius Court have been the subject of three films: Above the Rim, On Hallowed Ground: Streetball Champions of Rucker Park, and The Real: Rucker Pro Legends and Fathers of the Sport.
-- **(6)** Born and raised in Manhattan and schooled at Benjamin Franklin High School, Rucker worked as a Playground Director for NYC Parks at various Harlem parks from 1948 to 1964.
-- **(7)** A pioneer of social justice and racial equality in sports, Rucker created his own basketball tournament to serve as a platform to promote integration and empower the black community.
-- **(8)** The park is considered the birthplace of streetball, a style of basketball that emphasizes creativity, flair, and individual skills over formal rules and team play.
-- **(9)** Many NBA legends and stars have played at Holcombe Rucker Park, either before or after their professional careers, such as Kareem Abdul-Jabbar, Wilt Chamberlain, Julius Erving, Kobe Bryant, Kevin Durant, and LeBron James.
-- **(10)** The park has been featured in many documentaries, movies, books, and video games that celebrate the history and culture of streetball.
-- **(11)** Holcombe Rucker Park is home to the Entertainer’s Basketball Classic (EBC), founded in 1982 by Greg Marius, a rapper who wanted to showcase the talent and entertainment value of streetball, and has since become one of the most prestigious and popular streetball tournaments in the world.
-- **(12)** The park has served as a platform for many basketball players who could not obtain NBA opportunities due to racial discrimination or other barriers, including Earl “The Goat” Manigault, Joe “The Destroyer” Hammond, Pee Wee Kirkland, and Herman “Helicopter” Knowings.
-
-## § 3. National Commemorative Site
-
-- **(a)** *Designation* Holcombe Rucker Park, in Harlem, New York, is designated as the “Holcombe Rucker Park National Commemorative Site” (referred to in this section as the “Commemorative Site”).
-- **(b)** *Effect of designation* The Commemorative Site shall not be considered a unit of the National Park System.
-- **(c)** *No effect on actions of property owners* The designation of the Commemorative Site under this section shall not prohibit any actions that may otherwise be taken by a property owner (including any owner of the Commemorative Site) with respect to the property of the owner.
-- **(d)** *No effect on administration* Nothing in this section affects the administration of the Commemorative Site by New York City or the State of New York.
+- **(a)** *Designation* Holcombe Rucker Park, in Harlem, New York, is hereby designated as the “Holcombe Rucker Park National Commemorative Site” (referred to in this section as the “Commemorative Site”).
+- **(b)** *Administration*
+  - **(1)** *Cooperative agreements* The Secretary of the Interior may enter into cooperative agreements with appropriate public or private entities, including the Mayor of New York City or the Mayor’s designee, for interpretive and educational purposes related to the Commemorative Site, including installing a plaque, interpretive exhibit, or other marker, as appropriate, at the Commemorative Site, with the written consent of the owner of the Commemorative Site, to memorialize the achievements of Holcombe Rucker and to provide recognition of the historic role of Holcombe Rucker Park in the development of the game of basketball and of many of its most talented players.
+  - **(2)** *Effect of designation* The Commemorative Site shall not be a unit of the National Park System.
+  - **(3)** *Limitations* Nothing in this Act—
+    - **(A)** authorizes the Secretary of the Interior to interfere with the rights of any person with respect to private property or any local zoning ordinance or land use plan of the State of New York or any political subdivision thereof, including prohibiting any actions that may otherwise be taken by a property owner (including any owner of the Commemorative Site) with respect to the property of the owner;
+    - **(B)** affects the administration of the Commemorative Site by New York City or the State of New York; or
+    - **(C)** authorizes the Secretary of the Interior to acquire land or interests in land through condemnation or otherwise.
