@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8790
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 7 executed, 18 stated and not applied.
+46 amendatory instructions. 10 executed, 36 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,16 +35,16 @@ to guess them.
 
 ### 16 U.S.C. § 6591d
 
-> in section 605(c)(1) (16 U.S.C. 6591d(c)(1)), by striking “3,000 acres” and inserting “10,000 acres”;
+> in section 605(c)(1) (16 U.S.C. 6591d(c)(1)), by striking “3000 acres” and inserting “10,000 acres”; and
 
 | | |
 |---|---|
-| Removed | `3,000 acres` |
+| Removed | `3000 acres` |
 | Inserted | `10,000 acres` |
 
 ### 16 U.S.C. § 6591e
 
-> in section 606(g) (16 U.S.C. 6591e(g)), by striking “4,500 acres” and inserting “10,000 acres”; and
+> in section 606(g) (16 U.S.C. 6591e(g)), by striking “4,500 acres” and inserting “10,000 acres”.
 
 | | |
 |---|---|
@@ -53,7 +53,7 @@ to guess them.
 
 ### 16 U.S.C. § 6592b
 
-> in section 40806(d) of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592b(d)(1)), by striking “3,000 acres” and inserting “10,000 acres”; and
+> Section 40806(d)(1) of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592b(d)(1)), by striking “3,000 acres” and inserting “10,000 acres”.
 
 | | |
 |---|---|
@@ -77,6 +77,33 @@ to guess them.
 |---|---|
 | Removed | `10 years` |
 | Inserted | `20 years` |
+
+### 16 U.S.C. § 6592d
+
+> in subsection (h)(1), by striking “and 2023” and inserting “through 2028”.
+
+| | |
+|---|---|
+| Removed | `and 2023` |
+| Inserted | `through 2028` |
+
+### 16 U.S.C. § 7303
+
+> in subparagraph (D), by striking “species;” and inserting “species or pathogens;”;
+
+| | |
+|---|---|
+| Removed | `species;` |
+| Inserted | `species or pathogens;` |
+
+### 16 U.S.C. § 7303
+
+> in subsection (f)(6), by striking “2019 through 2023” and inserting “2023 through 2029”.
+
+| | |
+|---|---|
+| Removed | `2019 through 2023` |
+| Inserted | `2023 through 2029` |
 
 ### 43 U.S.C. § 1772
 
@@ -108,9 +135,27 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 6591c` | insert | in subsection (b), by inserting “, including retaining and expanding existing forest products infrastructure” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 6591c` | add-at-end | in subsection (h), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 472a` | add-at-end | by adding at the end the following: “Beginning on January 1, 2025, and annually thereafter, the amount in the first sentence of this subsection shall be adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6592d` | strike | in subparagraph (B), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6592d` | replace | in subparagraph (C), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6592d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6592d` | insert | in subparagraph (A), by inserting “and post-wildfire impacts” after “wildfire risk”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6592d` | insert | in subparagraph (F), by inserting “, as identified in the corresponding State forest action plan or similar priority plan (such as a State wildlife or water plan)” before the semicolon; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6592d` | insert | in subsection (g)(2), by inserting “and at least once every 2 fiscal years thereafter” after “and 2023”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 7303` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 7303` | amend | in subparagraph (H), by adding “and” after the semicolon at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7303` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7303` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 7303` | amend | in clause (ii), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 7303` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | redesignate | by redesignating subparagraph (C) as subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1604` | amend | Section 6(d)(2) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1712` | add-at-end | Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1772` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1772` | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1772` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1772` | amend | Section 512(c)(4)(A)(iv) of such Act (43 U.S.C. 1772(c)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1772` | amend | Section 512(c)(4)(A)(iv) of such Act (43 U.S.C. 1772(c)(4)(A)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
