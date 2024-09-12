@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3334
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -41,15 +41,19 @@ Congress finds the following:
 
 ## § 3. Sense of Congress
 
-It is the sense of Congress that the Chinese Communist Party, led by General Secretary Xi Jinping, has committed numerous human rights violations against the people of Hong Kong and the people of Taiwan, as well as genocide against Uyghur Muslims in the Xinjiang Uyghur Autonomous Region.
+It is the sense of Congress that members of the Chinese Communist Party, led by General Secretary Xi Jinping, are responsible for violations of Hong Kong’s autonomy, increased aggression against the people of Taiwan, numerous human rights violations against the people of Hong Kong and the people of Taiwan, and acts of repression and genocide against Uyghur Muslims in the Xinjiang Uyghur Autonomous Region.
 
 ## § 4. Imposition of sanctions on members of the Central Committee of the Chinese Communist Party
 
-- **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall impose sanctions described in subsection (b) with respect to—
-  - **(1)** each person who is a member of the Central Committee of the Chinese Communist Party;
-  - **(2)** each person who is a member of any successor organization of the Central Committee of the Chinese Communist Party, in the event that the Central Committee is dissolved; and
+- **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall impose the sanctions described in subsection (c) with respect to—
+  - **(1)** each person who is a member of the Central Committee of the Chinese Communist Party that the President determines engages in the conduct described in subsection (b);
+  - **(2)** each person who is a member of any successor organization of the Central Committee of the Chinese Communist Party that the President determines engages in the conduct described in subsection (b), in the event that the Central Committee is dissolved; and
   - **(3)** each person who is an adult family member, including a spouse or an adult family member of the spouse, of a person described in paragraph (1) or paragraph (2).
-- **(b)** *Sanctions described*
+- **(b)** *Sanctionable conduct* A person engages in the conduct described by this subsection if the person plays a significant role in the development or implementation of government policies or laws that the President determines appear designed to—
+  - **(1)** violate the autonomy of Hong Kong;
+  - **(2)** harass, intimidate, or result in increased aggression towards the people of Taiwan; or
+  - **(3)** contribute to political oppression or violation of human rights of individuals or societal groups within the People’s Republic of China, including Uyghur Muslims.
+- **(c)** *Sanctions described*
   - **(1)** *In general* The sanctions described in this subsection are the following:
     - **(A)** *Blocking of property* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
     - **(B)** *Aliens ineligible for visas, admission, or parole*
@@ -61,14 +65,22 @@ It is the sense of Congress that the Chinese Communist Party, led by General Sec
         - **(I)** *In general* The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to an alien described in clause (i) regardless of when the visa or other entry documentation is issued.
         - **(II)** *Effect of revocation* A revocation under subclause (I) shall take effect immediately and shall automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
   - **(2)** *Exceptions*
-    - **(A)** *United nations headquarters agreement* The sanctions described under paragraph (1)(B) shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+    - **(A)** *United nations headquarters agreement* The sanctions described in paragraph (1)(B) shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
     - **(B)** *Exception for intelligence, law enforcement, and national security activities* Sanctions under paragraph (1) shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
-- **(c)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section or the sanctions imposed pursuant to this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
-- **(d)** *Implementation authority* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
-- **(e)** *Regulatory authority* The President shall, not later than 30 days after the date of the enactment of this Act, promulgate regulations as necessary for the implementation of this section.
-- **(f)** *Waiver* The President shall have the authority to waive the sanctions required by subsection (a) for renewable periods of 30 days, if the President provides a written certification to the appropriate congressional committees, which shall also be made publicly available on a website maintained by the Federal Government, that the People’s Republic of China and the Chinese Communist Party have—
-  - **(1)** ceased the genocide of the Uyghur Muslim population, including verifiably shutting down all internment camps of Uyghurs and ending the practice of facilitating or supporting Uyghur forced labor and forced sterilization;
-  - **(2)** ceased all forms of threats, military exercises, and aggression toward Taiwan, including through verifiably, and for at least a period of one year, having not conducted any breach of Taiwan’s air space, territorial waters, or land mass, by any military or intelligence personnel associated with the People’s Republic of China or the Chinese Communist Party, or any agency or instrumentality thereof;
-  - **(3)** ceased the undermining of the autonomy of Hong Kong, including through respecting the terms of the Sino-British Joint Declaration, and reversing all steps taken to interfere with the democratic process and governance of Hong Kong; and
-  - **(4)** ceased efforts to steal the intellectual property of United States persons.
-- **(g)** *Sunset of waiver and license authorities* The President’s authority to issue waivers or licenses with respect to sanctions required by subsection (a), including pursuant to sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704), shall terminate on the date that is 2 years after the date of the enactment of this Act.
+- **(d)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section or the sanctions imposed pursuant to this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+- **(e)** *Implementation authority* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
+- **(f)** *Regulatory authority* The President shall, not later than 30 days after the date of the enactment of this Act, promulgate regulations as necessary for the implementation of this section.
+- **(g)** *Waiver* The President may, for one or more periods of not more than 60 days each, waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees, not later than 15 days before such waiver takes effect, that the waiver is vital to the national security interests of the United States.
+- **(h)** *Termination* The President may terminate any sanctions imposed under subsection (a) not fewer than 15 days after the date on which the President provides a written certification to the appropriate congressional committees, and concurrently publishes on a publicly available website of the Federal Government, that—
+  - **(1)** the People’s Republic of China and the Chinese Communist Party have—
+    - **(A)** ceased the genocide of the Uyghur Muslim population, including verifiably shutting down all internment camps of Uyghurs and ending the practice of facilitating or supporting Uyghur forced labor and forced sterilization;
+    - **(B)** ceased all forms of threats, military exercises, and aggression toward Taiwan, including through verifiably, and for at least a period of one year, having not conducted any breach of Taiwan’s air space, territorial waters, or land mass, by any military or intelligence personnel associated with the People’s Republic of China or the Chinese Communist Party, or any agency or instrumentality thereof;
+    - **(C)** ceased the undermining of the autonomy of Hong Kong, including through respecting the terms of the Sino-British Joint Declaration, and reversing all steps taken to interfere with the democratic process and governance of Hong Kong; and
+    - **(D)** ceased efforts to steal the intellectual property of United States persons; or
+  - **(2)** the sanctioned person has—
+    - **(A)** affirmatively renounced membership in the Chinese Communist Party; and
+    - **(B)** taken affirmative steps to denounce or remediate the conduct forming the basis for imposition of the sanction.
+- **(i)** *Sunset of waiver and license authorities* The President’s authority to issue waivers or licenses with respect to sanctions required by subsection (a), including pursuant to sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704), shall terminate on the date that is 2 years after the date of the enactment of this Act.
+- **(j)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
+  - **(2)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
