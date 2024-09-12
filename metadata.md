@@ -1,7 +1,7 @@
 ---
 measure: S. 4755
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4755
@@ -16,9 +16,12 @@ Traumatic Brain Injury Program Reauthorization Act of 2024
 
 - Sen. Mullin, Markwayne [R-OK] (M001190)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Ernst, Joni [R-IA] (E000295)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Traumatic Brain Injury Program Reauthorization Act of 2024
 
 - 2024-07-23 — Introduced in Senate
 - 2024-07-23 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-07-31 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-09-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2024-09-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Sanders with an amendment in the nature of a substitute. Without written report.
+- 2024-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.
