@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9456
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9456
@@ -43,11 +43,12 @@ Protecting American Agriculture from Foreign Adversaries Act of 2024
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -74,3 +75,4 @@ Protecting American Agriculture from Foreign Adversaries Act of 2024
 - 2024-09-11 — Rule provides for consideration of H.R. 1398, H.R. 1425, H.R. 1516, H.R. 7980, H.R. 9456 and H.R. 9494. The resolution provides for consideration of H.R. 1398, H.R. 1425, and H.R. 1516 under a structured rule and H.R. 7980, H.R. 9456, and H.R. 9494 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-09-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-09-11 — The previous question was ordered pursuant to the rule.
+- 2024-09-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
