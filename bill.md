@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2950
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -53,9 +53,7 @@ In this Act:
   - **(H)** the Republic of the Marshall Islands;
   - **(I)** the Republic of Palau; and
   - **(J)** the United States Virgin Islands.
-- **(9)** *Federal trust species* The term Federal trust species means—
-  - **(A)** migratory birds, threatened species or endangered species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), interjurisdictional fish, and marine mammals for which the Secretary has management authority; and
-  - **(B)** any other species of concern, as determined by the Secretary.
+- **(9)** *Federal trust species* The term Federal trust species means migratory birds, threatened species or endangered species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), interjurisdictional fish, and marine mammals for which the Secretary has management authority.
 - **(10)** *Financial assistance* The term financial assistance means Federal funding provided to Federal, State, local, or Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities through a grant or cooperative agreement.
 - **(11)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(12)** *Service* The term Service means the United States Fish and Wildlife Service.
@@ -87,10 +85,4 @@ The Secretary shall carry out the Coastal Program within the Service to—
 
 ## § 6. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this Act—
-
-- **(1)** $20,000,000 for fiscal year 2024;
-- **(2)** $21,250,000 for fiscal year 2025;
-- **(3)** $22,500,000 for fiscal year 2026;
-- **(4)** $23,750,000 for fiscal year 2027; and
-- **(5)** $25,000,000 for fiscal year 2028.
+There is authorized to be appropriated to carry out this Act $16,957,000 for each of fiscal years 2024 through 2028.
