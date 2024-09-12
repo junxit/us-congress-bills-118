@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5490
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -54,5 +54,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 3502` | amend | Section 3 of the Coastal Barrier Resources Act (16 U.S.C. 3502) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3503` | strike | in subsection (e), by striking “undeveloped” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3504` | add-at-end | Section 5 of the Coastal Barrier Resources Act (16 U.S.C. 3504) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 3505` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4028` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3506` | amend | Section 7(a) of the Coastal Barrier Resources Act (16 U.S.C. 3506(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
