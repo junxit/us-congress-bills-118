@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8771
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

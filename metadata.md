@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8771
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8771
@@ -376,3 +376,5 @@ Department of State, Foreign Operations, and Related Programs Appropriations Act
 - 2024-06-28 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 8771.
 - 2024-06-28 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
 - 2024-06-28 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-07-08 — Received in the Senate.
+- 2024-09-12 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
