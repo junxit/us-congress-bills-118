@@ -1,7 +1,7 @@
 ---
 measure: S. 2120
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2120
@@ -31,3 +31,8 @@ TRACE Act
 
 - 2023-06-22 — Introduced in Senate
 - 2023-06-22 — Read twice and referred to the Committee on the Judiciary.
+- 2024-09-12 — Message on Senate action sent to the House.
+- 2024-09-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6036; text: CR S6036)
+- 2024-09-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-09-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-09-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
