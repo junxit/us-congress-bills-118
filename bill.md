@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1657
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,41 +11,51 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Lake Winnibigoshish Land Exchange Act of 2023”.
+This Act may be cited as the “Lake Winnibigoshish Land Exchange Act of 2024”.
 
 ## § 2. Definitions
 
 In this Act:
 
 - **(1)** *BWLT* The term BWLT means Big Winnie Land and Timber, LLC, a Minnesota Limited Liability Corporation.
-- **(2)** *Map* The term Map means the map entitled “Proposed Land Exchange - Big Winnie Land and Timber LLC and Chippewa National Forest” and dated January 4, 2023.
-- **(3)** *Federal land* The term Federal land means the approximately 13.8 acres of Federal land in Itasca County, Minnesota, generally depicted as the “Federal Parcel for Exchange” on the Map.
-- **(4)** *Non-Federal land* The term non-Federal land means the approximately 38 acres of non-Federal land in Itasca County, Minnesota, generally depicted as the “Private Parcel for Exchange” on the Map.
+- **(2)** *Map* The term Map means the map entitled “Heig Land Exchange” and dated December 14, 2023.
+- **(3)** *Federal land* The term Federal land means the approximately 17.5 acres of Federal land in Itasca County, Minnesota, generally depicted as the “Federal Parcel” on the Map.
+- **(4)** *Non-Federal land* The term non-Federal land means the approximately 36.7 acres of non-Federal land in Itasca County, Minnesota, generally depicted as the “Non-Federal Parcel” on the Map.
 - **(5)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
 ## § 3. Exchange of land
 
-- **(a)** *Exchange authorized* Subject to the provisions of this Act, if BWLT offers to convey the non-Federal land to the United States, the Secretary shall, not later than 180 days after receiving the offer—
+- **(a)** *Exchange authorized* Subject to the provisions of this Act, if BWLT offers to convey the non-Federal land to the United States, the Secretary shall, not later than 1 year after the date on which such offer is made—
   - **(1)** accept the offer;
-  - **(2)** convey to BWLT all right, title, and interest of the United States in and to the Federal land; and
+  - **(2)** convey to BWLT all right, title, and interest of the United States in and to the Federal land, excepting and reserving an easement for road access to National Forest System land west of the Federal Parcel; and
   - **(3)** accept from BWLT all right, title, and interest of BWLT in and to the non-Federal land.
 - **(b)** *Requirements* The exchange under subsection (a) shall be—
-  - **(1)** subject to valid existing rights; and
-  - **(2)** conditioned on a cash equalization payment made by BWLT to the United States in accordance with subsection (c) if, under the appraisals conducted in accordance with this Act, it is determined that the value of the Federal land exceeds the value of the non-Federal land.
+  - **(1)** conditioned on title approval for the non-Federal land by the Secretary in accordance with subsection (e);
+  - **(2)** conditioned on a cash equalization payment made by BWLT to the United States in accordance with subsection (c) if, under the appraisals conducted in accordance with this Act, it is determined that the value of the Federal land exceeds the value of the non-Federal land;
+  - **(3)** conditioned on the satisfactory completion of a Phase I Environmental Site Assessment by BWLT, provided to the Secretary, in advance of the acceptance of the non-Federal parcel;
+  - **(4)** subject to valid existing rights; and
+  - **(5)** subject to any other terms and conditions the Secretary determines appropriate.
 - **(c)** *Equal value and cash equalization*
   - **(1)** *In general* Except as provided in paragraph (2), the exchange under subsection (a) shall be for equal value or the values shall be equalized by a cash payment.
-  - **(2)** *Exception* If the appraised value of the non-Federal land conveyed to the Secretary exceeds the appraised value of the Federal land, a cash equalization payment by the United States to BWLT is hereby waived and the amount of such waived payment shall be considered a donation by BWLT to the United States for all purposes of law.
+  - **(2)** *Exception* Notwithstanding any other provision of law, if the appraised value of the non-Federal land to be conveyed to the United States exceeds the appraised value of the Federal land, a cash equalization payment by the United States to BWLT is hereby waived and the amount of such waived payment shall be considered a donation by BWLT to the United States for all purposes of law.
 - **(d)** *Appraisals*
-  - **(1)** *In general* The value of the land to be exchanged under this Act shall be determined by appraisals conducted by one or more independent and qualified appraisers mutually agreed to by the Secretary and BWLT.
-  - **(2)** *Appraisal standards* The Secretary shall complete an appraisal of the land to be exchanged under this Act in accordance with—
+  - **(1)** *In general* The value of the land to be exchanged under this Act shall be determined by appraisals conducted by an independent and qualified appraiser mutually agreed to by the Secretary and BWLT.
+  - **(2)** *Appraisal standards* The Secretary shall complete appraisals of the land to be exchanged under this Act in accordance with—
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
-- **(e)** *Format* Title to the non-Federal land to be conveyed to the Secretary under this Act shall be in a format acceptable to the Secretary.
-- **(f)** *Management of acquired land* The land acquired by the Secretary under subsection (a) shall be—
+- **(e)** *Format* Title to the non-Federal land to be conveyed to the United States under this Act shall be found sufficient by the Secretary pursuant to section 3111 of title 40, United States Code.
+- **(f)** *Management of acquired land* The non-Federal land acquired by the United States under subsection (a) shall be—
   - **(1)** added to, and managed as part of, the Chippewa National Forest; and
   - **(2)** managed in accordance with the laws, rules, and regulations pertaining to National Forest System lands.
 - **(g)** *Map and legal descriptions*
-  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall finalize a Map and legal descriptions of all land to be conveyed under this Act.
-  - **(2)** *Controlling document* In the case of a discrepancy between the Map and a legal description, the Map shall control.
-  - **(3)** *Corrections* The Secretary and BWLT, by mutual agreement, may correct any minor errors in the Map or in the legal descriptions, including with respect to the boundaries of the Federal land parcel and the non-Federal land parcel.
+  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall finalize the Map and legal descriptions of all land to be conveyed under this Act.
+  - **(2)** *Controlling document* In the case of a discrepancy between the Map and a legal description, the legal description shall control.
+  - **(3)** *Corrections* The Secretary and BWLT, by mutual agreement, may correct any minor errors in the Map or in the legal descriptions, including with respect to the boundaries of the Federal land and the non-Federal land.
   - **(4)** *Map on file* The Map and legal descriptions shall be on file and available for public inspection in appropriate offices of the Forest Service.
+- **(h)** *Closing costs* As a condition for the exchange under subsection (a), BWLT shall pay all closing costs associated with the exchange, including for—
+  - **(1)** title insurance and title search;
+  - **(2)** any applicable inspection fees, escrow fees, attorneys fees, and recording fees; and
+  - **(3)** any environmental analysis or resource survey required under Federal law, regulation, or policy, including a Phase I Environmental Site Assessment of the non-Federal land.
+- **(i)** *Survey*
+  - **(1)** *In general* The exact acreages and legal descriptions of the Federal and non-Federal land to be exchanged under subsection (a) shall be determined by surveys satisfactory to the Secretary.
+  - **(2)** *Costs of survey* BWLT shall bear all costs associated with the surveys under paragraph (1).
