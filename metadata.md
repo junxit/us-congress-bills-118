@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8998
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8998
@@ -393,3 +393,5 @@ Department of the Interior, Environment, and Related Agencies Appropriations Act
 - 2024-07-24 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2024-07-24 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8998.
 - 2024-07-24 — The previous question was ordered pursuant to the rule.
+- 2024-08-01 — Received in the Senate.
+- 2024-09-12 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
