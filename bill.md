@@ -1,0 +1,42 @@
+---
+legis-num: S. 5042
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5042
+
+> To amend the Federal Power Act to prohibit the use of Federal funds for the exercise of eminent domain for the construction or modification of electric transmission facilities and to protect State control over the siting of electric transmission facilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Our Land from Federal Overreach Act of 2024”.
+
+## § 2. Siting of interstate electric transmission facilities under the Federal Power Act
+
+- **(a)** *Elimination of right of eminent domain; prohibition of use of Federal funds*
+  - **(1)** *In general* Section 216 of the Federal Power Act (16 U.S.C. 824p) is amended by striking subsection (e) and inserting the following:
+    > - **(e)** *No right of eminent domain* Effective beginning on the date of enactment of the Protecting Our Land from Federal Overreach Act of 2024, no Federal funds may be used for any effort to exercise the right of eminent domain for electric transmission facilities under any provision of law.
+
+  - **(2)** *Conforming amendment* Section 216(f) of the Federal Power Act (16 U.S.C. 824p(f)) is amended—
+    - **(A)** in paragraph (1), by striking “(1) Any right-of-way acquired pursuant to subsection (e)” and inserting the following:
+      > - **(1)** *In general* Any right-of-way acquired pursuant to subsection (e) (as in effect on the day before the date of enactment of the Protecting Our Land from Federal Overreach Act of 2024)
+
+    - **(B)** in paragraph (2), by striking “(2) Just” and inserting the following:
+      > - **(2)** *Amount* For purposes of paragraph (1), just
+
+- **(b)** *Protection of State control over siting* Section 216 of the Federal Power Act (16 U.S.C. 824p) is amended—
+  - **(1)** in subsection (b)—
+    - **(A)** in the matter preceding paragraph (1), by striking “subsection (i)” and inserting “subsections (d)(2) and (i)”; and
+    - **(B)** in paragraph (1)(C)—
+      - **(i)** in clause (i)(II), by adding “or” after the semicolon at the end;
+      - **(ii)** in clause (ii), by striking “or” at the end; and
+      - **(iii)** by striking clause (iii); and
+  - **(2)** in subsection (d)—
+    - **(A)** by striking the subsection designation and heading and all that follows through “In” and inserting the following:
+      > - **(d)** *Comments; protection of State control over siting*
+      >   - **(1)** *Comments* In
+
+    - **(B)** by adding at the end the following:
+      > - **(2)** *Protection of State control over siting* The Commission may not issue a permit under subsection (b) for the construction or modification of an electric transmission facility in a State if the State objects to the issuance of the permit pursuant to the opportunity afforded under paragraph (1).
