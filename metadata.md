@@ -1,7 +1,7 @@
 ---
 measure: H.R. 820
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 820
@@ -45,3 +45,6 @@ Foreign Adversary Communications Transparency Act
 - 2024-09-09 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5060)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5060)
+- 2024-09-10 — Received in the Senate.
+- 2024-09-12 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-09-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.
