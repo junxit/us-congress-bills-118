@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 9608
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9608
+
+> To make immune from liability any manufacturer of critical infrastructure for claims resulting from wildfire incidents, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Limiting Liability for Critical Infrastructure Manufacturers Act”.
+
+## § 2. Finding
+
+Congress finds that the manufacture of critical infrastructure is necessary to “strengthen and maintain secure, functioning, and resilient critical infrastructure” (PPD–21, February 12, 2013).
+
+## § 3. Limited liability
+
+- **(a)** *In general* Any manufacturer of critical infrastructure equipment shall be immune from suit and liability under Federal and State law with respect to all claims for loss caused by, arising out of, relating to, or resulting from wildfire incidents, absent proof the manufacturer engaged in willful misconduct in the design or production of such equipment.
+- **(b)** *Critical infrastructure defined* In this Act, the term “critical infrastructure” has the meaning given such term in section 1016(e) of the USA PATRIOT Act (42 U.S.C. 5195(e)).
