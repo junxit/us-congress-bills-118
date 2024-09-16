@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1398
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1398
@@ -27,9 +27,10 @@ Protect America’s Innovation and Economic Security from CCP Act of 2024
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 - Rep. Williams, Brandon [R-NY-22] (W000828)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -94,3 +95,4 @@ Protect America’s Innovation and Economic Security from CCP Act of 2024
 - 2024-09-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 180 (Roll no. 413).
 - 2024-09-11 — Pursuant to clause 1(c) of XIX, the House proceeded with further consideration of H.R. 1398.
 - 2024-09-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2024-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
