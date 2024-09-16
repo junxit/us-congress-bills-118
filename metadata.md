@@ -1,7 +1,7 @@
 ---
 measure: H.R. 705
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 705
@@ -16,7 +16,7 @@ Veterans 2nd Amendment Protection Act
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Cosponsors (49)
+## Cosponsors (73)
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 - Rep. Bergman, Jack [R-MI-1] (B001301)
@@ -67,6 +67,30 @@ Veterans 2nd Amendment Protection Act
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Timmons, William R. IV [R-SC-4] (T000480)
+- Rep. Moore, Barry [R-AL-2] (M001212)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Ferguson, A. Drew, IV [R-GA-3] (F000465)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Posey, Bill [R-FL-8] (P000599)
+- Rep. Mooney, Alexander X. [R-WV-2] (M001195)
+- Rep. Harshbarger, Diana [R-TN-1] (H001086)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
 ## Committees (1)
 
@@ -77,3 +101,9 @@ Veterans 2nd Amendment Protection Act
 - 2023-02-01 — Introduced in House
 - 2023-02-01 — Introduced in House
 - 2023-02-01 — Referred to the House Committee on Veterans' Affairs.
+- 2023-07-19 — Committee Hearings Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported (Amended) by the Yeas and Nays: 13 - 10.
+- 2024-09-16 — Placed on the Union Calendar, Calendar No. 573.
+- 2024-09-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-677.
+- 2024-09-16 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-677.
