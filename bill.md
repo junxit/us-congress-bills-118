@@ -70,7 +70,7 @@ This Act may be cited as the “Veterans Accessibility Advisory Committee Act of
       - **(i)** *In general* Not later than 90 days after the receipt of a report required under subparagraph (A), the Secretary shall submit to the appropriate congressional committees a copy of such report and any comments and recommendations of the Secretary concerning such report that the Secretary determines appropriate.
       - **(ii)** *Availability to the public* The Secretary shall publish on a publicly accessible website of the Department such report and such comments and recommendations as may have been submitted along with such report.
       - **(iii)** *Appropriate congressional committees* In this subparagraph, the term “appropriate congressional committees” means—
-        - **(I)** the Committees on Veterans’ Affairs of the Senate and House of Representatives
+        - **(I)** the Committees on Veterans’ Affairs of the Senate and House of Representatives;
         - **(II)** the Special Committee on Aging of the Senate; and
         - **(III)** the Committee on Education and the Workforce of the House of Representatives.
 - **(g)** *Advisory Committee personnel and resource matters*
@@ -91,3 +91,7 @@ Not later than 180 days after the date of the enactment of this Act and before e
 - **(3)** submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a recommendation to abolish an advisory committee of the Department that—
   - **(A)** was established by an Act of Congress; and
   - **(B)** is inactive.
+
+## § 4. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.
