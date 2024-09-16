@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 9600
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9600
+
+> To designate the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the “Jimmy and Rosalynn Carter Post Office”.
+
+## § 1. Jimmy and Rosalynn Carter Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, shall be known and designated as the “Jimmy and Rosalynn Carter Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Jimmy and Rosalynn Carter Post Office”.
