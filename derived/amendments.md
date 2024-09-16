@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7323
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (A), by inserting “, or chapter 1606 of title 10,” after “chapter 31, 33, or 35 of this title”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “chapter 31 33, or 35 of this title” and inserting “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “chapter 31 33, or 35 of this title” and inserting “chapter 31, 33, or 35 of this title, or chapter 1606 of title 10”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g)(3)(C), by striking “In the case” and inserting “Subject to the limitation under subsection (m), in the case”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
