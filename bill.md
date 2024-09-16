@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 9611
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9611
+
+> To increase the minimum disaster loan amount for which the Small Business Administration may require collateral, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Disaster Damage Fairness Act of 2024”.
+
+## § 2. Collateral requirements for disaster loans
+
+Section 7(d)(6) of the Small Business Act (15 U.S.C. 636(d)(6)) is amended, in the third proviso—
+
+- **(1)** by striking “$14,000” and inserting “$50,000”; and
+- **(2)** by striking “major disaster” and inserting “disaster”.
+
+## § 3. GAO report on default rates
+
+Not later than 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the performance, including the default rate, of loans made under section 7(b)(1) of the Small Business Act (15 U.S.C. 636(b)(1)), and the impact of the amendments to collateral amounts made under section 2 of this Act on the performance of those loans, during the period—
+
+- **(1)** beginning on September 30, 2020; and
+- **(2)** ending on the date on that is 2 years after the date of the enactment of this Act.
