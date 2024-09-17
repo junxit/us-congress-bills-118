@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7858
 
-> To amend title XVIII of the Social Security Act to establish a Medicare incident to modifier for mental health services furnished through telehealth.
+> To amend title XVIII of the Social Security Act to establish a Medicare incident to modifier for mental health services furnished through telehealth and other telehealth services.
 
 ## § 1. Short title
 
