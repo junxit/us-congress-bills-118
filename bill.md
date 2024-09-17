@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 9643
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9643
+
+> To protect and expand nationwide access to fertility treatment, including in vitro fertilization.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Right to IVF Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Severability
+
+If any provision of this Act, or the application of such provision to any person, entity, government, or circumstance is held to be unconstitutional, the remainder of this Act, or the application of such provision to all other persons, entities, governments, or circumstances shall not be affected thereby.
