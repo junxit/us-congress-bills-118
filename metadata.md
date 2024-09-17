@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8089
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8089
@@ -37,3 +37,9 @@ Medicare and Medicaid Fraud Prevention Act of 2024
 - 2024-07-23 — Placed on the Union Calendar, Calendar No. 506.
 - 2024-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-608.
 - 2024-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-608.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5300-5301)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8089.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5300)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5300)
