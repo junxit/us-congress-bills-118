@@ -2,7 +2,7 @@
 legis-num: H.R. 7188
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 7188
@@ -17,44 +17,63 @@ This Act may be cited as the “Shandra Eisenga Human Cell and Tissue Product Sa
 
 In this Act:
 
-- **(1)** *Human cell and tissue establishment* The term human cell and tissue establishment means an establishment (as defined in section 1271.3(b) of title 21, Code of Federal Regulations (or a successor regulation)) regulated by the Center for Biologics Evaluation and Research under part 1271 of title 21, Code of Federal Regulations.
-- **(2)** *Human cell and tissue products* The term human cell and tissue products has the meaning given the term human cells, tissues, or cellular or tissue-based products in section 1271.3(d) of title 21, Code of Federal Regulations (or a successor regulation).
-- **(3)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+- **(1)** *Human cell and tissue product* The terms human cell and tissue product and human cell and tissue products have the meaning given the term human cells, tissues, or cellular or tissue-based products in section 1271.3(d) of title 21, Code of Federal Regulations (or successor regulations).
+- **(2)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+- **(3)** *Tissue Reference Group* The term Tissue Reference Group means the Tissue Reference Group of the Food and Drug Administration.
 
 ## § 3. Human cell and tissue products transplant public awareness campaign
 
-- **(a)** *In general* The Secretary shall conduct a national, evidence-based education campaign to increase public and health care provider awareness regarding the potential risks and benefits of human cell and tissue products transplants.
-- **(b)** *Consideration of advice of stakeholder experts* The Secretary shall develop the education campaign under subsection (a) after taking into consideration the advice of stakeholder experts, including the Centers for Disease Control and Prevention and professional associations that represent stakeholders of human cell and tissue establishments that manufacture human cell and tissue products with the highest risk of transmitting infections to their patients.
-- **(c)** *Grants*
-  - **(1)** *In general* The Secretary may award grants to nonprofit organizations to carry out activities described in paragraph (2).
-  - **(2)** *Use of funds* A recipient of a grant under paragraph (1) shall use the grant funds—
-    - **(A)** to increase the knowledge and awareness of the public about the potential risks and benefits of human cell and tissue products transplants, including the risks that such transplants may lead to infectious diseases, including tuberculosis, latent tuberculosis infection, and sepsis; or
-    - **(B)** to increase the knowledge and awareness of health care providers and health care leaders about the potential risks and benefits of human cell and tissue products transplants, including the risks that such transplants may lead to infectious diseases, including tuberculosis, latent tuberculosis infection, and sepsis.
-- **(d)** *Media campaigns*
-  - **(1)** *In general* In carrying out the education campaign under subsection (a), the Secretary, after taking into consideration the advice of stakeholder experts, may award grants to, or enter into contracts with, entities to establish national multimedia campaigns to increase public and health care provider awareness regarding the potential risks of human cell and tissue products transplants.
-  - **(2)** *Inclusions* The multimedia campaigns under paragraph (1) may include advertising through television, radio, print media, billboards, posters, all forms of existing and emerging social networking media, other internet media, and any other medium determined appropriate by the Secretary.
+The Secretary shall support the development and dissemination of educational materials to inform health care professionals and other appropriate professionals about issues surrounding—
 
-## § 4. Civil penalties for violation of requirements for human cell and tissue products
+- **(1)** organ, tissue, and eye donation, including evidence-based methods to approach patients and their families;
+- **(2)** the availability of any donor screening tests; and
+- **(3)** other relevant aspects of donation.
 
-- **(a)** *In general* Any person who violates a requirement of section 361 of the Public Health Service Act (42 U.S.C. 264) or part 1271 of title 21, Code of Federal Regulations (or successor regulations) with respect to human cell or tissue products shall be liable to the United States for a civil penalty in an amount not to exceed the sum of—
-  - **(1)**
-    - **(A)** $20,000 for each violation; or
-    - **(B)** $20,000 for each day of a continuing violation; and
-  - **(2)** an amount equal to the retail value of the human cell and tissue products that are the subject of the violation.
-- **(b)** *Maximum penalty* The total civil penalty under subsection (a) shall not exceed $10,000,000 for all such violations adjudicated in a single proceeding.
-
-## § 5. Report to Congress
-
-Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report that describes actions Congress and the Food and Drug Administration could take to improve the safety of human cell and tissue products, including—
-
-- **(1)** an examination of existing regulations and guidance relating to human cell and tissue products;
-- **(2)** documentation of the number of human cell and tissue establishments that have registered with the Food and Drug Administration since 1998;
-- **(3)** how often the Food and Drug Administration has inspected human cell and tissue establishments since 1998, including a comparison of the inspection rates for blood establishments and Source Plasma establishments with the inspection rates for such human cell and tissue establishments, potential causes of declines in such inspections, if applicable, and recommendations to increase Food and Drug Administration resources, if applicable; and
-- **(4)** recommendations on potential guidance or regulations that could be issued or promulgated, as applicable, to improve donor screening for human cell and tissue products.
-
-## § 6. Review and update of existing guidance
+## § 4. Review and update of existing guidance
 
 The Secretary, acting through the Commissioner of Food and Drugs, shall—
 
-- **(1)** not later than 1 year after the date of enactment of this Act, initiate an internal review of existing guidance for determining eligibility of donors of human cell and tissue products; and
-- **(2)** not later than 3 years after the date of enactment of this Act, issue updated guidance for determining eligibility of donors of human cell and tissue products to comply with part 1271 of title 21, Code of Federal Regulations (or successor regulations), including compliance in determining donor eligibility in accordance with subpart C of part 1271 of title 21, Code of Federal Regulations (or successor regulations).
+- **(1)** not later than 1 year after the date of the enactment of this Act, initiate an internal review of existing guidance for determining eligibility of donors of human cell and tissue products;
+- **(2)** not later than 3 years after the date of the enactment of this Act, if appropriate—
+  - **(A)** update the guidance titled “Eligibility Determination for Donors of Human Cells, Tissues, and Cellular and Tissue-Based Products; Guidance for Industry” issued August 2007; and
+  - **(B)** issue or update, as applicable, any guidance for industry of the Food and Drug Administration that includes—
+    - **(i)** recommendations to reduce the risk of transmission of mycobacterium tuberculosis by human cells, tissues, and cellular and tissue-based products (HCT/Ps); or
+    - **(ii)** recommendations to reduce the risk of transmission of disease agents associated with sepsis for donors of human cells, tissues, and cellular and tissue-based products (HCT/Ps); and
+- **(3)** if the Secretary determines that issuing or updating guidance as specified in paragraph (2) is not appropriate, provide a written statement of explanation of that determination to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+## § 5. Civil penalties for violation of requirements for human cell and tissue products
+
+Section 368 of the Public Health Service Act (42 U.S.C. 271) is amended by adding at the end the following:
+
+> - **(d)**
+>   - **(1)** Any person who, on or after the date of the enactment of the Shandra Eisenga Human Cell and Tissue Product Safety Act, violates a requirement of subparts C or D of section 1271 of title 21, Code of Federal Regulations, (or successor regulations) with respect to human cell or tissue products regulated under section 361 shall be liable to the United States for a civil penalty in an amount not to exceed the sum of—
+>     - **(A)**
+>       - **(i)** $20,000 for each violation; and
+>       - **(ii)** in the case of a violation that continues after the Secretary provides written notice to such person, $20,000 for each subsequent day on which the violation continues; and
+>     - **(B)** an amount equal to the retail value of the human cell and tissue products that are the subject of the violation.
+>   - **(2)** The total civil penalty under paragraph (1) may not exceed $10,000,000 for all such violations adjudicated in a single proceeding.
+>   - **(3)** In this subsection, the term human cell and tissue products has the meaning given the term human cells, tissues, or cellular or tissue-based products in section 1271.3(d) of title 21, Code of Federal Regulations (or successor regulations).
+
+## § 6. Streamlining regulatory oversight of human cell and tissue products
+
+- **(a)** *Information on human cell and tissue products*
+  - **(1)** *Website* The Secretary, acting through the Commissioner of Food and Drugs, shall publish on the public website of the Food and Drug Administration—
+    - **(A)** educational materials about the Tissue Reference Group; and
+    - **(B)** best practices for obtaining a timely, accurate recommendation regarding human cell and tissue products from the Tissue Reference Group.
+  - **(2)** *Public information* Not later than 1 year after the date of the enactment of this Act, and annually for the subsequent 3 years, the Secretary, acting through the Commissioner of Food and Drugs, shall publish on the public website of the Food and Drug Administration—
+    - **(A)** the number of human cell and tissue establishments that registered with the Food and Drug Administration on or after January 1, 2019;
+    - **(B)** the number of inspections conducted by the Food and Drug Administration of human cell and tissue establishments on or after January 1, 2019, including a comparison of the number of inspections for blood establishments with the number of inspections for such human cell and tissue establishments;
+    - **(C)** the number and type of inquiries to the Tissue Reference Group in the preceding year; and
+    - **(D)** the average response time for submissions to the Tissue Reference Group in the preceding year, including average initial and final response time.
+  - **(3)** *Education* The Secretary, acting through the Commissioner of Food and Drugs, shall, with respect to the regulation of human cell and tissue products—
+    - **(A)** provide information to relevant stakeholders, including industry, tissue establishments, academic health centers, biomedical consortia, research organizations, and patients; and
+    - **(B)** conduct workshops and other interactive and educational sessions for such stakeholders to help support regulatory predictability and scientific advancement, as appropriate.
+- **(b)** *Human cell and tissue product scientific and regulatory updates* Section 3205 of the Food and Drug Omnibus Reform Act of 2022 (title III of division FF of Public Law 117–328) is amended by striking “best practices” and all that follows through “other cellular therapies” and inserting “best practices on generating scientific data necessary to further facilitate the development of certain human cell-, tissue-, and cellular-based medical products (and the latest scientific information about such products), namely, stem cell and other cellular therapies”.
+- **(c)** *Public docket* Not later than 60 days after the date of the enactment of this Act, the Secretary shall establish a public docket to receive written comments related to—
+  - **(1)** the approaches recommended for discussion during the public workshop described in section 3205 of the Food and Drug Omnibus Reform Act of 2022 (title III of division FF of Public Law 117–328); and
+  - **(2)** modernizing the regulation of human cell and tissue products, including considerations associated with assessing minimal manipulation and homologous use (as such terms are defined in section 1271.3 of title 21, Code of Federal Regulations (or successor regulations)) of human cell and tissue products.
+- **(d)** *Report to Congress* Not later than September 30, 2026, the Secretary shall summarize the approaches discussed in the public workshop described in section 3205 of the Food and Drug Omnibus Reform Act of 2022 (title III of division FF of Public Law 117–328) and the public docket described in subsection (c), and develop recommendations regarding the regulation of human cell and tissue products, including provisions under sections 1271.10(a) and 1271.3 of title 21, Code of Federal Regulations, taking into account—
+  - **(1)** regulatory burden;
+  - **(2)** scientific developments;
+  - **(3)** access to human cell and tissue products regulated under section 361 of the Public Health Service Act (42 U.S.C. 264); and
+  - **(4)** protecting public health.

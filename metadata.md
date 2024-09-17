@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7188
 congress: 118
-version: Introduced in House
+version: Received in Senate
 ---
 
 # H.R. 7188
@@ -29,3 +29,6 @@ Shandra Eisenga Human Cell and Tissue Product Safety Act
 - 2024-02-01 — Introduced in House
 - 2024-02-01 — Introduced in House
 - 2024-02-01 — Referred to the House Committee on Energy and Commerce.
+- 2024-02-02 — Referred to the Subcommittee on Health.
+- 2024-05-16 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 27 - 0.
+- 2024-05-16 — Subcommittee Consideration and Mark-up Session Held
