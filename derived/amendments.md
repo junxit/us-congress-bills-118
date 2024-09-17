@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7208
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,7 +60,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280b-1d` | strike | Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280b-1d` | amend | by amending the section header to read as follows: “The Bill Pascrell, Jr., national program for traumatic brain injury surveillance and registries”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280b-1d` | strike | by striking subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | replace | in subsection (c)(1), by striking “that is not less than $1 for each $2 of Federal funds provided under the grant.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300d-52` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300d-52` | redesignate | by redesignating subsections (f) through (i) as subsections (e) through (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

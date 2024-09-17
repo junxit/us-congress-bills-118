@@ -11,11 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Dennis John Beningo Traumatic Brain Injury Program Reauthorization Act of 2024”.
+This Act may be cited as the “Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2024”.
 
-## § 2. National program for traumatic brain injury surveillance and registries
+## § 2. The Bill Pascrell, Jr., national program for traumatic brain injury surveillance and registries
 
-Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended by striking subsection (b).
+Section 393C of the Public Health Service Act (42 U.S.C. 280b–1d) is amended—
+
+- **(1)** by amending the section header to read as follows: “The Bill Pascrell, Jr., national program for traumatic brain injury surveillance and registries”; and
+- **(2)** by striking subsection (b).
 
 ## § 3. Prevention and control of injuries
 
