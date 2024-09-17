@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9468
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9468
