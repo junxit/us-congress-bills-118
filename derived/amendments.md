@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-121 amendatory instructions. 34 executed, 87 stated and not applied.
+123 amendatory instructions. 34 executed, 89 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,7 +98,7 @@ to guess them.
 
 ### 42 U.S.C. § 629g
 
-> by striking “this subsection” and inserting “the Protecting America’s Children by Strengthening Families Act”;
+> by striking “this subsection” the 1st place it appears and inserting “the Protecting America’s Children by Strengthening Families Act”;
 
 | | |
 |---|---|
@@ -125,12 +125,12 @@ to guess them.
 
 ### 42 U.S.C. § 622
 
-> Section 422(b)(9) (42 U.S.C. 622(b)(9)) is amended by striking “Act;” and inserting “Act of 1978, including how the State will ensure timely notice to tribal organizations of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;”.
+> Section 422(b)(9) (42 U.S.C. 622(b)(9)) is amended by striking “Act;” and inserting “Act of 1978, including how the State will ensure timely notice to Indian tribes of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;”.
 
 | | |
 |---|---|
 | Removed | `Act;` |
-| Inserted | `Act of 1978, including how the State will ensure timely notice to tribal organizations of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;` |
+| Inserted | `Act of 1978, including how the State will ensure timely notice to Indian tribes of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;` |
 
 ### 42 U.S.C. § 629a
 
@@ -323,7 +323,7 @@ to guess them.
 
 ### 42 U.S.C. § 629g
 
-> Section 438(c)(3) (42 U.S.C. 629g(c)(3)) is amended by striking “436(b)(2)” and inserting “436(b)(1)”.
+> Section 438(c) (42 U.S.C. 629g(c)) is amended in each of paragraphs (1) through (3) is amended by striking “436(b)(2)” and inserting “436(b)(1)”.
 
 | | |
 |---|---|
@@ -353,7 +353,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 629g` | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629e` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 629e` | strike | by striking the period at the end of paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629e` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629g` | insert | by inserting “child permanency, reunification, re-entry into care,” before “parental recovery”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629g` | insert | by inserting “, and access to services for families with substance use disorder, including those with children who are overrepresented in foster care, difficult to place, or have disproportionately low permanency rates” before the period. | the bill quotes the text inserted but describes where it goes |
@@ -369,7 +369,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 629g` | amend | by adding “and” at the end of clause (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629g` | replace | by striking “; and” at the end of clause (ii) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 629g` | strike | by striking clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629g` | redesignate | Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629g` | redesignate | Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | add-at-end | Section 431 (42 U.S.C. 629a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | insert | in paragraph (2)(A), by inserting “, including services provided by family resource centers,” before “designed”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -424,5 +424,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 624` | strike | by striking “(1)(A)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 624` | strike | by striking paragraphs (1)(B) and (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629i` | amend | Section 439 (42 U.S.C. 629i) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629a` | strike | Section 431(a)(2)(B)(vii) (42 U.S.C. 629a(a)(2)(B)(vii)) is amended by striking “(as defined in section 439(b)(2))”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629a` | add-at-end | Section 431(a) (42 U.S.C. 629a(a)), as amended by sections 6(b)(2) and 10(a)(4) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629e` | amend | Section 435(c) (42 U.S.C. 629e(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629f` | redesignate | Section 436(b) (42 U.S.C. 629f(b)), as amended by the preceding provisions of this Act, is amended by striking paragraph (1) and predesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629f` | redesignate | Section 436(b) (42 U.S.C. 629f(b)), as amended by the preceding provisions of this Act, is amended by striking paragraph (1) and redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

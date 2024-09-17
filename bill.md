@@ -36,7 +36,7 @@ The table of contents of this Act is as follows:
   - **(2)** in paragraph (2)(C), by striking “personnel.” and inserting “personnel and supporting optimal use of remote hearing technology; and”; and
   - **(3)** by adding at the end the following:
     > - **(3)** to ensure continuity of needed court services, prevent disruption of the services, and enable their recovery from threats such as public health crises, natural disasters or cyberattacks, including through—
-    >   - **(A)** support for technology that allows court proceedings to occur remotely, including hearings and legal representation;
+    >   - **(A)** support for technology that allows court proceedings to occur remotely subject to participant consent, including hearings and legal representation;
     >   - **(B)** the development of guidance and protocols for responding to the occurrences and coordinating with other agencies; and
     >   - **(C)** other activities carried out to ensure backup systems are in place.
 
@@ -56,7 +56,7 @@ The table of contents of this Act is as follows:
     - **(A)** by striking “In addition to amounts authorized to be appropriated to carry out this section, the” and inserting “The”; and
     - **(B)** by striking “2017 through 2023” and inserting “2025 through 2029”; and
   - **(2)** in paragraph (10), by striking “for each of fiscal years 2017 through 2023”.
-- **(c)** *Authority To waive planning phase* Section 437(f)(3)(B)(iii) (42 U.S.C. 629g(f)(3)(B)(iii)) is amended—
+- **(c)** *Authority to waive planning phase* Section 437(f)(3)(B)(iii) (42 U.S.C. 629g(f)(3)(B)(iii)) is amended—
   - **(1)** by striking all that precedes “grant awarded” and inserting the following:
     > - **(iii)** *Sufficient planning*
     >   - **(I)** *In general* A
@@ -65,7 +65,7 @@ The table of contents of this Act is as follows:
   - **(3)** by adding after and below the end the following:
     > - **(II)** *Exception* The Secretary, on a case-by-case basis, may waive the planning phase for a partnership that demonstrates that the partnership has engaged in sufficient planning before submitting an application for a grant under this subsection.
 
-- **(d)** *Expanding availability of evidence-Based services*
+- **(d)** *Expanding availability of evidence-based services*
   - **(1)** *In general* Section 437(f)(1) (42 U.S.C. 629g(f)(1)) is amended by inserting “, and expand the scope of the evidence-based services that may be approved by the clearinghouse established under section 476(d)” before the period.
   - **(2)** *Considerations for awarding grants* Section 437(f)(7) (42 U.S.C. 629g(f)(7)) is amended—
     - **(A)** by striking “and” at the end of subparagraph (D);
@@ -73,14 +73,14 @@ The table of contents of this Act is as follows:
     - **(C)** by adding at the end the following:
       > - **(F)** have submitted information pursuant to paragraph (4)(F) that demonstrates the capability to participate in rigorous evaluation of program effectiveness.
 
-- **(e)** *Technical assistance on using regional partnership grant funds in coordination with other Federal funds To better serve families affected by a substance use disorder* Section 435(d) (42 U.S.C. 629e(d)) is amended—
+- **(e)** *Technical assistance on using regional partnership grant funds in coordination with other Federal funds to better serve families affected by a substance use disorder* Section 435(d) (42 U.S.C. 629e(d)) is amended—
   - **(1)** by striking “and” at the end of paragraph (4);
-  - **(2)** by striking the period at the end of paragraph (5); and
+  - **(2)** by striking the period at the end of paragraph (5) and inserting “; and”; and
   - **(3)** by adding at the end the following:
     > - **(6)** use grants under section 437(f) in coordination with other Federal funds to better serve families in the child welfare system that are affected by a substance use disorder.
 
 - **(f)** *Performance indicators* Section 437(f)(8)(A) (42 U.S.C. 629g(f)(8)(A)) is amended in the 1st sentence—
-  - **(1)** by striking “this subsection” and inserting “the Protecting America’s Children by Strengthening Families Act”;
+  - **(1)** by striking “this subsection” the 1st place it appears and inserting “the Protecting America’s Children by Strengthening Families Act”;
   - **(2)** by inserting “child permanency, reunification, re-entry into care,” before “parental recovery”; and
   - **(3)** by inserting “, and access to services for families with substance use disorder, including those with children who are overrepresented in foster care, difficult to place, or have disproportionately low permanency rates” before the period.
 - **(g)** *Performance indicator consultation required* Section 437(f)(8)(B) (42 U.S.C. 629g(f)(8)(B)) is amended by redesignating clause (iii) as clause (iv) and inserting after clause (ii) the following:
@@ -109,7 +109,7 @@ The table of contents of this Act is as follows:
     - **(A)** by adding “and” at the end of clause (i);
     - **(B)** by striking “; and” at the end of clause (ii) and inserting a period; and
     - **(C)** by striking clause (iii).
-  - **(2)** Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively.
+  - **(2)** Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively
 
 ## § 6. Modernization; reducing administrative burden
 
@@ -138,9 +138,9 @@ The table of contents of this Act is as follows:
   - **(3)** by adding at the end the following:
     > - **(C)** the steps that the State will take to ensure that, with respect to any judicial proceeding involving a child and in which there is an allegation of child abuse or neglect, including a proceeding on dependency, adoption, guardianship, or termination of parental rights, information about available independent legal representation is provided to—
     >   - **(i)** the child, as appropriate; and
-    >   - **(ii)** any individual who is a parent or guardian, or has legal custody, of the child.
+    >   - **(ii)** any individual who is a parent or guardian, or has legal custody, of the child;
 
-- **(e)** *Supporting mental health and well-Being of children in foster care* Section 422(b)(15)(A) (42 U.S.C. 622(b)(15) is amended—
+- **(e)** *Supporting mental health and well-being of children in foster care* Section 422(b)(15)(A) (42 U.S.C. 622(b)(15) is amended—
   - **(1)** in the matter preceding clause (i)—
     - **(A)** by inserting “and, if applicable, the State agency responsible for mental health services,” before “and in consultation”; and
     - **(B)** by inserting “mental health providers,” before “other experts”;
@@ -184,7 +184,7 @@ The table of contents of this Act is as follows:
     - **(B)** *Conforming amendment* Section 423(a) (42 U.S.C. 623(a)) is amended by striking “the sum appropriated pursuant to section 425 for each fiscal year” and inserting “for each fiscal year, the sum appropriated pursuant to section 425 remaining after applying section 428(a)”.
     - **(C)** *Technical amendment* Section 428(c) (42 U.S.C. 628(c)) is amended by striking “450b” and inserting “5304”.
   - **(2)** *Improving compliance with the Indian Child Welfare Act*
-    - **(A)** *State plan requirement* Section 422(b)(9) (42 U.S.C. 622(b)(9)) is amended by striking “Act;” and inserting “Act of 1978, including how the State will ensure timely notice to tribal organizations of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;”.
+    - **(A)** *State plan requirement* Section 422(b)(9) (42 U.S.C. 622(b)(9)) is amended by striking “Act;” and inserting “Act of 1978, including how the State will ensure timely notice to Indian tribes of State custody proceedings involving Indian children, foster care or adoptive placements of Indian children, and case recordkeeping as such matters relate to transfers of jurisdiction, termination of parental rights, and active efforts;”.
     - **(B)** *Technical assistance* Subpart 1 of part B of title IV (42 U.S.C. 621 et seq.) is amended by adding at the end the following:
       > ## § 429B. Effective implementation of the Indian Child Welfare Act of 1978
       >
@@ -197,13 +197,13 @@ The table of contents of this Act is as follows:
       >   - **(6)** In cases in which a State court orders the termination of parental rights to an Indian child, whether requirements for active efforts to prevent the breakup of the Indian family, testimony of a qualified expert witness, and evidentiary standards were met.
       > - **(b)** *Interagency coordination* On request of the Secretary, the Secretary of the Interior shall provide the Secretary with such guidance and assistance as may be necessary to facilitate informing States and public child welfare agencies on how to comply with the Indian Child Welfare Act of 1978, including specific measures identified in State plans as required by section 422(b)(9) of this Act.
       > - **(c)** *Biennial reports to Congress* The Secretary shall biennially submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report on how—
-      >   - **(1)** the States are complying with the Indian Child Welfare Act of 1978, as required by section 422(b)(9) of this Act and by data collected under section 429B of this Act; and
+      >   - **(1)** the States are complying with the Indian Child Welfare Act of 1978 and section 422(b)(9) of this Act, as informed by data collected under this section; and
       >   - **(2)** the Secretary is assisting States and Indian tribes to improve implementation of Federal standards established under the Indian Child Welfare Act of 1978.
 
   - **(3)** *Reporting requirements; administrative costs*
     - **(A)** *In general* Section 428 (42 U.S.C. 628) is amended by redesignating subsection (c) as subsection (d) and inserting before such subsection the following:
-      > - **(b)** *Authority To streamline reporting requirements* The Secretary shall, in consultation with the affected Indian tribes, modify any reporting requirement imposed by or under this part on an Indian tribe, tribal organization, or tribal consortium if the total of the amounts allotted to the Indian tribe, tribal organization, or tribal consortium under this part for the fiscal year is not more than $50,000, and in a manner that limits the administrative burden on any tribe to which less than $50,000 is allotted under this subpart for the fiscal year.
-      > - **(c)** *Tribal authority To substitute the Federal negotiated indirect cost rate for administrative costs cap* For purposes of sections 422(b)(14) and 424(e), an Indian tribal organization may elect to have the weighted average of the indirect cost rates in effect under part 220 of title 2, Code of Federal Regulations with respect to the administrative costs of the Indian tribal organization apply in lieu of the percentage specified in each such section.
+      > - **(b)** *Authority to streamline reporting requirements* The Secretary shall, in consultation with the affected Indian tribes, modify any reporting requirement imposed by or under this part on an Indian tribe, tribal organization, or tribal consortium if the total of the amounts allotted to the Indian tribe, tribal organization, or tribal consortium under this part for the fiscal year is not more than $50,000, and in a manner that limits the administrative burden on any tribe to which not more than $50,000 is allotted under this subpart for the fiscal year.
+      > - **(c)** *Tribal authority to substitute the Federal negotiated indirect cost rate for administrative costs cap* For purposes of sections 422(b)(14) and 424(e), an Indian tribal organization may elect to have the weighted average of the indirect cost rates in effect under part 220 of title 2, Code of Federal Regulations with respect to the administrative costs of the Indian tribal organization apply in lieu of the percentage specified in each such section.
 
     - **(B)** *Conforming amendments* Section 431(a) (42 U.S.C. 629a(a)) is amended in each of paragraphs (5) and (6) by striking “428(c)” and inserting “428(d)”.
 - **(b)** *Subpart 2*
@@ -237,7 +237,7 @@ The table of contents of this Act is as follows:
   >   - **(4)** *Priorities* In approving applications under this subsection, the Secretary shall prioritize the following:
   >     - **(A)** Addressing, with respect to the clearinghouse of practices described in section 476(d)(2), deficiencies or gaps identified by the Secretary in consultation with—
   >       - **(i)** States, political subdivisions of a State, and tribal communities carrying out, or receiving the benefits of, a service or program; and
-  >       - **(ii)** child welfare experts, including experts with lived experience.
+  >       - **(ii)** child welfare experts, including individuals with lived experience.
   >     - **(B)** Maximizing the number of evidence-based services or programs to be included in the clearinghouse of practices described in section 476(d)(2).
   >     - **(C)** Timely completion of evaluations and the production of evidence.
   >     - **(D)** Supporting services or programs that are based on, or are adaptations to new population settings of, a service or program with reliable evidence about the benefits and risks of the service or program.
@@ -282,8 +282,8 @@ The table of contents of this Act is as follows:
   >     - **(i)** appropriate public and nonprofit private agencies;
   >     - **(ii)** community-based organizations involved in providing services for children and families in the areas of family preservation, family support, family reunification, foster care, kinship, and adoption promotion and support;
   >     - **(iii)** parents with child welfare experience, foster parents, adoptive parents, and kinship caregivers; and
-  >     - **(iv)** children, youth, and young adults with experience in the child welfare system, including State boards and councils comprised of youth with the experience who represent the diversity of children in the State to whom the plan would apply; and
-  >   - **(B)** the State has made publicly accessible on a website of the State agency a report that outlines how the State has implemented the suggestions of the children and youth referred to in subparagraph (A)(iv);
+  >     - **(iv)** children, youth, and young adults with experience in the child welfare system, including State boards and councils comprised of youth with lived experience who represent the diversity of children in the State to whom the plan would apply; and
+  >   - **(B)** the State has made publicly accessible on a website of the State agency a report that outlines how the State has implemented the suggestions of the children and youth referred to in subparagraph (A)(iv).
 
 ## § 10. Recognizing the importance of relative and kinship caregivers
 
@@ -317,7 +317,7 @@ The table of contents of this Act is as follows:
         - **(I)** by striking “and” at the end of clause (iii);
         - **(II)** by adding “and” at the end of clause (iv); and
         - **(III)** by adding at the end the following:
-          > - **(v)** that include connections to individualized assistance, as needed;
+          > - **(v)** connections to individualized assistance, as needed;
 
       - **(iv)** by striking paragraphs (2) through (4);
       - **(v)** by redesignating subparagraphs (A) through (G) of paragraph (1) as paragraphs (1) through (7), respectively;
@@ -374,7 +374,7 @@ The table of contents of this Act is as follows:
   > - **(2)** *Territories* From the amount reserved pursuant to section 436(b)(4)(A) for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section to which a base allotment is made under such paragraph (1) an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 423 (without regard to the initial allotment of $70,000 to each State).
   > - **(3)** *Other States* From the amount reserved pursuant to section 436(b)(4)(A) for any fiscal year that remains after applying paragraphs (1) and (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section to which a base allotment was made under paragraph (1) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, “subsection (e)(3)” shall be substituted for “such paragraph (1)”.
 
-- **(c)** *Requirement To use funds To improve quality of caseworker visits with foster children* Section 436(b)(4)(B)(i) (42 U.S.C. 629f(b)(4)(B)(i)) is amended to read as follows:
+- **(c)** *Requirement to use funds to improve quality of caseworker visits with foster children* Section 436(b)(4)(B)(i) (42 U.S.C. 629f(b)(4)(B)(i)) is amended to read as follows:
   > - **(i)** *In general* A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to improve the quality of monthly caseworker visits with children who are in foster care under the responsibility of the State, with an emphasis on—
   >   - **(I)** reducing caseload ratios and the administrative burden on caseworkers, to improve caseworker decision making on the safety, permanency, and well-being of foster children and on activities designed to increase retention, recruitment, and training of caseworkers;
   >   - **(II)** implementing technology solutions to streamline caseworker duties and modernize systems, ensuring improved efficiency and effectiveness in child welfare services;
@@ -382,99 +382,103 @@ The table of contents of this Act is as follows:
   >   - **(IV)** mental health resources to support caseworker well-being, including peer-to-peer support programs; and
   >   - **(V)** recruitment campaigns aimed at attracting qualified caseworker candidates.
 
-- **(d)** *Elimination of cost-Share penalty tied to monthly caseworker visit standard* Section 424(f) (42 U.S.C. 624(f)) is amended—
+- **(d)** *Elimination of cost-share penalty tied to monthly caseworker visit standard* Section 424(f) (42 U.S.C. 624(f)) is amended—
   - **(1)** by striking “(1)(A)”; and
   - **(2)** by striking paragraphs (1)(B) and (2).
 
 ## § 13. Demonstration projects for improving relationships between incarcerated parents and children in foster care
 
-Section 439 (42 U.S.C. 629i) is amended to read as follows:
+- **(a)** *In general* Section 439 (42 U.S.C. 629i) is amended to read as follows:
+  > ## § 439. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children
+  >
+  > - **(a)** *Authority*
+  >   - **(1)** *In general* The Secretary may make demonstration grants to eligible State partnerships to develop, implement, and provide support for programs that enable and sustain meaningful relationships between covered foster children and the incarcerated parents of the children.
+  >   - **(2)** *Payment of annual installments* The Secretary shall pay each demonstration grant in 5 annual installments.
+  >   - **(3)** *1-year planning grants* The Secretary may make a planning grant to a recipient of a demonstration grant, to be paid to the recipient 1 year before payment of the 1st annual installment of the demonstration grant and in an amount not greater than any installment of the demonstration grant, if—
+  >     - **(A)** the recipient includes a request for a planning grant in the application under subsection (c); and
+  >     - **(B)** the Secretary determines that a planning grant would assist the recipient and improve the effectiveness of the demonstration grant.
+  > - **(b)** *Eligible State partnership defined*
+  >   - **(1)** *In general* In this section, the term eligible State partnership means an agreement entered into by, at a minimum, the following:
+  >     - **(A)** The State child welfare agency responsible for the administration of the State plans under this part.
+  >     - **(B)** The State agency responsible for adult corrections.
+  >   - **(2)** *Additional partners* For purposes of this section, an eligible State partnership may include any entity with experience in serving incarcerated parents and their children.
+  >   - **(3)** *Partnerships entered into by Indian Tribes or tribal consortia* Notwithstanding paragraph (1), if an Indian tribe or tribal consortium enters into a partnership pursuant to this section that does not consist solely of tribal child welfare agencies (or a consortium of the agencies), the partnership shall be considered an eligible State partnership for purposes of this section.
+  > - **(c)** *Application requirements* An eligible State partnership seeking a demonstration grant under this section to carry out a program described in subsection (a)(1) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include the following:
+  >   - **(1)** A summary of the program, including how the program will support a meaningful relationship between a covered foster child and an incarcerated parent of the child.
+  >   - **(2)** A description of the activities to be carried out by the program, which must include all of the activities described in subsection (d) that are in the best interest of the covered foster child.
+  >   - **(3)** A framework for identifying—
+  >     - **(A)** each covered foster child eligible for services under the program, including, to the extent practicable, coordination of data between relevant State child welfare agencies and court systems; and
+  >     - **(B)** the roles and responsibilities of the entities in the partnership.
+  >   - **(4)** Documentation that the applicant is an eligible State partnership.
+  >   - **(5)** Assurances that the applicant will participate fully in the evaluation described in subsection (f)(2) and shall maintain records for the program, including demographic information disaggregated by relevant characteristics with respect to covered foster children and incarcerated parents who participate in the program.
+  > - **(d)** *Program activities* To the extent that the activities are in the best interest of the covered foster child, the activities referred to in subsection (c)(2) shall include the following:
+  >   - **(1)** *Revision of policies* Through consultation with incarcerated parents and their families, grantees shall promote organizational policies of participating child welfare entities and collaborating correctional facilities to promote meaningful relationships through regular and developmentally appropriate communication and visitation between covered foster children and the incarcerated parents, including, when appropriate, the following:
+  >     - **(A)** For child welfare entities—
+  >       - **(i)** inclusion of parents in case planning and decision making for children;
+  >       - **(ii)** regular sharing of information and responses to requests for information between caseworkers and incarcerated parents with respect to the case information of a child, any changes to a case, permanency plans, requirements to maintain parental rights, and any efforts to terminate parental rights;
+  >       - **(iii)** appropriate opportunities for incarcerated parents to demonstrate their relationship with a covered foster child given their incarceration, including training and courses required for a service plan; and
+  >       - **(iv)** the enhanced visitation described in paragraph (2).
+  >     - **(B)** For correctional facilities, fostering visitation and communication that is developmentally appropriate in terms of—
+  >       - **(i)** the nature of communication and visitation, including—
+  >         - **(I)** the ability to physically touch parents;
+  >         - **(II)** engaging with parents in locations that are appropriate for the age and development of the child;
+  >         - **(III)** exchanging items that are appropriate to the age and development of the child, include expectations that are appropriate for the age and development of the child related to behavior, attire, and wait times; and
+  >         - **(IV)** allowing appropriate adults to bring children if legal guardians are not available to promote regular contact;
+  >       - **(ii)** reasonable inclusion of all children of the parent;
+  >       - **(iii)** communication and visitation at times when the children are available;
+  >       - **(iv)** security procedures to comfort children and be minimally invasive; and
+  >       - **(v)** promoting parent-child relationships regardless of the sentence imposed on the parent.
+  >   - **(2)** *Enhanced visitation*
+  >     - **(A)** Grantees shall facilitate weekly communication and, for at least 9 days each year, in-person visitation between a covered foster child and any incarcerated parent of the child.
+  >     - **(B)** Electronic visitation (such as live video visits, phone calls, and recorded books) may be used but shall not be the sole method to promote a meaningful relationship for purposes of the grant.
+  >     - **(C)** Enhanced visitation programs shall—
+  >       - **(i)** integrate best practices for visitation programs with incarcerated parents and their children;
+  >       - **(ii)** adopt developmentally appropriate visitation policies and procedures such as those described in paragraph (1)(B);
+  >       - **(iii)** reduce or eliminate the cost of developmentally appropriate communication and visitation for the covered foster child, which may include the purchase of communication technology, covering transportation, insurance, and lodging costs, costs related to providing appropriate visitation spaces and activities, and other relevant costs;
+  >       - **(iv)** to the extent practicable, integrate appropriate parenting education to help prepare and process visits; and
+  >       - **(v)** avoid restricting visitation and communication as a punishment for the incarcerated parents.
+  >   - **(3)** *Training* Grantees shall incorporate ongoing training for child welfare workers, correctional facility staff, and other program providers to understand the importance of promoting meaningful relationships between children and incarcerated parents.
+  >   - **(4)** *Case management* Grantees shall provide case management services for the incarcerated parents of a covered foster child to promote the relationship, access to services, and coordination with the caseworkers of the covered foster child to strengthen the relationship.
+  >   - **(5)** *Legal assistance* Grantees shall facilitate access to necessary legal services and may use grant funds for services that are not reimbursable under other Federal programs.
+  > - **(e)** *Federal share* The Federal share of the cost of any activity carried out using a grant made under this section shall be not greater than 75 percent.
+  > - **(f)** *Technical assistance, evaluations, and reports*
+  >   - **(1)** *Technical assistance* The Secretary shall provide technical assistance with respect to grants under this section, including by—
+  >     - **(A)** assisting grantees in understanding best practices in promoting meaningful relationships between incarcerated parents and their children as well as consulting with appropriate stakeholders when developing their programs;
+  >     - **(B)** assisting grantees with establishing and analyzing implementation and performance indicators; and
+  >     - **(C)** conducting an annual technical assistance and training meeting and an annual grantee meeting so that grantees can learn from the experiences of other grantees.
+  >   - **(2)** *Evaluations* The Secretary shall conduct an evaluation of program outcomes, including with respect to parent and child well-being, parent-child interactions, parental involvement, awareness of child development and parenting practices, placement stability, and termination of parental rights with respect to covered foster children and incarcerated parents, to measure program effectiveness, as determined by the Secretary, and identify opportunities for improved program practices and implementation.
+  >   - **(3)** *Reports to the Congress*
+  >     - **(A)** *Initial report* Not later than 3 years after the date of the enactment of this section, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—
+  >       - **(i)** the number of applications for grants under this section;
+  >       - **(ii)** the number of grants awarded, and the amounts for each grant; and
+  >       - **(iii)** information on the grants, including—
+  >         - **(I)** interim results of the evaluation described in paragraph (2);
+  >         - **(II)** disaggregated data on covered foster children and incarcerated parents;
+  >         - **(III)** information on the composition of eligible State partnerships;
+  >         - **(IV)** best practices for facilitating meaningful relationships between covered foster children and incarcerated parents; and
+  >         - **(V)** barriers to implementation or expansion of programs funded under this section.
+  >     - **(B)** *Final report* Not later than 6 years after the date of the enactment of this section, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—
+  >       - **(i)** the final results of the evaluation described in paragraph (2); and
+  >       - **(ii)** recommendations for refinements to grant requirements to improve program outcomes.
+  > - **(g)** *Authority of Secretary with respect to Indian tribes and tribal organizations*
+  >   - **(1)** *Waiver or modification of requirements* In making a grant to an Indian tribe or tribal organization under this section, the Secretary may waive the matching requirement of subsection (e) or modify an application requirement imposed by or under subsection (c) if the Secretary determines that the waiver or modification is appropriate to the needs, culture, and circumstances of the Indian tribe or tribal organization.
+  >   - **(2)** *Evaluation* The Secretary shall use tribally relevant data in carrying out the evaluation under subsection (f)(2) with respect to an Indian tribe or tribal organization.
+  > - **(h)** *Limitations on authorization of appropriations* There is authorized to be appropriated to the Secretary not more than $35,000,000 for each of fiscal years 2026 through 2029 to carry out this section.
+  > - **(i)** *Definition of covered foster child* In this section, the term covered foster child means a child that—
+  >   - **(1)** is in foster care; and
+  >   - **(2)** has at least 1 parent incarcerated in a Federal, State, or local correctional facility.
 
-> ## § 439. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children
->
-> - **(a)** *Authority*
->   - **(1)** *In general* The Secretary may make demonstration grants to eligible State partnerships to develop, implement, and provide support for programs that enable and sustain meaningful relationships between covered foster children and the incarcerated parents of the children.
->   - **(2)** *Payment of annual installments* The Secretary shall pay each demonstration grant in 5 annual installments.
->   - **(3)** *1-year planning grants* The Secretary may make a planning grant to a recipient of a demonstration grant, to be paid to the recipient 1 year before payment of the 1st annual installment of the demonstration grant and in an amount not greater than any installment of the demonstration grant, if—
->     - **(A)** the recipient includes a request for a planning grant in the application under subsection (c); and
->     - **(B)** the Secretary determines that a planning grant would assist the recipient and improve the effectiveness of the demonstration grant.
-> - **(b)** *Eligible State partnership defined*
->   - **(1)** *In general* In this section, the term eligible State partnership means an agreement entered into by, at a minimum, the following:
->     - **(A)** The State child welfare agency responsible for the administration of the State plans under this part.
->     - **(B)** The State agency responsible for adult corrections.
->   - **(2)** *Additional partners* For purposes of this section, an eligible State partnership may include any entity with experience in serving incarcerated parents and their children.
->   - **(3)** *Partnerships entered into by Indian Tribes or tribal consortia* Notwithstanding paragraph (1), if an Indian tribe or tribal consortium enters into a partnership pursuant to this section that does not consist solely of tribal child welfare agencies (or a consortium of the agencies), the partnership shall be considered an eligible State partnership for purposes of this section.
-> - **(c)** *Application requirements* An eligible State partnership seeking a demonstration grant under this section to carry out a program described in subsection (a)(1) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include the following:
->   - **(1)** A summary of the program, including how the program will support a meaningful relationship between a covered foster child and an incarcerated parent of the child.
->   - **(2)** A description of the activities to be carried out by the program, which must include all of the activities described in subsection (d) that are in the best interest of the covered foster child.
->   - **(3)** A framework for identifying—
->     - **(A)** each covered foster child eligible for services under the program, including, to the extent practicable, coordination of data between relevant State child welfare agencies and court systems; and
->     - **(B)** the roles and responsibilities of the entities in the partnership.
->   - **(4)** Documentation that the applicant is an eligible State partnership.
->   - **(5)** Assurances that the applicant will participate fully in the evaluation described in subsection (f)(2) and shall maintain records for the program, including demographic information disaggregated by relevant characteristics with respect to covered foster children and incarcerated parents who participate in the program.
-> - **(d)** *Program activities* To the extent that the activities are in the best interest of the covered foster child, the activities referred to in subsection (c)(2) shall include the following:
->   - **(1)** *Revision of policies* Through consultation with incarcerated parents and their families, grantees shall promote organizational policies of participating child welfare entities and collaborating correctional facilities to promote meaningful relationships through regular and developmentally appropriate communication and visitation between covered foster children and the incarcerated parents, including, when appropriate, the following:
->     - **(A)** For child welfare entities—
->       - **(i)** inclusion of parents in case planning and decision making for children;
->       - **(ii)** regular sharing of information and responses to requests for information between caseworkers and incarcerated parents with respect to the case information of a child, any changes to a case, permanency plans, requirements to maintain parental rights, and any efforts to terminate parental rights;
->       - **(iii)** appropriate opportunities for incarcerated parents to demonstrate their relationship with a covered foster child given their incarceration, including training and courses required for a service plan; and
->       - **(iv)** the enhanced visitation described in paragraph (2).
->     - **(B)** For correctional facilities, fostering visitation and communication that is developmentally appropriate in terms of—
->       - **(i)** the nature of communication and visitation, including—
->         - **(I)** the ability to physically touch parents;
->         - **(II)** engaging with parents in locations that are appropriate for the age and development of the child;
->         - **(III)** exchanging items that are appropriate to the age and development of the child, include expectations that are appropriate for the age and development of the child related to behavior, attire, and wait times; and
->         - **(IV)** allowing appropriate adults to bring children if legal guardians are not available to promote regular contact;
->       - **(ii)** reasonable inclusion of all children of the parent;
->       - **(iii)** communication and visitation at times when the children are available;
->       - **(iv)** security procedures to comfort children and be minimally invasive; and
->       - **(v)** promoting parent-child relationships regardless of the sentence imposed on the parent.
->   - **(2)** *Enhanced visitation*
->     - **(A)** Grantees shall facilitate weekly communication and, for at least 9 days each year, in-person visitation between a covered foster child and any incarcerated parent of the child.
->     - **(B)** Electronic visitation (such as live video visits, phone calls, and recorded books) may be used but shall not be the sole method to promote a meaningful relationship for purposes of the grant.
->     - **(C)** Enhanced visitation programs shall—
->       - **(i)** integrate best practices for visitation programs with incarcerated parents and their children;
->       - **(ii)** adopt developmentally appropriate visitation policies and procedures such as those described in paragraph (1)(B);
->       - **(iii)** reduce or eliminate the cost of developmentally appropriate communication and visitation for the covered foster child, which may include the purchase of communication technology, covering transportation, insurance, and lodging costs, costs related to providing appropriate visitation spaces and activities, and other relevant costs;
->       - **(iv)** to the extent practicable, integrate appropriate parenting education to help prepare and process visits; and
->       - **(v)** avoid restricting visitation and communication as a punishment for the incarcerated parents.
->   - **(3)** *Training* Grantees shall incorporate ongoing training for child welfare workers, correctional facility staff, and other program providers to understand the importance of promoting meaningful relationships between children and incarcerated parents.
->   - **(4)** *Case management* Grantees shall provide case management services for the incarcerated parents of a covered foster child to promote the relationship, access to services, and coordination with the caseworkers of the covered foster child to strengthen the relationship.
->   - **(5)** *Legal assistance* Grantees shall facilitate access to necessary legal services and may use grant funds for services that are not reimbursable under other Federal programs.
-> - **(e)** *Federal share* The Federal share of the cost of any activity carried out using a grant made under this section shall be not greater than 75 percent.
-> - **(f)** *Technical assistance, evaluations, and reports*
->   - **(1)** *Technical assistance* The Secretary shall provide technical assistance with respect to grants under this section, including by—
->     - **(A)** assisting grantees in understanding best practices in promoting meaningful relationships between incarcerated parents and their children as well as consulting with appropriate stakeholders when developing their programs;
->     - **(B)** assisting grantees with establishing and analyzing implementation and performance indicators; and
->     - **(C)** conducting an annual technical assistance and training meeting and an annual grantee meeting so that grantees can learn from the experiences of other grantees.
->   - **(2)** *Evaluations* The Secretary shall conduct an evaluation of program outcomes, including with respect to parent and child well-being, parent-child interactions, parental involvement, awareness of child development and parenting practices, placement stability, and termination of parental rights with respect to covered foster children and incarcerated parents, to measure program effectiveness, as determined by the Secretary, and identify opportunities for improved program practices and implementation.
->   - **(3)** *Reports to the Congress*
->     - **(A)** *Initial report* Not later than 3 years after the date of the enactment of this section, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—
->       - **(i)** the number of applications for grants under this section;
->       - **(ii)** the number of grants awarded, and the amounts for each grant; and
->       - **(iii)** information on the grants, including—
->         - **(I)** interim results of the evaluation described in paragraph (2);
->         - **(II)** disaggregated data on covered foster children and incarcerated parents;
->         - **(III)** information on the composition of eligible State partnerships;
->         - **(IV)** best practices for facilitating meaningful relationships between covered foster children and incarcerated parents; and
->         - **(V)** barriers to implementation or expansion of programs funded under this section.
->     - **(B)** *Final report* Not later than 6 years after the date of the enactment of this section, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes—
->       - **(i)** the final results of the evaluation described in paragraph (2); and
->       - **(ii)** recommendations for refinements to grant requirements to improve program outcomes.
-> - **(g)** *Authority of Secretary with respect to Indian tribes and tribal organizations*
->   - **(1)** *Waiver or modification of requirements* In making a grant to an Indian tribe or tribal organization under this section, the Secretary may waive the matching requirement of subsection (e) or modify an application requirement imposed by or under subsection (c) if the Secretary determines that the waiver or modification is appropriate to the needs, culture, and circumstances of the Indian tribe or tribal organization.
->   - **(2)** *Evaluation* The Secretary shall use tribally relevant data in carrying out the evaluation under subsection (f)(2) with respect to an Indian tribe or tribal organization.
-> - **(h)** *Limitations on authorization of appropriations* There is authorized to be appropriated to the Secretary not more than $35,000,000 for each of fiscal years 2026 through 2029 to carry out this section.
-> - **(i)** *Definition of covered foster child* In this section, the term covered foster child means a child that—
->   - **(1)** is in foster care; and
->   - **(2)** has at least 1 parent incarcerated in a Federal, State, or local correctional facility.
+- **(b)** *Conforming amendments*
+  - **(1)** Section 431(a)(2)(B)(vii) (42 U.S.C. 629a(a)(2)(B)(vii)) is amended by striking “(as defined in section 439(b)(2))”.
+  - **(2)** Section 431(a) (42 U.S.C. 629a(a)), as amended by sections 6(b)(2) and 10(a)(4) of this Act, is amended by adding at the end the following:
+    > - **(12)** *Mentoring* The term ‘mentoring’ means a structured, managed program in which children are appropriately matched with screened and trained adult volunteers for one on-one relationships, involving meetings and activities on a regular basis, intended to meet, in part, the child’s need for involvement with a caring and supportive adult who provides a positive role model.
 
 ## § 14. Guidance to States on improving data collection and reporting for youth in residential treatment programs
 
 Within 2 years after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Department of Education, the Administration for Children and Families, the Centers for Medicare and Medicaid Services, the Administration for Community Living, the Department of Justice, and other relevant policy experts, as determined by the Secretary, shall issue and disseminate, or update and revise, as applicable, guidance to State agencies in administering State plans approved under parts B and E of title IV of the Social Security Act on the following:
 
 - **(1)** Best practices for Federal and State agencies to collect data and share information related to the well-being of youth residing in residential treatment facilities, including those facilities operating in multiple States or serving out-of-state youth.
-- **(2)** Best practices on improving State collection and sharing of data related to incidences of maltreatment of youth residing in residential treatment facilities, including with respect to meeting the requirement of section 471(a)(9)(A) of such Act for such youth.
+- **(2)** Best practices on improving State collection and sharing of data related to incidences of maltreatment of youth residing in residential treatment facilities, including with respect to meeting the requirement of section 471(a)(9)(A) of such Act for such youth in foster care.
 - **(3)** Best practices on improving oversight of youth residential programs receiving Federal funding, and research-based strategies for risk assessment related to the health, safety, and well-being of youth in the facilities.
 
 ## § 15. Streamlining research, training, and technical assistance funding
@@ -484,15 +488,15 @@ Within 2 years after the date of the enactment of this Act, the Secretary of Hea
   >   - **(1)** $1,000,000 for technical assistance to grantees under section 437(f) and to support design of local site evaluations with the goal of publishing and submitting evaluation findings to the clearinghouse established under section 476(d), or to award grants to allow current or former grantees under section 437(f) to analyze, publish, and submit to the clearinghouse data collected during past grants; and
   >   - **(2)** $1,000,000 for technical assistance required under section 429B of this Act to support effective implementation of the Indian Child Welfare Act of 1978 and to support development of associated State plan measures described pursuant to section 422(b)(9) of this Act.
 
-- **(b)** *Elimination of research set-Aside from mandatory funds*
-  - **(1)** *In general* Section 436(b) (42 U.S.C. 629f(b)), as amended by the preceding provisions of this Act, is amended by striking paragraph (1) and predesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively.
+- **(b)** *Elimination of research set-aside from mandatory funds*
+  - **(1)** *In general* Section 436(b) (42 U.S.C. 629f(b)), as amended by the preceding provisions of this Act, is amended by striking paragraph (1) and redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively.
   - **(2)** *Conforming amendments*
     - **(A)** Section 433(a) (42 U.S.C. 629c(a)) is amended by striking “436(b)(3)” and inserting “436(b)(2)”.
     - **(B)** Section 433(e) (42 U.S.C. 629c(e)), as amended by section 12(b) of this Act, is amended by striking “436(b)(4)(A)” and inserting “436(b)(3)(A)” each place it appears.
     - **(C)** Section 434(a)(2)(A) (42 U.S.C. 629d(a)(2)(A)) is amended by striking “436(b)(4)(B)” and inserting “436(b)(3)(B)”.
     - **(D)** Section 437(b)(1) (42 U.S.C. 629g(b)(1)) is amended by striking “436(b)(1)” and inserting “435”.
     - **(E)** Section 437(f)(3) (42 U.S.C. 629g(f)(3)) is amended by striking “436(b)(5)” and inserting “436(b)(4)”.
-    - **(F)** Section 438(c)(3) (42 U.S.C. 629g(c)(3)) is amended by striking “436(b)(2)” and inserting “436(b)(1)”.
+    - **(F)** Section 438(c) (42 U.S.C. 629g(c)) is amended in each of paragraphs (1) through (3) is amended by striking “436(b)(2)” and inserting “436(b)(1)”.
 
 ## § 16. Report on post adoption and subsidized guardianship services
 
@@ -500,8 +504,8 @@ Within 2 years after the date of the enactment of this Act, the Secretary of Hea
 - **(b)** *Information* The Secretary shall include in the report information, to the extent available through the Adoption and Foster Care Analysis and Reporting System and other data sources, regarding the incidence of adoption disruption and dissolution affecting children described in subsection (a) and factors associated with such circumstances, including—
   - **(1)** whether affected individuals received pre- or post-legal adoption services; and
   - **(2)** other relevant information, such as the age of the child involved.
-- **(c)** *Post-Adoption services and guardianship* The Secretary shall include in the report—
-  - **(1)** a summary of post-adoption services and guardianship in each State that are available to families that adopted children from foster care and the extent to which the services are evidence-based or evidence-informed; and
+- **(c)** *Post-adoption services and guardianship* The Secretary shall include in the report—
+  - **(1)** a summary of post-adoption services and guardianship in each State that are available to families that adopted children from foster care and the extent to which the services are evidence-based or evidence-informed.
   - **(2)** a summary of funding and funding sources for the services in each State, including set-asides under the Promoting Safe and Stable Families program.
 
 ## § 17. Effective date
