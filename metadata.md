@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5464
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5464
@@ -34,3 +34,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2023-09-14 — Introduced in House
 - 2023-09-14 — Introduced in House
 - 2023-09-14 — Referred to the House Committee on Veterans' Affairs.
+- 2023-09-19 — Referred to the Subcommittee on Health.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5281-5283)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5464.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5281-5282)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5281-5282)
