@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5509
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,3 +22,7 @@ In order to improve the overall economy, efficiency, and management of operation
   - **(A)** hyperlinks to facilitate navigation to all Department electronic permitting systems; and
   - **(B)** with respect to permits, the contact information for the appropriate Department employees providing assistance to State, Tribal, and local governments; and
 - **(3)** provide to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate periodic updates on the implementation of paragraphs (1) and (2).
+
+## § 3. Conforming amendment to ensure consistency with the Fiscal Responsibility Act of 2023
+
+In developing the permitting systems required under section 2 of this Act, the Secretary of the Interior shall ensure that the Department’s electronic permitting systems are consistent with the priorities identified in section 110 of the National Environmental Policy Act of 1969 (42 U.S.C. 4336d) with respect to any permit that requires review under that Act.
