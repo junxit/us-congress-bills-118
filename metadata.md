@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6033
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6033
@@ -65,3 +65,9 @@ SPEAK Act of 2024
 - 2024-07-30 — Placed on the Union Calendar, Calendar No. 519.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-621.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-621.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5306-5308)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6033.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5306-5307)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5306-5307)
