@@ -16,12 +16,11 @@ This Act may be cited as the “Commission to Study the Potential Transfer of th
 ## § 2. Establishment of commission
 
 - **(a)** *In general* There is established the Commission to Study the Potential Transfer of the Weitzman National Museum of American Jewish History to the Smithsonian Institution (hereafter in this Act referred to as the “Commission”).
-- **(b)** *Membership* The Commission shall be composed of 9 members, of whom—
+- **(b)** *Membership* The Commission shall be composed of 8 members, of whom—
   - **(1)** 2 voting members shall be appointed by the majority leader of the Senate;
   - **(2)** 2 voting members shall be appointed by the Speaker of the House of Representatives;
-  - **(3)** 2 voting members shall be appointed by the minority leader of the Senate;
-  - **(4)** 2 voting members shall be appointed by the minority leader of the House of Representatives; and
-  - **(5)** 1 nonvoting member shall be appointed by the board of the Weitzman National Museum of American Jewish History.
+  - **(3)** 2 voting members shall be appointed by the minority leader of the Senate; and
+  - **(4)** 2 voting members shall be appointed by the minority leader of the House of Representatives.
 - **(c)** *Qualification* Members of the Commission shall be appointed to the Commission from among individuals, or representatives of institutions or entities, who possess—
   - **(1)**
     - **(A)** a demonstrated commitment to the research, study, or promotion of Jewish American history, art, political or economic status, or culture; and
@@ -52,7 +51,7 @@ This Act may be cited as the “Commission to Study the Potential Transfer of th
     - **(E)** The financial and legal considerations associated with the potential transfer of the Museum to the Smithsonian Institution, including—
       - **(i)** any donor or legal restrictions on the Museum’s collections, endowments, and real estate;
       - **(ii)** costs associated with actions that will be necessary to resolve the status of employees of the Museum, if the Museum is transferred to the Smithsonian Institution; and
-      - **(iii)** all additional costs for the Smithsonian Institution that would be associated with operating and maintaining a new museum outside of the Washington, DC, metropolitan area.
+      - **(iii)** all additional costs for the Smithsonian Institution that would be associated with operating and maintaining a new museum outside of the Washington, D.C. metropolitan area.
     - **(F)** The feasibility of the Museum becoming part of the Smithsonian Institution, taking into account the Museum’s potential impact on the Smithsonian’s existing facilities maintenance backlog, collections storage needs, and identified construction or renovation costs for new or existing museums.
   - **(2)** *Fund-raising plan* A fund-raising plan that addresses the following topics:
     - **(A)** The ability to support the transfer, operation, and maintenance of the Museum through contributions from the public, including potential charges for admission.
@@ -70,7 +69,6 @@ This Act may be cited as the “Commission to Study the Potential Transfer of th
     - **(B)** shall serve without pay.
   - **(2)** *Travel expenses* A member of the Commission shall be allowed a per diem allowance for travel expenses, at rates consistent with those authorized under subchapter I of chapter 57 of title 5, United States Code.
   - **(3)** *Gifts, bequests, and devises* The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or real or personal property for the purpose of aiding or facilitating the work of the Commission. Such gifts, bequests, or devises may be from the Museum.
-  - **(4)** *Federal Advisory Committee Act* Chapter 10 of title 5, United States Code, shall not apply to the Commission.
 - **(b)** *Termination* The Commission shall terminate on the date that is 30 days after the date on which the final versions of the report, plan, and recommendations required under section 3 are submitted.
 - **(c)** *Funding* The Commission shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the Commission.
 - **(d)** *Director and staff of commission*
@@ -85,5 +83,5 @@ This Act may be cited as the “Commission to Study the Potential Transfer of th
 - **(e)** *Administrative support services* Upon request of the Commission, the Administrator of the General Services Administration shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act. The involvement of the General Services Administration shall be limited to providing administrative support to the Commission, and such involvement shall terminate upon termination of the Commission.
 - **(f)** *Meeting location* The Commission may meet virtually or in-person.
 - **(g)** *Appointment delays* The Commission may begin to meet and carry out activities under this Act before all members of the Commission have been appointed if—
-  - **(1)** 90 days have passed since the date of enactment of this Act; and
+  - **(1)** 90 days have passed since the date of the enactment of this Act; and
   - **(2)** a majority of the members of the Commission have been appointed.
