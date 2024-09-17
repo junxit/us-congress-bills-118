@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6160
@@ -41,3 +41,9 @@ To amend the Public Health Service Act to reauthorize a lifespan respite care pr
 - 2024-05-21 — Placed on the Union Calendar, Calendar No. 426.
 - 2024-05-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-513.
 - 2024-05-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-513.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5302-5303)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6160.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5302)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5302)
