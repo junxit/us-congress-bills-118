@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7218
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7218
@@ -115,3 +115,9 @@ BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024
 - 2024-05-21 — Placed on the Union Calendar, Calendar No. 428.
 - 2024-05-21 — Reported by the Committee on Energy and Commerce. H. Rept. 118-515.
 - 2024-05-21 — Reported by the Committee on Energy and Commerce. H. Rept. 118-515.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5295-5296)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7218.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Miller-Meeks moved to suspend the rules and pass the bill.
+- 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
