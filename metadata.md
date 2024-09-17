@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8112
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8112
@@ -33,3 +33,9 @@ To amend title XIX of the Social Security Act to further require certain additio
 - 2024-07-23 — Placed on the Union Calendar, Calendar No. 505.
 - 2024-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-606.
 - 2024-07-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-606.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5296-5297)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8112.
+- 2024-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5296)
+- 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5296)
