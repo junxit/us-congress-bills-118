@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

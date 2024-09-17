@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3187
@@ -16,7 +16,7 @@ Southern Border Transparency Act of 2023
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 - Sen. Cotton, Tom [R-AR] (C001095)
@@ -43,6 +43,9 @@ Southern Border Transparency Act of 2023
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -52,3 +55,7 @@ Southern Border Transparency Act of 2023
 
 - 2023-11-01 — Introduced in Senate
 - 2023-11-01 — Read twice and referred to the Committee on the Judiciary.
+- 2024-09-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6085-6086; text: CR S6086)
+- 2024-09-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-09-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6085)
