@@ -32,6 +32,6 @@ This Act may be cited as the “Clear Communication for Veterans Claims Act”.
     - **(D)** an entity that advocates for veterans.
   - **(3)** The terms “claimant” and “notice” have the meanings given such terms in section 5100 of title 38, United States Code.
 
-## § 3. Modification of certain housing loan fees
+## § 3. Extension of certain limits on payments of pension
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”.
