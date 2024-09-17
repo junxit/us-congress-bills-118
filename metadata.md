@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 815
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 815
@@ -52,3 +52,7 @@ A resolution designating the week beginning on September 9, 2024, as "National H
 
 - 2024-09-12 — Introduced in Senate
 - 2024-09-12 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-09-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-09-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6109; text: 9/12/2024 CR S6023-6024)
+- 2024-09-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-09-17 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6109)
