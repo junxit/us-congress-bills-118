@@ -1,7 +1,7 @@
 ---
 measure: H.R. 455
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 455
@@ -31,3 +31,13 @@ To amend the Controlled Substances Act to fix a technical error in the definitio
 - 2023-01-24 — Introduced in House
 - 2023-01-24 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-01-24 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-02-03 — Referred to the Subcommittee on Health.
+- 2024-05-16 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 24 - 0.
+- 2024-05-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported by the Yeas and Nays: 44 - 0.
+- 2024-09-17 — Committee on the Judiciary discharged.
+- 2024-09-17 — Committee on the Judiciary discharged.
+- 2024-09-17 — Placed on the Union Calendar, Calendar No. 576.
+- 2024-09-17 — Reported by the Committee on Energy and Commerce. H. Rept. 118-681, Part I.
+- 2024-09-17 — Reported by the Committee on Energy and Commerce. H. Rept. 118-681, Part I.
