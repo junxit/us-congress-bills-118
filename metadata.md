@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4190
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4190
@@ -46,3 +46,4 @@ Restoring Benefits to Defrauded Veterans Act
 - 2024-09-17 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5283)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5283)
+- 2024-09-18 — Received in the Senate, read twice.
