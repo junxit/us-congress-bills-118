@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7858
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7858
@@ -22,10 +22,11 @@ TELEMH Act of 2024
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ TELEMH Act of 2024
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5308)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5308)
 - 2024-09-17 — The title of the measure was amended. Agreed to without objection.
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
