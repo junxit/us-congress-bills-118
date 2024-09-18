@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1432
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1432
@@ -54,3 +54,4 @@ VETT Act
 - 2024-09-17 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5272)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5272)
+- 2024-09-18 — Received in the Senate, read twice.
