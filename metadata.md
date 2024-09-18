@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7218
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7218
@@ -122,3 +122,12 @@ BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024
 - 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
 - 2024-09-18 — Received in the Senate, read twice.
+- 2024-11-21 — Message on Senate action sent to the House.
+- 2024-11-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S6696)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S6696)
+- 2024-12-05 — Presented to President.
+- 2024-12-05 — Presented to President.
+- 2024-12-11 — Became Public Law No: 118-142.
+- 2024-12-11 — Became Public Law No: 118-142.
+- 2024-12-11 — Signed by President.
+- 2024-12-11 — Signed by President.
