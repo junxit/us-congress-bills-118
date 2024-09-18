@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6324
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6324
@@ -45,3 +45,12 @@ Fiscal Year 2024 Veterans Affairs Major Medical Facility Authorization Act
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5274)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5274)
 - 2024-09-18 — Received in the Senate, read twice.
+- 2024-11-14 — Message on Senate action sent to the House.
+- 2024-11-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR H6588)
+- 2024-11-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-20 — Presented to President.
+- 2024-11-20 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-124.
+- 2024-11-25 — Became Public Law No: 118-124.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
