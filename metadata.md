@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8111
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8111
@@ -21,9 +21,10 @@ Medicaid Program Improvement Act
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Medicaid Program Improvement Act
 - 2024-09-17 — Mrs. Miller-Meeks moved to suspend the rules and pass the bill, as amended.
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5291-5292)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5291-5292)
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
