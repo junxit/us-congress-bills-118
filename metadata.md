@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7438
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7438
@@ -313,9 +313,10 @@ FIFA World Cup 2026 Commemorative Coin Act
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Dean, Madeleine [D-PA-4] (D000631)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -328,3 +329,4 @@ FIFA World Cup 2026 Commemorative Coin Act
 - 2024-09-17 — Mrs. Kim (CA) moved to suspend the rules and pass the bill.
 - 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5246)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5246)
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
