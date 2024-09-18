@@ -1,7 +1,7 @@
 ---
 measure: S. 1871
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1871
@@ -34,3 +34,13 @@ Intergovernmental Critical Minerals Task Force Act
 - 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-93.
 - 2023-09-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-93.
 - 2023-09-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
+- 2024-09-18 — 
+- 2024-09-18 — Amendment SA 3288 agreed to in Senate by Unanimous Consent.
+- 2024-09-18 — Amendment SA 3288 proposed by Senator Hassan for Senator Peters. (consideration: CR S6185)
+- 2024-09-18 — Measure laid before Senate by unanimous consent. (consideration: CR S6184-6185)
+- 2024-09-18 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6182-6184)
+- 2024-09-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-09-18 — Senate amendment agreed to: Amendment SA 3288 agreed to in Senate by Unanimous Consent.
+- 2024-09-18 — Senate amendment proposed (on the floor): Amendment SA 3288 proposed by Senator Hassan for Senator Peters.
+- 2024-09-18 — Senate amendment submitted
+- 2024-09-18 — The committee substitute withdrawn by Unanimous Consent. (CR S6185)

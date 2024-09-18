@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1871
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,76 +13,122 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Intergovernmental Critical Minerals Task Force Act”.
 
-## § 2. Definitions
-
-In this Act:
-
-- **(1)** *Allied country* The term allied country means—
-  - **(A)** a country described in section 4801(1) of title 10, United States Code; and
-  - **(B)** a country that the task force determines is an ally of the United States for purposes of this Act.
-- **(2)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
-  - **(A)** the Committees on Homeland Security and Governmental Affairs, Energy and Natural Resources, Armed Services, and Foreign Relations of the Senate; and
-  - **(B)** the Committees on Oversight and Accountability, Natural Resources, Armed Services, and Foreign Affairs of the House of Representatives.
-- **(3)** *Covered country* The term covered country means—
-  - **(A)** a covered nation (as defined in section 4872(d) of title 10, United States Code); and
-  - **(B)** any other country determined by the task force to be a geostrategic competitor or adversary of the United States with respect to critical minerals.
-- **(4)** *Critical mineral* The term “critical mineral” has the meaning given the term in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a)).
-- **(5)** *Director* The term Director means the Director of the Office of Management and Budget.
-- **(6)** *Task force* The term task force means the task force established under section 4(b).
-
-## § 3. Findings
+## § 2. Findings
 
 Congress finds that—
 
-- **(1)** current supply chains of critical minerals pose a great risk to the homeland and national security of the United States; and
-- **(2)** critical minerals contribute to transportation, technology, renewable energy, military equipment and machinery, and other relevant entities crucial for the homeland and national security of the United States.
+- **(1)** current supply chains of critical minerals pose a great risk to the national security of the United States;
+- **(2)** critical minerals are necessary for transportation, technology, renewable energy, military equipment and machinery, and other relevant sectors crucial for the homeland and national security of the United States;
+- **(3)** in 2022, the United States was 100 percent import reliant for 12 out of 50 critical minerals and more than 50 percent import reliant for an additional 31 critical mineral commodities classified as “critical” by the United States Geological Survey, and the People’s Republic of China was the top producing nation for 30 of those 50 critical minerals;
+- **(4)** as of July 2023, companies based in the People’s Republic of China that extract critical minerals around the world have received hundreds of charges of human rights violations; and
+- **(5)** on August 29, 2014, the World Trade Organization Dispute Settlement Body adopted findings that the export restraints by the People's Republic of China on rare earth metals, which harmed manufacturers and workers in the United States, violated obligations under the General Agreement on Tariffs and Trade 1994 and China’s Protocol of Accession to the World Trade Organization.
 
-## § 4. Intergovernmental critical minerals task force
+## § 3. Intergovernmental critical minerals task force
 
-- **(a)** *Purpose* The purpose of the task force is to assess the reliance of the United States on the People's Republic of China, and other covered countries, for critical minerals, and the resulting homeland and national security risks associated with that reliance, at each level of the Federal, State, local, Tribal, and territorial governments.
-- **(b)** *Establishment* Not later than 90 days after the date of enactment of this Act, the Director shall establish a task force to facilitate cooperation, coordination, and mutual accountability among each level of the Federal Government and State, local, Tribal, and territorial governments on a holistic response to the dependence on covered countries for critical minerals across the United States.
-- **(c)** *Composition; meetings*
-  - **(1)** *Appointment* The Director shall appoint to the task force representatives with expertise in critical mineral supply chains from Federal agencies, State, local, Tribal, and territorial governments, and academic research institutions, including—
-    - **(A)** not less than 1 representative from each of—
-      - **(i)** the Department of Agriculture;
-      - **(ii)** the Department of Commerce;
-      - **(iii)** the Department of Defense;
-      - **(iv)** the Department of Energy;
-      - **(v)** the Department of Homeland Security;
-      - **(vi)** the Department of Housing and Urban Development;
-      - **(vii)** the Department of the Interior;
-      - **(viii)** the Department of State;
-      - **(ix)** the Department of Transportation;
-      - **(x)** the Environmental Protection Agency;
-      - **(xi)** the National Science Foundation;
-      - **(xii)** the United States Geological Survey; and
-      - **(xiii)** any other relevant Federal entity, as determined by the Director; and
-    - **(B)** in consultation with relevant entities, not less than 15 representatives from a diverse cross-section of State, local, Tribal, and territorial governments, including not less than 5 representatives from each of—
-      - **(i)** State governments;
-      - **(ii)** local governments;
-      - **(iii)** Tribal governments; and
-      - **(iv)** territorial governments.
-  - **(2)** *Chair* The Director may serve as chair of the task force, or designate a representative of the task force to serve as chair.
-  - **(3)** *Meetings*
-    - **(A)** *Initial meeting* Not later than 90 days after the date on which all representatives of the task force have been appointed, the task force shall hold the first meeting of the task force.
-    - **(B)** *Frequency* The task force shall meet not less than 1 time per quarter.
-- **(d)** *Duties*
-  - **(1)** *In general* The duties of the task force shall include—
-    - **(A)** facilitating cooperation, coordination, and mutual accountability for the Federal Government and State, local, Tribal, and territorial governments to enhance data sharing and transparency in the supply chains for critical minerals;
-    - **(B)** addressing the homeland and national security risks associated with the current critical mineral supply chains of the United States;
-    - **(C)** identifying a list of critical minerals most important for securing the homeland and national security of the United States;
-    - **(D)** using the list described in subparagraph (C) to assess—
-      - **(i)** the amount of critical minerals mined, processed, refined, and recycled by the People's Republic of China, other covered countries, and the United States; and
-      - **(ii)** critical minerals that the task force determines that the Federal Government and State, local, Tribal, and territorial governments still need to obtain from covered countries and recommend—
-        - **(I)** alternative minerals, available in the United States, that can substitute for critical minerals that the United States currently relies on the People's Republic of China or other covered countries for mining, processing, refining, and recycling; and
-        - **(II)** opportunities for the Federal Government and State, local, Tribal, and territorial governments to mitigate risk to the homeland and national security of the United States with respect to supply chains for critical minerals that the United States currently relies on the People's Republic of China or other covered countries for mining, processing, refining, and recycling;
-    - **(E)** providing recommendations addressing—
-      - **(i)** research and development into emerging technologies necessary to expand existing critical mineral supply chains in the United States and to establish new critical mineral supply chains in the United States;
-      - **(ii)** increasing opportunities for mining, processing, refinement, reuse, and recycling of critical minerals, including critical minerals listed on the list described in subparagraph (C), in the United States;
-      - **(iii)** strengthening the domestic workforce to support growing critical mineral supply chains in the United States; and
-      - **(iv)** improving partnerships between the United States and allied countries to improve critical mineral supply chains; and
-    - **(F)** other duties, as determined by the Director.
-  - **(2)** *Report* The Director shall—
-    - **(A)** not later than 2 years after the date of enactment of this Act, submit to the appropriate committees of Congress a report that describes any findings, guidelines, and recommendations created in performing the duties under paragraph (1); and
-    - **(B)** not later than 120 days after the date on which the Director submits the report under subparagraph (A), publish that report in the Federal Register, except that the Director shall redact information from the report that the Director determines could pose a risk to the homeland and national security of the United States by being publicly available.
-- **(e)** *Sunset* The task force shall terminate on the date that is 90 days after the date on which the task force completes the requirements under subsection (d)(2).
+- **(a)** *In general* Section 5 of the National Materials and Minerals Policy, Research and Development Act of 1980 (30 U.S.C. 1604) is amended by adding at the end the following:
+  > - **(g)** *Intergovernmental critical minerals task force*
+  >   - **(1)** *Purposes* The purposes of the task force established under paragraph (3)(B) are—
+  >     - **(A)** to assess the reliance of the United States on the People’s Republic of China, and other covered countries, for critical minerals, and the resulting national security risks associated with that reliance;
+  >     - **(B)** to make recommendations to the President for the implementation of this Act with regard to critical minerals, including—
+  >       - **(i)** the congressional declarations of policies in section 3; and
+  >       - **(ii)** revisions to the program plan of the President and the initiatives required under this section;
+  >     - **(C)** to make recommendations to secure United States supply chains for critical minerals;
+  >     - **(D)** to make recommendations to reduce the reliance of the United States, and partners and allies of the United States, on critical mineral supply chains involving covered countries; and
+  >     - **(E)** consistent with ongoing efforts of other Federal departments, agencies, and other entities, to facilitate cooperation, coordination, and mutual accountability among each level of the Federal Government, Indian Tribes, and State, local, and territorial governments, on a holistic response to the dependence on covered countries for critical minerals across the United States.
+  >   - **(2)** *Definitions* In this subsection:
+  >     - **(A)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
+  >       - **(i)** the Committees on Homeland Security and Governmental Affairs, Energy and Natural Resources, Armed Services, Environment and Public Works, Commerce, Science, and Transportation, Finance, and Foreign Relations of the Senate; and
+  >       - **(ii)** the Committees on Oversight and Accountability, Natural Resources, Armed Services, Ways and Means, Foreign Affairs, and Energy and Commerce of the House of Representatives.
+  >     - **(B)** *Chairperson; Co-Chairperson* The terms Chairperson and Co-Chairperson, respectively, mean the Chairperson or Co-Chairperson of the task force designated by the President pursuant to paragraph (3)(A).
+  >     - **(C)** *Covered country* The term covered country means—
+  >       - **(i)** a covered nation (as defined in section 4872(d) of title 10, United States Code); and
+  >       - **(ii)** any other country determined by the task force to be a geostrategic competitor or adversary of the United States with respect to critical minerals.
+  >     - **(D)** *Critical mineral* The term critical mineral has the meaning given the term in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a)).
+  >     - **(E)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+  >     - **(F)** *Task force* The term task force means the task force established under paragraph (3)(B).
+  >   - **(3)** *Establishment* Not later than 90 days after the date of enactment of this subsection, the President shall—
+  >     - **(A)** designate a Chairperson, or 2 individuals as Co-Chairpersons, for the task force, who shall be—
+  >       - **(i)** the Assistant to the President for National Security Affairs;
+  >       - **(ii)** the Assistant to the President for Economic Policy; or
+  >       - **(iii)** another relevant member of the Executive Office of the President; and
+  >     - **(B)** acting through the Executive Office of the President, establish a task force.
+  >   - **(4)** *Composition; meetings*
+  >     - **(A)** *Appointment* The Chairperson or Co-Chairpersons, in consultation with key intergovernmental, private, and public sector stakeholders, shall appoint to the task force representatives with expertise in critical mineral supply chains from Federal agencies, including not less than 1 representative from each of—
+  >       - **(i)** the Bureau of Indian Affairs;
+  >       - **(ii)** the Bureau of Land Management;
+  >       - **(iii)** the Critical Minerals Subcommittee of the National Science and Technology Council;
+  >       - **(iv)** the Department of Agriculture;
+  >       - **(v)** the Department of Commerce;
+  >       - **(vi)** the Department of Defense;
+  >       - **(vii)** the Department of Energy;
+  >       - **(viii)** the Department of Homeland Security;
+  >       - **(ix)** the Department of the Interior;
+  >       - **(x)** the Department of Labor;
+  >       - **(xi)** the Department of State;
+  >       - **(xii)** the Department of Transportation;
+  >       - **(xiii)** the Environmental Protection Agency;
+  >       - **(xiv)** the Export-Import Bank of the United States;
+  >       - **(xv)** the Forest Service;
+  >       - **(xvi)** the General Services Administration;
+  >       - **(xvii)** the National Economic Council;
+  >       - **(xviii)** the National Science Foundation;
+  >       - **(xix)** the National Security Council;
+  >       - **(xx)** the Office of Management and Budget;
+  >       - **(xxi)** the Office of the United States Trade Representative;
+  >       - **(xxii)** the United States International Development Finance Corporation;
+  >       - **(xxiii)** the United States Geological Survey; and
+  >       - **(xxiv)** any other relevant Federal entity, as determined by the Chairperson or Co-Chairpersons.
+  >     - **(B)** *Consultation* The task force shall consult individuals with expertise in critical mineral supply chains, individuals from States whose communities, businesses, and industries are involved in aspects of critical mineral supply chains, including mining and processing operations, and individuals from a diverse and balanced cross-section of—
+  >       - **(i)** intergovernmental consultees, including—
+  >         - **(I)** State governments;
+  >         - **(II)** local governments;
+  >         - **(III)** territorial governments; and
+  >         - **(IV)** Indian Tribes; and
+  >       - **(ii)** other stakeholders, including—
+  >         - **(I)** academic research institutions;
+  >         - **(II)** corporations;
+  >         - **(III)** nonprofit organizations;
+  >         - **(IV)** private sector stakeholders;
+  >         - **(V)** trade associations;
+  >         - **(VI)** mining industry stakeholders; and
+  >         - **(VII)** labor representatives.
+  >     - **(C)** *Meetings*
+  >       - **(i)** *Initial meeting* Not later than 90 days after the date on which all representatives of the task force have been appointed, the task force shall hold the first meeting of the task force.
+  >       - **(ii)** *Frequency* The task force shall meet not less than once every 90 days.
+  >   - **(5)** *Duties*
+  >     - **(A)** *In general* The duties of the task force shall include—
+  >       - **(i)** facilitating cooperation, coordination, and mutual accountability for the Federal Government, Indian Tribes, and State, local, and territorial governments to enhance data sharing and transparency to build more robust and secure domestic supply chains for critical minerals in support of the purposes described in paragraph (1);
+  >       - **(ii)** providing recommendations with respect to—
+  >         - **(I)** increasing capacities for mining, processing, refinement, reuse, and recycling of critical minerals in the United States to facilitate the environmentally responsible production of domestic resources to meet national critical mineral needs, in consultation with Tribal and local communities;
+  >         - **(II)** identifying how statutes, regulations, and policies related to the critical mineral supply chain, such as stockpiling and development finance, could be modified to accelerate environmentally responsible domestic and international production of critical minerals, in consultation with Indian Tribes and local communities;
+  >         - **(III)** strengthening the domestic workforce to support growing critical mineral supply chains with good-paying, safe jobs in the United States;
+  >         - **(IV)** identifying alternative domestic sources to critical minerals that the United States currently relies on the People’s Republic of China or other covered countries for mining, processing, refining, and recycling, including the availability, capacity, cost, and quality of those domestic alternatives;
+  >         - **(V)** identifying critical minerals and critical mineral supply chains that the United States can onshore, in whole or in part, at a competitive value and quality, for those minerals and supply chains that the United States relies on the People’s Republic of China or other covered countries to provide;
+  >         - **(VI)** opportunities for the Federal Government, Indian Tribes, and State, local, and territorial governments to mitigate risks to the national security of the United States with respect to supply chains for critical minerals that the United States currently relies on the People’s Republic of China or other covered countries for mining, processing, refining, and recycling; and
+  >         - **(VII)** evaluating and integrating the recommendations of the Critical Minerals Subcommittee of the National Science and Technology Council into the recommendations of the task force;
+  >       - **(iii)** prioritizing the recommendations in clause (ii), taking into consideration economic costs and focusing on the critical mineral supply chains with vulnerabilities posing the most significant risks to the national security of the United States;
+  >       - **(iv)** recommending specific strategies, to be carried out in coordination with the Secretary of State and the Secretary of Commerce, to strengthen international partnerships in furtherance of critical minerals supply chain security with international allies and partners, including a strategy to collaborate with governments of the allies and partners described in subparagraph (B) to develop advanced mining, refining, separation and processing technologies; and
+  >       - **(v)** other duties, as determined by the Chairperson or Co-Chairpersons.
+  >     - **(B)** *Allies and partners* The allies and partners referred to in subparagraph (A) include—
+  >       - **(i)** countries participating in the Quadrilateral Security Dialogue;
+  >       - **(ii)** countries that are—
+  >         - **(I)** signatories to the Abraham Accords; or
+  >         - **(II)** participants in the Negev Forum; and
+  >       - **(iii)** countries that are members of the North Atlantic Treaty Organization.
+  >     - **(C)** *Report* The Chairperson or Co-Chairpersons shall—
+  >       - **(i)** not later than 60 days after the date of enactment of this subsection, and every 60 days thereafter until the requirements under subsection (a) are satisfied, brief the appropriate committees of Congress on the status of the compliance of the President with completing the requirements under that subsection;
+  >       - **(ii)** not later than 2 years after the date of enactment of this subsection, submit to the appropriate committees of Congress a report, which shall be submitted in unclassified form, but may include a classified annex, that describes any findings, guidelines, and recommendations created in performing the duties under subparagraph (A);
+  >       - **(iii)** not later than 120 days after the date on which the Chairperson or Co-Chairpersons submits the report under clause (ii), publish that report in the Federal Register, except that the Chairperson or Co-Chairpersons shall redact information from the report that the Chairperson or Co-Chairpersons determines could pose a risk to the national security of the United States by being publicly available; and
+  >       - **(iv)** brief the appropriate committees of Congress twice per year.
+  >   - **(6)** *Duplication of effort* The Chairperson or Co-Chairpersons, to the maximum extent practicable, shall carry out the task force in a manner that does not duplicate the efforts of other Federal departments, agencies, or other entities.
+  >   - **(7)** *Sunset* The task force shall terminate on the date that is 90 days after the date on which the task force completes the requirements under paragraph (5)(C).
+  >   - **(8)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this subsection.
+
+- **(b)** *GAO study*
+  - **(1)** *Study required* The Comptroller General of the United States shall conduct a study examining the Federal and State regulatory landscape related to improving domestic supply chains for critical minerals in the United States.
+  - **(2)** *Report* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report that describes the results of the study under paragraph (1).
+  - **(3)** *Definitions* In this subsection:
+    - **(A)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
+      - **(i)** the Committees on Homeland Security and Governmental Affairs, Energy and Natural Resources, Armed Services, Environment and Public Works, Commerce, Science, and Transportation, Finance, and Foreign Relations of the Senate; and
+      - **(ii)** the Committees on Oversight and Accountability, Natural Resources, Armed Services, Ways and Means, Foreign Affairs, and Energy and Commerce of the House of Representatives.
+    - **(B)** *Critical mineral* The term critical mineral has the meaning given the term in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a)).
