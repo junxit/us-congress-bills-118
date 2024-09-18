@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-123 amendatory instructions. 34 executed, 89 stated and not applied.
+146 amendatory instructions. 47 executed, 99 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -287,7 +287,7 @@ to guess them.
 
 ### 42 U.S.C. § 629c
 
-> Section 433(e) (42 U.S.C. 629c(e)), as amended by section 12(b) of this Act, is amended by striking “436(b)(4)(A)” and inserting “436(b)(3)(A)” each place it appears.
+> Section 433(e) (42 U.S.C. 629c(e)), as amended by section 112(b) of this Act, is amended by striking “436(b)(4)(A)” and inserting “436(b)(3)(A)” each place it appears.
 
 | | |
 |---|---|
@@ -329,6 +329,123 @@ to guess them.
 |---|---|
 | Removed | `436(b)(2)` |
 | Inserted | `436(b)(1)` |
+
+### 26 U.S.C. § 6103
+
+> Section 6103(a)(2) of the Internal Revenue Code of 1986 is amended by striking “any local child support enforcement agency” and inserting “any tribal or local child support enforcement agency”.
+
+| | |
+|---|---|
+| Removed | `any local child support enforcement agency` |
+| Inserted | `any tribal or local child support enforcement agency` |
+
+### 26 U.S.C. § 6103
+
+> by striking “or local” in subparagraph (A) and inserting “tribal, or local”;
+
+| | |
+|---|---|
+| Removed | `or local` |
+| Inserted | `tribal, or local` |
+
+### 26 U.S.C. § 6103
+
+> by striking “and local” in the heading thereof and inserting “tribal, and local”;
+
+| | |
+|---|---|
+| Removed | `and local` |
+| Inserted | `tribal, and local` |
+
+### 26 U.S.C. § 6103
+
+> by striking “The following” in subparagraph (B) and inserting “The”;
+
+| | |
+|---|---|
+| Removed | `The following` |
+| Inserted | `The` |
+
+### 26 U.S.C. § 6103
+
+> in subparagraph (A), by striking “or State or local” and inserting “, State, tribal, or local”;
+
+| | |
+|---|---|
+| Removed | `or State or local` |
+| Inserted | `, State, tribal, or local` |
+
+### 26 U.S.C. § 6103
+
+> in subparagraph (B), by striking “enforced pursuant to a plan described” and all that follows through “of such Act” and inserting “enforced pursuant to the provisions of part D of title IV of the Social Security Act”;
+
+| | |
+|---|---|
+| Removed | `enforced pursuant to a plan described” and all that follows through “of such Act` |
+| Inserted | `enforced pursuant to the provisions of part D of title IV of the Social Security Act` |
+
+### 26 U.S.C. § 6103
+
+> by striking “and local” in the heading thereof and inserting “tribal, and local”; and
+
+| | |
+|---|---|
+| Removed | `and local` |
+| Inserted | `tribal, and local` |
+
+### 26 U.S.C. § 6103
+
+> by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity” in the matter preceding subparagraph (A) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”;
+
+| | |
+|---|---|
+| Removed | `subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity` |
+| Inserted | `subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity` |
+
+### 26 U.S.C. § 6103
+
+> by striking “subsection (l)(10)” in subparagraph (F)(i) and inserting “subsection (l)(6), (8), (10)”;
+
+| | |
+|---|---|
+| Removed | `subsection (l)(10)` |
+| Inserted | `subsection (l)(6), (8), (10)` |
+
+### 26 U.S.C. § 6103
+
+> by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity” each place it appears in the matter following subparagraph (F)(iii) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”; and
+
+| | |
+|---|---|
+| Removed | `subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity` |
+| Inserted | `subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity` |
+
+### 26 U.S.C. § 6103
+
+> Section 6103(p)(9) of such Code is amended by striking “or local” and inserting “tribal, or local”.
+
+| | |
+|---|---|
+| Removed | `or local` |
+| Inserted | `tribal, or local` |
+
+### 42 U.S.C. § 653
+
+> by striking “and State” and inserting “, State, and tribal”.
+
+| | |
+|---|---|
+| Removed | `and State` |
+| Inserted | `, State, and tribal` |
+
+### 42 U.S.C. § 654
+
+> Paragraphs (7) and (33) of section 454 of the Social Security Act (42 U.S.C. 654) are each amended by striking “450b” and inserting “5304”.
+
+| | |
+|---|---|
+| Removed | `450b` |
+| Inserted | `5304` |
 
 ## Stated, not applied
 
@@ -412,7 +529,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 627` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 627` | replace | by striking all that precedes “2 percent” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 627` | strike | by striking subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629g` | add-at-end | Section 437(b) (42 U.S.C. 629g(b)), as amended by section 8(b) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629g` | add-at-end | Section 437(b) (42 U.S.C. 629g(b)), as amended by section 108(b) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | strike | in subparagraph (F), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 629a` | replace | in subparagraph (G), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -424,7 +541,17 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 624` | strike | by striking “(1)(A)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 624` | strike | by striking paragraphs (1)(B) and (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629i` | amend | Section 439 (42 U.S.C. 629i) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629a` | strike | Section 431(a)(2)(B)(vii) (42 U.S.C. 629a(a)(2)(B)(vii)) is amended by striking “(as defined in section 439(b)(2))”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629a` | add-at-end | Section 431(a) (42 U.S.C. 629a(a)), as amended by sections 6(b)(2) and 10(a)(4) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629a` | strike | Section 431(a)(2)(B)(vii) (42 U.S.C. 629a(a)(2)(B)(vii)) is amended by striking “(as defined in section 439(b)(2))”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 629a` | add-at-end | Section 431(a) (42 U.S.C. 629a(a)), as amended by sections 106(b)(2) and 110(a)(4) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629e` | amend | Section 435(c) (42 U.S.C. 629e(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629f` | redesignate | Section 436(b) (42 U.S.C. 629f(b)), as amended by the preceding provisions of this Act, is amended by striking paragraph (1) and redesignating paragraphs (2) through (5) as paragraphs (1) through (4), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 664` | add-at-end | Section 464 of the Social Security Act (42 U.S.C. 664) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | insert | Section 6103(a)(3) of such Code is amended by inserting “, (8)” after “(6)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | replace | by striking the colon and all that follows in subparagraph (B) and inserting a period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | by adding at the end of subparagraph (B) the following: “The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | add-at-end | in paragraph (10)(B), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6103` | insert | by inserting “, (8)” after “paragraph (6)(A)” in the matter following subparagraph (F)(iii). | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6103` | add-at-end | Section 6402(c) of such Code is amended by adding at the end the following: “For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 4… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 653` | strike | in the subsection heading, by striking “State”; and | the bill quotes the text struck but describes what replaces it |

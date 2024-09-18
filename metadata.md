@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9076
@@ -46,6 +46,10 @@ Supporting America’s Children and Families Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2024-09-18 — [House 118-2-423](votes/house-118-2-0423.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (405–10)
+
 ## Actions
 
 - 2024-07-22 — Introduced in House
@@ -60,3 +64,8 @@ Supporting America’s Children and Families Act
 - 2024-09-17 — Placed on the Union Calendar, Calendar No. 574.
 - 2024-09-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-679.
 - 2024-09-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-679.
+- 2024-09-18 — Considered as unfinished business. (consideration: CR H5341-5342)
+- 2024-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 10 (Roll no. 423). (text: 09/17/2024 CR H5259-5266)
+- 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 10 (Roll no. 423). (text: 09/17/2024 CR H5259-5266)
+- 2024-09-18 — The title of the measure was amended. Agreed to without objection.
