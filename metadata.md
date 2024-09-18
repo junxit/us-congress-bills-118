@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9459
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9459
@@ -30,3 +30,9 @@ PATHS Act
 - 2024-09-06 — Introduced in House
 - 2024-09-06 — Referred to the House Committee on Homeland Security.
 - 2024-09-06 — Referred to the Subcommittee on Emergency Management and Technology.
+- 2024-09-11 — Committee Consideration and Mark-up Session Held
+- 2024-09-11 — Ordered to be Reported by Voice Vote.
+- 2024-09-11 — Subcommittee on Emergency Management and Technology Discharged
+- 2024-09-18 — Placed on the Union Calendar, Calendar No. 581.
+- 2024-09-18 — Reported by the Committee on Homeland Security. H. Rept. 118-687.
+- 2024-09-18 — Reported by the Committee on Homeland Security. H. Rept. 118-687.
