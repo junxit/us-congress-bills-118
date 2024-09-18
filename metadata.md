@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3784
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3784
@@ -21,9 +21,10 @@ Improving Social Security’s Service to Victims of Identity Theft Act
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Improving Social Security’s Service to Victims of Identity Theft Act
 - 2024-09-17 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5255-5256)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5255-5256)
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
