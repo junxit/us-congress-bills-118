@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5613
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5613
@@ -39,3 +39,5 @@ Sanctions Lists Harmonization Act
 - 2024-09-09 — Mr. Barr moved to suspend the rules and pass the bill, as amended.
 - 2024-09-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5076)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5076)
+- 2024-09-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-09-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
