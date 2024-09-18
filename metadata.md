@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7218
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7218
@@ -121,3 +121,4 @@ BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024
 - 2024-09-17 — Mrs. Miller-Meeks moved to suspend the rules and pass the bill.
 - 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5295)
+- 2024-09-18 — Received in the Senate, read twice.
