@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4190
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4190
@@ -47,3 +47,12 @@ Restoring Benefits to Defrauded Veterans Act
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5283)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5283)
 - 2024-09-18 — Received in the Senate, read twice.
+- 2024-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6467)
+- 2024-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-09-26 — Message on Senate action sent to the House.
+- 2024-11-15 — Presented to President.
+- 2024-11-15 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-114.
+- 2024-11-25 — Became Public Law No: 118-114.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
