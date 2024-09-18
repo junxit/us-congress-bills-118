@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3800
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3800
@@ -22,9 +22,10 @@ Chronic Disease Flexible Coverage Act
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Chronic Disease Flexible Coverage Act
 - 2024-09-17 — Placed on the Union Calendar, Calendar No. 575.
 - 2024-09-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-680.
 - 2024-09-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-680.
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
