@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7777
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7777
@@ -44,3 +44,4 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2024
 - 2024-09-17 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5275)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5275)
+- 2024-09-18 — Received in the Senate, read twice.
