@@ -1,0 +1,25 @@
+---
+legis-num: S. 5099
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5099
+
+> To prescribe requirements relating to the management of the Federal property commonly known as Plum Island, New York, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Plum Island Preservation Act”.
+
+## § 2. Permanent preservation of Plum Island, New York
+
+- **(a)** *In general* The Federal property commonly known as Plum Island, New York, shall be protected in perpetuity for the purpose of ecological conservation, historical preservation, and the discovery and celebration of the shared cultural heritage of the Island.
+- **(b)** *Requirement* Not later than 180 days after the date of enactment of this Act, the Administrator of General Services (referred to in this section as the Administrator), in consultation with relevant Federal and State agencies and other relevant stakeholders, shall initiate a process to create a plan for the management of the Federal property commonly known as Plum Island, New York, in accordance with subsection (a).
+- **(c)** *Reports* Not later than 2 years after the date on which the Administrator, in consultation with relevant Federal and State agencies and other relevant stakeholders, initiates the process required under subsection (b), and each year thereafter until the date that is 1 year after the date on which the plan required under that subsection is completed, the Administrator shall submit to the Committees on Homeland Security and Governmental Affairs and Energy and Natural Resources of the Senate and the Committees on Energy and Commerce, Natural Resources, and Oversight and Accountability of the House of Representatives a report that describes—
+  - **(1)** the stakeholders consulted during that process;
+  - **(2)** the items discussed or reviewed during that process for the period covered by the applicable report;
+  - **(3)** the outcomes of that process, or expected outcomes if the process is ongoing;
+  - **(4)** if that process is not completed, the estimated timeline for completion; and
+  - **(5)** if that process is completed, the recommended plan for management of the Federal property commonly known as Plum Island, New York, in accordance with subsection (a).
