@@ -1,0 +1,17 @@
+---
+legis-num: S. 5083
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5083
+
+> To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to extend the Every Kid Outdoors program.
+
+## § 1. Every Kid Outdoors program extension
+
+Section 9001(b) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (16 U.S.C. 6804 note; Public Law 116–9) is amended—
+
+- **(1)** in paragraph (2)(B), by striking “during the period beginning on September 1 and ending on August 31 of the following year” and inserting “for a 12-month period that begins on a date determined by the Secretaries”; and
+- **(2)** in paragraph (5), by striking “the date that is 7 years after the date of enactment of this Act” and inserting “September 30, 2031”.
