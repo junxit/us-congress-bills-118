@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6160
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6160
@@ -24,9 +24,10 @@ To amend the Public Health Service Act to reauthorize a lifespan respite care pr
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To amend the Public Health Service Act to reauthorize a lifespan respite care pr
 - 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5302)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5302)
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
