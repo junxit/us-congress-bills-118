@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6474
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6474
@@ -16,6 +16,10 @@ To amend the Energy Policy Act of 2005 to expedite geothermal exploration and de
 
 - Rep. Steel, Michelle [R-CA-45] (S001135)
 
+## Cosponsors (1)
+
+- Rep. Lee, Susie [D-NV-3] (L000590)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ To amend the Energy Policy Act of 2005 to expedite geothermal exploration and de
 - 2023-11-21 — Introduced in House
 - 2023-11-21 — Introduced in House
 - 2023-11-21 — Referred to the House Committee on Natural Resources.
+- 2023-12-11 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2023-12-12 — Subcommittee Hearings Held
+- 2024-01-17 — Committee Consideration and Mark-up Session Held
+- 2024-01-17 — Ordered to be Reported by Voice Vote.
+- 2024-01-17 — Subcommittee on Energy and Mineral Resources Discharged
+- 2024-09-18 — Placed on the Union Calendar, Calendar No. 583.
+- 2024-09-18 — Reported by the Committee on Natural Resources. H. Rept. 118-689.
+- 2024-09-18 — Reported by the Committee on Natural Resources. H. Rept. 118-689.
