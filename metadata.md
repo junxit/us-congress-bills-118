@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8674
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8674
@@ -29,3 +29,8 @@ Milestones for Advanced Nuclear Fuel Act
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Introduced in House
 - 2024-06-07 — Referred to the House Committee on Science, Space, and Technology.
+- 2024-06-13 — Committee Consideration and Mark-up Session Held
+- 2024-06-13 — Ordered to be Reported by Voice Vote.
+- 2024-09-18 — Placed on the Union Calendar, Calendar No. 580.
+- 2024-09-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-686.
+- 2024-09-18 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-686.
