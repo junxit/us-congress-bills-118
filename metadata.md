@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5464
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5464
@@ -42,3 +42,12 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2024-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5281-5282)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5281-5282)
 - 2024-09-18 — Received in the Senate, read twice.
+- 2024-11-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6566)
+- 2024-11-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-14 — Message on Senate action sent to the House.
+- 2024-11-20 — Presented to President.
+- 2024-11-20 — Presented to President.
+- 2024-11-25 — Became Public Law No: 118-115.
+- 2024-11-25 — Became Public Law No: 118-115.
+- 2024-11-25 — Signed by President.
+- 2024-11-25 — Signed by President.
