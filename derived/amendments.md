@@ -1,7 +1,7 @@
 ---
 measure: S. 1146
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
