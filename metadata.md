@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4758
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4758
@@ -143,9 +143,10 @@ Accelerating Kids’ Access to Care Act
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Gomez, Jimmy [D-CA-34] (G000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -167,3 +168,4 @@ Accelerating Kids’ Access to Care Act
 - 2024-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5292-5293)
 - 2024-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5292-5293)
 - 2024-09-17 — The title of the measure was amended. Agreed to without objection.
+- 2024-09-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
