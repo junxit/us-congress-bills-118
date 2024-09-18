@@ -1,7 +1,7 @@
 ---
 legis-num: S. 616
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Leech Lake Reservation Restoration Technical Corrections Act of 2023”.
+This Act may be cited as the Leech Lake Reservation Restoration Technical CorrectionsAmendments Act of 2023.
 
 ## § 2. Transfer of additional Federal land
 
@@ -26,7 +26,7 @@ This Act may be cited as the “Leech Lake Reservation Restoration Technical Cor
 
       - **(ii)** in clause (i) (as so designated), by striking the period at the end and inserting “; and”; and
       - **(iii)** by adding at the end the following:
-        > - **(ii)** any other land managed by the Secretary, through the Chief of the Forest Service, located in the Chippewa National Forest in Cass County, Minnesota, which records maintained by the Bureau of Indian Affairs show was sold without the consent of a majority of the rightful landowners.
+        > - **(ii)** any other land managed by the Secretary, through the Chief of the Forest Service, located in the Chippewa National Forest in Cass County, Minnesota, which records maintained by the Bureau of Indian Affairs show was sold without the consent of a majorityunanimous consent of the rightful landowners.
 
     - **(B)** in subparagraph (B)—
       - **(i)** by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively; and
@@ -38,8 +38,8 @@ This Act may be cited as the “Leech Lake Reservation Restoration Technical Cor
     - **(B)** by redesignating paragraph (2) as paragraph (3); and
     - **(C)** by inserting after paragraph (1) the following:
       > - **(2)** *Agreement*
-      >   - **(A)** *In general* On agreement between the Secretary and the Tribe, the Secretary shall substitute, for purposes of the transfer under paragraph (1), alternative National Forest System land located in Cass County, Minnesota, on an acre-for-acre basis, for those parcels of Federal land to be transferred under that paragraph that are found to be unsuitable for the future uses of the Tribe.
-      >   - **(B)** *Frequency of transfers* Pursuant to an agreement entered into under subparagraph (A), the Secretary may transfer land to the Tribe on a rolling basis as that land is identified and surveys are completed.
+      >   - **(A)** *In general* On agreement between the Secretary and the Tribe, the Secretary shall substitute, for purposes of the transfer under paragraph (1), alternative National Forest System land located in Cass County, Minnesota, on an acre-for-acre basis, for those parcels of Federal land to be transferred under that paragraph that are found to be unsuitable for the future uses of the Tribein a manner that avoids in-holdings and provides a preference for land adjacent to or near existing Leech Lake trust lands and lands of cultural importance to the Tribe, to the maximum extent practicable.
+      >   - **(B)** *Frequency of transfers* Pursuant to an agreement entered into under subparagraph (A), the Secretary may transfer land to the TribeSecretary of the Interior on a rolling basis as that land is identified and surveys are completed.”; andidentified and surveys are completed.
       >   - **(C)** *Final agency action* An agreement described in subparagraph (A), and any transfer of land made pursuant to an agreement entered into under that subparagraph, shall be considered a final agency action under subchapter II of chapter 5, and chapter 7, of title 5, United States Code.
 
   - **(3)** in subsection (d)—
