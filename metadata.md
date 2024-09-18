@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7213
@@ -84,6 +84,10 @@ Autism CARES Act of 2024
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2024-09-18 — [House 118-2-424](votes/house-118-2-0424.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–13)
+
 ## Actions
 
 - 2024-02-01 — Introduced in House
@@ -97,3 +101,12 @@ Autism CARES Act of 2024
 - 2024-07-30 — Placed on the Union Calendar, Calendar No. 518.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-620.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-620.
+- 2024-09-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-09-17 — Considered under suspension of the rules. (consideration: CR H5297-5300)
+- 2024-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7213.
+- 2024-09-17 — Mrs. Rodgers (WA) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-18 — Considered as unfinished business. (consideration: CR H5342)
+- 2024-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 424). (text: 09/17/2024 CR H5297-5298)
+- 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 424). (text: 09/17/2024 CR H5297-5298)
+- 2024-09-18 — The title of the measure was amended. Agreed to without objection.

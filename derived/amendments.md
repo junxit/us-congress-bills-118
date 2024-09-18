@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 26 executed, 8 stated and not applied.
+48 amendatory instructions. 28 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 284g
 
-> by striking “prevention, and treatment” and inserting “prevention, services, and treatment”;
+> by striking “prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder” and inserting “prevention, services and supports across the lifespan, intervention, and treatment of autism spectrum disorder and co-occurring conditions”; and
 
 | | |
 |---|---|
-| Removed | `prevention, and treatment` |
-| Inserted | `prevention, services, and treatment` |
+| Removed | `prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder` |
+| Inserted | `prevention, services and supports across the lifespan, intervention, and treatment of autism spectrum disorder and co-occurring conditions` |
 
 ### 42 U.S.C. § 284g
 
-> by striking “including the fields” and inserting “including in the fields”; and
+> by striking “including the fields of” and inserting “in fields such as”; and
 
 | | |
 |---|---|
-| Removed | `including the fields` |
-| Inserted | `including in the fields` |
+| Removed | `including the fields of` |
+| Inserted | `in fields such as` |
 
 ### 42 U.S.C. § 284g
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 284g
 
-> in paragraph (5)(A), by striking “not less than five centers” and inserting “not fewer than six centers”; and
+> in paragraph (5)(A), by striking “five” and inserting “seven”; and
 
 | | |
 |---|---|
-| Removed | `not less than five centers` |
-| Inserted | `not fewer than six centers` |
+| Removed | `five` |
+| Inserted | `seven` |
 
 ### 42 U.S.C. § 284g
 
@@ -71,12 +71,39 @@ to guess them.
 
 ### 42 U.S.C. § 280i
 
-> in subsection (b)(1), by striking “and causes” and inserting “causes, and life course”; and
+> in subsection (a)(3), by striking “an Indian tribe, or a tribal organization” and inserting “an Indian Tribe, or a Tribal organization”;
 
 | | |
 |---|---|
-| Removed | `and causes` |
-| Inserted | `causes, and life course` |
+| Removed | `an Indian tribe, or a tribal organization` |
+| Inserted | `an Indian Tribe, or a Tribal organization` |
+
+### 42 U.S.C. § 280i
+
+> in the paragraph heading, by striking “tribe; tribal” and inserting “Tribe; Tribal”;
+
+| | |
+|---|---|
+| Removed | `tribe; tribal` |
+| Inserted | `Tribe; Tribal` |
+
+### 42 U.S.C. § 280i
+
+> by striking “tribe” and inserting “Tribe”; and
+
+| | |
+|---|---|
+| Removed | `tribe` |
+| Inserted | `Tribe` |
+
+### 42 U.S.C. § 280i
+
+> by striking “tribal” and inserting “Tribal”; and
+
+| | |
+|---|---|
+| Removed | `tribal` |
+| Inserted | `Tribal` |
 
 ### 42 U.S.C. § 280i
 
@@ -89,30 +116,21 @@ to guess them.
 
 ### 42 U.S.C. § 280i-1
 
-> in subsection (a)(2), by striking “subsequent interventions” and inserting “subsequent interventions and services”;
-
-| | |
-|---|---|
-| Removed | `subsequent interventions` |
-| Inserted | `subsequent interventions and services` |
-
-### 42 U.S.C. § 280i-1
-
-> in subsection (b)(1), by striking “culturally competent information” and inserting “culturally and linguistically responsive information”;
+> in subsection (b)(1), by striking “culturally competent information” and inserting “culturally and linguistically appropriate information”;
 
 | | |
 |---|---|
 | Removed | `culturally competent information` |
-| Inserted | `culturally and linguistically responsive information` |
+| Inserted | `culturally and linguistically appropriate information` |
 
 ### 42 U.S.C. § 280i-1
 
-> by striking “promote research” and inserting “promote research, which may include community-based participatory research,”; and
+> by striking “promote research” and inserting “promote research, which may include research that takes a community-based approach,”; and
 
 | | |
 |---|---|
 | Removed | `promote research` |
-| Inserted | `promote research, which may include community-based participatory research,` |
+| Inserted | `promote research, which may include research that takes a community-based approach,` |
 
 ### 42 U.S.C. § 280i-1
 
@@ -134,57 +152,48 @@ to guess them.
 
 ### 42 U.S.C. § 280i-1
 
-> in subsection (c)(1), by striking “culturally competent information” and inserting “culturally and linguistically responsive information”;
+> in subsection (b)(7), by striking “at higher risk” and inserting “at increased likelihood”;
+
+| | |
+|---|---|
+| Removed | `at higher risk` |
+| Inserted | `at increased likelihood` |
+
+### 42 U.S.C. § 280i-1
+
+> in subsection (c)(1), by striking “culturally competent information” and inserting “culturally and linguistically appropriate information”;
 
 | | |
 |---|---|
 | Removed | `culturally competent information` |
-| Inserted | `culturally and linguistically responsive information` |
+| Inserted | `culturally and linguistically appropriate information` |
 
 ### 42 U.S.C. § 280i-1
 
-> by striking “advocates,” and inserting “advocates, self-advocates,”; and
-
-| | |
-|---|---|
-| Removed | `advocates,` |
-| Inserted | `advocates, self-advocates,` |
-
-### 42 U.S.C. § 280i-1
-
-> by striking “culturally competent information” and inserting “culturally and linguistically responsive information”;
+> in subsection (c)(2)(A)(ii), by striking “culturally competent information” and inserting “culturally and linguistically appropriate information”;
 
 | | |
 |---|---|
 | Removed | `culturally competent information` |
-| Inserted | `culturally and linguistically responsive information` |
+| Inserted | `culturally and linguistically appropriate information` |
 
 ### 42 U.S.C. § 280i-1
 
-> by striking “promote research” and inserting “promote research, including community-based participatory research,”;
+> by striking “expand existing or develop new” and inserting “expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new,”; and
 
 | | |
 |---|---|
-| Removed | `promote research` |
-| Inserted | `promote research, including community-based participatory research,` |
+| Removed | `expand existing or develop new` |
+| Inserted | `expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new,` |
 
 ### 42 U.S.C. § 280i-1
 
-> by striking “physical and behavioral health of individuals” and inserting “physical and behavioral health, and communication needs, of individuals”; and
+> by striking “Act) in States that do not have such a program” and inserting “Act)”;
 
 | | |
 |---|---|
-| Removed | `physical and behavioral health of individuals` |
-| Inserted | `physical and behavioral health, and communication needs, of individuals` |
-
-### 42 U.S.C. § 280i-1
-
-> by striking “disseminate information related to such research and guidelines” and inserting “disseminate information relating to such research and guidelines to improve the quality of life and long-term outcomes”; and
-
-| | |
-|---|---|
-| Removed | `disseminate information related to such research and guidelines` |
-| Inserted | `disseminate information relating to such research and guidelines to improve the quality of life and long-term outcomes` |
+| Removed | `Act) in States that do not have such a program` |
+| Inserted | `Act)` |
 
 ### 42 U.S.C. § 280i-1
 
@@ -197,21 +206,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i-2
 
-> in paragraph (2), by striking “develop a summary” and inserting “develop and update a summary”;
+> in paragraph (2), by striking “develop a summary” and inserting “summarize”; and
 
 | | |
 |---|---|
 | Removed | `develop a summary` |
-| Inserted | `develop and update a summary` |
-
-### 42 U.S.C. § 280i-2
-
-> in paragraphs (3) and (4), by striking “make recommendations” and inserting “make and update recommendations”; and
-
-| | |
-|---|---|
-| Removed | `make recommendations` |
-| Inserted | `make and update recommendations` |
+| Inserted | `summarize` |
 
 ### 42 U.S.C. § 280i-2
 
@@ -224,12 +224,30 @@ to guess them.
 
 ### 42 U.S.C. § 280i-3
 
-> by striking “Autism CARES Act of 2019” each place it appears and inserting “Autism CARES Act of 2024”;
+> by striking “2019” each place it appears and inserting “2024”; and
 
 | | |
 |---|---|
-| Removed | `Autism CARES Act of 2019` |
-| Inserted | `Autism CARES Act of 2024` |
+| Removed | `2019` |
+| Inserted | `2024` |
+
+### 42 U.S.C. § 280i-3
+
+> in the heading of subsection (b), by striking “Health and Well-Being” and inserting “Mental Health Needs”;
+
+| | |
+|---|---|
+| Removed | `Health and Well-Being` |
+| Inserted | `Mental Health Needs` |
+
+### 42 U.S.C. § 280i-3
+
+> in paragraph (1), by striking “health and well-being” and inserting “mental health needs”; and
+
+| | |
+|---|---|
+| Removed | `health and well-being` |
+| Inserted | `mental health needs` |
 
 ### 42 U.S.C. § 280i-4
 
@@ -251,12 +269,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i-4
 
-> in subsection (c), by striking “there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024” and inserting “there is authorized to be appropriated $341,000,000 for each of fiscal years 2025 through 2029”.
+> in subsection (c), by striking “there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024” and inserting “there is authorized to be appropriated $306,000,000 for each of fiscal years 2025 through 2029”.
 
 | | |
 |---|---|
 | Removed | `there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024` |
-| Inserted | `there is authorized to be appropriated $341,000,000 for each of fiscal years 2025 through 2029` |
+| Inserted | `there is authorized to be appropriated $306,000,000 for each of fiscal years 2025 through 2029` |
 
 ## Stated, not applied
 
@@ -267,11 +285,23 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 284g` | amend | Paragraph (1) of section 409C(a) of the Public Health Service Act (42 U.S.C. 284g(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284g` | replace | by striking “) shall, subject to the availability” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 284g` | replace | by striking “basic and clinical research in fields including pathology” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 284g` | replace | by striking “toxicology, and interventions” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 284g` | replace | by striking “disorder. Such research shall investigate” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 284g` | replace | by striking “treatments.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 284g` | amend | Section 409C(d) of the Public Health Service Act (42 U.S.C. 284g(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280i-1` | insert | in subsection (b)(4), by inserting “, which may include such individuals utilizing parents and guardians trained to provide interventions, services, and supports” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 284g` | add-at-end | Section 409C of the Public Health Service Act (42 U.S.C. 284g) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i` | insert | in subsection (b)(1), by inserting “across the lifespan” before the period at the end; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | insert | in subsection (b)(4), by inserting “, which may give consideration to the perspectives of parents and guardians” before the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280i-1` | amend | by amending paragraph (1) of subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-1` | insert | in the matter preceding subparagraph (A), by inserting “, and strengthen the capacity of, ” after “expand”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | insert | in subparagraph (B)(v), by inserting “or other providers, as applicable” before the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280i-1` | amend | by amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280i-1` | add-at-end | in subsection (e)(2), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-1` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-2` | insert | in the matter preceding paragraph (1), by inserting “, on a regular basis” after “shall”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280i-2` | replace | by striking paragraphs (5) and (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280i-3` | amend | in subsection (a), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280i-3` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280i-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
