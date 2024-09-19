@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 118
-version: Referred in Senate
+version: Reference Change Senate
 derived: true
 ---
 

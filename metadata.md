@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4693
 congress: 118
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 4693
@@ -20,10 +20,11 @@ Tennessee Valley Authority Salary Transparency Act
 
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ Tennessee Valley Authority Salary Transparency Act
 - 2024-03-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1078)
 - 2024-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1078)
 - 2024-03-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-19 — Referred to the Committee on Environment and Public Works.
+- 2024-09-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-09-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
