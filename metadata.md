@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5179
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5179
@@ -16,9 +16,10 @@ Anti-BDS Labeling Act
 
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Anti-BDS Labeling Act
 - 2024-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 189 (Roll no. 428). (text of amendment in the nature of a substitute: CR H5350)
 - 2024-09-18 — Rule provides for consideration of H.R. 3724, H.R. 4790, H.R. 5179, H.R. 5339, H.R. 5717, H.R. 7909 and H.J. Res. 136. The resolution provides for consideration of H.R. 3724 and H.R. 5717 under a structured rule and H.R. 4790, H.R. 5179, H.R. 5339, H.R. 7909, and H.J. Res. 136 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2024-09-18 — The previous question was ordered pursuant to the rule.
+- 2024-09-19 — Received in the Senate and Read twice and referred to the Committee on Finance.
