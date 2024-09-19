@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5339
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5339
@@ -20,9 +20,10 @@ Protecting Americans’ Investments from Woke Policies Act
 
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -58,3 +59,4 @@ Protecting Americans’ Investments from Woke Policies Act
 - 2024-09-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-09-18 — The previous question was ordered pursuant to the rule.
 - 2024-09-18 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Subsequently, the objection was withdrawn.
+- 2024-09-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
