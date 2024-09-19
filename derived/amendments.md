@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

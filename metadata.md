@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9076
@@ -42,9 +42,10 @@ Supporting America’s Children and Families Act
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Supporting America’s Children and Families Act
 - 2024-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 10 (Roll no. 423). (text: 09/17/2024 CR H5259-5266)
 - 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 10 (Roll no. 423). (text: 09/17/2024 CR H5259-5266)
 - 2024-09-18 — The title of the measure was amended. Agreed to without objection.
+- 2024-09-19 — Received in the Senate and Read twice and referred to the Committee on Finance.
