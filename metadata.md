@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 803
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 803
@@ -28,3 +28,7 @@ A resolution recognizing the importance of purple martins to United States ecosy
 
 - 2024-08-01 — Introduced in Senate
 - 2024-08-01 — Referred to the Committee on the Judiciary.
+- 2024-09-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-09-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 8/1/2024 CR S5790)
+- 2024-09-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-09-19 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6204)
