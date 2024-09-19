@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1513
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1513
@@ -21,9 +21,10 @@ FUTURE Networks Act
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ FUTURE Networks Act
 - 2024-09-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-09-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 22 (Roll no. 425). (text: 09/17/2024 CR H5310-5311)
 - 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 22 (Roll no. 425). (text: 09/17/2024 CR H5310-5311)
+- 2024-09-19 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
