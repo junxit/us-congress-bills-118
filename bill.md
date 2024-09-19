@@ -1,7 +1,7 @@
 ---
 legis-num: S. 288
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,33 +11,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “End Tuberculosis Now Act of 2023”.
+This Act may be cited as the “End Tuberculosis Now Act of 2024”.
 
-## § 2. Findings
-
-Congress makes the following findings:
-
-- **(1)** Tuberculosis (referred to in the Act as “TB”) is a preventable, treatable, and curable disease, yet more than 25 years after the World Health Organization declared it to be a public health emergency and called on countries to make scaling up TB control a priority, TB remains a deadly health threat.
-- **(2)** In 2021 alone, an estimated 10,600,000 people became ill with TB, 11 percent of whom were children, and an estimated 1,600,000 of these people died from the illness. In order to achieve by 2035 the goals of the Political Declaration of the High-Level Meeting of the General Assembly on the Fight Against Tuberculosis, adopted by the United Nations General Assembly October 10, 2018, and of the World Health Organization End TB Strategy, adopted by the World Health Assembly in 2014, new and existing tools must be developed and scaled-up.
-- **(3)** More than 1/3 of people who become ill with TB may be undiagnosed or misdiagnosed, resulting in unnecessary illness, communicable infections, and increased mortality.
-- **(4)** Since March 2020, the COVID–19 pandemic has severely disrupted TB responses in low- and middle-income countries, stalling and reversing years of progress made against TB. According to the World Health Organization, from 2019 to 2020—
-  - **(A)** global detection of TB dropped by 18 percent;
-  - **(B)** an estimated 1,300,000 fewer people were diagnosed and enrolled on TB treatment; and
-  - **(C)** in some countries, TB case notifications dropped by up to 41 percent, setting progress back by up to 12 years.
-- **(5)** Failure to properly diagnose and treat TB can lead to death, can exacerbate antimicrobial resistance (a key contributor to rising cases of multi-drug-resistant TB and extensively drug-resistant TB), and can increase the probability of the introduction of resistant TB into new geographic areas.
-- **(6)** TB programs have played a central role in responding to COVID–19, including through leveraging the expertise of medical staff with expertise in TB and lung diseases, the repurposing of TB hospitals, and the use of the TB rapid molecular testing platforms and x-ray equipment for multiple purposes, including the treatment of COVID–19.
-- **(7)** With sufficient resourcing, TB program expertise, infection control, laboratory capacity, active case finding, and contact investigation can serve as platforms for respiratory pandemic response against existing and new infectious respiratory disease without disrupting ongoing TB programs and activities.
-- **(8)** Globally, only about 1/2 of the $13,000,000,000 required annually, as outlined in the Stop TB Partnership’s Global Plan to End TB, is currently available.
-- **(9)** According to estimates by the Global Fund for AIDS, Tuberculosis, and Malaria, an additional $3,500,000,000 was needed during 2021 for TB programs in eligible countries in order to recover from the negative impacts of COVID–19.
-- **(10)** On September 26, 2018, the United Nations convened the first High-Level Meeting of the General Assembly on the Fight Against Tuberculosis, during which 120 countries—
-  - **(A)** signed a Political Declaration to accelerate progress against TB, including through commitments to increase funding for TB prevention, diagnosis, treatment, and research and development programs, and to set ambitious goals to successfully treat 40,000,000 people with active TB and prevent at least 30,000,000 from becoming ill with TB between 2018 and 2022; and
-  - **(B)** committed to “ending the epidemic in all countries, and pledge[d] to provide leadership and to work together to accelerate our national and global collective actions, investments and innovations urgently to fight this preventable and treatable disease”, as reflected in United Nations General Assembly Resolution 73/3.
-- **(11)** The United States Government continues to be a lead funder of global TB research and development, contributing 44 percent of the total $915,000,000 in global funding in 2020, and can catalyze more investments from other countries.
-- **(12)** Working with governments and partners around the world, USAID’s TB programming has saved an estimated 74,000,000 lives, demonstrating the effectiveness of United States programs and activities against the illness.
-- **(13)** On September 26, 2018, the USAID Administrator announced a new performance-based Global Accelerator to End TB, aimed at catalyzing investments to meet the treatment target set by the United Nations High-Level Meeting, further demonstrating the critical role that United States leadership and assistance plays in the fight to eliminate TB.
-- **(14)** It is essential to ensure that efforts among United States Government agencies, partner nations, international organizations, nongovernmental organizations, the private sector, and other actors are complementary and not duplicative in order to achieve the goal of ending the TB epidemic in all countries.
-
-## § 3. United States Government assistance to combat tuberculosis
+## § 2. United States Government assistance to combat tuberculosis
 
 Section 104B of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–3) is amended to read as follows:
 
@@ -156,4 +132,8 @@ Section 104B of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–3) is amen
 >   - **(1)** describes the current progress and challenges to the development of new tools for the purpose of TB prevention, treatment, and control;
 >   - **(2)** identifies critical gaps and emerging priorities for research and development, including for rapid and point-of-care diagnostics, shortened treatments and prevention methods, telehealth solutions for prevention and treatment, and vaccines; and
 >   - **(3)** describes research investments by type, funded entities, and level of investment.
-> - **(k)** *Evaluation report* Not later than 3 years after the date of the enactment of the End Tuberculosis Now Act of 2023, and 5 years thereafter, the Comptroller General of the United States shall submit a report to the appropriate congressional committees that evaluates the performance and impact on TB prevention, diagnosis, treatment, and care efforts that are supported by United States bilateral assistance funding, including recommendations for improving such programs.
+> - **(k)** *Evaluation report* Not later than 3 years after the date of the enactment of the End Tuberculosis Now Act of 2024, and 5 years thereafter, the Comptroller General of the United States shall submit a report to the appropriate congressional committees that evaluates the performance and impact on TB prevention, diagnosis, treatment, and care efforts that are supported by United States bilateral assistance funding, including recommendations for improving such programs.
+
+## § 3. Sunset
+
+The amendment made by section 2 shall cease to have any force or effect beginning on December 31, 2030.
