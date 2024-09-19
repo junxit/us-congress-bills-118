@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3724
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1099b` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099b` | amend | Section 496(g) of the Higher Education Act of 1965 (20 U.S.C. 1099b(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by inserting after section 112 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section 202 of this title, is further amended by inserting after section 112A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section 203 of this title, is further amended by inserting after section 112B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section 204 of this title, is further amended by inserting after section 112C the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | insert | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by section 205 of this title, is further amended by inserting after section 112D the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
