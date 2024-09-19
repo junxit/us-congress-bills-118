@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4790
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Guiding Uniform and Responsible Disclosure Requirements and Information Limits Act of 2023” or the “GUARDRAIL Act of 2023”.
+- **(a)** *Short title* This Act may be cited as the “Prioritizing Economic Growth Over Woke Policies Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
