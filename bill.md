@@ -29,7 +29,7 @@ This Act may be cited as the “DHS Joint Task Forces Reauthorization Act of 202
       >   - **(ii)** the staffing plan developed for each Joint Task Force pursuant to subparagraph (A)(iv); and
       >   - **(iii)** any modification to the mission, strategic goals, and objectives of each Joint Task Force, and a description of, and rationale for, any such modifications.
 
-  - **(2)** in paragraph (13), by striking “2024” and inserting “20292026”.
+  - **(2)** in paragraph (13), by striking “2024” and inserting “2026”.
 - **(b)** *Annual briefing*
   - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall brief—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
@@ -43,4 +43,3 @@ This Act may be cited as the “DHS Joint Task Forces Reauthorization Act of 202
     - **(B)**
       - **(i)** a determination of whether sufficient resources are being provided for Joint Task Force-East in accordance with section 708(b)(7)(a) of the Homeland Security Act of 2002 (6 U.S.C. 348(b)(7)(a)); and
       - **(ii)** if such determination reveals insufficient resource levels, the cost, timeline, and strategy for providing any remaining resource requirements.
-- **(c)** *Report on Joint Task Force-East headquarters* Not later than 1 year after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Commandant of the United States Coast Guard, the Commissioner for U.S. Customs and Border Protection, the Director of U.S. Immigration and Customs Enforcement, and the Administrator of General Services, shall submit a report to the congressional committees listed in subsection (b)(1) that analyzes the cost and effectiveness of hosting the Joint Task Force-East headquarters in Portsmouth, Virginia compared to alternative headquarters locations.

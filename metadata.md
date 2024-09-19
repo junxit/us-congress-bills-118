@@ -1,7 +1,7 @@
 ---
 measure: S. 4698
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4698
@@ -32,3 +32,13 @@ DHS Joint Task Forces Reauthorization Act of 2024
 - 2024-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-215.
 - 2024-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 118-215.
 - 2024-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.
+- 2024-09-19 — 
+- 2024-09-19 — Amendment SA 3292 agreed to in Senate by Unanimous Consent.
+- 2024-09-19 — Amendment SA 3292 proposed by Senator Murray for Senator Peters. (consideration: CR S6317-6319)
+- 2024-09-19 — Measure laid before Senate by unanimous consent. (consideration: CR S6318-6319)
+- 2024-09-19 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6319)
+- 2024-09-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-09-19 — Senate amendment agreed to: Amendment SA 3292 agreed to in Senate by Unanimous Consent.
+- 2024-09-19 — Senate amendment proposed (on the floor): Amendment SA 3292 proposed by Senator Murray for Senator Peters.
+- 2024-09-19 — Senate amendment submitted
+- 2024-09-19 — The committee amendment withdrawn by Unanimous Consent.
