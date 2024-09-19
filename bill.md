@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6319
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,27 +11,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Supporting Accurate Views of Emergency Services Act of 2023” or the “911 SAVES Act of 2023”.
+This Act may be cited as the “Supporting Accurate Views of Emergency Services Act of 2024” or the “911 SAVES Act of 2024”.
 
 ## § 2. Findings
 
 Congress finds the following:
 
-- **(1)** Public Safety Telecommunicators play a critical role in emergency response.
-- **(2)** The work Public Safety Telecommunicators perform goes far beyond merely relaying information between the public and first responders.
-- **(3)** When responding to reports of missing, abducted, and sexually exploited children, the information obtained and actions taken by Public Safety Telecommunicators form the foundation for an effective response.
-- **(4)** When a hostage taker or suicidal person calls 9–1–1, the first contact is with the Public Safety Telecommunicator whose negotiation skills can prevent the situation from getting worse.
-- **(5)** During active shooter incidents, Public Safety Telecommunicators coach callers through first aid and give advice to prevent further harm, all while collecting vital information to provide situational awareness for responding officers.
-- **(6)** And when police officers, firefighters, and Emergency Medical Technicians are being shot at, their calls for help go to Public Safety Telecommunicators.
-- **(7)** They are often communicating with people in great distress, harm, fear, or injury, while employing their experience and training to recognize a critical piece of information.
-- **(8)** In fact, there have been incidents in which Public Safety Telecommunicators, recognizing the sound of a racked shotgun, have prevented serious harm or death of law enforcement officers who would have otherwise walked into a trap.
+- **(1)** Public safety telecommunicators play a critical role in emergency response.
+- **(2)** The work that public safety telecommunicators perform goes far beyond merely relaying information between the public and first responders.
+- **(3)** When responding to reports of missing, abducted, and sexually exploited children, the information obtained and actions taken by public safety telecommunicators form the foundation for an effective response.
+- **(4)** When a hostage taker or suicidal person calls 9–1–1, the first contact is with the public safety telecommunicator whose negotiation skills can prevent the situation from getting worse.
+- **(5)** During active shooter incidents, public safety telecommunicators coach callers through first aid and give advice to prevent further harm, all while collecting vital information to provide situational awareness for responding officers.
+- **(6)** When police officers, firefighters, and emergency medical technicians are being shot at, their calls for help go to public safety telecommunicators.
+- **(7)** Public safety telecommunicators are often communicating with people in great distress, harm, fear, or injury, while employing their experience and training to recognize a critical piece of information.
+- **(8)** In fact, there have been incidents in which public safety telecommunicators, recognizing the sound of a racked shotgun, have prevented serious harm or death of law enforcement officers who would have otherwise walked into a trap.
 - **(9)** This work comes with an extreme emotional and physical impact that is compounded by long hours and the around-the-clock nature of the job.
-- **(10)** Indeed, research has suggested that Public Safety Telecommunicators are exposed to trauma that may lead to the development of posttraumatic stress disorder.
-- **(11)** Recognizing the risks associated with exposure to traumatic events, some agencies provide Critical Incident Stress Debriefing (CISD) teams to lessen the psychological impact and accelerate recovery for Public Safety Telecommunicators and first responders, alike.
-- **(12)** The Standard Occupational Classification system is designed and maintained solely for statistical purposes, and is used by federal statistical agencies to classify workers and jobs into occupational categories for the purpose of collecting, calculating, analyzing, or disseminating data.
+- **(10)** Indeed, research has suggested that public safety telecommunicators are exposed to trauma that may lead to the development of posttraumatic stress disorder.
+- **(11)** Recognizing the risks associated with exposure to traumatic events, some agencies provide critical incident stress debriefing (CISD) teams to lessen the psychological impact and accelerate recovery for public safety telecommunicators and first responders, alike.
+- **(12)** The Standard Occupational Classification system is designed and maintained solely for statistical purposes, and is used by Federal statistical agencies to classify workers and jobs into occupational categories for the purpose of collecting, calculating, analyzing, or disseminating data.
 - **(13)** Occupations in the Standard Occupational Classification are classified based on work performed and, in some cases, on the skills, education, or training needed to perform the work.
 - **(14)** Classifying public safety telecommunicators as Protective Service Occupations would correct an inaccurate representation in the Standard Occupational Classification, recognize these professionals for the lifesaving work they perform, and better align the Standard Occupational Classification with related classification systems.
 
-## § 3. Review of Standard Occupational Classification System
+## § 3. Revision of Standard Occupational Classification system
 
-The Director of the Office of Management and Budget shall not later than 30 days after the date of the enactment of this Act, categorize public safety telecommunicators as a protective service occupation under the Standard Occupational Classification System.
+- **(a)** *In general* The Director of the Office of Management and Budget (in this Act referred to as the “Director”) shall, as part of the first revision process of the Standard Occupational Classification system occurring after the date of enactment of this Act, consider establishing a separate code for public safety telecommunicators as a subset of protective service occupations.
+- **(b)** *Report to Congress* If the Director decides not to establish the separate code for public safety telecommunicators described in subsection (a), the Director shall, not later than 60 days after the Director announces in the Federal Register the final decision of the revision process described in such subsection, submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and the Workforce of the House of Representatives a report explaining why such separate code was not established.
