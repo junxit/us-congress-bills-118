@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2941
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ Congress finds the following:
 - **(1)** Direct support professionals play a critical role in the care provided to individuals with intellectual and developmental disabilities.
 - **(2)** Providers of home- and community-based services are experiencing difficulty hiring and retaining direct support professionals, with a national turnover rate of 43 percent, as identified in a 2021 study by the National Core Indicators, and full-time vacancy rates increasing by 94 percent between 2019 and 2021.
 - **(3)** High turnover rates can lead to instability for individuals receiving services, and this may result in individuals not receiving enough personalized care to help them reach their goals for independent living.
-- **(4)** A discrete occupational category for direct support professionals will help States and the Federal Government—
+- **(4)** A discrete occupational category for direct support professionals will help States and the Federal government—
   - **(A)** better interpret the shortage in the labor market of direct support professionals; and
   - **(B)** collect data on the high turnover rate of direct support professionals.
 - **(5)** The Standard Occupational Classification system is designed and maintained solely for statistical purposes, and is used by Federal statistical agencies to classify workers and jobs into occupational categories for the purpose of collecting, calculating, analyzing, or disseminating data.
@@ -41,4 +41,5 @@ In this Act, the term direct support professional means an individual who, in ex
 
 ## § 4. Revision of Standard Occupational Classification system
 
-The Director of the Office of Management and Budget shall, not later than 30 days after the date of enactment of this Act, revise the Standard Occupational Classification system to establish a separate code (31–1123) for direct support professionals as a healthcare support occupation. Such code shall be a subset of 31–1120, which includes home health aides and personal care aides.
+- **(a)** *In general* The Director of the Office of Management and Budget (in this Act referred to as the “Director”) shall, as part of the first revision process of the Standard Occupational Classification system occurring after the date of enactment of this Act, consider establishing a separate code for direct support professionals as a subset of healthcare support occupations.
+- **(b)** *Report to Congress* If the Director decides not to establish the separate code for direct support professionals described in subsection (a), the Director shall, not later than 60 days after the Director announces in the Federal Register the final decision of the revision process described in such subsection, submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and the Workforce of the House of Representatives a report explaining why such separate code was not established.
