@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7213
@@ -110,3 +110,4 @@ Autism CARES Act of 2024
 - 2024-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 424). (text: 09/17/2024 CR H5297-5298)
 - 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 424). (text: 09/17/2024 CR H5297-5298)
 - 2024-09-18 — The title of the measure was amended. Agreed to without objection.
+- 2024-09-19 — Received in the Senate, read twice.
