@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9076
@@ -71,3 +71,14 @@ Supporting America’s Children and Families Act
 - 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 10 (Roll no. 423). (text: 09/17/2024 CR H5259-5266)
 - 2024-09-18 — The title of the measure was amended. Agreed to without objection.
 - 2024-09-19 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2024-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7317)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-258.
+- 2025-01-04 — Became Public Law No: 118-258.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9076
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -486,7 +486,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 629g` | amend | by adding “and” at the end of clause (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629g` | replace | by striking “; and” at the end of clause (ii) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 629g` | strike | by striking clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 629g` | redesignate | Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 629g` | redesignate | Section 437(f)(2) (42 U.S.C. 629g(f)(2)) is amended by striking subparagraph (B) and redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | add-at-end | Section 431 (42 U.S.C. 629a) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 629a` | insert | in paragraph (2)(A), by inserting “, including services provided by family resource centers,” before “designed”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 629a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
