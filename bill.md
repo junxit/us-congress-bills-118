@@ -29,7 +29,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** the owner or proprietor of a covered site; and
     - **(B)** with respect to a public gathering, the organizing entity of such gathering.
   - **(4)** *Covered site* The term “covered site” means—
-    - **(A)** a fixed site facility as described in section 2209 of the FAA Extension, Safety, and Security Act of 2016 (49 U.S.C. 40101 note);
+    - **(A)** a fixed site facility related to—
+      - **(i)** critical infrastructure, such as energy production, transmission, distribution facilities and equipment, and railroad facilities;
+      - **(ii)** oil refineries and chemical facilities;
+      - **(iii)** amusement parks; or
+      - **(iv)** State prisons;
     - **(B)** the location of a large public gathering described in section 44812(c) of title 49, United States Code; or
     - **(C)** the site with respect to which a flight restriction is maintained pursuant to section 521 of division F of the Consolidated Appropriations Act, 2004 (49 U.S.C. 40103 note).
 
@@ -52,7 +56,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     >   - **(A)** *In general* The Secretary, the Attorney General, and the Secretary of Transportation may conduct research on, testing on, training on, and evaluation of equipment, including electronic equipment, and technology to determine the capability and utility of such equipment or technology for any action described in paragraph (1), including prior to the initial use of such equipment or technology.
     >   - **(B)** *Coordination* The Secretary, the Attorney General, and the Secretary of Transportation shall coordinate activities under this paragraph and mutually share data and results from such activities.
     > - **(4)** *List of authorized equipment and technologies*
-    >   - **(A)** *List* Not later than 1 year after the date of the enactment of the Counter-UAS Authority Security, Safety, and Reauthorization Act, the Secretary, in coordination with the Attorney General and the Administrator of the Federal Aviation Administration, shall maintain a list of approved makes and models of counter-UAS detection and mitigation systems, equipment, and technology. Such list shall include the following:
+    >   - **(A)** *List* Not later than 1 year after the date of enactment of the Counter-UAS Authority Security, Safety, and Reauthorization Act, the Secretary, in coordination with the Attorney General and the Administrator of the Federal Aviation Administration, shall maintain a list of approved makes and models of counter-UAS detection and mitigation systems, equipment, and technology. Such list shall include the following:
     >     - **(i)** A description of the specific detection or mitigation functions of each such system, equipment, or technology that enable each such system, equipment, or technology to carry out an action described in paragraph (1).
     >     - **(ii)** Whether each such system, equipment, or technology is authorized for an action described in subparagraph (A), (B), (C), or (D) of paragraph (1).
     >     - **(iii)** Any conditions or restrictions generally applicable to the use, location, or positioning of each such system, equipment, or technology, including whether and how each such system, equipment, or technology may be suitable for use in terminal airspace.
@@ -71,7 +75,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     >     - **(iv)** *Exception* The Secretary of Homeland Security is exempt from the limitation under this subsection if the Secretary determines that the operation or procurement of such system is for the sole purpose of research, evaluation, training, testing, or analysis.
     >     - **(v)** *Definitions* In this subparagraph:
     >       - **(I)** *Covered manufacturer* The term “covered manufacturer” means an entity that is owned by, controlled by, is a subsidiary of, or is otherwise related legally or financially to, a person based in a country that—
-    >         - **(aa)** is identified as a nonmarket economy country (as defined in section 771 of the Tariff Act of 1930 (19 U.S.C. 1677)) as of the date of the enactment of the Counter-UAS Authority Security, Safety, and Reauthorization Act;
+    >         - **(aa)** is identified as a nonmarket economy country (as defined in section 771 of the Tariff Act of 1930 (19 U.S.C. 1677)) as of the date of enactment of the Counter-UAS Authority Security, Safety, and Reauthorization Act;
     >         - **(bb)** was identified by the United States Trade Representative in the most recent report required under section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of such section; and
     >         - **(cc)** is subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
     >       - **(II)** *Otherwise related legally or financially* The term “otherwise related legally or financially” does not include a minority stake relationship or investment.
@@ -113,7 +117,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     - **(ii)** in the second sentence, by striking “to the national airspace system” and inserting “to the safety and operation of the national airspace system”; and
   - **(D)** by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively;
 - **(7)** by striking subsection (i) and inserting the following:
-  > - **(i)** *Termination* The authority under this section shall terminate on October 1, 2028.
+  > - **(i)** *Termination* The authority under this section shall terminate on October 1, 2029.
 
 - **(8)** in subsection (k)—
   - **(A)** in paragraph (1)(B) by striking “the Committee on Energy and Commerce,”;
@@ -123,7 +127,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
       - **(I)** in clause (i)—
         - **(aa)** in subclause (II), by striking “or” after the semicolon; and
         - **(bb)** by adding at the end the following:
-          > - **(IV)** the security or protection functions for facilities, assets, and operations of Homeland Security Investigations; or.
+          > - **(IV)** the security or protection functions for facilities, assets, and operations of Homeland Security Investigations; or
           > - **(V)** the security and protection of public airports (as such term is defined in section 47102 of title 49, United States Code) under section 7 of the Counter-UAS Authority Security, Safety, and Reauthorization Act;
 
       - **(II)** in clause (ii)—
@@ -144,7 +148,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
 - **(10)** by adding at the end the following:
   > - **(m)** *Counter-UAS system training* The Attorney General, in coordination with the Secretary of Homeland Security (acting through the Director of the Federal Law Enforcement Training Centers) may—
   >   - **(1)** provide training relating to measures to take the actions described in subsection (b)(1); and
-  >   - **(2)** establish or designate one or more facilities or training centers for the purpose described in paragraph (1).
+  >   - **(2)** establish or designate 1 or more facilities or training centers for the purpose described in paragraph (1).
   > - **(n)** *Counter-UAS detection and mitigation system operator qualification and training criteria*
   >   - **(1)** *In general* The Secretary and Attorney General, in coordination with the Administrator of the Federal Aviation Administration, shall establish standards for initial and recurring training programs or certifications for individuals seeking to operate counter-UAS detection and mitigation systems, equipment, or technology.
   >   - **(2)** *Training criteria* In carrying out paragraph (1), the Secretary and the Attorney General shall, at a minimum—
@@ -158,7 +162,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   > ## § 44810. Counter-UAS activities
   >
   > - **(a)** *Authority*
-  >   - **(1)** *In general* The Administrator of the Federal Aviation Administration may take such actions as described paragraph (2) that are necessary to—
+  >   - **(1)** *In general* The Administrator of the Federal Aviation Administration may take such actions as described in paragraph (2) that are necessary to—
   >     - **(A)** detect or mitigate a credible threat (as defined by the Secretary of Homeland Security and Attorney General, in consultation with the Administrator) that an operation of an unmanned aircraft or an unmanned aircraft system poses to the safe and efficient operation of the national airspace system; or
   >     - **(B)** test or evaluate the potential adverse impacts or interference of a counter-UAS detection or mitigation system, equipment, or technology on or with safe airport operations, aircraft navigation, air traffic services, or the safe and efficient operation of the national airspace system.
   >   - **(2)** *Authorized actions* In carrying out paragraph (1), the Administrator may take the following actions:
@@ -192,7 +196,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   >   - **(1)** *In general* The Administrator shall coordinate with the Secretary of Homeland Security and the Attorney General to carry out this section, subject to any restrictions of the Secretary or Attorney General’s authority to acquire, deploy, and operate counter-UAS systems, equipment, or technology.
   >   - **(2)** *Non-delegation* Nothing under this section shall permit the Administrator to delegate any authority granted to the Administrator to any other Federal agency.
   > - **(e)** *Counter-UAS detection and mitigation system performance requirements*
-  >   - **(1)** *In general* The Administrator, in coordination with the Secretary and the Attorney General, shall establish minimum performance requirements for the safe and reliable deployment or use of counter-UAS detection and mitigation systems, equipment, and technology within the national airspace system.
+  >   - **(1)** *In general* Not later than 270 days after the date of enactment of the Counter-UAS Authority Security, Safety, and Reauthorization Act, the Administrator, in coordination with the Secretary and the Attorney General, shall establish minimum performance requirements for the safe and reliable deployment or use of counter-UAS detection and mitigation systems, equipment, and technology within the national airspace system.
   >   - **(2)** *Considerations*
   >     - **(A)** *Aviation safety* In establishing minimum performance requirements under paragraph (1), the Administrator shall—
   >       - **(i)** leverage data collected in testing and evaluation activities conducted under this section and any other relevant testing and evaluation data determined appropriate by the Administrator;
@@ -201,6 +205,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   >     - **(B)** *Efficacy* In establishing minimum performance requirements under subsection (a), the Administrator shall consider criteria, as determined by the Secretary of Homeland Security, to determine the degree to which counter-UAS detection and mitigation systems, equipment, or technology reliable and effective in detecting or mitigating unauthorized unmanned aircraft system operations independent of data or information provided by the system manufacturer of such unmanned aircraft system.
   >     - **(C)** *Other interference* In establishing minimum performance requirements under subsection (a), the Administrator shall consider criteria, as determined by the Federal Communications Commission, to determine the extent to which counter-UAS detection and mitigation systems, equipment, or technology can be safely operated without disrupting or interfering with the operation of civilian communications and information technology networks and systems, including such networks and systems that rely on radio frequency or cellular network communications links.
   >   - **(3)** *Demonstration* The Administrator shall develop a standardized process by which a manufacturer or end-user of a counter-UAS detection or mitigation system, equipment, or technology may demonstrate that such system, equipment, or technology meets the requirements established pursuant to paragraph (1), which may include validation by an independent third party.
+  >   - **(4)** *Rule of construction* Nothing in paragraph (1) shall require the Administrator to conduct a rulemaking in publishing minimum performance requirements under such paragraph.
   > - **(f)** *Counter-UAS system testing, evaluation, and validation*
   >   - **(1)** *Evaluation and validation* The Administrator may conduct such testing, evaluation, and validation of counter-UAS detection and mitigation systems, equipment, and technology as necessary to ensure—
   >     - **(A)** such systems, equipment, and technology will not have an adverse impact on the safe and efficient operation of the national airspace system or transportation safety; and
@@ -223,7 +228,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   > - **(h)** *Briefings*
   >   - **(1)** *Semiannual briefings and notifications*
   >     - **(A)** *In general* The Administrator shall provide the specified committees of Congress a briefing not less than once every 6 months on the activities carried out pursuant to this section.
-  >     - **(B)** *Content* Each briefing required this paragraph shall include—
+  >     - **(B)** *Content* Each briefing required under this paragraph shall include—
   >       - **(i)** the number of instances and a description of each instance in which actions described in subsection (a)(2) have been taken, including all such instances that—
   >         - **(I)** equipment, systems, or technology disrupted the transmission of radio or electronic signals, including and disaggregated by whether any such disruption was minimized;
   >         - **(II)** may have resulted in harm, damage, or loss to a person or to private property, including and disaggregated by whether any such harm, damage, or loss was minimized;
@@ -235,8 +240,8 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   >         - **(III)** the total number of instances in which records of communications intercepted or acquired during the course of actions described in subsection (a)(2) were—
   >           - **(aa)** shared with the Department of Justice or another Federal law enforcement agency, including a list of receiving Federal law enforcement agencies; or
   >           - **(bb)** maintained for more than 90 days;
-  >       - **(iv)** the number of instances and a description of each instance in which Administrator of the Federal Aviation Administration has engaged with Federal, State, or local law enforcement agencies to implement the authority under this section, including the number of instances that resulted in a criminal investigation or litigation; and
-  >       - **(v)** information on the actions carried out under subparagraphs (C) and (D) of subsection (a)(2), including equipment or technology to address emerging trends and changes in unmanned aircraft system or unmanned aircraft system-related security threats.
+  >       - **(iii)** the number of instances and a description of each instance in which Administrator of the Federal Aviation Administration has engaged with Federal, State, or local law enforcement agencies to implement the authority under this section, including the number of instances that resulted in a criminal investigation or litigation; and
+  >       - **(iv)** information on the actions carried out under subparagraphs (C) and (D) of subsection (a)(2), including equipment or technology to address emerging trends and changes in unmanned aircraft system or unmanned aircraft system-related security threats.
   >     - **(C)** *Classification*
   >       - **(i)** *In general* Each briefing required under this subsection shall be in an unclassified form, but shall be accompanied by an additional classified briefing at the request of the Chair or Ranking Member of any specified committee of Congress.
   >       - **(ii)** *Content of briefings* Such briefings shall include, at a minimum—
@@ -250,7 +255,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   >     - **(A)** the Committee on Transportation and Infrastructure, the Committee on Homeland Security, and the Committee on the Judiciary of the House of Representatives; and
   >     - **(B)** the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate.
   >   - **(2)** *State* The term “State” means a State, the District of Columbia, and a territory or possession of the United States.
-  > - **(j)** *Sunset* This section ceases to be effective on October 1, 2028.
+  > - **(j)** *Sunset* This section ceases to be effective on October 1, 2029.
 
 - **(b)** *Clerical amendment* The analysis for chapter 448 of title 49, United States Code, is amended by striking the item relating to section 44810 and inserting the following:
 
@@ -258,7 +263,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
 
 - **(a)** *In general* The Secretary of Homeland Security, in coordination with the Administrator of the Federal Aviation Administration and the Attorney General, may authorize the acquisition, deployment, and operation of approved counter-UAS detection systems, equipment or technology intended to be used for the detection of unmanned aircraft systems by a covered entity.
 - **(b)** *Required application*
-  - **(1)** *In general* In carrying out this section, the Secretary of Homeland Security, in coordination with the Administrator and the Attorney General, shall establish an application process to authorize the acquisition, deployment, and operation of an approved counter-UAS detection system, equipment, or technology by a Federal, State, local, territorial, or Tribal law enforcement agency, in partnership with a covered entity, at a covered site.
+  - **(1)** *In general* In carrying out this section, the Secretary of Homeland Security, in coordination with the Administrator and the Attorney General, not later than 180 days after the establishment of the list of approved makes and models of counter-UAS detection systems, equipment, and technology, shall establish an application process to authorize the acquisition, deployment, and operation of an approved counter-UAS detection system, equipment, or technology by a Federal, State, local, territorial, or Tribal law enforcement agency, in partnership with a covered entity, at a covered site.
   - **(2)** *Application requirements* The application described in paragraph (1) shall contain—
     - **(A)** a justifiable need (based on a threat posed by an unmanned aircraft or unmanned aircraft system to a covered site) to detect an unmanned aircraft system with an approved counter-UAS detection system, equipment, or technology;
     - **(B)** a plan for the acquisition, deployment, and operation of such counter-UAS detection system, equipment, or technology, that shall—
@@ -267,7 +272,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
         - **(I)** a description of the covered site or sites at which the counter-UAS detection system, equipment, or technology will be deployed and operated;
         - **(II)** a description of the time periods and dates during which the counter-UAS detection system, equipment, or technology will be operated;
     - **(C)** a written agreement between the covered entity and a Federal, State, local, or Tribal law enforcement agency to operate such approved counter-UAS detection system, equipment, or technology at a covered site on behalf of such covered entity;
-    - **(D)** proof of completion of initial and recurrent training or certification requirements under section 210G(n) of the Homeland Security Act of 2002 (6 U.S.C. 124n(n));
+    - **(D)** proof of completion of initial and recurrent training or certification requirements under section 210G(n) of the Homeland Security Act of 2002 (6 U.S.C. 124n(n)); and
     - **(E)** any other requirements the Secretary determines appropriate.
 - **(c)** *Agreements* Upon approval of an application required under subsection (b) by the Secretary of Homeland Security, the Secretary shall enter into an agreement with the applicable covered entity to authorize the acquisition, deployment, and operation of an approved counter-UAS detection system, equipment, or technology, that shall specify, at a minimum—
   - **(1)** the approved counter-UAS detection system, equipment, or technology to be operated;
@@ -283,11 +288,15 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
 - **(g)** *Previously acquired counter-UAS systems* If the Administrator finds that a covered entity acquired and operated a counter-UAS detection system, equipment, or technology prior to the date of enactment of this Act, the Secretary may authorize the use of such system, equipment, or technology if—
   - **(1)** such system, equipment, or technology meets the minimum performance requirements issued pursuant to section 44810(e) of title 49, United States Code; and
   - **(2)** such covered entity submits an application under subsection (b) and enters into required agreements under subsection (c).
-- **(h)** *Audits* Not later than 18 months after the date of enactment of this Act, and every 18 months thereafter, the inspectors general of the Department of Transportation, the Department of Homeland Security, and the Department of Justice shall conduct a joint audit of the implementation of the requirements of this section and section 6.
+- **(h)** *Audits* Not later than 18 months after the date of enactment of this Act, and every 18 months thereafter, the inspectors general of the Department of Transportation, the Department of Homeland Security, and the Department of Justice shall conduct a joint audit of the implementation of the requirements of this section, section 6, or section 7.
 - **(i)** *Report to Congress* Not later than 90 days after the date on which the inspectors general complete each audit required under subsection (h), the inspector generals shall submit to the appropriate committees of Congress a report on the findings of such audit and any recommendations related to the administration of this section.
-- **(j)** *Termination of authority* The authorities under this section shall terminate on October 1, 2028.
+- **(j)** *Termination of authority* The authorities under this section shall terminate on October 1, 2029.
 - **(k)** *Savings clause*
-  - **(1)** *Rule of construction* Nothing in this section or section 6 shall be construed to limit or restrict the Administrator of the Federal Aviation Administration from ensuring the safety and efficiency of the national airspace system.
+  - **(1)** *Rules of construction*
+    - **(A)** *Safety and efficiency* Nothing in this section or section 6 shall be construed to limit or restrict the Administrator of the Federal Aviation Administration from ensuring the safety and efficiency of the national airspace system.
+    - **(B)** *Preclusion* Nothing in this section or section 7 shall be construed to preclude a covered entity from acquiring and operating an approved counter-UAS detection system, equipment, or technology without an authorization if the lawful operation of such system, equipment, or technology does not—
+      - **(i)** require the relief provided under subsection (f); and
+      - **(ii)** adversely impact the safe operation of the national airspace system.
   - **(2)** *Suspension of authority*
     - **(A)** *In general* The Administrator of the Federal Aviation Administration, in consultation with the Attorney General, may suspend the authority provided under this section or section 6 if the Administrator—
       - **(i)** determines that the exercise of such authority threatens the safety or efficiency of the national airspace system; and
@@ -295,53 +304,60 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     - **(B)** *Reporting* The Administrator shall notify the appropriate committees of Congress within 48 hours of suspending the authority provided under this section under subparagraph (A).
 - **(l)** *Approved counter-UAS detection system defined* In this section, the term “approved counter-UAS detection system” means a counter-UAS detection system approved under section 210G(b)(4) of the Homeland Security Act of 2002 (6 U.S.C. 124n(b)(4)) and that meets the minimum performance requirements established pursuant to section 44810(e) of title 49, United States Code.
 
-## § 6. Counter-UAS mitigation State law enforcement pilot program
+## § 6. Counter-UAS mitigation law enforcement pilot program
 
-- **(a)** *In general* Subject to the availability of appropriations for such purpose, not later than 180 days after the first determination that a counter-UAS system with mitigation capabilities meets the requirements of section 44810(e) of title 49, United States Code, the Secretary of Homeland Security, in coordination with the Attorney General and the Administrator of the Federal Aviation Administration, shall establish a pilot program at not more than 5 covered sites to assess the efficacy of approved counter-UAS mitigation systems at such covered sites and determine the appropriate policies, procedures, and protocols necessary to allow State law enforcement agencies (in coordination with the Secretary, Attorney General, and Administrator) to acquire, deploy, and operate approved counter-UAS mitigation systems and mitigate unauthorized UAS operations on behalf of covered entities.
+- **(a)** *In general* Subject to the availability of appropriations for such purpose, not later than 180 days after the first determination that a counter-UAS system with mitigation capabilities meets the requirements of section 44810(e) of title 49, United States Code, the Secretary of Homeland Security, in coordination with the Attorney General and the Administrator of the Federal Aviation Administration, shall establish a pilot program to assess the efficacy of approved counter-UAS mitigation systems at covered sites and determine the appropriate policies, procedures, and protocols necessary to allow State and covered local law enforcement agencies (in coordination with the Secretary, Attorney General, and Administrator) to acquire, deploy, and operate approved counter-UAS mitigation systems and mitigate unauthorized UAS operations on behalf of covered entities.
 - **(b)** *Required application*
-  - **(1)** *In general* In carrying out this section, the Secretary of Homeland Security, in coordination with the Attorney General and the Administrator, shall establish an application process to authorize the acquisition, deployment, and operation of an approved counter-UAS mitigation system, equipment, or technology by a State law enforcement agency, in partnership with a covered entity, at a covered site.
+  - **(1)** *In general* In carrying out this section, the Secretary of Homeland Security, in coordination with the Attorney General and the Administrator, shall establish an application process to authorize the acquisition, deployment, and operation of an approved counter-UAS mitigation system, equipment, or technology by a State or covered local law enforcement agency, in partnership with a covered entity, at a covered site.
   - **(2)** *Application requirements* The application described in paragraph (1) shall contain—
     - **(A)** a justifiable need (based on a threat posed by an unmanned aircraft or unmanned aircraft system to a covered site) to mitigate an unmanned aircraft system with an approved counter-UAS mitigation system, equipment, or technology;
     - **(B)** a plan for the acquisition, deployment, and operation of such counter-UAS mitigation system, equipment, or technology, that shall—
       - **(i)** be subject to the approval of the Secretary of Homeland Security, the Attorney General, and the Administrator of the Federal Aviation Administration; and
       - **(ii)** include—
-        - **(I)** a description of the covered site or sites at which the counter-UAS mitigation system, equipment, or technology will be deployed and operated;
+        - **(I)** a description of the covered site or sites at which the counter-UAS mitigation system, equipment, or technology will be deployed and operated; and
         - **(II)** a description of the time periods and dates during which the counter-UAS mitigation system, equipment, or technology will be operated;
-    - **(C)** a written agreement between the covered entity and a State law enforcement agency to operate such approved counter-UAS mitigation system, equipment, or technology at a covered site on behalf of such covered entity;
+    - **(C)** a written agreement between the covered entity and a State or covered local law enforcement agency to operate such approved counter-UAS mitigation system, equipment, or technology at a covered site on behalf of such covered entity;
     - **(D)** proof of completion of initial and recurrent training or certification requirements under section 210G(n) of the Homeland Security Act of 2002 (6 U.S.C. 124n(n));
-    - **(E)** any other requirements the Secretary determines appropriate.
-- **(c)** *Agreements* Upon approval of an application required under subsection (b) by the Secretary of Homeland Security, the Secretary shall enter into an agreement with the applicable covered entity and State law enforcement agency to authorize the acquisition, deployment, operation of an approved counter-UAS mitigation system, equipment, or technology, that shall specify, at a minimum—
+    - **(E)** proof that the airspace above such covered site is restricted by a temporary flight restriction, a determination under section 2209 of the FAA Extension, Safety, and Security Act of 2016 (49 U.S.C. 44802 note), or any other similar restriction determined appropriate by the Secretary; and
+    - **(F)** any other requirements the Secretary determines appropriate.
+- **(c)** *Agreements* Upon approval of an application required under subsection (b) by the Secretary of Homeland Security, the Secretary shall enter into an agreement with the applicable covered entity and State or covered local law enforcement agency to authorize the acquisition, deployment, operation of an approved counter-UAS mitigation system, equipment, or technology, that shall specify, at a minimum—
   - **(1)** the approved counter-UAS mitigation system, equipment, or technology to be operated;
   - **(2)** the covered site or sites at which the system, equipment, or technology may be operated;
   - **(3)** the time periods, dates, and circumstances during which the counter-UAS mitigation system, equipment, or technology may be operated;
   - **(4)** any terms and conditions on the deployment and operation of an approved counter-UAS mitigation system, equipment, or technology the Secretary determines necessary to ensure public safety;
   - **(5)** the frequency with which the appropriate Federal agency representatives shall conduct periodic site visits to ensure compliance with the approved terms and conditions of deployment and operations of the approved counter-UAS mitigation system, equipment, or technology;
-  - **(6)** the required Federal coordination prior to the mitigation of an unmanned aircraft system by a State law enforcement agency described in subsection (d)(1); and
+  - **(6)** the required Federal coordination prior to the mitigation of an unmanned aircraft system by a State or covered local law enforcement agency described in subsection (d)(1); and
   - **(7)** the post-event reporting requirements specified in subsection (d)(3).
 - **(d)** *Required coordination and notification*
-  - **(1)** *In general* Until the date that is 270 days after the initial deployment of an authorized counter-UAS system, equipment, or technology, the Secretary of Homeland Security shall expressly approve, on a case-by-case basis, the mitigation of unmanned aircraft system by a State law enforcement agency under this section.
+  - **(1)** *In general* Until the date that is 270 days after the initial deployment of an authorized counter-UAS system, equipment, or technology, the Secretary of Homeland Security shall expressly approve, on a case-by-case basis, the mitigation of unmanned aircraft system by a State or covered local law enforcement agency under this section.
   - **(2)** *Verification and notification* In carrying out paragraph (1), the Secretary of Homeland Security shall—
     - **(A)** verify that there is a justifiable threat that warrants the use of such counter-UAS system, equipment, or technology;
     - **(B)** verify that the use of such counter-UAS system, equipment, or technology will—
-      - **(i)** be conducted in a manner consistent with the agreement between the Secretary and the State law enforcement agency; and
+      - **(i)** be conducted in a manner consistent with the agreement between the Secretary and the State or covered local law enforcement agency; and
       - **(ii)** abide by all safety protocols, terms, and conditions established for the use of such system, equipment, or technology at the covered site; and
     - **(C)** immediately notify the Administrator of the Federal Aviation Administration of the approval provided under this paragraph.
   - **(3)** *Report*
-    - **(A)** *In general* Not later than 24 hours after each mitigation of a UAS conducted under the authorities in this section, the relevant State law enforcement agency shall submit to the Secretary of Homeland Security, the Administrator of the Federal Aviation Administration, and the Attorney General a post-event report.
+    - **(A)** *In general* Not later than 24 hours after each mitigation of a UAS conducted under the authorities in this section, the relevant State or covered local law enforcement agency shall submit to the Secretary of Homeland Security, the Administrator of the Federal Aviation Administration, and the Attorney General a post-event report.
     - **(B)** *Contents* The report under subparagraph (A) shall include all relevant information pertaining to the event, including the drone operation, and subsequent mitigation and enforcement actions, and subsequent enforcement actions, as specified by the Secretary.
 - **(e)** *Revocation* The Secretary shall revoke the authorization or approval for the deployment and operation of an approved counter-UAS mitigation system, equipment, or technology pursuant to this section if the Secretary determines that the covered entity has not—
-  - **(1)** maintained an agreement that is acceptable to the Secretary with a State law enforcement agency to operate such approved counter-UAS mitigation system, equipment, or technology on behalf of the covered entity;
+  - **(1)** maintained an agreement that is acceptable to the Secretary with a State or covered local law enforcement agency to operate such approved counter-UAS mitigation system, equipment, or technology on behalf of the covered entity;
   - **(2)** complied with the initial and recurrent training or certification requirements under section 210G(n) of the Homeland Security Act of 2002 (6 U.S.C. 124n(n)); and
   - **(3)** complied with the privacy protections under section 210G(e) of the Homeland Security Act of 2002 (6 U.S.C. 124n(e)).
 - **(f)** *Coordination* The Secretary shall coordinate with the Administrator of the Federal Aviation Administration and the Attorney General in carrying out the application, agreement, and revocation processes under this section.
 - **(g)** *Selection criteria*
   - **(1)** *Airspace considerations*
-    - **(A)** *In general* The Administrator of the Federal Aviation Administration, in coordination with the Secretary of Homeland Security and the Attorney General, shall make a site-specific determination for each covered site selected under the pilot program established under this section to ensure that any potential use of counter-UAS mitigation systems, equipment, or technology at the covered site will not adversely impact the safe operation of the national airspace system.
+    - **(A)** *In general* The Administrator of the Federal Aviation Administration, in coordination with the Secretary of Homeland Security and the Attorney General, shall make a site-specific determination for each covered site selected under the pilot program established under this section to ensure that any potential use of counter-UAS mitigation systems, equipment, or technology at the covered site will not adversely impact the safe operation of the national airspace system, including any airport that is located near the covered site.
     - **(B)** *Ineligibility for participation* If an adverse impact is identified under subparagraph (A) and cannot be safely mitigated to the satisfaction of the Administrator, the covered site is not eligible for participation in the pilot program established under this section.
-  - **(2)** *Review and expansion* Not later than 3 years after approved counter-UAS mitigation systems, equipment, or technology are deployed at the 5 covered sites selected under subsection (a), the Secretary, in coordination with the Administrator and the Attorney General, shall review the preliminary results of such pilot program and, if appropriate, take such actions as may be necessary to revise or expand counter-UAS system mitigation authorities, subject to the availability of trained personnel, to not more than 20 covered sites under the pilot program.
+  - **(2)** *Program size, review, and expansion*
+    - **(A)** *Initial size* The program established under subsection (a) may include not more than 5 State or covered local law enforcement agencies.
+    - **(B)** *Restriction* No State or covered local law enforcement agency participating in the pilot program established under subsection (a) may operate approved counter-UAS mitigation systems, equipment, or technology at more than 4 covered sites.
+    - **(C)** *Review and expansion* Not later than 18 months after approved counter-UAS mitigation systems, equipment, or technology are deployed for use by State or covered local law enforcement agencies participating in the pilot program established under subsection (a), the Secretary, in coordination with the Administrator and the Attorney General, shall review the preliminary results of such pilot program and, if appropriate, take such actions as may be necessary to revise or expand, subject to the availability of trained personnel, the number of law enforcement agencies permitted to participate in the program by 10.
+  - **(3)** *Review and expansion* Not later than 3 years after approved counter-UAS mitigation systems, equipment, or technology are deployed at the 5 covered sites selected under subsection (a), the Secretary, in coordination with the Administrator and the Attorney General, shall review the preliminary results of such pilot program and, if appropriate, take such actions as may be necessary to revise or expand counter-UAS system mitigation authorities, subject to the availability of trained personnel, to not more than 20 covered sites under the pilot program.
 - **(h)** *Required briefing* Not later than 6 months after the establishment of the pilot program under this section, and every 6 months thereafter, the Secretary shall brief the appropriate committees of Congress on the progress and findings of the pilot program established under this section, including a description of all mitigation events reported under subsection (d).
-- **(i)** *Sunset* The authority under this section shall terminate on October 1, 2028.
-- **(j)** *Approved counter-UAS detection system defined* In this section, the term “approved counter-UAS detection system” means a counter-UAS detection system approved under section 210G(b)(4) of the Homeland Security Act of 2002 (6 U.S.C. 124n(b)(4)) and that meets the minimum performance requirements established pursuant to section 44810(e) of title 49, United States Code.
+- **(i)** *Sunset* The authority under this section shall terminate on October 1, 2029.
+- **(j)** *Definitions* In this section:
+  - **(1)** *Approved counter-UAS detection system* The term “approved counter-UAS detection system” means a counter-UAS detection system approved under section 210G(b)(4) of the Homeland Security Act of 2002 (6 U.S.C. 124n(b)(4)) and that meets the minimum performance requirements established pursuant to section 44810(e) of title 49, United States Code.
+  - **(2)** *Covered local law enforcement agency* The term “covered local law enforcement agency” means a local law enforcement agency that has jurisdiction over an area containing a population of at least 650,000 people.
 
 ## § 7. Counter-UAS system planning and deployment at airports
 
@@ -368,7 +384,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
       - **(ii)** developing airport-specific coordination and communication requirements with Federal agencies, local law enforcement, and airport personnel appropriate for the scope of such plan;
       - **(iii)** tactical response and status reporting during events within the scope of such plan; and
       - **(iv)** acquisition and deployment of counter-UAS systems, equipment, or technology within the scope of such plan; and
-    - **(B)** shall consult with airport and law enforcement stakeholders, as appropriate.
+    - **(B)** shall consult with airport and law enforcement stakeholders, including the exclusive bargaining representative of air traffic controllers certified under section 7111 of title 5, United States Code, as appropriate.
   - **(4)** *Periodic update* In carrying out this subsection, the Administrator shall review and update such plan not less than annually.
 - **(b)** *Counter-UAS detection systems at airports*
   - **(1)** *In general* Pursuant to the plan required in subsection (a) and subject to available appropriations, the Administrator, in coordination with the Secretary of Homeland Security, the Attorney General, and other relevant Federal agencies, shall provide for the deployment of approved counter-UAS detection systems, equipment, or technology within the terminal airspace of—
@@ -385,7 +401,7 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     - **(A)** *Authorization of mitigation* No activity to mitigate the operation of an unmanned aircraft or unmanned aircraft system under the pilot program may be carried out without authorization from both the Secretary of Homeland Security and the Administrator.
     - **(B)** *Emergency, temporary deployment* The Secretary of Homeland Security or the Administrator, may, on a case-by-case basis, authorize an emergency, temporary deployment and operation of systems, equipment, or technology capable of mitigating unmanned aircraft and unmanned aircraft systems to a public airport (as defined under section 47102 of title 49, United States Code) not participating in the pilot program for purposes of responding to a persistent disruption of air traffic operations caused by unauthorized unmanned aircraft system activity.
 - **(d)** *Site specific planning*
-  - **(1)** *In general* Prior to the deployment and operation of a counter-UAS detection or mitigation system, equipment, or technology at an airport as described in subsection (b) and paragraph (1) of subsection (c), the Secretary and the Administrator shall coordinate with airport personnel, air traffic personnel, State law enforcement, and other relevant stakeholders to develop a site-specific plan for the use of counter-UAS detection and mitigation systems, equipment, or technology at such airport.
+  - **(1)** *In general* Prior to the deployment and operation of a counter-UAS detection or mitigation system, equipment, or technology at an airport as described in subsection (b) and paragraph (1) of subsection (c), the Secretary and the Administrator shall coordinate with airport personnel, including the exclusive bargaining representative of air traffic controllers certified under section 7111 of title 5, United States Code, State law enforcement, and other relevant stakeholders to develop a site-specific plan for the use of counter-UAS detection and mitigation systems, equipment, or technology at such airport.
   - **(2)** *Responsibilities* A plan required under paragraph (1) shall include—
     - **(A)** roles and responsibilities of—
       - **(i)** Federal agency personnel, including air traffic control personnel;
@@ -399,7 +415,11 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
     - **(E)** initial and recurring counter-UAS operator training requirements;
     - **(F)** appropriate consideration of, and updates to, counter-UAS emergency response plans for an airport; and
     - **(G)** any other content as determined necessary by the Secretary and the Administrator.
-- **(e)** *Definitions* In this section:
+- **(e)** *Restriction* No Federal agency may require an airport operator to procure, acquire, deploy, or operate an approved counter-UAS detection system, equipment, or technology, or approved counter-UAS mitigation system, equipment, or technology for or on behalf of the Federal agency.
+- **(f)** *Previously acquired counter-UAS systems* If the Administrator finds that an airport acquired and operated a counter-UAS detection system, equipment, or technology prior to the date of enactment of this Act, the Administrator may authorize the use of such system, equipment, or technology under this subsection if—
+  - **(1)** such system, equipment, or technology meets the minimum performance requirements issued pursuant to section 44810(e) of title 49, United States Code; and
+  - **(2)** such airport agrees to such terms and conditions as the Administrator may prescribe under this subsection.
+- **(g)** *Definitions* In this section:
   - **(1)** *Approved counter-UAS detection system defined* The term “approved counter-UAS detection system” means a system approved under section 210G(b)(4) of the Homeland Security Act of 2002 (6 U.S.C. 124n(b)(4)) and that meets the minimum performance requirements established pursuant to section 44810(e) of title 49, United States Code.
   - **(2)** *Approved counter-UAS mitigation system defined* The term “approved counter-UAS mitigation system” means a system approved under section 210G(b)(4) of the Homeland Security Act of 2002 (6 U.S.C. 124n(b)(4)) and that meets the minimum performance requirements established pursuant to section 44810(e) of title 49, United States Code.
 
@@ -416,15 +436,15 @@ Section 210G of the Homeland Security Act of 2002 (6 U.S.C. 124n) is amended—
   >   - **(2)** an officer, employee, or contractor of the Federal Government or any bureau, department, instrumentality, or other agency of the Federal Government if the officer, employee, or contractor is authorized by the Federal Government or any bureau, department, instrumentality, or other agency of the Federal Government to operate a system or technology referred to in subsection (a)(1).
 
 - **(b)** *Penalties relating to the operation of unmanned aircraft system detection and mitigation technologies* Section 46301(a) of title 49, United States Code, is amended by adding at the end the following:
-  > - **(8)** *Penalties relating to the operation of unmanned aircraft system detection and mitigation technologies* Notwithstanding paragraphs (1) and (5) of subsection (a), the maximum civil penalty for a violation of section 44815 committed by a person described in such section, including an individual or small business concern, shall be the maximum civil penalty authorized under subsection (a)(1) of this section for persons other than an individual or small business concern.
+  > - **(9)** *Penalties relating to the operation of unmanned aircraft system detection and mitigation technologies* Notwithstanding paragraphs (1) and (5) of subsection (a), the maximum civil penalty for a violation of section 44815 committed by a person described in such section, including an individual or small business concern, shall be the maximum civil penalty authorized under subsection (a)(1) of this section for persons other than an individual or small business concern.
 
-- **(b)** *Clerical amendment* The analysis for chapter 448 of title 49, United States Code, is amended by adding at the end the following:
+- **(c)** *Clerical amendment* The analysis for chapter 448 of title 49, United States Code, is amended by adding at the end the following:
 
 ## § 9. Reporting on counter-UAS activities
 
 - **(a)** *Requirement* Not later than 180 days after the date of enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall issue, in coordination with the Administrator of the Federal Aviation Administration and the Attorney General, a public report summarizing the results of all counter-UAS detection and mitigation activities conducted pursuant to this Act during the previous year.
 - **(b)** *Contents* The report under subsection (a) shall include—
-  - **(1)** information on any a violation of, or failure to comply with, this Act or the amendments made by this Act by personnel authorized to conduct detection and mitigation activities, including a description of any such violation or failure;
+  - **(1)** information on any violation of, or failure to comply with, this Act or the amendments made by this Act by personnel authorized to conduct detection and mitigation activities, including a description of any such violation or failure;
   - **(2)** data on the number of detection activities conducted, the number of mitigation activities conducted, and the number of instances of communications interception from an unmanned aircraft system;
   - **(3)** whether any unmanned aircraft that experienced mitigation was engaged in First Amendment-protected activities, and whether any unmanned aircraft or unmanned aircraft systems were properly or improperly seized, disabled, damaged, or destroyed as well as methods used to seize, disable, damage, or destroy such aircraft or systems; and
   - **(4)** a description of the efforts of the Federal Government to protect privacy and civil liberties when carrying out counter-UAS detection and mitigation activities.
