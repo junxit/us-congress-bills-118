@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8932
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,15 @@ to guess them.
 |---|---|
 | Removed | `not later than January 1 of the applicant’s planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant’s planned year of enrollment` |
 | Inserted | `not later than October 1 prior to the applicant's planned year of enrollment` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `20 U.S.C. § 1090` | replace | by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1090` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
