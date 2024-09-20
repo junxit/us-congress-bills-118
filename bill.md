@@ -95,6 +95,7 @@ In carrying out this Act—
   >   - **(5)** Prioritize projects that leverage matching funds from non-Federal sources.
   >   - **(6)** Ensure that selected projects are coordinated with or expand on the existing technology demonstration programs of the Department.
   >   - **(7)** Evaluate projects and topics for technical performance and economic feasibility as part of lifecycle assessments for return on investment impact.
+  >   - **(8)** Prioritize projects that can quantifiably reduce the environmental impacts of pipelines and associated infrastructure on air, water, or soil quality in all regions of the United States, especially in underserved and rural communities.
   > - **(d)** *Location* To the maximum extent practicable, demonstration projects under the Initiative shall be located on sites with existing research infrastructure or with the ability to coordinate with existing Department user facilities and research centers.
   > - **(e)** *Authorization of appropriations* Out of funds authorized to be appropriated for—
   >   - **(1)** the Office of Energy Efficiency and Renewable Energy, and
@@ -147,20 +148,20 @@ In carrying out this Act—
 - **(a)** *In general* Subject to the availability of appropriations, the Director of the National Institute of Standards and Technology shall carry out a program of measurement research, development, demonstration, and standardization to—
   - **(1)** ensure the integrity of pipeline facilities; and
   - **(2)** support pipeline safety, security, efficiency, sustainability, and resilience.
-- **(b)** *Testing* The Director of the National Institute of Standards and Technology, in consultation with the private sector and international standards organizations, shall support testing, evaluation, and research infrastructure to support the activities described in subsection (a).
-- **(c)** *Allocation of appropriations* From amounts appropriated or otherwise made available for the National Institute of Standards and Technology, the Director of the National Institute of Standards and Technology shall allocate up to $2,500,000 for each of fiscal years 2024 through 2028 to carry out this section.
+- **(b)** *Testing* The Director of the National Institute of Standards and Technology, in collaboration with the Secretary of the Department of Transportation and in consultation with the private sector and international standards organizations, shall support testing, evaluation, and research infrastructure to support the activities described in subsection (a).
+- **(c)** *Allocation of appropriations* From amounts appropriated or otherwise made available for the National Institute of Standards and Technology, the Director of the National Institute of Standards and Technology shall allocate up to $2,500,000 for each of fiscal years 2025 through 2029 to carry out this section.
 
 ## § 8. Authorization of appropriations
 
 - **(a)** *In general* Out of funds authorized to be appropriated for the Office of Energy Efficiency and Renewable Energy and the Office of Fossil Energy and Carbon Management pursuant to paragraphs (1) and (6), respectively, of section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167), there is authorized to be appropriated to the Secretary to carry out—
-  - **(1)** section 5, $20,000,000 for fiscal year 2024, and $30,000,000 for each of fiscal years 2025 through 2028; and
-  - **(2)** section 6, $10,000,000 for fiscal year 2024, and $15,000,000 for each of fiscal years 2025 through 2028.
+  - **(1)** section 5, $20,000,000 for fiscal year 2025, and $30,000,000 for each of fiscal years 2026 through 2029; and
+  - **(2)** section 6, $10,000,000 for fiscal year 2025, and $15,000,000 for each of fiscal years 2026 through 2029.
 - **(b)** *Offset* Section 10771 of subtitle O of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of Public Law 117–167) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”; and
+    - **(A)** in the matter preceding subparagraph (A), by striking “2026” and inserting “2029”; and
     - **(B)** in subparagraph (B), by striking “1,200,000,000” and inserting “$1,100,000,000”; and
   - **(2)** in subsection (6)—
-    - **(A)** in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”;
+    - **(A)** in the matter preceding subparagraph (A), by striking “2026” and inserting “2029”;
     - **(B)** in subparagraph (A), by striking “600,000,000” and inserting “$445,000,000”;
     - **(C)** in subparagraph (B)—
       - **(i)** by striking “200,000,000” and inserting “$100,000,000”; and
@@ -169,4 +170,4 @@ In carrying out this Act—
       - **(i)** by striking “1,000,000,000” and inserting “$900,000,000”; and
       - **(ii)** by striking the period and inserting “; and”; and
     - **(E)** by adding at the end the following new subparagraph:
-      > - **(D)** $445,000,000 to carry out pipeline research, development, demonstration, and commercial application activities.
+      > - **(D)** $455,000,000 to carry out pipeline research, development, demonstration, and commercial application activities.

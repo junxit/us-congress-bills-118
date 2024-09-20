@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7073
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,9 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subtitle E of title III of division D of the Infrastructure Investment and Jobs Act (Public Law 117–58) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b) of the Infrastructure Investment and Jobs Act is amended by inserting after the item relating to section 40343 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “2026” and inserting “2029”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “1,200,000,000” and inserting “$1,100,000,000”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “2026” and inserting “2028”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “2026” and inserting “2029”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “600,000,000” and inserting “$445,000,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “200,000,000” and inserting “$100,000,000”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
