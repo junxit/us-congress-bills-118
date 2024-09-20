@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8108
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8108
@@ -16,9 +16,11 @@ To amend title XIX of the Social Security Act to add a Medicaid State plan requi
 
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
 
 ## Committees (1)
 
@@ -29,3 +31,10 @@ To amend title XIX of the Social Security Act to add a Medicaid State plan requi
 - 2024-04-23 — Introduced in House
 - 2024-04-23 — Introduced in House
 - 2024-04-23 — Referred to the House Committee on Energy and Commerce.
+- 2024-04-26 — Referred to the Subcommittee on Health.
+- 2024-09-13 — Subcommittee on Health Discharged
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 0.
+- 2024-09-20 — Placed on the Union Calendar, Calendar No. 591.
+- 2024-09-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-697.
+- 2024-09-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-697.

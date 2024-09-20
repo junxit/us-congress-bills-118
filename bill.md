@@ -9,11 +9,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title XIX of the Social Security Act to add a Medicaid State plan requirement with respect to the determination of residency of certain individuals serving in the Armed Forces.
 
-## § 1. Medicaid State plan requirement for determining residency of military families
+## § 1. Medicaid State plan requirement for determining residency and coverage for military families
 
-Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended—
+Section 1902 of the Social Security Act (42 U.S.C. 1396a) is amended—
 
-- **(1)** in paragraph (86), by striking “and” at the end;
-- **(2)** in paragraph (87), by striking the period at the end and inserting “; and”; and
-- **(3)** by inserting after paragraph (87) the following new paragraph:
-  > - **(88)** beginning January 1, 2028, provide that in determining eligibility for medical assistance under the State plan (or waiver of such plan) for an individual (or dependent of such individual) who is a member of the Armed Forces serving on active duty and is, by reason of such service, temporarily relocated to a State other than such State, if such individual (or dependent) remains a legal resident of such State and was, at the time of the relocation, receiving home and community-based services described in section 9817(a)(2)(B) of the American Rescue Plan Act of 2021, the State shall deem such individual (or dependent) to be a resident of such State for purposes of this title.
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (86), by striking “and” at the end;
+  - **(B)** in paragraph (87), by striking the period at the end and inserting “; and”; and
+  - **(C)** by inserting after paragraph (87) the following new paragraph:
+    > - **(88)** beginning January 1, 2028, provide, with respect to an active duty relocated individual (as defined in subsection (uu)(1))—
+    >   - **(A)** that, in determining eligibility for medical assistance under the State plan (or waiver of such plan), the relocation described in such subsection is deemed to be a temporary absence for purposes of section 435.403(j)(3) of title 42, Code of Federal Regulations (or any successor regulation);
+    >   - **(B)** that if, at the time of such relocation, such active duty relocated individual is on a home and community-based services waiting list (as defined in subsection (uu)(2)), such individual remains on such list until—
+    >     - **(i)** the State completes an assessment and renders a decision with respect to the eligibility of such individual to receive the relevant home and community-based services at the time a slot for such services becomes available and, in the case such decision is a denial of such eligibility, such individual has exhausted the individual’s opportunity for a fair hearing in accordance with paragraph (3); or
+    >     - **(ii)** such individual elects to be removed from such list; and
+    >   - **(C)** payment for medical assistance furnished under the State plan (or a waiver of the plan) to such active duty relocated individual in the temporary relocation State (as referred to in subsection (uu)(1)) in accordance with such guidance as the Secretary may issue to ensure access to such assistance.
+
+- **(2)** by adding at the end the following new subsection:
+  > - **(uu)** *Active duty relocated individual; home and community-based services waiting list* For purposes of subsection (a)(88) and this subsection:
+  >   - **(1)** *Active duty relocated individual* The term “active duty relocated individual” means an individual enrolled under the State plan (or waiver of such plan)—
+  >     - **(A)** who—
+  >       - **(i)** is a member of the Armed Forces engaged in active duty service and is temporarily relocated (as specified by the Secretary) to another State (in this subsection referred to as the “temporary relocation State”) by reason of such service;
+  >       - **(ii)** at any point during the preceding 1-year period, was such a member so engaged in such service and was temporarily relocated to the temporary relocation State by reason of such service, but is no longer so engaged in such service (including by reason of retirement from such service); or
+  >       - **(iii)** is a dependent (as defined by the Secretary) of a member described in clause (i) or (ii) who temporarily relocates to the temporary relocation State with such member; and
+  >     - **(B)** who—
+  >       - **(i)** was receiving home and community-based services (as defined in section 9817(a)(2)(B) of the American Rescue Plan Act of 2021) at the time of such relocation; or
+  >       - **(ii)** if the State maintains a home and community-based services waiting list, was on such home and community-based services waiting list at the time of such relocation.
+  >   - **(2)** *Home and community-based services waiting list* The term “home and community-based services waiting list” means, in the case of a State that has a limit on the number of individuals who may receive home and community-based services under section 1115(a) or section 1915(c), a list maintained by such State of individuals who have applied to receive such services under either such section but for whom the State has not yet completed an assessment and rendered a decision with respect to the eligibility of such individuals to receive the relevant home and community-based services at the time a slot for such services becomes available due to such limit.
