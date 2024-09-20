@@ -21,7 +21,7 @@ This Act may be cited as the “Secure Handling of Internet Electronic Donations
   >     - **(A)** the individual or entity making such contribution is required, at the time such individual makes such contribution, to disclose the card verification value of such credit or debit card; and
   >     - **(B)**
   >       - **(i)** the billing address associated with such credit or debit card is located in the United States; or
-  >       - **(ii)** in the case of a contribution made by an individual who is a United States national or lawful permanent resident living outside of the United States, the individual provides the committee with—
+  >       - **(ii)** in the case of a contribution made by an individual living outside of the United States who, at the time the individual makes the contribution, is a United States national or an individual who is lawfully admitted for permanent residence, as defined by section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)), the individual provides the committee with—
   >         - **(I)** the United States mailing address the individual uses for voter registration purposes;
   >         - **(II)** a copy of the individual’s United States passport;
   >         - **(III)** a copy of the individual’s permanent resident card; or
@@ -29,22 +29,27 @@ This Act may be cited as the “Secure Handling of Internet Electronic Donations
   >   - **(2)** Notwithstanding subsection (b) or (c), in the case of an Internet credit or debit card contribution—
   >     - **(A)** no later than 10 days after receiving the contribution, the person who receives the contribution shall forward to the treasurer such contribution, the name and address of the person making the contribution, and the date of receipt; and
   >     - **(B)** the treasurer of a political committee shall keep an account of the name and address of any person making any such contribution, together with the date and amount of such contribution by any person.
-  >   - **(3)** In this subsection, the term Internet credit or debit card contribution means a contribution that—
+  >   - **(3)** If the treasurer of a political committee shows that best efforts have been used to comply with the requirements of this subsection, the committee shall be considered in compliance with this subsection.
+  >   - **(4)** In this subsection, the term Internet credit or debit card contribution means a contribution that—
   >     - **(A)** is made using a credit or debit card; and
   >     - **(B)** is received through an Internet website.
 
-- **(b)** *Regulations*
-  - **(1)** *Deadline* Not later than 10 days after the date of the enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out the amendments made by subsection (a).
-  - **(2)** *Consultation with credit card payment networks* In promulgating regulations under paragraph (1), the Commission shall consult with representatives of payment card networks, as defined under section 921(c) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(c)).
-- **(c)** *Effective Date* The amendment made by subsection (a) shall apply with respect to contributions made after the expiration of the 180-day period which begins on the date of the enactment of this Act.
+- **(b)** *Effective Date* The amendment made by subsection (a) shall apply to contributions the receipt of which a political committee is required to include in a report filed under section 304 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104) on or after the date of the enactment of this Act.
 
-## § 3. Prohibiting acceptance of contributions made using gift cards and prepaid credit cards in Federal elections
+## § 3. Prohibiting acceptance of contributions made using gift cards in Federal elections
 
 - **(a)** *Prohibition* Section 302 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30102), as amended by section 2(a), is amended by adding at the end the following:
-  > - **(k)** No political committee shall accept a contribution made through the use of a general-use prepaid card, gift certificate, or store gift card, as such terms are defined, respectively, under section 915(a) of the Electronic Fund Transfer Act (15 U.S.C. 1693l–1(a)).
+  > - **(k)**
+  >   - **(1)** No political committee shall accept a contribution made through the use of a general-use prepaid card, gift certificate, or store gift card, as such terms are defined, respectively, under section 915(a) of the Electronic Fund Transfer Act (15 U.S.C. 1693l–1(a)).
+  > - **(2)** If the treasurer of a political committee shows that best efforts have been used to comply with the requirements of this subsection, the committee shall be considered in compliance with this subsection.
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to contributions made after the expiration of the 180-day period which begins on the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to contributions the receipt of which a political committee is required to include in a report filed under section 304 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30104) on or after the date of the enactment of this Act.
 
 ## § 4. Prohibiting aiding or abetting making of contribution in the name of another
 
 Section 320 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30122) is amended by adding at the end the following new sentence: “No person shall knowingly direct, help, or assist any person in making a contribution in the name of another person.”.
+
+## § 5. Regulations
+
+- **(a)** *Deadline* Not later than 10 days after the date of the enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out the amendments made by this Act.
+- **(b)** *Consultation with credit card payment networks* In promulgating regulations under subsection (a) to carry out the amendments made by sections 2 and 3, the Commission shall consult with representatives of payment card networks, as defined under section 921(c) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(c)).
