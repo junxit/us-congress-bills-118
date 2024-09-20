@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1470
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 2(a)(1) of House Resolution 1367, One Hundred Eighteenth Congress, is amended by inserting “and on September 15, 2024, in West Palm Beach, Florida” after “Pennsylvania”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2(a)(1) of House Resolution 1367, One Hundred Eighteenth Congress, is amended by inserting “and on September 15, 2024 in West Palm Beach, Florida” after “Pennsylvania”. | the bill names no machine-readable US Code section |

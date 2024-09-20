@@ -2,7 +2,7 @@
 legis-num: H. RES. 1470
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1470
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Expansion of jurisdiction of the Task Force on the Attempted Assassination of Donald J. Trump
 
-Section 2(a)(1) of House Resolution 1367, One Hundred Eighteenth Congress, is amended by inserting “and on September 15, 2024, in West Palm Beach, Florida” after “Pennsylvania”.
+Section 2(a)(1) of House Resolution 1367, One Hundred Eighteenth Congress, is amended by inserting “and on September 15, 2024 in West Palm Beach, Florida” after “Pennsylvania”.
