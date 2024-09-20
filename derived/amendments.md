@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+25 amendatory instructions. 10 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,78 @@ to guess them.
 | Removed | `the assessments under paragraph (2)(B)` |
 | Inserted | `the assessments required under paragraph (1)(A)` |
 
+### 21 U.S.C. § 355c
+
+> in paragraph (1), by striking “Beginning 270” and inserting “Noncompliance letter.—Beginning 270”;
+
+| | |
+|---|---|
+| Removed | `Beginning 270` |
+| Inserted | `Noncompliance letter.—Beginning 270` |
+
+### 21 U.S.C. § 355c
+
+> by striking “The drug or” and inserting “Effect of noncompliance.—The drug or”; and
+
+| | |
+|---|---|
+| Removed | `The drug or` |
+| Inserted | `Effect of noncompliance.—The drug or` |
+
+### 21 U.S.C. § 355c
+
+> by striking “(except that the drug or biological product shall not be subject to action under section 303)” and inserting “(except that the drug or biological product shall be subject to action under section 303 only if such person demonstrated a lack of due diligence in satisfying the applicable requirement)”; and
+
+| | |
+|---|---|
+| Removed | `(except that the drug or biological product shall not be subject to action under section 303)` |
+| Inserted | `(except that the drug or biological product shall be subject to action under section 303 only if such person demonstrated a lack of due diligence in satisfying the applicable requirement)` |
+
+### 21 U.S.C. § 333
+
+> Section 303(f)(4)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(4)(A)) is amended by striking “or 505–1” and inserting “505–1, or 505B”.
+
+| | |
+|---|---|
+| Removed | `or 505–1` |
+| Inserted | `505–1, or 505B` |
+
+### 21 U.S.C. § 360ff
+
+> Paragraph (5) of section 529(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ff(b)) is amended by striking “September 30, 2024, unless” and all that follows through the period at the end and inserting “September 30, 2029.”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2024, unless` |
+| Inserted | `September 30, 2029.` |
+
+### 21 U.S.C. § 360cc
+
+> in subsection (a), in the matter following paragraph (2), by striking “same disease or condition” and inserting “same approved use or indication within such rare disease or condition”;
+
+| | |
+|---|---|
+| Removed | `same disease or condition` |
+| Inserted | `same approved use or indication within such rare disease or condition` |
+
+### 21 U.S.C. § 360cc
+
+> in the matter preceding paragraph (1), by striking “same rare disease or condition” and inserting “same approved use or indication for which such 7-year period applies to such already approved or licensed drug”; and
+
+| | |
+|---|---|
+| Removed | `same rare disease or condition` |
+| Inserted | `same approved use or indication for which such 7-year period applies to such already approved or licensed drug` |
+
+### 21 U.S.C. § 360cc
+
+> in subsection (c)(1), by striking “same rare disease or condition as the already approved drug” and inserting “same use or indication for which the already approved or licensed drug was approved or licensed”; and
+
+| | |
+|---|---|
+| Removed | `same rare disease or condition as the already approved drug` |
+| Inserted | `same use or indication for which the already approved or licensed drug was approved or licensed` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -55,3 +127,14 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355c` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355c` | add-at-end | Section 505B(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(e)(1)) is amended by adding at the end the following: “The Secretary shall determine whether subparagraph (A) or (B) of subsection (a)(1) shall apply with res… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355c` | add-at-end | Section 505B(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(a)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c` | add-at-end | Section 505B(d) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(d)), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355c-1` | replace | in paragraph (11), by striking the semicolon at the end and inserting “, including an evaluation of compliance with deadlines provided for in deferrals and deferral extensions;”; | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355c-1` | strike | in paragraph (15), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355c-1` | replace | in paragraph (16), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 353` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360cc` | insert | in paragraph (1), by inserting “, relating to the approved use or indication,” after “the needs”; | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 360cc` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 284m` | amend | Section 409I(d) of the Public Health Service Act (42 U.S.C. 284m(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 391` | add-at-end | Chapter X of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 391 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274` | add-at-end | Section 372 of the Public Health Service Act (42 U.S.C. 274) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
