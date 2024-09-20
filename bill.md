@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5717
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,4 +22,8 @@ This Act may be cited as the “No Bailout for Sanctuary Cities Act” .
 
 ## § 3. Sanctuary jurisdictions ineligible for certain Federal funds
 
-Beginning in the fiscal year that begins after the date of enactment of this Act, a sanctuary jurisdiction is ineligible to receive any Federal funds that the sanctuary jurisdiction intends to use for the benefit (including the provision of food, shelter, healthcare services, legal services, and transportation) of aliens who are present in the United States without lawful status under the immigration laws (as such terms are defined in section 101 of the Immigration and Nationality Act).
+Beginning on the earlier of the date that is 60 days after the date of enactment of this Act or the first day of the fiscal year that begins after the date of enactment of this Act, a sanctuary jurisdiction is ineligible to receive any Federal funds that the sanctuary jurisdiction intends to use for the benefit (including the provision of food, shelter, healthcare services, legal services, and transportation) of aliens who are present in the United States without lawful status under the immigration laws (as such terms are defined in section 101 of the Immigration and Nationality Act).
+
+## § 4. Report on noncompliance
+
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that includes a list of States, and political subdivisions of States, that have failed to comply with requests described in section 2(a)(2).
