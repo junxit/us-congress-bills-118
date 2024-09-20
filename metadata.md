@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 136
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 136
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. James, John [R-MI-10] (J000307)
 
-## Cosponsors (117)
+## Cosponsors (129)
 
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
@@ -135,13 +135,41 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Palmer, Gary J. [R-AL-6] (P000609)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 - Rep. Issa, Darrell [R-CA-48] (I000056)
+- Rep. Steil, Bryan [R-WI-1] (S001213)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Fong, Vince [R-CA-20] (F000480)
+- Rep. Lopez, Greg [R-CO-4] (L000604)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2024-09-20 — [House 118-2-438](votes/house-118-2-0438.md) — On Passage — **Passed** (215–191)
 
 ## Actions
 
 - 2024-05-01 — Introduced in House
 - 2024-05-01 — Introduced in House
 - 2024-05-01 — Referred to the House Committee on Energy and Commerce.
+- 2024-05-03 — Referred to the Subcommittee on Environment, Manufacturing, and Critical Materials.
+- 2024-09-17 — Rules Committee Resolution H. Res. 1455 Reported to House. Rule provides for consideration of H.R. 3724, H.R. 4790, H.R. 5179, H.R. 5339, H.R. 5717, H.R. 7909 and H.J. Res. 136. The resolution provides for consideration of H.R. 3724 and H.R. 5717 under a structured rule and H.R. 4790, H.R. 5179, H.R. 5339, H.R. 7909, and H.J. Res. 136 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2024-09-18 — Rule H. Res. 1455 passed House.
+- 2024-09-20 — Considered as unfinished business. (consideration: CR H5540-5541)
+- 2024-09-20 — Considered under the provisions of rule H. Res. 1455. (consideration: CR H5531-5538)
+- 2024-09-20 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 136.
+- 2024-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-20 — On passage Passed by the Yeas and Nays: 215 - 191 (Roll no. 438). (text: CR H5531)
+- 2024-09-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 136, the Chair put the question on passage of the joint resolution and by voice vote announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-09-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 191 (Roll no. 438). (text: CR H5531)
+- 2024-09-20 — Rule provides for consideration of H.R. 3724, H.R. 4790, H.R. 5179, H.R. 5339, H.R. 5717, H.R. 7909 and H.J. Res. 136. The resolution provides for consideration of H.R. 3724 and H.R. 5717 under a structured rule and H.R. 4790, H.R. 5179, H.R. 5339, H.R. 7909, and H.J. Res. 136 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2024-09-20 — The previous question was ordered pursuant to the rule.
