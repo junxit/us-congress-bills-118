@@ -19,12 +19,8 @@ The Director of the United States Secret Service shall apply the same standards 
 
 ## § 3. Report
 
-Not later than 180 days after the date of enactment of this Act, the Director of the United States Secret Service shall conduct a comprehensive review of the provision of protection by the Secret Service for Presidents, Vice Presidents, former Presidents, and major Presidential and Vice Presidential candidates, and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes the findings from such review, along with any recommendations for improving the provision of protection.
+Not later than 180 days after the date of enactment of this Act, the Director of the United States Secret Service shall conduct a comprehensive review of the provision of protection by the Secret Service for Presidents, Vice Presidents, former Presidents, and major Presidential and Vice Presidential candidates, and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that includes the findings from such review, along with any recommendations for improving the provision of protection.
 
-## § 4. Authorization of appropriations
-
-There is authorized to be appropriated such sums as may be necessary to carry out this Act.
-
-## § 5. Definition
+## § 4. Definition
 
 In this Act, the term major Presidential and Vice Presidential candidates has the meaning given such term in section 3056 of title 18, United States Code, and includes any other Presidential or Vice Presidential candidate for whom the President has otherwise authorized the Secret Service to protect.
