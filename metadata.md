@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3433
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3433
@@ -271,3 +271,9 @@ Give Kids a Chance Act of 2024
 - 2024-09-20 — Placed on the Union Calendar, Calendar No. 594.
 - 2024-09-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-700.
 - 2024-09-20 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-700.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5582-5587)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3433.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5582-5585)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5582-5585)
