@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5794
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5794
@@ -29,3 +29,12 @@ Veterans Affairs Peer Review Neutrality Act of 2023
 - 2023-09-28 — Introduced in House
 - 2023-09-28 — Introduced in House
 - 2023-09-28 — Referred to the House Committee on Veterans' Affairs.
+- 2023-11-09 — Referred to the Subcommittee on Health.
+- 2024-03-21 — Subcommittee Hearings Held
+- 2024-04-16 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2024-04-16 — Subcommittee Consideration and Mark-up Session Held
+- 2024-05-01 — Committee Consideration and Mark-up Session Held
+- 2024-05-01 — Ordered to be Reported by Voice Vote.
+- 2024-09-23 — Placed on the Union Calendar, Calendar No. 597.
+- 2024-09-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-703.
+- 2024-09-23 — Reported by the Committee on Veterans' Affairs. H. Rept. 118-703.
