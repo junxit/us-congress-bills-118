@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3724
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3724
@@ -22,9 +22,10 @@ End Woke Higher Education Act
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -73,3 +74,4 @@ End Woke Higher Education Act
 - 2024-09-19 — The Speaker designated the Honorable Michael Guest to act as Chairman of the Committee.
 - 2024-09-19 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-09-19 — The previous question was ordered pursuant to the rule.
+- 2024-09-23 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
