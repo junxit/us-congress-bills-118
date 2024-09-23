@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7189
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7189
@@ -41,3 +41,9 @@ Congenital Heart Futures Reauthorization Act of 2024
 - 2024-05-22 — Placed on the Union Calendar, Calendar No. 429.
 - 2024-05-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-517.
 - 2024-05-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-517.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5588-5589)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7189.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5588-5589)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5588-5589)
