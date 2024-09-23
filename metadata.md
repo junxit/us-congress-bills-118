@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5526
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5526
@@ -109,3 +109,10 @@ Seniors’ Access to Critical Medications Act of 2024
 - 2024-09-19 — Placed on the Union Calendar, Calendar No. 585.
 - 2024-09-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-691, Part I.
 - 2024-09-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-691, Part I.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5587-5588)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5526.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5587)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5587)
+- 2024-09-23 — The title of the measure was amended. Agreed to without objection.
