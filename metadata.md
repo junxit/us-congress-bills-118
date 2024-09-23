@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7630
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7630
@@ -34,3 +34,9 @@ ANCHOR Act
 - 2024-05-23 — Placed on the Union Calendar, Calendar No. 433.
 - 2024-05-23 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-521.
 - 2024-05-23 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-521.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5629-5631)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7630.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5629-5630)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5629-5630)
