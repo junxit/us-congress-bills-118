@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5717
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5717
@@ -55,9 +55,10 @@ No Bailout for Sanctuary Cities Act
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -96,3 +97,4 @@ No Bailout for Sanctuary Cities Act
 - 2024-09-20 — On motion to recommit Failed by the Yeas and Nays: 190 - 200 (Roll no. 436).
 - 2024-09-20 — On passage Passed by the Yeas and Nays: 219 - 186 (Roll no. 437).
 - 2024-09-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 186 (Roll no. 437).
+- 2024-09-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
