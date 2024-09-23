@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 118
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 

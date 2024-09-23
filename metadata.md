@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 118
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 612
@@ -59,3 +59,15 @@ Lake Tahoe Restoration Reauthorization Act
 - 2024-09-23 — Placed on the Union Calendar, Calendar No. 596.
 - 2024-09-23 — Reported by the Committee on Natural Resources. H. Rept. 118-702, Part I.
 - 2024-09-23 — Reported by the Committee on Natural Resources. H. Rept. 118-702, Part I.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5734-5736)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 612.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5734)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5734)
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-10-01 — Became Public Law No: 118-94.
+- 2024-10-01 — Became Public Law No: 118-94.
+- 2024-10-01 — Signed by President.
+- 2024-10-01 — Signed by President.
