@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 118
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 612
@@ -46,3 +46,16 @@ Lake Tahoe Restoration Reauthorization Act
 - 2024-09-09 — Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-09-09 — Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-09-09 — Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-09-10 — Referred to the Subcommittee on Conservation, Research, and Biotechnology.
+- 2024-09-11 — Referred to the Subcommittee on Federal Lands.
+- 2024-09-18 — Subcommittee Hearings Held
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported by Unanimous Consent.
+- 2024-09-19 — Subcommittee on Federal Lands Discharged
+- 2024-09-23 — Committee on Agriculture discharged.
+- 2024-09-23 — Committee on Agriculture discharged.
+- 2024-09-23 — Committee on Transportation discharged.
+- 2024-09-23 — Committee on Transportation discharged.
+- 2024-09-23 — Placed on the Union Calendar, Calendar No. 596.
+- 2024-09-23 — Reported by the Committee on Natural Resources. H. Rept. 118-702, Part I.
+- 2024-09-23 — Reported by the Committee on Natural Resources. H. Rept. 118-702, Part I.
