@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9459
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9459
@@ -36,3 +36,9 @@ PATHS Act
 - 2024-09-18 — Placed on the Union Calendar, Calendar No. 581.
 - 2024-09-18 — Reported by the Committee on Homeland Security. H. Rept. 118-687.
 - 2024-09-18 — Reported by the Committee on Homeland Security. H. Rept. 118-687.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5595-5596)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9459.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Green (TN) moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5595)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5595)
