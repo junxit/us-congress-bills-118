@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6633
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6633
@@ -53,3 +53,11 @@ To designate the facility of the United States Postal Service located at 9355 11
 - 2023-12-06 — Introduced in House
 - 2023-12-06 — Introduced in House
 - 2023-12-06 — Referred to the House Committee on Oversight and Accountability.
+- 2024-04-10 — Committee Consideration and Mark-up Session Held
+- 2024-04-10 — Ordered to be Reported by the Yeas and Nays: 37 - 1.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5571-5572)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6633.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. LaTurner moved to suspend the rules and pass the bill.
+- 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
