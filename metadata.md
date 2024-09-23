@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 136
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 136
@@ -148,9 +148,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Lopez, Greg [R-CO-4] (L000604)
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -173,3 +174,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-09-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 191 (Roll no. 438). (text: CR H5531)
 - 2024-09-20 — Rule provides for consideration of H.R. 3724, H.R. 4790, H.R. 5179, H.R. 5339, H.R. 5717, H.R. 7909 and H.J. Res. 136. The resolution provides for consideration of H.R. 3724 and H.R. 5717 under a structured rule and H.R. 4790, H.R. 5179, H.R. 5339, H.R. 7909, and H.J. Res. 136 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2024-09-20 — The previous question was ordered pursuant to the rule.
+- 2024-09-23 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
