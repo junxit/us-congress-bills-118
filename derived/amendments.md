@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6829
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 244` | insert | The Public Health Service Act is amended by inserting after section 312 (42 U.S.C. 244) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 244` | replace | Section 312(e) of the Public Health Service Act (42 U.S.C. 244(e)) is amended by striking the first sentence and inserting the following: “For the purpose of carrying out this section and sections 312A, 312B, 312C, and 312D, there is aut… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

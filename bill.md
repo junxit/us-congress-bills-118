@@ -15,7 +15,7 @@ This Act may be cited as the “Cardiomyopathy Health Education, Awareness, and 
 
 ## § 2. Cardiomyopathy health education, awareness, and research, and AED training in schools
 
-- **(a)** *In general* The Public Health Service Act is amended by inserting after section 312 (42 U.S.C. 244) the following:
+- **(a)** *Amendment* The Public Health Service Act is amended by inserting after section 312 (42 U.S.C. 244) the following:
   > ## § 312A. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
   >
   > - **(a)** *Materials and resources* Not later than 18 months after the date of the enactment of the HEARTS Act of 2024, the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, shall develop public education materials and resources to be disseminated to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals. The materials and resources shall include—
@@ -88,7 +88,7 @@ This Act may be cited as the “Cardiomyopathy Health Education, Awareness, and 
   >
   > ## § 312D. Promoting student access to AEDs and CPR
   >
-  > - **(a)** *In general* The Secretary shall award grants to eligible entities to develop and implement a comprehensive program to promote student access to automated external defibrillators (in this section referred to as “AEDs”) and cardiopulmonary resuscitation (in this section referred to as “CPR”) in public elementary schools and secondary schools.
+  > - **(a)** *In general* The Secretary may award grants to eligible entities to develop and implement a comprehensive program to promote student access to automated external defibrillators (in this section referred to as “AEDs”) and cardiopulmonary resuscitation (in this section referred to as “CPR”) in public elementary schools and secondary schools.
   > - **(b)** *Use of funds* An eligible entity receiving a grant under subsection (a) may use funds received through such grant to carry out any of the following activities:
   >   - **(1)** Developing and providing comprehensive materials to establish AED and CPR programs in public elementary schools and secondary schools.
   >   - **(2)** Providing support for CPR and AED training programs in such schools for students, staff, and related sports volunteers.
@@ -108,4 +108,4 @@ This Act may be cited as the “Cardiomyopathy Health Education, Awareness, and 
   >     - **(B)** demonstrates an ability to develop, train, and implement a comprehensive program to promote student access to defibrillation in public elementary and secondary schools; and
   >     - **(C)** is qualified in providing technical assistance in AED and CPR training.
 
-- **(b)** *Authorization of appropriations* Section 312(e) of the Public Health Service Act (42 U.S.C. 244(e)) is amended by striking the first sentence and inserting the following: “For the purpose of carrying out this section and sections 312A, 312B, 312C, and 312D, there is authorized to be appropriated $25,000,000 for each of fiscal years 2025 through 2029.”.
+- **(b)** *No additional funds* No additional funds are authorized to be appropriated to carry out sections 312A, 312B, 312C, and 312D of the Public Health Service Act, as inserted by subsection (a).
