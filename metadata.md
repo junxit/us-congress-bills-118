@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4790
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4790
@@ -22,9 +22,10 @@ Prioritizing Economic Growth Over Woke Policies Act
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Mooney, Alexander X. [R-WV-2] (M001195)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -58,3 +59,4 @@ Prioritizing Economic Growth Over Woke Policies Act
 - 2024-09-19 — Rule provides for consideration of H.R. 3724, H.R. 4790, H.R. 5179, H.R. 5339, H.R. 5717, H.R. 7909 and H.J. Res. 136. The resolution provides for consideration of H.R. 3724 and H.R. 5717 under a structured rule and H.R. 4790, H.R. 5179, H.R. 5339, H.R. 7909, and H.J. Res. 136 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2024-09-19 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-09-19 — The previous question was ordered pursuant to the rule.
+- 2024-09-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
