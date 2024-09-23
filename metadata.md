@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3884
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3884
@@ -39,3 +39,9 @@ Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, 
 - 2023-08-25 — Placed on the Union Calendar, Calendar No. 132.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-166.
 - 2023-08-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-166.
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5578-5580)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3884.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5578)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5578)
