@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 9758
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9758
+
+> To require the Securities and Exchange Commission, Commodity Futures Trading Commission, and the Secretary of the Treasury to jointly carry out a study on decentralized finance.
+
+## § 1. Short title
+
+This Act may be cited as the “Evaluating DeFi Opportunities Act”.
+
+## § 2. Study on decentralized finance
+
+- **(a)** *Study required* The Secretary of the Treasury, in coordination with the Securities and Exchange Commission and Commodity Futures Trading Commission, shall carry out a study on decentralized finance that analyzes—
+  - **(1)** the nature, size, role, and use of decentralized finance blockchain-based protocols;
+  - **(2)** the operation of blockchain-based protocols that comprise decentralized finance;
+  - **(3)** the interoperability of blockchain-based protocols and blockchain systems;
+  - **(4)** the interoperability of blockchain-based protocols and software-based systems, including websites and wallets;
+  - **(5)** the decentralized governance systems through which blockchain-based protocols may be developed, published, constituted, administered, maintained, or otherwise distributed, including—
+    - **(A)** whether the systems enhance or detract from—
+      - **(i)** the decentralization of the decentralized finance; and
+      - **(ii)** the inherent benefits and risks of the decentralized governance system; and
+    - **(B)** any procedures, requirements, or best practices that would mitigate the risks identified in subparagraph (A)(ii);
+  - **(6)** the benefits of decentralized finance, including—
+    - **(A)** operational resilience and availability of blockchain systems;
+    - **(B)** interoperability of blockchain systems;
+    - **(C)** market competition and innovation;
+    - **(D)** transaction efficiency;
+    - **(E)** transparency and traceability of transactions;
+    - **(F)** disintermediation;
+    - **(G)** privacy of user data;
+    - **(H)** security of user personally identifiable information;
+    - **(I)** autonomy;
+    - **(J)** accessibility by users; and
+    - **(K)** affordability for users;
+  - **(7)** the risks of decentralized finance, including—
+    - **(A)** pseudonymity of users and transactions;
+    - **(B)** disintermediation; and
+    - **(C)** cybersecurity vulnerabilities;
+  - **(8)** the extent to which decentralized finance has integrated with the traditional financial markets and any potential risks or improvements to the stability of the markets;
+  - **(9)** how the levels of illicit activity in decentralized finance compare with the levels of illicit activity in traditional financial markets;
+  - **(10)** methods for addressing illicit activity in decentralized finance and traditional markets that are tailored to the unique attributes of each;
+  - **(11)** how decentralized finance may increase the accessibility and efficiency of cross-border transactions;
+  - **(12)** the feasibility of embedding self-executing compliance and risk controls into decentralized finance; and
+  - **(13)** any businesses or service providers that are necessary to the communication of user information for a material portion of any decentralized finance transaction.
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury, in coordination with the Securities and Exchange Commission and Commodity Futures Trading Commission, shall submit to the relevant congressional committees a report that includes the results of the study required by subsection (a).
+- **(c)** *GAO study* The Comptroller General of the United States shall—
+  - **(1)** carry out a study on decentralized finance that analyzes the information described in paragraphs (1) through (13) of subsection (a); and
+  - **(2)** not later than 180 days after the date of enactment of this Act, submit to the relevant congressional committees a report that includes the results of the study required by paragraph (1).
+- **(d)** *Definitions* In this section:
+  - **(1)** *Decentralized finance* The term decentralized finance means blockchain-based protocols that allow users to engage in financial transactions in a self-directed manner so that a third-party intermediary does not effectuate the transactions or take custody of digital assets of a user during any part of the transactions.
+  - **(2)** *Relevant congressional committees* The term relevant congressional committees means—
+    - **(A)** the Committees on Financial Services and Agriculture of the House of Representatives; and
+    - **(B)** the Committees on Banking, Housing, and Urban Affairs and Agriculture, Nutrition, and Forestry of the Senate.
