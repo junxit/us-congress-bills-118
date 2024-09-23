@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8958
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 8958
@@ -26,8 +26,25 @@ NASA Reauthorization Act of 2024
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2024-09-23 — [House 118-2-441](votes/house-118-2-0441.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (366–21)
+
 ## Actions
 
 - 2024-07-09 — Introduced in House
 - 2024-07-09 — Introduced in House
 - 2024-07-09 — Referred to the House Committee on Science, Space, and Technology.
+- 2024-07-10 — Committee Consideration and Mark-up Session Held
+- 2024-07-10 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 38 - 0.
+- 2024-09-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-09-23 — Considered as unfinished business. (consideration: CR H5627-5628)
+- 2024-09-23 — Considered under suspension of the rules. (consideration: CR H5606-5623)
+- 2024-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8958.
+- 2024-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-23 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
+- 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 21, 1 Present (Roll no. 441). (text: CR H5606-5621)
+- 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 21, 1 Present (Roll no. 441). (text: CR H5606-5621)
+- 2024-09-23 — Placed on the Union Calendar, Calendar No. 595.
+- 2024-09-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-701.
+- 2024-09-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-701.
