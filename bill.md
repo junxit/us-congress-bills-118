@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1735
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -70,7 +70,7 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(14)** addressing critical transitions, such as middle school to high school, high school to college, and school to internships and jobs;
   - **(15)** researching effective approaches for engaging students from groups historically underrepresented in STEM; and
   - **(16)** any other activity the Director determines will accomplish the goals of this section.
-- **(g)** *Evaluations* All proposals for awards under this section shall include an evaluation plan that includes the use of outcome oriented measures to assess the impact and efficacy of the award. Each recipient of an award under this section shall include results from these evaluative activities in annual and final projects.
+- **(g)** *Evaluations* All proposals for awards under this section shall include an evaluation plan that includes the use of outcome oriented measures to assess the impact and efficacy of the award. Each recipient of an award under this section shall include results from these evaluative activities in annual and final project reports.
 - **(h)** *Accountability and dissemination*
   - **(1)** *Evaluation required* The Director shall evaluate the portfolio of awards made under this section. Such evaluation shall—
     - **(A)** use a common set of benchmarks and tools to assess the results of research conducted under such awards and identify best practices; and
@@ -78,11 +78,11 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(2)** *Report on evaluations* Not later than 180 days after the completion of the evaluation under paragraph (1), the Director shall submit to Congress and make widely available to the public a report that includes—
     - **(A)** the results of the evaluation; and
     - **(B)** any recommendations for administrative and legislative action that could optimize the effectiveness of the awards made under this section.
-- **(i)** *Funding* From amounts appropriated or otherwise made available for the Directorate for STEM Education of the National Science Foundation, the Director shall allocate up to $10,000,000 for each of fiscal years 2024 through 2028 to carry out this section.
+- **(i)** *Funding* $10,000,000 for each of the fiscal years 2025 through 2029 is authorized to be used by the Directorate for STEM Education of the National Science Foundation to carry out this section.
 
 ## § 3. NASEM report on mathematical and statistical modeling education in prekindergarten through 12th grade
 
-- **(a)** *Study* Not later than 60 days after the date of enactment of this Act, the Director shall seek to enter into an agreement with the National Academies of Sciences, Engineering and Medicine (in this section referred to as “NASEM”) (or if NASEM declines to enter into such an agreement, another appropriate entity) under which NASEM, or such other appropriate entity, agrees to conduct a study on the following:
+- **(a)** *Study* Not later than 180 days after the date of the enactment of this Act, the Director shall seek to enter into an agreement with the National Academies of Sciences, Engineering and Medicine (in this section referred to as “NASEM”) (or if NASEM declines to enter into such an agreement, another appropriate entity) under which NASEM, or such other appropriate entity, agrees to conduct a study on the following:
   - **(1)** Factors that enhance or barriers to the implementation of mathematical modeling and statistical modeling in elementary and secondary education, including opportunities for and barriers to use modeling to integrate mathematical and statistical ideas across the curriculum, including the following:
     - **(A)** Pathways in mathematical modeling and statistical problem solving from kindergarten to the workplace so that students are able to identify opportunities to use their school mathematics and statistics in a variety of jobs and life situations and so that employers can benefit from students’ school learning of data science, computational thinking, mathematics, statistics, and related subjects.
     - **(B)** The role of community-based problems, service-based learning. and internships for connecting students with career preparatory experiences.
