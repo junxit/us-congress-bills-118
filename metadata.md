@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9106
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9106
@@ -52,3 +52,4 @@ Enhanced Presidential Security Act of 2024
 - 2024-09-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 439). (text: 9/19/2024 CR H5505)
 - 2024-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 439). (text: 9/19/2024 CR H5505)
+- 2024-09-23 — Received in the Senate, read twice.
