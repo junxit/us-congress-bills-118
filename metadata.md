@@ -1,7 +1,7 @@
 ---
 measure: S. 3067
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3067
@@ -28,3 +28,7 @@ Facilitating Hazard Mitigation Projects Act
 
 - 2023-10-18 — Introduced in Senate
 - 2023-10-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-10-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-228.
+- 2024-09-23 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-228.
+- 2024-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 520.
