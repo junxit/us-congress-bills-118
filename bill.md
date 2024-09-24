@@ -1,7 +1,7 @@
 ---
 legis-num: S. 815
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hello Girls Congressional Gold Medal Act of 2023”.
+This Act may be cited as the “Hello Girls Congressional Gold Medal Act of 2024”.
 
 ## § 2. Findings
 
@@ -23,9 +23,9 @@ Congress finds the following:
 - **(4)** During this time, in the United States, telephone operating was largely sex-segregated. Hired for their speed in connecting calls, women filled 85 percent of the telephone operating positions in the United States. It took the average female operator 10 seconds to make a connection.
 - **(5)** On November 8, 1917, General Pershing cabled the War Department and wrote, “On account of the great difficulty of obtaining properly qualified men, request organization and dispatch to France a force of women telephone operators all speaking French and English equally well.”. To begin, General Pershing requested 100 women under the command of a commissioned captain, writing that “All should have allowances of Army nurses and should be uniformed.”.
 - **(6)** The War Department sent press releases to newspapers across the United States to recruit women willing to serve for the duration of the war and face the hazards of submarine warfare and aerial bombardment. These articles emphasized that patriotic women would be “full-fledged soldier[s] under the articles of war” and would “do as much to help win the war as the men in khaki who go “over the top.””. All women selected would take the Army oath.
-- **(7)** More than 7,600 women volunteered for the 100 positions described in paragraph (5) and the first recruits took the Army oath on January 15, 1918.
+- **(7)** More than 7,600 women volunteered for the 100 positions described in paragraph (5), and the first recruits took the Army oath on January 15, 1918.
 - **(8)** Like nurses and doctors at the time, female Signal Corps members had relative rather than traditional ranks and were ranked as Operator, Supervisor, or Chief Operator. When promoted, the women were required to swear the Army oath again.
-- **(9)** Telephone operators were the first women to serve as soldiers in non-medical classifications and the job of the operators was to help win the war, not to mitigate the harms of the war. In popular parlance, they were known as the “Hello Girls”.
+- **(9)** Telephone operators were the first women to serve as soldiers in non-medical classifications, and the job of the operators was to help win the war, not to mitigate the harms of the war. In popular parlance, they were known as the “Hello Girls”.
 - **(10)** Signal Corps Operators wore Army uniforms and Army insignia always, as well as standard-issue identity disks in case of death, and were subject to court martial for infractions of the military code.
 - **(11)** Unbeknownst to the women operators and their immediate officers, the legal counsel of the Army ruled internally on March 20, 1918, that the women were not actually soldiers but contract employees, even though the women had not seen or signed any contracts. Military code allowed only for the induction of men, and the code remained unchanged despite the orders of General Pershing. Nevertheless, legal counsel also recognized that the National Defense Act of 1916, which allowed for the induction of members of the telephone industry of the United States into the Armed Forces, imposed no gender restrictions.
 - **(12)** Four days later, on March 24, 1918, the first contingent of operators began their official duties in France. The operators arrived before most infantrymen of the Armed Forces in order to facilitate logistics and deployment and spent their first night in Paris under German bombardment.
@@ -81,9 +81,14 @@ Congress finds the following:
 
 ## § 4. Duplicate medals
 
-Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3 at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
+The Secretary may strike and sell duplicates in bronze of the gold medal struck under section 3 at a price sufficient to cover the costs of the medals, including labor, materials, dies, use of machinery, and overhead expenses.
 
 ## § 5. National medals
 
 - **(a)** *National medals* Medals struck under this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+- **(b)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+
+## § 6. Authority to use Fund amounts; proceeds of sale
+
+- **(a)** *Authority to use Fund amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the costs of the medals struck under this Act.
+- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals authorized under section 4 shall be deposited into the United States Mint Public Enterprise Fund.
