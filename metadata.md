@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7764
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7764
@@ -135,3 +135,14 @@ Commission to Study the Potential Transfer of the Weitzman National Museum of Am
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5641-5642)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5641-5642)
 - 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2024-12-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S6789)
+- 2024-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2024-12-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2024-12-04 — Message on Senate action sent to the House.
+- 2024-12-05 — Presented to President.
+- 2024-12-05 — Presented to President.
+- 2024-12-11 — Became Public Law No: 118-144.
+- 2024-12-11 — Became Public Law No: 118-144.
+- 2024-12-11 — Signed by President.
+- 2024-12-11 — Signed by President.
