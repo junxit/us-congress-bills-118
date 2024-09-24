@@ -113,7 +113,7 @@ In carrying out this Act—
   - **(4)** are at a low technology readiness level and not pursued by the Pipeline Safety Research Program of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation.
 - **(b)** *Memorandum of understanding* Not later than one year after the date of the enactment of this Act, the Secretary shall enter into or update an existing memorandum of understanding with the Secretary of Transportation and the Director of the National Institute of Standards and Technology to administer the Joint Program. Such memorandum shall require each participating agency to—
   - **(1)** identify unique research capabilities to contribute while avoiding duplication of existing efforts; and
-  - **(2)** include cost sharing and cost reimbursement abilities among participating agencies, including any training or resource outlays that will be required.
+  - **(2)** include cost sharing and cost reimbursement abilities among participating agencies, including any reviews, approvals, trainings, or resource outlays that will be required.
 - **(c)** *Infrastructure* In carrying out the Joint Program, the Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall—
   - **(1)** use existing research infrastructure at—
     - **(A)** Department of Energy facilities, including National Laboratories;
@@ -130,7 +130,7 @@ In carrying out this Act—
 - **(f)** *Priority* In carrying out the Joint Program, the Secretary, the Director of the National Institute of Standards and Technology, and the Secretary of Transportation shall, through consultation with the demonstration initiative established pursuant to section 40344 of the Infrastructure Investment and Jobs Act (Public Law 117–58), as added by section 4, to identify and advance areas of research most needed for demonstration projects under such demonstration initiative, give priority to research and demonstration projects that—
   - **(1)** are likely to be of value to such demonstration initiative; and
   - **(2)** are done in coordination with, or advance knowledge critical to, the National Pipeline Modernization Center established pursuant to section 6.
-- **(g)** *Relation to existing law* Nothing in this section may be construed to change existing agency roles, responsibilities, or areas of expertise as described in section 12 of the Pipeline Safety Improvement Act of 2002 (Public Law 107–355; 49 U.S.C. 60101 note)
+- **(g)** *Relation to existing law* Nothing in this section may be construed to change existing agency roles, responsibilities, or areas of expertise as described in section 12 of the Pipeline Safety Improvement Act of 2002 (Public Law 107–355; 49 U.S.C. 60101 note).
 - **(h)** *Sunset* This section shall terminate five years after the date of the enactment of this section.
 
 ## § 6. National Pipeline Modernization Center
