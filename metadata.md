@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7832
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7832
@@ -20,9 +20,10 @@ Emerging Innovative Border Technologies Act
 
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Emerging Innovative Border Technologies Act
 - 2024-09-23 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5592-5593)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5592-5593)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
