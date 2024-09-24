@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6474
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6474
@@ -37,3 +37,9 @@ To amend the Energy Policy Act of 2005 to expedite geothermal exploration and de
 - 2024-09-18 — Placed on the Union Calendar, Calendar No. 583.
 - 2024-09-18 — Reported by the Committee on Natural Resources. H. Rept. 118-689.
 - 2024-09-18 — Reported by the Committee on Natural Resources. H. Rept. 118-689.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5733-5734)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6474.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5733)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5733)
