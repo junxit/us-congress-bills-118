@@ -1,7 +1,7 @@
 ---
 measure: S. 91
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 91
@@ -110,3 +110,24 @@ Forgotten Heroes of the Holocaust Congressional Gold Medal Act
 - 2024-09-24 — Senate amendment agreed to: Amendment SA 3295 agreed to in Senate by Unanimous Consent.
 - 2024-09-24 — Senate amendment proposed (on the floor): Amendment SA 3295 proposed by Senator Schumer for Senator Hagerty.
 - 2024-09-24 — Senate amendment submitted
+- 2024-09-25 — 
+- 2024-09-25 — Amendment SA 3299 proposed by Senator Schumer for Senator Hagerty. (consideration: CR S6464)
+- 2024-09-25 — Amendment SA 3299, not withstanding passage of the bill S.91, agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Senate amendment agreed to: Amendment SA 3299, not withstanding passage of the bill S.91, agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Senate amendment proposed (on the floor): Amendment SA 3299 proposed by Senator Schumer for Senator Hagerty.
+- 2024-09-25 — Senate amendment submitted
+- 2024-09-26 — Message on Senate action sent to the House.
+- 2024-09-27 — Held at the desk.
+- 2024-09-27 — Received in the House.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6349-6350)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on S. 91.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. McHenry moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6349-6350)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6349-6350)
+- 2024-12-10 — Presented to President.
+- 2024-12-10 — Presented to President.
+- 2024-12-12 — Became Public Law No: 118-149.
+- 2024-12-12 — Became Public Law No: 118-149.
+- 2024-12-12 — Signed by President.
+- 2024-12-12 — Signed by President.
