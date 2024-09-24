@@ -1,7 +1,7 @@
 ---
 measure: S. 1776
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 1 executed, 8 stated and not applied.
+14 amendatory instructions. 2 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 16 U.S.C. § 1132
+
+> Section 101(a)(19) of the California Wilderness Act of 1984 (16 U.S.C. 1132 note; Public Law 98–425; 98 Stat. 1621) is amended by striking “which shall be known as the North Fork Wilderness” and inserting “which shall be known as the North Fork Eel River Wilderness”.
+
+| | |
+|---|---|
+| Removed | `which shall be known as the North Fork Wilderness` |
+| Inserted | `which shall be known as the North Fork Eel River Wilderness` |
 
 ### 16 U.S.C. § 1132
 
@@ -50,3 +59,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1244` | redesignate | by redesignating the second paragraph (31) (relating to the Butterfield Overland National Historic Trail) as paragraph (32); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1244` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) (as amended by section 205(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | add-at-end | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (142) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (143) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | replace | Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by striking paragraph (199) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
