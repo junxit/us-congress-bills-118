@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2706
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2706
@@ -62,9 +62,10 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -85,3 +86,4 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - 2024-09-23 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5580-5581)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5580-5581)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
