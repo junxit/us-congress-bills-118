@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reauthorization Act of 2023”.
+This Act may be cited as the “Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reauthorization Act of 2024”.
 
-## § 2. Reauthorization of Upper Colorado and San Juan River Basins endangered fish and threatened fish recovery implementation programs
+## § 2. Reauthorization of Upper Colorado and San Juan River Basins Endangered Fish and Threatened Fish Recovery Implementation Programs
 
 - **(a)** *Purpose* Section 1 of Public Law 106–392 (114 Stat. 1602) is amended by inserting “and threatened” after “endangered”.
 - **(b)** *Definitions* Section 2 of Public Law 106–392 (114 Stat. 1602; 116 Stat. 3113) is amended—
@@ -28,18 +28,18 @@ This Act may be cited as the “Upper Colorado and San Juan River Basins Endange
     - **(B)** by inserting “or threatened” after “endangered”; and
     - **(C)** by inserting “, as approved under the Recovery Implementation Programs” after “nonnative fishes”; and
   - **(6)** in paragraph (10), by inserting “pursuant to the Recovery Implementation Program for Endangered Species in the Upper Colorado River Basin” after “Service”.
-- **(c)** *Authorization To fund recovery programs* Section 3 of Public Law 106–392 (114 Stat. 1603; 116 Stat. 3113; 120 Stat. 290; 123 Stat 1310; 126 Stat. 2444; 133 Stat. 809) (as amended by section 101 of division CC of the Consolidated Appropriations Act, 2023 (Public Law 117–328)) is amended—
+- **(c)** *Authorization to fund recovery programs* Section 3 of Public Law 106–392 (114 Stat. 1603; 116 Stat. 3113; 120 Stat. 290; 123 Stat 1310; 126 Stat. 2444; 133 Stat. 809) (as amended by section 101 of division CC of the Consolidated Appropriations Act, 2023 (Public Law 117–328)) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1), by striking “(1) There is hereby authorized to be appropriated to the Secretary, $88,000,000 to undertake capital projects to carry out the purposes of this Act. Such funds” and inserting the following:
       > - **(1)** *Authorization*
       >   - **(A)** *In general* Subject to subparagraph (B), there is authorized to be appropriated to the Secretary for use by the Bureau of Reclamation to undertake capital projects to carry out the purposes of this Act $50,000,000 for the period of fiscal years 2024 through 2031.
-      >   - **(B)** *Inflation adjustment* Each fiscal year, the amount authorized to be appropriated under subparagraph (A) shall be adjusted for inflation from the date of enactment of the Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reauthorization Act of 2023 to the beginning of that fiscal year.
+      >   - **(B)** *Annual adjustment* For each of fiscal years 2025 through 2031, the amount authorized to be appropriated under subparagraph (A) shall be annually adjusted to reflect widely available engineering cost indices applicable to relevant construction activities.
       >   - **(C)** *Nonreimbursable funds* Amounts made available pursuant to subparagraph (A)
 
     - **(B)** in paragraph (2), by striking “Program for Endangered Fish Species in the Upper Colorado River Basin shall expire in fiscal year 2024” and inserting “Programs shall expire in fiscal year 2031”; and
     - **(C)** by striking paragraph (3);
   - **(2)** by striking subsections (b) and (c) and inserting the following:
-    > - **(b)** *Non-Federal Contributions to Capital Projects* The Secretary, acting through the Bureau of Reclamation, may accept contributed funds, interests in land and water, or other contributions from the Upper Division States, political subdivisions of the Upper Division States, or individuals, entities, or organizations within the Upper Division States, pursuant to agreements that provide for the contributions to be used for capital projects costs.
+    > - **(b)** *Non-federal contributions to capital projects* The Secretary, acting through the Bureau of Reclamation, may accept contributed funds, interests in land and water, or other contributions from the Upper Division States, political subdivisions of the Upper Division States, or individuals, entities, or organizations within the Upper Division States, pursuant to agreements that provide for the contributions to be used for capital projects costs.
 
   - **(3)** by redesignating subsections (d) through (j) as subsections (c) through (i), respectively;
   - **(4)** in subsection (c) (as so redesignated)—
@@ -55,8 +55,8 @@ This Act may be cited as the “Upper Colorado and San Juan River Basins Endange
       >   - **(A)** *In general* For each of fiscal years 2024 through 2031, the Secretary, acting through the Bureau of Reclamation, may accept funds from other Federal agencies, including power revenues collected pursuant to the Act of April 11, 1956 (commonly known as the “Colorado River Storage Project Act”) (43 U.S.C. 620 et seq.).
       >   - **(B)** *Availability of funds* Funds made available under subparagraph (A) shall be available for expenditure by the Secretary, as determined by the contributing agency in consultation with the Secretary.
       >   - **(C)** *Treatment of funds* Funds made available under subparagraph (A) shall be treated as nonreimbursable Federal expenditures.
-      >   - **(D)** *Treatment of power revenues* Any power revenues accepted under subparagraph (A) shall be treated as having been repaid and returned to the general fund of the Treasury.
-      > - **(4)** *Non-Federal contributions to annual base funding* The Secretary, acting through the Bureau of Reclamation, may accept contributed funds from the Upper Division States, political subdivisions of the Upper Division States, or individuals, entities, or organizations within the Upper Division States, pursuant to agreements that provide for the contributions to be used for annual base funding.
+      >   - **(D)** *Treatment of power revenues* Not more than $499,000 in power revenues over the period of fiscal years 2024 through 2031 shall be accepted under subparagraph (A) and treated as having been repaid and returned to the general fund of the Treasury.
+      > - **(4)** *Non-federal contributions to annual base funding* The Secretary, acting through the Bureau of Reclamation, may accept contributed funds from the Upper Division States, political subdivisions of the Upper Division States, or individuals, entities, or organizations within the Upper Division States, pursuant to agreements that provide for the contributions to be used for annual base funding.
       > - **(5)** *Replacement power* Contributions of funds made pursuant to this subsection shall not include the cost of replacement power purchased to offset modifications to the operation of the Colorado River Storage Project to benefit threatened or endangered fish species under the Recovery Implementation Programs.
 
   - **(5)** in subsection (f) (as so redesignated), in the first sentence, by inserting “or threatened” after “endangered”;
