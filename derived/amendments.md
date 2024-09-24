@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8790
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 10 executed, 36 stated and not applied.
+64 amendatory instructions. 12 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `3000 acres` |
 | Inserted | `10,000 acres` |
+
+### 16 U.S.C. § 6591b
+
+> in section 603(c)(2)(B) (16 U.S.C. 6591b(c)(2)(B)), by striking “Fire Regime Groups I, II, or III” and inserting “Fire Regime I, Fire Regime II, Fire Regime III, Fire Regime IV, or Fire Regime V”;
+
+| | |
+|---|---|
+| Removed | `Fire Regime Groups I, II, or III` |
+| Inserted | `Fire Regime I, Fire Regime II, Fire Regime III, Fire Regime IV, or Fire Regime V` |
 
 ### 16 U.S.C. § 6591d
 
@@ -114,6 +123,15 @@ to guess them.
 | Removed | `10` |
 | Inserted | `150` |
 
+### 16 U.S.C. § 6542
+
+> in subsection (e)(1), by striking “primary purpose of” and all that follows through the period at the end and inserting “primary purpose of advancing any of the purposes described in subsection (b)(2).”.
+
+| | |
+|---|---|
+| Removed | `primary purpose of` |
+| Inserted | `primary purpose of advancing any of the purposes described in subsection (b)(2).` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -123,15 +141,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 6591b` | strike | by striking “Lake Tahoe Basin Management Unit”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 6591b` | insert | by inserting “applicable to the area” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | strike | in subsection (a)(6), by striking “or Indian tribe”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 2113a` | insert | in paragraph (1)(A), by inserting “, Indian tribe,” after “Governor”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6502` | insert | in section 3 (16 U.S.C. 6502), by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6502` | strike | by striking “Lake Tahoe Basin Management Unit”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6502` | insert | by inserting “applicable to the area” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | strike | in subsection (a)(6), by striking “or Indian tribe”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | insert | in subsection (a), by inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | insert | in paragraph (1)(A), by inserting “, Indian tribe, special district,” after “Governor”; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 2113a` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | in paragraph (3), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | insert | in paragraph (3), by inserting “, Indian tribe, special district,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 2113a` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | in paragraph (1)(B), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | insert | in paragraph (5), by inserting “, Indian tribe,” after “Governor”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | insert | in paragraph (1)(B), by inserting “, Indian tribe, special district,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | insert | in paragraph (5), by inserting “, Indian tribe, special district,” after “Governor”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 6591c` | insert | in subsection (b), by inserting “, including retaining and expanding existing forest products infrastructure” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 6591c` | add-at-end | in subsection (h), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 472a` | add-at-end | by adding at the end the following: “Beginning on January 1, 2025, and annually thereafter, the amount in the first sentence of this subsection shall be adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -159,3 +179,17 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1772` | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1772` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1772` | amend | Section 512(c)(4)(A)(iv) of such Act (43 U.S.C. 1772(c)(4)(A)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | redesignate | by redesignating paragraphs (1) through (7) as paragraphs (2) through (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | redesignate | by redesignating subparagraphs (G) and (H) as subparagraphs (K) and (L), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | replace | by striking “The Secretary shall” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6542` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | replace | in paragraph (1), by striking “with end water users” and inserting | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | strike | in subparagraph (C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | redesignate | by redesignating subparagraph (D) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6542` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6543` | strike | Section 304(a) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6543(a)) is amended in paragraphs (3) and (5) by striking “protection and”. | the bill quotes the text struck but describes what replaces it |

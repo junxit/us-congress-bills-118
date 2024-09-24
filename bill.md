@@ -50,4 +50,8 @@ In this Act:
 - **(17)** *Secretary concerned* The term Secretary concerned means—
   - **(A)** the Secretary of Agriculture, with respect to National Forest System lands; and
   - **(B)** the Secretary of the Interior, with respect to public lands.
-- **(18)** *State* The term State means each of the several States, the District of Columbia, and each territory of the United States
+- **(18)** *Special District* The term special district means a political subdivision of a State that—
+  - **(A)** has significant budgetary autonomy or control;
+  - **(B)** was created by or pursuant to the laws of the State for the purpose of performing a limited and specific governmental or proprietary function; and
+  - **(C)** is distinct from any other local government unit within the State.
+- **(19)** *State* The term State means each of the several States, the District of Columbia, and each territory of the United States.
