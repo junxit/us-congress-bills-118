@@ -1,7 +1,7 @@
 ---
 measure: S. 1634
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1634
@@ -28,3 +28,8 @@ Colorado Outdoor Recreation and Economy Act
 
 - 2023-05-17 — Introduced in Senate
 - 2023-05-17 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-285.
+- 2023-12-14 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2024-09-24 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-231.
+- 2024-09-24 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments. With written report No. 118-231.
+- 2024-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 524.

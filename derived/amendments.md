@@ -1,7 +1,7 @@
 ---
 measure: S. 1634
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
