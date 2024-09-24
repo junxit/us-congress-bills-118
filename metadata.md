@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7764
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7764
@@ -113,9 +113,10 @@ Commission to Study the Potential Transfer of the Weitzman National Museum of Am
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 - Rep. Schiff, Adam B. [D-CA-30] (S001150)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -133,3 +134,4 @@ Commission to Study the Potential Transfer of the Weitzman National Museum of Am
 - 2024-09-23 — Mr. Steil moved to suspend the rules and pass the bill, as amended.
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5641-5642)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5641-5642)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
