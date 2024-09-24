@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 127
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 127
@@ -38,3 +38,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for the u
 - 2024-09-23 — Mr. Steil asked unanimous consent to discharge from committee and consider.
 - 2024-09-23 — On agreeing to the resolution Agreed to without objection. (text: CR H5628)
 - 2024-09-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H5628)
+- 2024-09-24 — Received in the Senate.
