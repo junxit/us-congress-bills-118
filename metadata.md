@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6633
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6633
@@ -44,9 +44,10 @@ To designate the facility of the United States Postal Service located at 9355 11
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 9355 11
 - 2024-09-23 — Mr. LaTurner moved to suspend the rules and pass the bill.
 - 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
