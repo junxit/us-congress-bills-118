@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5646
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+11 amendatory instructions. 1 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 20 U.S.C. § 1092
+
+> Paragraph (19) of section 485(f) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(19)), as so redesignated, is amended by striking “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act” and inserting “Jeanne Clery Campus Safety Act”.
+
+| | |
+|---|---|
+| Removed | `Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act` |
+| Inserted | `Jeanne Clery Campus Safety Act` |
 
 ## Stated, not applied
 
@@ -35,8 +46,9 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1092` | strike | in clause (ii), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1092` | replace | in clause (iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1092` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | redesignate | by redesignating clauses (iii) through (v) as clauses (iv) through (vi), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | insert | Section 485(f)(7) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(7)) is amended by inserting after the second sentence the following: “For hazing incidents, such statistics shall be compiled in accordance with the definition of t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | insert | Section 485(f)(7) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(7)) is amended by inserting after the second sentence the following: “For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | add-at-end | Section 485(f)(6)(A) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(6)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | add-at-end | Section 485(f)(6)(A) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(6)(A)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | insert | Section 485(f)(1) of the Higher Education Act of 1965 (20 U.S.C. 1092(f)(1)) is amended by inserting after subparagraph (J) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | redesignate | by redesignating paragraphs (9) through (18) as paragraphs (10) through (19), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092` | insert | by inserting after paragraph (8) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
