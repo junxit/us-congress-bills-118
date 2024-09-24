@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6219
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6219
@@ -21,9 +21,10 @@ ASCEND Act
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ ASCEND Act
 - 2024-09-23 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5623-5624)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5623-5624)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
