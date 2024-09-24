@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5526
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5526
@@ -88,10 +88,11 @@ Seniors’ Access to Critical Medications Act of 2024
 - Rep. Estes, Ron [R-KS-4] (E000298)
 - Rep. Phillips, Dean [D-MN-3] (P000616)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -116,3 +117,4 @@ Seniors’ Access to Critical Medications Act of 2024
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5587)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5587)
 - 2024-09-23 — The title of the measure was amended. Agreed to without objection.
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
