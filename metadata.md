@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7630
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7630
@@ -40,3 +40,4 @@ ANCHOR Act
 - 2024-09-23 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5629-5630)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5629-5630)
+- 2024-09-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
