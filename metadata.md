@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5302
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5302
@@ -54,3 +54,9 @@ Michel O. Maceda Memorial Act
 - 2024-06-07 — Placed on the Union Calendar, Calendar No. 450.
 - 2024-06-07 — Reported by the Committee on Homeland Security. H. Rept. 118-542, Part I.
 - 2024-06-07 — Reported by the Committee on Homeland Security. H. Rept. 118-542, Part I.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5704-5705; text: CR H5704)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5302.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Green (TN) moved to suspend the rules and pass the bill.
+- 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
