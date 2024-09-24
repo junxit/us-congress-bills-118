@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6513
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6513
 
-That the bill from the House of Representatives (H.R. 6513) entitled “An Act to amend the Help America Vote Act of 2002 to confirm the requirement that States allow access to designated congressional election observers to observe the election administration procedures in congressional elections.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Help America Vote Act of 2002 to confirm the requirement that States allow access to designated congressional election observers to observe the election administration procedures in congressional elections.
 
 ## § 1. Short title
 

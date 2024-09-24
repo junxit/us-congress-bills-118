@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6513
@@ -25,6 +25,10 @@ COCOA Act of 2024
 
 - House — Committee on House Administration
 - Senate — Rules and Administration Committee
+
+## Recorded votes (1)
+
+- 2024-09-25 — [House 118-2-449](votes/house-118-2-0449.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (413–1)
 
 ## Actions
 
@@ -54,3 +58,17 @@ COCOA Act of 2024
 - 2024-09-24 — Senate amendment agreed to: Amendment SA 3297 agreed to in Senate by Unanimous Consent.
 - 2024-09-24 — Senate amendment proposed (on the floor): Amendment SA 3297 proposed by Senator Schumer for Senator McConnell.
 - 2024-09-24 — Senate amendment submitted
+- 2024-09-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2024-09-25 — Considered as unfinished business. H.R. 6513 - "An Act to amend the Help America Vote Act of 2002 to confirm the requirement that States allow access to designated congressional election observers to observe the election administration procedures in congressional elections." (consideration: CR H5800)
+- 2024-09-25 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6513.
+- 2024-09-25 — Message on Senate action sent to the House.
+- 2024-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-25 — Mr. Steil moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5791-5792)
+- 2024-09-25 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 449). (text: CR H5791)
+- 2024-09-25 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 449). (text: CR H5791)
+- 2024-10-01 — Presented to President.
+- 2024-10-01 — Presented to President.
+- 2024-10-04 — Became Public Law No: 118-106.
+- 2024-10-04 — Became Public Law No: 118-106.
+- 2024-10-04 — Signed by President.
+- 2024-10-04 — Signed by President.
