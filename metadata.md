@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1735
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1735
@@ -22,9 +22,10 @@ Mathematical and Statistical Modeling Education Act
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Mathematical and Statistical Modeling Education Act
 - 2024-09-23 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2024-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5638-5640)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5638-5640)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
