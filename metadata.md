@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1657
@@ -40,3 +40,9 @@ Lake Winnibigoshish Land Exchange Act of 2024
 - 2024-09-12 — Placed on the Union Calendar, Calendar No. 561.
 - 2024-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-665.
 - 2024-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-665.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5721-5722)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1657.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5721)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5721)

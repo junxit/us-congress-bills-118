@@ -49,7 +49,7 @@ In this Act:
   - **(2)** managed in accordance with the laws, rules, and regulations pertaining to National Forest System lands.
 - **(g)** *Map and legal descriptions*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall finalize the Map and legal descriptions of all land to be conveyed under this Act.
-  - **(2)** *Controlling document* In the case of a discrepancy between the Map and a legal description, the legal description shall control.
+  - **(2)** *Controlling document* In the case of a discrepancy between the Map and a legal description, the Map shall control.
   - **(3)** *Corrections* The Secretary and BWLT, by mutual agreement, may correct any minor errors in the Map or in the legal descriptions, including with respect to the boundaries of the Federal land and the non-Federal land.
   - **(4)** *Map on file* The Map and legal descriptions shall be on file and available for public inspection in appropriate offices of the Forest Service.
 - **(h)** *Closing costs* As a condition for the exchange under subsection (a), BWLT shall pay all closing costs associated with the exchange, including for—
