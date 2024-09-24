@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8958
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 8958
@@ -22,9 +22,10 @@ NASA Reauthorization Act of 2024
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Sorensen, Eric [D-IL-17] (S001225)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ NASA Reauthorization Act of 2024
 - 2024-09-23 — Placed on the Union Calendar, Calendar No. 595.
 - 2024-09-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-701.
 - 2024-09-23 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 118-701.
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
