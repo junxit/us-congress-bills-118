@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 812
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 812
@@ -30,3 +30,7 @@ A resolution supporting the designation of September 20, 2024, as "National Conc
 
 - 2024-09-12 — Introduced in Senate
 - 2024-09-12 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-09-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-09-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6382; text: 09/12/2024 CR S6022)
+- 2024-09-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-09-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
