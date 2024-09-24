@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4094
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4094
@@ -40,3 +40,9 @@ Great Salt Lake Stewardship Act
 - 2024-09-12 — Placed on the Union Calendar, Calendar No. 562.
 - 2024-09-12 — Reported by the Committee on Natural Resources. H. Rept. 118-666.
 - 2024-09-12 — Reported by the Committee on Natural Resources. H. Rept. 118-666.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5720-5721)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4094.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5720)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5720)
