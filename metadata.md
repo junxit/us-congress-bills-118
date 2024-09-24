@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6231
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6231
@@ -22,9 +22,10 @@ Department of Homeland Security Policy Issuance Review Act
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Department of Homeland Security Policy Issuance Review Act
 - 2024-09-23 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5591)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5591)
+- 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
