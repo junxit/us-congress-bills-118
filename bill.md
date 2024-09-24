@@ -2,22 +2,18 @@
 legis-num: H.R. 6513
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6513
 
-> To amend the Help America Vote Act of 2002 to confirm the requirement that States allow access to designated congressional election observers to observe the election administration procedures in congressional elections.
+That the bill from the House of Representatives (H.R. 6513) entitled “An Act to amend the Help America Vote Act of 2002 to confirm the requirement that States allow access to designated congressional election observers to observe the election administration procedures in congressional elections.”, do pass with the following
 
-## § 1. Short title; findings
+*Strike all after the enacting clause and insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “Confirmation Of Congressional Observer Access Act of 2023” or the “COCOA Act of 2023”.
-- **(b)** *Findings relating to congressional election observers* Congress finds the following:
-  - **(1)** Article 1, section 5, clause 1 of the Constitution grants Congress the authority to “be the Judge of the Elections, Returns and Qualifications of its own Members”.
-  - **(2)** The House of Representatives serves as the final arbiter over any contest to the seating of any putative Member-elect.
-  - **(3)** Congress has exercised this authority—and responsibility—since our Nation’s very beginning, from the First Congress through the One Hundred Eighteenth Congress. Over our history, election contests have remained a normal and regular part of the biennial process for electing, recognizing, and seating new Members. Although Congress has opted to revise the statutory framework by which it considers election contests, consideration of such contests has been a regular and recurring part of Congress’ constitutional prerogatives and work. For example, across our Nation’s history, more than approximately 610 elections have been contested in the House—an average of more than 5 per Congress. Indeed, even discounting the Reconstruction period and its surge in election contests, there have been 110 contested election cases considered in the House since 1933—an average of more than 2 contests per Congress.
-  - **(4)** These election contest procedures are contained in the precedents of each House of Congress. Further, for the House of Representatives the procedures exist under the Federal Contested Elections Act.
-  - **(5)** For decades, the House of Representatives has appointed its staff to watch the administration of congressional elections in the States and territories. Critically, congressional observers serve to gather real-time information and data for the House in anticipation of an election contest being filed.
+## § 1. Short title
+
+This Act may be cited as the “Confirmation Of Congressional Observer Access Act of 2024” or the “COCOA Act of 2024”.
 
 ## § 2. Access for congressional election observers
 
@@ -34,14 +30,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(c)** *Conduct of observers*
     >   - **(1)** *Removal*
     >     - **(A)** *Authorization removal by election official* If a State or local election official has a reasonable basis to believe that a designated congressional election observer has engaged in or imminently will engage in intimidation or deceptive practices prohibited by Federal law, or in the disruption of voting, processing, scanning, tabulating, canvassing, or recounting of ballots, or the certification of results, a State or local election official may remove that observer from the area involved.
-    >     - **(B)** *Notice to committee* If a designated congressional election observer is removed from an area under subparagraph (A), the election official shall—
-    >       - **(i)** inform the chair and ranking minority member of the Committee on House Administration of the House of Representatives; and
+    >     - **(B)** *Notice to committee* If a designated congressional election observer is removed from an area under subparagraph (A), the election official shall, within 24 hours of the observer’s removal—
+    >       - **(i)** inform the chair and ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, as applicable; and
     >       - **(ii)** provide written notice detailing the reason or reasons the designated congressional election observer was removed.
-    >   - **(2)** *Rule of construction* For purposes of this subsection, the mere presence of a designated congressional election observer during an observation of election administration procedures, without any additional indicia supporting a reasonable basis for removal, is not a sufficient reason for removal under subparagraph (A).
-    >   - **(3)** *Right to replace observer* If a designated congressional election observer is properly removed under subparagraph (A), the chair or ranking minority member of the Committee on House Administration of the House of Representatives, as appropriate, may send another designated congressional election observer as a replacement for the remaining duration of the observation of election administration procedures.
-    >   - **(4)** *Clarification regarding applicability of Code of Official Conduct* It is the sense of Congress that, because the Code of Official Conduct for the House of Representatives (rule XXIII of the Rules of the House of Representatives) requires all employees of the House to behave at all times in a manner that reflects creditably on the House, an employee of the House who serves as a designated congressional election observer is subject to the Code of Official Conduct in the employee’s role as such an observer.
-    > - **(d)** *Designated congressional election observer described* In this section, a “designated congressional election observer” is a House employee (as contemplated by the Rules of the House of Representatives) who is designated in writing by the chair or ranking minority member of the Committee on House Administration of the House of Representatives, or the successor committee, to gather information with respect to an election, including in the event that the election is contested in the House of Representatives and for other purposes permitted by article 1, section 5, clause 1 and article 1, section 4, clause 1 of the Constitution of the United States.
-    > - **(e)** *State defined* In this section “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+    >   - **(2)** *Rule of construction* For purposes of this subsection, the mere presence of a designated congressional election observer during an observation of election administration procedures, without any additional indicia supporting a reasonable basis for removal, is not a sufficient reason for removal under paragraph (1)(A).
+    >   - **(3)** *Right to replace observer* If a designated congressional election observer is properly removed under paragraph (1)(A), the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, as appropriate, may send another designated congressional election observer as a replacement for the remaining duration of the observation of election administration procedures.
+    > - **(d)** *Designated congressional election observer described* In this section, a designated congressional election observer is a House or Senate employee who is designated in writing by the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, or a successor committee, to gather information with respect to an election, including in the event that the election is contested in the House of Representatives or the Senate and for other purposes permitted by article 1, section 5, clause 1 and article 1, section 4, clause 1 of the Constitution of the United States.
+    > - **(e)** *State defined* In this section, the term State means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 - **(b)** *Conforming amendment relating to enforcement* Section 401 of such Act (52 U.S.C. 21111) is amended by striking “and 303” and inserting “303, and 304”.
 - **(c)** *Clerical amendment* The table of contents of such Act is amended—

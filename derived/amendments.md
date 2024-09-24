@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 

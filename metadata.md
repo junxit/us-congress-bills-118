@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 118
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6513
@@ -43,3 +43,14 @@ COCOA Act of 2024
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5049-5050)
 - 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2024-09-24 — 
+- 2024-09-24 — Amendment SA 3297 agreed to in Senate by Unanimous Consent.
+- 2024-09-24 — Amendment SA 3297 proposed by Senator Schumer for Senator McConnell. (consideration: CR S6382-6383)
+- 2024-09-24 — Measure laid before Senate by unanimous consent.
+- 2024-09-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2024-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-09-24 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2024-09-24 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2024-09-24 — Senate amendment agreed to: Amendment SA 3297 agreed to in Senate by Unanimous Consent.
+- 2024-09-24 — Senate amendment proposed (on the floor): Amendment SA 3297 proposed by Senator Schumer for Senator McConnell.
+- 2024-09-24 — Senate amendment submitted
