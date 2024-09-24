@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
