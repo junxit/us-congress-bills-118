@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6852
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6852
@@ -37,3 +37,9 @@ Holcombe Rucker Park National Commemorative Site Act
 - 2024-09-12 — Placed on the Union Calendar, Calendar No. 568.
 - 2024-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-672.
 - 2024-09-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-672.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5723-5725)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6852.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5723-5724)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5723-5724)
