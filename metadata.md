@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4259
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4259
@@ -40,3 +40,9 @@ Think Differently about Education Act of 2023
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 202.
 - 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-252.
 - 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-252.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5705-5707)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4259.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Bean (FL) moved to suspend the rules and pass the bill, as amended.
+- 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5706)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5706)
