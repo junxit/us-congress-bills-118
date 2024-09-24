@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1726
@@ -42,3 +42,9 @@ Continued Rapid Ohia Death Response Act of 2023
 - 2023-09-20 — Placed on the Union Calendar, Calendar No. 166.
 - 2023-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-205, Part I.
 - 2023-09-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-205, Part I.
+- 2024-09-24 — Considered under suspension of the rules. (consideration: CR H5725-5726)
+- 2024-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1726.
+- 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5725)
+- 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5725)
