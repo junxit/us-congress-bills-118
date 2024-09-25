@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4259
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4259
@@ -26,9 +26,10 @@ Think Differently about Education Act of 2023
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Omar, Ilhan [D-MN-5] (O000173)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Think Differently about Education Act of 2023
 - 2024-09-24 — Mr. Bean (FL) moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5706)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5706)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
