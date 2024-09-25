@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9747
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9747
@@ -54,3 +54,9 @@ Continuing Appropriations and Extensions Act, 2025
 - 2024-09-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed, under the order of 9/24/24, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 78 - 18. Record Vote Number: 255.
 - 2024-09-25 — Received in the Senate, read twice, considered, read the third time, and passed, under the order of 9/24/24, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 78 - 18. Record Vote Number: 255. (consideration: CR S6408)
 - 2024-09-25 — Senate amendment submitted
+- 2024-09-26 — Became Public Law No: 118-83.
+- 2024-09-26 — Became Public Law No: 118-83.
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Presented to President.
+- 2024-09-26 — Signed by President.
+- 2024-09-26 — Signed by President.
