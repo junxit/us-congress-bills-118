@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7323
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7323
