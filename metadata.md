@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1726
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1726
@@ -20,10 +20,11 @@ Continued Rapid Ohia Death Response Act of 2023
 
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Continued Rapid Ohia Death Response Act of 2023
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5725)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5725)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
