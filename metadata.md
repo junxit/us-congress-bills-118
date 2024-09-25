@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5509
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5509
@@ -24,9 +24,10 @@ Electronic Permitting Modernization Act
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 - Rep. Casten, Sean [D-IL-6] (C001117)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Electronic Permitting Modernization Act
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5729-5730)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5729-5730)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
