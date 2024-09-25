@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7180
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7180
@@ -47,3 +47,12 @@ To designate the facility of the United States Postal Service located at 80 1st 
 - 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 539.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7199-7200)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-20 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-237.
+- 2025-01-04 — Became Public Law No: 118-237.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
