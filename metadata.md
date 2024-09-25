@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7073
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7073
@@ -23,9 +23,10 @@ Next Generation Pipelines Research and Development Act
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 - Rep. Williams, Brandon [R-NY-22] (W000828)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Next Generation Pipelines Research and Development Act
 - 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 41 (Roll no. 447). (text: 9/23/2024 CR H5631-5633)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 41 (Roll no. 447). (text: 9/23/2024 CR H5631-5633)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
