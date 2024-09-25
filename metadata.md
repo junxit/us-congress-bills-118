@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8057
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8057
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 9317 Bo
 - Rep. Fong, Vince [R-CA-20] (F000480)
 - Rep. Pelosi, Nancy [D-CA-11] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -93,3 +94,4 @@ To designate the facility of the United States Postal Service located at 9317 Bo
 - 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 2 Present (Roll no. 446). (text: 9/23/2024 CR H5629)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 2 Present (Roll no. 446). (text: 9/23/2024 CR H5629)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
