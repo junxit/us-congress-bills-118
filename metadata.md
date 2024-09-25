@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3208
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3208
@@ -25,9 +25,10 @@ DHS Cybersecurity On-the-Job Training Program Act
 - Rep. Clark, Katherine M. [D-MA-5] (C001101)
 - Rep. Blunt Rochester, Lisa [D-DE-At Large] (B001303)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ DHS Cybersecurity On-the-Job Training Program Act
 - 2024-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 43 (Roll no. 445). (text: 9/23/2024 CR H5596)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 43 (Roll no. 445). (text: 9/23/2024 CR H5596)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
