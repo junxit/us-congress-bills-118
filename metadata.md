@@ -1,7 +1,7 @@
 ---
 measure: S. 3181
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3181
@@ -29,3 +29,7 @@ Michel O. Maceda Memorial Act
 
 - 2023-11-01 — Introduced in Senate
 - 2023-11-01 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 531.
