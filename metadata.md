@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7422
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7422
@@ -16,9 +16,10 @@ Geothermal Cost-Recovery Authority Act of 2024
 
 - Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Geothermal Cost-Recovery Authority Act of 2024
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5726-5727)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5726-5727)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
