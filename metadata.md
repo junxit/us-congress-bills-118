@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6474
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6474
@@ -20,9 +20,10 @@ To amend the Energy Policy Act of 2005 to expedite geothermal exploration and de
 
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend the Energy Policy Act of 2005 to expedite geothermal exploration and de
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5733)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5733)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
