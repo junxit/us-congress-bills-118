@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7370
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

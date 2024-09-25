@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7370
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7370
@@ -16,9 +16,10 @@ GEO Act
 
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ GEO Act
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5719)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5719)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
