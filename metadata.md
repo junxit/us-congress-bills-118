@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6852
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6852
@@ -20,9 +20,10 @@ Holcombe Rucker Park National Commemorative Site Act
 
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Holcombe Rucker Park National Commemorative Site Act
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5723-5724)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5723-5724)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
