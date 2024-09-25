@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7323
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7323
@@ -20,10 +20,11 @@ Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2024
 
 - Rep. McGarvey, Morgan [D-KY-3] (M001220)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,11 @@ Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2024
 - 2024-09-16 — Placed on the Union Calendar, Calendar No. 571.
 - 2024-09-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-675, Part I.
 - 2024-09-16 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-675, Part I.
+- 2024-09-25 — Considered under suspension of the rules. (consideration: CR H5778-5780)
+- 2024-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7323.
+- 2024-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-25 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2024-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5778-5779)
+- 2024-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5778-5779)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-09-25 — The title of the measure was amended. Agreed to without objection.
