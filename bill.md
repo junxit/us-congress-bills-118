@@ -19,4 +19,4 @@ Section 3902(a) of title 38, United States Code, is amended by striking “by pa
 
 ## § 3. Modification of certain housing loan fees
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 20, 2031”.
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”.

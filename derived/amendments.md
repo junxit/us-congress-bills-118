@@ -1,7 +1,7 @@
 ---
 measure: H.R. 522
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 3902(a) of title 38, United States Code, is amended by striking “by paying the total purchase price of the automobile or other conveyance” and inserting “by paying the total purchase price of the automobile or other conveyance, a… | the bill names no machine-readable US Code section |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 20, 2031”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “November 29, 2031”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 522
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 522
@@ -38,9 +38,10 @@ Deliver for Veterans Act
 - Rep. Costa, Jim [D-CA-21] (C001059)
 - Rep. Peltola, Mary Sattler [D-AK-At Large] (P000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,10 @@ Deliver for Veterans Act
 - 2024-01-25 — Placed on the Union Calendar, Calendar No. 289.
 - 2024-01-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-354.
 - 2024-01-25 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-354.
+- 2024-09-25 — Considered under suspension of the rules.
+- 2024-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 522.
+- 2024-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-09-25 — Mr. Bost moved to suspend the rules and pass the bill, as amended. (consideration: CR H5777-5778)
+- 2024-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5777)
+- 2024-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5777)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
