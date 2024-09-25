@@ -11,16 +11,21 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Rural Broadband Protection Act of 2023”.
+This Act may be cited as the “Rural Broadband Protection Act of 2024”.
 
 ## § 2. Vetting process for prospective high-cost universal service fund applicants
 
-- **(a)** *Definitions* In this section—
-  - **(1)** the term Commission means the Federal Communications Commission;
-  - **(2)** the term covered funding means high-cost universal service program funding provided through a competitive award process for the deployment of a broadband-capable network and the provision of supported services over the network; and
-  - **(3)** the term new covered funding award means an award of covered funding that is made based on an application submitted to the Commission on or after the date on which rules are promulgated under subsection (b).
-- **(b)** *FCC rulemaking* Not later than 180 days after the date of enactment of this Act, the Commission shall initiate a rulemaking proceeding to establish a vetting process for applicants for, and other recipients of, a new covered funding award.
-- **(c)** *Contents* In promulgating rules under subsection (b), the Commission shall provide that—
-  - **(1)** an applicant for a new covered funding award shall include in the initial application a proposal containing sufficient detail and documentation for the Commission to ascertain that the applicant possesses the technical capability, and has a reasonable plan, to deploy the proposed network and deliver services with the relevant performance characteristics defined by the Commission and as pledged by the applicant;
-  - **(2)** the proposal described in paragraph (1) shall include sufficient detail and supporting documentation for the Commission to reasonably ascertain whether the applicant and the technology that the applicant plans to use would have the ability to perform as required given the characteristics of the locations to be served; and
-  - **(3)** the Commission shall evaluate a proposal described in paragraph (1) against reasonable and well-established technical standards, including the technical standards adopted by the Commission in orders of the Commission relating to modernizing the FCC Form 477 Data Program (WC Docket No. 11–10) (or orders of the Commission relating to modernizing any successor collection) for purposes of entities that must report broadband availability coverage.
+Section 254 of the Communications Act of 1934 (47 U.S.C. 254) is amended by adding at the end the following:
+
+> - **(m)** *Vetting of high-cost fund recipients*
+>   - **(1)** *Definitions* In this subsection—
+>     - **(A)** the term covered funding means any new offer of high-cost universal service program funding, including funding provided through a reverse competitive bidding mechanism provided under this section, for the deployment of a broadband-capable network and the provision of supported services over the network; and
+>     - **(B)** the term new covered funding award means an award of covered funding that is made based on an application submitted to the Commission on or after the date on which rules are promulgated under paragraph (2).
+>   - **(2)** *Commission rulemaking* Not later than 180 days after the date of enactment of this subsection, the Commission shall initiate a rulemaking proceeding to establish a vetting process for applicants for, and other recipients of, a new covered funding award.
+>   - **(3)** *Contents*
+>     - **(A)** *In general* In promulgating rules under paragraph (2), the Commission shall provide that, consistent with principles of technology neutrality, the Commission will only award covered funding to applicants that can demonstrate that they meet the qualifications in subparagraph (B).
+>     - **(B)** *Qualifications described* An applicant for a new covered funding award shall include in the initial application a proposal containing sufficient detail and documentation for the Commission to ascertain that the applicant possesses the technical, financial, and operational capabilities, and has a reasonable business plan, to deploy the proposed network and deliver services with the relevant performance characteristics and requirements defined by the Commission and as pledged by the applicant.
+>     - **(C)** *Evaluation of proposal* The Commission shall evaluate a proposal described in subparagraph (B) against—
+>       - **(i)** reasonable and well-established technical, financial, and operational standards, including the technical standards adopted by the Commission in orders of the Commission relating to Establishing the Digital Opportunity Data Collection (WC Docket No. 19–195) (or orders of the Commission relating to modernizing any successor collection) for purposes of entities that must report broadband availability coverage; and
+>       - **(ii)** the applicant’s history of complying with requirements in Commission and other government broadband deployment funding programs.
+>     - **(D)** *Penalties for pre-authorization defaults* In adopting rules for any new covered funding award, the Commission shall set a penalty for pre-authorization defaults of at least $9,000 per violation and may not limit the base forfeiture to an amount less than 30 percent of the applicant’s total support, unless the Commission demonstrates the need for lower penalties in a particular instance.
