@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3354
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3354
@@ -56,3 +56,7 @@ To designate the facility of the United States Postal Service located at 220 Nor
 - 2024-05-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 28, 3 Present (Roll no. 179). (text: 5/6/2024 CR H2855)
 - 2024-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 28, 3 Present (Roll no. 179). (text: 5/6/2024 CR H2855)
 - 2024-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
