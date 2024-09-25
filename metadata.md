@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2468
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2468
@@ -46,3 +46,12 @@ Mountain View Corridor Completion Act
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5722-5723)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5722-5723)
 - 2024-09-25 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7087)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-164.
+- 2024-12-23 — Became Public Law No: 118-164.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
