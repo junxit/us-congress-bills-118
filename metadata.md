@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1657
@@ -23,9 +23,10 @@ Lake Winnibigoshish Land Exchange Act of 2024
 - Rep. Huffman, Jared [D-CA-2] (H001068)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Lake Winnibigoshish Land Exchange Act of 2024
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5721)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5721)
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
