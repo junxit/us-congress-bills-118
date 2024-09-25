@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 805
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 805
@@ -16,8 +16,10 @@ A resolution commemorating the tenth anniversary of the murder of James Wright F
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
 ## Committees (1)
@@ -28,3 +30,20 @@ A resolution commemorating the tenth anniversary of the murder of James Wright F
 
 - 2024-08-01 — Introduced in Senate
 - 2024-08-01 — Referred to the Committee on Foreign Relations. (text: CR S5791)
+- 2024-09-25 — 
+- 2024-09-25 — 
+- 2024-09-25 — Amendment SA 3300 agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Amendment SA 3300 proposed by Senator Schumer for Senator Shaheen. (consideration: CR S6468)
+- 2024-09-25 — Amendment SA 3301 agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Amendment SA 3301 proposed by Senator Schumer for Senator Shaheen. (consideration: CR S6468)
+- 2024-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S6468)
+- 2024-09-25 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.
+- 2024-09-25 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S6468-6469)
+- 2024-09-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2024-09-25 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2024-09-25 — Senate amendment agreed to: Amendment SA 3300 agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Senate amendment agreed to: Amendment SA 3301 agreed to in Senate by Unanimous Consent.
+- 2024-09-25 — Senate amendment proposed (on the floor): Amendment SA 3300 proposed by Senator Schumer for Senator Shaheen.
+- 2024-09-25 — Senate amendment proposed (on the floor): Amendment SA 3301 proposed by Senator Schumer for Senator Shaheen.
+- 2024-09-25 — Senate amendment submitted
+- 2024-09-25 — Senate amendment submitted
