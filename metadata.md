@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 837
 congress: 118
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 837
@@ -26,3 +26,5 @@ An original resolution authorizing the President of the Senate to certify the re
 - 2024-09-23 — Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Sanders with a preamble. With written report No. 118-230.
 - 2024-09-23 — Introduced in Senate
 - 2024-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.
+- 2024-09-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2024-09-25 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6405-6407; text: 09/23/2024 CR S6334)
