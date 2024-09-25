@@ -1,0 +1,23 @@
+---
+legis-num: S. 5291
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5291
+
+> To require all aliens applying for a nonimmigrant visa who are unlawfully present in the United States to submit to an in person interview with a consular officer.
+
+## § 1. Short title
+
+This Act may be cited as the “Visa Integrity Preservation Act of 2024”.
+
+## § 2. In person interview with consular officer requirement for aliens who are unlawfully present in the United States
+
+Section 222(h)(2) of the Immigration and Nationality Act (8 U.S.C. 1202(h)(2)) is amended—
+
+- **(1)** in subparagraph (E)(iv), by striking “or” at the end;
+- **(2)** in subparagraph (F)(iii), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(G)** is inadmissible under paragraph (6) or (9) of section 212(a).
