@@ -1,7 +1,7 @@
 ---
 measure: S. 4293
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4293
@@ -29,3 +29,5 @@ A bill to designate the United States courthouse annex located at 310 South Main
 - 2024-06-03 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2024-06-03 — Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.
 - 2024-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
+- 2024-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6466; text: CR S6466)
+- 2024-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
