@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4094
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4094
@@ -46,3 +46,4 @@ Great Salt Lake Stewardship Act
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5720)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5720)
+- 2024-09-25 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
