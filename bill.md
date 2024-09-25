@@ -46,13 +46,17 @@ It is the sense of Congress that members of the Chinese Communist Party, led by 
 ## § 4. Imposition of sanctions on members of the Central Committee of the Chinese Communist Party
 
 - **(a)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall impose the sanctions described in subsection (c) with respect to—
-  - **(1)** each person who is a member of the Central Committee of the Chinese Communist Party that the President determines engages in the conduct described in subsection (b);
-  - **(2)** each person who is a member of any successor organization of the Central Committee of the Chinese Communist Party that the President determines engages in the conduct described in subsection (b), in the event that the Central Committee is dissolved; and
-  - **(3)** each person who is an adult family member, including a spouse or an adult family member of the spouse, of a person described in paragraph (1) or paragraph (2).
+  - **(1)** each person who is a member of the Central Committee of the Chinese Communist Party, including alternate members thereof, that the President determines engages in the conduct described in subsection (b);
+  - **(2)** each person who is a member of any successor organization of the Central Committee of the Chinese Communist Party that the President determines engages in the conduct described in subsection (b), in the event that the Central Committee is dissolved;
+  - **(3)** each person who is an adult family member, including a spouse or an adult family member of the spouse, of a person described in paragraph (1) or paragraph (2); and
+  - **(4)** each person the President determines is a Chinese state-owned enterprise—
+    - **(A)** illegally manufacturing or distributing fentanyl; or
+    - **(B)** knowingly or intentionally manufacturing or distributing fentanyl precursor chemicals to be used in the illegal production or distribution of fentanyl.
 - **(b)** *Sanctionable conduct* A person engages in the conduct described by this subsection if the person plays a significant role in the development or implementation of government policies or laws that the President determines appear designed to—
   - **(1)** violate the autonomy of Hong Kong;
-  - **(2)** harass, intimidate, or result in increased aggression towards the people of Taiwan; or
-  - **(3)** contribute to political oppression or violation of human rights of individuals or societal groups within the People’s Republic of China, including Uyghur Muslims.
+  - **(2)** harass, intimidate, or result in increased aggression towards the people of Taiwan;
+  - **(3)** contribute to political oppression or violation of human rights of individuals or societal groups within the People’s Republic of China, including Uyghur Muslims; or
+  - **(4)** willfully and knowingly engage in malicious activities, including online disinformation campaigns and propaganda, for the purpose of interfering with United States Federal, State, or local elections.
 - **(c)** *Sanctions described*
   - **(1)** *In general* The sanctions described in this subsection are the following:
     - **(A)** *Blocking of property* The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
@@ -74,13 +78,19 @@ It is the sense of Congress that members of the Chinese Communist Party, led by 
 - **(h)** *Termination* The President may terminate any sanctions imposed under subsection (a) not fewer than 15 days after the date on which the President provides a written certification to the appropriate congressional committees, and concurrently publishes on a publicly available website of the Federal Government, that—
   - **(1)** the People’s Republic of China and the Chinese Communist Party have—
     - **(A)** ceased the genocide of the Uyghur Muslim population, including verifiably shutting down all internment camps of Uyghurs and ending the practice of facilitating or supporting Uyghur forced labor and forced sterilization;
-    - **(B)** ceased all forms of threats, military exercises, and aggression toward Taiwan, including through verifiably, and for at least a period of one year, having not conducted any breach of Taiwan’s air space, territorial waters, or land mass, by any military or intelligence personnel associated with the People’s Republic of China or the Chinese Communist Party, or any agency or instrumentality thereof;
-    - **(C)** ceased the undermining of the autonomy of Hong Kong, including through respecting the terms of the Sino-British Joint Declaration, and reversing all steps taken to interfere with the democratic process and governance of Hong Kong; and
-    - **(D)** ceased efforts to steal the intellectual property of United States persons; or
+    - **(B)** ceased all forms of oppression of the Tibetan people, including those significant human rights abuses detailed in the Tibet section of the Department of State’s 2023 Country Reports on Human Rights Practices;
+    - **(C)** ceased all forms of threats, military exercises, and aggression toward Taiwan, including through verifiably, and for at least a period of one year, having not conducted any breach of Taiwan’s air space, territorial waters, or land mass, by any military or intelligence personnel associated with the People’s Republic of China or the Chinese Communist Party, or any agency or instrumentality thereof;
+    - **(D)** ceased the undermining of the autonomy of Hong Kong, including through respecting the terms of the Sino-British Joint Declaration, and reversing all steps taken to interfere with the democratic process and governance of Hong Kong; and
+    - **(E)** ceased efforts to steal the intellectual property of United States persons; or
   - **(2)** the sanctioned person has—
-    - **(A)** affirmatively renounced membership in the Chinese Communist Party; and
-    - **(B)** taken affirmative steps to denounce or remediate the conduct forming the basis for imposition of the sanction.
+    - **(A)** if the person is described in any of paragraphs (1) through (3) of subsection (a)—
+      - **(i)** affirmatively renounced membership in the Chinese Communist Party; and
+      - **(ii)** taken affirmative steps to denounce or remediate the conduct forming the basis for imposition of the sanction; or
+    - **(B)** if the person is described in paragraph (4) of subsection (a), taken affirmative steps to cease the manufacture and distribution of fentanyl or any precursor chemical known or intended to be used in the illegal production or distribution of fentanyl.
 - **(i)** *Sunset of waiver and license authorities* The President’s authority to issue waivers or licenses with respect to sanctions required by subsection (a), including pursuant to sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704), shall terminate on the date that is 2 years after the date of the enactment of this Act.
-- **(j)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
+- **(j)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(k)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
