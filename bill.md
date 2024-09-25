@@ -1,0 +1,34 @@
+---
+legis-num: S. RES. 888
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 888
+
+> Honoring the life of James Ralph Sasser, former Senator for the State of Tennessee.
+
+## Preamble
+
+- Whereas James Ralph Sasser (referred to in this preamble as “Senator Sasser”)—(1)was born in Memphis, Tennessee, in 1936;(2)attended the University of Tennessee from 1954 to 1955;(3)graduated from Vanderbilt University in 1958; and(4)received a law degree from Vanderbilt University Law School in 1961;
+- Whereas, as a student at Vanderbilt University, Senator Sasser met Mary Gorman, to whom he was married for over 60 years;
+- Whereas, after graduating from law school, Senator Sasser was admitted to the Tennessee Bar and began practicing law in Nashville, Tennessee;
+- Whereas Senator Sasser began his lifetime of service to the United States by serving in the United States Marine Corps Reserve from 1957 to 1963;
+- Whereas Senator Sasser was first elected to the Senate in 1976, where he served with honor and distinction for 3 terms;
+- Whereas, from 1989 to 1995, Senator Sasser was chairman of the Committee on the Budget of the Senate, where he helped negotiate and pass budget deals under Presidents George H. W. Bush and Bill Clinton;
+- Whereas, from 1996 to 1999, Senator Sasser adeptly served as the Ambassador to China under President Clinton;
+- Whereas, during his tenure as Ambassador to China, Senator Sasser and his staff—(1)worked to improve relations between the United States and China, which included arranging mutual state visits such as—(A)Chinese President Jiang Zemin visiting the United States in 1997; and (B)President Clinton visiting China in 1998; and(2)bravely withstood days of violent protests against the United States Embassy in Beijing, China;
+- Whereas, following his retirement as Ambassador to China, Senator Sasser served as a visiting professor at George Washington University and later as a professor at the University of North Carolina at Chapel Hill;
+- Whereas Senator Sasser served the State of Tennessee proudly and leaves behind a legacy of distinguished service to—(1)the State of Tennessee; and (2)the citizens of the State of Tennessee;
+- Whereas the State of Tennessee and the United States are immensely grateful for the lifelong commitment of Senator Sasser to public service; and
+- Whereas Senator Sasser is survived by—(1)his wife, Mary Gorman Sasser;(2)his son, James Gray Sasser;(3)his daughter, Elizabeth Sasser; (4)his 2 sisters, Jo Marilyn O’Brien and Phyllis Donnally; and (5)4 grandchildren: Now, therefore, be it
+
+That—
+
+- **(1)** the Senate—
+  - **(A)** has heard with profound sorrow and deep regret the announcement of the death of James Ralph Sasser, former Senator for the State of Tennessee; and
+  - **(B)** respectfully requests that the Secretary of the Senate—
+    - **(i)** communicate this resolution to the House of Representatives; and
+    - **(ii)** transmit an enrolled copy of this resolution to the family of James Ralph Sasser; and
+- **(2)** when the Senate adjourns today, it stands adjourned as a further mark of respect to the memory of the late James Ralph Sasser.
