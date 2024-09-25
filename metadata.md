@@ -1,7 +1,7 @@
 ---
 measure: S. 3475
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3475
@@ -32,3 +32,5 @@ Strengthening the Commercial Driver’s License Information System Act
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
+- 2024-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6465; text: CR S6465)
+- 2024-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
