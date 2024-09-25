@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5302
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5302
@@ -62,3 +62,14 @@ Michel O. Maceda Memorial Act
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6734)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-21 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-11-21 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-11-22 — Message on Senate action sent to the House.
+- 2024-12-05 — Presented to President.
+- 2024-12-05 — Presented to President.
+- 2024-12-11 — Became Public Law No: 118-139.
+- 2024-12-11 — Became Public Law No: 118-139.
+- 2024-12-11 — Signed by President.
+- 2024-12-11 — Signed by President.
