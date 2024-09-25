@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2950
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2950
@@ -47,3 +47,4 @@ Coastal Habitat Conservation Act of 2023
 - 2024-09-24 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5727-5728)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5727-5728)
+- 2024-09-25 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.
