@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8205
 
-> To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide that Byrne grant funds may be used for public safety report systems, and for other purposes.
+> To amend title 18, United States Code, to prohibit fraud in connection with posting bail.
 
 ## § 1. Short title
 
