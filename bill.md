@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6656
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,15 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Stuck On Hold Act”.
 
-## § 2. Improvements regarding wait times of callers to customer service telephone lines of certain agencies
+## § 2. Improvements regarding wait times for callers to certain service telephone lines of the Department of Veterans Affairs
 
-- **(a)** *Customer service telephone lines of the Department of Veterans Affairs*
-  - **(1)** *Automated system* Not later than 1 year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement for each customer service telephone line of the Department of Veterans Affairs an automated system that—
-    - **(A)** informs any caller to such a telephone line about the anticipated wait time, if any; and
-    - **(B)** automatically offers a callback to any such caller with an anticipated wait time of more than 15 minutes.
-  - **(2)** *Guidance regarding caller wait times* The Secretary shall issue such guidance as is necessary to reduce the average wait time of callers to a customer service telephone line of the Department to not more than 15 minutes. All calls will be answered in the order in which they are received.
-- **(b)** *Customer service telephone lines of the Social Security Administration*
-  - **(1)** *Automated system* Not later than 1 year after the date of the enactment of this Act, the Commissioner of Social Security shall implement for each customer service telephone line of the Social Security Administration an automated system that—
-    - **(A)** informs any caller to such a telephone line about the anticipated wait time, if any; and
-    - **(B)** automatically offers a callback to any such caller with an anticipated wait time of more than 15 minutes. All calls will be answered in the order in which they are received.
-  - **(2)** *Guidance regarding caller wait times* The Commissioner shall issue such guidance as is necessary to reduce the average wait time of callers to a customer service telephone line of the Social Security Administration to not more than 15 minutes.
+- **(a)** *Automated system* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement, for each covered line, an automated system that—
+  - **(1)** informs any caller to a covered line about the anticipated wait time, if any; and
+  - **(2)** automatically offers a callback to any such caller with an anticipated wait time of more than 10 minutes.
+- **(b)** *Guidance regarding caller wait times* The Secretary shall issue such guidance the Secretary determines necessary to reduce the average wait time of a caller to a covered line to not more than 10 minutes.
+- **(c)** *Covered line defined* In this section, the term “covered line” means a customer service telephone line of the Department of Veterans Affairs. Such term does not include—
+  - **(1)** the toll-free hotline for veterans provided by the Secretary under section 1720F(h) of title 38, United States Code; or
+  - **(2)** a phone line for the emergency department of a health care facility of the Department.
