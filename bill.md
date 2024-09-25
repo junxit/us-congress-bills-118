@@ -1,0 +1,20 @@
+---
+legis-num: S. 5184
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5184
+
+> To amend title XVIII of the Social Security Act to establish a floor on payments to sole community hospitals located in a non-contiguous State under the hospital outpatient prospective payment system.
+
+## § 1. Short title
+
+This Act may be cited as the “Save Our Lone Emergency Services Act” or the “SOLES Act”.
+
+## § 2. Treatment of sole community hospitals located in a noncontiguous State under hospital outpatient prospective payment system
+
+Section 1833(t)(7)(D) of the Social Security Act (42 U.S.C. 1395l) is amended by adding at the end the following new clause:
+
+> - **(iii)** *Treatment of sole community hospitals located in a noncontiguous State* In the case of a sole community hospital (as defined in section 1886(d)(5)(D)(iii)) that is located in a noncontiguous State, for covered OPD services furnished on or after January 1, 2025, for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by 94 percent of the amount of such difference.
