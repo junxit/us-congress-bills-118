@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5302
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5302
@@ -34,10 +34,11 @@ Michel O. Maceda Memorial Act
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Michel O. Maceda Memorial Act
 - 2024-09-24 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
