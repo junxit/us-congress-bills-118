@@ -1,7 +1,7 @@
 ---
 measure: S. 3698
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3698
@@ -32,3 +32,5 @@ Words Matter for the District of Columbia Courts Act
 - 2024-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-219.
 - 2024-09-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-219.
 - 2024-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2024-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6466; text: CR S6466)
+- 2024-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
