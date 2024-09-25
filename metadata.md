@@ -1,7 +1,7 @@
 ---
 measure: S. 4404
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4404
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2024-05-23 — Introduced in Senate
 - 2024-05-23 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.
