@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7872
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7872
@@ -16,7 +16,7 @@ Colorado River Salinity Control Fix Act
 
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
@@ -27,6 +27,7 @@ Colorado River Salinity Control Fix Act
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 - Rep. Napolitano, Grace F. [D-CA-31] (N000179)
+- Rep. Crow, Jason [D-CO-6] (C001121)
 
 ## Committees (1)
 
@@ -37,3 +38,11 @@ Colorado River Salinity Control Fix Act
 - 2024-04-05 — Introduced in House
 - 2024-04-05 — Introduced in House
 - 2024-04-05 — Referred to the House Committee on Natural Resources.
+- 2024-05-21 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2024-05-22 — Subcommittee Hearings Held
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported by Unanimous Consent.
+- 2024-06-12 — Subcommittee on Water, Wildlife, and Fisheries Discharged
+- 2024-10-22 — Placed on the Union Calendar, Calendar No. 601.
+- 2024-10-22 — Reported by the Committee on Natural Resources. H. Rept. 118-709.
+- 2024-10-22 — Reported by the Committee on Natural Resources. H. Rept. 118-709.
