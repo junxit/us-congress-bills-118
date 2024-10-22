@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3675
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Western Water Accelerated Revenue Repayment Act”.
 
-## § 2. Extension of prepayment authority
+## § 2. Amendments to the WIIN Act
 
-Section 4013 of the Water Infrastructure Improvements for The Nation Act (Public Law 114–322) is amended—
-
-- **(1)** in paragraph (1), by striking “; and” and inserting a semicolon;
-- **(2)** in paragraph (2), by striking the period and inserting “; and”; and
-- **(3)** by adding at the end the following:
-  > - **(3)** section 4011.
+- **(a)** *Offsets and water storage account* Section 4011(d)(2) of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended by inserting “that are directed by project-specific statutes in effect prior to the date of passage of this Act to accounts other than the General Reclamation Fund” before the semicolon.
+- **(b)** *Extension of prepayment authority* Section 4013 of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended—
+  - **(1)** in paragraph (1), by striking “; and” and inserting a semicolon;
+  - **(2)** in paragraph (2), by striking the period and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(3)** section 4011.
