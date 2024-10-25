@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2437
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To revise the boundaries of a unit of the John H. Chafee Coastal Barrier Resources System in Topsail, North Carolina, and for other purposes.
 
-## § 1. Correction to map
+## § 1. Short title
+
+This Act may be cited as the “Town of North Topsail Beach Coastal Barrier Resources System Map Amendment”.
+
+## § 2. Correction to map
 
 - **(a)** *In general* Not later than 30 days after the date of enactment of this Act, the Secretary of the Interior shall make such corrections to the map described in subsection (b) as are necessary to exclude lots from unit L06 of the John H. Chafee Coastal Barrier Resources System in North Topsail Beach, North Carolina, that were serviced by infrastructure, as described in subsection (c), installed along North Carolina Highway 210 and New River Inlet Road as of the date of enactment of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.).
 - **(b)** *Maps described* The map referred to in subsection (a) is a map that—
