@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6008
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Requiring Integrity in Conservation Efforts Act” or as the “R.I.C.E.’s Whale Act”.
 
-## § 2. Prohibition on implementation of certain documents until issuance of documents relating to Rice’s whale
+## § 2. Prohibition on implementation of certain actions until issuance of documents relating to Rice’s whale
 
 - **(a)** *In general*
-  - **(1)** *Compliance with Biological Opinion* Notwithstanding any other provision of law, with respect to current and future federally regulated oil and gas program activities in the Gulf of Mexico, compliance with the Biological Opinion shall serve to fully satisfy the requirements of applicable Federal environmental laws, including the Endangered Species Act (16 U.S.C. 1531 et seq.) and the Marine Mammal Protection Act (16 U.S.C. 1371 et seq.).
-  - **(2)** *Stipulated Agreement* The Assistant Administrator and the Director may not implement, administer, or enforce the Stipulated Agreement or the Notice to Lessees, respectively, until the Assistant Administrator issues a revised Biological Opinion as a result of reinitiated consultation with the Director under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536) and in accordance with this section.
+  - **(1)** *Compliance with Biological Opinion* Notwithstanding any other provision of law, with respect to current and future federally regulated oil and gas program activities in the Gulf of Mexico, compliance with the Biological Opinion shall serve to fully satisfy the requirements of applicable Federal environmental laws, including the Endangered Species Act (16 U.S.C. 1531 et seq.) and the Marine Mammal Protection Act (16 U.S.C.1371 et seq.).
+  - **(2)** *BOEM Actions* The Assistant Administrator and the Director may not implement, administer, or enforce the BOEM Actions until the Assistant Administrator issues a revised Biological Opinion as a result of reinitiated consultation with the Director under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536) and in accordance with this section.
 - **(b)** *Reinitiated consultation on Biological Opinion*
   - **(1)** *In general* The Assistant Administrator and the Director may not request, commence, carry out, or complete reinitiated consultation on the Biological Opinion under this section until—
     - **(A)** the Assistant Administrator issues a final rule designating critical habitat for the Rice’s whale (Balaenoptera ricei) that is consistent with—
@@ -33,7 +33,7 @@ This Act may be cited as the “Requiring Integrity in Conservation Efforts Act�
     - **(A)** that any scientific evidence considered and relied upon as a part of the consultation or reinitiation of consultation is—
       - **(i)** made publicly available; and
       - **(ii)** peer reviewed by the National Academies of Science, Engineering, and Medicine to ensure scientific rigor and independence; and
-    - **(B)** that any party directly impacted by the Stipulated Agreement or Notice to Lessees shall—
+    - **(B)** that any party directly impacted by the BOEM Actions shall—
       - **(i)** have routine and continuing opportunities to discuss and submit information to the action agency for consideration during the development of any biological assessment or proposed action;
       - **(ii)** be informed by the action agency of the schedule for preparation of a biological assessment or proposed action;
       - **(iii)** receive a copy of any proposed action and have the opportunity to review that document and provide comment to the action agency (which shall be afforded due consideration during development);
@@ -52,11 +52,14 @@ This Act may be cited as the “Requiring Integrity in Conservation Efforts Act�
         - **(II)** are not State or local agencies.
   - **(5)** *Clarification* The Assistant Administrator and the Director may not use stakeholder meetings held under paragraph (3) to fulfill the requirements of paragraph (2).
 - **(c)** *Rice’s whale study* The Assistant Administrator shall enter into an agreement with the National Academies of Science, Engineering, and Medicine to conduct a study to determine the occurrence and range of the Rice’s whale (Balaenoptera ricei) in the Central, Eastern, and Western Gulf of Mexico Planning Areas.
-- **(d)** *Leasing activities* The Secretary of the Interior may not rely on the Stipulated Agreement or the Notice to Lessees in carrying out offshore oil and gas leasing activities under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
+- **(d)** *Leasing activities* The Secretary of the Interior may not rely on or implement the BOEM Actions in carrying out offshore oil and gas leasing activities under the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.).
 - **(e)** *Definitions* In this section:
   - **(1)** *Assistant Administrator* The term Assistant Administrator means the Assistant Administrator for Fisheries of the National Marine Fisheries Service.
   - **(2)** *Biological Opinion* The term Biological Opinion means the document titled “Biological Opinion on the Federally Regulated Oil and Gas Program Activities in the Gulf of Mexico” (OPR–2017–00002; March 13, 2020).
-  - **(3)** *Director* The term Director means the Director of the Bureau of Ocean Energy Management.
-  - **(4)** *Notice to Lessees* The term Notice to Lessees means the document titled “Notice to Lessees and Operators of Federal Oil and Gas, and Sulphur Leases in the Gulf of Mexico Outer Continental Shelf; Expanded Rice’s Whale Protection Efforts During Reinitiated Consultation with NMFS” (BOEM NTL No. 2023–G01; August 17, 2023), or a substantially similar document.
-  - **(5)** *State* The term State means each of the States of Alabama, Louisiana, Mississippi, and Texas.
-  - **(6)** *Stipulated Agreement* The term Stipulated Agreement means the document titled “Stipulated Agreement to Stay Proceedings” (July 21, 2023; Docket No. 8:20–cv–03060–DLB) and entered into by the Sierra Club, Center for Biological Diversity, Friends of the Earth, and Turtle Island Restoration Network and the National Marine Fisheries Service and the Assistant Administrator.
+  - **(3)** *BOEM Actions* The term “BOEM Actions” means—
+    - **(A)** the exclusion from leasing in the Gulf of Mexico Outer Continental Shelf Oil and Gas Lease Sale 261 of acreage between the 100 meter and 400 meter isobaths across the northern Gulf of Mexico, as identified in the document titled “Gulf of Mexico Outer Continental Shelf Oil and Gas Lease Sale 261” (88 Fed. Reg. 58300; published August 25, 2023);
+    - **(B)** the imposition in the Gulf of Mexico Outer Continental Shelf Oil and Gas Lease Sale 261 of lease stipulations that limit vessel operation pursuant to section IV(4) of such document; and
+    - **(C)** the Notice to Lessees.
+  - **(4)** *Director* The term Director means the Director of the Bureau of Ocean Energy Management.
+  - **(5)** *Notice to Lessees* The term Notice to Lessees means the document titled “Notice to Lessees and Operators of Federal Oil and Gas, and Sulphur Leases in the Gulf of Mexico Outer Continental Shelf; Expanded Rice’s Whale Protection Efforts During Reinitiated Consultation with NMFS” (BOEM NTL No. 2023–G01; August 17, 2023), or a substantially similar document.
+  - **(6)** *State* The term State means each of the States of Alabama, Louisiana, Mississippi, and Texas.
