@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4587
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Red Snapper Act”.
+This Act may be cited as the “Red Snapper Act of 2023”.
 
-## § 2. Conditions for Rules related to certain area closures
+## § 2. Conditions for rules related to certain area closures
 
 - **(a)** *Findings* Congress finds the following:
   - **(1)** Fishing is a major economic driver in the South Atlantic. In Florida alone, recreational anglers provide $14,000,000,000 in economic output and support 119,000 jobs.
