@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 10075
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10075
+
+> To prohibit an entity from receiving Federal funds if such entity provides to any person any medical or surgical intervention for the purpose of assisting an individual’s disassociation from his or her sex.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping the Mutilation of Children Act of 2024”.
+
+## § 2. Prohibition
+
+- **(a)** *In General* Notwithstanding any other provision of law, no Federal funds may be provided, directly or indirectly, to an entity which provides to any person any medical or surgical intervention for the purpose of assisting an individual’s disassociation from his or her sex.
+- **(b)** *Rule of Construction* Nothing in this Act shall be construed to prohibit funding to entities which provide medical or surgical intervention in response to a developmental or genetic anomaly or historical accident.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Female* The term female refers to an individual who has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization.
+- **(2)** *Male* The term male refers to an individual who has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization.
+- **(3)** *Sex* The term sex refers to biological sex, either male or female.
