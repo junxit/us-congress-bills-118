@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 10062
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10062
+
+> To amend title 29, District of Columbia Official Code, to treat meetings held with officials of the Federal Government which are held in the District of Columbia as activities not constituting doing business in the District of Columbia for purposes of determining whether organizations are required to register with the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “Freedom to Petition the Government Act”.
+
+## § 2. Treatment of meetings between nonprofit organizations and Federal officials as activities not constituting doing business in District of Columbia
+
+Section 29–105.05(a), District of Columbia Official Code, is amended—
+
+- **(1)** by striking “and” at the end of paragraph (9);
+- **(2)** by striking the period at the end of paragraph (10) and inserting “; and”; and
+- **(3)** by adding at the end the following new paragraph:
+  > - **(11)** Holding meetings with Members of Congress or other officers, employees, or representatives of the Federal Government.
