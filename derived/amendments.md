@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4206
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 5365` | add-at-end | Section 165 of the Financial Stability Act of 2010 (12 U.S.C. 5365) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5371` | add-at-end | Section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
