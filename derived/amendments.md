@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8340
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1437a` | redesignate | by redesignating clauses (iv) and (v), as clauses (vi) and (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | redesignate | by redesignating clauses (iv) and (v) as clauses (vi) and (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
