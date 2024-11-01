@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes.
 
-## § 1. Critical materials included as critical minerals
+## § 1. Short title
+
+This Act may be cited as the “Critical Mineral Consistency Act of 2024”.
+
+## § 2. Critical materials included as critical minerals
 
 Section 7002 of the Energy Act of 2020 (30 U.S.C. 1606) is amended—
 
