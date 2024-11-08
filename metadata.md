@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9495
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9495
@@ -16,11 +16,12 @@ Stop Terror-Financing and Tax Penalties on American Hostages Act
 
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Stop Terror-Financing and Tax Penalties on American Hostages Act
 - 2024-09-09 — Introduced in House
 - 2024-09-09 — Introduced in House
 - 2024-09-09 — Referred to the House Committee on Ways and Means.
+- 2024-09-11 — Committee Consideration and Mark-up Session Held
+- 2024-09-11 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 38 - 0.
+- 2024-11-08 — Placed on the Union Calendar, Calendar No. 616.
+- 2024-11-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-729.
+- 2024-11-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-729.
