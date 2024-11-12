@@ -15,7 +15,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
 
 ## § 2. Changes with respect to the federal acquisition security council
 
-- **(a)** *Definition of source of concern, covered source of concern, recommended order, and desiganted order* Section 1321 of title 41, United States Code, is amended—
+- **(a)** *Definition of source of concern, covered source of concern, recommended order, and designated order* Section 1321 of title 41, United States Code, is amended—
   - **(1)** by redesignating paragraphs (5) through (8) as paragraphs (7) through (10);
   - **(2)** by inserting after paragraph (4) the following:
     > - **(5)** *Covered source of concern* The term “covered source of concern” means a source of concern that is specifically designated as a “covered source of concern” by a statute that states that such designation is for the purposes of this subchapter.
@@ -43,8 +43,8 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
       >     - **(iv)** An official from the General Services Administration.
       >     - **(v)** An official from the Office of the National Cyber Director.
       >     - **(vi)** Two officials from the Department of Justice, one of which shall be one from the Federal Bureau of Investigation.
-      >     - **(vii)** One official from the National Institute of Standards and Technology and one official from the Bureau of Industry and Security.
-      >     - **(viii)** An official from any executive agency not listed under clauses (i) through (vii) whose temporary or permanent participation is determined by the Chairperson of the Council to be necessary to carry out the functions of the Council.
+      >     - **(vii)** Two officials from the Department of Commerce, one of which shall be from the National Institute of Standards and Technology and one of which shall be from the Bureau of Industry and Security.
+      >     - **(viii)** An official from any executive agency not listed under clauses (i) through (vii) whose temporary or permanent participation is determined by the Chairperson of the Council to be necessary to carry out the functions of the Council while maintaining the intended balance in subject matter expertise.
 
     - **(B)** in paragraph (2)—
       - **(i)** in the heading, by striking “Lead representatives” and inserting “Members”;
@@ -67,7 +67,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
       >   - **(B)** another member of the Council designated by the National Cyber Director.
 
     - **(B)** in paragraph (2)—
-      - **(i)** in subparagraph (B), by striking “(b)(1)(H)” and inserting “(b)(1)(F)(vii)”; and
+      - **(i)** in subparagraph (B), by striking “(b)(1)(H)” and inserting “(b)(1)(C)(viii)”; and
       - **(ii)** in subparagraph (C), by striking “lead representative of each agency represented on the Council” and inserting “members of the Council”; and
   - **(4)** in subsection (d)—
     - **(A)** by striking “The Council” and inserting the following:
@@ -87,7 +87,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
       - **(i)** by striking “posed by” and inserting “associated with”; and
       - **(ii)** by inserting “and use” before “of covered articles”;
     - **(E)** in paragraph (7), by striking “posed by acquisitions” and inserting “associated with the acquisition”;
-    - **(F)** by redesignating paragraph (7) as paragraph (11); and
+    - **(F)** by redesignating paragraph (7) as paragraph (12); and
     - **(G)** by inserting after paragraph (6) the following:
       > - **(7)** Implementing a prioritization scheme for evaluating the security risks associated with the acquisition and use of covered articles provided or produced by a covered source of concern.
       > - **(8)** Evaluating each covered source of concern to determine whether to issue a designated order with respect to the covered source of concern or a covered article produced or provided by the covered source of concern.
@@ -105,7 +105,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
       >   - **(A)** *Establishment* The Council shall establish a Federal Acquisition Security Council Program Office (referred to in this paragraph as the “Program Office”) within the Office of the National Cyber Director to carry out the functions of the Council duties described under subparagraph (B).
       >   - **(B)** *Duties* The Program Office shall provide to the Council, including any committees, working groups, or other constituent bodies established by the Council under paragraph (1)—
       >     - **(i)** administrative, legal, and policy support; and
-      >     - **(ii)** analysis and subject matter expertise on information communications technology acquisition security and supply chain risk.
+      >     - **(ii)** analysis and subject matter expertise on information communications technology, acquisition security, and supply chain risk.
       >   - **(C)** *Structure* The head of the Program Office shall be a senior official from the Office of the National Cyber Director that occupies a position at the level of Assistant Secretary or Deputy Assistant Secretary (or equivalent).
       >   - **(D)** *Prohibition* The Program Office may not provide administrative support to the Council for any activities of the Council carried out pursuant to a provision of law other than a provision of law under this subchapter.
       >   - **(E)** *Funding and resources* The Program Office may use the staff and resources of the Office of the National Cyber Director or maintain dedicated staff and resources, as appropriate, in the performance of the duties of the Office.
@@ -155,15 +155,19 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
       >       - **(II)** such sources enter into a contract, the performance of which such source knows or has reason to believe will require, in the performance of a contract with the executive agency, the use of a covered source of concern or the use of a covered article produced or provided by a covered source of concern.
       >     - **(ii)** *Effective date considerations* Any effective date prescribed by the Council for an order issued pursuant to clause (i) shall take into account—
       >       - **(I)** the risk posed by the covered source of concern or the covered article produced or provided by the covered source of concern to the national security of the United States;
-      >       - **(II)** the likelihood of the covered source of concern or the covered article produced or provided by the covered source of concerned causing imminent threat to public health and safety; and
-      >       - **(III)** an assessment of the potential direct or quantifiable costs that may be incurred by the Federal Government, a State, local, or Tribal government, or by the private sector, as a result of compliance by the head of an executive agency with such an exclusion or removal order.
+      >       - **(II)** the likelihood of the covered source of concern or the covered article produced or provided by the covered source of concern causing imminent threat to public health and safety;
+      >       - **(III)** the availability of an alternative source or covered article produced or provided by an alternative source; and
+      >       - **(IV)** an assessment of the potential direct or quantifiable costs that may be incurred by the Federal Government, a State, local, or Tribal government, or by the private sector, as a result of compliance by the head of an executive agency with such an exclusion or removal order.
 
     - **(E)** in paragraph (4), as so redesignated—
       - **(i)** in the heading, by striking “of recommendation and review” and inserting “and review of recommended and designated orders”;
       - **(ii)** by striking “ the recommendation” each place the term appears, and inserting “ the order”;
       - **(iii)** in the matter preceding subparagraph (A), by striking “A notice of the Council’s recommendation under paragraph (2)” and inserting “Before the Council recommends an order under paragraph (2) or issues an order under paragraph (3), a notice”;
-      - **(iv)** in subparagraph (A), by striking “recommendation has been made” and inserting “the order will be recommended or issued”; and
-      - **(v)** in subparagraph (D), by striking “paragraph (5)” and inserting “paragraph (6)”;
+      - **(iv)** in subparagraph (A), by striking “a recommendation has been made” and inserting “the order will be recommended or issued”;
+      - **(v)** in subparagraph (D), by striking “paragraph (5)” and inserting “paragraph (6)”; and
+      - **(vi)** by inserting a new subparagraph to read as follows:
+        > - **(F)** Until an order is issued pursuant to paragraph (6), information collected under this paragraph shall be exempt from public disclosure and shall be exempt from disclosure under section 552(b)(3)(B) of title 5, United States Code (commonly referred to as the “Freedom of Information Act”).
+
     - **(F)** in paragraph (5), as so redesignated—
       - **(i)** by striking “paragraph (3)” and inserting “paragraph (4)”;
       - **(ii)** in subparagraph (A), by striking “paragraph (5)” and inserting “paragraph (6)”; and
@@ -176,7 +180,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
         >     - **(II)** provide the order (together with any information submitted by a source under paragraph (4) related to such order) to the officials described under clause (iii).
         >   - **(ii)** *Order* Not later than 90 days after receiving a recommended order, the officials described under clause (iii) shall—
         >     - **(I)** issue the order to the heads of the applicable agencies; or
-        >     - **(II)** submit a notification to the Council and the source named in the order that the order will not be issued, that includes in the notification to the Council, all the reasons for why the order will not be issued.
+        >     - **(II)** submit a notification to the Council that the order will not be issued, that includes in the notification to the Council, all the reasons for why the order will not be issued.
         >   - **(iii)** *Officials* The officials described in this clause are as follows:
         >     - **(I)** The Secretary of Homeland Security, for exclusion and removal orders applicable to civilian agencies, to the extent not covered by subclause (II) or (III).
         >     - **(II)** The Secretary of Defense, for exclusion and removal orders applicable to the Department of Defense and national security systems other than sensitive compartmented information systems.
@@ -190,19 +194,17 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
         >       - **(aa)** make any such modifications to the order as the Council considers appropriate; or
         >       - **(bb)** if the Council determines that the issuance of a designated order is not warranted, rescind the designated order and notify the source of the rescission; and
         >     - **(II)** except in the case that the Council rescinds the designated order under subclause (I)(bb), provide the designated order (including any modifications made to such order by the Council) to the officials described in clause (iii).
-        >   - **(ii)** *Issuance* The officials described in clause (iii) shall, not later than 30 days after receiving a designated order, issue the order to the heads of the applicable agencies.
+        >   - **(ii)** *Issuance* The officials described in clause (iii) shall, not later than 90 days after receiving a designated order, issue the order to the heads of the applicable agencies.
         >   - **(iii)** *Officials* The officials described in this clause are as follows:
         >     - **(I)** The Secretary of Homeland Security, for exclusion and removal orders applicable to civilian agencies, to the extent not covered by subclause (II) or (III).
         >     - **(II)** The Secretary of Defense, for exclusion and removal orders applicable to the Department of Defense and national security systems other than sensitive compartmented information systems.
         >     - **(III)** The Director of National Intelligence, for exclusion and removal orders applicable to the intelligence community and sensitive compartmented information systems, to the extent not covered by subclause (II).
-        >   - **(iv)** *Waiver* An official described under clause (iii) may waive for a period of not more than 365 days the application of an order issued by such official under clause (ii) with respect to a covered source of concern or a covered article produced or provided by a covered source of concern if—
-        >     - **(I)** the Council approves the waiver; and
-        >     - **(II)** the official submits, not later than 30 days after making such waiver, a written notification to the appropriate congressional committees and leadership that contains the justification for such waiver.
+        >   - **(iv)** *Waiver* An official described under clause (iii) may waive for a period of not more than 365 days the application of an order issued by such official under clause (ii) with respect to a covered source of concern or a covered article produced or provided by a covered source of concern if the official submits, not later than 30 days after making such waiver, a written notification to the Council, appropriate congressional committees, and leadership that contains the justification for such waiver.
         >   - **(v)** *Renewal of waiver* An official described under clause (iii) may renew a waiver under clause (iv) for an additional period of not more than 180 days if—
-        >     - **(I)** the Council approves the renewal of the waiver;
-        >     - **(II)** the renewal of the waiver is in the national security interests of the United States; and
-        >     - **(III)** the official submits, not later than 30 days after renewing such waiver, a written notification to the appropriate congressional committees and leadership that includes the justification for renewing the wavier.
-        >   - **(vi)** *Rescission of order* An exclusion or removal order issued under this subparagraph by an official may be rescinded only by the Council.
+        >     - **(I)** the renewal of the waiver is in the national security interests of the United States; and
+        >     - **(II)** the official submits, not later than 30 days after renewing such waiver, a written notification to the Council, appropriate congressional committees, and leadership that includes the justification for renewing the wavier.
+        >   - **(vi)** *National security waiver* An official described under clause (iii) may waive the application of an order issued by such official under clause (ii) with respect to a covered source of concern or a covered article produced or provided by a covered source of concern for any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
+        >   - **(vii)** *Rescission of order* An exclusion or removal order issued under this subparagraph by an official may be rescinded only by the Council.
 
       - **(iv)** in subparagraph (C), as so redesignated—
         - **(I)** by striking “subparagraph (A)” and inserting “subparagraph (A)(iii) or (B)(iii)”;
@@ -213,30 +215,29 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
         - **(II)** by striking “help”;
       - **(vi)** in subparagraph (E), as so redesignated, by striking “this paragraph” and inserting “subparagraph (A)”; and
       - **(vii)** by adding after subparagraph (F), as so redesignated, the following:
-        > - **(G)** *Effective date of orders* The effective date of an order issued under this paragraph may not be more than 180 days after the order is issued.
+        > - **(G)** *Effective date of orders* The effective date of an order issued under this paragraph may not be more than 365 days after the order is issued.
 
     - **(H)** in paragraph (7), as so redesignated, by striking “paragraph (5)(A)” and inserting “subparagraph (A) or (B) of paragraph (6)”; and
     - **(I)** in paragraph (8), as so redesignated, by striking “paragraph (5)” and inserting “paragraph (6)”;
-  - **(4)** by redesignating subsections (d) through (f) as subsections (e) through (g), respectively;
-  - **(5)** in subsection (f), as so redesignated, by inserting “the Chief Data Officers Council,” before “the Chief Acquisition”; and
-  - **(6)** in subsection (g)(2), as so redesignated, by striking the period at the end and inserting “unless such source is specifically designated by statute as a covered source of concern for the purposes of this subchapter.”
+  - **(4)** in subsection (e), by inserting “the Chief Data Officers Council,” before “the Chief Acquisition”; and
+  - **(5)** in subsection (f)(2), by striking the period at the end and inserting “unless such source is specifically designated by statute as a covered source of concern for the purposes of this subchapter.”.
 - **(d)** *Strategic plan* Section 1324(a) of title 41, United States Code, is amended—
   - **(1)** by inserting “, and periodically thereafter” after “2018”;
   - **(2)** in the matter preceding paragraph (1), by inserting “acquisition security and” before “supply chain risks”;
   - **(3)** in paragraph (8), by inserting “acquisition security and” before “supply chain risks”; and
   - **(4)** in paragraph (9)(A), by inserting “acquisition security and” before “supply chain risk”.
 - **(e)** *Requirements for executive agencies* Section 1326 of title 41, United States Code, is amended—
-  - **(1)** in subsection (a),
+  - **(1)** in subsection (a)—
     - **(A)** in paragraph (1), by striking “; and” and inserting a semicolon;
     - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(3)** providing any information requested by the Chairperson of the Council for the purpose of carrying out activities of this subchapter.
+      > - **(3)** providing any information requested by the Chairperson of the Council for the purpose of carrying out activities of this subchapter, subject to applicable law or policy on the control and handling of classified, sensitive, or proprietary information.”
 
   - **(2)** by striking “supply chain” each place such term appears and inserting “security and supply chain”; and
   - **(3)** in subsection (b)(6), by striking “supply chain” and inserting “security or supply chain”.
 - **(f)** *Judicial procedure* Section 1327(b) of title 41, United States Code, is amended—
   - **(1)** in paragraph (1), by striking “section 1323(c)(6)” and inserting “section 1323(c)(7)”;
-  - **(2)** in paragraph (3), by striking “sections 1323(c)(5)” and inserting “sections 1323(c)(6)”; and
+  - **(2)** in paragraph (3), by striking “section 1323(c)(5)” and inserting “sections 1323(c)(6)”; and
   - **(3)** in paragraph (4), by amending subparagraph (B)(i) to read as follows:
     > - **(i)** *Filing of record* The United States shall file with the court an administrative record, which shall consist of—
     >   - **(I)** the information the Council relied upon in issuing a designated order under 1323(c)(6); and
@@ -245,7 +246,7 @@ This Act may be cited as the “Federal Acquisition Security Council Improvement
 - **(g)** *Additional provisions* Subchapter III of chapter 13 of title 41, United States Code, is amended by adding at the end the following:
   > ## § 1329. Additional provisions
   >
-  > - **(a)** *Compliance with existing prohibitions* In implementing this subchapter, the Council shall coordinate, as applicable and practicable, with the head of an agency to ensure compliance by the agency with—
+  > - **(a)** *Compliance with existing prohibitions* In implementing this subchapter, the Council shall coordinate, as applicable and practicable, with the head of an agency to assist with compliance by the agency with—
   >   - **(1)** section 889 of the John S. McCain National Defense Authorization Act of 2019 (Public Law 115–232; 41 U.S.C. 3901 note);
   >   - **(2)** section 5949 of the James M. Inhofe National Defense Authorization Act of 2023 (Public Law 117–263; 41 U.S.C. 4713 note); and
   >   - **(3)** sections 1821 through 1833 of the American Security Drone Act of 2023 (Public Law 118–31).

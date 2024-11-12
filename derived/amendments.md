@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9597
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 50 U.S.C. § 3003
 
-> in subparagraph (B), by striking “(b)(1)(H)” and inserting “(b)(1)(F)(vii)”; and
+> in subparagraph (B), by striking “(b)(1)(H)” and inserting “(b)(1)(C)(viii)”; and
 
 | | |
 |---|---|
 | Removed | `(b)(1)(H)` |
-| Inserted | `(b)(1)(F)(vii)` |
+| Inserted | `(b)(1)(C)(viii)` |
 
 ### 50 U.S.C. § 3003
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `posed by acquisitions` |
 | Inserted | `associated with the acquisition` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in the matter preceding subparagraph (A), by striking “supply chain risk” and inserting “acquisition security and supply chain risk associated with the acquisition of covered articles”;
 
@@ -105,7 +105,7 @@ to guess them.
 | Removed | `supply chain risk` |
 | Inserted | `acquisition security and supply chain risk associated with the acquisition of covered articles` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in the heading, by striking “Recommendations” and inserting “Recommended Orders”;
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `Recommendations` |
 | Inserted | `Recommended Orders` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “use” and inserting “, using”;
 
@@ -123,7 +123,7 @@ to guess them.
 | Removed | `use` |
 | Inserted | `, using` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “subsection (a)(3)” and inserting “subsection (a)(4)”;
 
@@ -132,7 +132,7 @@ to guess them.
 | Removed | `subsection (a)(3)` |
 | Inserted | `subsection (a)(4)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “to issue recommendations” and inserting “, recommend orders”;
 
@@ -141,7 +141,7 @@ to guess them.
 | Removed | `to issue recommendations` |
 | Inserted | `, recommend orders` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “Such recommendations” and inserting “Any such order recommended”;
 
@@ -150,7 +150,7 @@ to guess them.
 | Removed | `Such recommendations` |
 | Inserted | `Any such order recommended` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in subparagraph (D), by striking “supply chain risk” and inserting “acquisition security and supply chain risk associated with the acquisition of covered articles”; and
 
@@ -159,7 +159,7 @@ to guess them.
 | Removed | `supply chain risk` |
 | Inserted | `acquisition security and supply chain risk associated with the acquisition of covered articles` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in the heading, by striking “of recommendation and review” and inserting “and review of recommended and designated orders”;
 
@@ -168,7 +168,7 @@ to guess them.
 | Removed | `of recommendation and review` |
 | Inserted | `and review of recommended and designated orders` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “ the recommendation” each place the term appears, and inserting “ the order”;
 
@@ -177,7 +177,7 @@ to guess them.
 | Removed | `the recommendation` |
 | Inserted | `the order` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in the matter preceding subparagraph (A), by striking “A notice of the Council’s recommendation under paragraph (2)” and inserting “Before the Council recommends an order under paragraph (2) or issues an order under paragraph (3), a notice”;
 
@@ -186,25 +186,25 @@ to guess them.
 | Removed | `A notice of the Council’s recommendation under paragraph (2)` |
 | Inserted | `Before the Council recommends an order under paragraph (2) or issues an order under paragraph (3), a notice` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
-> in subparagraph (A), by striking “recommendation has been made” and inserting “the order will be recommended or issued”; and
+> in subparagraph (A), by striking “a recommendation has been made” and inserting “the order will be recommended or issued”;
 
 | | |
 |---|---|
-| Removed | `recommendation has been made` |
+| Removed | `a recommendation has been made` |
 | Inserted | `the order will be recommended or issued` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
-> in subparagraph (D), by striking “paragraph (5)” and inserting “paragraph (6)”;
+> in subparagraph (D), by striking “paragraph (5)” and inserting “paragraph (6)”; and
 
 | | |
 |---|---|
 | Removed | `paragraph (5)` |
 | Inserted | `paragraph (6)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “paragraph (3)” and inserting “paragraph (4)”;
 
@@ -213,7 +213,7 @@ to guess them.
 | Removed | `paragraph (3)` |
 | Inserted | `paragraph (4)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in subparagraph (A), by striking “paragraph (5)” and inserting “paragraph (6)”; and
 
@@ -222,7 +222,7 @@ to guess them.
 | Removed | `paragraph (5)` |
 | Inserted | `paragraph (6)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in subparagraph (B), by striking “paragraph (6)” and inserting “paragraph (7)”;
 
@@ -231,7 +231,7 @@ to guess them.
 | Removed | `paragraph (6)` |
 | Inserted | `paragraph (7)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “subparagraph (A)” and inserting “subparagraph (A)(iii) or (B)(iii)”;
 
@@ -240,7 +240,7 @@ to guess them.
 | Removed | `subparagraph (A)` |
 | Inserted | `subparagraph (A)(iii) or (B)(iii)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “this subparagraph” and inserting “subparagraph (A)(iii) or (B)(iii)”; and
 
@@ -249,7 +249,7 @@ to guess them.
 | Removed | `this subparagraph` |
 | Inserted | `subparagraph (A)(iii) or (B)(iii)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > by striking “this paragraph” and inserting “subparagraph (A)(iii) or (B)(iii)”; and
 
@@ -258,7 +258,7 @@ to guess them.
 | Removed | `this paragraph` |
 | Inserted | `subparagraph (A)(iii) or (B)(iii)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in subparagraph (E), as so redesignated, by striking “this paragraph” and inserting “subparagraph (A)”; and
 
@@ -267,7 +267,7 @@ to guess them.
 | Removed | `this paragraph` |
 | Inserted | `subparagraph (A)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in paragraph (7), as so redesignated, by striking “paragraph (5)(A)” and inserting “subparagraph (A) or (B) of paragraph (6)”; and
 
@@ -276,7 +276,7 @@ to guess them.
 | Removed | `paragraph (5)(A)` |
 | Inserted | `subparagraph (A) or (B) of paragraph (6)` |
 
-### 50 U.S.C. § 3003
+### 50 U.S.C. § 3091
 
 > in paragraph (8), as so redesignated, by striking “paragraph (5)” and inserting “paragraph (6)”;
 
@@ -314,11 +314,11 @@ to guess them.
 
 ### 50 U.S.C. § 3003
 
-> in paragraph (3), by striking “sections 1323(c)(5)” and inserting “sections 1323(c)(6)”; and
+> in paragraph (3), by striking “section 1323(c)(5)” and inserting “sections 1323(c)(6)”; and
 
 | | |
 |---|---|
-| Removed | `sections 1323(c)(5)` |
+| Removed | `section 1323(c)(5)` |
 | Inserted | `sections 1323(c)(6)` |
 
 ### 50 U.S.C. § 3003
@@ -351,29 +351,29 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 3003` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | insert | in paragraph (2), as amended by subparagraph (A), by inserting “associated with the acquisition and use of covered articles” after “risk”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3003` | insert | by inserting “and use” before “of covered articles”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | redesignate | by redesignating paragraph (7) as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | redesignate | by redesignating paragraph (7) as paragraph (12); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 3003` | replace | by striking “The Council” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3003` | redesignate | in paragraph (1), as so redesignated, by striking “a program office and”; and | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 3003` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | insert | in subparagraph (A), by inserting “recommended” before “exclusion orders”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | insert | in subparagraph (B), by inserting “recommended” before “removal orders”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 3003` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | insert | by inserting “to the officials described under clause (iii) of paragraph (6)(A) for issuance under such paragraph” after “thereof,”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | strike | in subparagraph (E), by striking “exclusion or removal”; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 3003` | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (4) through (8); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (C) through (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | strike | by striking “, except” and all that follows before the period at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 3003` | strike | by striking “help”; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 3003` | redesignate | by adding after subparagraph (F), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | redesignate | by redesignating subsections (d) through (f) as subsections (e) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 3003` | redesignate | in subsection (f), as so redesignated, by inserting “the Chief Data Officers Council,” before “the Chief Acquisition”; and | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 3003` | redesignate | in subsection (g)(2), as so redesignated, by striking the period at the end and inserting “unless such source is specifically designated by statute as a covered source of concern for the purposes of this subchapter.” | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3091` | insert | in subparagraph (A), by inserting “recommended” before “exclusion orders”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3091` | insert | in subparagraph (B), by inserting “recommended” before “removal orders”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3091` | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3091` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3091` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | insert | by inserting “to the officials described under clause (iii) of paragraph (6)(A) for issuance under such paragraph” after “thereof,”; | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3091` | strike | in subparagraph (E), by striking “exclusion or removal”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3091` | redesignate | by redesignating paragraphs (3) through (7) as paragraphs (4) through (8); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | insert | by inserting a new subparagraph to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (C) through (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3091` | strike | by striking “, except” and all that follows before the period at the end; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3091` | strike | by striking “help”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 3091` | redesignate | by adding after subparagraph (F), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3003` | insert | in subsection (e), by inserting “the Chief Data Officers Council,” before “the Chief Acquisition”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3003` | replace | in subsection (f)(2), by striking the period at the end and inserting “unless such source is specifically designated by statute as a covered source of concern for the purposes of this subchapter.”. | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3003` | insert | by inserting “, and periodically thereafter” after “2018”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3003` | insert | in the matter preceding paragraph (1), by inserting “acquisition security and” before “supply chain risks”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 3003` | insert | in paragraph (8), by inserting “acquisition security and” before “supply chain risks”; and | the bill quotes the text inserted but describes where it goes |
