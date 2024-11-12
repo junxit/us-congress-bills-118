@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1449
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1449
@@ -25,3 +25,11 @@ CLEAN Act
 - 2023-03-08 — Introduced in House
 - 2023-03-08 — Introduced in House
 - 2023-03-08 — Referred to the House Committee on Natural Resources.
+- 2023-03-22 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2023-10-25 — Subcommittee Hearings Held
+- 2023-12-06 — Committee Consideration and Mark-up Session Held
+- 2023-12-06 — Ordered to be Reported by Voice Vote.
+- 2023-12-06 — Subcommittee on Energy and Mineral Resources Discharged
+- 2024-11-12 — Placed on the Union Calendar, Calendar No. 617.
+- 2024-11-12 — Reported by the Committee on Natural Resources. H. Rept. 118-730.
+- 2024-11-12 — Reported by the Committee on Natural Resources. H. Rept. 118-730.
