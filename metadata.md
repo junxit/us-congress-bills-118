@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3334
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3334
@@ -28,10 +28,11 @@ STOP CCP Act
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (2)
 
@@ -92,3 +93,4 @@ STOP CCP Act
 - 2024-09-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3334.
 - 2024-09-25 — The Speaker designated the Honorable Virginia Foxx to act as Chairwoman of the Committee.
 - 2024-09-25 — The previous question was ordered pursuant to the rule.
+- 2024-11-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
