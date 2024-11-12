@@ -1,7 +1,7 @@
 ---
 measure: H.R. 82
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
