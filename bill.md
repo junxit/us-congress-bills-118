@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “DHS Biodetection Improvement Act”.
 
-## § 2. DHS utilization of Department of Energy national laboratories and sites for certain biodetection research and development relating to the missions of the DHS
+## § 2. DHS utilization of Department of Energy national laboratories and sites for certain biodetection research and development relating to the missions of the dhs
 
 - **(a)** *In general* The Secretary of Homeland Security shall conduct an assessment of how the Department of Homeland Security has utilized Department of Energy national laboratories and sites regarding research and development in carrying out the missions of the Department of Homeland Security, in accordance with section 309 of the Homeland Security Act of 2002 (6 U.S.C. 189).
 - **(b)** *Strategy on biodetection research and development* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate the assessment required under subsection (a), together with a strategy for how the Department of Homeland Security will conduct research and development in coordination with Department of Energy national laboratories and sites to address biodetection research and development of the Department of Homeland Security, including the following:

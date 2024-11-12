@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6174
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6174
@@ -48,3 +48,8 @@ DHS Biodetection Improvement Act
 - 2024-03-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
 - 2024-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 03/05/2024 CR H791)
 - 2024-03-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-03-12 — Star Print ordered on the bill.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-239.
+- 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-239.
+- 2024-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
