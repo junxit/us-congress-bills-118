@@ -1,7 +1,7 @@
 ---
 measure: S. 3022
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3022
@@ -28,3 +28,8 @@ IHS Workforce Parity Act of 2024
 
 - 2023-10-04 — Introduced in Senate
 - 2023-10-04 — Read twice and referred to the Committee on Indian Affairs.
+- 2024-02-08 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-416.
+- 2024-05-01 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-12 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-240.
+- 2024-11-12 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-240.
+- 2024-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.
