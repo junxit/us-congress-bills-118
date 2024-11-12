@@ -1,7 +1,7 @@
 ---
 measure: S. 3635
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3635
@@ -28,3 +28,7 @@ Industrial Control Systems Cybersecurity Competition Act
 
 - 2024-01-22 — Introduced in Senate
 - 2024-01-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-01-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-234.
+- 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-234.
+- 2024-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.
