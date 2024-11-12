@@ -1,0 +1,27 @@
+---
+legis-num: S. 5294
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5294
+
+> To repeal requirements for reports on unfunded priorities from the Department of Defense and the National Nuclear Security Administration.
+
+## § 1. Short title
+
+This Act may be cited as the “Streamline Pentagon Spending Act of 2024”.
+
+## § 2. Repeal of reports on unfunded priorities
+
+- **(a)** *Department of Defense*
+  - **(1)** *In general* The following provisions of title 10, United States Code, are repealed:
+    - **(A)** Section 222a.
+    - **(B)** Section 222b.
+    - **(C)** Section 222e (as added by section 211 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 182)).
+  - **(2)** *Clerical amendments* The table of sections at the beginning of chapter 9 of such title is amended by striking the items relating to sections 222a, 222b, and 222e (as added by section 211 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 182)).
+- **(b)** *Military construction projects* Section 2806 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 222a note) is repealed.
+- **(c)** *National Nuclear Security Administration*
+  - **(1)** *In general* Section 4716 of the Atomic Energy Defense Act (50 U.S.C. 2756) is repealed.
+  - **(2)** *Clerical amendment* The table of contents for the Atomic Energy Defense Act is amended by striking the item relating to section 4716.
