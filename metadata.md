@@ -1,7 +1,7 @@
 ---
 measure: S. 3406
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3406
@@ -28,3 +28,8 @@ Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, T
 
 - 2023-12-05 — Introduced in Senate
 - 2023-12-05 — Read twice and referred to the Committee on Indian Affairs.
+- 2024-07-10 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-530.
+- 2024-07-25 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2024-11-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-241.
+- 2024-11-12 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-241.
+- 2024-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.
