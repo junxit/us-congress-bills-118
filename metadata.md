@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8790
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8790
@@ -42,11 +42,12 @@ Fix Our Forests Act
 - Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 
-## Committees (3)
+## Committees (4)
 
 - House — Science, Space, and Technology Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -166,3 +167,4 @@ Fix Our Forests Act
 - 2024-09-24 — The Speaker designated the Honorable Scott Fitzgerald to act as Chairman of the Committee.
 - 2024-09-24 — The previous question was ordered pursuant to the rule.
 - 2024-09-24 — Valadao amendment (A003) modified by unanimous consent. Pursuant to H.Res. 1486, amendment numbered 3 printed in Part D of House Report 118-705 was modified to add at the end of Title III the following: Sec. 307 Container Aerial Firefighting System (CAFFS).
+- 2024-11-12 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
