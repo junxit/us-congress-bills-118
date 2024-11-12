@@ -1,7 +1,7 @@
 ---
 measure: S. 2581
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 20 executed, 1 stated and not applied.
+13 amendatory instructions. 13 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,69 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 16 U.S.C. § 7111
-
-> Section 101 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7111) is amended, in subsections (a) and (b), by striking “2023” each place it appears and inserting “2026”.
-
-| | |
-|---|---|
-| Removed | `2023` |
-| Inserted | `2026` |
-
-### 16 U.S.C. § 7113
-
-> Section 103(d)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7113(d)(2)) is amended by striking “2023” and inserting “2026”.
-
-| | |
-|---|---|
-| Removed | `2023` |
-| Inserted | `2026` |
-
-### 16 U.S.C. § 7125
-
-> Section 205(a)(4) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(a)(4)) is amended by striking “December 20, 2023” each place it appears and inserting “December 20, 2026”.
-
-| | |
-|---|---|
-| Removed | `December 20, 2023` |
-| Inserted | `December 20, 2026` |
-
-### 16 U.S.C. § 7128
-
-> in subsection (a), by striking “2025” and inserting “2028”; and
-
-| | |
-|---|---|
-| Removed | `2025` |
-| Inserted | `2028` |
-
-### 16 U.S.C. § 7128
-
-> in subsection (b), by striking “2026” and inserting “2029”.
-
-| | |
-|---|---|
-| Removed | `2026` |
-| Inserted | `2029` |
-
-### 16 U.S.C. § 7144
-
-> in subsection (a), by striking “2025” and inserting “2028”; and
-
-| | |
-|---|---|
-| Removed | `2025` |
-| Inserted | `2028` |
-
-### 16 U.S.C. § 7144
-
-> in subsection (b), by striking “2026” and inserting “2029”.
-
-| | |
-|---|---|
-| Removed | `2026` |
-| Inserted | `2029` |
 
 ### 16 U.S.C. § 7111
 
@@ -203,14 +140,3 @@ to guess them.
 |---|---|
 | Removed | `concerned,` |
 | Inserted | `concerned` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `16 U.S.C. § 7125` | replace | Section 205 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125) is amended by striking subsection (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

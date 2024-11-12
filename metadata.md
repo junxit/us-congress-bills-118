@@ -1,7 +1,7 @@
 ---
 measure: S. 2581
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2581
@@ -16,7 +16,7 @@ Secure Rural Schools Reauthorization Act of 2023
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (25)
+## Cosponsors (32)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -43,6 +43,13 @@ Secure Rural Schools Reauthorization Act of 2023
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -57,3 +64,5 @@ Secure Rural Schools Reauthorization Act of 2023
 - 2024-04-08 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-163.
 - 2024-04-08 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-163.
 - 2024-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
+- 2024-11-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6531; text: CR S6531)
+- 2024-11-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

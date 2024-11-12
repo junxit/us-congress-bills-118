@@ -19,7 +19,7 @@ This Act may be cited as the “Secure Rural Schools Reauthorization Act of 2023
   - **(1)** *Secure payments* Section 101 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7111) is amended, in subsections (a) and (b), by striking “2023” each place it appears and inserting “2026”.
   - **(2)** *Distribution of payments to eligible counties* Section 103(d)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7113(d)(2)) is amended by striking “2023” and inserting “2026”.
 - **(b)** *Extension of authority To conduct special projects on Federal land*
-  - **(1)** *Existing advisory committees* Section 205(a)(4) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(a)(4)) is amended by striking “December 20, 2023” each place it appears and inserting “December 20, 2026”.
+  - **(1)** *Committee composition waiver authority* Section 205(d)(6)(C) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(d)(6)(C)) is amended by striking “2023” and inserting “2026”.
   - **(2)** *Extension of authority* Section 208 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7128) is amended—
     - **(A)** in subsection (a), by striking “2025” and inserting “2028”; and
     - **(B)** in subsection (b), by striking “2026” and inserting “2029”.
@@ -29,10 +29,16 @@ This Act may be cited as the “Secure Rural Schools Reauthorization Act of 2023
 
 ## § 3. Resource advisory committee pilot program extension
 
-Section 205 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125) is amended by striking subsection (g) and inserting the following:
+Section 205(g) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125(g)) is amended—
 
-> - **(g)** *Pilot program for resource advisory committee appointments by regional foresters*
->   - **(1)** *In general* The Secretary concerned shall establish and carry out a pilot program under which the Secretary concerned shall allow the regional forester with jurisdiction over a unit of Federal land to appoint members of the resource advisory committee for that unit, in accordance with the applicable requirements of this section.
->   - **(2)** *Responsibilities of regional forester* Before appointing a member of a resource advisory committee under the pilot program under this subsection, a regional forester shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
->   - **(3)** *Savings clause* Nothing in this subsection relieves a regional forester or the Secretary concerned from an obligation to comply with any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
->   - **(4)** *Termination of effectiveness* The authority provided under this subsection terminates on October 1, 2028.
+- **(1)** in paragraph (5), by striking “2023” and inserting “2026”; and
+- **(2)** in paragraph (6), in the matter preceding subparagraph (A), by striking “the date described in paragraph (5)” and inserting “October 1, 2023”.
+
+## § 4. Technical corrections
+
+- **(a)** *Resource advisory committees* Section 205 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7125) is amended—
+  - **(1)** in subsection (c)—
+    - **(A)** in paragraph (1), by striking “concerned,” and inserting “concerned”; and
+    - **(B)** in paragraph (3), by striking “the date of the enactment of this Act” and inserting “October 3, 2008”; and
+  - **(2)** in subsection (d)(4), by striking “to extent” and inserting “to the extent”.
+- **(b)** *Use of project funds* Section 206(b)(2) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7126(b)(2)) is amended by striking “concerned,” and inserting “concerned”.
