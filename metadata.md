@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3254
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3254
@@ -48,3 +48,12 @@ First Responder Access to Innovative Technologies Act
 - 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-243.
 - 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-243.
 - 2024-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
+- 2024-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6934)
+- 2024-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-11 — Message on Senate action sent to the House.
+- 2024-12-17 — Presented to President.
+- 2024-12-17 — Presented to President.
+- 2024-12-23 — Became Public Law No: 118-165.
+- 2024-12-23 — Became Public Law No: 118-165.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
