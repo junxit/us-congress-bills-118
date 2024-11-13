@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9592
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9592
@@ -20,9 +20,10 @@ Federal Register Modernization Act of 2024
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Federal Register Modernization Act of 2024
 - 2024-11-12 — Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended.
 - 2024-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
