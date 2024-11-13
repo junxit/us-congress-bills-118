@@ -1,7 +1,7 @@
 ---
 measure: S. 5314
 congress: 118
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 5314
