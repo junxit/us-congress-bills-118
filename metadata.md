@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5799
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5799
@@ -63,3 +63,12 @@ James R. Dominguez Memorial Act of 2023
 - 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
+- 2024-11-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6733-6734)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-11-22 — Message on Senate action sent to the House.
+- 2024-12-05 — Presented to President.
+- 2024-12-05 — Presented to President.
+- 2024-12-11 — Became Public Law No: 118-141.
+- 2024-12-11 — Became Public Law No: 118-141.
+- 2024-12-11 — Signed by President.
+- 2024-12-11 — Signed by President.
