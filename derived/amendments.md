@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3254
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
