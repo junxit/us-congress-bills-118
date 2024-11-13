@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9597
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9597
@@ -22,9 +22,10 @@ Federal Acquisition Security Council Improvement Act of 2024
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Federal Acquisition Security Council Improvement Act of 2024
 - 2024-11-12 — Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended.
 - 2024-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5937-5939)
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5937-5939)
+- 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
