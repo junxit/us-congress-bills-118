@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5799
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5799
@@ -59,3 +59,7 @@ James R. Dominguez Memorial Act of 2023
 - 2024-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3386-3387)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3386-3387)
 - 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-11-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
