@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1316
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -9,20 +9,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend the Fair Credit Reporting Act to expand the definition of an active duty military consumer for purposes of certain credit monitoring requirements, and for other purposes.
 
-## § 1. Short title
+## § 1. Credit monitoring
 
-This Act may be cited as the “Servicemembers’ Credit Monitoring Enhancement Act”.
+The Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended—
 
-## § 2. Credit monitoring
-
-- **(a)** *In general* Section 605A(k) of the Fair Credit Reporting Act (15 U.S.C. 1681c–1(k)) is amended—
-  - **(1)** by amending paragraph (1) to read as follows:
+- **(1)** in section 605A(k) (15 U.S.C. 1681c–1(k))—
+  - **(A)** by striking paragraph (1) and inserting the following:
     > - **(1)** *Definitions* In this subsection:
-    >   - **(A)** *Uniformed services* The term uniformed services has the meaning given the term in section 101(a) of title 10, United States Code.
-    >   - **(B)** *Uniformed services member consumer* The term uniformed services member consumer means a consumer who, regardless of duty status, is—
-    >     - **(i)** a member of the uniformed services; or
-    >     - **(ii)** a spouse, or a dependent who is not less than 18 years old, of a member of the uniformed services.
+    >   - **(A)** *Armed forces* The term armed forces has the meaning given the term in section 101(a) of title 10, United States Code.
+    >   - **(B)** *Armed forces member consumer* The term armed forces member consumer means a consumer who, regardless of duty status, is a member of the armed forces.
 
-  - **(2)** in paragraph (2)(A), by striking “active duty military consumer” and inserting “uniformed services member consumer”.
-- **(b)** *Regulations* The Federal Trade Commission shall issue rules to carry out the amendments made by subsection (a).
-- **(c)** *Effective date* The amendments made by subsection (a) shall take effect on the date that is 1 year after the date on which the Federal Trade Commission issues the final rule under subsection (b).
+  - **(B)** in paragraph (2)(A), by striking “active duty military consumer” and inserting “armed forces member consumer”; and
+- **(2)** in section 625(b)(1)(K) (15 U.S.C. 1681t(b)(1)(K)), by striking “active duty military consumers” and inserting “armed forces member consumers”.
