@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5301
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5301
@@ -21,10 +21,11 @@ Eliminate Useless Reports Act of 2024
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Budget Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Eliminate Useless Reports Act of 2024
 - 2024-11-12 — Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended.
 - 2024-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5943-5944)
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5943-5944)
+- 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
