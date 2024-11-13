@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9596
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9596
@@ -23,10 +23,11 @@ Value Over Cost Act
 - Rep. Boebert, Lauren [R-CO-3] (B000825)
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Armed Services Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Value Over Cost Act
 - 2024-11-12 — Mr. Higgins (LA) moved to suspend the rules and pass the bill.
 - 2024-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
+- 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
