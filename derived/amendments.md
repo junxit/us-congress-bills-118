@@ -1,7 +1,7 @@
 ---
 measure: S. 3626
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,6 +34,14 @@ complete account of the bill's effect, which it is not.
 | — | strike | in the paragraph heading, by striking “acquired on an hourly rate”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “for services to be acquired on an hourly rate basis” and inserting “for the same or similar services (including construction) to be acquired”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “based on hourly rates”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “No task or delivery order contract” and inserting “Except as provided under subparagraph (B), no task or delivery order contract”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | in the paragraph heading, by striking “acquired on an hourly rate”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “for services to be acquired on an hourly rate basis” and inserting “for the same or similar services (including construction) to be acquired”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “based on hourly rates”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “No task or delivery order contract” and inserting “Except as provided under subparagraph (B), no task or delivery order contract”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
