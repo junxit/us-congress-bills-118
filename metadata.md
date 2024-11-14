@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8413
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8413
@@ -16,11 +16,13 @@ Swanson and Hugh Butler Reservoirs Land Conveyances Act
 
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Rep. Flood, Mike [R-NE-1] (F000474)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Boebert, Lauren [R-CO-3] (B000825)
 
 ## Committees (1)
 
@@ -31,3 +33,11 @@ Swanson and Hugh Butler Reservoirs Land Conveyances Act
 - 2024-05-15 — Introduced in House
 - 2024-05-15 — Introduced in House
 - 2024-05-15 — Referred to the House Committee on Natural Resources.
+- 2024-09-09 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2024-09-10 — Subcommittee Hearings Held
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported by Unanimous Consent.
+- 2024-09-19 — Subcommittee on Water, Wildlife, and Fisheries Discharged
+- 2024-11-14 — Placed on the Union Calendar, Calendar No. 620.
+- 2024-11-14 — Reported by the Committee on Natural Resources. H. Rept. 118-735.
+- 2024-11-14 — Reported by the Committee on Natural Resources. H. Rept. 118-735.
