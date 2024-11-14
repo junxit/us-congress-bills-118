@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6843
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6843
@@ -32,3 +32,11 @@ To expand the boundaries of the Atchafalaya National Heritage Area to include La
 - 2023-12-15 — Introduced in House
 - 2023-12-15 — Introduced in House
 - 2023-12-15 — Referred to the House Committee on Natural Resources.
+- 2024-06-24 — Referred to the Subcommittee on Federal Lands.
+- 2024-06-27 — Subcommittee Hearings Held
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported by Unanimous Consent.
+- 2024-09-19 — Subcommittee on Federal Lands Discharged
+- 2024-11-14 — Placed on the Union Calendar, Calendar No. 621.
+- 2024-11-14 — Reported by the Committee on Natural Resources. H. Rept. 118-736.
+- 2024-11-14 — Reported by the Committee on Natural Resources. H. Rept. 118-736.
