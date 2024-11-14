@@ -1,7 +1,7 @@
 ---
 measure: S. 4716
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4716
@@ -35,3 +35,17 @@ Financial Management Risk Reduction Act
 - 2024-11-14 — Message on Senate action sent to the House.
 - 2024-11-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6587; text: CR S6587)
 - 2024-11-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-11-15 — Held at the desk.
+- 2024-11-15 — Received in the House.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7211-7212)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 4716.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Burlison moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7211)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7211)
+- 2024-12-23 — Became Public Law No: 118-207.
+- 2024-12-23 — Became Public Law No: 118-207.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
