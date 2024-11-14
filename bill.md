@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 10125
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10125
+
+> To increase penalties for the commission of financial crimes using artificial intelligence.
+
+## § 1. Short title
+
+This Act may be cited as the “AI Fraud Deterrence Act”.
+
+## § 2. Financial crimes and artificial intelligence
+
+- **(a)** *Mail fraud* Section 1341 of title 18, United States Code, is amended—
+  - **(1)** by striking “$1,000,000” and inserting “$2,000,000”; and
+  - **(2)** by inserting after the period at the end the following: “If the violation is committed with the assistance of artificial intelligence, such person shall be fined not more than $1,000,000 or imprisoned not more than 20 years, or both.”.
+- **(b)** *Wire fraud* Section 1343 of title 18, United States Code, is amended—
+  - **(1)** by striking “$1,000,000” and inserting “$2,000,000”; and
+  - **(2)** by inserting after the period at the end the following: “If the violation is committed with the assistance of artificial intelligence, such person shall be fined not more than $1,000,000 or imprisoned not more than 20 years, or both.”.
+- **(c)** *Bank fraud* Section 1344 of title 18, United States Code, is amended—
+  - **(1)** by striking “Whoever knowingly” and inserting the following:
+    > - **(a)** *In general* Whoever knowingly
+
+  - **(2)** by adding at the end the following:
+    > - **(b)** *Artificial intelligence* Whoever commits subsection (a) with the assistance of artificial intelligence shall be fined not more than $2,000,000 or imprisoned not more than 30 years, or both.
+
+- **(d)** *Artificial intelligence defined*
+  - **(1)** *In general* Section 1346 of title 18, United States Code, is amended—
+    - **(A)** by amending the section heading to read as follows: “Definitions”;
+    - **(B)** by striking “chapter, the term” and inserting the following:
+      > chapter—
+      > - **(1)** the term
+
+    - **(C)** by striking the period at the end and inserting “; and”; and
+    - **(D)** by adding at the end the following:
+      > - **(2)** the term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020.
+
+  - **(2)** *Clerical amendment* The table of sections for chapter 63 of title 18, United States Code, is amended by striking the item relating to section 1346 and inserting the following:
+- **(e)** *Money laundering* Section 1956 of title 18, United States Code, is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in the continuation text following paragraph (1)(B)(ii), by inserting after “or both” the following: “, or, in the case that such violation is committed with the assistance of artificial intelligence, shall be fined not more than $1,000,000 or thrice the value of the monetary instrument or funds involved in the transaction, whichever is greater, or imprisoned for not more than 20 years, or both”;
+    - **(B)** in the continuation text following paragraph (2)(B)(ii), by inserting after “or both” the following: “, or, in the case that such violation is committed with the assistance of artificial intelligence, shall be fined not more than $1,000,000 or thrice the value of the monetary instrument or funds involved in the transportation, transmission, or transfer, whichever is greater, or imprisoned for not more than 20 years, or both”; and
+    - **(C)** in the continuation text following paragraph (3)(C), by inserting after “or both” the following: “, or, in the case that such violation is committed with the assistance of artificial intelligence, shall be fined under this title, or imprisoned for not more than 20 years, or both”; and
+  - **(2)** in subsection (c)—
+    - **(A)** in paragraph (8), by striking “and” at the end;
+    - **(B)** in paragraph (9), by striking the period and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(10)** the term “artificial intelligence” has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020.
