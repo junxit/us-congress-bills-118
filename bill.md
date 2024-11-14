@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5103
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,24 +13,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act” or the “FISHES Act”.
 
-## § 2. Approval or denial of spend plans
+## § 2. Spend plans
 
-- **(a)** *In general* Notwithstanding any other provision of law, in the case of a spend plan submitted to the Director by the Secretary for approval by the Director pursuant to section 312(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)), the Director shall approve or deny such spend plan not later than 30 days after the date on which the Secretary submits such spend plan to the Director for approval.
-- **(b)** *Denial of spend plan*
-  - **(1)** *In general* If the Director denies a spend plan under subsection (a) or paragraph (3) of this subsection, the Director shall, not later than 15 days after the date of such denial, return such denied spend plan to the Secretary with a description of the changes to such denied spend plan that are necessary for the Director to approve such denied spend plan.
-  - **(2)** *Resubmission of spend plan* Upon receipt of a denied spend plan under paragraph (1), the Secretary, in consultation with the relevant requester with an affirmative fishery resource disaster determination of the spend plan, shall make the necessary changes to such spend plan described by the Director under paragraph (1) and resubmit such spend plan to the Director for approval.
-  - **(3)** *Review of resubmitted spend plan* Not later than 15 days after the date of the receipt of a spend plan under paragraph (2), the Director shall approve or deny such spend plan.
-- **(c)** *Approval of spend plan* If the Director approves a spend plan under subsection (a) or subsection (b)(3), the Director shall—
-  - **(1)** make such approval publicly available on the website of the Office of Management and Budget; and
-  - **(2)** include in such approval—
-    - **(A)** the date on which communication regarding such spend plan was initiated between the Director and the Secretary;
-    - **(B)** if applicable—
-      - **(i)** the date of each denial of such spend plan under subsection (a) and subsection (b)(3); and
-      - **(ii)** the date of each resubmission of such spend plan under subsection (b)(2); and
-    - **(C)** the date on which the Director approved such spend plan.
-- **(d)** *Definitions* In this section:
-  - **(1)** *Affirmative fishery resource disaster determination* The term “affirmative fishery resource disaster determination” means a determination by the Secretary under section 312(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)) that a fishery resource disaster has occurred.
-  - **(2)** *Fishery resource disaster* The term “fishery resource disaster” has the meaning given the term in section 312(a)(1)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)(1)(C)).
-  - **(3)** *Director* The term “Director” means the Director of the Office of Management and Budget.
-  - **(4)** *Secretary* The term “Secretary” means the Secretary of Commerce.
-  - **(5)** *Spend plan* The term “spend plan” means a spend plan submitted to the Secretary under section 312(a)(6)(D) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)(6)(D)) by a requester with an affirmative fishery resource disaster determination.
+Section 312(a)(6) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a(a)(6)) is amended—
+
+- **(1)** in subparagraph (D), to read as follows:
+  > - **(D)** *Spend plans*
+  >   - **(i)** *In general* To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
+  >     - **(I)** Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
+  >     - **(II)** Statement of work.
+  >     - **(III)** Budget details.
+  >   - **(ii)** *Review*
+  >     - **(I)** *In general* The Secretary shall review a spend plan submitted under clause (i) to determine if it is complete and provide notice within 10 days.
+  >     - **(II)** *Incomplete spend plan* If the Secretary determines that a spend plan submitted under clause (i) is not complete, when providing the notice required by subclause (I), the Secretary shall provide a detailed description of the information that is necessary for the spend plan to be determined complete.
+
+- **(2)** in subparagraph (F)(i), to read as follows:
+  > - **(i)** *Availability*
+  >   - **(I)** *Timeline* Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+  >   - **(II)** *Review of completed spend plan and apportionment of funds* If so requested, the Director of the Office of Management and Budget may review a completed spend plan concurrently with the Secretary. The Director of the Office of Management and Budget may not delay the timeline described in subclause (I).
