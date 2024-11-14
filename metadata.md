@@ -1,7 +1,7 @@
 ---
 measure: S. 4716
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4716
@@ -32,3 +32,6 @@ Financial Management Risk Reduction Act
 - 2024-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-226.
 - 2024-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-226.
 - 2024-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 519.
+- 2024-11-14 — Message on Senate action sent to the House.
+- 2024-11-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6587; text: CR S6587)
+- 2024-11-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
