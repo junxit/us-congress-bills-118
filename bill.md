@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 10133
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10133
+
+> To amend title 5, United States Code, to require the reporting of periodic transaction reports not later than 15 days after receiving notification of the requirement to report a transaction but in no case later than 30 days after such transaction, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Timely Stock Disclosure Act”.
+
+## § 2. Periodic transaction reports
+
+- **(a)** *Periodic transaction reports*
+  - **(1)** *In general* Section 13105(l) of title 5, United States Code, is amended by—
+    - **(A)** striking “30 days” and inserting “15 days”; and
+    - **(B)** striking “45 days” and inserting “30 days”.
+  - **(2)** *Application* The amendments made by paragraph (1) shall begin to apply 90 days after the date of the enactment of this Act.
+- **(b)** *Technical correction* Such section is further amended, in the matter preceding paragraph (1), by striking “section 13104(a)(5)(B” and inserting “section 13104(a)(5)(B)”.
