@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 10163
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10163
+
+> To amend the McKinney-Vento Homeless Assistance Act with respect to the eligible activities under the Continuum of Care Program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Housing to Homes Act of 2024”.
+
+## § 2. Expansion of eligible activities under Continuum of Care Program; report
+
+- **(a)** *Amendments* The McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) is amended—
+  - **(1)** in section 401, by adding at the end the following:
+    > - **(36)** *Furniture bank* The term “furniture bank” means a registered charity, nonprofit organization, or social enterprise that provides household furnishings to individuals and families who are in need, including homeless individuals and families, at little to no cost to such individuals and families.
+
+  - **(2)** in section 423—
+    - **(A)** in subsection (a)—
+      - **(i)** by redesignating the second paragraph (13) (relating to projects in rural areas) as paragraph (14); and
+      - **(ii)** by adding at the end the following:
+        > - **(15)** Payment to a furniture bank for the costs of providing household furnishings, including delivery, installation, and assembly, for individuals and families who—
+        >   - **(A)** are currently homeless;
+        >   - **(B)** were homeless in the prior six months and are currently residing in permanent housing; or
+        >   - **(C)** were homeless and are currently residing in permanent supportive housing.
+
+    - **(B)** by adding at the end the following:
+      > - **(h)** *Ownership of household furnishings* With respect to subsection (a)(15), any household furnishings provided to an individual or family shall become the sole property of such individual or family.
+
+- **(b)** *Report*
+  - **(1)** *In general* Not later than 3 years after the date of the enactment of this section, the Secretary of Housing and Urban Development shall submit to the Congress a report on the impact of payments to furniture banks for the costs of delivery, installation, and assembly of household furnishings for homeless individuals and families, as described in section 423(a)(15) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11383(a)(15)).
+  - **(2)** *Definitions* In this subsection—
+    - **(A)** the term “furniture bank” has the meaning given such term in section 401 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360); and
+    - **(B)** the term “homeless” has the meaning given such term in section 103(a) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11302(a)).
+- **(c)** *Repeal* This Act and the amendments made by this Act, except for the amendment made by section 2(a)(2)(A)(i), are repealed on the date that is 5 years after the date of the enactment of this Act.
