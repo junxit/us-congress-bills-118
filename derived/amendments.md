@@ -1,7 +1,7 @@
 ---
 measure: S. 2181
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 2306(b)(2) of title 38, United States Code, is amended by striking “if such death occurs before October 1, 2024” both places it appears. | the bill names no machine-readable US Code section |
-| — | strike | Section 2402(a)(5) of title 38, United States Code, is amended by striking “if such death occurs before October 1, 2024”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2306(b)(2) of title 38, United States Code, is amended by striking “September 30, 2025” both places it appears and inserting “September 30, 2032”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2402(a)(5) of title 38, United States Code, is amended by striking “September 30, 2025” and inserting “September 30, 2032”. | the bill names no machine-readable US Code section |
