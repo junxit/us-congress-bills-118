@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5536
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -35,8 +35,13 @@ This Act may be cited as the “Grant Transparency Act of 2023”.
   - **(1)** a description of any rating system and evaluation and selection criteria the agency uses to assess applications for the competitive grant;
   - **(2)** a statement of whether the agency uses a weighted scoring method and a description of any weighted scoring method the agency uses for the competitive grant, including the amount by which the agency weights each criterion; and
   - **(3)** any other qualitative or quantitative merit-based approach the agency uses to evaluate an application for the competitive grant.
-- **(c)** *Rule of construction* With respect to a particular competitive grant, nothing in this Act shall be construed to supersede any requirement with respect to a notice of funding opportunity for the competitive grant in a law that authorizes the competitive grant.
-- **(d)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
-- **(e)** *Effective date*
+- **(c)** *Applications; data elements*
+  - **(1)** *In general* The Director of the Office of Management and Budget, in coordination with the Executive department designated under section 6402(a)(1) of title 31, United States Code, shall develop data elements relating to grant applications to ensure common reporting by each agency with respect to applications received in response to each notice of funding opportunity of the agency.
+  - **(2)** *Contents* The data elements developed under paragraph (1) shall include—
+    - **(A)** the number of applications received; and
+    - **(B)** the city and State of each organization that submitted an application.
+- **(d)** *Rule of construction* With respect to a particular competitive grant, nothing in this Act shall be construed to supersede any requirement with respect to a notice of funding opportunity for the competitive grant in a law that authorizes the competitive grant.
+- **(e)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
+- **(f)** *Effective date*
   - **(1)** *In general* This Act shall take effect on the date that is 120 days after the date of enactment of this Act.
   - **(2)** *No retroactive effect* This Act shall not apply to a notice of funding opportunity issued before the date of enactment of this Act.
