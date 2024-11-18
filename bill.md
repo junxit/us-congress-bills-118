@@ -28,6 +28,10 @@ This Act may be cited as the “Veterinary Services to Improve Public Health in 
   - **(10)** as of 2024, the Indian Health Service does not employ or use public health veterinarians to combat zoonotic disease outbreaks or to generally advance public health preparedness for Native communities, Alaska Native villages, or Indian reservations, including by providing spay and neuter services and vaccinations for animals.
 - **(b)** *Sense of Congress* It is the sense of Congress that the Indian Health Service of the Department of Health and Human Services is uniquely suited to empower Indian Tribes and Tribal organizations to address zoonotic disease threats in the communities they serve by providing public health veterinary services through a One Health approach that recognizes the interconnection between people, animals, plants, and their shared environment.
 
+## § 2. Sense of Congress
+
+It is the sense of Congress that the Indian Health Service of the Department of Health and Human Services is uniquely suited to empower Indian Tribes and Tribal organizations to address zoonotic disease threats in the communities they serve by providing public health veterinary services through a One Health approach that recognizes the interconnection between people, animals, plants, and their shared environment.
+
 ## § 3. Public health veterinary services
 
 Title II of the Indian Health Care Improvement Act is amended by inserting after section 223 (25 U.S.C. 1621v) the following:
@@ -51,7 +55,12 @@ Title II of the Indian Health Care Improvement Act is amended by inserting after
 > - **(d)** *Coordination* The Secretary, acting through the Service, shall carry out this section in coordination with—
 >   - **(1)** the Director of the Centers for Disease Control and Prevention; and
 >   - **(2)** the Secretary of Agriculture.
-> - **(e)** *Report* The Secretary shall submit to the Committee on Indian Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a biennial report on the use of funds, the assignment and deployment of veterinary public health officers from the Commissioned Corps of the Public Health Service, data related to the monitoring and disease surveillance of zoonotic diseases, and related services provided under this section.
+> - **(c)** *Public health officers; coordination* In providing public health veterinary services under subsection (b), the Secretary may—
+>   - **(1)** assign or deploy veterinary public health officers from the Commissioned Corps of the Public Health Service to Service areas; and
+>   - **(2)** coordinate and implement activities with—
+>     - **(A)** the Director of the Centers for Disease Control and Prevention; and
+>     - **(B)** the Secretary of Agriculture.
+> - **(e)(d)** *Report* The Secretary shall submit to the Committee on Indian Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a biennial report on the use of funds, the assignment and deployment of veterinary public health officers from the Commissioned Corps of the Public Health Service, data related to the monitoring and disease surveillance of zoonotic diseases, and related services provided under this section.
 
 ## § 4. APHIS wildlife services study on oral rabies vaccines in Arctic regions of the United States
 
