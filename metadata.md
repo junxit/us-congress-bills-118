@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8932
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8932
@@ -60,3 +60,4 @@ FAFSA Deadline Act
 - 2024-11-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 381 - 1 (Roll no. 465). (text of amendment in the nature of a substitute: CR H6017)
 - 2024-11-15 — Rule provides for consideration of H.R. 8932, H.R. 7409 and H.R. 8446. The resolution provides for consideration of H.R. 8932, H.R. 7409, and H.R. 8446 under a closed rule, and provides for one hour of debate and one motion to recommit on each bill.
 - 2024-11-15 — The previous question was ordered pursuant to the rule.
+- 2024-11-18 — Received in the Senate, read twice.
