@@ -1,7 +1,7 @@
 ---
 measure: S. 2181
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2181
@@ -16,13 +16,14 @@ Keeping Military Families Together Act of 2024
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Moran, Jerry [R-KS] (M000934)
 
 ## Committees (1)
 
@@ -46,3 +47,13 @@ Keeping Military Families Together Act of 2024
 - 2024-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6036)
 - 2024-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6036)
 - 2024-11-18 — The title of the measure was amended. Agreed to without objection.
+- 2024-11-19 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2024-12-21 — Resolving differences -- Senate actions: Senate agreed to the House amendment and amendment to the title to S. 2181 by Unanimous Consent.
+- 2024-12-21 — Senate agreed to the House amendment and amendment to the title to S. 2181 by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-26 — Presented to President.
+- 2024-12-26 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-271.
+- 2025-01-04 — Became Public Law No: 118-271.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
