@@ -1,7 +1,7 @@
 ---
 measure: S. 2783
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2783
@@ -28,3 +28,8 @@ Miccosukee Reserved Area Amendments Act
 
 - 2023-09-13 — Introduced in Senate
 - 2023-09-13 — Read twice and referred to the Committee on Indian Affairs.
+- 2024-07-10 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-530.
+- 2024-07-25 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-245.
+- 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-245.
+- 2024-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
