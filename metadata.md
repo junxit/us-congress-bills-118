@@ -1,7 +1,7 @@
 ---
 measure: S. 4713
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4713
@@ -34,3 +34,7 @@ IDEA Act
 
 - 2024-07-11 — Introduced in Senate
 - 2024-07-11 — Read twice and referred to the Committee on the Judiciary.
+- 2024-11-14 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2024-11-18 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2024-11-18 — Committee on the Judiciary. Reported by Senator Durbin without amendment. Without written report.
+- 2024-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
