@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8446
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8446
@@ -24,9 +24,10 @@ Critical Mineral Consistency Act of 2024
 - Rep. Lesko, Debbie [R-AZ-8] (L000589)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -64,3 +65,4 @@ Critical Mineral Consistency Act of 2024
 - 2024-11-14 — Rule provides for consideration of H.R. 8932, H.R. 7409 and H.R. 8446. The resolution provides for consideration of H.R. 8932, H.R. 7409, and H.R. 8446 under a closed rule, and provides for one hour of debate and one motion to recommit on each bill.
 - 2024-11-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-11-14 — The previous question was ordered pursuant to the rule.
+- 2024-11-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
