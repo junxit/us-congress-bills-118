@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8371
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-156 amendatory instructions. 7 executed, 149 stated and not applied.
+150 amendatory instructions. 7 executed, 143 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,13 +98,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating subsection (o) as subsection (p); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (n) the following new subsection (o): | the bill names no machine-readable US Code section |
-| — | insert | Section 1144(f)(1)(B)(i) of title 10, United States Code, is amended by inserting “, including how to enroll in the system of annual patient enrollment established and operated under section 1705 of title 38 and the ability to seek care … | the bill names no machine-readable US Code section |
 | — | insert | Section 6320(a)(2)(A) of title 38, United States Code, is amended by inserting “, including how to enroll in the system of annual patient enrollment established and operated under section 1705 of this title and the ability to seek care a… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (p) as subsection (q); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (p) the following new subsection (q): | the bill names no machine-readable US Code section |
 | — | replace | by striking “In establishing” and inserting “(A) In establishing”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | in paragraph (3), by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (3), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and the Centers for Medicare & Medicaid Services” and inserting “the Centers for Medicare & Medicaid Services, and the Indian Health Service”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and other nongovernmental entities” and inserting “and other non-governmental entities including Third Party Administrators”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (5) and inserting the following new paragraphs: | the bill names no machine-readable US Code section |
@@ -231,17 +230,12 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 5304` | insert | by inserting after section 6306 the following new section 6307: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | replace | The table of sections at the beginning of chapter 63 of such title is amended by striking the items relating to sections 6307 and 6308 and inserting the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Paragraph (3) of section 101 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| `38 U.S.C. § 5101` | insert | Section 504(c)(1) of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) is amended by inserting “only” before “a health care professional”. | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 5101` | add-at-end | Section 504 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), as amended by section 304, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 5101` | insert | Section 504(c)(1) of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) is amended by inserting “only” before “a health care professional”. | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 5101` | add-at-end | Section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), as amended by section 304, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in clause (i)(II)(aa)(BB), by striking “115 percent” and inserting “115 percent (or, during the period beginning on the date of the enactment of the the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subtitle VII of chapter 20 of title 38, United States Code is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 20 of title 38, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | in the matter preceding subparagraph (A), as redesignated by paragraph (1), by striking “Not later than 30 days” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “or dispute, and” and inserting “dispute, cure notice, letter of concern, or other official communication by the Department to a contractor concerning contract noncompliance or corrective action, the official response of the … | the bill names no machine-readable US Code section |
-| — | replace | by striking “or dispute (as” and inserting “dispute, cure notice, letter of concern, or other official communication concerning contract noncompliance and the official response of the contractor (as”. | the bill names no machine-readable US Code section |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 15, 2031” each place it appears and inserting “September 30, 2034”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “November 29, 2031” each place it appears and inserting “June 9, 2034”. | the bill names no machine-readable US Code section |
