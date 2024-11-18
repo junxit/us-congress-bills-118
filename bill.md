@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5658
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,11 +15,6 @@ This Act may be cited as the “Vote by Mail Tracking Act”.
 
 ## § 2. Mail-in ballots and Postal Service barcode service
 
-- **(a)** *In general* Section 3001 of title 39, United States Code, is amended by adding at the end the following:
-  > - **(p)** Any ballot sent within the United States for an election for Federal office is nonmailable and shall not be carried or delivered by mail unless the ballot is mailed in an envelope that—
-  >   - **(1)** contains a Postal Service barcode (or successive service or marking) that enables tracking of each individual ballot;
-  >   - **(2)** satisfies requirements for ballot envelope design that the Postal Service may promulgate by regulation;
-  >   - **(3)** satisfies requirements for machineable letters that the Postal Service may promulgate by regulation; and
-  >   - **(4)** includes the Official Election Mail Logo (or any successor label that the Postal Service may establish for ballots).
-
-- **(b)** *Application* The amendment made by subsection (a) shall apply to any election for Federal office occurring after the date of enactment of this Act.
+- **(a)** *In general* Title 39, United States Code, is amended by inserting after chapter 30 the following new chapter:
+- **(b)** *Clerical amendment* The table of chapters for part IV of title 39, United States Code, is amended by adding after the item relating to chapter 30 the following:
+- **(c)** *Application* The amendment made by subsection (a) shall apply to any election for Federal office occurring in 2026 and any succeeding year.
