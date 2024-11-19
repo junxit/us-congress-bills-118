@@ -1,7 +1,7 @@
 ---
 measure: H.R. 825
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 825
@@ -51,3 +51,4 @@ BOLIVAR Act
 - 2024-11-18 — Mr. Fry moved to suspend the rules and pass the bill, as amended.
 - 2024-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6034-6035)
 - 2024-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6034-6035)
+- 2024-11-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.
