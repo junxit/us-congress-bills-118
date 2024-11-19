@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5658
@@ -38,9 +38,10 @@ Vote by Mail Tracking Act
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Vote by Mail Tracking Act
 - 2024-11-18 — Mr. Fry moved to suspend the rules and pass the bill, as amended.
 - 2024-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 6 (Roll no. 467). (text: CR H6033)
 - 2024-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 6 (Roll no. 467). (text: CR H6033)
+- 2024-11-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
