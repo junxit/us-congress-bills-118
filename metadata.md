@@ -1,7 +1,7 @@
 ---
 measure: S. 4077
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4077
@@ -32,3 +32,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
 - 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
+- 2024-11-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6626; text: CR S6626)
+- 2024-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
