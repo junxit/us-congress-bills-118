@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, in 1951, Dan Evans was recalled to the United States Navy for the Korean War, where he served as an operations officer on a destroyer with the rank of lieutenant and later as an aide to Admiral William K. Mendenhall during peace negotiations at Panmunjon;
 - Whereas Dan Evans married the late Nancy Bell Evans of Spokane, Washington, in 1959 and is survived by three sons, Daniel Jr., Mark, and Bruce;
 - Whereas Dan Evans was first elected to the Washington State House of Representatives in 1956 and served as the Republican floor leader from 1961 to 1964;
-- Whereas Dan Evans was first elected Governor of the State of Washington in 1964 and became the first person in Washington State history to serve 3 terms as Governor, winning reelection in 1968 and 1972;
+- Whereas Dan Evans was first elected Governor of the State of Washington in 1964 and became the first person in Washington State history to serve 3 consecutive terms as Governor, winning reelection in 1968 and 1972;
 - Whereas Dan Evans served as Chair of the National Governors Association from 1973 to 1974;
 - Whereas Dan Evans served as the President of Evergreen State College in Olympia, Washington, from 1977 to 1983;
 - Whereas Dan Evans served as the first Chair of the Pacific Northwest Electric Power and Conservation Planning Council from 1981 to 1983;
