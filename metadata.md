@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7653
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7653
@@ -20,9 +20,10 @@ VERY Act of 2024
 
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ VERY Act of 2024
 - 2024-11-18 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-11-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6037)
 - 2024-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6037)
+- 2024-11-19 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
