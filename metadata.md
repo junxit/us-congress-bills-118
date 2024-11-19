@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 861
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 861
@@ -38,3 +38,7 @@ A resolution expressing support for the designation of September 2024 as "Sickle
 
 - 2024-09-25 — Introduced in Senate
 - 2024-09-25 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-11-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-11-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6638-6639; text: 9/25/2024 CR S6450-6451)
+- 2024-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
