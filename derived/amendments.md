@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3887
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 3 executed, 3 stated and not applied.
+10 amendatory instructions. 1 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,24 +33,6 @@ to guess them.
 | Removed | `2023` |
 | Inserted | `2028` |
 
-### 42 U.S.C. § 256e
-
-> in paragraph (1)(A)(vi), by striking “2023” and inserting “2028”; and
-
-| | |
-|---|---|
-| Removed | `2023` |
-| Inserted | `2028` |
-
-### 42 U.S.C. § 256e
-
-> in paragraph (2)(F), by striking “2023” and inserting “2028”; and
-
-| | |
-|---|---|
-| Removed | `2023` |
-| Inserted | `2028` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -62,4 +44,10 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 256e` | insert | in subsection (b)(3)(D), by inserting “and the end of fiscal year 2028,” after “fiscal year 2022,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 256e` | add-at-end | in subsection (e), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | strike | in clause (v), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 256e` | replace | in clause (vi), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256e` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 256e` | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 256e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 256e` | add-at-end | in subsection (g), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
