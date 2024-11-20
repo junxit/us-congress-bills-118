@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1449
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1449
@@ -16,9 +16,10 @@ CLEAN Act
 
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (4)
 
@@ -75,3 +76,4 @@ CLEAN Act
 - 2024-11-19 — The Speaker designated the Honorable Nick LaLota to act as Chairman of the Committee.
 - 2024-11-19 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-11-19 — The previous question was ordered pursuant to the rule.
+- 2024-11-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
