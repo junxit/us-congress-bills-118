@@ -1,0 +1,18 @@
+---
+legis-num: S. 5355
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5355
+
+> To ensure that the National Advisory Council on Indian Education includes at least 1 member who is the president of a Tribal College or University.
+
+## § 1. Short title
+
+This Act may be cited as the “National Advisory Council on Indian Education Improvement Act” or the “NACIE Improvement Act”.
+
+## § 2. National Advisory Council on Indian Education
+
+By not later than 180 days after the date of enactment of this Act and notwithstanding any other provision of section 6141 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7471), the President shall ensure that the National Advisory Council on Indian Education established under such section includes at least one member who is a president of a Tribal College or University (as defined in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).
