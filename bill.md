@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 554
 congress: 118th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 554
@@ -11,20 +11,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas national, ethnic, religious and linguistic minorities and indigenous peoples including Yezidis, Turkmen, Shabak, Sabaean-Mandeans, Kaka’i, and indigenous Christians (including Chaldean, Syriac, Assyrian, Armenian, and Melkite communities), among others, have been an integral part of the cultural fabric and history of Iraq and the broader Middle East for millennia;
-- Whereas these same religious and ethnic minorities communities have made invaluable contributions to the prosperity and well-being of Iraq, and to societies across the Middle East and the world, including in the United States;
-- Whereas the Islamic State of Iraq and Syria (“ISIS”) committed innumerable atrocities against these ethnic and religious minorities in Iraq, including murder, subjugation, forced conversion, kidnapping, human trafficking, forced emigration or expulsion, ethnic cleansing, torture, sexual enslavement, rape, and destruction of ancient artifacts and sites among other crimes;
+- Whereas national, ethnic, religious, and linguistic minorities and indigenous peoples, including Yezidis, Turkmen, Shabak, Sabaean-Mandeans, Kaka’i, and indigenous Christians (including Chaldean, Syriac, Assyrian, Armenian, and Melkite communities), among others, have been an integral part of the cultural fabric and history of Iraq and the broader Middle East;
+- Whereas these same religious and ethnic minorities have made and continue to make invaluable contributions to the prosperity and well-being of societies across the Middle East and the world, including in the United States;
+- Whereas, according to the 2017 Report on International Religious Freedom, the Islamic State of Iraq and Syria (“ISIS”) is responsible for carrying out a “campaign of violence against members of all faiths, in particular non-Sunnis”;
+- Whereas ethnic and religious minorities were subjected to innumerable atrocities by ISIS, including forced religious conversion, kidnapping, slavery, human trafficking, unlawful forced displacement, ethnic cleansing, torture, sexual violence, and sex trafficking, among other crimes;
 - Whereas the Secretary of State declared on March 17, 2016, and on August 15, 2017, that ISIS is responsible for genocide, crimes against humanity, and other atrocities against religious and ethnic minority groups in Iraq and Syria, including Shia Muslims, Christians, and Yezidis, among other religious and ethnic groups;
-- Whereas the Iraq and Syria Genocide Relief and Accountability Act of 2018 (Public Law 115–300) affirms that it is the policy of the United States to ensure that assistance for humanitarian, stabilization, and recovery needs of individuals who are or were nationals and residents of Iraq or Syria, and of communities in and from those countries, is directed toward those individuals and communities with the greatest need, including those individuals from communities of religious and ethnic minorities, and communities of religious and ethnic minorities, that the Secretary of State declared were targeted for genocide, crimes against humanity, or war crimes, and have been identified as being at risk of persecution, forced migration, genocide, crimes against humanity, or war crimes;
-- Whereas members of these religious and ethnic minority communities in Iraq continue to face daily insecurity, discrimination, and hardship;
-- Whereas internally displaced members of these religious and ethnic minority communities continue to face significant challenges to returning to their ancestral homelands, including in Mosul, Baaj, Sinjar, the Nineveh Plain, and other Yezidi places, due to security concerns, economic hardship, and shifting demographics;
-- Whereas the restoration and economic revitalization of these regions, as well as the repatriation of the Indigenous communities to their ancestral homes in a manner that provides an opportunity for diverse ethnic and religious communities to flourish, advances Iraq’s stability and the security interests of the international community; and
-- Whereas local self-determination and security protection for the communities of these regions, including Mosul, Baaj, Sinjar, and the Nineveh Plain, within the framework of the Federal Republic of Iraq would restore and preserve the fundamental human rights, including property rights, of the Indigenous peoples of these regions: Now, therefore, be it
+- Whereas the Iraq and Syria Genocide Relief and Accountability Act of 2018 (Public Law 115–300) affirms that it is the policy of the United States to ensure that assistance for religious and ethnic minorities is directed towards those most in need, including those that the Secretary of State declared were targeted for genocide, crimes against humanity, or war crimes, and have been identified as being at risk of persecution, forced migration, genocide, crimes against humanity, or war crimes;
+- Whereas members of these religious and ethnic minority communities continue to face daily insecurity, discrimination, and hardship;
+- Whereas religious and ethnic minorities continue to face significant challenges to returning to their ancestral homelands, including in Mosul, Baaj, Sinjar, the Nineveh Plain, and other Yezidi places, due to security concerns, economic hardship, and shifting demographics; and
+- Whereas the restoration and stabilization of these regions will provide an opportunity for diverse ethnic and religious communities to flourish: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** protects and upholds that the fundamental human right and dignity of the religious and ethnic minority communities of Iraq should be a policy priority of the United States and the international community;
-- **(2)** supports the restoration of security, stability, and economic opportunity of, as well as the safe, dignified, and voluntary return of the displaced Indigenous peoples to the territories of Mosul, Baaj, Sinjar, and the Nineveh Plain, and other ancestral homelands of minority religious and ethnic communities, and should be a policy priority of United States and the international community;
-- **(3)** supports the restoration of homes, schools, churches and other religious sites, and community buildings of religious and ethnic minority communities in these regions should receive a specific and enduring budget allocation by the Iraqi Government, as well as continued support from international aid donors;
-- **(4)** supports the effective representation in consultation with members of the Indigenous population, including internally displaced members of religious and ethnic minority communities is essential to restoring and upholding the rights of these communities, in line with article 125 of the Constitution of Iraq, which states that the Constitution “shall guarantee the administrative, political, cultural, and educational rights of the various nationalities, such as Turkmen, Chaldeans, Assyrians, and all other constituents, and this shall be regulated by law”; and
-- **(5)** supports greater regional integration for minority groups in Iraq and encourages the Secretary of State to promote opportunities for affected minority groups to achieve greater administrative autonomy within the federal structure of the Republic of Iraq.
+- **(1)** commits to protecting and upholding internationally recognized human rights of members of religious and ethnic minority communities;
+- **(2)** supports the restoration of security, stability, and economic opportunity of, as well as the safe, dignified, and voluntary return of, internally displaced persons, including those originally from the territories of Mosul, Baaj, Sinjar, and the Nineveh Plain;
+- **(3)** supports the restoration of religious and cultural heritage sites in Iraq, including, churches, and other religious sites, and community buildings of religious and ethnic minority communities in these regions; and
+- **(4)** supports equal and inclusive representation for religious and ethnic minority groups in Iraq in line with article 125 of the Constitution of Iraq and encourages the Secretary of State to promote opportunities for affected minority groups to further that objective.
