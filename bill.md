@@ -23,6 +23,14 @@ Section 2 of the Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a) is amend
   - **(C)** by adding at the end the following:
     > - **(ii)** is in the State of Alaska and held by an Alaska Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and
 
+- **(1)** in subsection (a), by striking paragraph (2) and inserting the following:
+  > - **(2)** *Indian forest land or rangeland* The term Indian forest land or rangeland means—
+  >   - **(A)** land that is held in trust by, or with a restriction against alienation by, the United States for an Indian tribe or a member of an Indian tribe, and—
+  >     - **(i)** is Indian forest land (as defined in section 304 of the National Indian Forest Resources Management Act (25 U.S.C. 3103));
+  >     - **(ii)** has a cover of grasses, brush, or any similar vegetation; or
+  >     - **(iii)** formerly had a forest cover or vegetative cover that is capable of restoration; and
+  >   - **(B)** land that is in the State of Alaska and held by an Alaska Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+
 - **(2)** in subsection (b)—
   - **(A)** in the subsection heading, by inserting “or restore” after “protect”;
   - **(B)** in paragraph (1), by striking “to protect Indian forest land or rangeland” and all that follows through “Indian forest land or rangeland)” and inserting “to protect or restore Indian forest land or rangeland, or to carry out a project to protect or restore Federal land”; and
