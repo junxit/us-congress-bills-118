@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3012
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 12 executed, 3 stated and not applied.
+14 amendatory instructions. 11 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,12 +80,12 @@ to guess them.
 
 ### 22 U.S.C. § 7833
 
-> in subsection (c)(1), by striking “2018 through 2022” and inserting “2023 through 2028”.
+> in subsection (c)(1), by striking “2018 through 2022” and inserting “2024 through 2028”.
 
 | | |
 |---|---|
 | Removed | `2018 through 2022` |
-| Inserted | `2023 through 2028` |
+| Inserted | `2024 through 2028` |
 
 ### 22 U.S.C. § 7845
 
@@ -116,16 +116,7 @@ to guess them.
 
 ### 22 U.S.C. § 7811
 
-> in the matter preceding clause (i), by striking “5 years” and inserting “10 years”;
-
-| | |
-|---|---|
-| Removed | `5 years` |
-| Inserted | `10 years` |
-
-### 22 U.S.C. § 7811
-
-> in clause (iii), as redesignated, by striking “pursuant to section 403” and inserting “to carry out this section”.
+> in clause (iii), as so redesignated, by striking “pursuant to section 403” and inserting “to carry out this section”.
 
 | | |
 |---|---|
@@ -142,5 +133,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `22 U.S.C. § 7811` | redesignate | by redesignating clauses (i) through (iii) as clauses (ii) through (iv), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7811` | insert | by inserting before clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7811` | redesignate | by inserting before clause (ii), as so redesignated the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | add-at-end | Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
