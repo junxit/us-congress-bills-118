@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6633
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6633
@@ -63,3 +63,7 @@ To designate the facility of the United States Postal Service located at 9355 11
 - 2024-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
 - 2024-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5571)
 - 2024-09-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. Without written report.
+- 2024-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 571.
