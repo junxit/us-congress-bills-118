@@ -16,7 +16,7 @@ This Act may be cited as the “Coordinator for Afghan Relocation Efforts Author
 ## § 2. Establishment of Coordinator
 
 - **(a)** *Establishment* The Secretary of State shall appoint a Coordinator for Afghan Relocation Efforts (“Coordinator”), who shall be responsible for—
-  - **(1)** relocating and resettling eligible Afghan allies and facilitating the departure of United States citizens and lawful permanent residents who request United States assistance to leave Afghanistan; and
+  - **(1)** relocating and resettling eligible Afghan allies and facilitating the departure of United States citizens and lawful permanent residents who request United States assistance to leave Afghanistan, except that the Coordinator shall prioritize the facilitation of such departures before the relocation or resettlement of allies; and
   - **(2)** working with other offices of the Department of State, as well as with appropriate counterparts at other Federal departments and agencies, to ensure integrated United States support for such relocation efforts.
 - **(b)** *Authorities* The Coordinator is authorized—
   - **(1)** to enter into personal services contracts for a period ending not later than the date described in section 3;
