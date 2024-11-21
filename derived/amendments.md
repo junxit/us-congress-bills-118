@@ -1,7 +1,7 @@
 ---
 measure: S. 4245
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 11 executed, 8 stated and not applied.
+38 amendatory instructions. 23 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -123,6 +123,114 @@ to guess them.
 | Removed | `2019` |
 | Inserted | `2028` |
 
+### 42 U.S.C. § 10367
+
+> in paragraph (1), by striking “national streamflow information program, as reviewed by the National Research Council in 2004” and inserting “Federal priority streamgage program”;
+
+| | |
+|---|---|
+| Removed | `national streamflow information program, as reviewed by the National Research Council in 2004` |
+| Inserted | `Federal priority streamgage program` |
+
+### 42 U.S.C. § 10367
+
+> in paragraph (2), by striking “national streamflow information program” each place it appears and inserting “Federal priority streamgage program”;
+
+| | |
+|---|---|
+| Removed | `national streamflow information program` |
+| Inserted | `Federal priority streamgage program` |
+
+### 42 U.S.C. § 10367
+
+> in the matter preceding clause (i), by striking “10 years” and inserting “25 years”;
+
+| | |
+|---|---|
+| Removed | `10 years` |
+| Inserted | `25 years` |
+
+### 42 U.S.C. § 10367
+
+> in clause (i), by striking “national streamflow information program” and inserting “Federal priority streamgage program”; and
+
+| | |
+|---|---|
+| Removed | `national streamflow information program` |
+| Inserted | `Federal priority streamgage program` |
+
+### 42 U.S.C. § 10367
+
+> in subparagraph (B), by striking “National Streamflow Information Program plan as reviewed by the National Research Council” and inserting “Federal needs established through regular solicitation of feedback, such as the feedback documented in the report entitled Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022 (Open-file Report 2023–1032)”;
+
+| | |
+|---|---|
+| Removed | `National Streamflow Information Program plan as reviewed by the National Research Council` |
+| Inserted | `Federal needs established through regular solicitation of feedback, such as the feedback documented in the report entitled Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022 (Open-file Report 2023–1032)` |
+
+### 42 U.S.C. § 10367
+
+> in paragraph (5), by striking “national streamgaging network” each place it appears and inserting “Federal priority streamgage network”; and
+
+| | |
+|---|---|
+| Removed | `national streamgaging network` |
+| Inserted | `Federal priority streamgage network` |
+
+### 42 U.S.C. § 10367
+
+> by striking “national streamflow information program” and inserting “Federal priority streamgage program”; and
+
+| | |
+|---|---|
+| Removed | `national streamflow information program` |
+| Inserted | `Federal priority streamgage program` |
+
+### 42 U.S.C. § 10367
+
+> by striking “2023” and inserting “2029”; and
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2029` |
+
+### 42 U.S.C. § 10367
+
+> in subparagraph (B), by striking “2019” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2019` |
+| Inserted | `2029` |
+
+### 42 U.S.C. § 10367
+
+> in subparagraph (B), in the matter preceding clause (i), by striking “and State and local water resource agencies” and inserting “, State and local water resource agencies, Indian Tribes, Tribal organizations, and Native Hawaiian organizations”; and
+
+| | |
+|---|---|
+| Removed | `and State and local water resource agencies` |
+| Inserted | `, State and local water resource agencies, Indian Tribes, Tribal organizations, and Native Hawaiian organizations` |
+
+### 42 U.S.C. § 10367
+
+> in paragraph (7), by striking “2023” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2023` |
+| Inserted | `2029` |
+
+### 42 U.S.C. § 10367
+
+> Section 9507 of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10367) is amended, in subsection (c)(4) (as redesignated by subsection (c)(2)), by striking “2019” and inserting “2029”.
+
+| | |
+|---|---|
+| Removed | `2019` |
+| Inserted | `2029` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -138,5 +246,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10367` | insert | by inserting “or on Tribal land” after “within a State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10367` | insert | by inserting “or Indian Tribe” after “water resource agency”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10367` | insert | in paragraph (6), by inserting “or an Indian Tribe” after “or local governmental entity”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10367` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10367` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10367` | replace | by striking the subsection heading and inserting “Federal priority streamgage program”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10367` | insert | in clause (ii), by inserting “precipitation” before “water-quality sensors”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10367` | insert | by inserting “or on Tribal land” after “within a State”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10367` | insert | by inserting “, Indian Tribe, Tribal organization, or Native Hawaiian organization” after “water resource agency”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 10367` | insert | in paragraph (6), by inserting “, Indian Tribe, Tribal organization, or Native Hawaiian organization” after “or local governmental entity”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 10367` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 10367` | redesignate | by redesignating subsection (d) as subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
