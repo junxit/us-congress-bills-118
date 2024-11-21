@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 894
 congress: 118
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S.Res. 894
@@ -20,11 +20,15 @@ A resolution designating December 1, 2024, as "Drive Safer Sunday".
 
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
 - 2024-11-14 — Introduced in Senate
 - 2024-11-14 — Referred to the Committee on Commerce, Science, and Transportation. (text: CR S6586-6587)
+- 2024-11-21 — Referred to the Committee on the Judiciary.
+- 2024-11-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-11-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
