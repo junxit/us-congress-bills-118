@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8234
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8234
@@ -22,9 +22,10 @@ To authorize the Secretary of State to designate additional persons eligible to 
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To authorize the Secretary of State to designate additional persons eligible to 
 - 2024-11-20 — Mr. Moylan moved to suspend the rules and pass the bill, as amended.
 - 2024-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6123)
 - 2024-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6123)
+- 2024-11-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
