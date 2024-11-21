@@ -52,7 +52,7 @@ This Act may be cited as the “Strengthening Child Exploitation Enforcement Act
         - **(III)** by inserting “, or attempts to do so,” after “other person’s permission”; and
         - **(IV)** by striking “two” and inserting “2”; and
       - **(iii)** in subsection (c), by striking “If the sexual contact that violates this section (other than subsection (a)(5)) is with an individual” and inserting “If the sexual contact or attempted sexual contact that a person engages in or causes in violation of this section (other than subsection (a)(1)(E)) is with or by an individual”; and
-  - **(3)** in section 2423(f)(1)—
+  - **(3)** in section 2423(g)(1)—
     - **(A)** by striking “a sexual act (as defined in section 2246) with” and inserting “any conduct involving”; and
     - **(B)** by striking “sexual act occurred” and inserting “conduct occurred”.
 - **(b)** *Effective date* The amendment to section 2241(c) of title 18, United States Code, made by subsection (a) shall apply to conduct that occurred before, on, or after the date of enactment of this Act.
