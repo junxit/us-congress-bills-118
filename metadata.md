@@ -1,7 +1,7 @@
 ---
 measure: S. 4974
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4974
@@ -16,10 +16,11 @@ A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreatio
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreatio
 
 - 2024-08-01 — Introduced in Senate
 - 2024-08-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.
