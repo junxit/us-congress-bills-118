@@ -1,7 +1,7 @@
 ---
 measure: S. 2132
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2132
@@ -24,3 +24,8 @@ Catastrophic Wildfire Prevention Act of 2024
 
 - 2023-06-22 — Introduced in Senate
 - 2023-06-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-10-25 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 118-311.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 583.
