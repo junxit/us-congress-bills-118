@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7213
@@ -85,9 +85,10 @@ Autism CARES Act of 2024
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2024-09-18 — [House 118-2-424](votes/house-118-2-0424.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–13)
+- 2024-12-16 — [House 118-2-502](votes/house-118-2-0502.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (374–15)
 
 ## Actions
 
@@ -121,3 +122,16 @@ Autism CARES Act of 2024
 - 2024-11-21 — Senate amendment agreed to: Amendment SA 3305 agreed to in Senate by Unanimous Consent.
 - 2024-11-21 — Senate amendment proposed (on the floor): Amendment SA 3305 proposed by Senator Helmy for Senator Lujan.
 - 2024-11-21 — Senate amendment submitted
+- 2024-11-22 — Message on Senate action sent to the House.
+- 2024-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of the debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 7213.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bucshon moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7161-7164, H7219-7220)
+- 2024-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 374 - 15 (Roll no. 502). (text: CR H7161-7162)
+- 2024-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 374 - 15 (Roll no. 502). (text: CR H7161-7162)
+- 2024-12-23 — Became Public Law No: 118-180.
+- 2024-12-23 — Became Public Law No: 118-180.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
