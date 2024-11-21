@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3448
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3448
@@ -98,3 +98,8 @@ American Battlefield Protection Program Enhancement Act of 2023
 - 2023-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5412-5413)
 - 2023-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5412-5413)
 - 2023-11-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-05-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 647.
