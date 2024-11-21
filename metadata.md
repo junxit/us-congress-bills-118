@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 865
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 865
@@ -28,3 +28,7 @@ A resolution expressing the support of the Senate for the designation of October
 
 - 2024-09-25 — Introduced in Senate
 - 2024-09-25 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2024-11-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2024-11-21 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6734; text: 9/25/2024 CR S6452)
+- 2024-11-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-11-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
