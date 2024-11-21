@@ -1,7 +1,7 @@
 ---
 measure: S. 2160
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2160
@@ -16,6 +16,11 @@ Urban Canal Modernization Act
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
+## Cosponsors (2)
+
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +29,8 @@ Urban Canal Modernization Act
 
 - 2023-06-22 — Introduced in Senate
 - 2023-06-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2023-07-19 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 118-287.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
