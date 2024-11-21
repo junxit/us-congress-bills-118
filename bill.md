@@ -39,6 +39,9 @@ Section 9402 of the Omnibus Public Land Management Act of 2009 (Public Law 111â€
 >       - **(i)** with a maturity suitable to the needs of the Fund, as determined by the Secretary; and
 >       - **(ii)** bearing interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
 >     - **(C)** *Credits to fund* The income on investments of the Fund under this paragraph shall be credited to, and form a part of, the Fund.
+>   - **(4)** *Investment of amounts*
+>     - **(A)** *In general* The Secretary of the Treasury may invest any portion of the Fund that is not, as determined by the Secretary, required to meet the current needs of the Fund.
+>     - **(B)** *Requirement* Investments under subparagraph (A) may be made only in interest-bearing obligations of the United States.
 >   - **(5)** *Transfers of amounts*
 >     - **(A)** *Transfer of previously contributed funds* The amounts required to be deposited in the Fund under paragraph (3)(A)(i) shall be transferred from the general fund of the Treasury to the Fund not later than 90 days after the date of enactment of this subsection.
 >     - **(B)** *Transfer of future contributed funds* As soon as practicable after the date on which amounts described in paragraph (3)(A)(ii) are contributed, those amounts shall be transferred to the Fund.
