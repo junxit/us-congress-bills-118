@@ -1,7 +1,7 @@
 ---
 measure: S. 4227
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4227
@@ -28,3 +28,8 @@ Joshua Tree National Park Expansion Act of 2024
 
 - 2024-05-01 — Introduced in Senate
 - 2024-05-01 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S3137-3138)
+- 2024-05-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.
