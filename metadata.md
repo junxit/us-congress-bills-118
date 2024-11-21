@@ -1,7 +1,7 @@
 ---
 measure: S. 3474
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3474
@@ -28,3 +28,8 @@ A bill to redesignate the Hulls Cove Visitor Center at Acadia National Park as t
 
 - 2023-12-12 — Introduced in Senate
 - 2023-12-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-05-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments and an amendment to the title. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with amendments and an amendment to the title. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 599.
