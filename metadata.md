@@ -1,7 +1,7 @@
 ---
 measure: S. 5125
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5125
@@ -29,3 +29,7 @@ Land Manager Housing and Workforce Improvement Act of 2024
 
 - 2024-09-19 — Introduced in Senate
 - 2024-09-19 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.
