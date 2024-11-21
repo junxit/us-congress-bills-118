@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4984
@@ -84,3 +84,8 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - 2024-02-28 — The title of the measure was amended. Agreed to without objection.
 - 2024-02-29 — Received in the Senate.
 - 2024-03-05 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-05-15 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
