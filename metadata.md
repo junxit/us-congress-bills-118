@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8368
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8368
@@ -42,9 +42,10 @@ Coordinator for Afghan Relocation Efforts Authorization Act of 2024
 - Rep. Jackson, Jeff [D-NC-14] (J000308)
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Coordinator for Afghan Relocation Efforts Authorization Act of 2024
 - 2024-11-20 — Mr. Moylan moved to suspend the rules and pass the bill, as amended.
 - 2024-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 334 - 63 (Roll no. 475). (text: CR H6125)
 - 2024-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 334 - 63 (Roll no. 475). (text: CR H6125)
+- 2024-11-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
