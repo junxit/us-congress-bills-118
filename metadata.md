@@ -1,7 +1,7 @@
 ---
 measure: S. 373
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 373
@@ -16,7 +16,7 @@ RISEE Act of 2023
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
-## Cosponsors (21)
+## Cosponsors (26)
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Kennedy, John [R-LA] (K000393)
@@ -39,6 +39,11 @@ RISEE Act of 2023
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Helmy, George S. [D-NJ] (H001097)
 
 ## Committees (1)
 
@@ -48,3 +53,7 @@ RISEE Act of 2023
 
 - 2023-02-09 — Introduced in Senate
 - 2023-02-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.
