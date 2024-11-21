@@ -1,7 +1,7 @@
 ---
 measure: S. 1153
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1153
@@ -34,3 +34,14 @@ National Manufacturing Advisory Council for the 21st Century Act
 - 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2023-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.
+- 2024-11-21 — 
+- 2024-11-21 — Amendment SA 3304 agreed to in Senate by Unanimous Consent.
+- 2024-11-21 — Amendment SA 3304 proposed by Senator Schumer for Senator Peters. (consideration: CR S6691-6692)
+- 2024-11-21 — Measure laid before Senate by unanimous consent. (consideration: CR S6692-6695)
+- 2024-11-21 — Message on Senate action sent to the House.
+- 2024-11-21 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6694-6695)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6694-6695)
+- 2024-11-21 — Senate amendment agreed to: Amendment SA 3304 agreed to in Senate by Unanimous Consent.
+- 2024-11-21 — Senate amendment proposed (on the floor): Amendment SA 3304 proposed by Senator Schumer for Senator Peters.
+- 2024-11-21 — Senate amendment submitted
+- 2024-11-21 — The committee substitute withdrawn by Unanimous Consent.
