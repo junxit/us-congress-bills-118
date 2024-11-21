@@ -1,7 +1,7 @@
 ---
 measure: S. 5136
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5136
@@ -30,3 +30,7 @@ Plum Island Preservation Study Act
 
 - 2024-09-23 — Introduced in Senate
 - 2024-09-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 645.
