@@ -1,7 +1,7 @@
 ---
 measure: S. 2868
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2868
@@ -33,3 +33,6 @@ A bill to accept the request to revoke the charter of incorporation of the Lower
 - 2024-09-09 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-212.
 - 2024-09-09 — Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 118-212.
 - 2024-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.
+- 2024-11-21 — Message on Senate action sent to the House.
+- 2024-11-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S6705-6707; text: CR S6707)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
