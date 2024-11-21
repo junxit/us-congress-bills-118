@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Lahaina National Heritage Area Act”.
+This Act may be cited as the “Lahaina National Heritage Area Study Act”.
 
 ## § 2. Definitions
 
@@ -23,4 +23,4 @@ In this Act:
 
 ## § 3. Lahaina National Heritage Area study
 
-The Secretary, in consultation with State and local historic preservation officers, State and local historical societies, State and local tourism offices, and other appropriate organizations and governmental agencies, shall carry out, in accordance with section 120103(a) of title 54, United States Code, a study to assess the suitability and feasibility of designating the study area as a National Heritage Area, to be known as the “Lahaina National Heritage Area”.
+The Secretary, in coordination with the County of Maui and in consultation with State and local historic preservation officers, State and local historical societies, State and local tourism offices, and other appropriate organizations and governmental agencies, shall carry out, in accordance with section 120103(a) of title 54, United States Code, a study to assess the suitability and feasibility of designating the study area as a National Heritage Area, to be known as the “Lahaina National Heritage Area”.
