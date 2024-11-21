@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6062
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6062
@@ -51,3 +51,12 @@ To restore the ability of the people of American Samoa to approve amendments to 
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7165)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-232.
+- 2025-01-04 — Became Public Law No: 118-232.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
