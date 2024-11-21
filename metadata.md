@@ -1,7 +1,7 @@
 ---
 measure: S. 5005
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5005
@@ -28,3 +28,8 @@ A bill to authorize additional funding for the San Joaquin River Restoration Set
 
 - 2024-09-10 — Introduced in Senate
 - 2024-09-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-09-11 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.
