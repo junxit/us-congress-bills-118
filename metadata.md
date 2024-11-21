@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4984
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4984
@@ -89,3 +89,12 @@ D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 648.
+- 2024-12-21 — Passed Senate without amendment by Voice Vote. (consideration: CR S7312-7313)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-06 — Became Public Law No: 118-274.
+- 2025-01-06 — Became Public Law No: 118-274.
+- 2025-01-06 — Signed by President.
+- 2025-01-06 — Signed by President.
