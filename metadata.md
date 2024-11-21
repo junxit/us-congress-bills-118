@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5443
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5443
@@ -57,3 +57,7 @@ AACE Act
 - 2024-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4469)
 - 2024-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4469)
 - 2024-07-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
