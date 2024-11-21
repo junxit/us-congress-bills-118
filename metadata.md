@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5443
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5443
@@ -61,3 +61,12 @@ AACE Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7145)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-230.
+- 2025-01-04 — Became Public Law No: 118-230.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
