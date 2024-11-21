@@ -1,7 +1,7 @@
 ---
 measure: S. 3790
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 43 U.S.C. § 1629g-1
+
+> Section 1119(b)(3)(B) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (43 U.S.C. 1629g–1(b)(3)(B)) is amended by striking “5-year period” and inserting “10-year period”.
+
+| | |
+|---|---|
+| Removed | `5-year period` |
+| Inserted | `10-year period` |
 
 ### 43 U.S.C. § 1629g-1
 
