@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3012
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3012
@@ -56,9 +56,10 @@ North Korean Human Rights Reauthorization Act of 2023
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ North Korean Human Rights Reauthorization Act of 2023
 - 2024-11-20 — Mr. Moylan moved to suspend the rules and pass the bill, as amended.
 - 2024-11-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 37 (Roll no. 474). (text: CR H6121-6122)
 - 2024-11-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 37 (Roll no. 474). (text: CR H6121-6122)
+- 2024-11-21 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
