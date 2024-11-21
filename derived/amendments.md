@@ -1,7 +1,7 @@
 ---
 measure: S. 2620
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,12 @@ to guess them.
 |---|---|
 | Removed | `to carry out this section $3,000,000` |
 | Inserted | `to carry out activities authorized under this section $6,000,000 for each fiscal year.` |
+
+### 54 U.S.C. § 320101
+
+> Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312) is amended by striking “is authorized” and all that follows through the period at the end and inserting “are authorized to be appropriated such sums as are necessary to carry out this section.”.
+
+| | |
+|---|---|
+| Removed | `is authorized` |
+| Inserted | `are authorized to be appropriated such sums as are necessary to carry out this section.` |
