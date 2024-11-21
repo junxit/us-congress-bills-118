@@ -2,12 +2,14 @@
 legis-num: H.R. 7213
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7213
 
-> To amend the Public Health Service Act to enhance and reauthorize activities and programs relating to autism spectrum disorder, and for other purposes.
+That the bill from the House of Representatives (H.R. 7213) entitled “An Act to amend the Public Health Service Act to enhance and reauthorize activities and programs relating to autism spectrum disorder, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -62,7 +64,7 @@ This Act may be cited as the “Autism Collaboration, Accountability, Research, 
     - **(A)** in the paragraph heading, by striking “tribe; tribal” and inserting “Tribe; Tribal”;
     - **(B)** by striking “tribe” and inserting “Tribe”; and
     - **(C)** by striking “tribal” and inserting “Tribal”; and
-  - **(4)** in subsection (e), by striking “2024” and inserting “2029”.
+  - **(4)** in subsection (e), by striking “December 20, 2024” and inserting “September 30, 2029”.
 - **(b)** *Autism education, early detection, and intervention* Section 399BB of the Public Health Service Act (42 U.S.C. 280i–1) is amended—
   - **(1)** in subsection (b)(1), by striking “culturally competent information” and inserting “culturally and linguistically appropriate information”;
   - **(2)** in subsection (b)(2)—
@@ -95,7 +97,7 @@ This Act may be cited as the “Autism Collaboration, Accountability, Research, 
     >   - **(2)** develop guidelines for such evidence-based practices and interventions; and
     >   - **(3)** disseminate information related to such evidence-based practices and interventions and guidelines.
 
-  - **(12)** in subsection (g), by striking “2024” and inserting “2029”.
+  - **(12)** in subsection (g), by striking “December 20, 2024” and inserting “September 30, 2029”.
 - **(c)** *Interagency Autism Coordinating Committee* Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended—
   - **(1)** in subsection (b)—
     - **(A)** in the matter preceding paragraph (1), by inserting “, on a regular basis” after “shall”;
@@ -108,7 +110,7 @@ This Act may be cited as the “Autism Collaboration, Accountability, Research, 
       >   - **(A)** an annual update on the summary of advances described in paragraph (2); and
       >   - **(B)** a biennial update on the strategic plan described in paragraph (5), including progress made in achieving the goals outlined in such strategic plan and any specific measures taken pursuant to such strategic plan.
 
-  - **(2)** in subsection (f), by striking “2024” and inserting “2029”.
+  - **(2)** in subsection (f), by striking “December 20, 2024” and inserting “September 30, 2029”.
 - **(d)** *Reports to Congress* Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended—
   - **(1)** by striking “2019” each place it appears and inserting “2024”; and
   - **(2)** in subsection (a), by amending paragraph (1) to read as follows:

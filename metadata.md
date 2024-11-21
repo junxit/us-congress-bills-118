@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7213
@@ -16,7 +16,7 @@ Autism CARES Act of 2024
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (61)
+## Cosponsors (62)
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
@@ -79,6 +79,7 @@ Autism CARES Act of 2024
 - Rep. Williams, Brandon [R-NY-22] (W000828)
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Crow, Jason [D-CO-6] (C001121)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -111,3 +112,12 @@ Autism CARES Act of 2024
 - 2024-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 13 (Roll no. 424). (text: 09/17/2024 CR H5297-5298)
 - 2024-09-18 — The title of the measure was amended. Agreed to without objection.
 - 2024-09-19 — Received in the Senate, read twice.
+- 2024-11-21 — 
+- 2024-11-21 — Amendment SA 3305 agreed to in Senate by Unanimous Consent.
+- 2024-11-21 — Amendment SA 3305 proposed by Senator Helmy for Senator Lujan. (consideration: CR S6733)
+- 2024-11-21 — Measure laid before Senate by unanimous consent. (consideration: CR H6733)
+- 2024-11-21 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6731-6733)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2024-11-21 — Senate amendment agreed to: Amendment SA 3305 agreed to in Senate by Unanimous Consent.
+- 2024-11-21 — Senate amendment proposed (on the floor): Amendment SA 3305 proposed by Senator Helmy for Senator Lujan.
+- 2024-11-21 — Senate amendment submitted

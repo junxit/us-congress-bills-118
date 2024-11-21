@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7213
 congress: 118
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -107,12 +107,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i
 
-> in subsection (e), by striking “2024” and inserting “2029”.
+> in subsection (e), by striking “December 20, 2024” and inserting “September 30, 2029”.
 
 | | |
 |---|---|
-| Removed | `2024` |
-| Inserted | `2029` |
+| Removed | `December 20, 2024` |
+| Inserted | `September 30, 2029` |
 
 ### 42 U.S.C. § 280i-1
 
@@ -197,12 +197,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i-1
 
-> in subsection (g), by striking “2024” and inserting “2029”.
+> in subsection (g), by striking “December 20, 2024” and inserting “September 30, 2029”.
 
 | | |
 |---|---|
-| Removed | `2024` |
-| Inserted | `2029` |
+| Removed | `December 20, 2024` |
+| Inserted | `September 30, 2029` |
 
 ### 42 U.S.C. § 280i-2
 
@@ -215,12 +215,12 @@ to guess them.
 
 ### 42 U.S.C. § 280i-2
 
-> in subsection (f), by striking “2024” and inserting “2029”.
+> in subsection (f), by striking “December 20, 2024” and inserting “September 30, 2029”.
 
 | | |
 |---|---|
-| Removed | `2024` |
-| Inserted | `2029` |
+| Removed | `December 20, 2024` |
+| Inserted | `September 30, 2029` |
 
 ### 42 U.S.C. § 280i-3
 
