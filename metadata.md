@@ -1,7 +1,7 @@
 ---
 measure: S. 1322
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1322
@@ -33,3 +33,6 @@ Unlocking Native Lands and Opportunities for Commerce and Key Economic Developme
 - 2024-03-12 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-159.
 - 2024-03-12 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-159.
 - 2024-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
+- 2024-11-21 — Message on Senate action sent to the House.
+- 2024-11-21 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6705-6707; text: CR S6706-6707)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
