@@ -1,7 +1,7 @@
 ---
 measure: S. 3959
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3959
@@ -36,3 +36,6 @@ Transportation Security Screening Modernization Act of 2024
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.
+- 2024-11-21 — Message on Senate action sent to the House.
+- 2024-11-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6695-6696; text: CR S6695-6696)
+- 2024-11-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6695-6696; text: CR S6695-6696)
