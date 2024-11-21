@@ -1,7 +1,7 @@
 ---
 measure: S. 254
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 254
@@ -16,7 +16,7 @@ Ski Hill Resources for Economic Development Act of 2023
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -30,6 +30,8 @@ Ski Hill Resources for Economic Development Act of 2023
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -39,3 +41,7 @@ Ski Hill Resources for Economic Development Act of 2023
 
 - 2023-02-02 — Introduced in Senate
 - 2023-02-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-11-19 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
+- 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.
