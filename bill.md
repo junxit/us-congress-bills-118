@@ -38,7 +38,7 @@ In this Act:
     - **(iv)** was operational before 1969;
   - **(B)** a site of an institution identified by the Department of the Interior in appendices A and B of the report entitled “Federal Indian Boarding School Initiative Investigative Report” and dated May 2022 (or a successor report); or
   - **(C)** any other institution that implemented Indian Boarding School Policies, including an Indian day school.
-- **(5)** *Indian boarding school policies* The term Indian Boarding School Policies means Federal laws, policies, and practices purported to “assimilate” and “civilize” American Indians, Alaska Natives, and Native Hawaiians that included psychological, physical, sexual, and mental abuse, forced removal from home or community, and identity-altering practices intended to terminate Native languages, cultures, religions, social organizations, or connections to traditional land.
+- **(5)** *Indian boarding school policies* The term Indian Boarding School Policies means Federal laws, policies, and practices purported to “assimilate” and “civilize” Indians, Alaska Natives, and Native Hawaiians that included psychological, physical, sexual, and mental abuse, forced removal from home or community, and identity-altering practices intended to terminate Native languages, cultures, religions, social organizations, or connections to traditional land.
 - **(6)** *Indian tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(7)** *Native american* The term Native American means an individual who is—
   - **(A)** an Indian; or
@@ -49,7 +49,7 @@ In this Act:
   - **(A)** serves and represents the interests of Native Hawaiians;
   - **(B)** has as its primary and stated purpose the provision of services to Native Hawaiians;
   - **(C)** has Native Hawaiians serving in substantive and policymaking positions; and
-  - **(D)** is recognized for having expertise in Native Hawaiian affairs.
+  - **(D)** has expertise in Native Hawaiian affairs.
 - **(11)** *Office of hawaiian affairs* The term Office of Hawaiian Affairs has the meaning given the term in section 6207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517).
 - **(12)** *Survivors truth and healing subcommittee* The term Survivors Truth and Healing Subcommittee means the Survivors Truth and Healing Subcommittee established by section 121(a).
 - **(13)** *Trauma-informed care* The term trauma-informed care means holistic psychological and health care practices that include promoting culturally responsive practices, patient psychological, physical, and emotional safety, and environments of healing, trust, peer support, and recovery.
