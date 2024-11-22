@@ -19,32 +19,32 @@ This Act may be cited as the “Prove It Act of 2024”.
   - **(1)** in section 603(b)—
     - **(A)** in paragraph (5), by striking the period at the end and inserting “; and”; and
     - **(B)** by adding at the end the following:
-      > - **(6)** where feasible, any reasonably foreseeable potential indirect costs the proposed rule may impose on small entities, which shall include small entities that—
+      > - **(6)** where feasible, any reasonably foreseeable potential indirect costs the proposed rule may impose on small entities, including small entities that—
       >   - **(A)** purchase products or services from, sell products or services to, or otherwise conduct business with entities directly regulated by the rule;
       >   - **(B)** are directly regulated by other governmental entities as a result of the rule; or
       >   - **(C)** are not directly regulated by the agency as a result of the rule but are otherwise subject to other agency rules as a result of the rule.
 
-  - **(2)** in section 605(b), by striking “The agency” and inserting “Not later than 10 days after completing the certification described in this paragraph, the agency”; and
+  - **(2)** in section 605(b), by striking “The agency” and inserting “Not later than 10 days after completing the certification described in this subsection, the agency”; and
   - **(3)** by inserting after section 605 the following:
     > ## § 605A. Review procedures relating to initial regulatory flexibility analysis certifications
     >
-    > - **(a)** *Filing a petition To review agency certification of a proposed rule*
-    >   - **(1)** *In general* Any small entity, group of small entities, or organization representing the interests of small entities may petition the Chief Counsel for Advocacy of the Small Business Administration (in this section referred to as the Chief Counsel) to review a certification published under section 605(b) that a proposed rule will not, if promulgated, have a significant economic impact on a substantial number of small entities.
+    > - **(a)** *Filing a petition to review agency certification of a proposed rule*
+    >   - **(1)** *In general* Any small entity, group of small entities, or organization representing the interests of small entities may petition the Chief Counsel for Advocacy of the Small Business Administration (in this section referred to as the “Chief Counsel”) to review a certification published under section 605(b) that a proposed rule will not, if promulgated, have a significant economic impact on a substantial number of small entities.
     >   - **(2)** *Form* The Chief Counsel shall—
     >     - **(A)** determine the method, timing, and form of disseminating a petition described in paragraph (1); and
     >     - **(B)** display the information described in subparagraph (A) on the website of the Office of Advocacy of the Small Business Administration in a conspicuous manner.
-    >   - **(3)** *Contents* Each petition described in paragraph (1) with respect to a certification published under section 605(a) for a proposed rule shall clearly and concisely—
+    >   - **(3)** *Contents* Each petition described in paragraph (1) with respect to a certification published under section 605(b) for a proposed rule shall clearly and concisely—
     >     - **(A)** specify the name of the petitioner and a telephone number, a mailing address, and an email address that the Chief Counsel may use to communicate with the petitioner;
     >     - **(B)** if the petitioner is an organization, provide additional identifying information, as applicable, including the organizational or corporate status of the petitioner, the State of incorporation of the petitioner, the registered agent of the petitioner, the interest of the petitioner in representing small entities affected by the proposed rule and the certification at issue, and the name and authority of the individual who signed the petition on behalf of the organizational or corporate petitioner;
     >     - **(C)** present the specific problems or issues that the petitioner believes should be addressed or considered through a review of the certification, such as—
-    >       - **(i)** any specific circumstances in which the determination of the certification that the proposed rule will not, if promulgated, have a significant economic impact on a substantial number of small entities is incorrect, incomplete, or inadequate; and
+    >       - **(i)** any specific circumstances in which the determination of the certification that the proposed rule will not, if promulgated, have a significant economic impact on a substantial number of small entities is incorrect, incomplete, or inadequate; or
     >       - **(ii)** why the proposed rule would, if promulgated, have a significant economic impact on a substantial number of small entities;
     >     - **(D)** cite, enclose, or reference any relevant and non-protected or confidential technical, scientific, or other data or information supporting any assertion of the problems or issues with the certification;
     >     - **(E)** present a proposed solution to the problems or issues raised in the petition, including potential regulatory or compliance alternatives to the proposed rule;
     >     - **(F)** provide an analysis, discussion, or argument that explains how the proposed solution described in subparagraph (E) solves the problems or issues raised in the petition; and
     >     - **(G)** cite, enclose, or reference any other publicly available data or information supporting the proposed solution described in subparagraph (E).
     > - **(b)** *Consultation*
-    >   - **(1)** *In general* Any entity desiring to file a petition under subsection (a) may request a consultation with the Chief Counsel before or after filing the petition.
+    >   - **(1)** *In general* Any entity or organization desiring to file a petition under subsection (a) may request a consultation with the Chief Counsel before or after filing the petition.
     >   - **(2)** *Form* The Chief Counsel shall—
     >     - **(A)** determine the method, timing, and form of requesting a consultation with the Chief Counsel under paragraph (1); and
     >     - **(B)** display the information described in subparagraph (A) on the website of the Office of Advocacy of the Small Business Administration in a conspicuous manner.

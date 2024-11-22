@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7198
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 5 U.S.C. § 605
 
-> in section 605(b), by striking “The agency” and inserting “Not later than 10 days after completing the certification described in this paragraph, the agency”; and
+> in section 605(b), by striking “The agency” and inserting “Not later than 10 days after completing the certification described in this subsection, the agency”; and
 
 | | |
 |---|---|
 | Removed | `The agency` |
-| Inserted | `Not later than 10 days after completing the certification described in this paragraph, the agency` |
+| Inserted | `Not later than 10 days after completing the certification described in this subsection, the agency` |
 
 ## Stated, not applied
 
