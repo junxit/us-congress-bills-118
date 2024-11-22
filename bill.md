@@ -2,7 +2,7 @@
 legis-num: H.R. 7188
 congress: 118th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 7188

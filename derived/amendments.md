@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7188
 congress: 118
-version: Received in Senate
+version: Reported in House
 derived: true
 ---
 
