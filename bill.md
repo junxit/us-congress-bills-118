@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1500
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,40 +15,42 @@ This Act may be cited as the “Intelligent Transportation Integration Act”.
 
 ## § 2. Third-party data integration program
 
-- **(a)** *In general* Not later than 180 days after enactment of this Act, the Secretary of Transportation shall establish and implement a program (in this section referred to as the “program”) to leverage anonymized data from third-party entities to improve transportation management capabilities and efficiency on Federal-aid highways.
-- **(b)** *Purposes* In carrying out the program, the Secretary shall leverage anonymized data derived from third-party entities—
+- **(a)** *In general* Not later than 180 days after enactment of this Act, the Secretary of Transportation shall implement a program (in this section referred to as the “program”) to leverage anonymized data from third-party entities to improve transportation management capabilities and efficiency on Federal-aid highways.
+- **(b)** *Purposes* The Secretary shall enable the use of anonymized data derived from third-party entities—
   - **(1)** to inform infrastructure planning decisions relating to—
     - **(A)** reducing congestion;
     - **(B)** decreasing miles traveled;
     - **(C)** increasing safety;
-    - **(D)** improving freight efficiency; and
-    - **(E)** enhancing environmental conditions; and
-  - **(2)** to implement integrated traffic management systems that leverage real-time data to provide dynamic and efficient traffic flow management for the purposes of—
+    - **(D)** improving freight efficiency;
+    - **(E)** reducing wait times at freight facilities; and
+    - **(F)** enhancing environmental conditions;
+  - **(2)** to facilitate integrated traffic management systems that leverage real-time data to provide dynamic and efficient traffic flow management for the purposes of—
     - **(A)** adjusting traffic light cycle times to optimize traffic management and decrease congestion;
     - **(B)** expanding or contracting lane capacity to meet traffic demand;
     - **(C)** enhancing traveler notification of service conditions;
     - **(D)** prioritizing high-priority vehicles such as emergency response and law enforcement within the transportation system; and
     - **(E)** responding to severe weather events or conducting emergency evacuations; and
-  - **(3)** for any other purpose the Secretary determines is necessary to improve transportation management capabilities and efficiency on Federal-aid highways.
+  - **(3)** for any other purpose the Secretary determines is necessary to improve transportation management capabilities and efficiency on Federal-aid highways and other assets on the nation’s transportation system.
 - **(c)** *Partnership; consultation*
-  - **(1)** *In general* In carrying out the program, the Secretary is authorized to enter into agreements with public and private sector entities to accomplish the purposes described in subsection (b).
+  - **(1)** *In general* The Secretary is authorized to enter into agreements with public and private sector entities to accomplish the purposes described in subsection (b).
   - **(2)** *Requirements* Any agreement entered into under paragraph (1) between the Secretary and a data provider shall—
     - **(A)** be disclosed to the public; and
-    - **(B)** include provisions that require the use of data protections for user privacy.
+    - **(B)** include provisions that require the use of data protections for consumer privacy.
   - **(3)** *Consultation* In carrying out the program, the Secretary shall consult with at least 1 organization that supports the development of intelligent transportation systems in the public and private sectors.
-- **(d)** *Data privacy and accuracy* In carrying out the program, the Secretary shall ensure—
-  - **(1)** the protection of privacy for all sources of data utilized in the program by—
-    - **(A)** preventing reidentification of user data;
-    - **(B)** precluding the collection of biometric or automatic license plate reader data; and
-    - **(C)** preventing data utilized in the program from being used by any government entity for any purpose other than the purposes described in subsection (b); and
+- **(d)** *Data privacy and accuracy* In carrying out the program, the Secretary shall issue guidance on—
+  - **(1)** the protection of privacy for all consumers and sources of data utilized in the program by—
+    - **(A)** preventing reidentification of consumer data;
+    - **(B)** precluding the sources from providing the program with biometric, electronic logging device, or automatic license plate reader data; and
+    - **(C)** preventing data utilized in the program from being used by any government entity for any purpose other than the purposes described in subsection (b) (including for automated traffic enforcement, red light camera systems, and speed camera systems); and
   - **(2)** the accuracy of data utilized in the program by preventing—
     - **(A)** hacking, spoofing, and disruption of connected and automated transportation systems; and
-    - **(B)** the incorporation of inaccurate data, including data generated by artificial intelligence.
+    - **(B)** the incorporation of inaccurate data, including inaccurate data generated by artificial intelligence.
 - **(e)** *Program locations* In carrying out the program, the Secretary shall enter into agreements with public and private sector entities serving a variety of areas, including urban, suburban, rural, tribal, or any other appropriate settings.
-- **(f)** *Best practices* Not later than 3 years after date of enactment of this Act, the Secretary shall publicly make available best practices to leverage private user data to support improved transportation management capabilities and efficiency, including—
-  - **(1)** legal considerations when acquiring private user data for public purposes; and
-  - **(2)** protecting privacy and security of individual user data.
-- **(g)** *Report* The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate detailing—
+- **(f)** *Best practices* Not later than 3 years after date of enactment of this Act, the Secretary shall publicly make available best practices to leverage private consumer data to support improved transportation management capabilities and efficiency, including—
+  - **(1)** legal considerations when acquiring private consumer data for public purposes; and
+  - **(2)** protecting privacy and security of individual consumer data.
+- **(g)** *Effective implementation* The Secretary may take such actions as necessary to maximize the effective implementation of this Act, including consolidating requirements under this Act within other activities of the Department of Transportation.
+- **(h)** *Report* The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate detailing—
   - **(1)** a description of the activities carried out under the program;
   - **(2)** an evaluation of the effectiveness of the program in meeting the purposes described in subsection (b);
   - **(3)** policy recommendations to improve the implementation of anonymized data into planning decisions; and
