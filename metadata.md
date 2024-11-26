@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8689
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8689
@@ -16,6 +16,10 @@ Amtrak Executive Bonus Disclosure Act
 
 - Rep. Molinaro, Marcus J. [R-NY-19] (M001221)
 
+## Cosponsors (1)
+
+- Rep. Graves, Sam [R-MO-6] (G000546)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +29,10 @@ Amtrak Executive Bonus Disclosure Act
 - 2024-06-11 — Introduced in House
 - 2024-06-11 — Introduced in House
 - 2024-06-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2024-06-12 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2024-09-18 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged
+- 2024-11-26 — Placed on the Union Calendar, Calendar No. 645.
+- 2024-11-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-780.
+- 2024-11-26 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-780.

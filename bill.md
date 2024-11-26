@@ -13,22 +13,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Amtrak Executive Bonus Disclosure Act”.
 
-## § 2. Public disclosure of taxpayer-assisted executive compensation
+## § 2. Amtrak reports and audits
 
-- **(a)** *Briefing* Not later than 30 days before Amtrak awards performance-based bonus compensation to an Amtrak executive, Amtrak shall brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the proposed bonus and the criteria and metrics used to calculate such a bonus.
-- **(b)** *Public disclosure* Amtrak shall publish in the Federal Register—
-  - **(1)** notice of any bonus compensation awarded to an Amtrak executive not later than 30 days after awarding such bonus; and
-  - **(2)** an explanation of the criteria and metrics used to calculate such bonus.
-- **(c)** *Amtrak executive defined* In this section, the term “Amtrak executive” means a full-time employee of Amtrak in a management position, including the following positions:
-  - **(1)** Chief Executive Officer.
-  - **(2)** Executive Vice President and General Counsel and Corporate Secretary.
-  - **(3)** President.
-  - **(4)** Vice President, Government Affairs, and Corporate Communications.
-  - **(5)** Executive Vice President, Capital Delivery.
-  - **(6)** Executive Vice President, Strategy, Planning and Accessibility.
-  - **(7)** Executive Vice President and Chief Safety Officer.
-  - **(8)** Executive Vice President and Chief Human Resource Officer.
-  - **(9)** Executive Vice President, Service Delivery and Operations.
-  - **(10)** Executive Vice President and Chief Financial Officer.
-  - **(11)** Executive Vice President, Digital Technology and Innovation.
-  - **(12)** Any individual whose duties and responsibilities are substantially similar the personnel listed in paragraphs (1) through (11), or as defined in section 700.2(b) of title 49, Code of Federal Regulations.
+Section 24315(a) of title 49, United States Code, is amended—
+
+- **(1)** by inserting “, and make available to the public on the website of Amtrak,” after “submit to Congress”; and
+- **(2)** by striking paragraph (2) and inserting the following:
+  > - **(2)** provide the annual base pay and any bonus compensation paid to a member of the executive leadership team (including the chief executive officer, president, and officers) of Amtrak, including the criteria and metrics used to determine any such bonus compensation; and
