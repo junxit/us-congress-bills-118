@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5903
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,8 +9,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize the International Boundary and Water Commission to accept funds for activities relating to wastewater treatment and flood control works, and for other purposes.
 
-## § 1. International Boundary and Water Commission authority
+## § 1. International Boundary and Water Commission Authority
 
-- **(a)** *Authorization* The Commission is authorized to accept funds from a Federal or non-Federal entity, including through a grant or funding agreement, to study, design, construct, operate, and maintain wastewater treatment and flood control works and related structures, consistent with the functions of the Commission.
+- **(a)** *Authorization* The Commission is authorized to accept funds from a Federal or non-Federal entity, including through a grant or funding agreement, to study, design, construct, operate, or maintain wastewater treatment works, water conservation projects, or flood control works, and related structures, consistent with the functions of the Commission.
 - **(b)** *Deposit* Any funds accepted by the Commission under this section shall be deposited into the account in the Treasury of the United States entitled “International Boundary and Water Commission, United States and Mexico” and shall be available until expended to carry out the activities described in subsection (a).
-- **(c)** *Commission defined* In this section, the term Commission means the United States Section of the International Boundary and Water Commission, United States and Mexico.
+- **(c)** *Limit on reimbursement* The Commission may not provide credit towards the non-Federal share of the cost of a project, or reimbursement, to non-Federal entities for funds accepted under this section in an amount that exceeds a total of $5,000,000 in any fiscal year.
+- **(d)** *Report* Not later than the last day of each fiscal year, the Commission shall submit to the Committee on Foreign Relations of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the funds accepted under this section that includes a description of—
+  - **(1)** the activities carried out with such funds; and
+  - **(2)** costs associated with such activities.
+- **(e)** *Commission defined* In this section, the term “Commission” means the United States Section of the International Boundary and Water Commission, United States and Mexico.
