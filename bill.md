@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6140
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,4 +32,14 @@ This Act may be cited as the “Facilitating Access to Swiftly Transport Goods d
     - **(A)** determine when cargo is critical and needs to be expedited;
     - **(B)** identify such critical cargo at port and marine terminals; and
     - **(C)** expedite the movement and distribution of such cargo to end users.
-- **(f)** *Pilot program* In conducting the study under subsection (a), the Secretary may establish 1 or more voluntary pilot programs to test the effectiveness of methodologies, practices, and processes for expediting the movement of critical cargo through ports and marine terminals.
+
+## § 3. Pilot program
+
+- **(a)** *Voluntary pilot programs* In conducting the study required under section 2, the Secretary may establish 1 or more voluntary pilot programs to test the effectiveness of methodologies, practices, and processes for expediting the movement of critical cargo through ports and marine terminals.
+- **(b)** *Limitations* The Secretary may only establish a pilot program under subsection (a) if the Secretary determines that the pilot program does not—
+  - **(1)** allow for the purchase of any fully automated cargo handling equipment that is remotely operated or remotely monitored with or without the exercise of human intervention or control; or
+  - **(2)** result in a net loss of jobs within a port or port terminal.
+
+## § 4. Savings clause
+
+Nothing in this Act shall be construed to interfere with or supersede any port labor agreements.
