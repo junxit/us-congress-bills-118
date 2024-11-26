@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6241
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6241
@@ -29,3 +29,10 @@ FULL Act
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Introduced in House
 - 2023-11-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-11-08 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2023-11-15 — Committee Consideration and Mark-up Session Held
+- 2023-11-15 — Ordered to be Reported by Voice Vote.
+- 2023-11-15 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2024-11-26 — Placed on the Union Calendar, Calendar No. 643.
+- 2024-11-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-778.
+- 2024-11-26 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 118-778.
