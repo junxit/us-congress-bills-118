@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7233
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
