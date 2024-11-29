@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8339
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-63 amendatory instructions. 25 executed, 38 stated and not applied.
+62 amendatory instructions. 24 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -27,15 +27,6 @@ to guess them.
 ### 15 U.S.C. § 7211
 
 > in the title heading, by striking “Public Company Accounting Oversight Board” and inserting “Office of Public Accounting Oversight”;
-
-| | |
-|---|---|
-| Removed | `Public Company Accounting Oversight Board` |
-| Inserted | `Office of Public Accounting Oversight` |
-
-### 15 U.S.C. § 7211
-
-> by striking “Public Company Accounting Oversight Board” each place it appears and inserting “Office of Public Accounting Oversight”;
 
 | | |
 |---|---|
@@ -143,12 +134,12 @@ to guess them.
 
 ### 15 U.S.C. § 7213
 
-> in the heading, by striking “and independence standards” and inserting “standards, and”;
+> in the heading, by striking “and independence standards” and inserting “standards,”;
 
 | | |
 |---|---|
 | Removed | `and independence standards` |
-| Inserted | `standards, and` |
+| Inserted | `standards,` |
 
 ### 15 U.S.C. § 7213
 
@@ -242,12 +233,12 @@ to guess them.
 
 ### 15 U.S.C. § 7201
 
-> in the item relating to section 103, by striking “and independence standards” and inserting “standards, and”; and
+> in the item relating to section 103, by striking “and independence standards” and inserting “standards,”; and
 
 | | |
 |---|---|
 | Removed | `and independence standards` |
-| Inserted | `standards, and` |
+| Inserted | `standards,` |
 
 ## Stated, not applied
 
@@ -262,9 +253,9 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d), as amended by section 201, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77b` | insert | Section 2(b) of the Securities Act of 1933 (15 U.S.C. 77b(b)) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” before “will promote”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78w` | insert | Section 23(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” after “which would”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 80a-2` | insert | Section 2(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–2) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” before “will promote”. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 80b-2` | insert | Section 202(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” before “will promote”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78w` | insert | Section 23(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78w(a)(2)) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” after “which w… | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 80a-2` | insert | Section 2(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(c)) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” before “will promote”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 80b-2` | insert | Section 202(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(c)) is amended by inserting “, when considered individually or cumulatively with other rules or regulations or other proposed rules or regulations,” before “will prom… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7214` | repeal | Sections 104, 105, and 107 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214; 15 U.S.C. 7215; 15 U.S.C. 7217) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7211` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7211` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
