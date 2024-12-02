@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9495
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9495
@@ -62,3 +62,4 @@ Stop Terror-Financing and Tax Penalties on American Hostages Act
 - 2024-11-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 184 (Roll no. 477). (text of amendment in the nature of a substitute: CR H6159-6160)
 - 2024-11-21 — Rule provides for consideration of H.R. 1449 and H.R. 9495. The resolution provides for consideration of H.R. 1449 under a structured rule and H.R. 9495 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-11-21 — The previous question was ordered pursuant to the rule.
+- 2024-12-02 — Received in the Senate.
