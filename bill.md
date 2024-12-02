@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4467
-congress: 118th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4467
@@ -17,7 +17,7 @@ This Act may be cited as the “DHS Border Services Contracts Review Act”.
 
 - **(a)** *Report*
   - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Under Secretary for Management of the Department of Homeland Security, in consultation with appropriate officials of the Department, shall submit to the appropriate congressional committees a report regarding active contracts for covered services of the Department awarded on or before—
-    - **(A)** September 30, 2023, or
+    - **(A)** September 30, 2023; or
     - **(B)** the date of the enactment of this Act,
   - **(2)** *Elements* The report required under paragraph (1) shall include the following:
     - **(A)** The criteria used by the Department of Homeland Security to determine whether contractor personnel were necessary to assist the Department in carrying out its mission along the United States land border with Mexico.
