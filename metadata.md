@@ -1,7 +1,7 @@
 ---
 measure: S. 4305
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4305
@@ -34,3 +34,13 @@ DHS Better Ballistic Body Armor Act
 - 2024-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-214.
 - 2024-09-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-214.
 - 2024-09-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.
+- 2024-12-02 — 
+- 2024-12-02 — Amendment SA 3307 agreed to in Senate by Unanimous Consent.
+- 2024-12-02 — Amendment SA 3307 proposed by Senator Stabenow for Senator Peters. (consideration: CR S6759)
+- 2024-12-02 — Measure laid before Senate by unanimous consent. (consideration: CR S6758-6759)
+- 2024-12-02 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6759)
+- 2024-12-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-12-02 — Senate amendment agreed to: Amendment SA 3307 agreed to in Senate by Unanimous Consent.
+- 2024-12-02 — Senate amendment proposed (on the floor): Amendment SA 3307 proposed by Senator Stabenow for Senator Peters.
+- 2024-12-02 — Senate amendment submitted
+- 2024-12-02 — The committee substitute withdrawn by Unanimous Consent.
