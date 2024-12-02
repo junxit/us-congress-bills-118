@@ -1,7 +1,7 @@
 ---
 measure: S. 2220
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2220
@@ -30,3 +30,7 @@ PREVAIL Act
 
 - 2023-07-10 — Introduced in Senate
 - 2023-07-10 — Read twice and referred to the Committee on the Judiciary.
+- 2024-11-21 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-02 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2024-12-02 — Committee on the Judiciary. Reported by Senator Durbin with an amendment in the nature of a substitute. Without written report.
+- 2024-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 650.
