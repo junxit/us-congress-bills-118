@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5528
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5528
@@ -47,3 +47,7 @@ Safe and Smart Federal Purchasing Act
 - 2024-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 20). (text: CR H257-258)
 - 2024-01-29 — The title of the measure was amended. Agreed to without objection.
 - 2024-01-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-258.
+- 2024-12-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-258.
+- 2024-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 659.
