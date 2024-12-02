@@ -1,7 +1,7 @@
 ---
 measure: S. 59
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 59
@@ -30,3 +30,7 @@ Chance to Compete Act of 2024
 
 - 2023-01-24 — Introduced in Senate
 - 2023-01-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-250.
+- 2024-12-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-250.
+- 2024-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.
