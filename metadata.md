@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8337
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8337
@@ -16,6 +16,10 @@ Bank Resilience and Regulatory Improvement Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
+## Cosponsors (1)
+
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,8 @@ Bank Resilience and Regulatory Improvement Act
 - 2024-05-10 — Introduced in House
 - 2024-05-10 — Introduced in House
 - 2024-05-10 — Referred to the House Committee on Financial Services.
+- 2024-05-16 — Committee Consideration and Mark-up Session Held
+- 2024-05-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 22.
+- 2024-12-03 — Placed on the Union Calendar, Calendar No. 651.
+- 2024-12-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-788.
+- 2024-12-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-788.
