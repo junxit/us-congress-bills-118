@@ -459,7 +459,7 @@ The table of contents for this Act is as follows:
     - **(D)** Section 501 of division N of the Consolidated Appropriations Act, 2021 (15 U.S.C. 9058a) is amended—
       - **(i)** in subsection (b)(1)(A)(ii), by striking “subsection (a) of this Act” and inserting “subsection (a) of this section”;
       - **(ii)** in subsection (i)(4), by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5, United States Code.”; and
-      - **(ii)** in subsection (k)(3)(A)(i), by striking “has” and inserting “has—”.
+      - **(iii)** in subsection (k)(3)(A)(i), by striking “has” and inserting “has—”.
   - **(6)** *Title 22*
     - **(A)** Section 5(p)(4) of the Peace Corps Act (22 U.S.C. 2504(p)(4)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5, United States Code,”.
     - **(B)** Section 309A(h)(3) of the United States International Broadcasting Act of 1994 (22 U.S.C. 6208a(h)(3)) is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5, United States Code,”.
