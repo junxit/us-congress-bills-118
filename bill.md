@@ -27,8 +27,7 @@ The Congress finds the following:
 - **(8)** In 1969, Shirley Chisholm began her service in the 91st Congress, representing New York’s 12th Congressional District in the House of Representatives.
 - **(9)** During her service in the House of Representatives, Shirley Chisholm promoted the employment of women in Congress and was vocal in her support of civil rights, women's rights, and the poor, while fervently opposing the Vietnam War.
 - **(10)** In 1972, Shirley Chisholm was the first African American to seek the nomination of a major party for President of the United States.
-- **(11)** Shirley Chisholm was a co-founder of the National Organization for Women.
-- **(12)** A historic figure in American political history, Shirley Chisholm died at the age of 80 in Ormond Beach, Florida, on New Year’s Day 2005.
+- **(11)** A historic figure in American political history, Shirley Chisholm died at the age of 80 in Ormond Beach, Florida, on New Year’s Day 2005.
 
 ## § 3. Congressional gold medal
 
