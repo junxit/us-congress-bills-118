@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7177
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in the matter preceding paragraph (1), by striking “seven” and inserting “five”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “and Lauderdale” and inserting “Lauderdale, and Lawerence”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “and Lauderdale” and inserting “Lauderdale, and Lawrence”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “Lawrence,”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “Madison,” the following: “Marshall,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and Decatur”; | the bill names no machine-readable US Code section |

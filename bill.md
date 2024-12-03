@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Section 81(a) of title 28, United States Code, is amended—
 
 - **(1)** in the matter preceding paragraph (1), by striking “seven” and inserting “five”;
-- **(2)** in paragraph (1), by striking “and Lauderdale” and inserting “Lauderdale, and Lawerence”;
+- **(2)** in paragraph (1), by striking “and Lauderdale” and inserting “Lauderdale, and Lawrence”;
 - **(3)** in paragraph (2)—
   - **(A)** by striking “Lawrence,”;
   - **(B)** by inserting after “Madison,” the following: “Marshall,”; and
