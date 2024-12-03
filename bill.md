@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 7341
 congress: 118th CONGRESS
-session: 2d SESSION
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
