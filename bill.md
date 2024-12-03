@@ -13,99 +13,86 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Earned Wage Access Consumer Protection Act”.
 
-## § 2. Definitions
+## § 2. Earned wage access services
 
-In this Act:
+- **(a)** *Provision of earned wage access services*
+  - **(1)** *No-cost option required* If an earned wage access provider offers a consumer the option to receive earned wages in exchange for a fee, such earned wage access provider shall also offer such consumer the option to obtain the same amount of earned wages at no cost to the consumer.
+  - **(2)** *Required disclosures*
+    - **(A)** *Disclosures preceding agreement* Each earned wage access provider shall disclose the following before entering into an agreement with a consumer:
+      - **(i)** Any limits on the amount of earned wages a customer may request from such provider, including—
+        - **(I)** any limits on the amount of earned wages a consumer may request from the provider each day;
+        - **(II)** any limits on the amount of earned wages a consumer may request from the provider each pay period; and
+        - **(III)** any limits on the amount of earned wages a consumer may request from the provider that are based on a determination by the provider of the ratio between the amount of earned wages requested by the consumer and the total wages earned by the consumer, and how such determination is made.
+      - **(ii)** Any fees that such provider may apply, and the amount of such fees, including fees relating to expedited disbursement and subscriptions.
+      - **(iii)** A description of how the consumer may obtain earned wages without paying a fee.
+      - **(iv)** An overview of such provider’s use of voluntary payments that describes—
+        - **(I)** whether such provider will accept voluntary payments from the consumer and in what amounts; and
+        - **(II)** whether such provider will suggest the consumer provide voluntary payments and in what amounts.
+    - **(B)** *Disclosures preceding approval of request* Each earned wage access provider shall disclose the following after approving any request from a consumer for access to earned wages but before disbursing such earned wages to such consumer:
+      - **(i)** The account number such provider has assigned to the consumer, if applicable.
+      - **(ii)** The amount of earned wages that will be provided to the consumer by such provider.
+      - **(iii)** The total amount of any fees applied by such provider.
+      - **(iv)** A list of any voluntary payments the consumer has agreed to provide.
+      - **(v)** The amount that such provider intends to collect as repayment after disbursing the earned wages, the date on which such provider intends to collect such amount or a description of when such provider intends to collect such amount, and the manner in which such provider intends to collect such amount.
+    - **(C)** *Additional disclosures relating to voluntary payments* If an earned wage access provider solicits, charges, or receives a voluntary payment from a consumer, such provider—
+      - **(i)** shall clearly and conspicuously disclose to the consumer, before the provider commences the transaction to which the voluntary payment is related, that such voluntary payment—
+        - **(I)** is voluntary;
+        - **(II)** is not a requirement for receiving earned wage access services; and
+        - **(III)** will not impact the frequency with which such earned wages are disbursed to such consumer; and
+      - **(ii)** may not state that such voluntary payment will benefit any specific individual.
+    - **(D)** *Changes to terms* Each earned wage access provider shall notify each consumer with which such earned wage access provider has entered an agreement to offer earned wage access services of any material changes to the terms and conditions of service used by such provider not less than 30 days before such material changes take effect.
+    - **(E)** *Regulations* The Bureau shall, not less than 180 days after the date of the enactment of this section, issue rules that govern the form and manner in which the disclosures described in this section are provided to consumers.
+  - **(3)** *Cancellation of services* If an earned wage access provider makes earned wage access services available to a consumer on a recurring basis, such earned wage access provider—
+    - **(A)** shall allow such consumer to discontinue such services if such consumer provides reasonable notice to such earned wage access provider that such consumer desires to discontinue such services; and
+    - **(B)** may not impose any financial penalty on such consumer as a result of any discontinuation of services.
+  - **(4)** *Dispute process required* Each earned wage access provider shall develop and implement policies and procedures to respond to questions and complaints from consumers relating to—
+    - **(A)** unauthorized disbursement of earned wages;
+    - **(B)** disbursement of earned wages in an incorrect amount;
+    - **(C)** disbursed earned wages that were not received;
+    - **(D)** repayment of disbursed earned wages that is not received or was made in an incorrect amount; and
+    - **(E)** voluntary payments that were not authorized or were made in an incorrect amount.
+  - **(5)** *Compelling repayment of disbursed wages*
+    - **(A)** *In general* An earned wage access provider may not seek repayment of earned wages disbursed to a consumer by such provider by—
+      - **(i)** filing a civil suit;
+      - **(ii)** initiating arbitration proceedings;
+      - **(iii)** using the services of a debt collector (as such term is defined in section 803 of the Fair Debt Collection Practices Act); or
+      - **(iv)** selling the rights to the repayment of the disbursed earned wages to a third-party debt buyer.
+    - **(B)** *Exceptions* Subparagraph (A) shall not apply if an earned wage access provider is—
+      - **(i)** seeking repayment of earned wages disbursed to a consumer based on information provided by the consumer that the consumer knew was false; or
+      - **(ii)** pursuing the employer of the consumer to which such provider disbursed earned wages for breach of its contractual obligations to the provider.
+  - **(6)** *Reimbursement required* If an earned wage access provider seeks repayment of disbursed earned wages, payment of a fee, or a voluntary payment directly from a deposit account of a consumer, on an incorrect date or in an incorrect amount, and such attempt triggers an overdraft fee or non-sufficient funds fee from the financial institution of the consumer, the earned wage access provider shall reimburse such consumer for such fee.
+  - **(7)** *Additional limitations* An earned wage access provider may not—
+    - **(A)** share any fees, tips, gratuities, or other donations that were received from or charged to a consumer for earned wage access services with the employer of such consumer;
+    - **(B)** accept payment of fees or voluntary payments from a consumer though a credit card of the consumer, unless such credit card is provided to the consumer as a part of the earned wage access service; or
+    - **(C)** require a consumer to pay a late fee, deferral fee, interest, or any other penalty or charge as a result of a failure by the consumer to pay a fee, tip, gratuity, or other donation requested or applied by such provider.
+  - **(8)** *Disclosure to Employer* An earned wage access provider may disclose, to an employer with which such provider has a contract relating to earned wage access services, only such information about earned wage access services used by consumers who are employees of such employer as is necessary for such earned wage access provider to recover disbursed wages.
+  - **(9)** *Non-discrimination* It shall be unlawful for any earned wage access provider to discriminate against any consumer on the basis of race, color, religion, national origin, sex, pregnancy, marital status, or age when offering earned wage access services.
+- **(b)** *Rulemaking* The Bureau may issue such rules as the Bureau determines appropriate to carry out this section.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Bureau* The term “Bureau” means the Bureau of Consumer Financial Protection.
+  - **(2)** *Consumer* The term “consumer” means a natural person.
+  - **(3)** *Earned wages*
+    - **(A)** *In general* The term earned wages means salary, wages, compensation, or other income that a consumer or an employer has represented and that an earned wage access provider has reasonably determined have been earned or have accrued to the benefit of the consumer in exchange for the services provided by the consumer, but that have not yet been paid to the consumer by an employer.
+    - **(B)** *Services provided* Services provided by the consumer to the employer include any services provided—
+      - **(i)** on an hourly, project-based, piecework, or other basis; or
+      - **(ii)** when the consumer is acting as a contractor of the employer.
+  - **(4)** *Earned wage access services* The term earned wage access services means the delivery of earned wages to a consumer based on—
+    - **(A)** employment, income, or attendance data provided by the employer of such consumer or a payroll service vendor contracted by the employer of such consumer; or
+    - **(B)** representations made by the consumer and the reasonable determination of the earned proceeds of such consumer by an earned wage access provider.
+  - **(5)** *Earned Wage Access Provider*
+    - **(A)** *In general* The term earned wage access provider means a person who provides earned wage access services to consumers.
+    - **(B)** *Exclusions* The term earned wage access provider does not include—
+      - **(i)** a person who is not obligated to provide access to earned wages as part of an earned wage access service;
+      - **(ii)** an employer that offers a portion of salary, wages, or compensation earned by a consumer directly to such consumer prior to a normally scheduled pay date;
+      - **(iii)** a financial institution that permits a consumer to access amounts associated with an electronic fund transfer from the employer of the consumer for which the financial institution has received information but which has not yet settled; or
+      - **(iv)** a payroll service vendor that facilitates payments to a consumer of wages earned by such consumer.
+  - **(6)** *Payroll service vendor* The term payroll service vendor means a vendor contracted by an employer to facilitate payment of employee wages in accordance with Federal, State, and local law, including the Fair Labor Standards Act of 1938.
+  - **(7)** *Voluntary payment* The term voluntary payment means any payment voluntarily made by a consumer to an earned wage access provider when accessing earned wage services, including a tip, gratuity, or donation.
+- **(d)** *Rule of construction* Voluntary payments and any fees paid by a consumer to an earned wage access provider may not be construed to be a “finance charge” as such term is defined in the Truth in Lending Act.
 
-- **(1)** *Bureau* The term Bureau means the Bureau of Consumer Financial Protection.
-- **(2)** *Consumer* The term consumer means a natural person.
-- **(3)** *Consumer-directed wage access services* The term consumer-directed wage access services means offering or providing earned wage access services directly to consumers based on the consumer’s representations and the provider’s reasonable determination of the consumer’s earned but unpaid income.
-- **(4)** *Debt collector* The term debt collector has the meaning given that term under section 803 of the Fair Debt Collection Practices Act (15 U.S.C. 1692a).
-- **(5)** *Earned but unpaid income* The term earned but unpaid income means salary, wages, compensation, or other income that a consumer or an employer has represented, and that a provider has reasonably determined, have been earned or have accrued to the benefit of the consumer in exchange for the consumer’s provision of services to the employer or on behalf of the employer, including on an hourly, project-based, piecework, or other basis and including where the consumer is acting as an independent contractor of the employer, but have not, at the time of the payment of proceeds, been paid to the consumer by an employer.
-- **(6)** *Earned wage access services* The term earned wage access services means the business of providing consumer-directed wage access services or employer-integrated wage access services, or both at the request of an employee.
-- **(7)** *Employer*
-  - **(A)** *In general* The term employer means a person who—
-    - **(i)** employs a consumer; or
-    - **(ii)** any other person who is contractually obligated to pay a consumer earned but unpaid income in exchange for the consumer’s provision of services to the employer or on behalf of the employer, including on an hourly, project-based, piecework, or other basis and including where the consumer is acting as an independent contractor with respect to the employer.
-  - **(B)** *Exclusion* The term employer does not include—
-    - **(i)** a customer of an employer or any other person whose obligation to make a payment of salary, wages, compensation, or other income to a consumer is not based on the provision of services by that consumer for or on behalf of such person; or
-    - **(ii)** a third-party service provider contracted by the employer to distribute income to consumers, including on demand pay for earned but unpaid income requested by the consumer, on behalf of the employer at no fee to the consumer.
-- **(8)** *Employer-integrated wage access services* The term employer-integrated wage access services means the business of delivering to consumers access to earned but unpaid income that is based on employment, income, or attendance data obtained directly or indirectly from an employer.
-- **(9)** *Fee* The term fee means—
-  - **(A)** a fee imposed by a provider for delivery or expedited delivery of proceeds to a consumer;
-  - **(B)** a subscription or membership fee imposed by a provider for a bona fide group of services that include earned wage access services; and
-  - **(C)** does not include a voluntary tip, gratuity, or other donation paid by a consumer to a provider.
-- **(10)** *Outstanding proceeds* The term outstanding proceeds means a payment of proceeds to a consumer by a provider, which has not yet been repaid to that provider.
-- **(11)** *Proceeds* The term proceeds means a payment to a consumer by a provider, which is based on earned but unpaid income.
-- **(12)** *Provider* The term provider—
-  - **(A)** means a person who is in the business of providing earned wage access services to consumers; and
-  - **(B)** does not include—
-    - **(i)** a service provider (such as a payroll service provider) whose role may include verifying a consumer’s available earnings but that is not contractually obligated to fund proceeds delivered as part of an earned wage access service;
-    - **(ii)** an employer that offers a portion of salary, wages, or compensation directly to its employees or independent contractors prior to the normally scheduled pay date;
-    - **(iii)** a financial institution (as such term is defined in section 20 of title 18, United States Code) when it permits customers to access amounts associated with an electronic funds transaction for which the financial institution has received information but which has not yet settled; and
-    - **(iv)** a payroll service provider that facilitates payments to workers of earned, available wage balances in accordance with Federal, State, and local law, including the Fair Labor Standards Act of 1938.
+## § 3. Conforming amendments
 
-## § 3. Non-discrimination
+Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended—
 
-It shall be unlawful for any provider to discriminate against any consumer, with respect to any aspect of a transaction on the basis of race, color, religion, national origin, sex, pregnancy, marital status, or age (provided the consumer has the capacity to contract).
-
-## § 4. Requirements applicable to providers
-
-- **(a)** *Dispute policy* Each provider shall develop and implement policies and procedures to respond to consumer disputes and questions raised by consumers.
-- **(b)** *Non-Recourse payments*
-  - **(1)** *In general* A provider may not compel or attempt to compel repayment by a consumer of outstanding proceeds, fees, voluntary tips, gratuities, or other donations to that provider through—
-    - **(A)** a civil suit or arbitration proceeding against the consumer;
-    - **(B)** use of a third party to pursue collection of outstanding proceeds, fees, voluntary tips, gratuities, or other donations on the provider’s behalf; or
-    - **(C)** the sale of outstanding amounts to a third-party collector or debt buyer for collection from the consumer.
-  - **(2)** *Fraud exception* Paragraph (1) shall not apply to repayment of outstanding amounts obtained by a consumer through fraudulent means or preclude a provider from pursuing an employer for breach of its contractual obligations to the provider.
-- **(c)** *Disclosures to consumers* Each provider shall—
-  - **(1)** before entering into an agreement with a consumer for the provision of earned wage access services—
-    - **(A)** inform the consumer of his or her rights under the agreement; and
-    - **(B)** fully and clearly disclose all fees associated with the earned wage access services; and
-  - **(2)** inform a consumer of the fact of any material changes to the terms and conditions of the earned wage access services before implementing those changes for that consumer.
-- **(d)** *Form of proceeds* A provider shall provide proceeds to a consumer through a process mutually agreed upon between the consumer and provider.
-- **(e)** *Rules for accessing deposit accounts*
-  - **(1)** *In general* A provider that seeks repayment of outstanding proceeds, fees, voluntary tips, gratuities, or other donations from a consumer’s deposit account, including via electronic transfer, shall—
-    - **(A)** comply with applicable provisions of the Electronic Fund Transfer Act and its implementing regulations; and
-    - **(B)** reimburse the consumer for the full amount of any overdraft or non-sufficient funds fees imposed on a consumer by the consumer’s depository institution that were caused by the provider attempting to seek payment of any outstanding proceeds, fees, or other payments in connection with the activities covered by this Act, including voluntary tips, gratuities, or other donations, on a date before, or in an incorrect amount from, the date or amount disclosed to the consumer.
-  - **(2)** *Fraud exception* Paragraph (1) shall not apply to payments of outstanding proceeds, fees, or other amounts obtained by a consumer through fraudulent or other unlawful means.
-- **(f)** *Canceling participation in an earned wage access service* A provider that makes earned wage access services available to a consumer on a recurring basis shall allow that consumer to discontinue receiving future services upon reasonable notice without imposing a financial penalty on that consumer.
-- **(g)** *Limitations related to fees and other payments*
-  - **(1)** A provider may not—
-    - **(A)** share with an employer any proceeds fees, voluntary tips, gratuities, or other donations that were received from or charged to a consumer for earned wage access services;
-    - **(B)** accept payment of outstanding proceeds, fees, voluntary tips, gratuities, or other donations from a consumer via credit card or charge card, unless such credit card or charge card is provided to the consumer as a part of the earned wage access service; or
-    - **(C)** charge a late fee, deferral fee, interest, or any other penalty or charge for failure to pay outstanding proceeds, fees, voluntary tips, gratuities, or other donations.
-  - **(2)** A provider may, when contractually required, disclose to an employer the date of a transaction associated with earned wage access services.
-- **(h)** *Voluntary nature of tips, gratuities, and other donations* If a provider solicits, charges, or receives a tip, gratuity, or other donation from a consumer, the provider shall—
-  - **(1)** clearly and conspicuously disclose to the consumer immediately prior to each transaction that a tip, gratuity, or other donation amount may be zero and is voluntary;
-  - **(2)** clearly and conspicuously disclose in its agreement with the consumer that tips, gratuities, or donations are voluntary and that the offering of earned wage access services, including the amount of proceeds a consumer is eligible to request and the frequency with which proceeds are provided to a consumer, is not contingent on whether the consumer pays any tip, gratuity, or other donation or on the size of the tip, gratuity, or other donation;
-  - **(3)** refrain from misleading or deceiving consumers about the voluntary nature of such tips, gratuities, or other donations; and
-  - **(4)** refrain from representing that tips, gratuities, or other donations will benefit any specific individuals.
-- **(i)** *Consumer dispute defined* In this section, the term consumer dispute means an allegation by a consumer that—
-  - **(1)** a payment of proceeds was—
-    - **(A)** not authorized;
-    - **(B)** in the incorrect amount; or
-    - **(C)** not received;
-  - **(2)** a repayment of proceeds was—
-    - **(A)** in the incorrect amount; or
-    - **(B)** not received; or
-  - **(3)** a fee, tip, gratuity, or other donation was—
-    - **(A)** not authorized; or
-    - **(B)** in the incorrect amount.
-
-## § 5. Bureau authority to promulgate regulations applicable to providers
-
-- **(a)** *In general* The Director of the Bureau shall have authority to regulate the provision of earned wage access services by providers.
-- **(b)** *Definition of enumerated consumer laws* Section 1002(12) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481(12)) is amended—
-  - **(1)** in subparagraph (Q), by striking “and” at the end;
-  - **(2)** in subparagraph (R), by striking the period at the end and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(S)** the Earned Wage Access Consumer Protection Act.
-
-## § 6. Application of Truth in Lending Act
-
-Proceeds provided to a consumer in compliance with this Act shall not be considered consumer credit, for purposes of section 1602(f) of title 15, United States Code, and the provider of those proceeds shall not be considered a creditor for purposes of section 1602(g) of such title. Fees, tips, gratuities, and donations paid by a consumer to a provider shall not be considered finance charges for purposes of section 1605(a) of such title.
-
-## § 7. Rule of construction
-
-Nothing in this Act, or the amendments made by this Act, may be construed to supercede any other requirement on a financial institution or employer found in Federal law.
+- **(1)** in subsection (f), by striking “defer its payment” and inserting “defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act”; and
+- **(2)** in subsection (g), by adding at the end the following: “The term creditor does not include earned wage access providers as such term is defined in the Earned Wage Access Consumer Protection Act.”.
