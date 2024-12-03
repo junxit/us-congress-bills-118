@@ -1,7 +1,7 @@
 ---
 measure: S. 4243
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4243
@@ -107,3 +107,18 @@ Shirley Chisholm Congressional Gold Medal Act
 - 2024-12-03 — Senate amendment agreed to: Amendment SA 3308 agreed to in Senate by Unanimous Consent.
 - 2024-12-03 — Senate amendment proposed (on the floor): Amendment SA 3308 proposed by Senator Schumer for Senator Butler.
 - 2024-12-03 — Senate amendment submitted
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6345-6349)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on S. 4243.
+- 2024-12-04 — Held at the desk.
+- 2024-12-04 — Message on Senate action sent to the House.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. McHenry moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6345-6346)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6345-6346)
+- 2024-12-04 — Received in the House.
+- 2024-12-10 — Presented to President.
+- 2024-12-10 — Presented to President.
+- 2024-12-12 — Became Public Law No: 118-150.
+- 2024-12-12 — Became Public Law No: 118-150.
+- 2024-12-12 — Signed by President.
+- 2024-12-12 — Signed by President.
