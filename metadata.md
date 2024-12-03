@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6395
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6395
@@ -39,3 +39,9 @@ Recognizing the Importance of Critical Minerals in Healthcare Act of 2023
 - 2024-10-22 — Placed on the Union Calendar, Calendar No. 602.
 - 2024-10-22 — Reported by the Committee on Natural Resources. H. Rept. 118-710.
 - 2024-10-22 — Reported by the Committee on Natural Resources. H. Rept. 118-710.
+- 2024-12-03 — Considered under suspension of the rules. (consideration: CR H6267–6268)
+- 2024-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6395.
+- 2024-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-03 — Mr. Tiffany moved to suspend the rules and pass the bill.
+- 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6267)
+- 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6267)
