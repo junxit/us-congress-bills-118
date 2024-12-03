@@ -1,7 +1,7 @@
 ---
 measure: S. 3277
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3277
@@ -33,3 +33,5 @@ A bill to amend the Marine Debris Act to reauthorize the Marine Debris Program o
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
 - 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.
+- 2024-12-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6788; text: CR S6788)
+- 2024-12-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.

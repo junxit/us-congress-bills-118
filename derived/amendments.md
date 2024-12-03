@@ -1,7 +1,7 @@
 ---
 measure: S. 3277
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
