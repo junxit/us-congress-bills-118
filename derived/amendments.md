@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8666
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
