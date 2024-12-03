@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9151
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9151
@@ -58,3 +58,9 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - 2024-11-29 — Placed on the Union Calendar, Calendar No. 648.
 - 2024-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-784.
 - 2024-11-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 118-784.
+- 2024-12-03 — Considered under suspension of the rules. (consideration: CR H6216-6218)
+- 2024-12-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9151.
+- 2024-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-03 — Mr. Hunt moved to suspend the rules and pass the bill, as amended.
+- 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6216)
+- 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6216)
