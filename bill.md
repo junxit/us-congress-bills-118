@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 758
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,42 +13,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Promoting Access to Capital in Underbanked Communities Act of 2023”.
 
-## § 2. Findings
+## § 2. Phase-in of capital standards
 
-The Congress finds the following:
+The Federal banking agencies shall issue rules that provide for a 3-year phase-in period for a depository institution or depository institution holding company to meet any Federal capital requirements that would otherwise be applicable to the depository institution or depository institution holding company, beginning on—
 
-- **(1)** Trends in bank closures and consolidation have left many communities without access to banking services and disproportionately impact underserved rural and urban communities.
-- **(2)** De novo bank formation has slowed significantly following the financial crisis.
-- **(3)** A November 2019 report by the Federal Reserve System found that 44 counties in the U.S. were “deeply affected” by trends in bank closures and consolidation (i.e., had fewer than 10 branches in 2012 and lost at least 50 percent of them by 2017).
-- **(4)** 89 percent of the deeply affected counties were rural.
-- **(5)** Rural counties deeply affected by branch closures had higher poverty rates, lower median income, and a higher share of their population were African American compared to all rural communities.
+- **(1)** the date on which the depository institution became an insured depository institution; or
+- **(2)** in the case of a depository institution holding company, the date on which the depository institution subsidiary of the depository institution holding company became an insured depository institution.
 
-## § 3. Phase-in of capital standards
+## § 3. Changes to business plans
 
-The appropriate Federal banking agencies shall issue rules that provide for a 3-year phase-in period for a financial institution to meet any Federal capital requirements that would otherwise be applicable to the financial institution, where such 3-year period begins on the date on which the deposit insurance that the financial institution has obtained from the Federal Deposit Insurance Corporation becomes effective.
-
-## § 4. Changes to business plans
-
-- **(a)** *In general* During the 3-year period beginning on the date on which the deposit insurance that the financial institution has obtained from the Federal Deposit Insurance Corporation becomes effective, a financial institution may request to deviate from a business plan that has been approved by the appropriate Federal banking agency by submitting a request to such agency pursuant to this section.
+- **(a)** *In general* During the 3-year period beginning on the date on which a depository institution became an insured depository institution, the insured depository institution or its depository institution holding company may request to deviate from a business plan that has been approved by the appropriate Federal banking agency by submitting a request to such agency pursuant to this section.
 - **(b)** *Review of changes* An appropriate Federal banking agency shall, not later than the end of the 30-day period beginning on the receipt of a request under subsection (a)—
   - **(1)** approve, conditionally approve, or deny such request; and
-  - **(2)** notify the financial institution of such decision and, if the agency denies the request—
-    - **(A)** provide the financial institution with the reason for such denial; and
+  - **(2)** notify the applicant of such decision and, if the agency denies the request—
+    - **(A)** provide the applicant with the reason for such denial; and
     - **(B)** suggest changes to the request that, if adopted, would allow the agency to approve such request.
-- **(c)** *Result of failure To act* If an appropriate Federal banking agency fails to approve or deny a request within the 30-day period required under subsection (b), such request shall be deemed to be approved.
+- **(c)** *Result of failure to act* If an appropriate Federal banking agency fails to approve or deny a request within the 30-day period required under subsection (b), such request shall be deemed to be approved.
 
-## § 5. Rural community bank leverage ratio
+## § 4. Rural community depository institution leverage ratio
 
-- **(a)** *In general* During the 3-year period beginning on the date on which the deposit insurance that a rural community bank has obtained from the Federal Deposit Insurance Corporation becomes effective, the Community Bank Leverage Ratio for the rural community bank shall be 8 percent.
-- **(b)** *Phase-In authority* The Federal banking agencies shall issue rules to phase-in the Community Bank Leverage Ratio described under subsection (a) with respect to a rural community bank by setting lower Community Bank Leverage Ratio percentages during the first 2 years of the 3-year period described under subsection (a).
+- **(a)** *In general* During the 3-year period beginning on the date on which a rural depository institution became an insured depository institution, the Community Bank Leverage Ratio for the rural community bank shall be 8 percent.
+- **(b)** *Phase-In authority* The Federal banking agencies shall issue rules to phase-in the Community Bank Leverage Ratio described under subsection (a) with respect to a rural depository institution by setting lower Community Bank Leverage Ratio percentages during the first 2 years of the 3-year period described under subsection (a).
 - **(c)** *Definitions* In this section:
   - **(1)** *Community Bank Leverage Ratio* The term Community Bank Leverage Ratio has the meaning given that term under section 201(a) of the Economic Growth, Regulatory Relief, and Consumer Protection Act (12 U.S.C. 5371 note).
-  - **(2)** *Federal banking agency* The term Federal banking agency has the meaning given that term under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
-  - **(3)** *Rural community bank* The term rural community bank means a financial institution—
+  - **(2)** *Rural depository institution* The term rural depository institution means a depository institution—
     - **(A)** with total consolidated assets of less than $10,000,000,000; and
     - **(B)** located in a rural area, as defined under section 1026.35(b)(iv)(A) of title 12, Code of Federal Regulations.
 
-## § 6. Agricultural loan authority for Federal savings associations
+## § 5. Agricultural loan authority for Federal savings associations
 
 Section 5(c) of the Home Owners’ Loan Act (12 U.S.C. 1464(c)) is amended—
 
@@ -57,16 +49,13 @@ Section 5(c) of the Home Owners’ Loan Act (12 U.S.C. 1464(c)) is amended—
 
 - **(2)** in paragraph (2)(A), by striking “business, or agricultural” and inserting “or business”.
 
-## § 7. Study on de novo financial institution
+## § 6. Study on de novo insured depository institutions
 
-- **(a)** *Study* The appropriate Federal banking agencies shall, jointly, carry out a study on—
-  - **(1)** the principal causes for the low number of de novo financial institutions in the 10-year period ending on the date of enactment of this Act; and
-  - **(2)** ways to promote more de novo financial institutions in areas currently underserved by financial institutions.
-- **(b)** *Report to Congress* Not later than the end of the 1-year period beginning on the date of enactment of this Act, the appropriate Federal banking agencies shall, jointly, issue a report to Congress containing all findings and determinations made in carrying out the study required under subsection (a).
+- **(a)** *Study* The Federal banking agencies shall, jointly, carry out a study on—
+  - **(1)** the principal causes for the low number of de novo insured depository institutions in the 10-year period ending on the date of enactment of this Act; and
+  - **(2)** ways to promote more de novo insured depository institutions in areas currently underserved by insured depository institutions.
+- **(b)** *Report to Congress* Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Federal banking agencies shall, jointly, issue a report to Congress containing all findings and determinations made in carrying out the study required under subsection (a).
 
-## § 8. Definitions
+## § 7. Definitions
 
-In this Act:
-
-- **(1)** *Financial institution* The term financial institution means a depository institution or depository institution holding company.
-- **(2)** *Other banking terms* The terms appropriate Federal banking agency, depository institution, and depository institution holding company have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.
+In this Act, the terms appropriate Federal banking agency, depository institution, depository institution holding company, “Federal banking agency”, and “insured depository institution” have the meaning given those terms, respectively, under section 3 of the Federal Deposit Insurance Act.
