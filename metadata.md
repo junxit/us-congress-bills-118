@@ -1,7 +1,7 @@
 ---
 measure: S. 4569
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4569
@@ -16,7 +16,7 @@ TAKE IT DOWN Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (13)
+## Cosponsors (21)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -31,6 +31,14 @@ TAKE IT DOWN Act
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -40,3 +48,15 @@ TAKE IT DOWN Act
 
 - 2024-06-18 — Introduced in Senate
 - 2024-06-18 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-03 — 
+- 2024-12-03 — Amendment SA 3309 agreed to in Senate by Unanimous Consent.
+- 2024-12-03 — Amendment SA 3309 proposed by Senator Schumer for Senator Cruz. (consideration: CR S6789)
+- 2024-12-03 — Measure laid before Senate by unanimous consent. (consideration: CR S6788-6789)
+- 2024-12-03 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6783-6785)
+- 2024-12-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2024-12-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-12-03 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-12-03 — Senate amendment agreed to: Amendment SA 3309 agreed to in Senate by Unanimous Consent.
+- 2024-12-03 — Senate amendment proposed (on the floor): Amendment SA 3309 proposed by Senator Schumer for Senator Cruz.
+- 2024-12-03 — Senate amendment submitted
