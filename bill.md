@@ -1,12 +1,15 @@
 ---
 legis-num: S. 3791
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: 2d Sess.
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3791
 
-That the bill from the Senate (S. 3791) entitled “An Act to reauthorize the America's Conservation Enhancement Act, and for other purposes.” , do pass with the following
+> To reauthorize the America's Conservation Enhancement Act, and for other purposes.
 
-*Strike out all after the enacting clause and insert:*
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “America’s Conservation Enhancement Reauthorization Act of 2024”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
