@@ -1,7 +1,7 @@
 ---
 measure: S. 3791
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3791
@@ -38,6 +38,10 @@ America’s Conservation Enhancement Reauthorization Act of 2024
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2024-12-03 — [House 118-2-479](votes/house-118-2-0479.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (366–21)
+
 ## Actions
 
 - 2024-02-08 — Introduced in Senate
@@ -48,3 +52,14 @@ America’s Conservation Enhancement Reauthorization Act of 2024
 - 2024-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
 - 2024-05-08 — Passed Senate with an amendment by Voice Vote. (consideration: CR S3626-3627; text: CR S3626-3627)
 - 2024-05-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote. (consideration: CR S3626-3627; text: CR S3626-3627)
+- 2024-05-09 — Message on Senate action sent to the House.
+- 2024-05-10 — Held at the desk.
+- 2024-05-10 — Received in the House.
+- 2024-12-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-03 — Considered as unfinished business. (consideration: CR H6280)
+- 2024-12-03 — Considered under suspension of the rules. (consideration: CR H6273-6276)
+- 2024-12-03 — DEBATE - The House proceeded with forty minutes of debate on S. 3791.
+- 2024-12-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 21 (Roll no. 479). (text: CR H6273-6274)
+- 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 366 - 21 (Roll no. 479). (text: CR H6273-6274)

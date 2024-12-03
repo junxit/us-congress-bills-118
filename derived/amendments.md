@@ -1,7 +1,7 @@
 ---
 measure: S. 3791
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 15 executed, 35 stated and not applied.
+48 amendatory instructions. 18 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 7 U.S.C. § 8355
 
-> Section 102(d) of the America's Conservation Enhancement Act (7 U.S.C. 8355(d)) is amended, in the matter preceding paragraph (1), by striking “2025” and inserting “2030”.
+> Section 102(d) of the America’s Conservation Enhancement Act (7 U.S.C. 8355(d)) is amended, in the matter preceding paragraph (1), by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -44,7 +44,16 @@ to guess them.
 
 ### 16 U.S.C. § 667h
 
-> Section 104(d)(1) of the America's Conservation Enhancement Act (16 U.S.C. 667h(d)(1)) is amended by striking “2025” and inserting “2030”.
+> in paragraph (5)(A), by striking “180 days after the date on which the study is completed under subsection (c)” and inserting “90 days after the date of the enactment of the America’s Conservation Enhancement Reauthorization Act of 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `180 days after the date on which the study is completed under subsection (c)` |
+| Inserted | `90 days after the date of the enactment of the America’s Conservation Enhancement Reauthorization Act of 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)` |
+
+### 16 U.S.C. § 667h
+
+> in subsection (d)(1), by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -54,6 +63,15 @@ to guess them.
 ### 16 U.S.C. § 666c-1
 
 > Section 10(p) of the Fish and Wildlife Coordination Act (16 U.S.C. 666c–1(p)) is amended, in the matter preceding paragraph (1), by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 16 U.S.C. § 4406
+
+> Section 7(c) of the North American Wetlands Conservation Act (16 U.S.C. 4406(c)) is amended by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -80,16 +98,16 @@ to guess them.
 
 ### 15 U.S.C. § 2601
 
-> Section 108(a) of the America's Conservation Enhancement Act (15 U.S.C. 2601 note; Public Law 116–188) is amended by striking “During the 5-year period beginning on the date of enactment of this Act” and inserting “During the period beginning on the date of enactment of the America's Conservation Enhancement Reauthorization Act of 2024 and ending on September 30, 2030”.
+> Section 108(a) of the America’s Conservation Enhancement Act (15 U.S.C. 2601 note) is amended by striking “During the 5-year period beginning on the date of enactment of this Act” and inserting “During the period beginning on the date of enactment of the America’s Conservation Enhancement Reauthorization Act of 2024 and ending on September 30, 2030”.
 
 | | |
 |---|---|
 | Removed | `During the 5-year period beginning on the date of enactment of this Act` |
-| Inserted | `During the period beginning on the date of enactment of the America's Conservation Enhancement Reauthorization Act of 2024 and ending on September 30, 2030` |
+| Inserted | `During the period beginning on the date of enactment of the America’s Conservation Enhancement Reauthorization Act of 2024 and ending on September 30, 2030` |
 
 ### 33 U.S.C. § 1267
 
-> Section 111(e)(1) of the America's Conservation Enhancement Act (33 U.S.C. 1267 note; Public Law 116–188) is amended by striking “2025” and inserting “2030”.
+> Section 111(e)(1) of the America’s Conservation Enhancement Act (33 U.S.C. 1267 note) is amended by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -134,6 +152,15 @@ to guess them.
 
 ### 16 U.S.C. § 8212
 
+> by striking “2025” and inserting “2030”; and
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 16 U.S.C. § 8212
+
 > in paragraph (2), in the matter preceding subparagraph (A), by striking “2025” and inserting “2030”; and
 
 | | |
@@ -143,7 +170,7 @@ to guess them.
 
 ### 16 U.S.C. § 8212
 
-> in the matter preceding subparagraph (A), by striking “2025” and inserting “2030”;
+> in paragraph (3), in the matter preceding subparagraph (A), by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -152,7 +179,7 @@ to guess them.
 
 ### 16 U.S.C. § 8211
 
-> Section 211 of the America's Conservation Enhancement Act (16 U.S.C. 8211) is amended, in the matter preceding paragraph (1), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code (commonly known as the Federal Advisory Committee Act),”.
+> Section 211 of the America’s Conservation Enhancement Act (16 U.S.C. 8211) is amended, in the matter preceding paragraph (1), by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code (commonly known as the Federal Advisory Committee Act),”.
 
 | | |
 |---|---|
@@ -168,13 +195,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 8356` | insert | in the section heading, by inserting “; black vulture livestock protection program” after “common ravens”; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 8356` | insert | in the section heading, by inserting “; black vulture livestock protection program” after “common ravens” and conforming the table of contents accordingly; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 8356` | redesignate | by redesignating subsections (a) through (c) as paragraphs (1) through (3), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8356` | redesignate | by inserting before paragraph (1) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8356` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 4406` | replace | by striking “not to exceed $60,000,000” and inserting the following: “not to exceed— | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 4406` | replace | in paragraph (1) (as so designated), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 4406` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 667h` | strike | in paragraph (1), by striking “after the completion of the study required by subsection (c)”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3709` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3709` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3709` | redesignate | in subparagraph (C) (as so redesignated), by inserting “, and should when possible,” after “may”. | the bill quotes the text inserted but describes where it goes |
@@ -182,13 +207,14 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1267` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1267` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (Public Law 105–312; 112 Stat. 2963; 134 Stat. 920) is amended by striking “2025” and inserting “2030”. | the bill names no machine-readable US Code section |
-| `16 U.S.C. § 1852` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1852` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1852` | replace | by striking subparagraphs (G) and (H) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8204` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “, subject to paragraph (3),” after “Act and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 8204` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 8204` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8205` | strike | in subsection (b), by striking “for the following fiscal year”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 8205` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 8206` | insert | Section 206(a) of the America's Conservation Enhancement Act (16 U.S.C. 8206(a)) is amended by inserting “, the Bureau of Land Management,” after “the Forest Service”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 8206` | insert | Section 206(a) of the America’s Conservation Enhancement Act (16 U.S.C. 8206(a)) is amended by inserting “, the Bureau of Land Management,” after “the Forest Service”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 8209` | strike | by striking subsection (b); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8209` | replace | by striking the subsection designation and heading and all that follows through “Not later than” in paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8209` | redesignate | by redesignating paragraph (2) as subsection (b) and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -198,8 +224,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 8209` | redesignate | by redesignating clauses (i) through (v) as subparagraphs (A) through (E), respectively, and indenting appropriately; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8209` | redesignate | in subparagraph (C) (as so redesignated), by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and indenting appropriately. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8212` | insert | in the paragraph heading, by inserting “partnerships and” after “habitat”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 8212` | insert | by inserting “and $10,000,000 for each of fiscal years 2026 through 2030” after “through 2025”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 8212` | insert | by inserting “Partnership operations under section 204 and” after “to provide funds for”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 8212` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (C) through (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 8212` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 8212` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
