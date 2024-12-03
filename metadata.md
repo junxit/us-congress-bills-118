@@ -1,7 +1,7 @@
 ---
 measure: S. 1956
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1956
@@ -32,3 +32,5 @@ Invent Here, Make Here Act of 2024
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-08-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
+- 2024-12-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6787-6788; text: CR S6787-6788)
+- 2024-12-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
