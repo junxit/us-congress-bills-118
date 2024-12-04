@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5103
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5103
@@ -68,9 +68,10 @@ FISHES Act
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Gonzalez, Vicente [D-TX-34] (G000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ FISHES Act
 - 2024-12-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6268)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6268)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
