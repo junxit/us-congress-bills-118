@@ -1,7 +1,7 @@
 ---
 measure: S. 4442
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4442
@@ -28,3 +28,8 @@ Crow Tribe Water Rights Settlement Amendments Act of 2024
 
 - 2024-06-03 — Introduced in Senate
 - 2024-06-03 — Read twice and referred to the Committee on Indian Affairs.
+- 2024-06-12 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 118-418.
+- 2024-09-18 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-04 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-260.
+- 2024-12-04 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-260.
+- 2024-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 662.
