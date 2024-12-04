@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7332
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7332
@@ -39,3 +39,4 @@ Utah State Parks Adjustment Act
 - 2024-12-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6269-6270)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6269-6270)
+- 2024-12-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 660.
