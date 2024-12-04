@@ -1,7 +1,7 @@
 ---
 measure: S. 4477
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4477
@@ -34,3 +34,7 @@ Second Chance Reauthorization Act of 2024
 
 - 2024-06-05 — Introduced in Senate
 - 2024-06-05 — Read twice and referred to the Committee on the Judiciary.
+- 2024-12-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6822; text: CR S6822)
+- 2024-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
