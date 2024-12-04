@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9544
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9544
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 340 Sou
 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. Trone, David J. [D-MD-6] (T000483)
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
@@ -34,6 +34,9 @@ To designate the facility of the United States Postal Service located at 340 Sou
 - Rep. Tlaib, Rashida [D-MI-12] (T000481)
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
 
 ## Committees (1)
 
@@ -44,3 +47,11 @@ To designate the facility of the United States Postal Service located at 340 Sou
 - 2024-09-11 — Introduced in House
 - 2024-09-11 — Introduced in House
 - 2024-09-11 — Referred to the House Committee on Oversight and Accountability.
+- 2024-11-20 — Committee Consideration and Mark-up Session Held
+- 2024-11-20 — Ordered to be Reported by Voice Vote.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6336-6338)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9544.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6336)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6336)
