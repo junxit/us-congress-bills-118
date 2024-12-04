@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9151
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9151
@@ -44,9 +44,10 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - Rep. Finstad, Brad [R-MN-1] (F000475)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - 2024-12-03 — Mr. Hunt moved to suspend the rules and pass the bill, as amended.
 - 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6216)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6216)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
