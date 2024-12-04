@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8692
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8692
@@ -16,6 +16,10 @@ Amtrak Transparency and Accountability for Passengers and Taxpayers Act
 
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
+## Cosponsors (1)
+
+- Rep. Graves, Sam [R-MO-6] (G000546)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +29,10 @@ Amtrak Transparency and Accountability for Passengers and Taxpayers Act
 - 2024-06-11 — Introduced in House
 - 2024-06-11 — Introduced in House
 - 2024-06-11 — Referred to the House Committee on Transportation.
+- 2024-06-12 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2024-09-18 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged
+- 2024-12-04 — Placed on the Union Calendar, Calendar No. 656.
+- 2024-12-04 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-795.
+- 2024-12-04 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-795.

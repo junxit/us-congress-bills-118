@@ -11,24 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “The Amtrak Transparency and Accountability for Passengers and Taxpayer Act”.
+This Act may be cited as the “Amtrak Transparency and Accountability for Passengers and Taxpayers Act”.
 
 ## § 2. Open meetings
 
-- **(a)** *In general* Notwithstanding any other provision of law, the Amtrak Board of Directors shall adhere to the requirements of section 552b of title 5, United States Code, as applicable.
-- **(b)** *Nonpublic collaborative discussions*
-  - **(1)** *In general* Notwithstanding section 552b of title 5, United States Code, a majority of the members of the Board may hold a meeting to discuss official business that is not open to public observation if—
-    - **(A)** no formal or informal vote or other official action is taken at the meeting; and
-    - **(B)** each individual present at the meeting is a member or an employee of the Board.
-  - **(2)** *Disclosure of nonpublic collaborative discussions* Except as provided under paragraph (3), not later than 2 business days after the conclusion of a meeting described in paragraph (1), the Board shall make available to the public, in a place easily accessible to the public—
-    - **(A)** a list of the individuals present at the meeting; and
-    - **(B)** a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under section 552b(c) of title 5, United States Code.
-  - **(3)** *Ongoing proceedings* If a meeting described in paragraph (1) directly relates to an ongoing proceeding before the Board, the Board shall make the disclosure required under paragraph (2) on the date on which the Board issues a final decision with respect to such ongoing proceeding.
-- **(c)** *Summary of withheld matters* If the Board properly determines a matter may be withheld from the public under section 552b(c) of title 5, United States Code, the Board shall provide to the public a summary of any such matter with as much general information as possible on such matter.
+Section 24301(e) of title 49, United States Code, is amended—
 
-## § 3. Annual briefing
+- **(1)** by striking “Section 552 of title 5, this part” and inserting the following:
+  > - **(1)** *In general* Except as provided in paragraph (3), sections 552 and 552b of title 5, this part
 
-- **(a)** *Briefing required* During the 30-day period ending on the day before the first date of each fiscal year, the Chair of the Board of Directors of Amtrak shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the activities of the Board in the fiscal year in which the briefing occurs.
-- **(b)** *Content of briefing* The briefing required under subsection (a) shall include—
-  - **(1)** a description of all matters before the Board that required a vote of the Board; and
-  - **(2)** a description of matters pending before the Board in which the Board is required to vote.
+- **(2)** in the second sentence by striking “Section 552 of title 5, United States Code, applies” and inserting the following:
+  > - **(2)** *Timing of application* Except as provided in paragraph (3), sections 552 and 552b of title 5 apply
+
+- **(3)** by adding at the end the following:
+  > - **(3)** *Scope of application*
+  >   - **(A)** *Information* The requirements of the second sentence of section 552b(b) of title 5 shall not apply to any portion of an Amtrak meeting and subsections (d) and (e) of section 552b of title 5 shall not apply to any information pertaining to any portion of an Amtrak meeting otherwise required by section 552b of title 5 to be disclosed to the public in any case in which Amtrak properly determines that such portion or portions of the meeting or the disclosure of such information is likely to involve—
+  >     - **(i)** contract negotiations, including negotiations for contract procurements and agreements, the disclosure of which would imperil or compromise the competitive position of Amtrak;
+  >     - **(ii)** collective bargaining agreements or any terms and conditions that are proposed for inclusion in any collective bargaining agreement, including the negotiation of terms and conditions with employees or representatives of employees of Amtrak; and
+  >     - **(iii)** with respect to any individual who is a prospective officer, employee, or contractor or an officer, employee, or contractor employed or appointed by Amtrak, matters involving the employment, appointment, termination of employment, terms and conditions of employment, evaluation of the performance of, promotion or disciplining of any such individual, unless all such individuals whose rights could be adversely affected request in writing that the matter or matters be discussed at a public meeting.
+  >   - **(B)** *Additional application* In addition to the information described in subparagraph (B), the information described in section 552b(c) shall apply to Amtrak meetings.
