@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7480
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7480
@@ -53,3 +53,9 @@ Disabled Veterans Housing Support Act
 - 2024-09-09 — Placed on the Union Calendar, Calendar No. 549.
 - 2024-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-652.
 - 2024-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-652.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6353-6355)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7480.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.
+- 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6354)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6354)
