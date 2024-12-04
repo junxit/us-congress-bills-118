@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9563
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9563
@@ -43,3 +43,4 @@ Protecting Americans from Russian Litigation Act of 2024
 - 2024-12-03 — Mr. Hunt moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6214-6215)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6214-6215)
+- 2024-12-04 — Received in the Senate.
