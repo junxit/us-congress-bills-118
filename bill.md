@@ -1,0 +1,92 @@
+---
+legis-num: H.R. 10292
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10292
+
+> To require the Secretary of Commerce to produce distribution maps for certain species of whales, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Whale Conservation Habitat Analysis, Research, and Technical Strategies Act of 2024” or “Whale CHARTS Act of 2024”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Baleen whale* The term baleen whale means each species within the suborder Mysticeti.
+- **(2)** *Marine Mammal Commission* The term Marine Mammal Commission means the Marine Mammal Commission established by section 201(a) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401(a)).
+- **(3)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+- **(4)** *Sperm whale* The term sperm whale means the species Physeter macrocephalus.
+- **(5)** *Waters under the jurisdiction of the United States* The term waters under the jurisdiction of the United States has the meaning given the term in section 3 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1362).
+
+## § 3. Distribution mapping of certain species of whales
+
+- **(a)** *In general* The Secretary, in consultation with the Marine Mammal Commission, shall produce for stocks, populations, or species, as the Secretary determines appropriate, of baleen whale and sperm whale within waters under the jurisdiction of the United States—
+  - **(1)** distribution maps of high accuracy and spatial and temporal resolution; and
+  - **(2)** predictive distribution maps of high accuracy and spatial and temporal resolution that take into account expected future environmental conditions.
+- **(b)** *Duties* In carrying out subsection (a), the Secretary—
+  - **(1)** shall—
+    - **(A)** use the best scientific information available;
+    - **(B)** conduct or support, including through grants or other financial assistance, research to fill knowledge gaps, which may include—
+      - **(i)** developing novel sources of data, such as passive acoustic monitoring or detection through satellite and drone imagery; and
+      - **(ii)** developing innovative methodologies to combine different sources of whale detection data and to improve marine mammal distribution and habitat modeling;
+    - **(C)** include in each map produced under such subsection, as applicable—
+      - **(i)** calving grounds;
+      - **(ii)** feeding grounds;
+      - **(iii)** migration routes; and
+      - **(iv)** other habitat uses;
+    - **(D)** as needed, use current and novel sources of data, such as passive acoustic monitoring and detection through satellite or drone imagery;
+    - **(E)** make each map produced under such subsection available—
+      - **(i)** through—
+        - **(I)** electronic and machine readable formats that can be integrated into on-board vessel navigation systems, including—
+          - **(aa)** electronic navigational products of the National Oceanic and Atmospheric Administration, as appropriate;
+          - **(bb)** an online platform for the general public; and
+          - **(cc)** in coordination with the Commandant of the Coast Guard, carriage requirements set by the Commandant of the Coast Guard for commercial or recreational vessels;
+        - **(II)** in coordination with the Commandant of the Coast Guard, other formats not specified under subclause (I) that may be required in carriage requirements set by the Commandant of the Coast Guard for commercial or recreational vessels, as appropriate; and
+        - **(III)** other formats the Secretary determines appropriate; and
+      - **(ii)** to other entities that produce products or publications included in the carriage requirements set by the Commandant of the Coast Guard for commercial or recreational vessels, as appropriate; and
+    - **(F)** require the heads of the National Oceanic and Atmospheric Administration line offices to coordinate the work of such offices, as needed; and
+  - **(2)** may, in making use of amounts appropriated to carry out this section pursuant to section 7 and in consultation with the Marine Mammal Commission, determine—
+    - **(A)** which stocks, populations, or species of baleen whale and sperm whale to prioritize; and
+    - **(B)** whether to prioritize the collection and aggregation of new data or the processing, analysis, aggregation and modeling of existing data.
+
+## § 4. Understudied species surveys
+
+- **(a)** *In general* The Secretary, in consultation with the Marine Mammal Commission, shall conduct surveys specific to understudied stocks, populations, or species, as the Secretary determines appropriate, of baleen whale within waters under the jurisdiction of the United States to estimate the abundance and distribution of each such stock, population, or species.
+- **(b)** *Duties* In carrying out subsection (a), the Secretary—
+  - **(1)** shall—
+    - **(A)** include in each map produced under such subsection, as applicable, potential—
+      - **(i)** calving grounds;
+      - **(ii)** feeding grounds;
+      - **(iii)** migration routes; and
+      - **(iv)** other habitat uses; and
+    - **(B)** as needed, use current and novel sources of data; and
+  - **(2)** may—
+    - **(A)** as the Secretary determines appropriate, collect opportunistic data on other marine species; and
+    - **(B)** in making use of amounts appropriated to carry out this section pursuant to section 7 and in consultation with the Marine Mammal Commission, determine which stocks, populations, or species of baleen whale to prioritize.
+
+## § 5. Report
+
+Not later than 2 years after the date of the enactment of this Act, and every 3 years thereafter, the Secretary, in consultation with the Marine Mammal Commission, shall submit to Congress and make available to the public a report regarding—
+
+- **(1)** activities carried out under sections 3 and 4;
+- **(2)** knowledge gaps identified in carrying out section 3; and
+- **(3)** progress made in filling knowledge gaps identified in carrying out section 3.
+
+## § 6. Effect on and of other actions
+
+The Secretary—
+
+- **(1)** shall carry out sections 3, 4, and 5 notwithstanding any ongoing rulemakings; and
+- **(2)** may not delay any action, order, or rulemaking because of the requirements of this Act.
+
+## § 7. Authorization of appropriations
+
+- **(a)** *In general* There are authorized to be appropriated to the Secretary for each of fiscal years 2025 through 2029—
+  - **(1)** to carry out section 3, $2,000,000; and
+  - **(2)** to carry out section 4, $1,000,000.
+- **(b)** *Additional sources of funding* Subject to the availability of appropriations, the Secretary may coordinate with the Secretary of Defense, the Secretary of the Interior, and the head of any other Federal agency for any additional sources of funding to carry out sections 3 and 4.
