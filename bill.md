@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 7332
-congress: 118th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7332
@@ -36,7 +36,7 @@ This Act may be cited as the “Utah State Parks Adjustment Act”.
     - **(C)** the continued use of permitted livestock grazing on the conveyed parcel of National Forest System land;
     - **(D)** continued Forest Service access to, and use and maintenance of, any water rights retained by the United States in the area of the conveyed parcel of National Forest System land; and
     - **(E)** any other terms and conditions necessary to clarify management and maintenance of the parcel of National Forest System land after the date of conveyance.
-- **(d)** *Modifications to maps* For the purposes of a conveyance required by this section, the Secretary of the Interior or the Secretary of Agriculture, as applicable, may make minor modifications to the applicable map described in subsection (a), (b), or (c)(1)(A) , including changes reflecting any applicable surveys conducted under this section.
+- **(d)** *Modifications to maps* For the purposes of a conveyance required by this section, the Secretary of the Interior or the Secretary of Agriculture, as applicable, may make minor modifications to the applicable map described in subsection (a), (b), or (c)(1)(A), including changes reflecting any applicable surveys conducted under this section.
 - **(e)** *Use of conveyed land*
   - **(1)** *In general* The State shall use any Federal land conveyed under this section for public purposes, including parks, campgrounds, recreation, and permitted livestock grazing.
   - **(2)** *Reversionary Interest* If a parcel of Federal land conveyed to the State under this section ceases to be used for public purposes described in paragraph (1), the parcel shall, at the discretion of the Secretary of Agriculture or Secretary of the Interior, as applicable, revert to the United States.

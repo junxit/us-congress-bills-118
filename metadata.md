@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7332
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7332
@@ -40,3 +40,12 @@ Utah State Parks Adjustment Act
 - 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6269-6270)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6269-6270)
 - 2024-12-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 660.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7087)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-181.
+- 2024-12-23 — Became Public Law No: 118-181.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
