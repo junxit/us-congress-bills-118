@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3242
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,22 +13,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Access to Capital Creates Economic Strength and Supports Rural America Act” or the “ACCESS Rural America Act”.
 
-## § 2. Shareholder threshold for registration of certain issuers
+## § 2. Exemption from certain registration requirements
 
-Section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)) is amended—
+Section 12(g)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(2)) is amended by adding at the end the following:
 
-- **(1)** in paragraph (1)—
-  - **(A)** in subparagraph (A)(ii), by striking “and” at the end;
-  - **(B)** in subparagraph (B), by adding “and” at the end;
-  - **(C)** by inserting after subparagraph (B) the following:
-    > - **(C)** in the case of an issuer that, during its previous fiscal year, received support through the Federal universal service support mechanism for rural, insular, and high cost areas established under section 254 of the Communications Act of 1934 (47 U.S.C. 254) and filed the report described in paragraph (7) with respect to such fiscal year, not later than 120 days after the last day of its first fiscal year ended after the date of enactment of this subparagraph, on which the issuer has total assets exceeding $10,000,000 and a class of equity security (other than an exempted security) held of record by 2,000 or more persons,
-
-  - **(D)** in the flush text following subparagraph (C), as added by subparagraph (C) of this paragraph, by adding at the end the following: “The dollar figures in subparagraph (C) shall be indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounded to the nearest $100,000.”; and
-- **(2)** by adding at the end the following:
-  > - **(7)** *Mandatory disclosures by certain universal service support mechanism recipients*
-  >   - **(A)** *In general* The Commission shall issue regulations to establish a financial summary form to be filed with the Commission that may, upon request by an investor, be made available by an issuer that—
-  >     - **(i)** during its previous fiscal year, received support, directly or through an affiliate, through the Federal universal service support mechanism for rural, insular, and high cost areas established under section 254 of the Communications Act of 1934 (47 U.S.C. 254); and
-  >     - **(ii)** has a class of equity security held of record by—
-  >       - **(I)** not fewer than 500 persons who are not accredited investors (as such term is defined by the Commission); and
-  >       - **(II)** fewer than 2,000 persons.
-  >   - **(B)** *Contents* The form described in subparagraph (A) shall include a summary of the consolidated balance sheet and the consolidated income statement of the issuer and such other information as the Commission determines is necessary and appropriate in the public interest and for the protection of investors.
+> - **(I)** any security where—
+>   - **(i)** the issuer of the security, during its previous fiscal year—
+>     - **(I)** received support through the Federal universal service support mechanism for rural, insular, and high cost areas established under section 254 of the Communications Act of 1934 (47 U.S.C. 254); and
+>     - **(II)** with respect to such fiscal year, not later than 120 days after the last day of such fiscal year, filed with the Commission a financial summary form that—
+>       - **(aa)** the issuer also delivered to each holder of record; and
+>       - **(bb)** included—
+>         - **(AA)** a summary of the consolidated balance sheet and consolidated income statement of the issuer; and
+>         - **(BB)** such other financially material information as the Commission determines is necessary and appropriate in the public interest and for the protection of investors;
+>   - **(ii)** as of the last day of the previous fiscal year of the issuer of the security, the security is held of record by—
+>     - **(I)** more than 500 persons that are not accredited investors; and
+>     - **(II)** fewer than 2,000 persons; and
+>   - **(iii)** the issuer of the security has total assets of not more than $10,000,000, which the Commission shall index for inflation every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounded to the nearest $100,000.
