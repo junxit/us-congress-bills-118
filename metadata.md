@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6826
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6826
@@ -50,3 +50,12 @@ To designate the visitor and education center at Fort McHenry National Monument 
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6270-6271)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6270-6271)
 - 2024-12-04 — Received in the Senate, read twice.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7079)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-175.
+- 2024-12-23 — Became Public Law No: 118-175.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
