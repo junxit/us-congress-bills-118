@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10065
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 10065
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 802 Nor
 
 - Rep. Cloud, Michael [R-TX-27] (C001115)
 
-## Cosponsors (26)
+## Cosponsors (27)
 
 - Rep. Moran, Nathaniel [R-TX-1] (M001224)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
@@ -44,6 +44,7 @@ To designate the facility of the United States Postal Service located at 802 Nor
 - Rep. Allred, Colin Z. [D-TX-32] (A000376)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
 ## Committees (1)
 
@@ -54,3 +55,11 @@ To designate the facility of the United States Postal Service located at 802 Nor
 - 2024-10-29 — Introduced in House
 - 2024-10-29 — Introduced in House
 - 2024-10-29 — Referred to the House Committee on Oversight and Accountability.
+- 2024-11-20 — Committee Consideration and Mark-up Session Held
+- 2024-11-20 — Ordered to be Reported by Voice Vote.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6330-6331)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 10065.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
