@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6395
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6395
@@ -22,9 +22,10 @@ Recognizing the Importance of Critical Minerals in Healthcare Act of 2023
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Recognizing the Importance of Critical Minerals in Healthcare Act of 2023
 - 2024-12-03 — Mr. Tiffany moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6267)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6267)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
