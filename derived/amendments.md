@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8666
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
