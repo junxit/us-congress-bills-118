@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6843
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6843
@@ -46,3 +46,4 @@ To expand the boundaries of the Atchafalaya National Heritage Area to include La
 - 2024-12-03 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6278)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6278)
+- 2024-12-04 — Received in the Senate, read twice.
