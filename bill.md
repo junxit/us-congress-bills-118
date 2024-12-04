@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 10290
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10290
+
+> To prohibit an entity from receiving Federal funds if such entity permits an individual to access or use a single-sex facility on the property of such entity that does not correspond to the biological sex of such person, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop the Invasion of Women’s Spaces Act”.
+
+## § 2. Prohibition
+
+- **(a)** *In general* Notwithstanding any other provision of law, no Federal funds may be provided, directly or indirectly, to an entity if such entity permits an individual to access or use a single-sex facility on the property of such entity that does not correspond to the biological sex of such person, except as provided by subsection (c).
+- **(b)** *Definitions* In this section—
+  - **(1)** *Single-sex facility* The term “single-sex facility” means a space intended for the use of one biological sex (male or female), including a—
+    - **(A)** restroom;
+    - **(B)** locker room; or
+    - **(C)** changing room.
+  - **(2)** *Property* The term “property” means any building, land, or other real property owned, leased, controlled, or occupied by an entity.
+  - **(3)** *Biological sex* The term “biological sex” means the biological determination as to whether an individual is male or female, as such terms are defined in this section.
+  - **(4)** *Female* The term “female” means an individual who naturally has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization.
+  - **(5)** *Male* The term “male” means an individual who naturally has, had, will have, or would have, but for a developmental or genetic anomaly or historical accident, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization.
+  - **(6)** *Entity* The term “entity” means any private entity, non-Federal Government agency or department, or State, tribal, or local government (including a political subdivision, department, or component thereof).
+- **(c)** *Exception* Subsection (a) shall not apply with respect to an entity that permits an individual to access a single-sex facility on the property of such entity that does not correspond to the biological sex of such person in the circumstance of—
+  - **(1)** emergency medical personnel responding to a medical emergency; or
+  - **(2)** a law enforcement officer in active pursuit of a suspect, or as part of an active investigation.
