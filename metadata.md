@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7177
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7177
@@ -23,9 +23,10 @@ To amend title 28, United States Code, to consolidate certain divisions in the N
 - Rep. Moore, Barry [R-AL-2] (M001212)
 - Rep. Carl, Jerry L. [R-AL-1] (C001054)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend title 28, United States Code, to consolidate certain divisions in the N
 - 2024-12-03 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2024-12-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6212)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6212)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
