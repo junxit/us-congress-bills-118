@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7339
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7339
@@ -16,9 +16,10 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 - 2024-12-03 — Mr. Tiffany moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6235-6254)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6235-6254)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
