@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5623
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 42 U.S.C. § 5183
-
-> by striking “professional counseling services, including” and inserting “mental health, substance use disorder, and alcohol use disorder services, including professional counseling services and”;
-
-| | |
-|---|---|
-| Removed | `professional counseling services, including` |
-| Inserted | `mental health, substance use disorder, and alcohol use disorder services, including professional counseling services and` |
 
 ## Stated, not applied
 
@@ -42,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5183` | insert | by inserting “, substance use disorder, or alcohol use disorder” after “private mental health”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5183` | insert | by inserting “, substance use disorder, and alcohol use disorder” after “relieve mental health”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5183` | insert | in subsection (b) by inserting “, substance use disorder, or alcohol use disorder” before “organization providing”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5183` | insert | by inserting “, substance use, or alcohol use” after “private mental health”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5183` | insert | by inserting “, substance use, and alcohol use” after “relieve mental health”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5183` | insert | in subsection (b) by inserting “, substance use, or alcohol use” before “organization providing”. | the bill quotes the text inserted but describes where it goes |

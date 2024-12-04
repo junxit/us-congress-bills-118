@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5623
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,11 +18,17 @@ This Act may be cited as the “Addressing Addiction After Disasters Act”.
 Section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** by striking “professional counseling services, including” and inserting “mental health, substance use disorder, and alcohol use disorder services, including professional counseling services and”;
-  - **(B)** by inserting “, substance use disorder, or alcohol use disorder” after “private mental health”; and
-  - **(C)** by inserting “, substance use disorder, and alcohol use disorder” after “relieve mental health”; and
-- **(2)** in subsection (b) by inserting “, substance use disorder, or alcohol use disorder” before “organization providing”.
+  - **(A)** by inserting “, substance use, or alcohol use” after “private mental health”; and
+  - **(B)** by inserting “, substance use, and alcohol use” after “relieve mental health”; and
+- **(2)** in subsection (b) by inserting “, substance use, or alcohol use” before “organization providing”.
 
-## § 3. Report
+## § 3. Report on changes to application
 
-Not later than 180 days after the date of enactment of this Act, the Assistant Secretary for Mental Health and Substance Use, including the Director for the Center for Substance Abuse Treatment, in consultation with the Administrator of the Federal Emergency Management Agency and State alcohol and drug agencies, shall review, adjust, and report to Congress any changes made to the application for assistance under section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) and to any other relevant guidance documents to reflect the amendments made by this Act.
+Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency, in consultation with the Assistant Secretary for Mental Health and Substance Use, the Director for the Center for Substance Abuse Treatment, and State alcohol and drug agencies, shall review, adjust, and report to Congress any changes made to the application for assistance under section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) and to any other relevant guidance documents to reflect the amendments made by this Act.
+
+## § 4. GAO report to Congress
+
+The Comptroller General of the United States shall conduct a review of the assistance provided under the crisis counseling assistance and training program established pursuant to section 416 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5183) and submit to Congress a report describing—
+
+- **(1)** the duration of assistance provided to individuals under such program; and
+- **(2)** the compliance of the Administrator of the Federal Emergency Management Agency with the requirement that such assistance may only be used for mental health, substance use, and alcohol use problems caused or aggravated by a major disaster or its aftermath.
