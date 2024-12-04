@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6116
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 14280 S
 
 - Rep. Frankel, Lois [D-FL-22] (F000462)
 
-## Cosponsors (25)
+## Cosponsors (30)
 
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
@@ -43,6 +43,11 @@ To designate the facility of the United States Postal Service located at 14280 S
 - Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Gaetz, Matt [R-FL-1] (G000578)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
 
 ## Committees (1)
 
@@ -53,3 +58,11 @@ To designate the facility of the United States Postal Service located at 14280 S
 - 2023-10-30 — Introduced in House
 - 2023-10-30 — Introduced in House
 - 2023-10-30 — Referred to the House Committee on Oversight and Accountability.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported by Voice Vote.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6327-6328)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6116.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6327)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6327)
