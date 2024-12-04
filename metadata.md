@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 910
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 910
@@ -30,3 +30,7 @@ A resolution designating November 2024 as "National Hospice and Palliative Care 
 
 - 2024-11-21 — Introduced in Senate
 - 2024-11-21 — Referred to the Committee on the Judiciary.
+- 2024-12-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-12-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6823; text: 11/21/2024 CR S6729)
+- 2024-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.
