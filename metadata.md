@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9775
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9775
@@ -36,3 +36,11 @@ To designate the facility of the United States Postal Service located at 119 Nor
 - 2024-09-24 — Introduced in House
 - 2024-09-24 — Introduced in House
 - 2024-09-24 — Referred to the House Committee on Oversight and Accountability.
+- 2024-11-20 — Committee Consideration and Mark-up Session Held
+- 2024-11-20 — Ordered to be Reported by Voice Vote.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6338-6339)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9775.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill.
+- 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6338)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6338)
