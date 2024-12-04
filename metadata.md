@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7507
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7507
@@ -30,3 +30,12 @@ To designate the facility of the United States Postal Service located at 203 Eas
 - 2024-02-29 — Introduced in House
 - 2024-02-29 — Introduced in House
 - 2024-02-29 — Referred to the House Committee on Oversight and Accountability.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6339-6340)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7507.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection. (text: CR H6339)
+- 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill, as amended.
+- 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2024-12-04 — The title of the measure was amended. Agreed to without objection.
