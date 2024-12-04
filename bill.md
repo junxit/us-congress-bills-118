@@ -15,9 +15,4 @@ This Act may be cited as the “Great Lakes Restoration Initiative Act of 2024�
 
 ## § 2. Great Lakes Restoration Initiative reauthorization
 
-Section 118(c)(7)(J)(i) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(7)(J)(i)) is amended—
-
-- **(1)** in subclause (V), by striking “and” at the end;
-- **(2)** in subclause (VI), by striking the period at the end and inserting “; and”; and
-- **(3)** by adding at the end the following:
-  > - **(VII)** $500,000,000 for each of fiscal years 2027 through 2031.
+Section 118(c)(7)(J)(i)(VI) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(7)(J)(i)(VI)) is amended by striking “fiscal year 2026” and inserting “each of fiscal years 2026 through 2031”.
