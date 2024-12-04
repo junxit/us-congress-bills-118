@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7326
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7326
@@ -33,3 +33,4 @@ To amend chapters 4, 10, and 131 of title 5, United States Code, as necessary to
 - 2024-12-03 — Mr. Tiffany moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6255-6265)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6255-6265)
+- 2024-12-04 — Received in the Senate.
