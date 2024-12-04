@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8666
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8666
@@ -20,9 +20,10 @@ To amend title 28, United States Code, to authorize holding court for the Centra
 
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To amend title 28, United States Code, to authorize holding court for the Centra
 - 2024-12-03 — Mr. Issa moved to suspend the rules and pass the bill.
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6213)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6213)
+- 2024-12-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
