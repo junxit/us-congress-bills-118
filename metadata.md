@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9566
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9566
@@ -29,3 +29,11 @@ SHARE IT Act
 - 2024-09-12 — Introduced in House
 - 2024-09-12 — Introduced in House
 - 2024-09-12 — Referred to the House Committee on Oversight and Accountability.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported by the Yeas and Nays: 39 - 0.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6340-6342)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9566.
+- 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill, as amended.
+- 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
+- 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
