@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7872
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7872
@@ -53,3 +53,12 @@ Colorado River Salinity Control Fix Act
 - 2024-12-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6265-6266)
 - 2024-12-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6265-6266)
 - 2024-12-04 — Received in the Senate, read twice.
+- 2024-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR H6936)
+- 2024-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-11 — Message on Senate action sent to the House.
+- 2024-12-17 — Presented to President.
+- 2024-12-17 — Presented to President.
+- 2024-12-23 — Became Public Law No: 118-183.
+- 2024-12-23 — Became Public Law No: 118-183.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
