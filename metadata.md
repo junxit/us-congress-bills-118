@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8717
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8717
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 20 West
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 20 West
 - 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6324)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6324)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
