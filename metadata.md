@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7507
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7507
@@ -21,9 +21,10 @@ To designate the facility of the United States Postal Service located at 203 Eas
 - Rep. Flood, Mike [R-NE-1] (F000474)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To designate the facility of the United States Postal Service located at 203 Eas
 - 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2024-12-04 — The title of the measure was amended. Agreed to without objection.
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
