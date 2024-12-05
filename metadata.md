@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 908
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 908
@@ -29,3 +29,7 @@ A resolution expressing support for the goals of Stomach Cancer Awareness Month.
 
 - 2024-11-21 — Introduced in Senate
 - 2024-11-21 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2024-12-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2024-12-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6855; text: 11/21/2024 CR S6728)
+- 2024-12-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2024-12-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
