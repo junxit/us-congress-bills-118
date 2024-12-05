@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3284
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,10 @@ This Act may be cited as the “Providers and Payers COMPETE Act”.
 
 ## § 2. Annual report on the impact of certain Medicare regulations on provider and payer consolidation; public comment on provider and payer consolidation for certain proposed rules
 
-- **(a)** *Annual report* Not later than December 30, 2026, and annually thereafter, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall submit to Congress a report on the impact in the aggregate on provider and payer consolidation with respect to regulations for parts B, C, and D of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.) implemented in the calendar year immediately prior to such report. Such report shall include regulations that—
-  - **(1)** implement a change to an applicable payment system, a rate schedule, or another payment system under part B, C, or D of such title; or
+- **(a)** *Annual report* Not later than December 31, 2026, and annually thereafter, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall submit to Congress a report on the impact in the aggregate on provider and payer consolidation with respect to regulations and rules for parts A, B, C, and D of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) implemented in the calendar year immediately prior to such report. Such report shall include regulations and rules that—
+  - **(1)** implement a change to an applicable payment system, a rate schedule, or another payment system under parts A, B, C, or D of such title; or
   - **(2)** result in a significant rule effecting provider or payer consolidation.
-- **(b)** *Public comment on impact to provider and payer consolidation* Beginning for 2025, as part of any notice and comment rulemaking process that will result in a significant rule effecting provider or payer consolidation with respect to a proposed rule for parts B, C, and D of title XVIII of the Social Security Act (42 U.S.C. 1395j et seq.), the Secretary shall seek public comment on the projected impact of such proposed rule on provider and payer consolidation in the aggregate.
+- **(b)** *Public comment on impact to provider and payer consolidation* Beginning for 2025, as part of any notice and comment rulemaking process that could result in a significant rule affecting provider or payer consolidation with respect to a proposed rule for parts A, B, C, and D of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the Secretary shall seek public comment on the potential impact of such proposed rule on provider and payer consolidation in the aggregate.
 - **(c)** *Definitions* In this section:
   - **(1)** *Provider and payer consolidation* The term provider and payer consolidation includes the vertical or horizontal integration among providers of services (as defined in subsection (u) of section 1861 of the Social Security Act (42 U.S.C. 1395x)), suppliers (as defined in subsection (d) of such section), accountable care organizations under section 1899 of the Social Security Act (42 U.S.C. 1395jjj), Medicare Advantage organizations, PDP sponsors, pharmacy benefit managers, pharmacies, and integrated delivery systems.
   - **(2)** *Applicable payment system* The term “applicable payment system” includes—
@@ -31,6 +31,6 @@ This Act may be cited as the “Providers and Payers COMPETE Act”.
   - **(1)** in clause (i), by striking at the end “and”;
   - **(2)** in clause (ii), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following new clause:
-    > - **(iii)** the extent to which, and how, the model has effected and could effect provider and payer consolidation, which includes the vertical or horizontal integration among providers of services (as defined in subsection (u) of section 1861), suppliers (as defined in subsection (d) of such section), and accountable care organizations under section 1899.
+    > - **(iii)** the extent to which, and how, the model has affected and could affect provider and payer consolidation, which includes the vertical or horizontal integration among providers of services (as defined in subsection (u) of section 1861), suppliers (as defined in subsection (d) of such section), and accountable care organizations under section 1899, or pursuant to models under this section.
 
 - **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to models tested on or after January 1, 2025.
