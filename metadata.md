@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10065
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 10065
@@ -65,3 +65,14 @@ To designate the facility of the United States Postal Service located at 802 Nor
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330)
 - 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7201)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-20 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-270.
+- 2025-01-04 — Became Public Law No: 118-270.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
