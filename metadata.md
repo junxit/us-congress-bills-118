@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9421
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9421
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 108 Nor
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Strickland, Marilyn [D-WA-10] (S001159)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the facility of the United States Postal Service located at 108 Nor
 - 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6333)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6333)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
