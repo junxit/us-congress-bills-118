@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8219
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8219
@@ -57,3 +57,12 @@ Lahaina National Heritage Area Study Act
 - 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 25 (Roll no. 481).
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 25 (Roll no. 481).
 - 2024-12-05 — Received in the Senate, read twice.
+- 2024-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7053-7054)
+- 2024-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-17 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-184.
+- 2024-12-23 — Became Public Law No: 118-184.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
