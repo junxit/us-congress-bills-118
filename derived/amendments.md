@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9598
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-84 amendatory instructions. 17 executed, 67 stated and not applied.
+95 amendatory instructions. 25 executed, 70 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,12 @@ to guess them.
 
 ### 21 U.S.C. § 1703
 
-> in the heading, by striking “Harm Reduction Programs” and inserting “Substance use prevention, harm reduction, and life-Saving treatment programs”; and
+> in the heading, by striking “Harm Reduction Programs” and inserting “Substance use prevention, harm reduction, and life-saving treatment programs”; and
 
 | | |
 |---|---|
 | Removed | `Harm Reduction Programs` |
-| Inserted | `Substance use prevention, harm reduction, and life-Saving treatment programs` |
+| Inserted | `Substance use prevention, harm reduction, and life-saving treatment programs` |
 
 ### 21 U.S.C. § 1705
 
@@ -89,21 +89,21 @@ to guess them.
 
 ### 21 U.S.C. § 1705
 
-> in subparagraph (E), by striking “drug use” and inserting “illegal drug use”; and
+> in subparagraph (E), by striking “drug use” and inserting “illicit drug use and misuse”; and
 
 | | |
 |---|---|
 | Removed | `drug use` |
-| Inserted | `illegal drug use` |
+| Inserted | `illicit drug use and misuse` |
 
 ### 21 U.S.C. § 1705
 
-> in subparagraph (F), by striking “drug use” and inserting “illegal drug use”;
+> in subparagraph (F), by striking “drug use” and inserting “illicit drug use and misuse”;
 
 | | |
 |---|---|
 | Removed | `drug use` |
-| Inserted | `illegal drug use` |
+| Inserted | `illicit drug use and misuse` |
 
 ### 21 U.S.C. § 1706
 
@@ -116,12 +116,30 @@ to guess them.
 
 ### 21 U.S.C. § 1708
 
-> in section 709(f)(1) (21 U.S.C. 1708(f)(1)), by striking “shall” and inserting “may”;
+> by striking “shall” and inserting “may”;
 
 | | |
 |---|---|
 | Removed | `shall` |
 | Inserted | `may` |
+
+### 21 U.S.C. § 1708
+
+> in subparagraph (A), by striking “abuse” and inserting “use or misuse”; and
+
+| | |
+|---|---|
+| Removed | `abuse` |
+| Inserted | `use or misuse` |
+
+### 21 U.S.C. § 1708
+
+> in subparagraph (D)(i), by striking “addiction issues” and inserting “substance use disorders”;
+
+| | |
+|---|---|
+| Removed | `addiction issues` |
+| Inserted | `substance use disorders` |
 
 ### 21 U.S.C. § 1708
 
@@ -140,6 +158,15 @@ to guess them.
 |---|---|
 | Removed | `Command and Control Plan` |
 | Inserted | `Strategic Plan` |
+
+### 21 U.S.C. § 1524
+
+> in subsection (b), by striking “8 percent” and inserting “10 percent”; and
+
+| | |
+|---|---|
+| Removed | `8 percent` |
+| Inserted | `10 percent` |
 
 ### 21 U.S.C. § 1532
 
@@ -168,14 +195,59 @@ to guess them.
 | Removed | `an additional grant` |
 | Inserted | `the additional grants` |
 
-### 21 U.S.C. § 1521
+### 21 U.S.C. § 1536
 
-> Section 4(d) of Public Law 107–82 (21 U.S.C. 1521 note) is amended by striking “section 1032 of the National Narcotics Leadership Act of 1988 (15 U.S.C. 1532), make a grant of $2 million under subsection (a), for each of the fiscal years 2018 through 2023” and inserting “section 1024 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1524), make a grant of $2,500,000 under subsection (a), for each of the fiscal years 2025 through 2031”.
+> in the heading, by striking “Administrator” and inserting “Assistant Secretary”; and
 
 | | |
 |---|---|
-| Removed | `section 1032 of the National Narcotics Leadership Act of 1988 (15 U.S.C. 1532), make a grant of $2 million under subsection (a), for each of the fiscal years 2018 through 2023` |
-| Inserted | `section 1024 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1524), make a grant of $2,500,000 under subsection (a), for each of the fiscal years 2025 through 2031` |
+| Removed | `Administrator` |
+| Inserted | `Assistant Secretary` |
+
+### 21 U.S.C. § 1536
+
+> by striking “Administrator” each place it appears and inserting “Assistant Secretary”;
+
+| | |
+|---|---|
+| Removed | `Administrator` |
+| Inserted | `Assistant Secretary` |
+
+### 21 U.S.C. § 1536
+
+> in paragraph (4)(B), by striking “abuse” and inserting “use or misuse”; and
+
+| | |
+|---|---|
+| Removed | `abuse` |
+| Inserted | `use or misuse` |
+
+### 21 U.S.C. § 1536
+
+> in paragraph (5)(A), by striking “abuse” and inserting “use or misuse”;
+
+| | |
+|---|---|
+| Removed | `abuse` |
+| Inserted | `use or misuse` |
+
+### 21 U.S.C. § 1536
+
+> in subsection (b), by striking “Administrator” and inserting “Assistant Secretary”;
+
+| | |
+|---|---|
+| Removed | `Administrator` |
+| Inserted | `Assistant Secretary` |
+
+### 21 U.S.C. § 1536
+
+> in subsection (h), by striking “Administrator” and inserting “Assistant Secretary”; and
+
+| | |
+|---|---|
+| Removed | `Administrator` |
+| Inserted | `Assistant Secretary` |
 
 ## Stated, not applied
 
@@ -197,7 +269,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 1701` | redesignate | by redesignating subparagraphs (G) and (H) as subparagraphs (H) and (I), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1701` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1701` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 1702` | replace | in paragraph (5)(B), by striking “accepted by a contractor to be used in its performance of a contract for the Office” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 1702` | replace | in paragraph (5)(B), by striking “accepted by a contractor to be used in its performance of a contract for the Office.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 1702` | insert | in paragraph (6), by inserting after “paragraph (5)” the following: “and the registry shall be sent to the appropriate Congressional committees”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | insert | in paragraph (16), by inserting after “to treat addiction” the following: “, encourage primary substance use prevention, and increase accessibility and effectiveness of life-saving opioid antagonists or reversal agents, such as naloxone”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | strike | by striking paragraph (20); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -230,7 +302,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 1705` | insert | in subparagraph (M)(iv), by inserting “storing and retrieving,” after “collecting,”; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 1705` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (G) and (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1705` | insert | by inserting after subparagraph (D) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 1705` | strike | in subclause (I), by striking “; and”; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 1705` | replace | in subclause (I), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 1705` | replace | in subclause (II), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 1705` | insert | by inserting at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1705` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -242,14 +314,17 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 1706` | replace | in paragraph (5). by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 1706` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 1706` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 1706` | strike | in subsection (r)(3), by striking “addiction”; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 1706` | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 1706` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 1706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1706` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1708` | insert | in subsection (f)(2)(B)(iii), by inserting after “professionals” the following: “including experts in evidence-based media campaigns, education, and evaluation”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1711` | insert | in section 714 (21 U.S.C. 1711), by inserting before the period at the end the following: “and $20,000,000 for each of fiscal years 2025 through 2031”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 1524` | insert | in section 1024(a) (21 U.S.C. 1524(a)), by inserting before the period at the end the following: “and $109,000,000 for each of fiscal years 2025 through 2031”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 1524` | insert | in subsection (a), by inserting before the period at the end the following: “and $109,000,000 for each of fiscal years 2025 through 2031”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1532` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1532` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 1536` | insert | Subsection (i) of section 103 of the Comprehensive Addiction and Recovery Act of 2016 (21 U.S.C. 1536) is amended by inserting before the period at the end the following: “and $5,200,000 for each of fiscal years 2025 through 2031”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 1521` | replace | Section 4(d) of Public Law 107–82 (21 U.S.C. 1521 note) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 1536` | insert | in subsection (i), by inserting before the period at the end the following: “and $5,200,000 for each of fiscal years 2025 through 2031”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 1701` | add-at-end | The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 1701` | add-at-end | The Table of Contents for the Office of National Drug Control Policy Reauthorization Act of 2006 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -49,7 +49,7 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       > - **(21)** *Evidence* The term ‘evidence’ has the meaning given that term in section 3561 of title 44, United States Code.
 
   - **(2)** in section 703(d) (21 U.S.C. 1702(d))—
-    - **(A)** in paragraph (5)(B), by striking “accepted by a contractor to be used in its performance of a contract for the Office” and inserting the following:
+    - **(A)** in paragraph (5)(B), by striking “accepted by a contractor to be used in its performance of a contract for the Office.” and inserting the following:
       > accepted—
       > - **(i)** by a contractor (or subcontractor thereof at any tier) for use in its performance of a contract for the Office; or
       > - **(ii)** by a grant recipient (or subgrantee thereof at any tier) for use in carrying out an award related to a fund administered by the Office.
@@ -79,7 +79,7 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       - **(i)** in paragraph (1)(A), by striking “to address illicit drug use issues” and inserting the following: “to address illicit drug use, prevention and treatment of overdose and addiction, and law enforcement activities”; and
       - **(ii)** in paragraph (2), by striking “2023” and inserting “2031”; and
     - **(F)** in subsection (k)—
-      - **(i)** in the heading, by striking “Harm Reduction Programs” and inserting “Substance use prevention, harm reduction, and life-Saving treatment programs”; and
+      - **(i)** in the heading, by striking “Harm Reduction Programs” and inserting “Substance use prevention, harm reduction, and life-saving treatment programs”; and
       - **(ii)** in the first sentence, by inserting after “drug addiction and use” the following: “with the primary goal being the prevention of initial or continued use and the fostering of life-saving opioid antagonists or reversal agents, such as naloxone”;
   - **(4)** in section 705 (21 U.S.C. 1704)—
     - **(A)** in subsection (a)(3)—
@@ -118,7 +118,7 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
 
       - **(iii)** in paragraph (3)—
         - **(I)** in subparagraph (B)(ii)—
-          - **(aa)** in subclause (I), by striking “; and”;
+          - **(aa)** in subclause (I), by striking “; and” and inserting a semicolon;
           - **(bb)** in subclause (II), by striking the period at the end and inserting “; and”; and
           - **(cc)** by inserting at the end the following new subclause:
             > - **(III)** an analysis of the effects of trends of encounters of inadmissible aliens at and between the ports of entry, and the effect of any increases or changes in the level of trade and travel, on the capacity and ability of the Department of Homeland Security to interdict and prevent the unlawful entry of illicit drugs into the United States by any means.
@@ -153,8 +153,8 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
 
     - **(C)** in subsection (g)(2)—
       - **(i)** in subparagraph (D), by striking “narcotics” and inserting “drugs”;
-      - **(ii)** in subparagraph (E), by striking “drug use” and inserting “illegal drug use”; and
-      - **(iii)** in subparagraph (F), by striking “drug use” and inserting “illegal drug use”;
+      - **(ii)** in subparagraph (E), by striking “drug use” and inserting “illicit drug use and misuse”; and
+      - **(iii)** in subparagraph (F), by striking “drug use” and inserting “illicit drug use and misuse”;
   - **(6)** in section 707 (21 U.S.C. 1706)—
     - **(A)** in subsection (l)(2)(F), by inserting “and authorities enforcing illicit drug trafficking laws” after “task forces”;
     - **(B)** in subsection (m)(2), by inserting “, authorities enforcing illicit drug trafficking laws,” after “agencies”;
@@ -164,14 +164,15 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       - **(iii)** by inserting at the end the following new paragraph:
         > - **(7)** $298,579,000 for each of fiscal years 2025 through 2031.
 
-    - **(D)** in subsection (s)—
+    - **(D)** in subsection (r)(3), by striking “addiction”;
+    - **(E)** in subsection (s)—
       - **(i)** in the matter before paragraph (1), by striking “The Director” and inserting “Except as provided in subsection (t)(2), the Director”;
       - **(ii)** in paragraph (2), by striking “; and” and inserting a semicolon;
       - **(iii)** in paragraph (3), by striking the period at the end and inserting “; and”; and
       - **(iv)** by adding at the end the following:
         > - **(4)** enhancing fentanyl seizure and interdiction activities.
 
-    - **(E)** by adding at the end the following:
+    - **(F)** by adding at the end the following:
       > - **(t)** *Supplemental grants for Fentanyl Interdiction Activities*
       >   - **(1)** *Minimum allocation of funds for fentanyl interdiction activities* Of the amounts allocated for grants under subsection (s), not less than $5,000,000 shall be allocated for the purpose of making grants under subsection (s)(4).
       >   - **(2)** *Additional funds* In addition to amounts allocated under subparagraph (A) for the purpose of making grants under subsection (s)(4), the Director may use amounts otherwise appropriated to carry out this section for such purpose.
@@ -185,7 +186,8 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       >   - **(2)** *Contents* The report shall include—
       >     - **(A)** the amounts of fentanyl or fentanyl analogues seized by HIDTA-funded initiative in the area during the previous year; and
       >     - **(B)** law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in fentanyl and fentanyl analogues.
-      > - **(w)** *Report on Data Analytical Services Program*
+      > - **(w)** *Protection from unreasonable search and seizure* Any program or activity that receives funds made available under this section shall be conducted in a manner consistent with the requirements of the Fourth Amendment to the Constitution of the United States.
+      > - **(x)** *Report on Data Analytical Services Program*
       >   - **(1)** *Report* With respect to the Data Analytical Services program (formally known as Hemisphere), and any successor program, the Director shall submit to the Committee on Oversight and Accountability and the Committee on the Judiciary of the House of Representatives, and the Committee on the Judiciary of the Senate a report every two years on any activities of the program—
       >     - **(A)** funded by the Office; and
       >     - **(B)** carried out in two years prior to the submission of the report.
@@ -198,14 +200,19 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       >       - **(ii)** payments made by the program to any non-governmental entity or external vendor.
       >     - **(C)** A description of any policies and guidelines provided to HIDTA personnel and local law enforcement jurisdictions governing the operation of the program in order to ensure that such program does not infringe on rights protected under the Fourth Amendment or violate legally protected privacy of United States citizens or individuals legally in the United States, along with any recommendations by the Director to strengthen such policies and guidelines.
 
-  - **(7)** in section 709(f)(1) (21 U.S.C. 1708(f)(1)), by striking “shall” and inserting “may”;
+  - **(7)** in section 709(f)(1) (21 U.S.C. 1708(f)(1))—
+    - **(A)** by striking “shall” and inserting “may”;
+    - **(B)** in subparagraph (A), by striking “abuse” and inserting “use or misuse”; and
+    - **(C)** in subparagraph (D)(i), by striking “addiction issues” and inserting “substance use disorders”;
   - **(8)** in section 709 (21 U.S.C. 1708)—
     - **(A)** in subsection (f)(2)(B)(iii), by inserting after “professionals” the following: “including experts in evidence-based media campaigns, education, and evaluation”; and
     - **(B)** in subsection (g), by striking “2023” and inserting “2031”;
   - **(9)** in section 711 (21 U.S.C. 1710), including the headings, by striking “Command and Control Plan” each place it appears and inserting “Strategic Plan”; and
   - **(10)** in section 714 (21 U.S.C. 1711), by inserting before the period at the end the following: “and $20,000,000 for each of fiscal years 2025 through 2031”.
 - **(b)** *Amendments to the Anti-Drug Abuse Act of 1988* The Anti-Drug Abuse Act of 1988 (Public Law 100–690) is amended—
-  - **(1)** in section 1024(a) (21 U.S.C. 1524(a)), by inserting before the period at the end the following: “and $109,000,000 for each of fiscal years 2025 through 2031”; and
+  - **(1)** in section 1024 (21 U.S.C. 1524)—
+    - **(A)** in subsection (a), by inserting before the period at the end the following: “and $109,000,000 for each of fiscal years 2025 through 2031”; and
+    - **(B)** in subsection (b), by striking “8 percent” and inserting “10 percent”; and
   - **(2)** in section 1032(b) (21 U.S.C. 1532(b))—
     - **(A)** by striking “$125,000” each place the term appears and inserting “$150,000”; and
     - **(B)** in paragraph (3)—
@@ -217,25 +224,40 @@ This Act may be cited as the “Office of National Drug Control Policy Reauthori
       - **(iv)** by striking subparagraph (D) and inserting the following:
         > - **(D)** *Renewal grants* Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each fiscal year of the 4-fiscal-year period following the first fiscal year for which an additional grant under this paragraph is awarded in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
-- **(c)** *Reauthorization of the National Community Anti-Drug Coalition Institute* Section 4(d) of Public Law 107–82 (21 U.S.C. 1521 note) is amended by striking “section 1032 of the National Narcotics Leadership Act of 1988 (15 U.S.C. 1532), make a grant of $2 million under subsection (a), for each of the fiscal years 2018 through 2023” and inserting “section 1024 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1524), make a grant of $2,500,000 under subsection (a), for each of the fiscal years 2025 through 2031”.
-- **(d)** *Reauthorization of community-Based coalition enhancement grants To address local drug crises* Subsection (i) of section 103 of the Comprehensive Addiction and Recovery Act of 2016 (21 U.S.C. 1536) is amended by inserting before the period at the end the following: “and $5,200,000 for each of fiscal years 2025 through 2031”.
-- **(e)** *Report regarding life-Saving opioid antagonists or reversal agents* The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469) is amended by adding at the end the following new section:
-  > ## § 1121. Requirement for life-saving opioid overdose reversal study
-  >
-  > - **(a)** *Finding* Congress finds that it is vital to support access to treatment and emergency intervention tools to address drug addiction while also pursuing strategies to ensure communities have readily available access to life-saving drug overdose reversal medications, including opioid antagonists or reversal agents, such as naloxone, in case of an emergency.
-  > - **(b)** *Report* Not later than 180 days after the date of the enactment of this section, the Director of the Office of National Drug Control Policy shall submit to Congress a report that contains the following:
-  >   - **(1)** A summary of the relevant roles, responsibilities, and authorities of each relevant National Drug Control Program agency to ensure that life-saving drug overdose reversal medications are readily available in case of an emergency, including life-saving opioid antagonists or reversal agents, such as naloxone, across the Nation.
-  >   - **(2)** A strategy for the Federal Government to ensure that State, local, and Tribal governments, and agencies thereof including law enforcement and public health and safety entities, have life-saving drug overdose reversal medications readily available in case of an emergency, including life-saving opioid antagonists or reversal agents, such as naloxone, which at a minimum identifies—
-  >     - **(A)** any Federal and State policies and actions necessary for the relevant National Drug Control Program agencies to take to address—
-  >       - **(i)** the challenges faced by pharmacists, prescription drug providers, dispensers (including manufacturers, distributors, and retailers), and other health care providers, to make such medications readily available to patients over the counter for emergency use;
-  >       - **(ii)** the challenges faced by pharmacists, health care providers, and State health officials to educate the public on the risks and benefits of such medications, including how to effectively use such medications; and
-  >       - **(iii)** the appropriate training of State and local health care providers and first responders on the use of such medications; and
-  >     - **(B)** identifies any budgetary resources, personnel resources, licensing requirements, and legal authorities that relevant National Drug Control Program agencies needs to enable the availability of such life-saving emergency drug overdose medications;
-  >   - **(3)** A summary of policies in effect before the submission of the report that are administered by—
-  >     - **(A)** the Director of the Office National Drug Control Policy;
-  >     - **(B)** the Secretary of Health and Human Services; and
-  >     - **(C)** each National Drug Control Program agency, as applicable.
-  >   - **(4)** A summary of the specific actions taken over the previous 10 years before the submission of the report by the Substance Abuse and Mental Health Services Administration and the Drug Enforcement Administration to coordinate with one another and with State health agencies to ensure that—
-  >     - **(A)** such treatments, including medications, are accessible to the public; and
-  >     - **(B)** appropriate public education on the use of, and the risks and benefits of, such treatments, including medications, are readily available.
-  > - **(c)** *Updates* Any significant update made to the strategy included in the report required by paragraph (2)(B) after such report is submitted shall be included in the next National Drug Control Strategy submitted to Congress after such update is made.
+- **(c)** *Reauthorization of the National Community Anti-Drug Coalition Institute* Section 4(d) of Public Law 107–82 (21 U.S.C. 1521 note) is amended by striking paragraph (2) and inserting the following:
+  > - **(2)** *Disbursement* The Director shall, using amounts authorized to be appropriated by section 1024 of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1524), disburse $2,500,000 made available under subsection (a), for each of the fiscal years 2025 through 2031.
+
+- **(d)** *Reauthorization of community-based coalition enhancement grants to address local drug crises* Section 103 of the Comprehensive Addiction and Recovery Act of 2016 (21 U.S.C. 1536) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (1)—
+      - **(i)** in the heading, by striking “Administrator” and inserting “Assistant Secretary”; and
+      - **(ii)** by striking “Administrator” each place it appears and inserting “Assistant Secretary”;
+    - **(B)** in paragraph (4)(B), by striking “abuse” and inserting “use or misuse”; and
+    - **(C)** in paragraph (5)(A), by striking “abuse” and inserting “use or misuse”;
+  - **(2)** in subsection (b), by striking “Administrator” and inserting “Assistant Secretary”;
+  - **(3)** in subsection (h), by striking “Administrator” and inserting “Assistant Secretary”; and
+  - **(4)** in subsection (i), by inserting before the period at the end the following: “and $5,200,000 for each of fiscal years 2025 through 2031”.
+- **(e)** *Report regarding life-saving opioid antagonists or reversal agents*
+  - **(1)** *Amendment* The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469) is amended by adding at the end the following new section:
+    > ## § 1121. Requirement for life saving opioid overdose reversal study
+    >
+    > - **(a)** *Finding* Congress finds that it is vital to support access to treatment and emergency intervention tools to address drug addiction while also pursuing strategies to ensure communities have readily available access to life-saving drug overdose reversal medications, including opioid antagonists or reversal agents, such as naloxone, in case of an emergency.
+    > - **(b)** *Report* Not later than 180 days after the date of the enactment of this section, the Director of the Office of National Drug Control Policy shall submit to Congress a report that contains the following:
+    >   - **(1)** A summary of the relevant roles, responsibilities, and authorities of each relevant National Drug Control Program agency to ensure that life-saving drug overdose reversal medications are readily available in case of an emergency, including life-saving opioid antagonists or reversal agents, such as naloxone, across the Nation.
+    >   - **(2)** A strategy for the Federal Government to ensure that State, local, and Tribal governments, and agencies thereof including law enforcement and public health and safety entities, have life-saving drug overdose reversal medications readily available in case of an emergency, including life-saving opioid antagonists or reversal agents, such as naloxone, which at a minimum identifies—
+    >     - **(A)** any Federal and State policies and actions necessary for the relevant National Drug Control Program agencies to take to address—
+    >       - **(i)** the challenges faced by pharmacists, prescription drug providers, dispensers (including manufacturers, distributors, and retailers), and other health care providers, to make such medications readily available to patients over the counter for emergency use;
+    >       - **(ii)** the challenges faced by pharmacists, health care providers, and State health officials to educate the public on the risks and benefits of such medications, including how to effectively use such medications; and
+    >       - **(iii)** the appropriate training of State and local health care providers and first responders on the use of such medications; and
+    >     - **(B)** identifies any budgetary resources, personnel resources, licensing requirements, and legal authorities that relevant National Drug Control Program agencies needs to enable the availability of such life-saving emergency drug overdose medications;
+    >   - **(3)** A summary of policies in effect before the submission of the report that are administered by—
+    >     - **(A)** the Director of the Office National Drug Control Policy;
+    >     - **(B)** the Secretary of Health and Human Services; and
+    >     - **(C)** each National Drug Control Program agency, as applicable.
+    >   - **(4)** A summary of the specific actions taken over the previous 10 years before the submission of the report by the Substance Abuse and Mental Health Services Administration and the Drug Enforcement Administration to coordinate with one another and with State health agencies to ensure that—
+    >     - **(A)** such treatments, including medications, are accessible to the public; and
+    >     - **(B)** appropriate public education on the use of, and the risks and benefits of, such treatments, including medications, are readily available.
+    > - **(c)** *Updates* Any significant update made to the strategy included in the report required by paragraph (2)(B) after such report is submitted shall be included in the next National Drug Control Strategy submitted to Congress after such update is made.
+
+  - **(2)** *Technical and conforming amendment* The Table of Contents for the Office of National Drug Control Policy Reauthorization Act of 2006 is amended by adding at the end the following new item:
+- **(f)** *Report on pill press machines* Not later than 120 days after the date of the enactment of this Act, the Director of the Office of Drug Control Policy shall make public a report that includes an analysis of and a description of strategic ways to regulate the shipment of pill press machines and their critical parts using reports previously prepared by the Office.
