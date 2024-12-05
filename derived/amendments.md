@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1165
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-56 amendatory instructions. 24 executed, 32 stated and not applied.
+56 amendatory instructions. 23 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -80,12 +80,21 @@ to guess them.
 
 ### 15 U.S.C. § 6802
 
-> by striking “or security ” and inserting “security, or integrity”;
+> by striking “Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal information” and inserting “The general collection and disclosure procedures provided in subsections (a) and (b) shall not prohibit or otherwise limit the collection or disclosure of nonpublic personal information”;
+
+| | |
+|---|---|
+| Removed | `Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal information` |
+| Inserted | `The general collection and disclosure procedures provided in subsections (a) and (b) shall not prohibit or otherwise limit the collection or disclosure of nonpublic personal information` |
+
+### 15 U.S.C. § 6802
+
+> by striking “or security ” and inserting “, security, or integrity”;
 
 | | |
 |---|---|
 | Removed | `or security` |
-| Inserted | `security, or integrity` |
+| Inserted | `, security, or integrity` |
 
 ### 15 U.S.C. § 6802
 
@@ -188,25 +197,7 @@ to guess them.
 
 ### 15 U.S.C. § 6803
 
-> in paragraph (3), as so redesignated, by striking “ceased to be customers of the financial institution” and inserting “ceased to have a customer or consumer relationship with the financial institution”; and
-
-| | |
-|---|---|
-| Removed | `ceased to be customers of the financial institution` |
-| Inserted | `ceased to have a customer or consumer relationship with the financial institution` |
-
-### 15 U.S.C. § 6803
-
-> in paragraph (4), as so redesignated, by striking “nonpublic personal information of consumers” and inserting “nonpublic personal information of individual with whom the financial institution has a customer or consumer relationship”.
-
-| | |
-|---|---|
-| Removed | `nonpublic personal information of consumers` |
-| Inserted | `nonpublic personal information of individual with whom the financial institution has a customer or consumer relationship` |
-
-### 15 U.S.C. § 6803
-
-> in paragraph 2(A), by striking “to consumers” and inserting “to individuals with whom a financial institution has a customer or consumer relationship”; and
+> in paragraph (2)(A), by striking “to consumers” and inserting “to individuals with whom a financial institution has a customer or consumer relationship”; and
 
 | | |
 |---|---|
@@ -215,7 +206,7 @@ to guess them.
 
 ### 15 U.S.C. § 6803
 
-> in paragraph 2(C), by striking “enable consumers” and inserting “enable individuals with whom a financial institution has a customer or consumer relationship”; and
+> in paragraph (2)(C), by striking “enable consumers” and inserting “enable individuals with whom a financial institution has a customer or consumer relationship”; and
 
 | | |
 |---|---|
@@ -252,7 +243,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6801` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6802` | insert | by inserting before “disclose” the following: “collect nonpublic personal information from an individual with whom such financial institution has a customer or consumer relationship or”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6802` | amend | in subsection (b), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6802` | replace | by striking “(e) General Exceptions.—” and all that follows through the end of paragraph (2) and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 6802` | strike | in the heading, by striking “General”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 6802` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6802` | insert | by inserting before the semicolon the following: “, as well as the systems, processes, and services that handle such records”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6802` | insert | in subparagraph (B), by inserting after “fraud,” the following: “identity theft,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6802` | insert | by inserting “collection or” before “disclosure”; | the bill quotes the text inserted but describes where it goes |
@@ -270,14 +262,14 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6804` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6804` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6807` | amend | Section 507 of the Gramm-Leach-Bliley Act (15 U.S.C. 6807) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6801` | insert | Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.) is amended by inserting after section 502 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6801` | insert | The table of contents in section 1(b) of the Gramm-Leach-Bliley Act is amended by inserting after the item relating to section 502 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6801` | insert | Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.), as amended by section 10, is further amended by inserting after section 502A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6801` | insert | The table of contents in section 1(b) of the Gramm-Leach-Bliley Act, as amended by section 10, is further amended by inserting after the item relating to section 502A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6809` | insert | in paragraph (3)(A), by inserting before the period at the end the following: “and includes a data aggregator”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6809` | insert | in paragraph (7), by inserting “collection or” before “disclosure” each place such term appears; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6809` | strike | by striking paragraph (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6809` | amend | by amending paragraph (11) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5481` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6801` | insert | Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.) is amended by inserting after section 502 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6801` | insert | The table of contents in section 1(b) of the Gramm-Leach-Bliley Act is amended by inserting after the item relating to section 502 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6801` | insert | Title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.), as amended by section 10, is further amended by inserting after section 502A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6801` | insert | The table of contents in section 1(b) of the Gramm-Leach-Bliley Act, as amended by section 10, is further amended by inserting after the item relating to section 502A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6808` | strike | by striking section 508 (15 U.S.C. 6808); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6808` | strike | in the table of contents in section 1(b), by striking the item relating to section 508. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

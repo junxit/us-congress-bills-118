@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1165
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1165
@@ -25,3 +25,8 @@ Data Privacy Act of 2023
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Introduced in House
 - 2023-02-24 — Referred to the House Committee on Financial Services.
+- 2023-02-28 — Committee Consideration and Mark-up Session Held.
+- 2023-02-28 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 26 - 21.
+- 2024-12-05 — Placed on the Union Calendar, Calendar No. 673.
+- 2024-12-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-822.
+- 2024-12-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 118-822.
