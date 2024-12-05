@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9580
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9580
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 2777 Br
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 2777 Br
 - 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6334)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6334)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
