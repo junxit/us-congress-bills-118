@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 390
@@ -20,9 +20,10 @@ Maurice D. Hinchey Hudson River Valley National Heritage Area Enhancement Act
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Maurice D. Hinchey Hudson River Valley National Heritage Area Enhancement Act
 - 2024-12-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 16 (Roll no. 480). (text: 12/3/2024 CR H6279)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 16 (Roll no. 480). (text: 12/3/2024 CR H6279)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
