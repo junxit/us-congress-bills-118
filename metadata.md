@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9566
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9566
@@ -38,3 +38,12 @@ SHARE IT Act
 - 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
 - 2024-12-05 — Received in the Senate, read twice.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7093)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-187.
+- 2024-12-23 — Became Public Law No: 118-187.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
