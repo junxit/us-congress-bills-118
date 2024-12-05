@@ -1,7 +1,7 @@
 ---
 measure: S. 709
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 0 executed, 25 stated and not applied.
+23 amendatory instructions. 0 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -47,11 +47,9 @@ complete account of the bill's effect, which it is not.
 | `44 U.S.C. § 3501` | replace | in subsection (c), by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1120(a)(2) of title 31, United States Code, is amended by striking the second sentence and inserting “Such goals shall— | the bill names no machine-readable US Code section |
 | — | replace | Section 1115(a) of title 31, United States Code, is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Chapter 11 of title 31, United States Code, is amended by striking sections 1118 and 1119. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection “(d)” as subsection “(c)”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (c). | the bill names no machine-readable US Code section |
 | — | strike | The table of sections for chapter 11 of title 31, United States Code, is amended by striking the items relating to sections 1118 and 1119. | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (8) by inserting “, as applicable” after “section 312”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (9), in the matter preceding subparagraph (A), by inserting “with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312,” before “an assessment”. | the bill names no machine-readable US Code section |
