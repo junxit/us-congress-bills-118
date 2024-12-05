@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 74
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 74
@@ -16,7 +16,7 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Cosponsors (23)
+## Cosponsors (37)
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -41,6 +41,20 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 - Sen. Braun, Mike [R-IN] (B001310)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Butler, Laphonza R. [D-CA] (B001320)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -50,3 +64,14 @@ A resolution condemning the Government of Iran's state-sponsored persecution of 
 
 - 2023-02-16 — Introduced in Senate
 - 2023-02-16 — Referred to the Committee on Foreign Relations. (text: CR S462-463)
+- 2024-12-05 — 
+- 2024-12-05 — Amendment SA 3312 agreed to in Senate by Unanimous Consent.
+- 2024-12-05 — Amendment SA 3312 proposed by Senator Wyden. (consideration: CR S6831-6832) To amend the preamble.
+- 2024-12-05 — Measure laid before Senate by unanimous consent. (consideration: CR S6830-6832)
+- 2024-12-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.
+- 2024-12-05 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (text: CR S6832)
+- 2024-12-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2024-12-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2024-12-05 — Senate amendment agreed to: Amendment SA 3312 agreed to in Senate by Unanimous Consent.
+- 2024-12-05 — Senate amendment proposed (on the floor): Amendment SA 3312 proposed by Senator Wyden.
+- 2024-12-05 — Senate amendment submitted
