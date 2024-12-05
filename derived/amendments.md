@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9750
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 4 executed, 11 stated and not applied.
+11 amendatory instructions. 4 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,7 +53,7 @@ to guess them.
 
 ### 42 U.S.C. § 5174
 
-> Clauses (iii) and (iv) of section 408(c)(1)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(c)(1)(B)) is amended by striking “18-month period” and inserting “24-month period”.
+> Clauses (iii) and (iv) of section 408(c)(1)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(c)(1)(B)) are amended by striking “18-month period” and inserting “24-month period”.
 
 | | |
 |---|---|
@@ -76,7 +76,3 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5170b` | replace | in subparagraph (J) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5170b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5170b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5165b` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5165b` | redesignate | in the matter preceding clause (i), as so redesignated, by striking “provide the following percentage rates” and inserting “provide— | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 5165b` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5165b` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

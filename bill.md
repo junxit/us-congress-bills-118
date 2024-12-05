@@ -75,7 +75,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(A)** means any necessary expenses for activities related to disaster relief, resiliency, long-term recovery, restoration of infrastructure and housing, mitigation, and economic revitalization related to a major disaster declared by the President under section 401; and
   >     - **(B)** may include—
   >       - **(i)** any unresourced item, support, or assistance that has been assessed and verified as necessary for a survivor to recover from a major disaster, including food, clothing, shelter, first aid, emotional and spiritual care, household items, home repair, or rebuilding; and
-  >       - **(ii)** cleaning and removing debris from rivers, creeks, streams, and ditches
+  >       - **(ii)** cleaning and removing debris from rivers, creeks, streams, and ditches.
 
 - **(b)** *Limitation* No amounts made available by an appropriations Act that provide funding for any activity not authorized by law for the program established under section 431 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as added by this Act) may be expended.
 
@@ -148,7 +148,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 7. Appeals of individuals and households program benefits
 
-- **(a)** *Period of assistance* Clauses (iii) and (iv) of section 408(c)(1)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(c)(1)(B)) is amended by striking “18-month period” and inserting “24-month period”.
+- **(a)** *Period of assistance* Clauses (iii) and (iv) of section 408(c)(1)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(c)(1)(B)) are amended by striking “18-month period” and inserting “24-month period”.
 - **(b)** *Appeals* The Administrator shall revise section 206.115 of title 44, Code of Federal Regulations, to require the Federal Emergency Management Agency to provide to any applicant who appeals a determination of eligibility of assistance—
   - **(1)** any documentation used to make such determination, including any inspection documents that exist;
   - **(2)** a description of—
@@ -179,42 +179,9 @@ Not later than 180 days after the date of enactment of this Act, the Administrat
 
 Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall—
 
-- **(1)** conduct a review of the fiscal controls of States that receive assistance under section 431 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as added by section 3; and
+- **(1)** conduct a review of the fiscal controls of States that receive assistance under section 432 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as added by section 3; and
 - **(2)** make recommendations regarding the program established under such section to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-## § 10. Use of excess funds for management costs
-
-- **(a)** *In general* Section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) is amended—
-  - **(1)** in subsection (b)(2)—
-    - **(A)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; and
-    - **(B)** in the matter preceding clause (i), as so redesignated, by striking “provide the following percentage rates” and inserting “provide—
-      > - **(A)** excess funds for management costs as described in subsection (c); and
-      > - **(B)** the following percentage rates
-
-  - **(2)** by redesignating subsection (c) as subsection (d); and
-  - **(3)** by inserting after subsection (b) the following:
-    > - **(c)** *Use of excess funds for management costs*
-    >   - **(1)** *Definition* In this subsection, the term excess funds for management costs means the difference between—
-    >     - **(A)** the amount of the applicable specific management costs authorized under subsection (b)(1) and subsection (b)(2)(B); and
-    >     - **(B)** as of the date on which the grant award is closed, the amount of funding for management costs activities expended by the grantee or subgrantee receiving the financial assistance for costs described in subparagraph (A).
-    >   - **(2)** *Availability of excess funds for management costs* The President may make available to a grantee or subgrantee receiving financial assistance under section 403, 404, 406, 407, or 502 any excess funds for management costs.
-    >   - **(3)** *Use of funds* Excess funds for management costs made available to a grantee or subgrantee under paragraph (2) may be used for—
-    >     - **(A)** activities associated with building capacity to prepare for, recover from, or mitigate the impacts of a major disaster or emergency declared under section 401 or 501, respectively; and
-    >     - **(B)** management costs associated with any—
-    >       - **(i)** major disaster;
-    >       - **(ii)** emergency;
-    >       - **(iii)** disaster preparedness measure; or
-    >       - **(iv)** mitigation activity or measure authorized under section 203, 204, 205, or 404.
-    >   - **(4)** *Availability* Excess funds for management costs made available to a grantee or subgrantee under paragraph (2) shall remain available to the grantee or subgrantee until the date that is 5 years after the date on which the excess funds for management costs are made available under paragraph (2).
-
-- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to any grant award in relation to a major disaster or emergency declared under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191)—
-  - **(1)** the declaration of which is made on or after the date of enactment of this Act; and
-  - **(2)** that is funded with amounts appropriated on or after the date of enactment of this Act.
-- **(c)** *GAO study* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report—
-  - **(1)** on the actual management costs described in section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) during the period of a major disaster declaration under section 401 of such Act (42 U.S.C. 5170) to determine whether the amount set aside for those management costs after the date of enactment of this Act is appropriate; and
-  - **(2)** that includes the management costs described in section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b) for each disaster declared under during the period of a major disaster declaration under section 401 of such Act (42 U.S.C. 5170) during the 5-year period preceding the date of the report, the amount set aside for those management costs, the use of those management costs, the length of each disaster, and the reason for the length of each disaster.
-- **(d)** *No additional funds* No additional funds are authorized to be appropriated to carry out the amendments made by subsection (a).
-
-## § 11. GAO study on timing of closing out disaster recovery
+## § 10. GAO study on timing of closing out disaster recovery
 
 Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on how long it takes the Administrator of the Federal Emergency Management Agency to officially close out each major disaster declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) pursuant to section 705 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5205).
