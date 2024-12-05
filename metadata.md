@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7508
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7508
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 1285 Em
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 1285 Em
 - 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6328-6329)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6328-6329)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
