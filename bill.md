@@ -20,8 +20,8 @@ In this Act:
 - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
 - **(2)** *Beneficial owner*
   - **(A)** *In general* The term beneficial owner, with respect to a covered entity, means each natural person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
-    - **(i)** exercises control over the covered entity; or
-    - **(ii)** has a substantial interest in or receives substantial economic benefits from the assets of the covered entity.
+    - **(i)** exercises substantial control over the covered entity; or
+    - **(ii)** owns or controls not less than 25 percent of the ownership interests of, or receives substantial economic benefits from the assets of, the covered entity.
   - **(B)** *Exclusions* The term beneficial owner, with respect to a covered entity, does not include—
     - **(i)** a minor;
     - **(ii)** a person acting as a nominee, intermediary, custodian, or agent on behalf of another person;
@@ -30,10 +30,10 @@ In this Act:
     - **(v)** a creditor of the covered entity, unless the creditor also meets the requirements of subparagraph (A).
   - **(C)** *Anti-abuse rule* The exclusions under subparagraph (B) shall not apply if, in the determination of the Administrator, an exclusion is used for the purpose of evading, circumventing, or abusing the requirements of this Act.
 - **(3)** *Control* The term control, with respect to a covered entity, means—
-  - **(A)** having the authority or ability to determine how the covered entity is used; or
-  - **(B)** having some decision-making power for the use of the covered entity.
+  - **(A)** having the authority or ability to determine how the covered entity is utilized; or
+  - **(B)** having some decisionmaking power for the use of the covered entity.
 - **(4)** *Covered entity* The term covered entity means—
-  - **(A)** a person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group; and
+  - **(A)** a person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group; or
   - **(B)** any governmental entity or instrumentality of a government.
 - **(5)** *Executive agency* The term Executive agency has the meaning given the term in section 105 of title 5, United States Code.
 - **(6)** *Federal agency* The term Federal agency means—
@@ -50,7 +50,13 @@ In this Act:
 - **(8)** *Federal tenant*
   - **(A)** *In general* The term Federal tenant means a Federal agency that is occupying or will occupy a high-security leased space for which a lease agreement has been secured on behalf of the Federal agency.
   - **(B)** *Exclusion* The term Federal tenant does not include an element of the intelligence community.
-- **(9)** *Foreign entity* The term foreign entity means a covered entity that is headquartered or incorporated in a country that is not the United States.
+- **(9)** *Foreign entity* The term foreign entity means—
+  - **(A)** a corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group that is headquartered in or organized under the laws of—
+    - **(i)** a country that is not the United States; or
+    - **(ii)** a State, unit of local government, or Indian Tribe that is not located within or a territory of the United States; or
+  - **(B)** a government or governmental instrumentality that is not—
+    - **(i)** the United States Government; or
+    - **(ii)** a State, unit of local government, or Indian Tribe that is located within or a territory of the United States.
 - **(10)** *Foreign person* The term foreign person means an individual who is not a United States person.
 - **(11)** *High-security leased adjacent space* The term high-security leased adjacent space means a building or office space that shares a boundary with or surrounds a high-security leased space.
 - **(12)** *High-security leased space* The term high-security leased space means a space leased by a Federal lessee that—
@@ -70,25 +76,29 @@ In this Act:
   - **(A)** is a citizen of the United States; or
   - **(B)** is an alien lawfully admitted for permanent residence in the United States.
 
-## § 3. Governmentwide study
+## § 3. Government-wide study
 
-- **(a)** *Coordination study* The Administrator, in coordination with the Director of the Federal Protective Service, the Secretary of Homeland Security, the Director of the Office of Management and Budget, and any other relevant entities, as determined by the Administrator, shall carry out a governmentwide study examining options to assist agencies (as defined is defined in section 551 of title 5, United States Code) to produce a security assessment process on high-security leased adjacent space before entering into a lease or novation agreement with a covered entity for the purposes of accommodating a Federal tenant located in a high-security leased space.
+- **(a)** *Coordination study* The Administrator, in coordination with the Director of the Federal Protective Service, the Secretary of Homeland Security, the Director of the Office of Management and Budget, and any other relevant entities, as determined by the Administrator, shall carry out a Government-wide study examining options to assist agencies (as defined in section 551 of title 5, United States Code) to produce a security assessment process for high-security leased adjacent space before entering into a lease or novation agreement with a covered entity for the purposes of accommodating a Federal tenant located in a high-security leased space.
 - **(b)** *Contents* The study required under subsection (a)—
-  - **(1)** shall evaluate how to produce a security assessment process that includes a process for assessing the threat level of each occupancy of a high-security leased space, including through—
+  - **(1)** shall evaluate how to produce a security assessment process that includes a process for assessing the threat level of each occupancy of a high-security leased adjacent space, including through—
     - **(A)** site-visits;
     - **(B)** interviews; and
     - **(C)** any other relevant activities determined necessary by the Director of the Federal Protective Service; and
   - **(2)** may include a process for collecting and using information on each immediate owner, highest-level owner, or beneficial owner of a covered entity that seeks to enter into a lease with a Federal lessee for a high-security leased adjacent space, including—
     - **(A)** name;
     - **(B)** current residential or business street address; and
-    - **(C)** an identifying number or document that verifies identity as a United States person, a foreign person, or foreign entity.
+    - **(C)** an identifying number or document that verifies identity as a United States person, a foreign person, or a foreign entity.
 - **(c)** *Working group*
   - **(1)** *In general* Not later than 90 days after the date of enactment of this Act, the Administrator, in coordination with the Director of Federal Protective Service, the Secretary of Homeland Security, the Director of the Office of Management and Budget, and any other relevant entities, as determined by the Administrator, shall establish a working group to assist in the carrying out of the study required under subsection (a).
   - **(2)** *No compensation* A member of the working group established under paragraph (1) shall receive no compensation as a result of serving on the working group.
-  - **(3)** *Sunset* The working group established under paragraph (1) shall terminate on the date on which the report required under subsection (e) is submitted.
+  - **(3)** *Sunset* The working group established under paragraph (1) shall terminate on the date on which the report required under subsection (f) is submitted.
 - **(d)** *Protection of information* The Administrator shall ensure that any information collected pursuant to the study required under subsection (a) shall not be made available to the public.
-- **(e)** *Report* Not later than 2 years after the date of enactment of this Act, the Administrator, in coordination with the Director of Federal Protective Service, the Secretary of Homeland Security, the Director of the Office of Management and Budget, and any other relevant entities, as determined by the Administrator, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing—
+- **(e)** *Limitation* Nothing in this section requires an entity located in the United States to provide information requested pursuant to the study required under subsection (a).
+- **(f)** *Report* Not later than 2 years after the date of enactment of this Act, the Administrator, in coordination with the Director of Federal Protective Service, the Secretary of Homeland Security, the Director of the Office of Management and Budget, and any other relevant entities, as determined by the Administrator, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing—
   - **(1)** the results of the study required under subsection (a); and
   - **(2)** how all applicable privacy laws and rights relating to the First and Fourth Amendments to the Constitution of the United States would be upheld and followed in—
     - **(A)** the security assessment process described in paragraph (1) of subsection (b); and
     - **(B)** the information collection process described in paragraph (2) of that subsection.
+- **(g)** *Limitation* Nothing in this section authorizes a Federal entity to mandate information gathering unless specifically authorized by law.
+- **(h)** *Prohibition* No information collected pursuant the security assessment process described in subsection (b)(1) may be used for law enforcement purposes.
+- **(i)** *No additional funding* No additional funds are authorized to be appropriated to carry out this section.

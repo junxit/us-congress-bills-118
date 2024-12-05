@@ -1,7 +1,7 @@
 ---
 measure: S. 1868
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1868
@@ -32,3 +32,5 @@ Secure Adjacent Federal Property Act of 2023
 - 2023-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-82.
 - 2023-07-27 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-82.
 - 2023-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.
+- 2024-12-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6851-6852; text: CR S6851-6852)
+- 2024-12-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
