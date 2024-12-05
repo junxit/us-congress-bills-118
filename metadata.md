@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9600
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9600
@@ -36,8 +36,22 @@ To designate the facility of the United States Postal Service located at 119 Mai
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2024-12-05 — [House 118-2-486](votes/house-118-2-0486.md) — On Motion to Suspend the Rules and Pass — **Passed** (381–15)
+
 ## Actions
 
 - 2024-09-16 — Introduced in House
 - 2024-09-16 — Introduced in House
 - 2024-09-16 — Referred to the House Committee on Oversight and Accountability.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported by Voice Vote.
+- 2024-12-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-04 — Considered under suspension of the rules. (consideration: CR H6325-6327)
+- 2024-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9600.
+- 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2024-12-05 — Considered as unfinished business. (consideration: CR H6396-6397)
+- 2024-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 15, 2 Present (Roll no. 486). (text: 12/4/2024 CR H6325-6326)
+- 2024-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 15, 2 Present (Roll no. 486). (text: 12/4/2024 CR H6325-6326)
