@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7158
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7158
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 201 Eas
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Fong, Vince [R-CA-20] (F000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ To designate the facility of the United States Postal Service located at 201 Eas
 - 2024-12-04 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6328)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6328)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
