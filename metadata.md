@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9549
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9549
@@ -24,9 +24,10 @@ To designate the facility of the United States Postal Service located at 125 Sou
 - Rep. Salinas, Andrea [D-OR-6] (S001226)
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 125 Sou
 - 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6334)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6334)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
