@@ -1,7 +1,7 @@
 ---
 measure: S. 4667
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4667
@@ -16,6 +16,10 @@ Risky Research Review Act
 
 - Sen. Paul, Rand [R-KY] (P000603)
 
+## Cosponsors (1)
+
+- Sen. Peters, Gary C. [D-MI] (P000595)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,8 @@ Risky Research Review Act
 
 - 2024-07-10 — Introduced in Senate
 - 2024-07-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-11 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-264.
+- 2024-12-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-264.
+- 2024-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 667.
