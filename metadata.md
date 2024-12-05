@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2892
@@ -16,7 +16,7 @@ WARN Act
 
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 
-## Cosponsors (6)
+## Cosponsors (23)
 
 - Rep. Higgins, Brian [D-NY-26] (H001038)
 - Rep. Morelle, Joseph D. [D-NY-25] (M001206)
@@ -24,6 +24,23 @@ WARN Act
 - Rep. Luna, Anna Paulina [R-FL-13] (L000596)
 - Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
+- Rep. Kilmer, Derek [D-WA-6] (K000381)
+- Rep. Trone, David J. [D-MD-6] (T000483)
+- Rep. Harder, Josh [D-CA-9] (H001090)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
+- Rep. Carter, Troy A. [D-LA-2] (C001125)
+- Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
 ## Committees (1)
 
@@ -34,3 +51,10 @@ WARN Act
 - 2023-04-26 — Introduced in House
 - 2023-04-26 — Introduced in House
 - 2023-04-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-04-27 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2024-09-18 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2024-12-05 — Placed on the Union Calendar, Calendar No. 666.
+- 2024-12-05 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-814.
+- 2024-12-05 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-814.
