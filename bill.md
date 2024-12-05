@@ -21,160 +21,87 @@ In this Act:
 - **(2)** *Frontier County* The term Frontier County means Frontier County, Nebraska, acting through the Board of Commissioners of Frontier County.
 - **(3)** *Hitchcock County* The term Hitchcock County means Hitchcock County, Nebraska, acting through the Board of Commissioners of Hitchcock County.
 - **(4)** *Hugh Butler Reservoir* The term Hugh Butler Reservoir means the Hugh Butler Lake and Red Willow Dam constructed as part of the Pick-Sloan Missouri Basin Program, Frenchman-Cambridge Division, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
-- **(5)** *Lakeview Lodge Management Agreement* The term Lakeview Lodge Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Operation, and Maintenance of a Concession Operation at Swanson Reservoir”, numbered 23–LM–60–4160, and dated March 1, 2022.
-- **(6)** *Lakeview Lodge Permitted Concession Land* The term Lakeview Lodge Permitted Concession Land means the approximately 21.5 acres of land and water for the operation of a public concession at Swanson Reservoir—
-  - **(A)** located in the NE¼NE¼ sec. 9, T. 2 N., R. 34 W., sixth principal meridian;
-  - **(B)** as generally depicted on the map prepared by the Bureau of Reclamation entitled “Lakeview Lodge Concession Boundary” and dated August 2023; and
-  - **(C)** as further defined by a land survey, as the Secretary determines to be appropriate.
-- **(7)** *Property* The term property means any cabin or trailer site—
-  - **(A)** with respect to which a permit is in effect on the date of enactment of this Act; and
-  - **(B)** that is located on—
-    - **(i)** the Lakeview Lodge Permitted Concession Land;
-    - **(ii)** the Red Willow Permitted Cabin Land;
-    - **(iii)** the Red Willow Permitted Concession Land;
-    - **(iv)** the Swanson Permitted Cabin Land; or
-    - **(v)** the Swanson Permitted Concession Land.
-- **(8)** *Red Willow Management Agreement* The term Red Willow Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of a Concession Operation at Hugh Butler Reservoir”, numbered 24–LM–60–5155, and dated May 1, 2024.
-- **(9)** *Red Willow Permitted Cabin Land* The term Red Willow Permitted Cabin Land means the approximately 6.5 acres of land encompassing the 8 permitted cabin lots at the Hugh Butler Reservoir—
-  - **(A)** located in the S½ sec. 35, T. 5 N., R. 30 W., sixth principal meridian;
-  - **(B)** as generally depicted on the map prepared by the Bureau of Reclamation entitled “Red Willow Cabin Map” and dated March 2024; and
-  - **(C)** as further defined by a land survey, as the Secretary determines to be appropriate.
-- **(10)** *Red Willow Permitted Concession Land* The term Red Willow Permitted Concession Land means the approximately 23 acres of land and water for the operation of a public service concession at the Hugh Butler Reservoir—
-  - **(A)** located in the E½ sec. 25, T. 5 N., R. 30 W., sixth principal meridian;
-  - **(B)** as generally depicted on the map prepared by the Bureau of Reclamation entitled “Red Willow Concession Boundary” and dated August 2023; and
-  - **(C)** as further defined by a land survey, as the Secretary determines to be appropriate.
-- **(11)** *Requested Federal land* The term requested Federal land means each of the following parcels of land, or any subset of those parcels, with respect to which a title transfer agreement is executed:
+- **(5)** *Lakeview Lodge Management Agreement* The term Lakeview Lodge Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Operation, and Maintenance of a Concession Operation at Swanson Reservoir, Nebraska”, numbered 23–LM–60–4160, and dated November 1, 2023.
+- **(6)** *Lakeview Lodge Permitted Concession Land* The term Lakeview Lodge Permitted Concession Land means the approximately 21.5 acres of land and water for the operation of a public concession at Swanson Reservoir, as generally depicted on the map prepared by the Bureau of Reclamation entitled “Lakeview Lodge Concession Boundary” and dated August 2023.
+- **(7)** *Red Willow Management Agreement* The term Red Willow Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of a Concession Operation at Hugh Butler Reservoir, Nebraska”, numbered 24–LM–60–5155, and dated March 7, 2024.
+- **(8)** *Red Willow Permitted Cabin Land* The term Red Willow Permitted Cabin Land means the approximately 6.5 acres of land encompassing the 8 permitted cabin lots at the Hugh Butler Reservoir, as generally depicted on the map prepared by the Bureau of Reclamation entitled “Red Willow Cabin Map” and dated March 2024.
+- **(9)** *Red Willow Permitted Concession Land* The term Red Willow Permitted Concession Land means the approximately 23 acres of land and water for the operation of a public service concession at the Hugh Butler Reservoir, as generally depicted on the map prepared by the Bureau of Reclamation entitled “Red Willow Concession Boundary” and dated August 2023.
+- **(10)** *Requested Federal land* The term requested Federal land means each of the following parcels of land, or any subset of those parcels, with respect to which a title transfer agreement is executed:
   - **(A)** The Lakeview Lodge Permitted Concession Land.
   - **(B)** The Red Willow Permitted Cabin Land.
   - **(C)** The Red Willow Permitted Concession Land.
   - **(D)** The Swanson Permitted Cabin Land.
   - **(E)** The Swanson Permitted Concession Land.
-- **(12)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Commissioner of Reclamation.
-- **(13)** *State* The term State means the State of Nebraska.
-- **(14)** *Swanson Management Agreement* The term Swanson Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of Concession Operation at Swanson Reservoir”, numbered 23–LM–60–4170, and dated May 1, 2023.
-- **(15)** *Swanson Permitted Cabin Land* The term Swanson Permitted Cabin Land means the approximately 6.2 acres of land encompassing the 11 permitted cabin lots at the Swanson Reservoir—
-  - **(A)** located in the N1/2 sec. 18, S½ sec. 7, T. 2 N., R. 33 W., sixth principal meridian;
-  - **(B)** as generally depicted on the map prepared by the Bureau of Reclamation entitled “Swanson Cabin Map” and dated March 2024; and
-  - **(C)** as further defined by a land survey, as the Secretary determines to be appropriate.
-- **(16)** *Swanson Permitted Concession Land* The term Swanson Permitted Concession Land means the approximately 20 acres of land and water for the operation of a public service concession at the Swanson Reservoir—
-  - **(A)** located in the N½ sec. 17, T. 2 N., R. 33 W., sixth principal meridian;
-  - **(B)** as generally depicted on the map prepared by the Bureau of Reclamation entitled “Swanson Concession Boundary” and dated August 2023; and
-  - **(C)** as further defined by a land survey, as the Secretary determines to be appropriate.
-- **(17)** *Swanson Reservoir* The term Swanson Reservoir means the Swanson Reservoir and Trenton Dam constructed as part of the Pick-Sloan Missouri Basin Program, Frenchman-Cambridge Division, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
-- **(18)** *Title transfer agreement* The term title transfer agreement means a title transfer agreement between the Secretary and Frontier County or Hitchcock County, as applicable, entered into pursuant to a memorandum of agreement to determine the legal, institutional, and financial terms for the conveyance of the Lakeview Lodge Permitted Concession Land, Red Willow Permitted Cabin Land, Red Willow Permitted Concession Land, Swanson Permitted Cabin Land, or Swanson Permitted Concession Land, as applicable.
+- **(11)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Commissioner of Reclamation.
+- **(12)** *State* The term State means the State of Nebraska.
+- **(13)** *Swanson Management Agreement* The term Swanson Management Agreement means the management agreement entitled “Management Agreement between the Bureau of Reclamation, et al., for the Development, Management, Operation, and Maintenance of a Concession Operation at Swanson Reservoir, Nebraska”, numbered 24–LM–60–5154, and dated April 19, 2024.
+- **(14)** *Swanson Permitted Cabin Land* The term Swanson Permitted Cabin Land means the approximately 6.2 acres of land encompassing the 11 permitted cabin lots at the Swanson Reservoir, as generally depicted on the map prepared by the Bureau of Reclamation entitled “Swanson Cabin Map” and dated March 2024.
+- **(15)** *Swanson Permitted Concession Land* The term Swanson Permitted Concession Land means the approximately 20 acres of land and water for the operation of a public service concession at the Swanson Reservoir, as generally depicted on the map prepared by the Bureau of Reclamation entitled “Swanson Concession Boundary” and dated August 2023.
+- **(16)** *Swanson Reservoir* The term Swanson Reservoir means the Swanson Reservoir and Trenton Dam constructed as part of the Pick-Sloan Missouri Basin Program, Frenchman-Cambridge Division, as authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665).
+- **(17)** *Title transfer agreement* The term title transfer agreement means a title transfer agreement entered into under section 3(a)(1) between the Secretary and Frontier County or Hitchcock County, as applicable, that establishes the legal, institutional, and financial terms for the conveyance of the applicable requested Federal land.
 
 ## § 3. Conveyances of Federal land to Hitchcock County and Frontier County, Nebraska
 
-- **(a)** *Conveyance to Hitchcock County*
-  - **(1)** *Title transfer agreement* Subject to paragraphs (2) and (6) and sections 4 and 5, not later than 3 years after the date of enactment of this Act, the Secretary shall enter into good faith negotiations to enter into a title transfer agreement with Hitchcock County under which the Secretary shall convey to Hitchcock County all requested right, title, and interest of the United States in and to the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable.
-  - **(2)** *Prohibition on subdivision* A title transfer agreement entered into pursuant to paragraph (1) shall be subject to the condition that the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable—
-    - **(A)** shall be conveyed in whole; and
-    - **(B)** shall not be subdivided.
-  - **(3)** *Offer to convey* As soon as practicable after the date on which a title transfer agreement is entered into pursuant to paragraph (1), the Secretary shall offer to convey to Hitchcock County all right, title, and interest of the United States in and to the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable, in accordance with paragraph (2) and the terms and conditions described in the title transfer agreement.
-  - **(4)** *Memorandum of agreement*
-    - **(A)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall enter into a memorandum of agreement with Hitchcock County to establish and define the roles and responsibilities for actions required to convey to Hitchcock County the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable, in accordance with the title transfer agreement.
-    - **(B)** *Requirement* The memorandum of agreement entered into under subparagraph (A) shall include the establishment of a plan for—
-      - **(i)** the demonstration by Hitchcock County of—
-        - **(I)** the technical capability of Hitchcock County to operate and maintain the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable, permanently; and
-        - **(II)** the ability of Hitchcock County to satisfy financial obligations relating to the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable; and
-      - **(ii)** the management by Hitchcock County of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable, to be conveyed in accordance with the memorandum of agreement, including addressing any issues to ensure compliance with applicable State fire, safety, and health codes and standards not later than 2 years after the date of the applicable conveyance.
-  - **(5)** *Costs*
+- **(a)** *Conveyances to Hitchcock County and Frontier County*
+  - **(1)** *Title transfer agreement* Subject to paragraphs (2) and (5) and sections 4 and 5, not later than 3 years after the date of enactment of this Act, the Secretary shall make good faith efforts to enter into negotiations for, and enter into, title transfer agreements with each of Hitchcock County and Frontier County—
+    - **(A)** under which the Secretary shall convey to Hitchcock County or Frontier County, as applicable, all requested right, title, and interest of the United States in and to the applicable requested Federal land;
+    - **(B)** that provides that, as a condition of the conveyance, the applicable requested Federal land—
+      - **(i)** shall be conveyed in whole; and
+      - **(ii)** shall not be subdivided; and
+    - **(C)** that provides a plan for—
+      - **(i)** a demonstration of—
+        - **(I)** the technical capability of Hitchcock County or Frontier County, as applicable, to operate and maintain the applicable requested Federal land permanently; and
+        - **(II)** the ability of Hitchcock County or Frontier County, as applicable, to satisfy financial obligations relating to the applicable requested Federal land; and
+      - **(ii)** the management by Hitchcock County or Frontier County, as applicable, of the applicable requested Federal land to be conveyed in accordance with the applicable title transfer agreement, including addressing any issues to ensure compliance with applicable State fire, safety, and health codes and standards not later than 2 years after the date of the applicable conveyance.
+  - **(2)** *Requirement* Notwithstanding section 8002(3)(B) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (43 U.S.C. 2902(3)(B)), the Secretary shall negotiate the title transfer agreement under paragraph (1) in accordance with the criteria, terms, and conditions described in subtitle A of title VIII of that Act (43 U.S.C. 2901 et seq.).
+  - **(3)** *Offer to convey* As soon as practicable after the date on which a title transfer agreement is entered into pursuant to paragraph (1), the Secretary shall offer to convey to Hitchcock County or Frontier County, as applicable, all right, title, and interest of the United States in and to the applicable requested Federal land, in accordance with the terms and conditions described in the applicable title transfer agreement.
+  - **(4)** *Costs*
     - **(A)** *Consideration*
-      - **(i)** *In general* As consideration for the conveyance of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable, under paragraph (1), Hitchcock County shall provide compensation to the reclamation fund established by the first section of the Act of June 17, 1902 (32 Stat. 388, chapter 1093), in an amount equal to the fair market value of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, respectively, as determined by an appraisal conducted—
+      - **(i)** *In general* As consideration for the conveyance of the applicable requested Federal land under paragraph (3), Hitchcock County or Frontier County, as applicable, shall pay to the Secretary, for use in accordance with clause (iii), an amount equal to the fair market value of the applicable requested Federal land, as determined by an appraisal conducted—
         - **(I)** in accordance with clause (ii);
         - **(II)** by a third-party appraiser approved by the Secretary; and
-        - **(III)** subject to the management requirements under paragraph (6) and section 4.
+        - **(III)** subject to the management requirements under paragraph (5) and section 4.
       - **(ii)** *Appraisal requirements*
         - **(I)** *In general* An appraisal under clause (i) shall be conducted in accordance with the Uniform Standards of Professional Appraisal Practice.
-        - **(II)** *Exclusion* For purposes of clause (i), any improvements to the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable, made by a permit holder shall not be included in the appraised value of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, respectively.
-        - **(III)** *Resolution of dispute* Any dispute over the fair market value of the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land under an appraisal conducted under clause (i) shall be resolved in accordance with section 2201.4 of title 43, Code of Federal Regulations (or a successor regulation).
-        - **(IV)** *Consideration of revenues* An appraisal under clause (i) shall take into consideration any future income stream that the United States would have derived from the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable, at the time of the conveyance, including revenues to the United States—
+        - **(II)** *Improvements* For purposes of clause (i), any improvements to the applicable requested Federal land made by a permit holder shall not be included in the appraised value of the applicable requested Federal land.
+        - **(III)** *Resolution of dispute* Any dispute over the fair market value of the applicable requested Federal land under an appraisal conducted under clause (i) shall be resolved in accordance with section 2201.4 of title 43, Code of Federal Regulations (or a successor regulation).
+        - **(IV)** *Consideration of revenues* An appraisal under clause (i) shall take into consideration any future income stream that the United States would have derived from the applicable requested Federal land at the time of the conveyance, including revenues to the United States—
           - **(aa)** from existing water service and repayment contracts;
           - **(bb)** from known or reasonably foreseeable new contracts or renewals;
           - **(cc)** as aid to irrigation; and
           - **(dd)** from any other authorized source.
-    - **(B)** *Conveyance costs*
-      - **(i)** *In general* Hitchcock County shall be responsible for paying, in advance of the conveyance of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, as applicable, under paragraph (1), the estimated costs associated with the conveyance, as determined by the Secretary.
-      - **(ii)** *Inclusions* Conveyance costs under clause (i) may include—
-        - **(I)** any transaction, survey, and administrative costs necessary for the preparation and completion of transfer of title;
-        - **(II)** the costs of legal instruments and deeds;
-        - **(III)** the costs of compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable Federal laws; and
-        - **(IV)** the costs of any other conveyance procedures determined to be necessary by the Secretary.
-  - **(6)** *Management* Hitchcock County shall manage the Swanson Permitted Cabin Land, the Swanson Permitted Concession Land, or the Lakeview Lodge Permitted Concession Land, as applicable, conveyed under paragraph (1)—
-    - **(A)** for substantially the same purposes for which the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, respectively, is being used as of the date of enactment of this Act; or
+      - **(iii)** *Use* Amounts paid under clause (i) shall be available to the Secretary, subject to further appropriation, for activities relating to the operation of the Hugh Butler Reservoir and Swanson Reservoir.
+    - **(B)** *Conveyance costs* As a condition of a conveyance under paragraph (3), Hitchcock County or Frontier County, as applicable, shall be responsible for paying, in advance of the conveyance of the applicable requested Federal land, all survey and other administrative costs, as determined to be necessary by the Secretary, for the preparation and completion of transfer of title to, the applicable requested Federal land.
+  - **(5)** *Management* Hitchcock County and Frontier County shall each manage the applicable requested Federal land conveyed to Hitchcock County or Frontier County, as applicable, under paragraph (3)—
+    - **(A)** for substantially the same purposes for which the applicable requested Federal land is being used as of the date of enactment of this Act; or
     - **(B)** for—
       - **(i)** recreation and public purposes consistent with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (44 Stat. 741, chapter 578; 43 U.S.C. 869 et seq.);
       - **(ii)** public access;
       - **(iii)** fish and wildlife habitat; or
-      - **(iv)** the preservation of the natural character of the Swanson Permitted Cabin Land, Swanson Permitted Concession Land, or Lakeview Lodge Permitted Concession Land, respectively.
-- **(b)** *Conveyance to Frontier County*
-  - **(1)** *Title transfer agreement* Subject to paragraphs (2) and (6) and sections 4 and 5, not later than 3 years after the date of enactment of this Act, the Secretary shall enter into good faith negotiations to enter into a title transfer agreement with Frontier County under which the Secretary shall convey to Frontier County all requested right, title, and interest of the United States in and to the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable.
-  - **(2)** *Prohibition on subdivision* A title transfer agreement entered into pursuant to paragraph (1) shall be subject to the condition that the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable—
-    - **(A)** shall be conveyed in whole; and
-    - **(B)** shall not be subdivided.
-  - **(3)** *Offer to convey* As soon as practicable after the date on which a title transfer agreement is entered into pursuant to paragraph (1), the Secretary shall offer to convey to Frontier County all right, title, and interest of the United States in and to the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable, in accordance with paragraph (2) and the terms and conditions described in the title transfer agreement.
-  - **(4)** *Memorandum of agreement*
-    - **(A)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall enter into a memorandum of agreement with Frontier County to establish and define the roles and responsibilities for actions required to convey to Frontier County the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable, in accordance with the title transfer agreement.
-    - **(B)** *Requirement* The memorandum of agreement entered into under subparagraph (A) shall include the establishment of a plan for—
-      - **(i)** the demonstration by Frontier County of—
-        - **(I)** the technical capability of Frontier County to operate and maintain the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable, permanently; and
-        - **(II)** the ability of Frontier County to satisfy financial obligations relating to the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable; and
-      - **(ii)** the management by Frontier County of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable, to be conveyed in accordance with the memorandum of agreement, including addressing any issues to ensure compliance with applicable State fire, safety, and health codes and standards not later than 2 years after the date of the conveyance.
-  - **(5)** *Costs*
-    - **(A)** *Consideration*
-      - **(i)** *In general* As consideration for the conveyance of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable, under paragraph (1), Frontier County shall provide compensation to the reclamation fund established by the first section of the Act of June 17, 1902 (32 Stat. 388, chapter 1093), in an amount equal to the fair market value of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, respectively, as determined by an appraisal conducted—
-        - **(I)** in accordance with clause (ii);
-        - **(II)** by a third-party appraiser approved by the Secretary; and
-        - **(III)** subject to the management requirements under paragraph (6) and section 4.
-      - **(ii)** *Appraisal requirements*
-        - **(I)** *In general* An appraisal under clause (i) shall be conducted in accordance with the Uniform Standards of Professional Appraisal Practice.
-        - **(II)** *Exclusion* For purposes of clause (i), any improvements to the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable, made by a permit holder shall not be included in the appraised value of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, respectively.
-        - **(III)** *Resolution of dispute* Any dispute over the fair market value of the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable, under an appraisal conducted under clause (i) shall be resolved in accordance with section 2201.4 of title 43, Code of Federal Regulations (or a successor regulation).
-        - **(IV)** *Consideration of revenues* An appraisal under clause (i) shall take into consideration any future income stream that the United States would have derived from the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable, at the time of the conveyance, including revenues to the United States—
-          - **(aa)** from existing water service and repayment contracts;
-          - **(bb)** from known or reasonably foreseeable new contracts or renewals;
-          - **(cc)** as aid to irrigation; and
-          - **(dd)** from any other authorized source.
-    - **(B)** *Conveyance costs*
-      - **(i)** *In general* Frontier County shall be responsible for paying, in advance of the conveyance of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, as applicable, under paragraph (1), the estimated costs associated with the conveyance, as determined by the Secretary.
-      - **(ii)** *Inclusions* Conveyance costs under clause (i) may include—
-        - **(I)** any transaction, survey, and administrative costs necessary for the preparation and completion of transfer of title;
-        - **(II)** the costs of legal instruments and deeds;
-        - **(III)** the costs of compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable Federal laws; and
-        - **(IV)** the costs of any other conveyance procedures determined to be necessary by the Secretary.
-  - **(6)** *Management* Frontier County shall manage the Red Willow Permitted Cabin Land or the Red Willow Permitted Concession Land, as applicable, conveyed under paragraph (1)—
-    - **(A)** for substantially the same purposes for which the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, respectively, is being used as of the date of enactment of this Act; or
-    - **(B)** for—
-      - **(i)** recreation and public purposes consistent with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (44 Stat. 741, chapter 578; 43 U.S.C. 869 et seq.);
-      - **(ii)** public access;
-      - **(iii)** fish and wildlife habitat; or
-      - **(iv)** the preservation of the natural character of the Red Willow Permitted Cabin Land or Red Willow Permitted Concession Land, respectively.
-- **(c)** *Reclamation title transfer procedures* Any procedures for the conveyance of requested Federal land under subsection (a) or (b) shall comply with the requirements contained in the Reclamation Manual Directives and Standards numbered CMP 11–01 (as in effect on the date of enactment of this Act), as determined to be applicable by the Secretary.
-- **(d)** *Subsequent conveyance of requested Federal land*
-  - **(1)** *In general* Except as provided in paragraph (2), on completion of a conveyance to Hitchcock County or Frontier County, as applicable, of requested Federal land under subsection (a) or (b), Hitchcock County or Frontier County may not subsequently reconvey the applicable requested Federal land.
-  - **(2)** *Exceptions* Notwithstanding paragraph (1), Hitchcock County or Frontier County may subsequently convey requested Federal land if—
-    - **(A)** the requested Federal land is reconveyed, at no cost, to an entity located in the State that is recognized by the State as a publicly owned or governmental organization, including—
+      - **(iv)** the preservation of the natural character of the applicable requested Federal land.
+- **(b)** *Subsequent conveyance of requested Federal land*
+  - **(1)** *In general* Except as provided in paragraph (2), on completion of a conveyance to Hitchcock County or Frontier County, as applicable, of the applicable requested Federal land under subsection (a), Hitchcock County or Frontier County, as applicable, may not subsequently reconvey the applicable requested Federal land.
+  - **(2)** *Exceptions* Notwithstanding paragraph (1), Hitchcock County or Frontier County, as applicable, may subsequently convey the applicable requested Federal land if—
+    - **(A)** the applicable requested Federal land is reconveyed, at no cost, to an entity located in the State that is recognized by the State as a publicly owned or governmental organization, including—
       - **(i)** a State agency;
       - **(ii)** a county, city, village, or township in, or political subdivision of, the State;
       - **(iii)** a natural resource district; and
       - **(iv)** an irrigation or reclamation district;
-    - **(B)** Hitchcock County or Frontier County, respectively, has demonstrated an impending adverse impact if the requested Federal land is not reconveyed;
-    - **(C)** the entity to which the requested Federal land would be reconveyed has the capacity to continue to manage the requested Federal land for the same purposes for which the requested Federal land has been managed as of the date of enactment of this Act; and
-    - **(D)** the requested Federal land to be reconveyed would continue to be available for public access.
-  - **(3)** *Future conveyances* A subsequent conveyance of requested Federal land shall be subject to the requirements of this subsection and subsections (a)(6) and (b)(6), as applicable.
+    - **(B)** Hitchcock County or Frontier County, as applicable, has demonstrated an impending adverse impact if the applicable requested Federal land is not reconveyed;
+    - **(C)** the entity to which the applicable requested Federal land would be reconveyed has the capacity to continue to manage the applicable requested Federal land for the same purposes for which the applicable requested Federal land has been managed as of the date of enactment of this Act; and
+    - **(D)** the applicable requested Federal land to be reconveyed would continue to be available for public access.
+  - **(3)** *Future conveyances* A subsequent conveyance of requested Federal land shall be subject to the requirements of this subsection and subsection (a)(5).
 
 ## § 4. Effect on reservations, easements, and other rights
 
-- **(a)** *In general* A conveyance under subsection (a) or (b) of section 3 shall be subject to—
+- **(a)** *In general* A conveyance under section 3(a) shall be subject to—
   - **(1)** valid existing rights;
   - **(2)** operational requirements of the Pick-Sloan Missouri River Basin Program authorized by section 9 of the Act of December 22, 1944 (commonly known as the “Flood Control Act of 1944”) (58 Stat. 891, chapter 665), including Swanson Reservoir and Hugh Butler Reservoir;
-  - **(3)** any flowage easement reserved by the United States to allow full operation of the Swanson Reservoir and Hugh Butler Reservoir for authorized purposes, as applicable;
-  - **(4)** any applicable reservations described in—
-    - **(A)** the Lakeview Lodge Management Agreement, Red Willow Management Agreement, or Swanson Management Agreement, as applicable; or
-    - **(B)** an applicable cabin permit;
-  - **(5)** oil, gas, and other mineral rights reserved of record, as of the date of enactment of this Act, by, or in favor of, the United States or a third party, with respect to the applicable requested Federal land;
+  - **(3)** any flowage easement reserved by the United States to allow full operation of the Swanson Reservoir and Hugh Butler Reservoir, as applicable, for authorized purposes;
+  - **(4)** any applicable reservations described in the Lakeview Lodge Management Agreement, Red Willow Management Agreement, or Swanson Management Agreement, as applicable;
+  - **(5)** oil, gas, and other mineral rights reserved of record, as of the date of enactment of this Act, by, or in favor of, the United States or a third party;
   - **(6)** any permit, license, lease, right-of-use, flowage easement, or right-of-way of record in, on, over, or across the applicable requested Federal land, whether owned by the United States or a third party, as of the date of enactment of this Act;
-  - **(7)** a deed restriction that prohibits building any new permanent structure on the applicable requested Federal land below an elevation of—
+  - **(7)** as applicable, a deed restriction that prohibits building any new permanent structure on the applicable requested Federal land below an elevation of—
     - **(A)** 2,785 feet at Swanson Reservoir; or
     - **(B)** 2,628 feet at Hugh Butler Reservoir; and
   - **(8)** the granting of applicable easements for—
@@ -182,7 +109,7 @@ In this Act:
     - **(B)** access to, and use of, all docks, boathouses, ramps, retaining walls, and other improvements for which access is provided in a permit for the use of the applicable requested Federal land as of the date of enactment of this Act.
 - **(b)** *Liability; taking*
   - **(1)** *Liability* The United States shall not be liable for flood damage to a property, Hitchcock County, or Frontier County, or for damages arising out of any act, omission, or occurrence relating to a permit holder, Hitchcock County, or Frontier County, other than for damages caused by an act or omission of the United States or an employee, agent, or contractor of the United States before the date of enactment of this Act.
-  - **(2)** *Hold harmless* Hitchcock County, Frontier County, and any entity to which requested Federal land is subsequently conveyed pursuant to section 3(d)(2) shall agree to indemnify and hold harmless the Unites States for all claims by Hitchcock County, Frontier County, or others arising from—
+  - **(2)** *Hold harmless* Hitchcock County, Frontier County, and any entity to which requested Federal land is subsequently conveyed pursuant to section 3(b)(2) shall agree to indemnify and hold harmless the Unites States for all claims by Hitchcock County, Frontier County, or others arising from—
     - **(A)** the design, construction, operation, maintenance, or replacement of Red Willow Dam, Hugh Butler Reservoir, Trenton Dam, or Swanson Reservoir;
     - **(B)** the survey of claims, description of claims, delineation of boundaries, conveyance documents, conveyance process, and recording of deeds associated with a conveyance under this Act; or
     - **(C)** any damages associated with a structure or land that may be displaced in a flood event.
@@ -191,13 +118,5 @@ In this Act:
 
 ## § 5. Interim requirements
 
-During the period beginning on the date of enactment of this Act and ending on the date of conveyance of requested Federal land under subsection (a) or (b) of section 3, the provisions of the Lakeview Lodge Management Agreement, Red Willow Management Agreement, and Swanson Management Agreement, as applicable, and any applicable permits, shall remain in force and effect.
-
-## § 6. Compliance with other laws
-
-- **(a)** *Environmental and historic preservation laws* Before conveying requested Federal land pursuant to subsection (a) or (b) of section 3, the Secretary shall carry out all activities with respect to the conveyance required under—
-  - **(1)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
-  - **(2)** the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
-  - **(3)** division A of subtitle III of title 54, United States Code; and
-  - **(4)** any other applicable laws.
-- **(b)** *Compliance by Counties* Effective on the date of conveyance of requested Federal land pursuant to subsection (a) or (b) of section 3, Hitchcock County and Frontier County shall comply with all applicable Federal, State, and local laws (including regulations) with respect to management of the conveyed requested Federal land, as applicable.
+- **(a)** *In general* During the period beginning on the date of enactment of this Act and ending on the date that is the later of the date that is 3 years after the date of enactment of this Act or the date of conveyance of the applicable requested Federal land under section 3(a), the provisions of the Lakeview Lodge Management Agreement, Red Willow Management Agreement, and Swanson Management Agreement, as applicable, and any applicable permits, shall remain in force and effect.
+- **(b)** *Effect of failure to enter into title transfer agreement* If, by the date that is 3 years after the date of enactment of this Act, Hitchcock County or Frontier County, as applicable, have not entered into a title transfer agreement with the Secretary under section 3(a)(1), the Secretary shall manage any of the Lakeview Lodge Permitted Concession Land, the Red Willow Permitted Cabin Land, the Red Willow Permitted Concession Land, the Swanson Permitted Cabin Land, and the Swanson Permitted Concession Land, as applicable, that is not subject to a title transfer agreement in accordance with applicable law.
