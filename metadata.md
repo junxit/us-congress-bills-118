@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6751
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6751
@@ -315,9 +315,10 @@ Roberto Clemente Commemorative Coin Act
 - Rep. Pence, Greg [R-IN-6] (P000615)
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -330,3 +331,4 @@ Roberto Clemente Commemorative Coin Act
 - 2024-12-04 — Ms. De La Cruz moved to suspend the rules and pass the bill.
 - 2024-12-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6350-6351)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6350-6351)
+- 2024-12-05 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
