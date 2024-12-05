@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9566
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9566
@@ -37,3 +37,4 @@ SHARE IT Act
 - 2024-12-04 — Mr. Langworthy moved to suspend the rules and pass the bill, as amended.
 - 2024-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
 - 2024-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6340-6342)
+- 2024-12-05 — Received in the Senate, read twice.
