@@ -1,7 +1,7 @@
 ---
 measure: S. 709
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 709
@@ -49,3 +49,13 @@ Federal Agency Performance Act of 2024
 - 2024-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 6 (Roll no. 484). (text: 12/4/2024 CR H6313-6314)
 - 2024-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 6 (Roll no. 484). (text: 12/4/2024 CR H6313-6314)
+- 2024-12-09 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2024-12-18 — Resolving differences -- Senate actions: Senate agreed to the House Amendment to S. 709 by Voice Vote.
+- 2024-12-18 — Senate agreed to the House Amendment to S. 709 by Voice Vote.
+- 2024-12-19 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-190.
+- 2024-12-23 — Became Public Law No: 118-190.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
