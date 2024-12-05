@@ -65,6 +65,7 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 - **(2)** by adding at the end the following:
   > - **(11)** The term Tribal government has the meaning given the term “tribal government” in section in section 421 of the Congressional Budget Act of 1974 (2 U.S.C. 658).
   > - **(12)** The term functional recovery means a post-earthquake performance state in which a building or lifeline infrastructure system is maintained, or restored, to safely and adequately support the basic intended functions associated with the pre-earthquake use or occupancy of a building, or the pre-earthquake service level of a lifeline infrastructure system.
+  > - **(13)** The term earthquake forecast means a statement of probabilities that 1 or more earthquakes within a clearly specified magnitude range may occur within a specified time interval and geographic region.
 
 ## § 5. Improvements to National Earthquake Hazards Reduction Program
 
@@ -73,15 +74,17 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
     - **(A)** in the matter before clause (i)—
       - **(i)** by striking “and local” and inserting “, local, and Tribal”; and
       - **(ii)** by striking “and constructing” and inserting “, designing, constructing, evaluating, and retrofitting”;
-    - **(B)** in clause (ii), by striking “voluntary consensus codes for earthquake hazards reduction” and inserting “consensus codes for earthquake hazards reduction, including improved post-earthquake functional recovery,”;
+    - **(B)** by amending clause (ii) to read as follows:
+      > - **(ii)** development of standards, guidelines, and voluntary standards, guidelines, and consensus codes for earthquake hazards reduction for buildings, structures, and lifeline infrastructure, including post-earthquake recovery-based performance objectives that address reoccupancy and downtime of community-prioritized buildings, structures, and services provided by lifeline infrastructure;
+
     - **(C)** in clause (iii), by striking “and hazards reduction; and” and inserting “functional recovery, and other hazards reduction topics;”;
     - **(D)** in clause (iv)—
       - **(i)** by inserting “and maintaining” after “publishing”;
-      - **(ii)** by inserting “tsunami susceptibility,” after “liquefaction susceptibility,”; and
+      - **(ii)** by inserting “in coordination with the National Tsunami Hazards Mitigation Program, tsunami susceptibility,” after “liquefaction susceptibility,”; and
       - **(iii)** by striking “; and” and inserting a semicolon; and
     - **(E)** by adding at the end the following:
-      > - **(v)** development of best practices and guidelines to create an inventory of and conduct seismic performance evaluations of buildings, structures, and lifeline infrastructure with high seismic risk, especially those that are critical to community resilience; and
-      > - **(vi)** the provision of technical assistance upon request by a State, local, or Tribal government regarding—
+      > - **(v)** subject to the availability of funds, development of best practices and guidelines to create an inventory of and conduct seismic performance evaluations of buildings, structures, and lifeline infrastructure with high seismic risk, especially those that are critical to community resilience; and
+      > - **(vi)** subject to the availability of funds, the provision of technical assistance upon request by a State, local, or Tribal government regarding—
       >   - **(I)** the creation of an inventory of buildings, structures, and lifeline infrastructure;
       >   - **(II)** the performance of seismic performance evaluations; and
       >   - **(III)** cost-effective best practices for retrofitting existing buildings, structures, and lifeline infrastructure.
@@ -100,8 +103,9 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 
 - **(c)** *Biennial report* Subsection (a)(4)(A) of such section is amended by striking “under paragraph (3)(D)(i)(I)” each place it appears and inserting “under paragraph (3)(D)(ii)(I)”.
 - **(d)** *Advisory committee* Subsection (a)(5)(A) of such section is amended—
-  - **(1)** by striking “and local government” and inserting “, local, and Tribal governments”; and
-  - **(2)** by inserting “social,” after “scientific,”.
+  - **(1)** by inserting “the Chair of the Scientific Earthquake Studies Advisory Committee and” after “including”;
+  - **(2)** by striking “and local government” and inserting “, local, and Tribal governments”; and
+  - **(3)** by inserting “social,” after “scientific,”.
 - **(e)** *Lead agency for responsibilities of Program agencies* Subsection (b)(1) of such section is amended—
   - **(1)** in subparagraph (A)—
     - **(A)** by striking “and local” and inserting “local, and Tribal governments”; and
@@ -116,7 +120,7 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
   - **(1)** in subparagraph (A)—
     - **(A)** in clause (i)—
       - **(i)** by inserting “and Tribal governments” after “States”;
-      - **(ii)** by striking “safety inspections” and inserting “performance evaluations”; and
+      - **(ii)** by inserting “and performance evaluations” after “safety inspections”; and
       - **(iii)** by inserting “and improve post-earthquake functional recovery” after “seismic safety”;
     - **(B)** in clause (ii), by inserting “, including Tribal entities,” after “appropriate audiences”;
     - **(C)** in clause (iii)—
@@ -136,17 +140,18 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 - **(g)** *Responsibilities of United States Geological Survey* Subsection (b)(3) of such section is amended—
   - **(1)** in subparagraph (B), by striking “and local” and inserting “, local, and Tribal”;
   - **(2)** in subparagraph (C), by inserting “, the Chair of the Federal Communications Commission,” after “Agency”;
-  - **(3)** by redesignating subparagraphs (D) through (K) as subparagraphs (J) through (O), respectively;
+  - **(3)** by redesignating subparagraphs (D) through (K) as subparagraphs (L) through (Q), respectively;
   - **(4)** by inserting after subparagraph (C) the following:
     > - **(D)** coordinate with the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Federal Emergency Management Agency on data sharing and resource allocation to support a timely response to oceanic earthquakes and tsunamis;
     > - **(E)** in consultation with the Chair of the Federal Communications Commission, ensure that earthquake alerts and early warnings are broadcast as rapidly and reliably as possible, in the predominant languages in the affected region, to ensure maximum warning time for nearby persons;
-    > - **(F)** expand the earthquake early warning system within and to additional high earthquake hazard areas, including making improvements as practicable to improve detection and increase the time between warning messages and perceptible ground motion;
+    > - **(F)** expand the earthquake early warning system within and to additional high risk hazard areas, including making improvements as practicable to improve detection and increase the time between warning messages and perceptible ground motion;
     > - **(G)** coordinating with affected State and Tribal governments on earthquake early warning system improvements;
+    > - **(H)** issue earthquake forecasts, when appropriate, for aftershocks associated with significant earthquakes in the United States;
 
-  - **(5)** in subparagraph (H), as redesignated by paragraph (3), by inserting “the Chair of the Federal Communications Commission,” after “Agency,”;
-  - **(6)** in subparagraph (K), as redesignated by paragraph (3), by striking “; and” and inserting a semicolon;
-  - **(7)** in subparagraph (L), as redesignated by paragraph (3), by striking the period at the end and inserting a semicolon; and
-  - **(8)** in subparagraph (N), as redesignated by paragraph (3), by inserting “maps of natural hazards associated with earthquakes and”.
+  - **(5)** in subparagraph (I), as redesignated by paragraph (3), by inserting “the Chair of the Federal Communications Commission,” after “Agency,”;
+  - **(6)** in subparagraph (L), as redesignated by paragraph (3), by striking “; and” and inserting a semicolon;
+  - **(7)** in subparagraph (M), as redesignated by paragraph (3), by striking the period at the end and inserting a semicolon; and
+  - **(8)** in subparagraph (O), as redesignated by paragraph (3), by inserting “maps of natural hazards associated with earthquakes and”.
 - **(h)** *Responsibilities of National Science Foundation* Subsection (b)(4)(A) of such section is amended—
   - **(1)** in clause (iii), by inserting “including updated tsunami and liquefaction risk maps,”; and
   - **(2)** in clause (vii), by striking “Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations” and inserting “institutions described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))”.
@@ -166,7 +171,7 @@ Section 8 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705b) is a
 - **(2)** by adding at the end the following:
   > - **(c)** *Implementation of recommendations* Each Program agency, as part of their Program responsibilities, shall execute research, projects, grants, and other activities that support, promote, advance, or otherwise implement the recommendations in the report submitted pursuant to subsection (b) to improve the performance of the built environment in terms of post-earthquake reoccupancy and functional recovery time.
   > - **(d)** *Biennial reports*
-  >   - **(1)** *Biennial reports to Interagency Coordinating Committee* No later than June 30, 2025, and not less frequently than once every 2 years thereafter, each Program agency shall submit to the Interagency Coordinating Committee a report on activities and progress made to support, promote, or advance the implementation of the recommendations included in the report submitted pursuant to subsection (b).
+  >   - **(1)** *Biennial reports to Interagency Coordinating Committee* No later than September 30, 2025, and not less frequently than once every 2 years thereafter, each Program agency shall submit to the Interagency Coordinating Committee a report on activities and progress made to support, promote, or advance the implementation of the recommendations included in the report submitted pursuant to subsection (b).
   >   - **(2)** *Inclusion in biennial reports of Interagency Coordinating Committee* The Interagency Coordinating Committee shall include the information received under paragraph (1) in each biennial report submitted under section 5(a)(4), including consideration of a prioritized work plan to coordinate activities among the Program agencies and the necessary Program budget to fully implement the recommendations described in paragraph (1).
 
 ## § 8. Improvements to post-earthquake investigations program

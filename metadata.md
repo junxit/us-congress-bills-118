@@ -1,7 +1,7 @@
 ---
 measure: S. 3606
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3606
@@ -35,3 +35,5 @@ National Earthquake Hazards Reduction Program Reauthorization Act of 2024
 - 2024-09-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-09-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment in the nature of a substitute. Without written report.
 - 2024-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
+- 2024-12-05 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6853-6855; text: CR S6853-6855)
+- 2024-12-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
