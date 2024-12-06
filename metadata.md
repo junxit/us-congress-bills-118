@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8150
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8150
@@ -36,3 +36,11 @@ Reducing Excessive Vetting Authorities to Maintain our Ports Act
 - 2024-04-29 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-04-29 — Referred to the Committee on Homeland Security, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-04-29 — Referred to the Subcommittee on Border Security and Enforcement.
+- 2024-06-12 — Committee Consideration and Mark-up Session Held
+- 2024-06-12 — Ordered to be Reported (Amended) by Voice Vote.
+- 2024-06-12 — Subcommittee on Border Security and Enforcement Discharged
+- 2024-12-06 — Committee on Ways and Means discharged.
+- 2024-12-06 — Committee on Ways and Means discharged.
+- 2024-12-06 — Placed on the Union Calendar, Calendar No. 674.
+- 2024-12-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-824, Part I.
+- 2024-12-06 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-824, Part I.
