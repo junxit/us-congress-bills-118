@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5349
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,8 +29,11 @@ The independent entity created under section 905(b)(1)(B) of the FRIENDSHIP Act 
 
 - **(1)** develop a civic education curriculum for high school students that—
   - **(A)** includes a comparative discussion of certain political ideologies, including communism and totalitarianism, that conflict with the principles of freedom and democracy that are essential to the founding of the United States;
-  - **(B)** is accurate, relevant, and accessible, so as to promote the understanding of such political ideologies; and
-  - **(C)** is compatible with a variety of courses, including social studies, government, history, and economics classes;
+  - **(B)** is updated periodically to ensure the curriculum includes both past and present communist and totalitarian regimes, with a focus on—
+    - **(i)** ongoing human rights abuses by such regimes, such as the treatment of Uyghurs in the Xinjiang Uyghur Autonomous Region (XUAR) by the People’s Republic of China; and
+    - **(ii)** aggression by such regimes against democratic nations and democracy, such as actions taken by the People’s Republic of China to deter pro-democracy protests in Hong Kong and the increasingly aggressive posture by the People’s Republic of China toward Taiwan, a democratic friend of the United States.
+  - **(C)** is accurate, relevant, and accessible, so as to promote the understanding of such political ideologies; and
+  - **(D)** is compatible with a variety of courses, including social studies, government, history, and economics classes;
 - **(2)** develop oral history resources that may be used alongside the curriculum described in paragraph (1) and that include personal stories, titled “Portraits in Patriotism”, from diverse individuals who—
   - **(A)** demonstrate civic-minded qualities;
   - **(B)** are victims of the political ideologies described in paragraph (1)(A); and

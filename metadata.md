@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5349
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5349
@@ -56,6 +56,10 @@ Crucial Communism Teaching Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2024-12-06 — [House 118-2-492](votes/house-118-2-0492.md) — On Passage — **Passed** (327–62)
+
 ## Actions
 
 - 2023-09-05 — Introduced in House
@@ -66,3 +70,20 @@ Crucial Communism Teaching Act
 - 2023-10-25 — Placed on the Union Calendar, Calendar No. 205.
 - 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-255.
 - 2023-10-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 118-255.
+- 2024-12-03 — Rules Committee Resolution H. Res. 1602 Reported to House. Rule provides for consideration of H.R. 5349 and H.R. 7198. The resolution provides for consideration of H.R. 5349 and H.R. 7198 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-12-06 — Amendment (A002) offered by Ms. Manning. (consideration: CR H6420-6421; text: CR H6420)
+- 2024-12-06 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-12-06 — Considered under the provisions of rule H. Res. 1602. (consideration: CR H6417-6421)
+- 2024-12-06 — DEBATE - The House proceeded with 10 minutes of debate on the Manning amendment No. 1.
+- 2024-12-06 — DEBATE - The House proceeded with one hour of debate on H.R. 5349.
+- 2024-12-06 — House Amendment Offered
+- 2024-12-06 — House amendment agreed to: On agreeing to the Manning amendment (A002) Agreed to by voice vote.
+- 2024-12-06 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-12-06 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2024-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-06 — On agreeing to the Manning amendment (A002) Agreed to by voice vote.
+- 2024-12-06 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2024-12-06 — On passage Passed by the Yeas and Nays: 327 - 62 (Roll no. 492).
+- 2024-12-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 327 - 62 (Roll no. 492).
+- 2024-12-06 — Rule provides for consideration of H.R. 5349 and H.R. 7198. The resolution provides for consideration of H.R. 5349 and H.R. 7198 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
+- 2024-12-06 — The previous question was ordered on the amendment and the bill pursuant to the rule.
