@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9598
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9598
@@ -24,11 +24,12 @@ Office of National Drug Control Policy Reauthorization Act of 2024
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (3)
+## Committees (4)
 
 - House — Oversight and Government Reform Committee
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Office of National Drug Control Policy Reauthorization Act of 2024
 - 2024-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 485). (text: 12/4/2024 CR H6319-6322)
 - 2024-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 1 (Roll no. 485). (text: 12/4/2024 CR H6319-6322)
+- 2024-12-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
