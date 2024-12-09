@@ -1,7 +1,7 @@
 ---
 measure: S. 4656
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4656
@@ -28,3 +28,7 @@ A bill to amend title 5, United States Code, concerning restrictions on the part
 
 - 2024-07-10 — Introduced in Senate
 - 2024-07-10 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-278.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-278.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 681.
