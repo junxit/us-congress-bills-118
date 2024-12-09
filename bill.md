@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8689
 
-> To require Amtrak to publicly disclose certain bonus compensation paid to Amtrak executives, and for other purposes.
+> To amend title 49, United States Code, to require Amtrak to include information on base pay and bonus compensation of certain Amtrak executives, and for other purposes.
 
 ## § 1. Short title
 
