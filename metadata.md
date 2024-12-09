@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7524
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7524
@@ -39,3 +39,7 @@ GSA Technology Accountability Act
 - 2024-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2852)
 - 2024-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2852)
 - 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-18 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-285.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-285.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 688.
