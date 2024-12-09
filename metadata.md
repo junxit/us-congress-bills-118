@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9600
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9600
@@ -57,3 +57,14 @@ To designate the facility of the United States Postal Service located at 119 Mai
 - 2024-12-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 15, 2 Present (Roll no. 486). (text: 12/4/2024 CR H6325-6326)
 - 2024-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 15, 2 Present (Roll no. 486). (text: 12/4/2024 CR H6325-6326)
 - 2024-12-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7201)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-20 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-268.
+- 2025-01-04 — Became Public Law No: 118-268.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
