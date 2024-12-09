@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5349
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5349
@@ -52,9 +52,10 @@ Crucial Communism Teaching Act
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -87,3 +88,4 @@ Crucial Communism Teaching Act
 - 2024-12-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 327 - 62 (Roll no. 492).
 - 2024-12-06 — Rule provides for consideration of H.R. 5349 and H.R. 7198. The resolution provides for consideration of H.R. 5349 and H.R. 7198 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-12-06 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2024-12-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
