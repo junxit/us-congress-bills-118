@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7198
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7198
@@ -87,3 +87,4 @@ Prove It Act of 2024
 - 2024-12-05 — Rule provides for consideration of H.R. 5349 and H.R. 7198. The resolution provides for consideration of H.R. 5349 and H.R. 7198 under a structured rule. Rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2024-12-05 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2024-12-05 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2024-12-09 — Received in the Senate.
