@@ -1,7 +1,7 @@
 ---
 measure: S. 1444
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1444
@@ -16,9 +16,12 @@ Border Patrol Enhancement Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Sinema, Kyrsten [I-AZ] (S001191)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kelly, Mark [D-AZ] (K000377)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Border Patrol Enhancement Act
 
 - 2023-05-04 — Introduced in Senate
 - 2023-05-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-07-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-267.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-267.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 670.
