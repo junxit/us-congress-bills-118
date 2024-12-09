@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2248
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -31,7 +31,7 @@ This Act may be cited as the “Vessel Tracking for Sanctions Enforcement Act of
   - **(2)** *Data models* The pilot program required by subsection (a) may include multiple data models to account for different behavior patterns for different shippers and different types of goods.
 - **(d)** *Interagency coordination* The Secretary, acting through the Commissioner, shall coordinate with the Secretary of Commerce and the Director of National Intelligence in developing and carrying out the pilot program required by subsection (a).
 - **(e)** *Termination* The pilot program required by subsection (a) shall terminate on the date that is 4 years after the date of the enactment of this Act.
-- **(f)** *Report required* Not later than 4 years after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Commerce and the Director of National Intelligence, shall submit to Congress a report—
+- **(f)** *Report required* Not later than 4 years after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Commerce, the Secretary of the Treasury, and the Director of National Intelligence, shall submit to Congress a report—
   - **(1)** assessing the usefulness of the pilot program required by subsection (a) in identifying and predicting instances described in that subsection;
   - **(2)** with respect to each instance in which a vessel was identified under the pilot program as posing a high risk of transporting goods in a manner that evades sanctions or export controls imposed by the United States and the vessel was successfully interdicted by the United States or a country that is a partner of the United States—
     - **(A)** specifying whether or not the vessel was confirmed to be evading such sanctions or export controls;
@@ -42,3 +42,5 @@ This Act may be cited as the “Vessel Tracking for Sanctions Enforcement Act of
     - **(B)** a country not described in subparagraph (A) but that the Secretary of Homeland Security has identified as a country posing a high risk of transshipment of goods suspected of being transported on the vessel to a country described in subparagraph (A); or
     - **(C)** a country not described in subparagraph (A) or (B); and
   - **(4)** making recommendations with respect to whether big data analytics should be used to identify and predict instances described in subsection (a) in the future.
+- **(g)** *No additional amounts authorized* No additional amounts are authorized to be appropriated to carry out the pilot program required by subsection (a).
+- **(h)** *Rule of construction on collection or acquisition of information* Nothing in this section authorizes any new collection or acquisition of information not otherwise authorized by existing law as of the date of the enactment of this Act.

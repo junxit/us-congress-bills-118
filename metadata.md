@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2248
@@ -16,9 +16,10 @@ Vessel Tracking for Sanctions Enforcement Act of 2023
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Vessel Tracking for Sanctions Enforcement Act of 2023
 
 - 2023-07-11 — Introduced in Senate
 - 2023-07-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2023-07-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments and an amendment to the title. With written report No. 118-270.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with amendments and an amendment to the title. With written report No. 118-270.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.
