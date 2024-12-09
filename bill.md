@@ -1,7 +1,7 @@
 ---
 legis-num: S. 559
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -33,3 +33,15 @@ Section 17(g)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.
 
 - **(a)** *Sunset* Section 34(k) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(k)) is amended by striking “2024” and inserting “2032”.
 - **(b)** *Authorization of appropriations* Section 34(j)(1)(I) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a(j)(1)(I)) is amended, in the matter preceding clause (i), by striking “2023” and inserting “2030”.
+
+## § 5. GAO audit and report
+
+Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an audit of and issue a publicly available report on barriers that prevent fire departments from accessing Federal funds.
+
+## § 6. Limitation on fire grant funds
+
+Neither the Government of the People’s Republic of China, nor any entity or organization operating or incorporated in the People’s Republic of China, may be eligible to be a recipient or subrecipient of Federal assistance under any assistance program authorized under subsection (c) or (d) of section 33 or section 34(a) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229, 2229a).
+
+## § 7. GAO audit
+
+Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall conduct an audit of and issue a publicly available report on the United States Fire Administration
