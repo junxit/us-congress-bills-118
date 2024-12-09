@@ -1,7 +1,7 @@
 ---
 measure: S. 4066
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4066
@@ -28,3 +28,7 @@ FIT Procurement Act
 
 - 2024-03-22 — Introduced in Senate
 - 2024-03-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-05-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-276.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-276.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
