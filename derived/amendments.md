@@ -1,7 +1,7 @@
 ---
 measure: S. 4631
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 33 of title 41, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 33 of title 41, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 33 of title 41, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 33 of title 41, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | repeal | Section 813 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 114 Stat. 1654A-214), as implemented in subpart 39.104 of the Federal Acquisition Regulation, as in effect on July 1, 2024, i… | the bill names no machine-readable US Code section |
