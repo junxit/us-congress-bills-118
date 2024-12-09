@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2892
 
-> To direct the Comptroller General of the United States to conduct a study on the effectiveness of local alerting systems, and for other purposes.
+> To direct the Comptroller General of the United States to conduct a study on the effectiveness of emergency alerting systems, and for other purposes.
 
 ## § 1. Short title
 
