@@ -1,7 +1,7 @@
 ---
 measure: S. 4697
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4697
@@ -16,10 +16,11 @@ Healthcare Cybersecurity Act of 2024
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Healthcare Cybersecurity Act of 2024
 
 - 2024-07-11 — Introduced in Senate
 - 2024-07-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-280.
+- 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-280.
+- 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.
