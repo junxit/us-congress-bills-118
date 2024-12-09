@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8413
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8413
@@ -47,3 +47,4 @@ Swanson and Hugh Butler Reservoirs Land Conveyances Act
 - 2024-12-05 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6392-6394)
 - 2024-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6392-6394)
+- 2024-12-09 — Received in the Senate, read twice.
