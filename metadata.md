@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7524
 congress: 118
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7524
@@ -43,3 +43,12 @@ GSA Technology Accountability Act
 - 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-285.
 - 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-285.
 - 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 688.
+- 2024-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7057)
+- 2024-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-17 — Message on Senate action sent to the House.
+- 2024-12-23 — Became Public Law No: 118-182.
+- 2024-12-23 — Became Public Law No: 118-182.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
