@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8012
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8012
@@ -16,7 +16,7 @@ Jackie Robinson Ballpark National Commemorative Site Act
 
 - Rep. Waltz, Michael [R-FL-6] (W000823)
 
-## Cosponsors (37)
+## Cosponsors (50)
 
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
@@ -55,6 +55,19 @@ Jackie Robinson Ballpark National Commemorative Site Act
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Lesko, Debbie [R-AZ-8] (L000589)
+- Rep. Carson, André [D-IN-7] (C001072)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Stanton, Greg [D-AZ-4] (S001211)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
 
 ## Committees (1)
 
@@ -65,3 +78,11 @@ Jackie Robinson Ballpark National Commemorative Site Act
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Referred to the House Committee on Natural Resources.
+- 2024-07-08 — Referred to the Subcommittee on Federal Lands.
+- 2024-07-09 — Subcommittee Hearings Held
+- 2024-11-20 — Committee Consideration and Mark-up Session Held
+- 2024-11-20 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2024-11-20 — Subcommittee on Federal Lands Discharged
+- 2024-12-10 — Placed on the Union Calendar, Calendar No. 693.
+- 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-848.
+- 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-848.

@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Jackie Robinson Commemorative Site Act”.
+This Act may be cited as the “Jackie Robinson Ballpark National Commemorative Site Act”.
 
 ## § 2. Jackie Robinson Ballpark National Commemorative Site
 
@@ -25,8 +25,9 @@ This Act may be cited as the “Jackie Robinson Commemorative Site Act”.
   - **(1)** *Cooperative agreements* The Secretary may enter into cooperative agreements with appropriate public or private entities for interpretative and educational purposes related to the Site.
   - **(2)** *Effect of designation* The Site shall not be a unit of the National Park System.
   - **(3)** *Limitations* Nothing in this Act—
-    - **(A)** authorizes the Secretary to interfere with the rights of any person with respect to private property or any local zoning ordinance or land use plan of the State or any political subdivision thereof; or
-    - **(B)** authorizes the Secretary to acquire land or interests in land through condemnation or otherwise.
+    - **(A)** authorizes the Secretary to interfere with the rights of any person with respect to private property or any local zoning ordinance or land use plan of the State or any political subdivision thereof;
+    - **(B)** affects the administration of the Site by any owner of the Site; or
+    - **(C)** authorizes the Secretary to acquire land or interests in land through condemnation or otherwise.
 - **(e)** *Special resource study*
   - **(1)** *In general* The Secretary shall conduct a special resource study of the Site to evaluate the national significance of the Site and determine the suitability and feasibility of designating the Site as a unit of the National Park System.
   - **(2)** *Alternatives* The Secretary shall consider alternatives for preservation, protection, and interpretation of the Site by Federal, State, or local government entities, or private and nonprofit organizations.
