@@ -1,7 +1,7 @@
 ---
 measure: S. 4367
 congress: 118
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 4367
@@ -27,6 +27,10 @@ Thomas R. Carper Water Resources Development Act of 2024
 
 - Senate — Environment and Public Works Committee
 
+## Recorded votes (1)
+
+- 2024-12-10 — [House 118-2-493](votes/house-118-2-0493.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–18)
+
 ## Actions
 
 - 2024-05-20 — Introduced in Senate
@@ -46,3 +50,16 @@ Thomas R. Carper Water Resources Development Act of 2024
 - 2024-08-01 — Senate amendment proposed (on the floor): Amendment SA 3224 proposed by Senator Capito for Senator Carper.
 - 2024-08-01 — Senate amendment submitted
 - 2024-08-01 — The committee substitute withdrawn by Unanimous Consent.
+- 2024-08-02 — Message on Senate action sent to the House.
+- 2024-08-06 — Held at the desk.
+- 2024-08-06 — Received in the House.
+- 2024-09-23 — By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 118-227.
+- 2024-09-23 — By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 118-227.
+- 2024-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-09 — Considered under suspension of the rules. (consideration: CR H6453-6529)
+- 2024-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 4367.
+- 2024-12-09 — Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.
+- 2024-12-10 — Considered as unfinished business. (consideration: CR H6555-6556)
+- 2024-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 493). (text: 12/9/2024 CR H6453-6525)
+- 2024-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 493). (text: 12/9/2024 CR H6453-6525)
