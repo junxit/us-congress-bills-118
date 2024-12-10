@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6482
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -59,3 +59,10 @@ The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is further amended by 
 >   - **(3)** *Consultations* In developing any programmatic environmental impact statement for geothermal leasing or supplement to such a statement under this section, the Secretary shall consult, on an ongoing basis, with appropriate State, Tribal, and local governments, transmission infrastructure owners and operators, developers, and other appropriate entities.
 >   - **(4)** *Procedure* The Secretary may not delay issuing a permit or holding a lease sale under this Act because the supplement required under paragraph (1) has not been finalized by the Secretary.
 > - **(f)** *Compliance with NEPA* If the Secretary determines that the designation of a geothermal leasing priority area has been sufficiently analyzed by a programmatic environmental impact statement, the Secretary shall not prepare any additional analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to geothermal lease sales for such geothermal leasing priority area.
+
+## § 4. Findings
+
+Congress finds that—
+
+- **(1)** pursuant to section 109 of the National Environmental Policy Act of 1969 (42 U.S.C. 4336c), as amended by section 321(b) of the Fiscal Responsibility Act of 2023 (Public Law 118–5), the Bureau of Land Management announced on April 15, 2024, it had adopted categorical exclusions from the Department of the Navy and the United States Forest Service for geothermal exploration; and
+- **(2)** if appropriately used, these categorical exclusions are expected to expedite the review and approval of geothermal exploration proposals on Bureau of Land Management lands.
