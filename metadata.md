@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2892
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2892
@@ -42,9 +42,10 @@ WARN Act
 - Rep. Carter, Troy A. [D-LA-2] (C001125)
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ WARN Act
 - 2024-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6531-6532)
 - 2024-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6531-6532)
 - 2024-12-09 — The title of the measure was amended. Agreed to without objection.
+- 2024-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
