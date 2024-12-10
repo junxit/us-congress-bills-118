@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6547
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Colorado Energy Prosperity Act”.
+This Act may be cited as the “Colorado Energy Prosperity Act of 2024”.
 
-## § 2. Prohibition on implementation of Draft Resource Management Plan and Draft Supplemental Environmental Impact Statement
+## § 2. Prohibition on implementation of Proposed Resource Management Plan and Final Supplemental Environmental Impact Statement
 
-The Secretary of the Interior may not finalize, implement, administer, or enforce the Draft Resource Management Plan or Draft Supplemental Environmental Impact Statement referenced in the Notice titled “Notice of Availability of the Draft Resource Management Plan and Supplemental Environmental Impact Statement for the Colorado River Valley Field Office and Grand Junction Field Office Resource Management Plans, Colorado” (88 Fed. Reg. 51855; published August 4, 2023), or any substantially similar documents.
+The Secretary of the Interior shall not implement, administer, or enforce the Proposed Resource Management Plan and Final Supplemental Environmental Impact Statement referred to in the notice of availability titled “Notice of Availability of the Proposed Resource Management Plan and Final Supplemental Environmental Impact Statement for the Colorado River Valley Field Office and Grand Junction Field Office Resource Management Plans, Colorado” published by the Bureau of Land Management on June 21, 2024 (89 Fed. Reg. 52082).
