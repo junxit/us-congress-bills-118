@@ -31,7 +31,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   > - **(6)** The Northwest Straits Marine Conservation Initiative shares many of the same goals with the National Oceanic and Atmospheric Administration, including fostering citizen stewardship of marine resources, general ecosystem management, and protecting federally managed marine species.
   > - **(7)** Ocean literacy, kelp habitat conservation and monitoring, Veterans Conservation Corps internships, and removal of marine debris projects are examples of previous and ongoing partnerships between the Northwest Straits Marine Conservation Initiative and the National Oceanic and Atmospheric Administration. Areas of partnership may evolve with emerging opportunities.
   >
-  > ## § 404. Definitions
+  > ## § 404403. Definitions
   >
   > In this title:
   >
@@ -41,7 +41,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   > - **(4)** *Tribal government* The term Tribal government means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation individually identified (including parenthetically) in the list published most recently as of the date of enactment of the Northwest Straits Marine Conservation Initiative Reauthorization Act of 2024 pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
   > - **(5)** *Under Secretary* The term Under Secretary means the Under Secretary of Commerce for Oceans and Atmosphere.
   >
-  > ## § 405. Membership of the Commission
+  > ## § 405404. Membership of the Commission
   >
   > - **(a)** *Composition*
   >   - **(1)** *In general* The Commission shall be composed of 14 members, except as provided in paragraph (2), who shall be appointed as follows:
@@ -57,21 +57,21 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   >     - **(J)** Four members appointed by the Governor of the State of Washington who—
   >       - **(i)** are residents of the State of Washington; and
   >       - **(ii)** are not employed by a Federal, State, or local government, excluding an institution of higher education.
-  >   - **(2)** *Additional members* The Commission may, as determined necessary to improve the ability of the Commission to perform the duties of the Commission under section 406(b), appoint members in addition to those appointed under paragraph (1). Any such additional member shall be appointed by a consensus of the members of a marine resources committee that is not described in such paragraph.
+  >   - **(2)** *Additional members* The Commission may, as determined necessary to improve the ability of the Commission to perform the duties of the Commission under section 406405(b), appoint members in addition to those appointed under paragraph (1). Any such additional member shall be appointed by a consensus of the members of a marine resources committee that is not described in such paragraph.
   > - **(b)** *Vacancies* A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
   > - **(c)** *Chairperson* The Commission shall select a Chairperson from among its members.
   > - **(d)** *Meeting* The Commission shall meet at the call of the Chairperson, but not less frequently than quarterly.
   > - **(e)** *Liaison*
   >   - **(1)** *In general* The Under Secretary, in consultation with the Commission, shall appoint an employee of the National Oceanic and Atmospheric Administration—
   >     - **(A)** to serve as a liaison between the Commission and the Department of Commerce;
-  >     - **(B)** to coordinate programs of the National Oceanic and Atmospheric Administration with activities related to the goal of the Commission described in section 406(a); and
+  >     - **(B)** to coordinate programs of the National Oceanic and Atmospheric Administration with activities related to the goal of the Commission described in section 406405(a); and
   >     - **(C)** to perform additional liaison functions benefitting the Commission and the National Oceanic and Atmospheric Administration, which may include, as agreed to by the Commission and the National Oceanic and Atmospheric Administration, attending meetings and other events of the Commission as a nonvoting participant.
   >   - **(2)** *Limitation* Service as a member of the Commission by the employee appointed under paragraph (1)—
   >     - **(A)** is limited to the employee’s service as a liaison; and
-  >     - **(B)** does not obligate the employee to perform any duty of the Commission under section 406(b).
-  > - **(f)** *Administration* The Commission may enter into cooperative agreements with the State of Washington for staffing and administrative services for the purposes of supporting the duties of the Commission under section 406(b).
+  >     - **(B)** does not obligate the employee to perform any duty of the Commission under section 406405(b).
+  > - **(f)** *Administration* The Commission may enter into cooperative agreements with the State of Washington for staffing and administrative services for the purposes of supporting the duties of the Commission under section 406405(b).
   >
-  > ## § 406. Goal and duties of the Commission
+  > ## § 406405. Goal and duties of the Commission
   >
   > - **(a)** *Goal* The goal of the Commission is to protect and restore the marine waters, habitats, and species of the Northwest Straits region to achieve ecosystem health and sustainable resource use by—
   >   - **(1)** designing and recommending projects that are driven by the best available science, local priorities, community-based decisions, and the ability to measure results;
@@ -90,7 +90,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   > - **(c)** *Coordination and collaboration* The Commission—
   >   - **(1)** shall carry out the duties described in subsection (b) in coordination and collaboration, as appropriate, with Federal, State, and local governments and Tribal governments, including by—
   >     - **(A)** providing technical support and assistance to any Tribal government seeking representation and participation on the Commission; and
-  >     - **(B)** supporting the work and duties of the liaison to the Commission under section 405(e); and
+  >     - **(B)** supporting the work and duties of the liaison to the Commission under section 405404(e); and
   >   - **(2)** may enter into cooperative agreements with nonprofit entities, such as the Northwest Straits Foundation, to provide assistance, including financial assistance, in carrying out the duties described in subsection (b).
   > - **(d)** *Limitations* Nothing in this title provides the Commission with authority to issue regulations or implement any Federal law or regulation.
   > - **(e)** *Acceptance of donations* For purposes of carrying out this section, the Commission may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
@@ -105,9 +105,23 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   >     - **(D)** Collection of high-quality data and promotion of the use and dissemination of such data for the purposes of ecosystem monitoring.
   >     - **(E)** Promotion of stewardship and understanding of marine resources of the Northwest Straits region through education and outreach, including by targeted outreach to underresourced communities.
   >
-  > ## § 407. Funding
+  > ## § 407406. Funding
   >
   > - **(a)** *Authorization of appropriations* There are authorized to be appropriated to the Under Secretary such sums as may be necessary to carry out this title, including to be made available to the Commission to carry out the duties of the Commission under this title.
   > - **(b)** *Assistance*
   >   - **(1)** *In general* The Under Secretary may, from amounts made available to the Under Secretary to carry out this title, provide assistance to the Commission in carrying out the duties of the Commission under this title.
   >   - **(2)** *Provision* The Under Secretary may provide the assistance described in paragraph (1), and make available amounts to the Commission to carry out the duties of the Commission, through a contract with the Director of the Padilla Bay National Estuarine Research Reserve, unless the Governor of the State of Washington objects. If such Governor so objects, the Under Secretary may provide such assistance and make available such amounts to the Commission.
+
+## § 3. North Pacific Research Board Enhancement
+
+- **(a)** *Short title* This section may be cited as the “North Pacific Research Board Enhancement Act ”.
+- **(b)** *North Pacific Research Board Enhancement* Section 401(e) of Public Law 105–83 (111 Stat. 1608; 43 U.S.C. 1474d) is amended—
+  - **(1)** in paragraph (3)—
+    - **(A)** in subparagraph (L), by striking “and” after the semicolon;
+    - **(B)** in subparagraph (M), by striking the period at the end and inserting a semicolon;
+    - **(C)** in subparagraph (N), by striking the period at the end and inserting “; and”;
+    - **(D)** by inserting after subparagraph (N) the following:
+      > - **(O)** one member who shall represent Alaska Natives and possesses personal knowledge of, and direct experience with, subsistence uses and shall be nominated by the Board and appointed by the Secretary.
+
+    - **(E)** by adding at the end the following: “Board members appointed under subparagraphs (N) and (O) shall serve for 3-year terms, and may be reappointed once.”; and
+  - **(2)** in paragraph (4)(B), by striking “Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.” and inserting “The funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection. The Board shall maximize the percentage of funds directed to research and maintain the highest quality standards in administering grants under this subsection. On the date that is 5 years after the date of enactment of the North Pacific Research Board Enhancement Act, not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.”.

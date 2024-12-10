@@ -1,7 +1,7 @@
 ---
 measure: S. 4579
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `Commission (in this title referred to as the Commission).` |
 | Inserted | `Commission.` |
 
+### 43 U.S.C. § 1474d
+
+> in paragraph (4)(B), by striking “Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.” and inserting “The funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection. The Board shall maximize the percentage of funds directed to research and maintain the highest quality standards in administering grants under this subsection. On the date that is 5 years after the date of enactment of the North Pacific Research Board Enhancement Act, not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.”.
+
+| | |
+|---|---|
+| Removed | `Not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.` |
+| Inserted | `The funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection. The Board shall maximize the percentage of funds directed to research and maintain the highest quality standards in administering grants under this subsection. On the date that is 5 years after the date of enactment of the North Pacific Research Board Enhancement Act, not more than 15 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -43,3 +52,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `25 U.S.C. § 5131` | replace | by striking sections 403, 404, and 405 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1474d` | strike | in subparagraph (L), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1474d` | replace | in subparagraph (M), by striking the period at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1474d` | replace | in subparagraph (N), by striking the period at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1474d` | insert | by inserting after subparagraph (N) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1474d` | add-at-end | by adding at the end the following: “Board members appointed under subparagraphs (N) and (O) shall serve for 3-year terms, and may be reappointed once.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 4579
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4579
@@ -28,3 +28,7 @@ Northwest Straits Marine Conservation Initiative Reauthorization Act of 2024
 
 - 2024-06-18 — Introduced in Senate
 - 2024-06-18 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2024-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2024-12-10 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with amendments. Without written report.
+- 2024-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 691.
