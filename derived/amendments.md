@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5874
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 1962
 
-> Section 8(a) of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “fiscal years 2007 through 2016” and inserting “fiscal years 2025 through 2035”.
+> Section 8(a) of the United States-Mexico Transboundary Aquifer Assessment Act (42 U.S.C. 1962 note; Public Law 109–448) is amended by striking “fiscal years 2007 through 2016” and inserting “fiscal years 2025 through 2032”.
 
 | | |
 |---|---|
 | Removed | `fiscal years 2007 through 2016` |
-| Inserted | `fiscal years 2025 through 2035` |
+| Inserted | `fiscal years 2025 through 2032` |
 
 ### 42 U.S.C. § 1962
 
