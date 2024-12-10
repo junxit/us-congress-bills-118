@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 190
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,4 +20,4 @@ This Act may be cited as the “Saving Gig Economy Taxpayers Act”.
   >   - **(1)** the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $20,000, and
   >   - **(2)** the aggregate number of such transactions exceeds 200.
 
-- **(b)** *Effective date* The amendment made by this section shall take effect as if included in section 9674 of the American Rescue Plan Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to returns for calendar years beginning after December 31, 2021.
