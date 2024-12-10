@@ -1,7 +1,7 @@
 ---
 measure: S. 4367
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-566 amendatory instructions. 177 executed, 389 stated and not applied.
+567 amendatory instructions. 177 executed, 390 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1739,6 +1739,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 2282` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2282` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 2282` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 2282c` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2282` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2267a` | replace | in paragraph (12), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 2267a` | replace | in paragraph (13), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

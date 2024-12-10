@@ -1,7 +1,7 @@
 ---
 measure: S. 4367
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 4367
@@ -27,9 +27,10 @@ Thomas R. Carper Water Resources Development Act of 2024
 
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2024-12-10 — [House 118-2-493](votes/house-118-2-0493.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–18)
+- 2024-12-18 — [Senate 118-2-327](votes/senate-118-2-0327.md) — On the Motion — **Motion Agreed to** (97–1)
 
 ## Actions
 
@@ -63,3 +64,15 @@ Thomas R. Carper Water Resources Development Act of 2024
 - 2024-12-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2024-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 493). (text: 12/9/2024 CR H6453-6525)
 - 2024-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 18 (Roll no. 493). (text: 12/9/2024 CR H6453-6525)
+- 2024-12-12 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2024-12-18 — Measure laid before Senate by unanimous consent.
+- 2024-12-18 — Motion by Senator Carper to concur in the House Amendment to S. 4367 made in Senate.
+- 2024-12-18 — Resolving differences -- Senate actions: Senate agreed, under the order of 12/12/2024, having achieved 60 votes in the affirmative, to the House amendment to S. 4367 by Yea-Nay Vote. 97 - 1. Record Vote Number: 327.
+- 2024-12-18 — Senate agreed, under the order of 12/12/2024, having achieved 60 votes in the affirmative, to the House amendment to S. 4367 by Yea-Nay Vote. 97 - 1. Record Vote Number: 327.
+- 2024-12-19 — Message on Senate action sent to the House.
+- 2024-12-26 — Presented to President.
+- 2024-12-26 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-272.
+- 2025-01-04 — Became Public Law No: 118-272.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
