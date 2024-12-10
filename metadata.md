@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6085
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6085
@@ -16,6 +16,10 @@ To prohibit the implementation of the Draft Resource Management Plan and Environ
 
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
+## Cosponsors (1)
+
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ To prohibit the implementation of the Draft Resource Management Plan and Environ
 - 2023-10-26 — Introduced in House
 - 2023-10-26 — Introduced in House
 - 2023-10-26 — Referred to the House Committee on Natural Resources.
+- 2024-03-18 — Referred to the Subcommittee on Federal Lands.
+- 2024-03-20 — Subcommittee Hearings Held
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 10.
+- 2024-09-19 — Subcommittee on Federal Lands Discharged
+- 2024-12-10 — Placed on the Union Calendar, Calendar No. 683.
+- 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-838.
+- 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-838.
