@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1437
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,20 +11,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Black Vulture Relief Act of 2023”.
+This Act may be cited as the “Black Vulture Relief Act of 2024”.
 
 ## § 2. Authorization for livestock producers and their employees to take certain black vultures
 
-- **(a)** *In general* Notwithstanding any provision of the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), a covered person may—
-  - **(1)** take or attempt to take a black vulture that is causing, or that the covered person has a reasonable belief will cause, death, injury, or destruction to livestock; or
-  - **(2)** in the course of taking or attempting to take a black vulture described in paragraph (1), cause injury to such black vulture.
-- **(b)** *Reporting requirements* Not later than January 31 of each year, a covered person that takes a black vulture pursuant to subsection (a) in the preceding 12-month period shall complete and submit to the appropriate United States Fish and Wildlife Service Regional Office (as determined by the geographic jurisdictions described in section 2.2 of title 50, Code of Federal Regulations) an annual report using the form developed under subsection (c).
-- **(c)** *Issuance of form* The Director of the United States Fish and Wildlife Service shall, not later than 180 days after the date of enactment of this Act, make available on the agency website such reporting form as the Director determines appropriate for the purposes of taking reports under subsection (b). Such form may not be more onerous to complete than similar forms for permitted take under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) required as of the date of the enactment of this section.
-- **(d)** *Definitions* In this section:
+- **(a)** *Definitions* In this section:
   - **(1)** *Black vulture* The term black vulture means a bird of the species Coragyps atratus.
   - **(2)** *Covered person* The term covered person means—
     - **(A)** a livestock producer; or
-    - **(B)** an employee of a livestock producer when such employee is actively engaged in livestock production.
-  - **(3)** *Livestock* The term livestock has the meaning given such term in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471).
-  - **(4)** *Livestock producer* The term livestock producer has the meaning given such term in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471).
-  - **(5)** *Take* The term take means to capture, kill, disperse, or transport.
+    - **(B)** an employee of a livestock producer when the employee is actively engaged in livestock production.
+  - **(3)** *Director* The term Director means the Director of the United States Fish and Wildlife Service.
+  - **(4)** *Livestock* The term livestock has the meaning given the term in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471).
+  - **(5)** *Livestock producer* The term livestock producer has the meaning given the term in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471).
+  - **(6)** *Take* The term take means—
+    - **(A)** to capture, kill, or disperse a black vulture; or
+    - **(B)** to transport a black vulture carcass.
+- **(b)** *Authorization*
+  - **(1)** *In general* Subject to paragraph (2), notwithstanding the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), a covered person may—
+    - **(A)** take or attempt to take a black vulture that is causing, or that the covered person has a reasonable belief will cause, death, injury, or destruction to livestock; or
+    - **(B)** in the course of taking or attempting to take a black vulture described in subparagraph (A), cause injury to the black vulture.
+  - **(2)** *Prohibition* A covered person may not take or attempt to take a black vulture through the use of poison.
+- **(c)** *Reports*
+  - **(1)** *In general* Not later than January 31 of each year, a covered person that takes a black vulture in accordance with subsection (b) in the preceding 12-month period shall complete and submit to the appropriate United States Fish and Wildlife Service Regional Office (as determined by the geographic jurisdictions described in section 2.2 of title 50, Code of Federal Regulations (or a successor regulation)) an annual report using the form developed by the Director under subsection (d).
+  - **(2)** *Clarification* A covered person shall not be required to submit a report under paragraph (1) until after the date on which the Director develops and makes available the reporting form under subsection (d).
+- **(d)** *Reporting forms*
+  - **(1)** *In general* Subject to paragraph (2), not later than 180 days after the date of enactment of this Act, the Director shall develop and make available on the website of the United States Fish and Wildlife Service a reporting form the Director determines appropriate for the purposes of accepting reports under subsection (c).
+  - **(2)** *Format* The form developed and made available under paragraph (1) may not be more onerous to complete than similar forms required for permitted take under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) as of the date of enactment of this Act.
