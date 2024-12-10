@@ -23,4 +23,4 @@ Except as otherwise expressly provided in this Act, wherever in this Act an amen
 
 ## § 4. Definitions
 
-In this Act, the terms “area agency on aging”, “Assistant Secretary”, “older individual”, and “Secretary” have the meanings given such terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002).
+In this Act, the terms area agency on aging, Assistant Secretary, older individual, and Secretary have the meanings given such terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002).
