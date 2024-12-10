@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2672
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2672
@@ -53,9 +53,10 @@ FEMA Loan Interest Payment Relief Act
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ FEMA Loan Interest Payment Relief Act
 - 2024-12-09 — Mr. Graves (LA) moved to suspend the rules and pass the bill, as amended.
 - 2024-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6533)
 - 2024-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6533)
+- 2024-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
