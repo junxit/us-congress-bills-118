@@ -11,9 +11,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on September 29, 1899, the organization now known as the Veterans of Foreign Wars of the United States was founded in Columbus, Ohio, in the aftermath of the Spanish-American War and the Philippine Insurrection;
+- Whereas, on September 29, 1899, the organization now known as the Veterans of Foreign Wars of the United States was founded in Columbus, Ohio, in the aftermath of the Spanish-American War;
 - Whereas, on September 29, 2024, the Veterans of Foreign Wars of the United States will celebrate its 125th anniversary;
-- Whereas, since 1899, the Veterans of Foreign Wars of the United States has provided voluntary and unselfish service to the Armed Forces, veterans, and the United States by—(1)advocating for overarching benefits programs for veterans;(2)facilitating veterans transitioning back to civilian society;(3)serving the communities in which veterans live; and (4)taking a national leadership role on substantive issues important to veterans of the Armed Forces; and
+- Whereas, since 1899, the Veterans of Foreign Wars of the United States and its predecessor organizations have provided voluntary and unselfish service to the Armed Forces, veterans, and the United States by—(1)advocating for overarching benefits programs for veterans;(2)facilitating veterans transitioning back to civilian society;(3)serving the communities in which veterans live; and (4)taking a national leadership role on substantive issues important to veterans of the Armed Forces; and
 - Whereas the 125th anniversary of the founding of the Veterans of Foreign Wars of the United States provides an opportunity to recognize, honor, and pay tribute to the nearly 1,000,000 veterans of the Armed Forces represented by the Veterans of Foreign Wars of the United States who served in combat from World War II to the present day: Now, therefore, be it
 
 That Congress—
