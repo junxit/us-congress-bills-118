@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Mineral Leasing Act to improve the assessment of expression of interest fees, and for other purposes.
 
-## § 1. Fee for expression of interest
+## § 1. Short title
+
+This Act may be cited as the “Expression of Interest Sensibility Act”.
+
+## § 2. Fee for expression of interest
 
 - **(a)** *Deadline To issue lease* Section 17(b)(1)(A) of the Mineral Leasing Act (30 U.S.C. 226(b)(1)(A)) is amended by striking “the remainder of the bonus bid, if any,” and inserting “, as applicable, the remainder of the bonus bid, the fee for the expression of interest under subsection (q)(2)(B),”.
 - **(b)** *Expressions of interest* Section 17(q) of the Mineral Leasing Act (30 U.S.C. 226(q)) is amended—
