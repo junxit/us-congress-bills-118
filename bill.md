@@ -17,4 +17,6 @@ This Act may be cited as the “Military Families National Parks Access Enhancem
 
 Section 805(b)(2) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6804(b)(2)) is amended by adding at the end the following:
 
-> - **(D)** Any individual the Secretary determines for purposes of this subparagraph is next-of-kin to a member of the Armed Forces whose death entitles a survivor to a death gratuity under section 1475 of title 10, United States Code.
+> - **(D)** Any individual who is a survivor entitled to—
+>   - **(i)** a death gratuity under section 1475 of title 10, United States Code; or
+>   - **(ii)** dependency and indemnity compensation under chapter 13 of title 38, United States Code.
