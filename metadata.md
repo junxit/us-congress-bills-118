@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7671
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7671
@@ -52,3 +52,4 @@ Disaster Management Costs Modernization Act
 - 2024-12-09 — Mr. Graves (LA) moved to suspend the rules and pass the bill.
 - 2024-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6534)
 - 2024-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6534)
+- 2024-12-10 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 692.
