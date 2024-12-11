@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7365
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7365
@@ -66,10 +66,11 @@ VETS Safe Travel Act
 - Rep. DeSaulnier, Mark [D-CA-10] (D000623)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -93,3 +94,4 @@ VETS Safe Travel Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 691.
 - 2024-12-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-846, Part I.
 - 2024-12-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-846, Part I.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
