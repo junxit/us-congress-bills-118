@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7365
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 

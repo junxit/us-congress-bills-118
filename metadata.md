@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7365
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7365
@@ -95,3 +95,14 @@ VETS Safe Travel Act
 - 2024-12-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-846, Part I.
 - 2024-12-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 118-846, Part I.
 - 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7223)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2024-12-20 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-238.
+- 2025-01-04 — Became Public Law No: 118-238.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
