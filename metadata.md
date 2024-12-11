@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7673
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7673
@@ -21,9 +21,10 @@ Liberty in Laundry Act
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Liberty in Laundry Act
 - 2024-12-10 — Rule provides for consideration of H.R. 7673 and S. 4199. The resolution provides for consideration of H.R. 7673 and S. 4199 under a closed rule with one hour of general debate on each bill and one motion to recommit on H.R. 7673 and one motion to commit on S. 4199. The resolution also provides for consideration of the Senate amendment to H.R. 5009 with one hour of general debate.
 - 2024-12-10 — Rules Committee Resolution H. Res. 1612 Reported to House. Rule provides for consideration of H.R. 7673 and S. 4199. The resolution provides for consideration of H.R. 7673 and S. 4199 under a closed rule with one hour of general debate on each bill and one motion to recommit on H.R. 7673 and one motion to commit on S. 4199. The resolution also provides for consideration of the Senate amendment to H.R. 5009 with one hour of general debate.
 - 2024-12-10 — The previous question was ordered pursuant to the rule.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
