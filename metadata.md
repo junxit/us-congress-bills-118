@@ -1,7 +1,7 @@
 ---
 measure: S. 5060
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5060
@@ -16,13 +16,16 @@ PROTECT Our Children Reauthorization Act of 2024
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Hawley, Josh [R-MO] (H001089)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -32,3 +35,7 @@ PROTECT Our Children Reauthorization Act of 2024
 
 - 2024-09-17 — Introduced in Senate
 - 2024-09-17 — Read twice and referred to the Committee on the Judiciary.
+- 2024-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6975-6976; text: CR S6975-6976)
+- 2024-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.
