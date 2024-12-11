@@ -42,7 +42,7 @@ In this Act:
 - **(6)** *Covered permit* The term covered permit means—
   - **(A)** a Good Samaritan permit; and
   - **(B)** an investigative sampling permit.
-- **(7)** *Federal land management agency* The term Federal land management agency means any Federal agency authorized by law or executive order to exercise jurisdiction, custody, or control over land owned by the United States.
+- **(7)** *Federal land management agency* The term Federal land management agency means any Federal agency authorized by law or Executive order to exercise jurisdiction, custody, or control over land owned by the United States.
 - **(8)** *Good Samaritan* The term Good Samaritan means a person that, with respect to historic mine residue, as determined by the Administrator—
   - **(A)** is not a past or current owner or operator of—
     - **(i)** the abandoned hardrock mine site at which the historic mine residue is located; or
@@ -96,7 +96,7 @@ Nothing in this Act—
 
 - **(a)** *Establishment*
   - **(1)** *In general* The Administrator shall establish a pilot program under which the Administrator shall grant not more than 15 Good Samaritan permits to carry out projects to remediate historic mine residue at any portions of abandoned hardrock mine sites in accordance with this Act.
-  - **(2)** *Oversight of permits* The Administrator may oversee the remediation project under paragraph (1), and any action taken by the applicable Good Samaritan or any cooperating person under the applicable Good Samaritan permit, for the duration of the Good Samaritan permit, as the Administrator determines to be necessary to review the status of the project.
+  - **(2)** *Oversight of permits* The Administrator may oversee a remediation project under paragraph (1), and any action taken by the applicable Good Samaritan or any cooperating person under the applicable Good Samaritan permit, for the duration of the Good Samaritan permit, as the Administrator determines to be necessary to review the status of the project.
   - **(3)** *Sunset*
     - **(A)** *In general* Except as provided in subparagraph (B), the pilot program described in paragraph (1) shall terminate on the date that is 7 years after the date of enactment of this Act.
     - **(B)** *Exception* Notwithstanding subparagraph (A), the Administrator may grant a Good Samaritan permit pursuant to this Act after the date identified in subparagraph (A) if the application for the Good Samaritan permit—
@@ -187,7 +187,7 @@ Nothing in this Act—
       - **(i)** to apply to convert the investigative sampling permit into a Good Samaritan permit under paragraph (5); and
       - **(ii)** to undertake remediation activities on the site where investigative sampling was conducted on conclusion of investigative sampling.
     - **(B)** *Effect of lack of conversion*
-      - **(i)** *In general* Notwithstanding a refusal by a Good Samaritan to convert an investigative sampling permit into a Good Samaritan permit under subparagraph (A), but subject to clause (ii), the provisions of paragraphs (1) through (4) of subsection (n) shall continue to apply to the Good Samaritan and any cooperating persons after the refusal to convert.
+      - **(i)** *In general* Notwithstanding a refusal by a Good Samaritan to convert an investigative sampling permit into a Good Samaritan permit under subparagraph (A), but subject to clause (ii), the provisions of paragraphs (1) through (3) of subsection (n) shall continue to apply to the Good Samaritan and any cooperating persons after the refusal to convert.
       - **(ii)** *Degradation of surface water quality*
         - **(I)** *Opportunity to correct* If, before the date on which a Good Samaritan refuses to convert an investigative sampling permit under subparagraph (A), actions by the Good Samaritan or any cooperating person have caused conditions at the abandoned hardrock mine site to be measurably worse, as determined by the Administrator, when compared to conditions described pursuant to paragraph (3)(B), if applicable, the Administrator shall provide the Good Samaritan or cooperating person, as applicable, the opportunity to return the conditions at the abandoned hardrock mine site to those conditions.
         - **(II)** *Effect* If, pursuant to subclause (I), the applicable Good Samaritan or cooperating person does not return the surface water quality at the abandoned hardrock mine site to conditions described pursuant to paragraph (3)(B), if applicable, as determined by the Administrator, clause (i) shall not apply to the Good Samaritan or any cooperating persons.
@@ -379,7 +379,7 @@ Nothing in this Act—
     - **(A)** *In general* If the Administrator is otherwise required to terminate a Good Samaritan permit under paragraph (1)(C), the Administrator may grant an extension of the Good Samaritan permit.
     - **(B)** *Limitation* Any extension granted under subparagraph (A) shall be not more than 180 days for each extension.
   - **(3)** *Effect of termination*
-    - **(A)** *In general* Notwithstanding the termination of a Good Samaritan permit under paragraph (1), but subject to subparagraph (B), the provisions of paragraphs (1) through (4) of subsection (n) shall continue to apply to the Good Samaritan and any cooperating persons after the termination, including to any long-term operations and maintenance pursuant to the agreement under paragraph (5).
+    - **(A)** *In general* Notwithstanding the termination of a Good Samaritan permit under paragraph (1), but subject to subparagraph (B), the provisions of paragraphs (1) through (3) of subsection (n) shall continue to apply to the Good Samaritan and any cooperating persons after the termination, including to any long-term operations and maintenance pursuant to the agreement under paragraph (5).
     - **(B)** *Degradation of surface water quality*
       - **(i)** *Opportunity to return to baseline conditions* If, at the time that 1 or more of the conditions described in paragraph (1) are met but before the Good Samaritan permit is terminated, actions by the Good Samaritan or cooperating person have caused surface water quality at the abandoned hardrock mine site to be measurably worse, as determined by the Administrator, when compared to baseline conditions described in the permit, the Administrator shall, before terminating the Good Samaritan permit, provide the Good Samaritan or cooperating person, as applicable, the opportunity to return surface water quality to those baseline conditions.
       - **(ii)** *Effect* If, pursuant to clause (i), the applicable Good Samaritan or cooperating person does not return the surface water quality at the abandoned hardrock mine site to the baseline conditions described in the permit, as determined by the Administrator, subparagraph (A) shall not apply to the Good Samaritan or any cooperating persons.
@@ -398,7 +398,7 @@ Nothing in this Act—
 - **(s)** *Regulations*
   - **(1)** *In general* Subject to paragraph (2), the Administrator, in consultation with the Secretary of the Interior and the Secretary of Agriculture, and appropriate State, Tribal, and local officials, may promulgate any regulations that the Administrator determines to be necessary to carry out this Act.
   - **(2)** *Guidance if no regulations promulgated*
-    - **(A)** *In general* If the Administrator does not initiate a regulatory process to promulgate regulations under paragraph (1) within 180 days after the date of enactment of this Act, the Administrator, in consultation with the Secretary of the Interior, the Secretary of Energy, and appropriate State, Tribal, and local officials, shall issue guidance establishing specific requirements that the Administrator determines would facilitate the implementation of this section.
+    - **(A)** *In general* If the Administrator does not initiate a regulatory process to promulgate regulations under paragraph (1) within 180 days after the date of enactment of this Act, the Administrator, in consultation with the Secretary of the Interior, the Secretary of Agriculture, and appropriate State, Tribal, and local officials, shall issue guidance establishing specific requirements that the Administrator determines would facilitate the implementation of this section.
     - **(B)** *Public comments* Before finalizing any guidance issued under subparagraph (A), the Administrator shall hold a 30-day public comment period.
 
 ## § 5. Special accounts
@@ -410,14 +410,9 @@ Nothing in this Act—
   - **(1)** amounts provided in appropriation Acts;
   - **(2)** any proceeds from reprocessing deposited under section 4(f)(4)(B)(iv);
   - **(3)** any financial assurance funds collected from an agreement described in section 4(m)(1)(A)(vi)(V)(bb);
-  - **(4)** any funds collected for long-term operations and maintenance under an agreement under section 4(r)(5);
-  - **(5)** any interest earned under an investment under subsection (c);
-  - **(6)** any proceeds from the sale or redemption of investments held in the Fund; and
-  - **(7)** any amounts donated to the Fund by any person.
-- **(c)** *Unused funds* Amounts in each Fund not currently needed to carry out this Act shall be—
-  - **(1)** maintained as readily available or on deposit;
-  - **(2)** invested in obligations of the United States or guaranteed by the United States; or
-  - **(3)** invested in obligations, participations, or other instruments that are lawful investments for a fiduciary, a trust, or public funds.
+  - **(4)** any funds collected for long-term operations and maintenance under an agreement under section 4(r)(5); and
+  - **(5)** any amounts donated to the Fund by any person.
+- **(c)** *Unused funds* Amounts in each Fund not currently needed to carry out this Act shall be maintained as readily available or on deposit.
 - **(d)** *Retain and use authority* The Administrator and each head of a Federal land management agency, as appropriate, may, notwithstanding any other provision of law, retain and use money deposited in the applicable Fund without fiscal year limitation for the purpose of carrying out this Act.
 
 ## § 6. Report to Congress
