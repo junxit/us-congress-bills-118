@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 10357
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10357
+
+> To require a report on former Federal employees advising foreign governments.
+
+## § 1. Short title
+
+This Act may be cited as the “Transparency in Former Federal Employees Advising Foreign Governments Act”.
+
+## § 2. Report on former Federal employees advising foreign governments
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and annually thereafter for 3 years, the Secretary shall submit to the appropriate congressional committees, the Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, and the Committee on Armed Services of the Senate, and the Permanent Select Committee on Intelligence, the Committee on Oversight and Accountability, and the Committee on Armed Services of the House of Representatives a report that identifies former United States Government senior officials who have been approved by the Secretary to advise foreign governments.
+- **(b)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
