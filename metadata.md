@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6229
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6229
@@ -23,10 +23,11 @@ DHS Special Events Program and Support Act
 - Rep. D'Esposito, Anthony [R-NY-4] (D000632)
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ DHS Special Events Program and Support Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 675.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-826, Part I.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-826, Part I.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
