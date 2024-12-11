@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 5009
@@ -36,6 +36,10 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2024-12-11 — [House 118-2-500](votes/house-118-2-0500.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (281–140)
+
 ## Actions
 
 - 2023-07-27 — Introduced in House
@@ -66,3 +70,14 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-09-24 — Senate amendment agreed to: Amendment SA 3294 agreed to in Senate by Unanimous Consent.
 - 2024-09-24 — Senate amendment proposed (on the floor): Amendment SA 3294 proposed by Senator Schumer for Senator Carper.
 - 2024-09-24 — Senate amendment submitted
+- 2024-09-25 — Message on Senate action sent to the House.
+- 2024-12-11 — DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment with an amendment to H.R. 5009.
+- 2024-12-11 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2024-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-11 — Mr. Rogers (AL) moved that the House agree with an amendment to the Senate amendment.
+- 2024-12-11 — Mr. Rogers (AL) moved that the House concur in the Senate amendment to the bill, H.R. 5009, with an amendment consisting of the text of Rules Committee Print 118-52.
+- 2024-12-11 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 281 - 140 (Roll no. 500). (consideration: CR H7099-7100; text: CR H6827-7091)
+- 2024-12-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5009, the Chair put the question on concurring in the Senate amendment with an amendment and by voice vote announced that the ayes had prevailed. Mr. Rogers (AL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2024-12-11 — Pursuant to the provisions of H. Res. 1612, Mr. Rogers (AL) called up the Senate amendment to H.R. 5009. (consideration: CR H6827-7098)
+- 2024-12-11 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 281 - 140 (Roll no. 500). (consideration: CR H7099-7100; text: CR H6827-7091)
+- 2024-12-11 — The previous question was ordered pursuant to the rule.

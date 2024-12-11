@@ -2,75 +2,43 @@
 legis-num: H.R. 5009
 congress: 118th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 5009
 
-That the bill from the House of Representatives (H.R. 5009) entitled “An Act to reauthorize wildlife habitat and conservation programs, and for other purposes.”, do pass with the following
+That the House agree to the amendment of the Senate to the bill (H.R. 5009) entitled “An Act to reauthorize wildlife habitat and conservation programs, and for other purposes.”, with the following
 
-*Strike all after the enacting clause and insert the following:*
+*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Wildlife Innovation and Longevity Driver reauthorization Act” or the “WILD Act”.
+- **(a)** *In general* This Act may be cited as the “Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025”.
+- **(b)** *Reference* Any reference in this or any other Act to the “National Defense Authorization Act for Fiscal Year 2025” shall be deemed to be a reference to the “Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025”.
 
-## § 2. Partners for Fish and Wildlife Act
+## § 2. Organization of Act into divisions; table of contents
 
-Section 5 of the Partners for Fish and Wildlife Act (16 U.S.C. 3774) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
+- **(a)** *Divisions* This Act is organized into 7 divisions as follows:
+  - **(1)** Division A—Department of Defense Authorizations.
+  - **(2)** Division B—Military Construction Authorizations.
+  - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
+  - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Other Matters.
+  - **(6)** Division F—Intelligence Authorization Act for Fiscal Year 2025.
+  - **(7)** Division G—Department of State Authorization Act for Fiscal Year 2025.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
-## § 3. African Elephant Conservation Act
+## § 3. Definitions
 
-- **(a)** *Provision of assistance* Section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211) is amended by adding at the end the following:
-  > - **(g)** *Multiyear grants*
-  >   - **(1)** *Authorization* The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
-  >   - **(2)** *Effect* Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+In this Act:
 
-- **(b)** *Authorization of appropriations* Section 2306(a) of the African Elephant Conservation Act (16 U.S.C. 4245(a)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
+- **(1)** In divisions A through D, the term “this Act” refers to divisions A through D.
+- **(2)** The term congressional defense committees has the meaning given that term in section 101(a)(16) of title 10, United States Code.
 
-## § 4. Asian Elephant Conservation Act of 1997
+## § 4. Budgetary effects of this Act
 
-- **(a)** *Asian elephant conservation assistance* Section 5 of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4264) is amended by adding at the end the following:
-  > - **(i)** *Multiyear grants*
-  >   - **(1)** *Authorization* The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
-  >   - **(2)** *Effect* Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+The budgetary effects of this Act, for the purposes of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on the conference report or amendment between the Houses.
 
-- **(b)** *Authorization of appropriations* Section 8(a) of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4266(a)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
+## § 5. Joint explanatory statement
 
-## § 5. Rhinoceros and Tiger Conservation Act of 1994
-
-- **(a)** *Rhinoceros and tiger conservation assistance* Section 5 of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304) is amended by adding at the end the following:
-  > - **(g)** *Multiyear grants*
-  >   - **(1)** *Authorization* The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for rhinoceroses or tigers and the habitat of rhinoceroses or tigers.
-  >   - **(2)** *Effect* Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
-
-- **(b)** *Authorization of appropriations* Section 10(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(a)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
-
-## § 6. Great Ape Conservation Act of 2000
-
-- **(a)** *Multiyear grants* Section 4(j)(1) of the Great Ape Conservation Act of 2000 (16 U.S.C. 6303(j)(1)) is amended by inserting “of up to 5 years” after “multiyear grant”.
-- **(b)** *Authorization of appropriations* Section 6 of the Great Ape Conservation Act of 2000 (16 U.S.C. 6305) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
-
-## § 7. Marine Turtle Conservation Act of 2004
-
-- **(a)** *Multiyear grants* Section 4 of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6603) is amended by adding at the end the following:
-  > - **(h)** *Multiyear grants*
-  >   - **(1)** *Authorization* The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
-  >   - **(2)** *Effect* Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
-
-- **(b)** *Authorization of appropriations* Section 7(a) of the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6606(a)) is amended by striking “2019 through 2023” and inserting “2024 through 2028”.
-
-## § 8. Reporting requirements
-
-- **(a)** *Reports to Congress* Annually, the Secretary of the Interior shall submit to the appropriate committees of Congress a report on the implementation of—
-  - **(1)** the African Elephant Conservation Act (16 U.S.C. 4201 et seq.);
-  - **(2)** the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4261 et seq.);
-  - **(3)** the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5301 et seq.);
-  - **(4)** the Great Ape Conservation Act of 2000 (16 U.S.C. 6301 et seq.); and
-  - **(5)** the Marine Turtle Conservation Act of 2004 (16 U.S.C. 6601 et seq.).
-- **(b)** *Requirements* A report submitted under subsection (a) shall include—
-  - **(1)** a list of all awards issued each year under the applicable Act;
-  - **(2)** the total monetary amount issued to each award recipient;
-  - **(3)** the name of each award recipient organization;
-  - **(4)** the country where each award will be implemented; and
-  - **(5)** a description of the projects to be completed and completed under each award.
+The joint explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about December 11, 2024, by the Chairman of the Committee on Armed Services of the House of Representatives and the Chairman of the Committee on Armed Services of the Senate, shall have the same effect with respect to the implementation of this Act as if it were a joint explanatory statement of a committee of conference.
