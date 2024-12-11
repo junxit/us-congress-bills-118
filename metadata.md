@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9668
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9668
@@ -25,13 +25,14 @@ SHIELD Against CCP Act
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (5)
+## Committees (6)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ SHIELD Against CCP Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 695.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-850, Part I.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-850, Part I.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
