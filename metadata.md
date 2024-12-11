@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9769
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9769
@@ -21,9 +21,10 @@ Strengthening Cyber Resilience Against State-Sponsored Threats Act
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Strengthening Cyber Resilience Against State-Sponsored Threats Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 698.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-859.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-859.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
