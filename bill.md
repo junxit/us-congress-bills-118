@@ -16,7 +16,7 @@ This Act may be cited as the “Trafficking Survivors Relief Act of 2024”.
 ## § 2. Federal expungement for victims of trafficking
 
 - **(a)** *In general* Chapter 237 of title 18, United States Code, is amended by adding at the end the following:
-  > ## § 3772. Motion to vacate; expungement; mitigating factors
+  > ## § 3771A. Motion to vacate; expungement; mitigating factors
   >
   > - **(a)** *Definitions* In this section—
   >   - **(1)** the term child means an individual who has not attained 18 years of age;
@@ -41,10 +41,10 @@ This Act may be cited as the “Trafficking Survivors Relief Act of 2024”.
   >       - **(i)** the conduct or alleged conduct of the movant that resulted in the arrest was directly related to the movant having been a victim of trafficking; and
   >       - **(ii)**
   >         - **(I)** the movant was acquitted of the level C offense;
-  >         - **(II)** the Government did not pursue or dismiss criminal charges against the movant for the level C offense; or
+  >         - **(II)** the Government did not pursue or dismissed criminal charges against the movant for the level C offense; or
   >         - **(III)**
   >           - **(aa)** the charges against the movant for the level C offense were reduced to an offense that is a level A offense; and
-  >           - **(bb)** the movant was acquitted of the level A offense, the Government did not pursue or dismiss criminal charges against the movant for the level A offense, or any subsequent conviction of the level A offense was vacated.
+  >           - **(bb)** the movant was acquitted of the level A offense, the Government did not pursue or dismissed criminal charges against the movant for the level A offense, or any subsequent conviction of the level A offense was vacated.
   >   - **(2)** *Contents of motion* A motion described in paragraph (1) shall—
   >     - **(A)** be in writing;
   >     - **(B)** describe any supporting evidence;
@@ -66,13 +66,13 @@ This Act may be cited as the “Trafficking Survivors Relief Act of 2024”.
   >       - **(i)** the movant was arrested for a level C offense and the conduct or alleged conduct that resulted in the arrest was directly related to the movant having been a victim of trafficking; and
   >       - **(ii)**
   >         - **(I)** the movant was acquitted of the level C offense;
-  >         - **(II)** the Government did not pursue or dismiss criminal charges against the movant for the level C offense; or
+  >         - **(II)** the Government did not pursue or dismissed criminal charges against the movant for the level C offense; or
   >         - **(III)**
   >           - **(aa)** the charges against the movant for the level C offense were reduced to a level A offense; and
-  >           - **(bb)** the movant was acquitted of the level A offense, the Government did not pursue or dismiss criminal charges against the movant for the level A offense, or any subsequent conviction of that level A offense was vacated.
+  >           - **(bb)** the movant was acquitted of the level A offense, the Government did not pursue or dismissed criminal charges against the movant for the level A offense, or any subsequent conviction of that level A offense was vacated.
   >   - **(5)** *Other evidence*
-  >     - **(A)** *In general* For purposes of this section, in determining whether the movant is a victim of trafficking, the court may consider any other evidence the court determines is of sufficient credibility and probative value, including an affidavit or sworn testimony of the movant.
-  >     - **(B)** *Affidavit or sworn testimony of movant sufficient evidence* The affidavit or sworn testimony of the movant described in subparagraph (A) shall be sufficient evidence to vacate a conviction or expunge an arrest under this section if the court determines that—
+  >     - **(A)** *In general* For purposes of this section, in determining whether the movant is a victim of trafficking, the court shall consider an affidavit or sworn testimony of a licensed anti-human trafficking service provider or clinician. The court may consider any other evidence the court determines is of sufficient credibility and probative value, including sworn testimony from a law enforcement officer detailing the role of the movant in coercing other victims into committing Federal offenses.
+  >     - **(B)** *Affidavit or sworn testimony sufficient evidence* The affidavit or sworn testimony described in subparagraph (A) shall be sufficient evidence to vacate a conviction or expunge an arrest under this section if the court determines that—
   >       - **(i)** the affidavit or sworn testimony is credible; and
   >       - **(ii)** no other evidence is readily available.
   >   - **(6)** *Conviction or arrest of other persons not required* It shall not be necessary that any person other than the movant be convicted of or arrested for an offense before the movant may file a motion under paragraph (1).
@@ -122,16 +122,16 @@ This Act may be cited as the “Trafficking Survivors Relief Act of 2024”.
 ## § 3. Reports
 
 - **(a)** *United States Attorney motions for vacatur or expungement* Not later than 1 year after the date of enactment of this Act, each United States attorney shall submit to the Attorney General a report that details—
-  - **(1)** the number of motions for vacatur or expungement filed under section 3772 of title 18, United States Code, as added by section 2, in the district of the United States attorney; and
+  - **(1)** the number of motions for vacatur or expungement filed under section 3771A of title 18, United States Code, as added by section 2, in the district of the United States attorney; and
   - **(2)** for each motion described in paragraph (1)—
     - **(A)** the underlying offense;
     - **(B)** the response of the United States attorney to the motion; and
     - **(C)** the final determination of the court with respect to the motion.
 - **(b)** *United States attorney training on human trafficking indicators* Not later than 1 year after the date of enactment of this Act, the Attorney General shall submit to Congress a report that details all professional training received by United States attorneys on indicators of human trafficking during the preceding 12-month period.
 - **(c)** *Government Accountability Office* Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
-  - **(1)** assesses the impact of the enactment of section 3772 of title 18, United States Code, as added by section 2; and
+  - **(1)** assesses the impact of the enactment of section 3771A of title 18, United States Code, as added by section 2; and
   - **(2)** includes—
-    - **(A)** the number of human trafficking survivors who have filed motions for vacatur or expungement under such section 3772;
+    - **(A)** the number of human trafficking survivors who have filed motions for vacatur or expungement under such section 3771A;
     - **(B)** the final determination of each court that adjudicated a motion described in subparagraph (A);
     - **(C)** recommendations to increase access to post-conviction relief for human trafficking survivors with Federal criminal records; and
     - **(D)** recommendations for improving the implementation and tracking of professional training of United States attorneys on indicators of human trafficking.
@@ -152,7 +152,7 @@ It is the sense of Congress that—
 - **(a)** *In general* Chapter 1 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 28. Human trafficking defense
   >
-  > - **(a)** *Definition* In this section, the term covered Federal offense means a level A offense or level B offense, as those terms are defined in section 3772.
+  > - **(a)** *Definition* In this section, the term covered Federal offense means a level A offense or level B offense, as those terms are defined in section 3771A.
   > - **(b)** *Presumption of duress* In a prosecution for a covered Federal offense, a defendant who establishes by clear and convincing evidence that the defendant was a victim of trafficking at the time at which the defendant committed the offense shall create a rebuttable presumption that the offense was induced by duress.
   > - **(c)** *Record or proceeding under seal* In any proceeding in which a defense under subsection (b) is raised, any record or part of the proceeding related to the defense shall, on motion, be placed under seal until such time as a conviction is entered for the offense.
   > - **(d)** *Post-Conviction relief* A failure to assert, or failed assertion of, a defense under subsection (b) by an individual who is convicted of a covered Federal offense may not preclude the individual from asserting as a mitigating factor, at sentencing or in a proceeding for any post-conviction relief, that at the time of the commission of the offense, the defendant was a victim of trafficking and committed the offense under duress.
