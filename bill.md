@@ -11,36 +11,56 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Single, unique ZIP Codes for certain communities
 
-Not later than 270 days after the date of enactment of this Act, the United States Postal Service shall designate a single, unique ZIP Code for each of the following communities:
+Not later than 270 days after the date of the enactment of this Act, the United States Postal Service shall designate a single, unique ZIP Code for each of the following communities:
 
 - **(1)** Eastvale, California.
-- **(2)** Castle Pines, Colorado.
-- **(3)** Centennial, Colorado.
-- **(4)** Lone Tree, Colorado.
-- **(5)** Silver Cliff, Colorado.
-- **(6)** Superior, Colorado.
-- **(7)** Goose Creek, Connecticut.
-- **(8)** Scotland, Connecticut.
-- **(9)** Estero, Florida.
-- **(10)** Ft. Myers, Florida.
-- **(11)** Hollywood, Florida.
-- **(12)** Miami Lakes, Florida.
-- **(13)** Ocoee, Florida.
-- **(14)** Oakland Park, Florida.
-- **(15)** The Villages, Florida.
-- **(16)** Burr Ridge, Illinois.
-- **(17)** Urbandale, Iowa.
-- **(18)** Carmel, Indiana.
-- **(19)** Swanzey, New Hampshire.
-- **(20)** Kinnelon, New Jersey.
-- **(21)** Flanders, New York.
-- **(22)** Glendale, New York.
-- **(23)** Riverside, New York.
-- **(24)** Northampton, New York.
-- **(25)** Sargent, Texas.
-- **(26)** Fairlawn, Virginia.
-- **(27)** Caledonia, Wisconsin.
-- **(28)** Franklin, Wisconsin.
-- **(29)** Mount Pleasant, Wisconsin.
-- **(30)** Somers, Wisconsin.
-- **(31)** Mills, Wyoming.
+- **(2)** North Tustin, California.
+- **(3)** Castle Pines, Colorado.
+- **(4)** Centennial, Colorado.
+- **(5)** Cherry Hills, Colorado.
+- **(6)** Greenwood Village, Colorado.
+- **(7)** Highlands Ranch, Colorado.
+- **(8)** Lone Tree, Colorado.
+- **(9)** Severance, Colorado
+- **(10)** Silver Cliff, Colorado.
+- **(11)** Sterling Ranch, Colorado.
+- **(12)** Superior, Colorado.
+- **(13)** Scotland, Connecticut.
+- **(14)** Estero, Florida.
+- **(15)** Ft. Myers, Florida.
+- **(16)** Hollywood, Florida.
+- **(17)** Miami Lakes, Florida.
+- **(18)** Ocoee, Florida.
+- **(19)** Oakland Park, Florida.
+- **(20)** Lighthouse Point, Florida.
+- **(21)** Coconut Creek, Florida.
+- **(22)** Parkland, Florida.
+- **(23)** Deerfield Beach, Florida.
+- **(24)** Wilton Manors, Florida.
+- **(25)** Burr Ridge, Illinois.
+- **(26)** Urbandale, Iowa.
+- **(27)** Carmel, Indiana.
+- **(28)** Noblesville, Indiana.
+- **(29)** Westfield, Indiana.
+- **(30)** Zionsville, Indiana.
+- **(31)** Louisiana State University, Baton Rouge, Louisiana.
+- **(32)** Montz, Louisiana.
+- **(33)** Grass Valley, Nevada.
+- **(34)** Swanzey, New Hampshire.
+- **(35)** Kinnelon, New Jersey.
+- **(36)** Flanders, New York.
+- **(37)** Glendale, New York.
+- **(38)** Riverside, New York.
+- **(39)** Pendelton, New York
+- **(40)** Northampton, New York.
+- **(41)** Goose Creek, South Carolina.
+- **(42)** Fairview, Texas.
+- **(43)** Murphy, Texas.
+- **(44)** Sargent, Texas.
+- **(45)** Fairlawn, Virginia.
+- **(46)** Caledonia, Wisconsin.
+- **(47)** Franklin, Wisconsin.
+- **(48)** Greenfield, Wisconsin
+- **(49)** Mount Pleasant, Wisconsin.
+- **(50)** Somers, Wisconsin.
+- **(51)** Mills, Wyoming.
