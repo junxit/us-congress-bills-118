@@ -1,7 +1,7 @@
 ---
 measure: S. 1351
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1351
@@ -47,6 +47,10 @@ Stop Institutional Child Abuse Act
 
 - Senate — Health, Education, Labor, and Pensions Committee
 
+## Recorded votes (1)
+
+- 2024-12-18 — [House 118-2-512](votes/house-118-2-0512.md) — On Motion to Suspend the Rules and Pass — **Passed** (373–33)
+
 ## Actions
 
 - 2023-04-27 — Introduced in Senate
@@ -62,3 +66,20 @@ Stop Institutional Child Abuse Act
 - 2024-12-11 — Senate amendment agreed to: Amendment SA 3316 agreed to in Senate by Unanimous Consent.
 - 2024-12-11 — Senate amendment proposed (on the floor): Amendment SA 3316 proposed by Senator Merkley.
 - 2024-12-11 — Senate amendment submitted
+- 2024-12-12 — Held at the desk.
+- 2024-12-12 — Message on Senate action sent to the House.
+- 2024-12-12 — Received in the House.
+- 2024-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-17 — Considered under suspension of the rules. (consideration: CR H7278-7281)
+- 2024-12-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1351.
+- 2024-12-17 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2024-12-18 — Considered as unfinished business. (consideration: CR H7339-7340)
+- 2024-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 33 (Roll no. 512). (text: 12/17/2024 CR H7278-7279)
+- 2024-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 33 (Roll no. 512). (text: 12/17/2024 CR H7278-7279)
+- 2024-12-23 — Became Public Law No: 118-194.
+- 2024-12-23 — Became Public Law No: 118-194.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
