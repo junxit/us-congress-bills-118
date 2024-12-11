@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8692
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8692
@@ -20,9 +20,10 @@ Amtrak Transparency and Accountability for Passengers and Taxpayers Act
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Amtrak Transparency and Accountability for Passengers and Taxpayers Act
 - 2024-12-10 — Ms. Maloy moved to suspend the rules and pass the bill, as amended.
 - 2024-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6579)
 - 2024-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6579)
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
