@@ -1,7 +1,7 @@
 ---
 measure: H.R. 82
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 82
@@ -372,3 +372,6 @@ Social Security Fairness Act of 2023
 - 2024-11-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 327 - 75, 1 Present (Roll no. 456). (text: CR H5925)
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 327 - 75, 1 Present (Roll no. 456). (text: CR H5925)
 - 2024-11-12 — UNANIMOUS CONSENT REQUEST - Mr. Harris asked unanimous consent that the order of the House on November 5, 2024, with respect to H.R. 82 be vacated. Agreed to without objection.
+- 2024-11-19 — Received in the Senate.
+- 2024-12-10 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2024-12-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.
