@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9689
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9689
@@ -20,9 +20,10 @@ DHS Cybersecurity Internship Program Act
 
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ DHS Cybersecurity Internship Program Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 697.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-858.
 - 2024-12-10 — Reported by the Committee on Homeland Security. H. Rept. 118-858.
+- 2024-12-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
