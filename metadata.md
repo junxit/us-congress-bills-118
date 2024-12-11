@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1377
@@ -34,3 +34,13 @@ Promoting United States Wireless Leadership Act of 2023
 - 2023-03-03 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-03 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-03-03 — Referred to the Subcommittee on Communications and Technology.
+- 2023-03-08 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 28 - 0 .
+- 2023-03-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-03-23 — Committee Consideration and Mark-up Session Held.
+- 2023-03-24 — Committee Consideration and Mark-up Session Held.
+- 2023-03-24 — Ordered to be Reported by the Yeas and Nays: 50 - 0.
+- 2024-12-11 — Committee on Foreign Affairs discharged.
+- 2024-12-11 — Committee on Foreign Affairs discharged.
+- 2024-12-11 — Placed on the Union Calendar, Calendar No. 699.
+- 2024-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-860, Part I.
+- 2024-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-860, Part I.
