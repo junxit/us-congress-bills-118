@@ -1,7 +1,7 @@
 ---
 measure: H.R. 82
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 82
@@ -16,7 +16,7 @@ Social Security Fairness Act of 2023
 
 - Rep. Graves, Garret [R-LA-6] (G000577)
 
-## Cosponsors (330)
+## Cosponsors (331)
 
 - Rep. Spanberger, Abigail Davis [D-VA-7] (S001209)
 - Rep. Comer, James [R-KY-1] (C001108)
@@ -348,14 +348,23 @@ Social Security Fairness Act of 2023
 - Rep. Pence, Greg [R-IN-6] (P000615)
 - Rep. Fong, Vince [R-CA-20] (F000480)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Sen. Manchin, Joe, III [I-WV] (M001183)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (9)
 
 - 2024-11-12 — [House 118-2-456](votes/house-118-2-0456.md) — On Motion to Suspend the Rules and Pass — **Passed** (327–75)
+- 2024-12-18 — [Senate 118-2-326](votes/senate-118-2-0326.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (73–27)
+- 2024-12-19 — [Senate 118-2-328](votes/senate-118-2-0328.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (73–23)
+- 2024-12-20 — [Senate 118-2-333](votes/senate-118-2-0333.md) — On the Amendment — **Amendment Rejected** (3–93)
+- 2024-12-20 — [Senate 118-2-334](votes/senate-118-2-0334.md) — On the Amendment — **Amendment Rejected** (28–67)
+- 2024-12-20 — [Senate 118-2-335](votes/senate-118-2-0335.md) — On the Amendment — **Amendment Rejected** (32–64)
+- 2024-12-20 — [Senate 118-2-336](votes/senate-118-2-0336.md) — On the Amendment — **Amendment Rejected** (34–62)
+- 2024-12-20 — [Senate 118-2-337](votes/senate-118-2-0337.md) — On the Motion — **Motion Agreed to** (66–30)
+- 2024-12-21 — [Senate 118-2-338](votes/senate-118-2-0338.md) — On Passage of the Bill — **Bill Passed** (76–20)
 
 ## Actions
 
@@ -375,3 +384,90 @@ Social Security Fairness Act of 2023
 - 2024-11-19 — Received in the Senate.
 - 2024-12-10 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2024-12-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.
+- 2024-12-12 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S6980)
+- 2024-12-12 — Motion to proceed to consideration of measure made in Senate. (CR S6980)
+- 2024-12-16 — 
+- 2024-12-16 — Senate amendment submitted
+- 2024-12-17 — 
+- 2024-12-17 — 
+- 2024-12-17 — Referred to the Subcommittee on Social Security.
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-18 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 27. Record Vote Number: 326.
+- 2024-12-18 — Motion to proceed to measure considered in Senate. (CR S7131)
+- 2024-12-19 — 
+- 2024-12-19 — 
+- 2024-12-19 — 
+- 2024-12-19 — Measure laid before Senate by motion.
+- 2024-12-19 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 328.
+- 2024-12-19 — Motion to proceed to measure considered in Senate. (CR S7217)
+- 2024-12-19 — Senate amendment submitted
+- 2024-12-19 — Senate amendment submitted
+- 2024-12-19 — Senate amendment submitted
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — 
+- 2024-12-20 — Amendment SA 3331 proposed by Senator Crapo. (consideration: CR S7304)
+- 2024-12-20 — Amendment SA 3331, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 336.
+- 2024-12-20 — Amendment SA 3346 proposed by Senator Paul. (consideration: CR S7302-7303)
+- 2024-12-20 — Amendment SA 3346, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 3 - 93. Record Vote Number: 333.
+- 2024-12-20 — Amendment SA 3352 proposed by Senator Paul. (consideration: CR S7303)
+- 2024-12-20 — Amendment SA 3352, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 334.
+- 2024-12-20 — Amendment SA 3355 proposed by Senator Schumer. (consideration: CR S7286)
+- 2024-12-20 — Amendment SA 3356 proposed by Senator Schumer to Amendment SA 3355. (consideration: CR S7286)
+- 2024-12-20 — Amendment SA 3357 proposed by Senator Schumer. (consideration: CR S7286)
+- 2024-12-20 — Amendment SA 3358 proposed by Senator Schumer to Amendment SA 3357 (the instructions of the motion to commit). (consideration: CR S7286)
+- 2024-12-20 — Amendment SA 3359 proposed by Senator Schumer to Amendment SA 3358. (consideration: CR S7286)
+- 2024-12-20 — Amendment SA 3360 proposed by Senator Cruz. (consideration: CR S7303-7304)
+- 2024-12-20 — Amendment SA 3360, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 335.
+- 2024-12-20 — Cloture motion on the measure presented in Senate. (CR S7286)
+- 2024-12-20 — Considered by Senate. (consideration: CR S7285-7287, S7303-7304)
+- 2024-12-20 — Motion by Senator Schumer to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 3357) made in Senate.
+- 2024-12-20 — Roll call votes on amendments in Senate: Amendment SA 3331, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 336.
+- 2024-12-20 — Roll call votes on amendments in Senate: Amendment SA 3346, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 3 - 93. Record Vote Number: 333.
+- 2024-12-20 — Roll call votes on amendments in Senate: Amendment SA 3352, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 334.
+- 2024-12-20 — Roll call votes on amendments in Senate: Amendment SA 3360, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 335.
+- 2024-12-20 — Senate amendment not agreed to: Amendment SA 3331, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 34 - 62. Record Vote Number: 336.
+- 2024-12-20 — Senate amendment not agreed to: Amendment SA 3346, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 3 - 93. Record Vote Number: 333.
+- 2024-12-20 — Senate amendment not agreed to: Amendment SA 3352, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 334.
+- 2024-12-20 — Senate amendment not agreed to: Amendment SA 3360, under the order of 12/20/2024, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 335.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3331 proposed by Senator Crapo.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3346 proposed by Senator Paul.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3352 proposed by Senator Paul.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3355 proposed by Senator Schumer.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3356 proposed by Senator Schumer to Amendment SA 3355.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3357 proposed by Senator Schumer.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3358 proposed by Senator Schumer to Amendment SA 3357 (the instructions of the motion to commit).
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3359 proposed by Senator Schumer to Amendment SA 3358.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3360 proposed by Senator Cruz.
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-21 — Cloture motion on the measure rendered moot in Senate.
+- 2024-12-21 — Message on Senate action sent to the House.
+- 2024-12-21 — Motion by Senator Schumer to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 3357) withdrawn in Senate.
+- 2024-12-21 — Motion to waive all applicable budgetary discipline with respect to the measure agreed to in Senate by Yea-Nay Vote. 66 - 30. Record Vote Number: 337.
+- 2024-12-21 — Passed Senate, under the order of 12/20/2024, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 76 - 20. Record Vote Number: 338.
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate, under the order of 12/20/2024, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 76 - 20. Record Vote Number: 338.
+- 2024-12-21 — Point of order that the measure violates section 311(a)(3) of the Congressional Budget Act raised in Senate.
+- 2024-12-21 — Proposed amendment SA 3355 withdrawn in Senate.
+- 2024-12-21 — Proposed amendment SA 3357 withdrawn in Senate.
+- 2024-12-21 — SA 3356 fell when SA SA 3355 withdrawn.
+- 2024-12-21 — SA 3358 fell when SA SA 3357 withdrawn.
+- 2024-12-21 — SA 3359 fell when SA SA 3358 fell.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-05 — Became Public Law No: 118-273.
+- 2025-01-05 — Became Public Law No: 118-273.
+- 2025-01-05 — Signed by President.
+- 2025-01-05 — Signed by President.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 82
 congress: 118
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
