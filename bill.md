@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5009
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5009
 
-That the House agree to the amendment of the Senate to the bill (H.R. 5009) entitled “An Act to reauthorize wildlife habitat and conservation programs, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 

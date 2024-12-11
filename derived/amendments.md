@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,572 amendatory instructions. 293 executed, 1,279 stated and not applied.
+1,573 amendatory instructions. 293 executed, 1,280 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -3794,6 +3794,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a)(3)(B), by striking “September 30, 2025” and inserting “September 30, 2028”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), in the first sentence, by striking “September 30, 2025” and inserting “September 30, 2028”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 419(d)(5) of title 5, United States Code, is amended by striking “5 years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1091c` | amend | Subsection (a) of section 484C of the Higher Education Act of 1965 (20 U.S.C. 1091c(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in subparagraph (A), by inserting “active and” before “potential”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “the Inspector General of the Intelligence Community” and inserting “the designated agency ethics official”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |

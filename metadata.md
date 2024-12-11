@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5009
 congress: 118
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 5009
@@ -16,7 +16,7 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Cosponsors (13)
+## Cosponsors (37)
 
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 - Rescom. González-Colón, Jenniffer [R-PR-At Large] (G000582)
@@ -30,15 +30,41 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 - Rep. Wild, Susan [D-PA-7] (W000826)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
 - House — Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2024-12-11 — [House 118-2-500](votes/house-118-2-0500.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (281–140)
+- 2024-12-16 — [Senate 118-2-324](votes/senate-118-2-0324.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–12)
+- 2024-12-18 — [Senate 118-2-325](votes/senate-118-2-0325.md) — On the Motion — **Motion Agreed to** (85–14)
 
 ## Actions
 
@@ -81,3 +107,67 @@ Servicemember Quality of Life Improvement and National Defense Authorization Act
 - 2024-12-11 — Pursuant to the provisions of H. Res. 1612, Mr. Rogers (AL) called up the Senate amendment to H.R. 5009. (consideration: CR H6827-7098)
 - 2024-12-11 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 281 - 140 (Roll no. 500). (consideration: CR H7099-7100; text: CR H6827-7091)
 - 2024-12-11 — The previous question was ordered pursuant to the rule.
+- 2024-12-12 — 
+- 2024-12-12 — 
+- 2024-12-12 — 
+- 2024-12-12 — 
+- 2024-12-12 — 
+- 2024-12-12 — Amendment SA 3317 proposed by Senator Schumer. (consideration: CR S6980)
+- 2024-12-12 — Amendment SA 3318 proposed by Senator Schumer to Amendment SA 3317. (consideration: CR S6980)
+- 2024-12-12 — Amendment SA 3319 proposed by Senator Schumer. (consideration: CR S6980)
+- 2024-12-12 — Amendment SA 3320 proposed by Senator Schumer to Amendment SA 3319 (the instructions of the motion to refer). (consideration: CR S6980)
+- 2024-12-12 — Amendment SA 3321 proposed by Senator Schumer to Amendment SA 3320. (consideration: CR S6980)
+- 2024-12-12 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 5009 presented in Senate. (CR S6980)
+- 2024-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S6979-6980)
+- 2024-12-12 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 5009 made in Senate. (CR S6979)
+- 2024-12-12 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 5009 with an amendment (SA 3317) made in Senate. (CR S6980)
+- 2024-12-12 — Motion by Senator Schumer to refer to Senate Committee on Armed Services the House message to accompany H.R. 5009 with instructions to report back forthwith with the following amendment (SA 3319) made in Senate. (CR S6980)
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3317 proposed by Senator Schumer.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3318 proposed by Senator Schumer to Amendment SA 3317.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3319 proposed by Senator Schumer.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3320 proposed by Senator Schumer to Amendment SA 3319 (the instructions of the motion to refer).
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3321 proposed by Senator Schumer to Amendment SA 3320.
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-16 — 
+- 2024-12-16 — Cloture on the motion to concur in the House Amendment to the Senate Amendment to H.R. 5009 invoked in Senate by Yea-Nay Vote. 83 - 12. Record Vote Number: 324. (CR S7045)
+- 2024-12-16 — Considered by Senate (Message from the House considered).
+- 2024-12-16 — Considered by Senate (Message from the House considered). (consideration: CR S7045)
+- 2024-12-16 — Considered by Senate (Message from the House considered). (consideration: CR S7045)
+- 2024-12-16 — Considered by Senate (Message from the House considered). (consideration: CR S7045)
+- 2024-12-16 — Considered by Senate (Message from the House considered). (consideration: CR S7045)
+- 2024-12-16 — Considered by Senate (Message from the House considered). (consideration: CR S7045-7048)
+- 2024-12-16 — Motion by Senator Schumer to refer to Senate Committee on Armed Services with instructions to report back forthwith with the following amendment (SA 3319) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 5009 in Senate.
+- 2024-12-16 — SA 3319 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 5009. (consideration: CR S7045)
+- 2024-12-16 — SA 3320 fell when SA 3319 (the instructions of the motion to refer) fell.
+- 2024-12-16 — SA 3321 fell when SA 3320 fell.
+- 2024-12-16 — Senate amendment submitted
+- 2024-12-17 — 
+- 2024-12-17 — 
+- 2024-12-17 — 
+- 2024-12-17 — 
+- 2024-12-17 — Considered by Senate (Message from the House Considered).
+- 2024-12-17 — Considered by Senate (Message from the House Considered).
+- 2024-12-17 — Considered by Senate (Message from the House considered).
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-17 — Senate amendment submitted
+- 2024-12-18 — Considered by Senate (Message from the House considered).
+- 2024-12-18 — Considered by Senate (Message from the House considered).
+- 2024-12-18 — Considered by Senate (Message from the House considered).
+- 2024-12-18 — Message on Senate action sent to the House.
+- 2024-12-18 — Motion by Senator Schumer to concur in the House amendment to the Senate amendment to H.R. 5009 with an amendment (SA 3317) withdrawn by unanimous consent in Senate.
+- 2024-12-18 — Proposed amendment SA 3317 withdrawn in Senate.
+- 2024-12-18 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the Senate amendment to H.R. 5009 by Yea-Nay Vote. 85 - 14. Record Vote Number: 325.
+- 2024-12-18 — SA 3318 fell when SA SA 3317 withdrawn.
+- 2024-12-18 — Senate agreed to the House amendment to the Senate amendment to H.R. 5009 by Yea-Nay Vote. 85 - 14. Record Vote Number: 325.
+- 2024-12-20 — Presented to President.
+- 2024-12-20 — Presented to President.
+- 2024-12-23 — Became Public Law No: 118-159.
+- 2024-12-23 — Became Public Law No: 118-159.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
