@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 115
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Midnight Rules Relief Act of 2023”.
+This Act may be cited as the “Midnight Rules Relief Act”.
 
 ## § 2. En bloc consideration of resolutions of disapproval pertaining to “midnight rules”
 
@@ -20,4 +20,4 @@ This Act may be cited as the “Midnight Rules Relief Act of 2023”.
 
 - **(b)** *Text of resolving clause* Section 802(a) of title 5, United States Code, is amended—
   - **(1)** by inserting after “resolving clause of which is” the following: “(except as otherwise provided in this subsection)”; and
-  - **(2)** by adding at the end the following: “In the case of a joint resolution under section 801(d)(4), the matter after the resolving clause of such resolution shall be as follows: “That Congress disapproves the following rules: the rule submitted by the __ relating to __; and the rule submitted by the __ relating to __. Such rules shall have no force or effect.” (The blank spaces being appropriately filled in and additional clauses describing additional rules to be included as necessary)”.
+  - **(2)** by adding at the end the following: “In the case of a joint resolution under section 801(d)(4), the matter after the resolving clause of such resolution shall be as follows: “That Congress disapproves the following rules: the rule submitted by the __ relating to __; and the rule submitted by the __ relating to __. Such rules shall have no force or effect.” (The blank spaces being appropriately filled in and additional clauses describing additional rules to be included as necessary).”.
