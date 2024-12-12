@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1584
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,20 +9,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To establish Plum Island, New York, as a national monument.
 
-## § 1. Short title
+## § 1. Plum Island special resource study
 
-This Act may be cited as the “Plum Island National Monument Act”.
-
-## § 2. Plum Island National Monument
-
-- **(a)** *Establishment* Plum Island, New York, is hereby established as a national monument for the purpose of ecological conservation, historical preservation, and the discovery and celebration of our shared cultural heritage.
-- **(b)** *Area included* The National Monument shall consist of Plum Island, New York, including its lands and interests therein.
-- **(c)** *Administration*
-  - **(1)** *In general* The Secretary shall administer the National Monument.
-  - **(2)** *Administrative jurisdiction* The Secretary shall establish administrative jurisdiction over portions of the area described in subsection (b) as necessary to carry out this Act by entering into memoranda of understanding with the head of each Federal department or agency with administrative jurisdiction over lands or interests in lands within such area.
-- **(d)** *Management plan*
-  - **(1)** *Deadline for completion* Not later than 3 years after the date on which funds are first made available to the Secretary for the preparation of a general management plan for the National Monument, the Secretary shall prepare a general management plan for the National Monument.
-  - **(2)** *Submission to Congress* On completion of the general management plan under paragraph (1), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate the general management plan under such paragraph.
+- **(a)** *In general* The Secretary shall conduct a special resource study of the study area.
+- **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall—
+  - **(1)** evaluate the national significance of the study area;
+  - **(2)** determine the suitability and feasibility of designating the study area as a unit administered by the Department of the Interior;
+  - **(3)** consider other alternatives for preservation, protection, and interpretation of the study area by the Federal Government, State or local governmental entities, or private and nonprofit organizations;
+  - **(4)** consult with interested Federal agencies, State or local governmental entities, private and nonprofit organizations, or any other interested individuals; and
+  - **(5)** identify cost estimates for any Federal acquisition, development, interpretation, operation, and maintenance associated with the alternatives considered.
+- **(c)** *Applicable law* The study required under subsection (a) shall be conducted in accordance with section 100507 of title 54, United States Code.
+- **(d)** *Report* Not later than 3 years after the date on which funds are first made available to carry out the study under subsection (a), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
+  - **(1)** the findings and conclusions of the study; and
+  - **(2)** any recommendations of the Secretary.
 - **(e)** *Definitions* In this section:
-  - **(1)** *National Monument* The term National Monument means the national monument established by subsection (a).
-  - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(1)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(2)** *Study area* The term study area means the Federal property commonly known as “Plum Island” in the State of New York, including—
+    - **(A)** the Orient Point facility; and
+    - **(B)** all real and personal property and transportation assets that support—
+      - **(i)** Plum Island operations; and
+      - **(ii)** access to Plum Island.
