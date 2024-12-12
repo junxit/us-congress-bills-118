@@ -1,7 +1,7 @@
 ---
 measure: S. 141
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 141
@@ -57,6 +57,10 @@ Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement
 
 - Senate — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2024-12-16 — [House 118-2-504](votes/house-118-2-0504.md) — On Motion to Suspend the Rules and Pass — **Passed** (382–12)
+
 ## Actions
 
 - 2023-01-30 — Introduced in Senate
@@ -73,3 +77,20 @@ Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement
 - 2024-12-12 — Senate amendment agreed to: Amendment SA 3327 agreed to in Senate by Unanimous Consent.
 - 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3327 proposed by Senator Schumer for Senator Moran.
 - 2024-12-12 — Senate amendment submitted
+- 2024-12-13 — Message on Senate action sent to the House.
+- 2024-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-16 — Considered as unfinished business. (consideration: CR H7220-7221)
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7180-7207)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 141.
+- 2024-12-16 — Held at the desk.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 504). (text: CR H7180-7206)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 12 (Roll no. 504). (text: CR H7180-7206)
+- 2024-12-16 — Received in the House.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2025-01-02 — Became Public Law No: 118-210.
+- 2025-01-02 — Became Public Law No: 118-210.
+- 2025-01-02 — Signed by President.
+- 2025-01-02 — Signed by President.
