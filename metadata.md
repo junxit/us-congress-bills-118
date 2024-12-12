@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 733
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 733
@@ -32,3 +32,7 @@ A resolution honoring the life and legacy of Patrick Gottsch.
 
 - 2024-06-13 — Introduced in Senate
 - 2024-06-13 — Referred to the Committee on the Judiciary.
+- 2024-12-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2024-12-12 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S6989; text: 6/13/2024 CR S4088)
+- 2024-12-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
