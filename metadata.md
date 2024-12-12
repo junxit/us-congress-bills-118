@@ -1,7 +1,7 @@
 ---
 measure: S. 2513
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2513
@@ -40,3 +40,18 @@ Veterans Benefits Improvement Act of 2024
 - 2024-12-12 — Senate amendment agreed to: Amendment SA 3326 agreed to in Senate by Unanimous Consent.
 - 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3326 proposed by Senator Schumer for Senator Moran.
 - 2024-12-12 — Senate amendment submitted
+- 2024-12-13 — Message on Senate action sent to the House.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7207-7209)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on S. 2513.
+- 2024-12-16 — Held at the desk.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7207-7208)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7207-7208)
+- 2024-12-16 — Received in the House.
+- 2024-12-23 — Became Public Law No: 118-196.
+- 2024-12-23 — Became Public Law No: 118-196.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
