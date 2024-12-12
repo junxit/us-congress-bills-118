@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8663
 congress: 118
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8663
@@ -27,6 +27,10 @@ DETECT Fentanyl and Xylazine Act of 2024
 
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2024-12-18 — [House 118-2-514](votes/house-118-2-0514.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (404–1)
 
 ## Actions
 
@@ -64,3 +68,16 @@ DETECT Fentanyl and Xylazine Act of 2024
 - 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3330 proposed by Senator Schumer for Senator Cornyn.
 - 2024-12-12 — Senate amendment submitted
 - 2024-12-12 — Senate amendment submitted
+- 2024-12-13 — Message on Senate action sent to the House.
+- 2024-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2024-12-18 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 8663.
+- 2024-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-18 — Mr. Green (TN) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H7335-7337, H7340-7341)
+- 2024-12-18 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 514). (text: CR H7335-7336)
+- 2024-12-18 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 514). (text: CR H7335-7336)
+- 2024-12-23 — Became Public Law No: 118-186.
+- 2024-12-23 — Became Public Law No: 118-186.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.

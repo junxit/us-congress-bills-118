@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 8663
-congress: 118th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 8663
 
-That the bill from the House of Representatives (H.R. 8663) entitled “An Act to require the Science and Technology Directorate in the Department of Homeland Security to develop greater capacity to detect, identify, and disrupt illicit substances in very low concentrations.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Science and Technology Directorate in the Department of Homeland Security to develop greater capacity to detect and identify illicit substances in very low concentrations.
 
 ## § 1. Short titles
 
