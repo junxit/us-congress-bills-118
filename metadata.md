@@ -1,7 +1,7 @@
 ---
 measure: S. 2908
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2908
@@ -35,3 +35,13 @@ Indian Buffalo Management Act
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with amendments. With written report No. 118-246.
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with amendments. With written report No. 118-246.
 - 2024-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 561.
+- 2024-12-12 — 
+- 2024-12-12 — Amendment SA 3324 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Amendment SA 3324 proposed by Senator Schatz for Senator Heinrich. (consideration: CR S6993-6994)
+- 2024-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S6992-6993)
+- 2024-12-12 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S6993-6994)
+- 2024-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2024-12-12 — Senate amendment agreed to: Amendment SA 3324 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3324 proposed by Senator Schatz for Senator Heinrich.
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — The committee amendments withdrawn by Unanimous Consent.

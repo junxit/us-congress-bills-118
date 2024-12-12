@@ -43,7 +43,6 @@ In this Act:
 - **(4)** *Indian land* The term Indian land has the meaning given the term in paragraph (2) of section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501), except that, in that paragraph, the term Indian reservation shall be considered to have the meaning given the term Indian reservation in paragraph (3) of that section, without regard to the date specified in paragraph (3) of that section.
 - **(5)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 - **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(7)** *Tribal organization* The term Tribal organization means a legally established organization of Indians that is chartered under section 17 of the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”) (25 U.S.C. 5124) with demonstrable experience in the restoration of buffalo and buffalo habitat on Indian land.
 - **(7)** *Tribal organization* The term Tribal organization means any legally established organization of Indians that—
   - **(A)**
     - **(i)** is chartered under section 17 of the Act of June 18, 1934, (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 5124) and recognized by the governing body of one or more Indian Tribes; or
@@ -60,13 +59,13 @@ In this Act:
 - **(b)** *Contracts and grants authorized*
   - **(1)** *In general* The Secretary shall enter into contracts and cooperative agreements with, and award grants to, Indian Tribes and Tribal organizations to enable the Indian Tribes and Tribal organizations—
     - **(A)** to plan, conduct, or implement a buffalo restoration or management program;
-    - **(B)** to plan and execute commercial activities related to buffalo or buffalo products; or
+    - **(B)** to plan and execute commercial activities related to buffalo or buffalo products;
     - **(C)** to support the use and deployment of mobile Tribal or Tribal organization meat processing facilities; or
-    - **(C)(D)** to carry out other activities relating to buffalo restoration and management.
+    - **(D)** to carry out other activities relating to buffalo restoration and management.
   - **(2)** *No diminishment of laws and regulations* Nothing in this subsection diminishes any Federal or State law (including regulations) regarding diseased buffalo or buffalo that escape from Indian land.
 - **(c)** *Technical assistance* The Secretary shall provide technical assistance to an Indian Tribe or Tribal organization that enters into a contract or cooperative agreement or receives a grant under this section to assist the Indian Tribe or Tribal organization in—
   - **(1)** carrying out the activities of a buffalo or buffalo habitat restoration or management program; and
-  - **(2)** implementing the activities described in subparagraphs (A) through (C)(D) of subsection (b)(1).
+  - **(2)** implementing the activities described in subparagraphs (A) through (D) of subsection (b)(1).
 
 ## § 5. Consultation; coordination
 
@@ -92,3 +91,7 @@ Nothing in this Act alters, modifies, diminishes, or extinguishes the treaty rig
 ## § 9. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary to carry out this Act $14,000,000 for fiscal year 2024 and each fiscal year thereafter.
+
+## § 10. Sunset
+
+-  The authority provided by this Act ceases to be effective on December 31, 2031.
