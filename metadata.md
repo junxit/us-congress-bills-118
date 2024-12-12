@@ -1,7 +1,7 @@
 ---
 measure: S. 2924
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2924
@@ -16,9 +16,10 @@ STEP Act
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ STEP Act
 
 - 2023-09-26 — Introduced in Senate
 - 2023-09-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-288.
+- 2024-12-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-288.
+- 2024-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.
