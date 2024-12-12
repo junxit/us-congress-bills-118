@@ -17,12 +17,6 @@ This Act may be cited as the “Tribal Forest Protection Act Amendments Act of 2
 
 Section 2 of the Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a) is amended—
 
-- **(1)** in subsection (a)(2)(A)—
-  - **(A)** by striking “and” at the end and inserting “or”;
-  - **(B)** by striking “(A) is held” and inserting “(A) (i) is held”; and
-  - **(C)** by adding at the end the following:
-    > - **(ii)** is in the State of Alaska and held by an Alaska Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and
-
 - **(1)** in subsection (a), by striking paragraph (2) and inserting the following:
   > - **(2)** *Indian forest land or rangeland* The term Indian forest land or rangeland means—
   >   - **(A)** land that is held in trust by, or with a restriction against alienation by, the United States for an Indian tribe or a member of an Indian tribe, and—

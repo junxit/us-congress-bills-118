@@ -1,7 +1,7 @@
 ---
 measure: S. 4370
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 7 executed, 9 stated and not applied.
+13 amendatory instructions. 5 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 43 U.S.C. § 1601
-
-> by striking “and” at the end and inserting “or”;
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `or` |
-
-### 43 U.S.C. § 1601
-
-> by striking “(A) is held” and inserting “(A) (i) is held”; and
-
-| | |
-|---|---|
-| Removed | `(A) is held` |
-| Inserted | `(A) (i) is held` |
 
 ### 25 U.S.C. § 3115a
 
@@ -96,7 +78,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 1601` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3103` | replace | in subsection (a), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 3115a` | insert | in the subsection heading, by inserting “or restore” after “protect”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 3115a` | insert | in the subsection heading, by inserting “for Federal land” after “criteria”; | the bill quotes the text inserted but describes where it goes |

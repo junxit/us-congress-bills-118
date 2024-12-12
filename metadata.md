@@ -1,7 +1,7 @@
 ---
 measure: S. 4370
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4370
@@ -34,3 +34,5 @@ Tribal Forest Protection Act Amendments Act of 2024
 - 2024-11-20 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 118-249.
 - 2024-11-20 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment. With written report No. 118-249.
 - 2024-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.
+- 2024-12-12 — Passed Senate with an amendment by Voice Vote. (consideration: CR S6994-6995; text: CR S6995)
+- 2024-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
