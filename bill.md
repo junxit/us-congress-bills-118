@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6322
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “End Financing for Hamas and State Sponsors of Terrorism Act”.
 
-## § 2. Report on Hamas financing
+## § 2. Report on financing for Hamas
 
 Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report (which shall be in unclassified form but may include a classified annex) that includes—
 
@@ -30,6 +30,6 @@ The Secretary of the Treasury, through participation in the G7, and other approp
 
 Section 5302 of title 31, United States Code, is amended by adding at the end the following:
 
-> - **(e)** *Prohibition on use of fund To exchange Special Drawing Rights of, or To benefit, a state sponsor of terrorism* The Secretary may not use the fund to—
+> - **(e)** *Prohibition on use of fund to exchange Special Drawing Rights of, or to benefit, a state sponsor of terrorism* The Secretary may not use the fund to—
 >   - **(1)** deal in Special Drawing Rights from any country determined by the Secretary of State to have repeatedly provided support for acts of international terrorism, as designated pursuant to section 1754(c) of the National Defense Authorization Act for Fiscal Year 2019, section 40 of the Arms Export Control Act, or section 620A of the Foreign Assistance Act of 1961; or
->   - **(2)** engage in a transaction with any other entity that will result in the provision of any asset to such a country.
+>   - **(2)** deal in Special Drawing Rights with any other country in a manner that the Secretary finds will result in the direct provision of funds to a country referred to in paragraph (1).
