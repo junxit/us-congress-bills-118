@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9716
 congress: 118
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9716
@@ -38,9 +38,10 @@ Increasing Baseline Updates Act
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ Increasing Baseline Updates Act
 - 2024-12-11 — Placed on the Union Calendar, Calendar No. 700.
 - 2024-12-11 — Reported by the Committee on Budget. H. Rept. 118-861.
 - 2024-12-11 — Reported by the Committee on Budget. H. Rept. 118-861.
+- 2024-12-12 — Received in the Senate and Read twice and referred to the Committee on the Budget.
