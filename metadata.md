@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 134
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 134
@@ -26,3 +26,4 @@ Directing the Clerk of the House of Representatives to make a correction in the 
 - 2024-12-11 — On agreeing to the resolution Agreed to without objection.
 - 2024-12-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2024-12-11 — Submitted in House
+- 2024-12-12 — Received in the Senate.
