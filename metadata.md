@@ -1,7 +1,7 @@
 ---
 measure: S. 3857
 congress: 118
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3857
@@ -24,6 +24,10 @@ Jamul Indian Village Land Transfer Act
 
 - Senate — Indian Affairs Committee
 
+## Recorded votes (1)
+
+- 2024-12-18 — [House 118-2-513](votes/house-118-2-0513.md) — On Motion to Suspend the Rules and Pass — **Passed** (369–37)
+
 ## Actions
 
 - 2024-02-29 — Introduced in Senate
@@ -44,3 +48,19 @@ Jamul Indian Village Land Transfer Act
 - 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3323 proposed by Senator Padilla.
 - 2024-12-12 — Senate amendment submitted
 - 2024-12-12 — The committee substitute withdrawn by Unanimous Consent.
+- 2024-12-16 — Held at the desk.
+- 2024-12-16 — Received in the House.
+- 2024-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2024-12-17 — Considered under suspension of the rules. (consideration: CR H7284-7285)
+- 2024-12-17 — DEBATE - The House proceeded with forty minutes of debate on S. 3857.
+- 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2024-12-18 — Considered as unfinished business. (consideration: CR S7340)
+- 2024-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 37 (Roll no. 513). (text: 12/17/2024 CR H7284)
+- 2024-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 369 - 37 (Roll no. 513). (text: 12/17/2024 CR H7284)
+- 2024-12-23 — Became Public Law No: 118-199.
+- 2024-12-23 — Became Public Law No: 118-199.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Presented to President.
+- 2024-12-23 — Signed by President.
+- 2024-12-23 — Signed by President.
