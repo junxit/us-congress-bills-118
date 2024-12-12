@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8663
 congress: 118
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 8663
@@ -16,10 +16,12 @@ DETECT Fentanyl and Xylazine Act of 2024
 
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (2)
 
@@ -45,3 +47,20 @@ DETECT Fentanyl and Xylazine Act of 2024
 - 2024-09-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5064)
 - 2024-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5064)
 - 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-12-12 — 
+- 2024-12-12 — 
+- 2024-12-12 — Amendment SA 3329 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Amendment SA 3329 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S7041)
+- 2024-12-12 — Amendment SA 3330 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Amendment SA 3330 proposed by Senator Schumer for Senator Cornyn. (consideration: CR S7041)
+- 2024-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7041)
+- 2024-12-12 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7041)
+- 2024-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2024-12-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-12 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-12 — Senate amendment agreed to: Amendment SA 3329 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Senate amendment agreed to: Amendment SA 3330 agreed to in Senate by Unanimous Consent.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3329 proposed by Senator Schumer for Senator Cornyn.
+- 2024-12-12 — Senate amendment proposed (on the floor): Amendment SA 3330 proposed by Senator Schumer for Senator Cornyn.
+- 2024-12-12 — Senate amendment submitted
+- 2024-12-12 — Senate amendment submitted
