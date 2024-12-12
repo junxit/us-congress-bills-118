@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3971
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 3(d) of Arkansas Wilderness Act of 1984 (Public Law 98–508; 98 Stat. 2349) is amended by inserting “and certain land in the Ouachita National Forest, which comprise approximately 2,215 acres, generally depicted as Land Proposed f… | the bill names no machine-readable US Code section |
+| — | insert | Section 3(d) of Arkansas Wilderness Act of 1984 (Public Law 98–508; 98 Stat. 2349) is amended by inserting “and certain land in the Ouachita National Forest, which comprise approximately 2,212 acres, generally depicted as Land Proposed f… | the bill names no machine-readable US Code section |

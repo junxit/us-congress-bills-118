@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3971
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Flatside Wilderness Additions Act”.
 
 ## § 2. Additions to flatside wilderness
 
-Section 3(d) of Arkansas Wilderness Act of 1984 (Public Law 98–508; 98 Stat. 2349) is amended by inserting “and certain land in the Ouachita National Forest, which comprise approximately 2,215 acres, generally depicted as “Land Proposed for Wilderness Designation” on the map titled “Flatside Wilderness, Proposed Addition Designation”, dated September 29, 2022” after “1984”.
+Section 3(d) of Arkansas Wilderness Act of 1984 (Public Law 98–508; 98 Stat. 2349) is amended by inserting “and certain land in the Ouachita National Forest, which comprise approximately 2,212 acres, generally depicted as “Land Proposed for Wilderness Designation” on the map titled “Flatside Wilderness, Proposed Addition Designation”, dated November 12, 2024” after “1984”.
 
 ## § 3. Fire, insects, and diseases
 
