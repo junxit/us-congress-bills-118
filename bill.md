@@ -13,21 +13,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Veterinary Services to Improve Public Health in Rural Communities Act”.
 
-## § 2. Findings; Sense of Congress
-
-- **(a)** *Findings* Congress finds that—
-  - **(1)** human, animal, and environmental health are interdependent in Native communities, Alaska Native villages, and on Indian reservations, and holistic approaches to the well-being of all individuals will lead to improved health outcomes and enhanced resilience;
-  - **(2)** uncontrolled animal populations and a lack of veterinary care in Native communities, Alaska Native villages, and on Indian reservations increase the risk of parasites and zoonotic diseases, dog bites, food insecurity, and mental health issues among Alaska Natives and American Indians;
-  - **(3)** dog bites and other injuries are common in rural areas in the State of Alaska, with the Norton Sound Health Corporation reporting an average of 87 bites per year in the Bering Strait region between 2016 and 2023, and the Yukon-Kuskokwim Health Corporation reporting an average of 98 bites per year in the Yukon-Kuskokwim Delta region between 2008 and 2017;
-  - **(4)** Alaska Native children have the highest incidence of hospitalization for dog bites in the Indian Health Service system;
-  - **(5)** in 2021, St. Lawrence Island, Alaska, experienced co-occurring outbreaks of rabies and canine distemper;
-  - **(6)** canine distemper is almost 100 percent fatal in marine mammals, which the people of the Native Villages of Savoonga and Gambell rely on heavily as a food source;
-  - **(7)** rabies is enzootic in arctic and red fox populations in the northern and western coastal regions of the State of Alaska;
-  - **(8)** wildlife outbreaks occur cyclically, and there have been increased human exposures to rabid animals between 2020 and 2023;
-  - **(9)** rabies transmission is a significant threat in Alaska Native communities and villages; and
-  - **(10)** as of 2024, the Indian Health Service does not employ or use public health veterinarians to combat zoonotic disease outbreaks or to generally advance public health preparedness for Native communities, Alaska Native villages, or Indian reservations, including by providing spay and neuter services and vaccinations for animals.
-- **(b)** *Sense of Congress* It is the sense of Congress that the Indian Health Service of the Department of Health and Human Services is uniquely suited to empower Indian Tribes and Tribal organizations to address zoonotic disease threats in the communities they serve by providing public health veterinary services through a One Health approach that recognizes the interconnection between people, animals, plants, and their shared environment.
-
 ## § 2. Sense of Congress
 
 It is the sense of Congress that the Indian Health Service of the Department of Health and Human Services is uniquely suited to empower Indian Tribes and Tribal organizations to address zoonotic disease threats in the communities they serve by providing public health veterinary services through a One Health approach that recognizes the interconnection between people, animals, plants, and their shared environment.
@@ -51,16 +36,12 @@ Title II of the Indian Health Care Improvement Act is amended by inserting after
 >     - **(I)** any other related service or activity that reduces the risk of zoonotic disease transmission or antimicrobial resistance in humans, food, or animals.
 >   - **(2)** *Zoonotic disease* The term zoonotic disease means a disease or infection that may be transmitted naturally from vertebrate animals to humans, or from humans to vertebrate animals.
 > - **(b)** *Authorization for veterinary services* The Secretary, acting through the Service, may expend funds, directly or pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), for public health veterinary services to prevent and control of zoonotic disease infection and transmission in Service areas where the risk for disease occurrence in humans and wildlife is endemic.
-> - **(c)** *Public health officers* In providing public health veterinary services under subsection (b), the Secretary shall deploy veterinary public health officers from the Commissioned Corps of the Public Health Service to Service areas.
-> - **(d)** *Coordination* The Secretary, acting through the Service, shall carry out this section in coordination with—
->   - **(1)** the Director of the Centers for Disease Control and Prevention; and
->   - **(2)** the Secretary of Agriculture.
 > - **(c)** *Public health officers; coordination* In providing public health veterinary services under subsection (b), the Secretary may—
 >   - **(1)** assign or deploy veterinary public health officers from the Commissioned Corps of the Public Health Service to Service areas; and
 >   - **(2)** coordinate and implement activities with—
 >     - **(A)** the Director of the Centers for Disease Control and Prevention; and
 >     - **(B)** the Secretary of Agriculture.
-> - **(e)(d)** *Report* The Secretary shall submit to the Committee on Indian Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a biennial report on the use of funds, the assignment and deployment of veterinary public health officers from the Commissioned Corps of the Public Health Service, data related to the monitoring and disease surveillance of zoonotic diseases, and related services provided under this section.
+> - **(d)** *Report* The Secretary shall submit to the Committee on Indian Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives a biennial report on the use of funds, the assignment and deployment of veterinary public health officers from the Commissioned Corps of the Public Health Service, data related to the monitoring and disease surveillance of zoonotic diseases, and related services provided under this section.
 
 ## § 4. APHIS wildlife services study on oral rabies vaccines in Arctic regions of the United States
 

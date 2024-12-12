@@ -1,7 +1,7 @@
 ---
 measure: S. 4365
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4365
@@ -34,3 +34,5 @@ Veterinary Services to Improve Public Health in Rural Communities Act
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with amendments. With written report No. 118-248.
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with amendments. With written report No. 118-248.
 - 2024-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.
+- 2024-12-12 — Passed Senate with amendments by Voice Vote. (consideration: CR S6994-6996; text: CR S6995-6996)
+- 2024-12-12 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.
