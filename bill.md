@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3047
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Apache County and Navajo County Conveyance Act of 2023”.
+This Act may be cited as the “Apache County and Navajo County Conveyance Act of 2024”.
 
 ## § 2. Conveyance of certain land within the Apache-Sitgreaves National Forests to Navajo County, Arizona
 
@@ -37,6 +37,8 @@ This Act may be cited as the “Apache County and Navajo County Conveyance Act o
 - **(e)** *Costs of conveyance* As a condition of the conveyance under subsection (b), the County shall pay all costs associated with the conveyance, including the cost of—
   - **(1)** a survey, if necessary, under subsection (c)(3); and
   - **(2)** any environmental analysis and resource surveys required by Federal law.
+- **(f)** *Required use as cemetery* The property conveyed to the County under subsection (b) shall be used by the County as a cemetery.
+- **(g)** *Reversion* If the property conveyed under subsection (b) is used in a manner that is inconsistent with the requirement of subsection (f), all right, title, and interest in and to the property shall revert to the United States.
 
 ## § 3. Conveyance of certain land within the Apache-Sitgreaves National Forests to Apache County, Arizona
 
@@ -44,7 +46,7 @@ This Act may be cited as the “Apache County and Navajo County Conveyance Act o
   - **(1)** *County* The term County means Apache County, Arizona.
   - **(2)** *Map* The term map means the map entitled “Exhibit, Alpine Cemetery Townsite” and dated October, 2019.
   - **(3)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
-- **(b)** *Conveyance required* Subject to this section, if the County submits to the Secretary a written request for conveyance of the property described in subsection (c)(1) not later than 180 days after the date of enactment of this Act, the Secretary shall convey to the County all right, title, and interest of the United States in and to the property described in subsection (c)(1).
+- **(b)** *Conveyance required* Subject to this section, if the County submits to the Secretary a written request for conveyance of the property described in subsection (c)(1) not later than 365 days after the date of enactment of this Act, the Secretary shall convey to the County all right, title, and interest of the United States in and to the property described in subsection (c)(1).
 - **(c)** *Property described*
   - **(1)** *In general* The property referred to in subsection (b) is—
     - **(A)** the parcel of real property, including all land and improvements, generally depicted as the “Existing Alpine Cemetery” on the map, consisting of approximately 2.56 acres of National Forest System land located in the Apache-Sitgreaves National Forests in Arizona; and
@@ -62,3 +64,5 @@ This Act may be cited as the “Apache County and Navajo County Conveyance Act o
 - **(e)** *Costs of conveyance* As a condition of the conveyance under subsection (b), the County shall pay all costs associated with the conveyance, including the cost of—
   - **(1)** a survey, if necessary, under subsection (c)(3); and
   - **(2)** any environmental analysis and resource surveys required by Federal law.
+- **(f)** *Required use as cemetery* The property conveyed to the County under subsection (b) shall be used by the County as a cemetery.
+- **(g)** *Reversion* If the property conveyed under subsection (b) is used in a manner that is inconsistent with the requirement of subsection (f), all right, title, and interest in and to the property shall revert to the United States.
