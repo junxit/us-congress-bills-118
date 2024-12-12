@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2685
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,23 +11,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Technology Grants to Strengthen Domestic Mining Education Act of 2023” or the “Mining Schools Act of 2023”.
+This Act may be cited as the “Technology Grants to Strengthen Domestic Mining Education Act of 2024” or the “Mining Schools Act of 2024”.
 
 ## § 2. Technology grants to strengthen domestic mining education
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Board* The term Board means the Mining Professional Development Advisory Board established by subsection (d)(1).
-  - **(2)** *Mining industry* The term mining industry means the mining industry of the United States, consisting of the search for, and extraction, beneficiation, refining, smelting, and processing of, naturally occurring metal and nonmetal minerals from the earth.
-  - **(3)** *Mining profession* The term mining profession means the body of jobs directly relevant to—
+  - **(2)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+  - **(3)** *Mining industry* The term mining industry means the mining industry of the United States, consisting of the search for, and extraction, beneficiation, refining, smelting, processing, reprocessing, and recycling of, naturally occurring metal and nonmetal minerals from the earth.
+  - **(4)** *Mining profession* The term mining profession means the body of jobs directly relevant to—
     - **(A)** the exploration, planning, execution, and remediation of metal and nonmetal mining sites; and
-    - **(B)** the extraction, including the separation, refining, alloying, smelting, concentration, and processing, of mineral ores.
-  - **(4)** *Mining school* The term mining school means—
-    - **(A)** a mining, metallurgical, geological, or mineral engineering program accredited by the Accreditation Board for Engineering and Technology, Inc., that is located at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)); or
-    - **(B)** a geology or engineering program or department that is located at a 4-year public institution of higher education (as so defined) located in a State the gross domestic product of which in 2021 was not less than $2,000,000,000 in the combined categories of “Mining (except oil and gas)” and “Support activities for mining”, according to the Bureau of Economic Analysis.
-  - **(5)** *Secretary* The term Secretary means the Secretary of Energy.
+    - **(B)** the extraction, including the separation, refining, alloying, smelting, concentration, processing, reprocessing, and recycling of mineral ores.
+  - **(5)** *Mining school* The term mining school means—
+    - **(A)** a mining, metallurgical, geological, or mineral engineering program accredited by the Accreditation Board for Engineering and Technology, Inc., that is located at an institution of higher education, including a Tribal College or University; or
+    - **(B)** a geology or engineering program or department that is located at a 4-year public institution of higher education located in a State the gross domestic product of which in 2021 was not less than $2,000,000,000 in the combined categories of “Mining (except oil and gas)” and “Support activities for mining”, according to the Bureau of Economic Analysis.
+  - **(6)** *Secretary* The term Secretary means the Secretary of Energy.
+  - **(7)** *Tribal College or University* The term Tribal College or University has the meaning given the term in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).
 - **(b)** *Domestic mining education strengthening program* The Secretary, in consultation with the Secretary of the Interior (acting through the Director of the United States Geological Survey), shall—
   - **(1)** establish a grant program to strengthen domestic mining education; and
-  - **(2)** under the program established in paragraph (1), award competitive grants to mining schools for the purpose of recruiting and educating the next generation of mining engineers and other qualified professionals to meet the future energy and mineral needs of the United States.
+  - **(2)** under the program established under paragraph (1), award competitive grants to mining schools for the purpose of recruiting and educating the next generation of mining engineers and other qualified professionals to meet the future energy and mineral needs of the United States.
 - **(c)** *Grants*
   - **(1)** *In general* In carrying out the grant program established under subsection (b)(1), the Secretary shall award not more than 10 grants each year to mining schools.
   - **(2)** *Selection requirements*
@@ -49,15 +51,16 @@ This Act may be cited as the “Technology Grants to Strengthen Domestic Mining 
       - **(ii)** emphasizing critical mineral and rare earth element exploration, extraction, and refining;
       - **(iii)** reclamation technology and practices for active mining operations;
       - **(iv)** the development of reprocessing systems and technologies that facilitate reclamation that fosters the recovery of resources at abandoned mine sites;
-      - **(v)** mineral extraction methods that reduce environmental and human impacts;
-      - **(vi)** technologies to extract, refine, separate, melt, or produce minerals, including rare earth elements;
-      - **(vii)** reducing dependence on foreign energy and mineral supplies through increased domestic critical mineral production;
+      - **(v)** mineral extraction, refining, processing, reprocessing, and recycling methods that reduce environmental and human impacts;
+      - **(vi)** technologies to extract, refine, separate, melt, produce, or recycle minerals, including rare earth elements;
+      - **(vii)** reducing dependence on foreign energy and mineral supplies through increased domestic critical mineral production and recycling;
       - **(viii)** enhancing the competitiveness of United States energy and mineral technology exports;
-      - **(ix)** the extraction or processing of coinciding mineralization, including rare earth elements, within coal, coal processing byproduct, overburden, or coal residue;
+      - **(ix)** the extraction or processing of coinciding mineralization, including rare earth elements, within coal or other ores, coal or mineral processing byproduct, overburden, or residue from coal, minerals, or other ores;
       - **(x)** enhancing technologies and practices relating to mitigation of acid mine drainage, reforestation, and revegetation in the reclamation of land and water resources adversely affected by mining;
       - **(xi)** enhancing exploration and characterization of new or novel deposits, including rare earth elements and critical minerals within phosphate rocks, uranium-bearing deposits, and other nontraditional sources;
-      - **(xii)** meeting challenges of extreme mining conditions, such as deeper deposits or offshore or cold region mining; and
-      - **(xiii)** mineral economics, including analysis of supply chains, future mineral needs, and unconventional mining resources.
+      - **(xii)** meeting challenges of extreme mining conditions, such as deeper deposits or cold region mining;
+      - **(xiii)** mineral economics, including analysis of supply chains, future mineral needs, and unconventional mining resources; and
+      - **(xiv)** mining practices that reduce environmental impact, including mining practices that reduce water usage, mitigate surface disturbance, and promote overall resource efficiency.
 - **(d)** *Mining Professional Development Advisory Board*
   - **(1)** *In general* There is established an advisory board, to be known as the “Mining Professional Development Advisory Board”.
   - **(2)** *Composition* The Board shall be composed of 6 members, to be appointed by the Secretary not later than 180 days after the date of enactment of this Act, of whom—
@@ -71,8 +74,11 @@ This Act may be cited as the “Technology Grants to Strengthen Domestic Mining 
   - **(5)** *Vacancies* A vacancy on the Board—
     - **(A)** shall not affect the powers of the Board; and
     - **(B)** shall be filled in the same manner as the original appointment was made by not later than 180 days after the date on which the vacancy occurs.
-- **(e)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2024 through 2031.
 
 ## § 3. Repeal of the Mining and Mineral Resources Research Institute Act of 1984
 
-Public Law 98–409 (30 U.S.C. 1221 et seq.; commonly known as the “Mining and Mineral Resources Research Institute Act of 1984”) is repealed.
+Public Law 98–409 (30 U.S.C. 1221 et seq.) is repealed.
+
+## § 4. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of this Act, and the activities authorized by this Act are subject to the availability of appropriations made in advance for such purposes.

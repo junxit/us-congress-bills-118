@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2685
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 1221` | repeal | Public Law 98–409 (30 U.S.C. 1221 et seq.; commonly known as the “Mining and Mineral Resources Research Institute Act of 1984”) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 1221` | repeal | Public Law 98–409 (30 U.S.C. 1221 et seq.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
