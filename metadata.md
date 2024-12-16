@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 181
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 181
@@ -16,7 +16,7 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 
-## Cosponsors (14)
+## Cosponsors (21)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
@@ -32,6 +32,13 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. James, John [R-MI-10] (J000307)
 
 ## Committees (1)
 
@@ -42,3 +49,8 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2024-07-02 — Introduced in House
 - 2024-07-02 — Introduced in House
 - 2024-07-02 — Referred to the House Committee on Education and the Workforce.
+- 2024-09-11 — Committee Consideration and Mark-up Session Held
+- 2024-09-11 — Ordered to be Reported by the Yeas and Nays: 23 - 12.
+- 2024-12-16 — Placed on the Union Calendar, Calendar No. 715.
+- 2024-12-16 — Reported by the Committee on Education and the Workforce. H. Rept. 118-877.
+- 2024-12-16 — Reported by the Committee on Education and the Workforce. H. Rept. 118-877.
