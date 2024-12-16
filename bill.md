@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6210
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Establishment of the General George C. Marshall House as an affiliated area
 
-- **(a)** *In general* The General George C. Marshall House, in the Commonwealth of Virginia, is established as an affiliated area of the National Park System to promote public appreciation of the significant historic contributions made by United States military leader and statesman George Catlett Marshall, Jr.
+- **(a)** *In general* The General George C. Marshall House, in the Commonwealth of Virginia, is established as an affiliated area of the National Park System.
 - **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted as the “General George C. Marshall House Property, Leesburg, Virginia” on the map titled “General George C. Marshall House, Proposed Affiliated Area”, numbered 999/189,974, and dated September 2023.
 - **(c)** *Administration* The affiliated area shall be managed in a manner consistent with—
-  - **(1)** this section; and
+  - **(1)** this Act; and
   - **(2)** any law generally applicable to units of the National Park System.
 - **(d)** *Management entity* The George C. Marshall International Center shall be the management entity for the affiliated area.
-- **(e)** *Cooperative agreements* The Secretary of the Interior (referred to in this section as the “Secretary”) may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area.
-- **(f)** *Limited role of the secretary* Nothing in this section authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
-- **(g)** *Management plan* Not later than 3 years after the date on which funds are made available to carry out this subsection, the Secretary, in consultation with the management entity, shall complete a management plan for the affiliated area in accordance with section 100502 of title 54, United States Code.
+- **(e)** *Agreements* The Secretary of the Interior (referred to in this section as the “Secretary”)—
+  - **(1)** may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area; and
+  - **(2)** shall enter into an agreement with the management entity that delineates the roles and responsibilities for the management of the area consistent with the policies and standards that apply to units of the National Park System.
+- **(f)** *Limited role of the secretary* Nothing in this Act authorizes the Secretary to acquire property at the affiliated area or to assume managerial or financial responsibility for the operation, maintenance, or management of the affiliated area.
+- **(g)** *Private property protection* Nothing in this Act affects the land use rights of private property owners adjacent to the General George C. Marshall House.
+- **(h)** *No buffer zones*
+  - **(1)** *In general* Nothing in this Act shall be construed to create buffer zones outside of the General George C. Marshall House.
+  - **(2)** *Activity or use outside the general george c. marshall house* The fact that an activity or use can be seen, heard, or detected from within the George C. Marshall House shall not preclude, limit, control, regulate, or determine the conduct or management of activities or uses outside of the George C. Marshall House.
