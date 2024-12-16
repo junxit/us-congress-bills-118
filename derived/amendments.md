@@ -1,7 +1,7 @@
 ---
 measure: S. 4900
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,6 +34,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5172` | insert | in the matter preceding clause (i), by inserting before the period “, including for subrecipients”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5172` | insert | in clause (ii), by inserting “preparedness,” after “disaster relief,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5172` | insert | by inserting “or programs designated by the Administrator of the Federal Emergency Management Agency to increase resilience for storms, tsunamis, wildfires, or equivalent disasters” after “community rating system”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5172` | strike | by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5172` | replace | in clause (v), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5172` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5172` | insert | in clause (ii), by inserting “preparedness,” after “disaster relief,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5172` | insert | by inserting “or programs designated by the Administrator that result in substantial science-based and verified increased resilience from building standards or land use practices for storms, tsunamis, floods, wildfires, or equivalent dis… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5172` | strike | by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5172` | replace | in clause (v), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5172` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
