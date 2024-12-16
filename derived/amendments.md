@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6494
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-100 amendatory instructions. 33 executed, 67 stated and not applied.
+107 amendatory instructions. 34 executed, 73 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 49 U.S.C. § 60101
 
-> Section 6107 of title 49, United States Code, is amended by striking “$1,058,000 for each of fiscal years 2021 through 2023” and inserting “$1,060,000 for each of fiscal years 2024 through 2027”.
+> Section 6107 of title 49, United States Code, is amended by striking “$1,058,000 for each of fiscal years 2021 through 2023” and inserting “$2,000,000 for each of fiscal years 2024 through 2027”.
 
 | | |
 |---|---|
 | Removed | `$1,058,000 for each of fiscal years 2021 through 2023` |
-| Inserted | `$1,060,000 for each of fiscal years 2024 through 2027` |
+| Inserted | `$2,000,000 for each of fiscal years 2024 through 2027` |
 
 ### 49 U.S.C. § 60101
 
@@ -44,12 +44,21 @@ to guess them.
 
 ### 49 U.S.C. § 60101
 
-> Section 60134(i) of title 49, United States Code, is amended in the first sentence by striking “fiscal years 2021 through 2023” and inserting “fiscal years 2024 through 2027”.
+> by striking “each fiscal year, the Secretary shall award $1,000,000” and inserting “, the Secretary shall award”; and
 
 | | |
 |---|---|
-| Removed | `fiscal years 2021 through 2023` |
-| Inserted | `fiscal years 2024 through 2027` |
+| Removed | `each fiscal year, the Secretary shall award $1,000,000` |
+| Inserted | `, the Secretary shall award` |
+
+### 49 U.S.C. § 60101
+
+> Section 60134(i) of title 49, United States Code, is amended in the first sentence by striking “$1,500,000 for each of fiscal years 2021 through 2023” and inserting “$2,000,000 for each of fiscal years 2024 through 2027”.
+
+| | |
+|---|---|
+| Removed | `$1,500,000 for each of fiscal years 2021 through 2023` |
+| Inserted | `$2,000,000 for each of fiscal years 2024 through 2027` |
 
 ### 49 U.S.C. § 60101
 
@@ -89,12 +98,12 @@ to guess them.
 
 ### 42 U.S.C. § 300h
 
-> in paragraph (1) by striking “a hazardous liquid” and all that follows through “such a facility” and inserting “a pipeline facility in a liquid and supercritical state”;
+> in paragraph (1) by striking “regulate carbon dioxide” and all that follows through “by such a facility” and inserting “prescribe standards related to pipeline facilities to ensure the safe transportation of carbon dioxide in a liquid or supercritical state by such facilities”;
 
 | | |
 |---|---|
-| Removed | `a hazardous liquid” and all that follows through “such a facility` |
-| Inserted | `a pipeline facility in a liquid and supercritical state` |
+| Removed | `regulate carbon dioxide” and all that follows through “by such a facility` |
+| Inserted | `prescribe standards related to pipeline facilities to ensure the safe transportation of carbon dioxide in a liquid or supercritical state by such facilities` |
 
 ### 42 U.S.C. § 300h
 
@@ -179,7 +188,7 @@ to guess them.
 
 ### 42 U.S.C. § 300h
 
-> Section 60116 of title 49, United States Code, is amended by striking “gas or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility”.
+> Section 60116 of title 49, United States Code, is amended by striking “gas or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility” each place that it appears.
 
 | | |
 |---|---|
@@ -333,6 +342,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 60101` | replace | Section 60125 of title 49, United States Code, is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 60101` | replace | Section 2(b) of the PIPES Act of 2016 (Public Law 114–183; 130 Stat. 515) is amended by striking paragraphs (1) through (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 60101` | replace | Section 60130(c)(1) of title 49, United States Code, is amended by striking “$2,000,000 for each of fiscal years 2021 through 2023 to carry out this section.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 60101` | replace | by striking the period at the end and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5130` | insert | in paragraph (8)(B) by inserting “and carbon dioxide” after “hazardous liquid”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 5130` | insert | in paragraph (18) by inserting “, a carbon dioxide pipeline facility,” after “gas pipeline facility”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 5130` | insert | in paragraph (19) by inserting “, transporting carbon dioxide,” after “transporting gas”; | the bill quotes the text inserted but describes where it goes |
@@ -356,8 +366,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 60108(a) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 60118(c)(1) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b) by inserting “adoption or progress toward adoption of the leading practices listed in subsection (b) and” before “legislative and regulatory”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “In making grants” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 60123 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -371,6 +382,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300h` | strike | in subparagraph (A) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300h` | replace | in subparagraph (B) by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300h` | replace | by striking paragraph (2)(B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300h` | insert | in paragraph (3) by inserting “ prescribe the location of a carbon dioxide storage facility or to” before “regulate piping”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | redesignate | by redesignating paragraph (3) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300h` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -379,7 +391,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300h` | insert | by inserting “or carbon dioxide” after “by operators of hazardous liquid”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | insert | by inserting “and carbon dioxide” after “each hazardous liquid” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | insert | in clause (ii) by inserting “or carbon dioxide” after “there is a hazardous liquid”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 300h` | insert | in subsection (b) by inserting “or carbon dioxide” after “there is a hazardous liquid”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300h` | insert | in subsection (b) by inserting “or carbon dioxide” after “there is a hazardous liquid”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | insert | in the heading by inserting “and carbon dioxide” after “Liquid”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | insert | in paragraph (2) by inserting “or carbon dioxide” after “underwater hazardous liquid”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300h` | insert | in subparagraph (B)(i)(II) by inserting “or carbon dioxide pipeline facility” after “hazardous liquid pipeline facility”; and | the bill quotes the text inserted but describes where it goes |
@@ -395,5 +407,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (I) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (J) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “After notifying” and inserting “(1) Withholding of payment.—”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “After notifying” and inserting “(1) Withholding of payment.—After notifying”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(1)(A) by inserting “except as provided in subsection (e),” before “require”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |

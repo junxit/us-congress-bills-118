@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6494
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,10 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend title 49, United States Code, to provide enhanced safety in pipeline transportation, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title; table of contents; definition
 
 - **(a)** *Short title* This Act may be cited as the “Promoting Innovation in Pipeline Efficiency and Safety Act of 2023” or the “PIPES Act of 2023”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
+- **(c)** *State defined* In this Act, the term “State” has the meaning given such term in section 60101(a) of title 49, United States Code.
 
 ## § 2. Authorization of appropriations
 
@@ -24,10 +25,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(ii)** $73,000,000 shall be used for making grants;
   >     - **(B)** $189,800,000 for fiscal year 2025, of which—
   >       - **(i)** $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
-  >       - **(ii)** $75,000,000 shall be used for making grants; and
+  >       - **(ii)** $75,000,000 shall be used for making grants;
   >     - **(C)** $198,200,000 for fiscal year 2026, of which—
   >       - **(i)** $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
-  >       - **(ii)** $77,000,000 shall be used for making grants;
+  >       - **(ii)** $77,000,000 shall be used for making grants; and
   >     - **(D)** $206,600,000 for fiscal year 2027, of which—
   >       - **(i)** $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
   >       - **(ii)** $79,000,000 shall be used for making grants.
@@ -37,10 +38,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(ii)** $11,000,000 shall be used for making grants;
   >     - **(B)** $30,500,000 for fiscal year 2025, of which—
   >       - **(i)** $2,000,000, pursuant to the authority in section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), shall be used to carry out section 12 of such Act; and
-  >       - **(ii)** $11,500,000 shall be used for making grants; and
+  >       - **(ii)** $11,500,000 shall be used for making grants;
   >     - **(C)** $31,000,000 for fiscal year 2026, of which—
   >       - **(i)** $2,000,000, pursuant to the authority in section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), shall be used to carry out section 12 of such Act; and
-  >       - **(ii)** $12,000,000 shall be used for making grants;
+  >       - **(ii)** $12,000,000 shall be used for making grants; and
   >     - **(D)** $31,500,000 for fiscal year 2027, of which—
   >       - **(i)** $2,000,000, pursuant to the authority in section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), shall be used to carry out section 12 of such Act; and
   >       - **(ii)** $12,500,000 shall be used for making grants.
@@ -65,7 +66,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(3)** $33,000,000 for fiscal year 2026.
   > - **(4)** $34,000,000 for fiscal year 2027.
 
-- **(c)** *One-Call notification programs* Section 6107 of title 49, United States Code, is amended by striking “$1,058,000 for each of fiscal years 2021 through 2023” and inserting “$1,060,000 for each of fiscal years 2024 through 2027”.
+- **(c)** *One-call notification programs* Section 6107 of title 49, United States Code, is amended by striking “$1,058,000 for each of fiscal years 2021 through 2023” and inserting “$2,000,000 for each of fiscal years 2024 through 2027”.
 - **(d)** *Emergency response grants* Section 60125(b)(2) of title 49, United States Code, is amended by striking “fiscal years 2021 through 2023” and inserting “fiscal years 2024 through 2027”.
 - **(e)** *Pipeline safety information grants to communities* Section 60130(c)(1) of title 49, United States Code, is amended by striking “$2,000,000 for each of fiscal years 2021 through 2023 to carry out this section.” and inserting the following:
   > , to carry out this section, the following:
@@ -74,8 +75,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(C)** $2,750,000 for fiscal year 2026.
   > - **(D)** $3,000,000 for fiscal year 2027.
 
-- **(f)** *Damage prevention programs* Section 60134(i) of title 49, United States Code, is amended in the first sentence by striking “fiscal years 2021 through 2023” and inserting “fiscal years 2024 through 2027”.
-- **(g)** *Pipeline integrity program* Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended—
+- **(f)** *Improving technical assistance* Section 60130(c)(2) of title 49, United States Code, is amended—
+  - **(1)** by striking “each fiscal year, the Secretary shall award $1,000,000” and inserting “, the Secretary shall award”; and
+  - **(2)** by striking the period at the end and inserting the following:
+    > the following amounts:
+    > - **(A)** $1,250,000 for fiscal year 2024.
+    > - **(B)** $1,500,000 for fiscal year 2025.
+    > - **(C)** $1,750,000 for fiscal year 2026.
+    > - **(D)** $2,000,000 for fiscal year 2027.
+
+- **(g)** *Damage prevention programs* Section 60134(i) of title 49, United States Code, is amended in the first sentence by striking “$1,500,000 for each of fiscal years 2021 through 2023” and inserting “$2,000,000 for each of fiscal years 2024 through 2027”.
+- **(h)** *Pipeline integrity program* Section 12(f) of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended—
   - **(1)** by striking “$3,000,000” and inserting “$2,000,000”; and
   - **(2)** by striking “2021 through 2023” and inserting “2024 through 2027”.
 
@@ -101,13 +111,13 @@ Section 60101(a) of title 49, United States Code, is amended—
   > - **(10)** “intrastate carbon dioxide pipeline facility” means a carbon dioxide pipeline facility that is not an interstate carbon dioxide facility;
 
 - **(9)** by inserting after paragraph (21), as so redesignated, the following:
-  > - **(22)** “non-public pipeline safety data and information” means any pipeline safety data or information regardless of form or format, that a company does not disclose, disseminate, or make available to the public or that is not otherwise in the public domain;
+  > - **(22)** “non-public pipeline safety data and information” means any pipeline safety data or information, regardless of form or format, that a company does not disclose, disseminate, or make available to the public or that is not otherwise in the public domain;
 
 - **(10)** by inserting after paragraph (25), as so redesignated, the following:
   > - **(26)** “public information” means any data or information, regardless of form or format, that a company discloses, disseminates, or makes available to the public or that is otherwise in the public domain;
 
 - **(11)** by inserting after paragraph (30), as so redesignated, the following:
-  > - **(31)** “transporting carbon dioxide” means the movement of carbon dioxide or the storage of carbon dioxide incidental to the movement of carbon dioxide by pipeline, in or affecting, interstate or foreign commerce;
+  > - **(31)** “transporting carbon dioxide” means the movement of carbon dioxide or the storage of carbon dioxide incidental to the movement of carbon dioxide by pipeline, in or affecting interstate or foreign commerce;
 
 - **(12)** by inserting after paragraph (33), as so redesignated, the following:
   > - **(34)** “Tribal” means relating to Indian Tribes, as such term is defined in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5130); and
@@ -137,7 +147,7 @@ Section 60101(a) of title 49, United States Code, is amended—
     - **(B)** is required to be issued under this Act or any other Act.
 - **(b)** *Requirements*
   - **(1)** *Periodic updates* Not later than 30 days after the date of enactment of this Act, and every 30 days thereafter until each outstanding mandate is published in the Federal Register, the Secretary of Transportation shall publish on a publicly available website of the Department of Transportation an update regarding the status of each such mandate in accordance with subsection (c).
-  - **(2)** *Notification of Congress* On publication of a final rule in the Federal Register for an outstanding mandate, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a notification of such publication.
+  - **(2)** *Notification of Congress* On publication of a final rule in the Federal Register for an outstanding mandate, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a notification of such publication.
 - **(c)** *Contents* An update published or a notification submitted under subsection (b)(1) shall contain, as applicable—
   - **(1)** with respect to information relating to the Administration—
     - **(A)** a description of the work plan for each outstanding mandate;
@@ -263,7 +273,7 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
 
 ## § 14. Study on composite materials for pipelines
 
-- **(a)** *Study on use of composite materials* Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall complete a study assessing the potential and existing use of pipelines constructed with composite materials to safely transport hydrogen and hydrogen blended with natural gas.
+- **(a)** *Study on use of composite materials* Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall complete a study assessing the potential and existing use of pipelines constructed with composite materials to safely transport hydrogen and hydrogen blended with natural gas.
 - **(b)** *Study considerations* In completing the study under subsection (a), the Secretary shall consider—
   - **(1)** any commercially available composite pipeline materials;
   - **(2)** any completed or ongoing tests and data regarding composite pipeline materials available to the Secretary or other Federal agencies; and
@@ -273,6 +283,7 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
   - **(2)** release a draft version of the study for public comment for a period of not less than 60 days; and
   - **(3)** address any substantive comments submitted by the public during the public comment period under paragraph (2) in preparing the final study.
 - **(d)** *Public meeting* Not later than 60 days after the closing of the public comment period under subsection (c)(2), the Secretary shall hold a public meeting to present the findings of the study under this section and any responses to public comments received under such subsection.
+- **(e)** *Rulemaking* Not later than 18 months after the meeting described in subsection (d), the Secretary shall issue a rulemaking that includes a Notice of Proposed Rulemaking to allow for the use of composite materials for pipeline transportation of hydrogen and hydrogen blended with natural gas.
 
 ## § 15. Competitive Academic Agreement Program
 
@@ -294,7 +305,7 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
     - **(D)** identifies any discrepancies in the requirements described in subparagraph (A) and advisories, industry consensus standards, or best practices for operators of gas, hazardous liquid, and carbon dioxide pipeline facilities; and
     - **(E)** identifies any areas relating to geohazards not addressed under subparagraphs (A) through (D); and
   - **(2)** any recommendations of the Government Accountability Office based on the results of the study under paragraph (1).
-- **(b)** *Report to Congress* Upon completion of the report under subsection (a), the Comptroller General shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate the report.
+- **(b)** *Report to Congress* Upon completion of the report under subsection (a), the Comptroller General shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate the report.
 
 ## § 17. Special permit program
 
@@ -318,9 +329,9 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
 
 - **(a)** *Grants to States* Section 6106 of title 49, United States Code, is amended—
   - **(1)** in subsection (b) by inserting “adoption or progress toward adoption of the leading practices listed in subsection (b) and” before “legislative and regulatory”;
-  - **(2)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+  - **(2)** by redesignating subsections (b) and (c) as subsections (d) and (e), respectively;
   - **(3)** by inserting after subsection (a) the following:
-    > - **(b)** *Leading practices* A State one-call program shall consider implementing leading practices that—
+    > - **(b)** *Leading practices* A State one-call program shall implement leading practices that—
     >   - **(1)** identify the size and scope of a one-call ticket for standard locate requests, including process exceptions for special large project tickets;
     >   - **(2)** restrict the longevity of a one-call ticket for standard locate requests, which may include process exceptions for special large project tickets;
     >   - **(3)** examine and limit exemptions to one-call programs to prevent common excavation damage incidents, including—
@@ -332,13 +343,25 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
     >   - **(5)** specify emergency excavation notification requirements, including defining emergency excavation and identifying the notification requirements for an emergency excavation;
     >   - **(6)** specify the responsibilities of the excavator, including the reporting of damages due to excavation activities;
     >   - **(7)** define who is an excavator and what is considered excavation;
-    >   - **(8)** require the use of white lining or electronic white lining;
+    >   - **(8)** require the use of white lining or electronic white lining, allowing for exceptions for special large-project tickets;
     >   - **(9)** require a positive response, such as the utility, municipality, or other entity placing the marks positively responds to the notification center and the excavator checks for a positive response before beginning excavation;
-    >   - **(10)** encourage newly installed underground facilities to be locatable;
+    >   - **(10)** require newly installed underground facilities to be locatable;
     >   - **(11)** require the marking of lines and laterals, including sewer lines and laterals;
-    >   - **(12)** encourage training programs and requirements for third-party excavators performing excavation activities that are not subject to pipeline construction requirements under part 192 or part 195 of title 49, Code of Federal Regulations;
-    >   - **(13)** encourage robust training for locate professionals; and
-    >   - **(14)** encourage the use of commercially available technologies to locate underground facilities, such as geographic information systems and enhanced positive response.
+    >   - **(12)** require training programs and requirements for third-party excavators performing excavation activities that are not subject to pipeline construction requirements under part 192 or part 195 of title 49, Code of Federal Regulations;
+    >   - **(13)** require training for locate professionals; and
+    >   - **(14)** require the use of commercially available technologies to locate underground facilities, such as geographic information systems and enhanced positive response.
+    > - **(c)** *Report to Congress*
+    >   - **(1)** *Initial report* Not later than 3 years after the implementation of subsection (b), the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing—
+    >     - **(A)** the implementation of the leading practices described in such subsection;
+    >     - **(B)** recommendations to increase the adoption of such leading practices and recommendations for the reduction of excavation damage incidents; and
+    >     - **(C)** the number of underground facility damages per 1,000 one-call tickets in each State for the reporting year.
+    >   - **(2)** *Additional reports* Not later than once every 2 years after the submittal of the report under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing—
+    >     - **(A)** the implementation of the leading practices described in subsection (b);
+    >     - **(B)** recommendations to increase the adoption of such leading practices and recommendations for the reduction of excavation damage incidents; and
+    >     - **(C)** the number of underground facility damages per 1,000 one-call tickets in each state for each year covered by the report.
+
+  - **(4)** by adding at the end the following:
+    > - **(f)** *Savings Clause* Nothing in this section shall make a grant award to a State by the Secretary pursuant to section 60107 or section 60134 for a State program certified under section 60105 or section 60106 contingent on compliance by the State with all leading practices described in subsection (b).
 
 - **(b)** *State damage prevention programs* Section 60134(c) of title 49, United States Code, is amended—
   - **(1)** by striking “In making grants” and inserting the following:
@@ -347,11 +370,13 @@ Section 60108(a) of title 49, United States Code, is amended by adding at the en
   - **(2)** by adding at the end the following:
     > - **(2)** *Considerations* In evaluating criteria for determining the effectiveness of the damage prevention program of a State, the Secretary shall consider whether the State has, at a minimum—
     >   - **(A)** effective, active, and consistent enforcement of State one-call laws (including consistency in the application of enforcement resources, fines, and penalties to all relevant stakeholders, such as operators, locators, and excavators);
-    >   - **(B)** reporting requirements, to the local one-call center for excavation damage events on pipelines and other underground facilities, that are not privately owned, including (if available at the time of the reporting)—
-    >     - **(i)** information about the nature of the incident, including the facility damaged and the apparent cause of such damage (with supporting documentation);
-    >     - **(ii)** the organizations or entities involved;
-    >     - **(iii)** the impact to public safety, utility operations, and customer service; and
-    >     - **(iv)** the impact to the environment;
+    >   - **(B)** data reporting requirements such as those—
+    >     - **(i)** to the local one-call center for excavation damage events on pipelines and other underground facilities, that are not privately owned, including (if available at the time of reporting)—
+    >       - **(I)** information about the nature of the incident, including the facility damaged and the apparent cause of such damage (with supporting documentation);
+    >       - **(II)** the organizations or entities involved;
+    >       - **(III)** the impact to public safety, utility operations, and customer service; and
+    >       - **(IV)** the impact to the environment; and
+    >     - **(ii)** to a nationally focused nonprofit organization specifically established for the purpose of reducing construction-related damages to underground facilities, of damages and near-miss events to underground facilities from excavation damages, including potential contributing factors, facility damaged, type of excavator, work performed, equipment type, and State;
     >   - **(C)** data reporting requirements, to a nonprofit organization specifically established for the purpose of reducing construction-related damage to underground facilities, of damage and near-miss events to underground facilities from excavation damage, including root cause, facility damaged, type of excavator, work performed, equipment type, and State; and
     >   - **(D)** performance measures to determine the effectiveness of excavation damage prevention efforts.
 
@@ -415,7 +440,7 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
 
 - **(a)** *Establishment and purpose* The Secretary of Transportation shall establish and convene a Liquefied Natural Gas Regulatory Safety Working Group (in this section referred to as the “Working Group”) through the National Center of Excellence for Liquefied Natural Gas Safety to clarify the authority of Federal agencies in the authorizing and oversight of LNG facilities, other than peak shaving facilities, and improve coordination of the authority of such agencies.
 - **(b)** *Membership*
-  - **(1)** *In general* The Working Group shall consist of certain representatives of the Federal government, as such term is defined in section 111(a)(3)(F)(i)–(v) of the PIPES Act of 2020 (Public Law 116–260), as designated by the Secretary of Transportation or appropriate Federal agency leadership.
+  - **(1)** *In general* The Working Group shall consist of certain representatives of the Federal government, as such term is defined in clauses (i) through (v) of section 111(a)(3)(F) of the PIPES Act of 2020 (Public Law 116–260), as designated by the Secretary of Transportation or appropriate Federal agency leadership.
   - **(2)** *Chair* The Administrator of the Pipeline and Hazardous Materials Safety Administration or a designee of the Administrator shall serve as chair of the Working Group, unless an alternate member of the working group is selected by unanimous consent of the Working Group.
   - **(3)** *Responsibilities of chair* The Chair of the Working Group shall establish an agenda and schedule for the Working Group to accomplish the objectives described in subsection (c).
 - **(c)** *Evaluation*
@@ -443,9 +468,9 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
   >   - **(2)** *Governing board*
   >     - **(A)** *In general* Not later than 180 days after the date of enactment of this section, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall appoint a Governing Board after consulting with public and private pipeline safety stakeholders.
   >     - **(B)** *Composition of the board* The Governing Board shall be comprised of at least 9 members and shall represent a balanced cross-section of pipeline safety stakeholders with pipeline safety knowledge or experience as follows:
-  >       - **(i)** at least 3 individuals shall be selected from departments, agencies, instrumentalities of the Federal Government, Territories, State governments, or local governments, 1 of which shall be the Administrator.
-  >       - **(ii)** at least 3 individuals shall be selected from the gas, carbon dioxide, or hazardous liquid industries, such as operators, trade associations, inspection technology, coating, and cathodic protection vendors, and pipeline inspection organizations.
-  >       - **(iii)** at least 3 individuals shall be selected from public safety advocate organizations, such as pipeline safety and environmental advocacy groups, public safety-focused research institutions, or labor and worker safety representatives.
+  >       - **(i)** At least 3 individuals shall be selected from departments, agencies, instrumentalities of the Federal Government, Territories, State governments, or local governments, 1 of which shall be the Administrator.
+  >       - **(ii)** At least 3 individuals shall be selected from the gas, carbon dioxide, or hazardous liquid industries, such as operators, trade associations, inspection technology, coating, and cathodic protection vendors, and pipeline inspection organizations.
+  >       - **(iii)** At least 3 individuals shall be selected from public safety advocate organizations, such as pipeline safety and environmental advocacy groups, public safety-focused research institutions, or labor and worker safety representatives.
   >     - **(C)** *Board terms*
   >       - **(i)** *In general* Each member of the Governing Board shall be appointed for a term of 3 years, with the terms of 3 of the members expiring each year.
   >       - **(ii)** *Term expiration* The term of at least 1 member of each of the 3 stakeholder groups established in subparagraph (B) shall expire each year.
@@ -513,9 +538,10 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
   >     - **(B)** not related to the established purpose of the VIS described in subsection (a)(2);
   >     - **(C)** otherwise required to be reported to the Secretary under part 191 (including information about an incident or accident), part 192, part 194, part 195, or part 199 of title 49, Code of Federal Regulations (or successor regulations), or required to be reported under the requirements of a State authority; or
   >     - **(D)** developed or obtained from a source other than the VIS, including through discovery from a person or an entity other than the VIS in an enforcement action or private litigation.
+  >   - **(4)** *Additional limitations on exclusions* The exclusions described in paragraphs (1) and (2) shall not apply to non-public information that is submitted to but not accepted by the VIS.
   > - **(g)** *Effect on State law* Nothing in this section shall be construed to affect Federal, State, or local pipeline safety law.
   > - **(h)** *No effect on discovery*
-  >   - **(1)** *Rule of construction* Nothing in this section or any rule, regulation, or amendment issued pursuant to this section shall be construed to create a defense to a discovery request or otherwise limit or affect the discovery of pipeline safety data and information arising from a cause of action authorized under any under Federal, State, or local law.
+  >   - **(1)** *Rule of construction* Nothing in this section or any rule, regulation, or amendment issued pursuant to this section shall be construed to create a defense to a discovery request or otherwise limit or affect the discovery of pipeline safety data and information arising from a cause of action authorized under any Federal, State, or local law.
   >   - **(2)** *Exception* Paragraph (1) shall not apply to exclusions from discovery from the VIS as described in subsection (f)(2).
   > - **(i)** *Expenses*
   >   - **(1)** *In general* Members of the VIS Governing Board and Issue Analysis Teams may be paid expenses under section 5703 of title 5.
@@ -557,10 +583,13 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
   - **(4)** in subsection (e) by striking “transportation of gas or hazardous liquid” and inserting “transportation of gas, hazardous liquid, or carbon dioxide”;
   - **(5)** in subsection (f)(1) by striking “natural gas transmission pipeline or hazardous liquid pipeline facilities” and inserting “natural gas transmission pipeline, hazardous liquid pipeline facilities, or carbon dioxide pipeline facilities” each place it appears;
   - **(6)** in subsection (i)—
-    - **(A)** in paragraph (1) by striking “a hazardous liquid” and all that follows through “such a facility” and inserting “a pipeline facility in a liquid and supercritical state”;
-    - **(B)** in paragraph (3) by inserting “ prescribe the location of a carbon dioxide storage facility or to” before “regulate piping”;
-    - **(C)** by redesignating paragraph (3) as paragraph (4);
-    - **(D)** by inserting after paragraph (2) the following:
+    - **(A)** in paragraph (1) by striking “regulate carbon dioxide” and all that follows through “by such a facility” and inserting “prescribe standards related to pipeline facilities to ensure the safe transportation of carbon dioxide in a liquid or supercritical state by such facilities”;
+    - **(B)** by striking paragraph (2)(B) and inserting the following:
+      > - **(B)** *Inclusion of applicable standards* The Secretary shall establish the minimum safety standards in part 195 of title 49, Code of Federal Regulations, as applicable.
+
+    - **(C)** in paragraph (3) by inserting “ prescribe the location of a carbon dioxide storage facility or to” before “regulate piping”;
+    - **(D)** by redesignating paragraph (3) as paragraph (4);
+    - **(E)** by inserting after paragraph (2) the following:
       > - **(3)** *Storage of carbon dioxide*
       >   - **(A)** *Minimum safety standards* The Secretary shall prescribe minimum safety standards for the injection, withdrawal, and storage of carbon dioxide incidental to pipeline transportation.
       >   - **(B)** *Storage of carbon dioxide incidental to pipeline transportation* In this paragraph, the term storage of carbon dioxide incidental to pipeline transportation—
@@ -569,7 +598,7 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
       >       - **(I)** with respect to each State, the long-term containment of carbon dioxide in subsurface geologic formations or other activity subject to the requirements of a State underground injection control program prescribed by the Administrator of the Environmental Protection Agency and applicable to the State, or adopted by the State and approved by the Administrator, under part C of the Safe Drinking Water Act (42 U.S.C. 300h et seq.); or
       >       - **(II)** the temporary storage of carbon dioxide in any excepted pipelines listed in paragraph (b) of section 195.1 of title 49, Code of Federal Regulations, as of the date of enactment of the PIPES Act of 2023.
 
-    - **(E)** by adding at the end the following:
+    - **(F)** by adding at the end the following:
       > - **(5)** *Dispersion Modeling*
       >   - **(A)** *Safety standards* The Secretary shall prescribe minimum safety standards to require each operator of a carbon dioxide pipeline facility to employ vapor dispersion modeling to identify high consequence areas, as defined at section 195.450 of title 49, Code of Federal Regulations, and paragraph (7)(I)(A) of Appendix C to part 195 of such title, that could be affected by a release from such a pipeline.
       >   - **(B)** *Considerations* In performing the vapor dispersion modeling under subparagraph (A), operators of a carbon dioxide pipeline facility shall consider—
@@ -584,18 +613,18 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
       >     - **(iii)** security sensitive information related to plans for responding to a carbon dioxide release.
       >   - **(E)** *Statutory construction* Nothing in this section may be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5.
 
-- **(b)** *Regulations required* Not later than 1 year after the date of publishing a notice of proposed rulemaking titled “Pipeline Safety: Safety of Carbon Dioxide and Hazardous Liquid Pipelines” (or any other notice of proposed rulemaking covering substantially similar regulatory requirements), the Secretary shall issue a final rule based on such proposed rulemaking. The final rule shall address the issue of gaseous carbon dioxide as required under section 60102(i)(2) of title 49, United States Code, and other carbon dioxide safety issues identified by the Secretary.
+- **(b)** *Regulations required* Not later than 1 year after the date of publishing a notice of proposed rulemaking titled “Pipeline Safety: Safety of Carbon Dioxide and Hazardous Liquid Pipelines” (or any other notice of proposed rulemaking covering substantially similar regulatory requirements), the Secretary shall issue a final rule based on such proposed rulemaking. The final rule shall include updates to such regulations as are necessary to implement section 60102(i) of title 49, United States Code, as amended by subsection (a), and other carbon dioxide safety issues identified by the Secretary.
 - **(c)** *State pipeline safety program certifications* Section 60105(b)(9)(A) of title 49, United States Code, is amended by striking “natural gas and hazardous liquid” and inserting “natural gas, hazardous liquid, and carbon dioxide”.
 - **(d)** *State pipeline safety grants* Section 60107(a)(2) of title 49, United States Code, is amended by inserting “or interstate carbon dioxide” after “interstate hazardous liquid”.
 - **(e)** *Inspection and maintenance* Section 60108 of title 49, United States Code, is amended—
   - **(1)** in subsection (a)(1) by striking “gas pipeline facility or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility”; and
   - **(2)** in subsection (e)(1) by striking “gas or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility”.
-- **(f)** *High-Density population areas and environmentally sensitive areas* Section 60109 of title 49, United States Code, is amended—
+- **(f)** *High-density population areas and environmentally sensitive areas* Section 60109 of title 49, United States Code, is amended—
   - **(1)** in subsection (a)(1)(B)—
     - **(A)** by inserting “or carbon dioxide” after “by operators of hazardous liquid”;
     - **(B)** by inserting “and carbon dioxide” after “each hazardous liquid” each place it appears; and
     - **(C)** in clause (ii) by inserting “or carbon dioxide” after “there is a hazardous liquid”; and
-  - **(2)** in subsection (b) by inserting “or carbon dioxide” after “there is a hazardous liquid”;
+  - **(2)** in subsection (b) by inserting “or carbon dioxide” after “there is a hazardous liquid”; and
   - **(3)** in subsection (g)—
     - **(A)** in the heading by inserting “and carbon dioxide” after “Liquid”; and
     - **(B)** in paragraph (2) by inserting “or carbon dioxide” after “underwater hazardous liquid”.
@@ -607,7 +636,7 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
   - **(3)** in subsection (b)(4)(B) by striking “natural gas pipelines or hazardous liquid pipeline facilities” and inserting “natural gas pipelines, hazardous liquid pipeline facilities, or carbon dioxide pipeline facilities”;
   - **(4)** in subsection (c)(1)(B) by striking “transporting hazardous liquid and for hazardous liquid pipeline facilities” and inserting “transporting carbon dioxide, hazardous liquid pipeline facilities and carbon dioxide facilities”; and
   - **(5)** in subsection (d)(1) by striking “transporting hazardous liquid and for hazardous liquid pipeline facilities” and inserting “transporting hazardous liquid, transporting carbon dioxide, hazardous liquid pipeline facilities, and carbon dioxide pipeline facilities”.
-- **(h)** *Public education programs* Section 60116 of title 49, United States Code, is amended by striking “gas or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility”.
+- **(h)** *Public education programs* Section 60116 of title 49, United States Code, is amended by striking “gas or hazardous liquid pipeline facility” and inserting “gas pipeline facility, hazardous liquid pipeline facility, or carbon dioxide pipeline facility” each place that it appears.
 - **(i)** *Administrative provisions* Section 60117 of title 49, United States Code, is amended—
   - **(1)** in subsection (o)(1)—
     - **(A)** in subparagraph (A) by striking “liquid pipeline facility or liquefied natural gas pipeline facility” and inserting “liquid pipeline facility, a liquefied natural gas pipeline facility, or a carbon dioxide pipeline facility”; and
@@ -669,14 +698,14 @@ Section 60122(a)(1) of title 49, United States Code, is amended by striking “$
       - **(i)** the respondent; and
       - **(ii)** the Pipeline and Hazardous Materials Safety Administration; and
     - **(C)** the number of cases that reach settlement and the outcome of such cases;
-  - **(4)** any additional resources that are needed by the Secretary in response to implementing this provision for each fiscal year to carry out the amendment made by subsection (a) and
+  - **(4)** any additional resources that are needed by the Secretary in response to implementing this provision for each fiscal year to carry out the amendment made by subsection (a); and
   - **(5)** any safety improvements identified as a result of the implementation of subparagraph (K) of section 60117(b)(1) of title 49, United States Code.
 
 ## § 27. State pipeline safety grants reporting
 
 Section 60107(b) of title 49, United States Code, is amended—
 
-- **(1)** by striking “After notifying” and inserting “(1) Withholding of payment.—”; and
+- **(1)** by striking “After notifying” and inserting “(1) Withholding of payment.—After notifying”; and
 - **(2)** by adding at the end the following:
   > - **(2)** *Budget estimate* The budget estimates of the Secretary for each fiscal year shall include—
   >   - **(A)** a summary of amounts claimed, amounts reimbursed, and the percentages reimbursed in the preceding 3 fiscal years for the program under this section; and
@@ -684,9 +713,9 @@ Section 60107(b) of title 49, United States Code, is amended—
 
 ## § 28. Inspection of in-service breakout tanks
 
-- **(a)** *Inspection of in-Service breakout tanks* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation may review and, if determined appropriate, may amend the safety standards in part 195 of title 49, Code of Federal Regulations, relating to the internal inspection of the bottoms of in-service breakout tanks to allow for risk-based inspections.
-- **(b)** *Consideration* If the Secretary amends the safety standards described in subsection (a), the Secretary may consider the 5th edition of standard 653 published by the American Petroleum Institute issued November 2014 titled “Tank Inspection, Repair, Alteration, and Reconstruction”.
-- **(c)** *Scope* If the Secretary amends the safety standards described in subsection (a), the Secretary shall ensure that such standards achieve a level of safety that is equivalent to the level of safety required under such part 195, as in effect on the date of enactment of this Act.
+- **(a)** *Inspection of in-service breakout tanks* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall review and, if determined that such action will achieve an equivalent level of safety, shall amend the safety standards in part 195 of title 49, Code of Federal Regulations, relating to the internal inspection of the bottoms of in-service breakout tanks to allow for risk-based inspections.
+- **(b)** *Consideration* If the Secretary amends the safety standards described in subsection (a), the Secretary shall consider the 5th edition of standard 653 published by the American Petroleum Institute issued November 2014 titled “Tank Inspection, Repair, Alteration, and Reconstruction”.
+- **(c)** *Scope* If the Secretary amends the safety standards described in subsection (a), the Secretary shall ensure that such risk-based inspection standards achieve a level of safety that is equivalent to the level of safety required under such part 195, as in effect on the date of enactment of this Act.
 
 ## § 29. Disclosure of safety information assessment
 
@@ -738,11 +767,11 @@ Section 60107(b) of title 49, United States Code, is amended—
 - **(c)** *Consultation* In conducting the study under subsection (a), the National Academies shall consult with economists, State, Federal, local, and Tribal governments, emergency management officials, and pipeline stakeholders, including pipeline facility operators and public safety and environmental groups.
 - **(d)** *Report to Congress* Upon completion of the study conducted under subsection (a), the Secretary shall—
   - **(1)** require the National Academies to submit to the Secretary a report on such study; and
-  - **(2)** submit to the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of such study.
+  - **(2)** submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of such study.
 
 ## § 32. Study on localized emergency alert system for pipeline facilities incidents
 
-- **(a)** *GAO review* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Secretary of Transportation, the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a study assessing—
+- **(a)** *GAO review* Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Secretary of Transportation, the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a study assessing—
   - **(1)** the need and feasibility of requiring owners and operators of covered facilities to establish and maintain a localized emergency alert system; and
   - **(2)** whether such an alert system would be best maintained by State or local emergency management officials or owners and operators of such facilities.
 - **(b)** *Considerations* In conducting the study under subsection (a), the Comptroller General shall—
@@ -764,3 +793,23 @@ Section 60107(b) of title 49, United States Code, is amended—
 - **(d)** *Definitions* In this section:
   - **(1)** *Covered facility* The term covered facility means a gas pipeline facility, a hazardous liquid pipeline facility, or a carbon dioxide pipeline facility, including a liquefied natural gas storage facility or an underground natural gas storage facility, as defined in section 60101 of title 49, United States Code.
   - **(2)** *Localized emergency alert system* The term localized emergency alert system means a system that provides to individuals in the immediate vicinity of a covered facility an electronic notification of an incident or accident at such facility that presents an immediate risk to life or property.
+
+## § 33. Maximum allowable operating pressure
+
+- **(a)** *In general* Section 60139 of title 49, United States Code, is amended—
+  - **(1)** in subsection (c)(1)(A) by inserting “except as provided in subsection (e),” before “require”;
+  - **(2)** by redesignating subsection (e) as subsection (f); and
+  - **(3)** by inserting after subsection (d) the following:
+    > - **(e)** *Testing records working group*
+    >   - **(1)** *Previously tested transmission lines* Until the completion of the report of the Working Group required under paragraph (2) and the rulemaking proceeding required under paragraph (3), the Secretary shall not require an owner or operator of a pipeline facility to reconfirm the maximum allowable operating pressure of a natural gas transmission pipeline pursuant to section 192.624 of title 49, Code of Federal Regulations, if the owner or operator confirms the material strength of the pipeline through prior testing conducted to a sufficient minimum pressure in accordance with prevailing safety standards and practices, including any applicable class location factors, and documented in contemporaneous records.
+    >   - **(2)** *Working group report*
+    >     - **(A)** *In general* No later than 30 days after the date of enactment of the PIPES Act of 2023, the Secretary of Transportation shall create a fairly balanced working group (hereinafter referred to as the “Working Group”) to produce a report containing recommendations on the minimum pressure and contemporaneous records that are sufficient to confirm the material strength of a pipeline through prior testing.
+    >     - **(B)** *Composition of Working Group* The Working Group—
+    >       - **(i)** shall be comprised of the Administrator of the Pipeline and Hazardous Materials Safety Administration, State pipeline regulators, the public, and industry stakeholders active in the operation of natural gas pipelines; and
+    >       - **(ii)** may include members of the Technical Pipeline Safety Standards Committee or be conducted in a manner that otherwise ensures input from the public, as determined appropriate by the Secretary.
+    >     - **(C)** *Consideration* In preparing the report required under paragraph (1), the Working Group—
+    >       - **(i)** shall consider historical practices and all available research conducted regarding minimum pressure and contemporaneous records on transmission pipelines; and
+    >       - **(ii)** may consider the need for any additional research or analyses needed to demonstrate the adequacy of any strength testing performed.
+    >     - **(D)** *Applicability of FACA* Chapter 10 of title 5 shall not apply to the Working Group.
+    >     - **(E)** *Submission of report* Not later than 180 days after the date of enactment of the PIPES Act of 2023, the Working Group shall submit to the Secretary the report produced under paragraph (2), including any minority views.
+    >   - **(3)** *Rulemaking* Not later than 180 days after receiving the report described in paragraph (2), the Secretary shall initiate a rulemaking proceeding under section 60102 to revise, or make a technical correction to, the maximum allowable operating pressure reconfirmation regulations issued pursuant to this section in effect as of the date of enactment of the PIPES Act of 2023.
