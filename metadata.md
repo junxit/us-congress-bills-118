@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9533
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9533
@@ -16,7 +16,7 @@ ESA Amendments Act of 2024
 
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Rep. Newhouse, Dan [R-WA-4] (N000189)
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
@@ -25,6 +25,10 @@ ESA Amendments Act of 2024
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Duarte, John S. [R-CA-13] (D000633)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Carl, Jerry L. [R-AL-1] (C001054)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
 
 ## Committees (1)
 
@@ -35,3 +39,8 @@ ESA Amendments Act of 2024
 - 2024-09-10 — Introduced in House
 - 2024-09-10 — Introduced in House
 - 2024-09-10 — Referred to the House Committee on Natural Resources.
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 13.
+- 2024-12-16 — Placed on the Union Calendar, Calendar No. 717.
+- 2024-12-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-879.
+- 2024-12-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-879.

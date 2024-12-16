@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9533
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -62,12 +62,12 @@ to guess them.
 
 ### 16 U.S.C. § 1540
 
-> Section 11(g)(4) of the Endangered Species Act of 1973 (16 U.S.C. 1540(g)(4)) is amended by striking “to any party, whenever the court determines such award is appropriate” and inserting “in accordance with section 2412 of title 28, United States Code and section 504 of title 5, United States Code.”.
+> Section 11(g)(4) of the Endangered Species Act of 1973 (16 U.S.C. 1540(g)(4)) is amended by striking “to any party, whenever the court determines such award is appropriate” and inserting “in accordance with section 2412 of title 28, United States Code and section 504 of title 5, United States Code”.
 
 | | |
 |---|---|
 | Removed | `to any party, whenever the court determines such award is appropriate` |
-| Inserted | `in accordance with section 2412 of title 28, United States Code and section 504 of title 5, United States Code.` |
+| Inserted | `in accordance with section 2412 of title 28, United States Code and section 504 of title 5, United States Code` |
 
 ## Stated, not applied
 
@@ -102,7 +102,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1533` | add-at-end | Section 4(b) of the Endangered Species Act of 1973 (16 U.S.C. 1533(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1535` | insert | by inserting “(1)” before the first sentence; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1535` | replace | by striking “Such cooperation shall include” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1532` | redesignate | by redesignating paragraphs (2) through (21) as paragraphs (3) through (22), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1532` | redesignate | by redesignating paragraphs (2) through (10) as paragraphs (3) through (11), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1532` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1531` | amend | Section 13 of the Endangered Species Act of 1973 (87 Stat. 902) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1531` | replace | The table of contents in the first section of the Endangered Species Act of 1973 (16 U.S.C. 1531 note) is amended by striking the item relating to section 13 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
