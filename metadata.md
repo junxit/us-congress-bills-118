@@ -1,7 +1,7 @@
 ---
 measure: H.R. 272
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 272
@@ -45,3 +45,7 @@ ASTRO Act
 - 2024-05-06 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-483, Part I.
 - 2024-05-06 — Reported by the Committee on Science, Space, and Technology. H. Rept. 118-483, Part I.
 - 2024-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-18 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-298.
+- 2024-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-298.
+- 2024-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.
