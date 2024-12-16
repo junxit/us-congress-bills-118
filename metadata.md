@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9124
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9124
@@ -16,7 +16,7 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Cosponsors (26)
+## Cosponsors (40)
 
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Harder, Josh [D-CA-9] (H001090)
@@ -44,6 +44,20 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Jacobs, Sara [D-CA-51] (J000305)
 - Rep. Vargas, Juan [D-CA-52] (V000130)
+- Rep. Thompson, Mike [D-CA-4] (T000460)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Aguilar, Pete [D-CA-33] (A000371)
+- Rep. McClintock, Tom [R-CA-5] (M001177)
+- Rep. Matsui, Doris O. [D-CA-7] (M001163)
+- Rep. Swalwell, Eric [D-CA-14] (S001193)
+- Rep. Bera, Ami [D-CA-6] (B001287)
+- Rep. Garamendi, John [D-CA-8] (G000559)
+- Rep. Peters, Scott H. [D-CA-50] (P000608)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Porter, Katie [D-CA-47] (P000618)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
 
 ## Committees (1)
 
@@ -54,3 +68,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2024-07-24 — Introduced in House
 - 2024-07-24 — Introduced in House
 - 2024-07-24 — Referred to the House Committee on Veterans' Affairs.
+- 2024-08-28 — Referred to the Subcommittee on Health.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7178-7179)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9124.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7178)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7178)
