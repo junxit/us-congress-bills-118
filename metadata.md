@@ -1,7 +1,7 @@
 ---
 measure: S. 465
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 465
@@ -34,3 +34,5 @@ BADGES for Native Communities Act
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-244.
 - 2024-11-18 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-244.
 - 2024-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
+- 2024-12-16 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7054-7056; text: CR S7054-7056)
+- 2024-12-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
