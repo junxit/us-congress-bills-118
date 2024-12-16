@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4748
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -167,4 +167,3 @@ The Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) is amended by a
 >   - **(2)** *Proceeds and income* The proceeds and income from the principal of a trust established under paragraph (1) shall—
 >     - **(A)** first be applied to the support of those enrollees, and the descendants of the enrollees, who are elders or minor children; and
 >     - **(B)** thereafter to the support of all other enrollees.
-> - **(e)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $12,500,000, to be used by the Secretary to provide 5 grants in the amount of $2,500,000 each, to be used only for activities that support the implementation of this section, including planning and development.
