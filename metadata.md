@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7224
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7224
@@ -39,3 +39,9 @@ To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, an
 - 2024-05-22 — Placed on the Union Calendar, Calendar No. 431.
 - 2024-05-22 — Reported by the Committee on Energy and Commerce. H. Rept. 118-519.
 - 2024-05-22 — Reported by the Committee on Energy and Commerce. H. Rept. 118-519.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7164-7166)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7224.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bucshon moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7164)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7164)
