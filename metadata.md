@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4534
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4534
@@ -71,3 +71,9 @@ Women and Lung Cancer Research and Preventive Services Act of 2024
 - 2024-07-30 — Placed on the Union Calendar, Calendar No. 520.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-622.
 - 2024-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 118-622.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7166-7167)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4534.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
+- 2024-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7166)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7166)
