@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9489
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9489
@@ -34,3 +34,9 @@ Advisory Committee on the Records of Congress Sunset Act of 2024
 - 2024-09-17 — Placed on the Union Calendar, Calendar No. 579.
 - 2024-09-17 — Reported by the Committee on House Administration. H. Rept. 118-684.
 - 2024-09-17 — Reported by the Committee on House Administration. H. Rept. 118-684.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7153)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9489.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7153)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7153)
