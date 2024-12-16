@@ -1,7 +1,7 @@
 ---
 measure: H.R. 255
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 255
@@ -39,3 +39,7 @@ Federal Disaster Assistance Coordination Act
 - 2023-01-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H293-294)
 - 2023-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H293-294)
 - 2023-01-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-297.
+- 2024-12-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-297.
+- 2024-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 703.
