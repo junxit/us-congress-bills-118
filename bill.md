@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3293
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -31,8 +31,10 @@ This Act may be cited as the “Expediting Federal Broadband Deployment Reviews 
   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
     - **(A)** the Committee on Energy and Commerce of the House of Representatives;
     - **(B)** the Committee on Natural Resources of the House of Representatives;
-    - **(C)** the Committee on Commerce, Science, and Transportation of the Senate; and
-    - **(D)** the Committee on Environment and Public Works of the Senate.
+    - **(C)** the Committee on Commerce, Science, and Transportation of the Senate;
+    - **(D)** the Committee on Environment and Public Works of the Senate;
+    - **(E)** the Committee on Agriculture of the House of Representatives; and
+    - **(F)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
   - **(2)** *Assistant Secretary* The term Assistant Secretary means the Assistant Secretary of Commerce for Communications and Information.
   - **(3)** *Communications facility* The term communications facility has the meaning given the term communications facility installation in section 6409(d) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(d)).
   - **(4)** *Communications use* The term communications use means the placement and operation of a communications facility.
