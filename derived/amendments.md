@@ -1,7 +1,7 @@
 ---
 measure: S. 1253
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `19 U.S.C. § 4451` | replace | in paragraph (3), by striking “and an assessment” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 4451` | redesignate | by redesignating paragraphs (4) through (12) as paragraphs (5) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4451` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4451` | redesignate | in paragraph (5), as redesignated by paragraph (2), by inserting after “the report” the following: “, including the locations of such services and the total hours of reimbursable services under the agreement, if any”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 4451` | replace | in paragraph (3), by striking “and an assessment” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 4451` | redesignate | by redesignating paragraphs (4) through (12) as paragraphs (5) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 4451` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
