@@ -1,7 +1,7 @@
 ---
 measure: S. 5465
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5465
@@ -28,3 +28,7 @@ A bill to clarify where court may be held for certain district courts in Texas a
 
 - 2024-12-10 — Introduced in Senate
 - 2024-12-10 — Read twice and referred to the Committee on the Judiciary.
+- 2024-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7057-7058; text: CR S7058)
+- 2024-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
