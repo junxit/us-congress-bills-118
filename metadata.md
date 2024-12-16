@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1377
@@ -44,3 +44,9 @@ Promoting United States Wireless Leadership Act of 2023
 - 2024-12-11 — Placed on the Union Calendar, Calendar No. 699.
 - 2024-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-860, Part I.
 - 2024-12-11 — Reported by the Committee on Energy and Commerce. H. Rept. 118-860, Part I.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7157-7159)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1377.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Latta moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7157-7158)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7157-7158)
