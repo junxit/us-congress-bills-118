@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8150
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `6 U.S.C. § 211` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 211` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 211` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 232` | insert | Section 422(a) of the Homeland Security Act of 2002 (6 U.S.C. 232(a)) is amended by inserting “section 411(o)(3) of this Act and” after “Administrator under”. | the bill quotes the text inserted but describes where it goes |
