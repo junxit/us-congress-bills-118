@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9487
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9487
@@ -34,3 +34,9 @@ House Office of Legislative Counsel Modernization Act
 - 2024-09-16 — Placed on the House Calendar, Calendar No. 89.
 - 2024-09-16 — Reported by the Committee on House Administration. H. Rept. 118-678.
 - 2024-09-16 — Reported by the Committee on House Administration. H. Rept. 118-678.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7153-7154)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9487.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Steil moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7154)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7154)
