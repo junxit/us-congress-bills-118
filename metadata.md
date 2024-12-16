@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4955
 congress: 118
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4955
@@ -16,7 +16,7 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
@@ -31,6 +31,9 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 - Rep. Wild, Susan [D-PA-7] (W000826)
 - Rep. Cartwright, Matt [D-PA-8] (C001090)
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Joyce, John [R-PA-13] (J000302)
+- Rep. Perry, Scott [R-PA-10] (P000605)
 
 ## Committees (1)
 
@@ -41,3 +44,10 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 - 2023-07-27 — Introduced in House
 - 2023-07-27 — Introduced in House
 - 2023-07-27 — Referred to the House Committee on Veterans' Affairs.
+- 2023-08-24 — Referred to the Subcommittee on Health.
+- 2024-12-16 — Considered under suspension of the rules. (consideration: CR H7175-7177)
+- 2024-12-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4955.
+- 2024-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
+- 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
