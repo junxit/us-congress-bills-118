@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3293
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3293
@@ -20,11 +20,12 @@ Expediting Federal Broadband Deployment Reviews Act
 
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (3)
+## Committees (4)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Expediting Federal Broadband Deployment Reviews Act
 - 2024-12-16 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2024-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7159-7160)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7159-7160)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
