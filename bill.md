@@ -32,36 +32,61 @@ This Act may be cited as the “Generalized System of Preferences Reform Act”.
 
 ## § 3. Modifications to designations of beneficiary countries
 
-Section 502 of the Trade Act of 1974 (19 U.S.C. 2462) is amended as follows:
+- **(a)** *Modifications to designation eligibility* Section 502 of the Trade Act of 1974 (19 U.S.C. 2462) is amended as follows:
+  - **(1)** In subsection (b)(1), by adding at the end the following new subparagraph:
+    > - **(J)** China.
 
-- **(1)** In subsection (b)(1), by adding at the end the following new subparagraph:
-  > - **(J)** China.
+  - **(2)** In subsection (b)(2)—
+    - **(A)** by inserting after subparagraph (H) the following:
+      > - **(I)** Such country has failed, in a manner affecting trade or investment—
+      >   - **(i)** to effectively enforce its environmental laws or regulations through a sustained or recurring course of action or inaction; or
+      >   - **(ii)** to adopt and maintain measures implementing its obligations under common multilateral environmental agreements.
+      > - **(J)** Such country engages in gross violations of internationally recognized human rights in that country (including any designated zone in that country).
 
-- **(2)** In subsection (b)(2)—
-  - **(A)** by inserting after subparagraph (H) the following:
-    > - **(I)** Such country engages in gross violations of internationally recognized human rights in that country (including any designated zone in that country).
+    - **(B)** in the text following subparagraph (J) (as inserted by subparagraph (A)), by striking “and (H) (to the extent described in section 507(6)(D))” and inserting “(H) (to the extent described in section 507(6)(D)), (I), and (J)”.
+  - **(3)** In subsection (c)—
+    - **(A)** in paragraph (6)(B), by striking “; and” and inserting a semicolon;
+    - **(B)** in paragraph (7)—
+      - **(i)** by striking “whether” and all that follows through “afford” and inserting “the extent to which such country is affording”; and
+      - **(ii)** by striking the period at the end and inserting a semicolon; and
+    - **(C)** by adding at the end the following new paragraphs:
+      > - **(8)** the extent to which such country allows, after the date of the enactment of this paragraph, construction of military bases by a covered nation (as such term is defined in section 4872 of title 10, United States Code);
+      > - **(9)** the extent to which such country—
+      >   - **(A)** provides open and equitable market access for United States agriculture, including through the adoption of science-based standards;
+      >   - **(B)** refrains from imposing unjustified trade restrictions that affect new agricultural technologies, including biotechnology;
+      >   - **(C)** refrains from providing domestic agricultural subsidies that decrease market opportunities for United States exports; and
+      >   - **(D)** refrains from imposing prohibitions on the generic use of common food and beverage terms;
+      > - **(10)** the extent to which such country is deepening its economic, diplomatic, and military relations with covered nations (as such term is defined in section 4872 of title 10, United States Code);
+      > - **(11)** the extent to which such country has established, or is making continual progress toward establishing—
+      >   - **(A)** the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
+      >   - **(B)** economic policies to reduce poverty, increase the availability of health care and educational opportunities, expand physical infrastructure, promote the development of private enterprise, and encourage the formation of capital markets through micro-credit or other programs; and
+      >   - **(C)** a system to combat corruption and bribery, such as signing and implementing the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, done at Paris December 17, 1997, and entered into force February 15, 1999 (TIAS 99–215);
+      > - **(12)** the extent to which such country provides equitable and non-discriminatory tax treatment for United States entities;
+      > - **(13)** the extent to which such country is effectively enforcing its environmental laws and regulations and adopting and maintaining measures implementing its obligations under common multilateral environmental agreements;
+      > - **(14)** the extent to which such country is achieving the goals described in section 3(b) of the Women’s Entrepreneurship and Economic Empowerment Act of 2018 (22 U.S.C. 2151–2(b));
+      > - **(15)** whether such country engages in activities that undermine United States national security or foreign policy interests; and
+      > - **(16)** the extent to which such country—
+      >   - **(A)** has imposed unreasonable digital trade barriers, such as unnecessary or discriminatory data localization or data transfer restrictions, discriminatory treatment of digital products, or forced disclosure of proprietary source code; and
+      >   - **(B)** has taken steps in the digital environment to support consumer protections, the privacy of personal information, and open digital ecosystems.
 
-  - **(B)** in the text following subparagraph (I) (as inserted by subparagraph (A)), by striking “and (H) (to the extent described in section 507(6)(D))” and inserting “(H) (to the extent described in section 507(6)(D)) and (I)”.
-- **(3)** In subsection (c)—
-  - **(A)** in paragraph (6)(B), by striking “; and” and inserting a semicolon;
-  - **(B)** in paragraph (7), by striking the period at the end and inserting a semicolon; and
-  - **(C)** by adding at the end the following new paragraphs:
-    > - **(8)** the extent to which such country allows, after the date of the enactment of this paragraph, construction of military bases by a covered nation (as such term is defined in section 4872 of title 10, United States Code);
-    > - **(9)** the extent to which such country—
-    >   - **(A)** provides open and equitable market access for United States agriculture, including through the adoption of science-based standards;
-    >   - **(B)** refrains from imposing unjustified trade restrictions that affect new agricultural technologies, including biotechnology;
-    >   - **(C)** refrains from providing domestic agricultural subsidies that decrease market opportunities for United States exports; and
-    >   - **(D)** refrains from imposing prohibitions on the generic use of common food and beverage terms;
-    > - **(10)** the extent to which such country is deepening its economic, diplomatic, and military relations with covered nations (as such term is defined in section 4872 of title 10, United States Code);
-    > - **(11)** the extent to which such country has established, or is making continual progress toward establishing—
-    >   - **(A)** the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
-    >   - **(B)** economic policies to reduce poverty, increase the availability of health care and educational opportunities, expand physical infrastructure, promote the development of private enterprise, and encourage the formation of capital markets through micro-credit or other programs; and
-    >   - **(C)** a system to combat corruption and bribery, such as signing and implementing the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, done at Paris December 17, 1997, and entered into force February 15, 1999 (TIAS 99–215);
-    > - **(12)** the extent to which such country provides equitable and non-discriminatory tax treatment for United States entities;
-    > - **(13)** whether such country engages in activities that undermine United States national security or foreign policy interests; and
-    > - **(14)** the extent to which such country—
-    >   - **(A)** has imposed unreasonable digital trade barriers, such as unnecessary or discriminatory data localization or data transfer restrictions, discriminatory treatment of digital products, or forced disclosure of proprietary source code; and
-    >   - **(B)** has taken steps in the digital environment to support consumer protections, the privacy of personal information, and open digital ecosystems;
+- **(b)** *Conforming amendments* Section 507 of the Trade Act of 1974 (19 U.S.C. 2467) is amended—
+  - **(1)** in paragraph (4)—
+    - **(A)** in subparagraph (D), by striking “; and” and inserting a semicolon;
+    - **(B)** in subparagraph (E), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(F)** the elimination of all forms of discrimination with respect to occupation and employment.
+
+  - **(2)** by adding at the end the following:
+    > - **(7)** *Common multilateral environmental agreement*
+    >   - **(A)** *In general* The term common multilateral environmental agreement, for purposes of determining the eligibility of a country for designation as a beneficiary developing country under this title, means any agreement specified in subparagraph (B) to which both the United States and that country are full parties, including any current or future mutually agreed upon protocols, amendments, annexes, or adjustments to such an agreement.
+    >   - **(B)** *Agreements specified* The agreements specified in this subparagraph are the following:
+    >     - **(i)** The Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249).
+    >     - **(ii)** The Montreal Protocol on Substances that Deplete the Ozone Layer, done at Montreal September 16, 1987.
+    >     - **(iii)** The Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, done at London February 17, 1978.
+    >     - **(iv)** The Convention on Wetlands of International Importance, Especially as Waterfowl Habitat, done at Ramsar February 2, 1971 (TIAS 11084).
+    >     - **(v)** The Convention on the Conservation of Antarctic Marine Living Resources, done at Canberra May 20, 1980 (33 UST 3476).
+    >     - **(vi)** The International Convention for the Regulation of Whaling, done at Washington December 2, 1946 (62 Stat. 1716).
+    >     - **(vii)** The Convention for the Establishment of an Inter-American Tropical Tuna Commission, done at Washington May 31, 1949 (1 UST 230).
 
 ## § 4. Modification of provisions relating to withdrawal, suspension, or limitation of country designation
 
@@ -192,6 +217,6 @@ Section 502 of the Trade Act of 1974, as amended by sections 3 through 5, is fur
 ## § 10. Extension of Customs User Fees
 
 - **(a)** *In general* Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
-  - **(1)** in subparagraph (A), by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’; and
-  - **(2)** in subparagraph (B)(i), by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’.
-- **(b)** *Rate for merchandise processing fees* Section 503 of the United States-Korea Free Trade Agreement Implementation Act (Public Law 112–41; 19 U.S.C. 3805 note) is amended by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’.
+  - **(1)** in subparagraph (A), by striking “September 30, 2031” and inserting “September 30, 2033”; and
+  - **(2)** in subparagraph (B)(i), by striking “September 30, 2031” and inserting “September 30, 2033”.
+- **(b)** *Rate for merchandise processing fees* Section 503 of the United States-Korea Free Trade Agreement Implementation Act (Public Law 112–41; 19 U.S.C. 3805 note) is amended by striking “September 30, 2031” and inserting “September 30, 2033”.

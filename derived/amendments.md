@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7986
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 8 executed, 21 stated and not applied.
+34 amendatory instructions. 12 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,21 @@ to guess them.
 
 ### 19 U.S.C. § 2462
 
-> in the text following subparagraph (I) (as inserted by subparagraph (A)), by striking “and (H) (to the extent described in section 507(6)(D))” and inserting “(H) (to the extent described in section 507(6)(D)) and (I)”.
+> in the text following subparagraph (J) (as inserted by subparagraph (A)), by striking “and (H) (to the extent described in section 507(6)(D))” and inserting “(H) (to the extent described in section 507(6)(D)), (I), and (J)”.
 
 | | |
 |---|---|
 | Removed | `and (H) (to the extent described in section 507(6)(D))` |
-| Inserted | `(H) (to the extent described in section 507(6)(D)) and (I)` |
+| Inserted | `(H) (to the extent described in section 507(6)(D)), (I), and (J)` |
+
+### 22 U.S.C. § 2151-2
+
+> by striking “whether” and all that follows through “afford” and inserting “the extent to which such country is affording”; and
+
+| | |
+|---|---|
+| Removed | `whether” and all that follows through “afford` |
+| Inserted | `the extent to which such country is affording` |
 
 ### 19 U.S.C. § 2463
 
@@ -96,6 +105,33 @@ to guess them.
 | Removed | `$500,000` |
 | Inserted | `2.5 percent of such applicable amount` |
 
+### 19 U.S.C. § 58c
+
+> in subparagraph (A), by striking “September 30, 2031” and inserting “September 30, 2033”; and
+
+| | |
+|---|---|
+| Removed | `September 30, 2031` |
+| Inserted | `September 30, 2033` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (B)(i), by striking “September 30, 2031” and inserting “September 30, 2033”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2031` |
+| Inserted | `September 30, 2033` |
+
+### 19 U.S.C. § 3805
+
+> Section 503 of the United States-Korea Free Trade Agreement Implementation Act (Public Law 112–41; 19 U.S.C. 3805 note) is amended by striking “September 30, 2031” and inserting “September 30, 2033”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2031` |
+| Inserted | `September 30, 2033` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -107,9 +143,13 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `19 U.S.C. § 2462` | add-at-end | In subsection (b)(1), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2462` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2462` | replace | in paragraph (6)(B), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 2462` | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2462` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151-2` | replace | in paragraph (6)(B), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2151-2` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151-2` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2467` | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2467` | replace | in subparagraph (E), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 2467` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2467` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “the President shall consider the factors” and inserting | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -123,6 +163,3 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2463` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2463` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2463` | add-at-end | in subsection (d)(4)(B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 58c` | replace | in subparagraph (A), by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 58c` | replace | in subparagraph (B)(i), by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 3805` | replace | Section 503 of the United States-Korea Free Trade Agreement Implementation Act (Public Law 112–41; 19 U.S.C. 3805 note) is amended by striking ‘‘September 30, 2031’’ and inserting ‘‘September 30, 2033’’. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
