@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1101
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -77,7 +77,3 @@ The Act of June 7, 1956 (70 Stat. 254, chapter 375), is amended—
   >   - **(1)** *In general* Subject to paragraph (2), the Secretary may accept on behalf of the United States, after consulting with the Attorney General of the United States, any transfer by the State of North Carolina to the United States of any portion of the jurisdiction of the State of North Carolina described in subsection (a) over Indian country occupied by the Tribe pursuant to an agreement between the Tribe and the State of North Carolina.
   >   - **(2)** *Restriction* A transfer of jurisdiction described in paragraph (1) may not take effect until 2 years after the effective date of the agreement described in that paragraph.
   > - **(c)** *Effect* Nothing in this section affects the application of section 109 of the Indian Child Welfare Act of 1978 (25 U.S.C. 1919).
-  >
-  > ## § 8. Authorization of appropriations
-  >
-  > There are authorized to be appropriated such sums as are necessary to carry out this Act.
