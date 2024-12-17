@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9489
 congress: 118
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9489
@@ -40,3 +40,4 @@ Advisory Committee on the Records of Congress Sunset Act of 2024
 - 2024-12-16 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7153)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7153)
+- 2024-12-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 716.
