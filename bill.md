@@ -26,13 +26,13 @@ Congress makes the following findings:
 
 ## § 3. Investigation
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Forced Labor Enforcement Task Force, established under section 741 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4681), in consultation with the heads of other relevant Federal agencies, shall complete and submit to the appropriate congressional committees the results of an investigation into alleged use of forced labor in the cobalt mining industry of the DRC that—
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Forced Labor Enforcement Task Force, established under section 741 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4681), in consultation with the heads of other relevant Federal agencies, shall complete and submit to the appropriate congressional committees the results of an investigation into the alleged use of forced labor in the cobalt mining industry of the DRC that—
   - **(1)** contains a strategy for the United States Government to effectively enforce section 307 of the Tariff Act of 1930 (19 U.S.C. 1307) to prevent the importation into the United States of cobalt mined by forced labor that includes measures that—
     - **(A)** can trace the origin of goods and offer greater supply chain transparency relating to cobalt from the DRC; and
     - **(B)** ensure that cobalt mined by forced labor does not enter the United States;
   - **(2)** contains a strategy to ensure that cobalt mined by forced labor does not enter the United States market as goods imported from third countries; and
   - **(3)** contains a strategy to ensure that cobalt mined by forced labor denied entry to the United States market does not later enter the United States market.
-- **(b)** *Matters To be included* The investigation required by subsection (a) shall include the following:
+- **(b)** *Matters to be included* The investigation required by subsection (a) shall include the following:
   - **(1)** A list of—
     - **(A)** entities in the DRC that potentially mine or process cobalt using forced labor; and
     - **(B)** categories of downstream products that include cobalt mined in the DRC and are, therefore, identified as priority sectors for enforcement under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307).

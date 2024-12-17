@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7981
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7981
@@ -25,3 +25,8 @@ Stop China’s Exploitation of Congolese Children and Adult Forced Labor through
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Introduced in House
 - 2024-04-15 — Referred to the House Committee on Ways and Means.
+- 2024-04-17 — Committee Consideration and Mark-up Session Held
+- 2024-04-17 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 30 - 12.
+- 2024-12-17 — Placed on the Union Calendar, Calendar No. 730.
+- 2024-12-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-895.
+- 2024-12-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-895.
