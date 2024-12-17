@@ -1,0 +1,15 @@
+---
+legis-num: S. 5575
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5575
+
+> To designate the Patsye Crites Forest.
+
+## § 1. Designation of Patsye Crites Forest
+
+- **(a)** *Designation* On acquisition by the United States, the approximately 2,693.31 acres of land within the Monongahela National Forest identified on the map prepared by the Forest Service entitled “Blackwater Canyon” and dated August 5, 2024, shall be known and designated as the “Patsye Crites Forest”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the land acquired under subsection (a) shall be deemed to be a reference to the “Patsye Crites Forest”.
