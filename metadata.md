@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9595
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 9595
@@ -35,3 +35,4 @@ FIT Procurement Act
 - 2024-12-16 — Mr. Burlison moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7212-7214)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7212-7214)
+- 2024-12-17 — Received in the Senate.
