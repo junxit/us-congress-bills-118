@@ -1,7 +1,7 @@
 ---
 measure: S. 3926
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3926
@@ -16,6 +16,11 @@ Stop Secret Spending Act of 2024
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
+## Cosponsors (2)
+
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +29,7 @@ Stop Secret Spending Act of 2024
 
 - 2024-03-12 — Introduced in Senate
 - 2024-03-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-301.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-301.
+- 2024-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.

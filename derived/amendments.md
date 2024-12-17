@@ -1,7 +1,7 @@
 ---
 measure: S. 3926
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 5 executed, 4 stated and not applied.
+22 amendatory instructions. 12 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,6 +69,69 @@ to guess them.
 | Removed | `to be posted` |
 | Inserted | `to be posted by a Federal agency or a component of a Federal agency included on the list posted under subsection (e)(2)` |
 
+### 31 U.S.C. § 6101
+
+> in subparagraph (B), by striking “(2)(A)(i)” and inserting “(4)(A)(i)”; and
+
+| | |
+|---|---|
+| Removed | `(2)(A)(i)` |
+| Inserted | `(4)(A)(i)` |
+
+### 31 U.S.C. § 6101
+
+> in subparagraph (C), by striking “(2)(A)(ii)” and inserting “(4)(A)(ii)”.
+
+| | |
+|---|---|
+| Removed | `(2)(A)(ii)` |
+| Inserted | `(4)(A)(ii)` |
+
+### 31 U.S.C. § 6101
+
+> in the matter preceding subparagraph (A), by striking “each Federal agency” and inserting “each agency described in paragraphs (1) and (2) of section 901(b) of title 31, United States Code”;
+
+| | |
+|---|---|
+| Removed | `each Federal agency` |
+| Inserted | `each agency described in paragraphs (1) and (2) of section 901(b) of title 31, United States Code` |
+
+### 31 U.S.C. § 6101
+
+> in subparagraph (A), by striking “Federal agency” and inserting “agency”; and
+
+| | |
+|---|---|
+| Removed | `Federal agency` |
+| Inserted | `agency` |
+
+### 31 U.S.C. § 6101
+
+> in subparagraph (B), by striking “Federal agency” and inserting “agency”; and
+
+| | |
+|---|---|
+| Removed | `Federal agency` |
+| Inserted | `agency` |
+
+### 31 U.S.C. § 6101
+
+> paragraph (1), in the matter preceding subparagraph (A), by striking “a Federal agency or component of a Federal agency” and inserting “a Federal agency or a component of a Federal agency included on the list posted under subsection (e)(2)”; and
+
+| | |
+|---|---|
+| Removed | `a Federal agency or component of a Federal agency` |
+| Inserted | `a Federal agency or a component of a Federal agency included on the list posted under subsection (e)(2)` |
+
+### 31 U.S.C. § 6101
+
+> in paragraph (2)(B), in the matter preceding clause (i), by striking “to be posted” and inserting “to be posted by a Federal agency or a component of a Federal agency included on the list posted under subsection (e)(2)”; and
+
+| | |
+|---|---|
+| Removed | `to be posted` |
+| Inserted | `to be posted by a Federal agency or a component of a Federal agency included on the list posted under subsection (e)(2)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -81,4 +144,10 @@ complete account of the bill's effect, which it is not.
 | `31 U.S.C. § 6101` | add-at-end | Section 4 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | Section 2(a) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | replace | Section 6(a) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | amend | in clause (ii), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | Section 4 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | add-at-end | Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
