@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4955
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4955
@@ -53,3 +53,14 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
 - 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7316)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-02 — Became Public Law No: 118-215.
+- 2025-01-02 — Became Public Law No: 118-215.
+- 2025-01-02 — Signed by President.
+- 2025-01-02 — Signed by President.
