@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8667
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8667
@@ -31,9 +31,10 @@ To rename the community-based outpatient clinic of the Department of Veterans Af
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 - Rep. Slotkin, Elissa [D-MI-7] (S001208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To rename the community-based outpatient clinic of the Department of Veterans Af
 - 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7177)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7177)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
