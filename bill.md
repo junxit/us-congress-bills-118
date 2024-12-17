@@ -1,0 +1,112 @@
+---
+legis-num: H.R. 10459
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10459
+
+> To establish the Joint Task Force to Counter the Illicit Synthetic Narcotics.
+
+## § 1. Short title
+
+This Act may be cited as the “Joint Task Force to Counter Illicit Synthetic Narcotics Act of 2024”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The United States is experiencing a crisis of substance abuse and addiction resulting in the deaths of hundreds of thousands of Americans. Most of these deaths involve some form of opioids.
+- **(2)** There are many elements of Federal, State, territorial, Tribal, and local governments working to combat the opioid epidemic.
+- **(3)** No central entity exists at the appropriate level whereby different agencies can share information and coordinate efforts to combat the opioid crisis.
+
+## § 3. Establishment of joint task force to counter illicit synthetic narcotics
+
+- **(a)** *In general* There is established a Joint Task Force to Counter Illicit Synthetic Narcotics (hereby referred to as “JTF–ISN”).
+- **(b)** *Membership* The JTF–ISN shall include representation from each of the following entities:
+  - **(1)** The Department of Justice including the—
+    - **(A)** Drug Enforcement Administration;
+    - **(B)** Federal Bureau of Investigation; and
+    - **(C)** Assistant U.S. Attorneys and Trial Attorneys, as the Director deems appropriate.
+  - **(2)** The Department of the Treasury including the—
+    - **(A)** Counter-Fentanyl Strike Force;
+    - **(B)** Internal Revenue Service Criminal Investigation;
+    - **(C)** Financial Crimes Enforcement Network;
+    - **(D)** Office of Foreign Assets Control; and
+    - **(E)** Office of Intelligence and Analysis.
+  - **(3)** The Department of Homeland Security including—
+    - **(A)** Homeland Security Investigations;
+    - **(B)** U.S. Customs and Border Protection including the National Targeting Center;
+    - **(C)** Immigration and Customs Enforcement (ICE); and
+    - **(D)** the United States Coast Guard.
+  - **(4)** The Department of State.
+  - **(5)** The Department of Commerce.
+  - **(6)** The Department of Defense.
+  - **(7)** The Office of the Director of National Intelligence.
+  - **(8)** Any other agency the Director deems appropriate (collectively the “JTF–ISN Members”).
+- **(c)** *Director of joint task force to illicit synthetic narcotics*
+  - **(1)** The JTF–ISN shall be led by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
+  - **(2)** The Director shall report directly to the Attorney General.
+  - **(4)** The Director shall be compensated at the rate of basic pay prescribed for level II of the Executive Schedule under section 5313 of title 5, United States Code.
+- **(d)** *Reporting*
+  - **(1)** The Director of the JTF–ISN shall report to the Attorney General on matters related to the budget, programs, and activities of the JTF–ISN, and to the President on the planning and progress of joint counter-illicit synthetic narcotics operations.
+  - **(2)** The Director shall submit a report, and upon request of the chairman or ranking member of any such committee, a briefing to the Committee on the Judiciary and the Committee on Homeland Security of the House of Representatives and the Committee on the Judiciary and the Committee on Homeland Security and Governmental Affairs of the Senate—
+    - **(A)** not later than 6 months after the date of the enactment of this Act; and
+    - **(B)** every 6 months thereafter.
+  - **(3)** Each report and requested briefing shall include—
+    - **(A)** a comprehensive plan covering the 2-year period after submission of the report—
+      - **(i)** a description of the goals of the JTF–ISN;
+      - **(ii)** description of areas of improvement with respect to collaboration among the participating agencies; and
+      - **(iii)** an estimate of the funding and staff needed for the continued work of the JTF–ISN;
+    - **(B)** a statement of the budget priorities of the JTF–ISN for each year in that period;
+    - **(C)** a description of the efforts of the JTF–ISN to investigate and prosecute illicit synthetic narcotics trafficking crimes, including raids conducted, assets seized, assets forfeited and indictments brought and convictions; and
+    - **(D)** efforts of the JTF–ISN to address matters related to the role of the People’s Republic of China in the opioids crisis.
+
+## § 4. Primary missions of JTF–ISN
+
+The primary mission of the JTF–ISN shall be to direct counter opioid and synthetic narcotics activities, including disruption activities and associated investigations, and provide strategic coordination on related activities, including but not limited to sanctions enforcement, conducting joint operations, raids, and other tactical actions in coordination with Federal, State, territorial, Tribal, and local law enforcement agencies through memorandums of understanding. This support includes legal actions against traffickers and foreign entities, particularly in the People’s Republic of China, complicit in the opioid trade.
+
+## § 5. Authority and limitations
+
+- **(a)** *Authority* The JTF–ISN shall be vested with power and authority to—
+  - **(1)** investigate and prosecute violations of Federal law relating to the trafficking of illicit synthetic narcotics; related offenses, such as money laundering and other financial crimes, smuggling, and false statements; as well as any matters that arise or might arise directly from its investigations;
+  - **(2)** in the case of a prosecution relating to non-U.S. persons outside of the United States, the JTF–ISN shall bring the case either in the district where the crime was committed or in the district where the Drug Enforcement Administration is located;
+  - **(3)** facilitate the sharing of information between JTF–ISN Members in a timely manner;
+  - **(4)** establish protocols for interagency referrals and procedures for referring cases to prosecuting and sanctions designating authorities as appropriate;
+  - **(5)** develop strategies to address the role of the People’s Republic of China in the illicit synthetic narcotics crisis;
+  - **(6)** work cooperatively with State, territorial, Tribal, and local law enforcement agencies to combat and prosecute trafficking of illicit synthetic narcotics;
+  - **(7)** assess and improve existing methods of investigating and prosecuting illicit synthetic narcotics trafficking crimes; and
+  - **(8)** conduct direct operational activities, including joint operations, raids, and other tactical actions, to disrupt illicit synthetic narcotics trafficking networks and bring offenders to justice.
+- **(b)** *Limitation* The Director of the JTF–ISN may not direct the execution of operational activities outside the scope of counter-opioid efforts related to illicit synthetic narcotics suppliers and their networks pursuant to the primary missions of the JTF–ISN.
+
+## § 6. Resolution of disputes
+
+The Attorney General shall resolve disagreements between the JTF–ISN and the head of a department, agency, or element of the United States Government on designations, assignments, plans, or responsibilities under this section. The head of such a department, agency, or element may appeal the resolution of the disagreement by the Attorney General to the President.
+
+## § 7. Internal structure of JTF–ISN
+
+- **(a)** *Intelligence coordination* The Director of the JTF–ISN shall establish and maintain within the JTF–ISN an intelligence coordination element which shall have primary responsibility within the United States Government for analysis of illicit synthetic narcotics and related trafficking organizations from all sources of intelligence, whether collected inside or outside the United States.
+- **(b)** *Strategic operational planning* The Director of the JTF–ISN shall establish and maintain within the JTF–ISN a strategic operational planning element which shall provide strategic operational plans for counter-opioid operations conducted by the United States Government.
+  - **(1)** Strategic operational planning shall include the mission, objectives to be achieved, tasks to be performed, interagency coordination of operational activities, and the assignment of roles and responsibilities.
+  - **(2)** The Director of the JTF–ISN shall monitor the implementation of strategic operational plans and shall obtain information from each element of the intelligence community, and from each other department, agency, or element of the United States Government relevant for monitoring the progress of such entity in implementing such plans.
+- **(c)** *Office of general counsel* The Director of the JTF–CO shall establish and maintain within the JTF–ISN an Office of General Counsel which shall provide legal advice in support of the JTF–ISN and its directorates.
+- **(d)** *Office of congressional coordination* The Director of the JTF–ISN shall establish and maintain within the JTF–ISN an Office of Congressional Coordination which shall coordinate communications of the JFT–ISN with Congress and ensure compliance with reporting and briefing obligations under this Act.
+
+## § 8. Retention of existing authorities
+
+Each of the individual JTF–ISN Members maintain their existing authorities to investigate and prosecute trafficking crimes relating to illicit synthetic narcotics.
+
+## § 9. Definitions
+
+In this Act, the term “illicit synthetic narcotics” means—
+
+- **(1)** “controlled substances,” as defined in section 802(6) of title 21, United States Code, with the exception of—
+  - **(A)** substances of natural origins; or
+  - **(B)** medications that are lawful under the laws of the United States and the Drug Enforcement Administration has provided an import permit to the importing organization for the import of said medication;
+- **(2)** “listed chemicals,” as defined in section 802 of title 21, United States Code; and
+- **(3)** active pharmaceutical ingredients or chemicals that are used in the production of controlled substances described in paragraphs (1) and (2).
+
+## § 10. Rule of construction
+
+Nothing in this Act shall be construed to authorize the Joint Task Force to Counter Illicit Synthetic Narcotics to investigate, target, or prosecute individuals for personal drug use or to pursue enforcement actions against low-level drug dealing that does not involve significant connections to larger trafficking networks. The activities of the Joint Task Force shall focus exclusively on addressing the international trafficking of illicit synthetic narcotics and their associated networks, particularly those involving significant threats to public health, national security, and the economy.
