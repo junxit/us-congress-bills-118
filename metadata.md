@@ -1,7 +1,7 @@
 ---
 measure: S. 5130
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 5130
@@ -30,3 +30,7 @@ Opioid Overdose Data Collection Enhancement Act
 
 - 2024-09-19 — Introduced in Senate
 - 2024-09-19 — Read twice and referred to the Committee on the Judiciary.
+- 2024-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7096-7097; text: CR S7096-7097)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
