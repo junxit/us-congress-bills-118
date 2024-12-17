@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9592
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 9592
@@ -39,3 +39,7 @@ Federal Register Modernization Act of 2024
 - 2024-11-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-308.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-308.
+- 2024-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 714.
