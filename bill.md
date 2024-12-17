@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3396
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,15 +16,14 @@ This Act may be cited as the “Fire Department Repayment Act of 2023”.
 ## § 2. Requirements relating to certain fire suppression cost share agreements
 
 - **(a)** *Establishment of standard operating procedures* Not later than 1 year after the date of the enactment of this section, the Secretaries shall—
-  - **(1)** establish standard operating procedures relating to fire suppression cost share agreements established under the Act of May 27, 1955 (42 U.S.C. 1856a) (commonly known as the “Reciprocal Fire Protection Act”); and
+  - **(1)** establish standard operating procedures relating to payment timelines for fire suppression cost share agreements established under the Act of May 27, 1955 (42 U.S.C. 1856a) (commonly known as the “Reciprocal Fire Protection Act”); and
   - **(2)** with respect to each fire suppression cost share agreement in operation on such date—
     - **(A)** review each such agreement; and
     - **(B)** modify each agreement as necessary to comply with the standard operating procedures required under paragraph (1).
 - **(b)** *Alignment of fire suppression cost share agreements with cooperative fire protection agreements* The standard operating procedures required under subsection (a)(1) shall include a requirement that each fire suppression cost share agreement be aligned with each of the cooperative fire protection agreements applicable to the entity subject to such fire suppression cost share agreement.
-- **(c)** *Second-Level review* The standard operating procedures required under subsection (a)(1) shall include—
-  - **(1)** a requirement that the Secretaries, to the maximum extent practicable, complete reviews, including second-level reviews of a fire suppression cost share agreement, as soon as practicable after a wildfire relating to the area covered by such fire suppression cost share agreement is contained; and
-  - **(2)** a requirement that in completing such reviews, the Secretaries consults with State and local fire suppression organizations.
-- **(d)** *Secretaries defined* In this section, the term Secretaries means—
+- **(c)** *Payments pursuant to cost share agreements* With respect to payments made pursuant to fire suppression cost share agreements, the standard operating procedures required under subsection (a)(1) shall require that the Federal paying entity reimburse a local fire department if such fire department submits an invoice in accordance with cost settlement procedures.
+- **(d)** *Sense of Congress* It is the sense of Congress that the Secretaries should carry out reciprocal fire suppression cost share agreement repayments to local fire suppression organizations as soon as practicable after fire suppression occurs but not later than 1 year after fire suppression occurs.
+- **(e)** *Secretaries defined* In this section, the term Secretaries means—
   - **(1)** the Secretary of Agriculture;
   - **(2)** the Secretary of the Interior;
   - **(3)** the Secretary of Homeland Security; and
