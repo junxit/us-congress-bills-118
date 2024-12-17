@@ -1,7 +1,7 @@
 ---
 measure: S. 4654
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4654
@@ -32,3 +32,5 @@ Fire Management Assistance Grants for Tribal Governments Act
 - 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-237.
 - 2024-11-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-237.
 - 2024-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.
+- 2024-12-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7095; text: CR S7095)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

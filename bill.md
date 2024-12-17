@@ -26,7 +26,7 @@ This Act may be cited as the “Fire Management Assistance Grants for Tribal Gov
 
 - **(b)** *Regulations*
   - **(1)** *Fire management assistance declaration defined* In this subsection, the term fire management assistance declaration means a declaration approved under section 204.21(a) of title 44, Code of Federal Regulations.
-  - **(2)** *Update* Not later than 360 days after the date of enactment of this Act, the President shall issue regulations updating part 204 of title 44, Code of Federal Regulations, to carry out the amendments made by subsection (a).
+  - **(2)** *Update* Not later than 1 year after the date of enactment of this Act, the President shall issue regulations updating part 204 of title 44, Code of Federal Regulations, to carry out the amendments made by subsection (a).
   - **(3)** *Contents* In issuing the regulations required under paragraph (2), the President shall—
     - **(A)** authorize the Federal Emergency Management Agency to directly receive a request for a fire management assistance declaration from an Indian tribal government and directly provide related grants and resources to Indian tribal governments;
     - **(B)** clarify that Indian tribal governments for which the President does not grant a request described in subparagraph (A) remain eligible to receive assistance under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187) through assistance granted under a fire management assistance declaration made at the request of a State;
