@@ -29,7 +29,6 @@ In this Act:
 - **(5)** *Secretaries* The term Secretaries means—
   - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service; and
   - **(B)** the Secretary of the Interior.
-- **(6)** *State* The term State means each of the several States, the District of Columbia, and each territory and possession of the United States.
 
 ## § 3. Interagency data standardization
 
@@ -52,7 +51,8 @@ Not later than 30 months after the date of enactment of this Act, the Secretarie
     - **(F)** amphibious aircraft;
     - **(G)** hovercraft;
     - **(H)** oversnow vehicles and other motorized vehicles on frozen bodies of water; and
-    - **(I)** oceangoing ships.
+    - **(I)** oceangoing ships; and
+  - **(7)** citations documenting the source of the restrictions.
 - **(b)** *Federal waterway access and navigation information* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway access and navigation information—
   - **(1)**
     - **(A)** the location of boat ramps, portages, and fishing access sites under the authority of the Federal land or water management agency; and
@@ -76,7 +76,7 @@ Not later than 30 months after the date of enactment of this Act, the Secretarie
 
 - **(a)** *Community partners and third-party providers* For purposes of carrying out this Act, the Secretaries may—
   - **(1)** coordinate and partner with non-Federal agencies and private sector and nonprofit partners, including—
-    - **(A)** State natural resource agencies;
+    - **(A)** State, territorial, and District of Columbia natural resource agencies;
     - **(B)** Tribal natural resource agencies;
     - **(C)** technology companies;
     - **(D)** geospatial data companies; and
@@ -87,7 +87,7 @@ Not later than 30 months after the date of enactment of this Act, the Secretarie
 
 ## § 6. Reports
 
-Not later than 1 year after the date of enactment of this Act and annually thereafter through March 30, 2034, the Secretaries shall submit a report that describes the progress made by the Secretaries with respect to meeting the requirements of this Act to—
+Not later than 1 year after the date of enactment of this Act and annually thereafter through March 30, 2033, the Secretaries shall submit a report that describes the progress made by the Secretaries with respect to meeting the requirements of this Act to—
 
 - **(1)** the Committee on Energy and Natural Resources of the Senate;
 - **(2)** the Committee on Agriculture, Nutrition, and Forestry of the Senate;
@@ -102,4 +102,4 @@ Nothing in this Act—
 - **(1)** modifies or alters the definition of the term navigable waters under Federal law;
 - **(2)** affects the jurisdiction or authority of State or Federal agencies to regulate navigable waters;
 - **(3)** modifies or alters the authority or jurisdiction of Federal or State agencies to manage fisheries; or
-- **(4)** authorizes the closing of or restriction of access to waters open to hunting, fishing, or other forms of outdoor recreation as of the date of the enactment of this Act.
+- **(4)** authorizes or is intended to result in the closing of or restriction of access to waters open to hunting, fishing, or other forms of outdoor recreation as of the date of the enactment of this Act.

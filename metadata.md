@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6127
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6127
@@ -48,3 +48,9 @@ MAPWaters Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 687.
 - 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-842, Part I.
 - 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-842, Part I.
+- 2024-12-17 — Considered under suspension of the rules. (consideration: CR H7266-7268)
+- 2024-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6127.
+- 2024-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7266-7267)
+- 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7266-7267)
