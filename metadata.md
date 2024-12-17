@@ -1,7 +1,7 @@
 ---
 measure: S. 1097
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1097
@@ -34,3 +34,5 @@ César E. Chávez and the Farmworker Movement National Historical Park Act
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 118-133.
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. With written report No. 118-133.
 - 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
+- 2024-12-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7085-7087; text: CR S7085-7087)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

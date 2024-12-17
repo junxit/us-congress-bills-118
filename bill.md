@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1097
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -12,29 +12,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## § 1. Short title
 
 This Act may be cited as the “César E. Chávez and the Farmworker Movement National Historical Park Act”.
-
-## § 2. Findings and purpose
-
-- **(a)** *Findings* Congress finds that—
-  - **(1)** on October 8, 2012, the César E. Chávez National Monument was established by Presidential Proclamation 8884 (54 U.S.C. 320301 note) for the purposes of protecting and interpreting the nationally significant resources associated with the property in Keene, California, known as “Nuestra Señora Reina de la Paz”;
-  - **(2)** Nuestra Señora Reina de la Paz—
-    - **(A)** served as the national headquarters of the United Farm Workers; and
-    - **(B)** was the home and workplace of César E. Chávez, the family of César E. Chávez, union members, and supporters of César E. Chávez;
-  - **(3)** while the César E. Chávez National Monument marks the extraordinary achievements and contributions to the history of the United States by César Chávez and the farmworker movement, there are other significant sites in the States of California and Arizona that are important to the story of the farmworker movement; and
-  - **(4)** in the study conducted by the National Park Service entitled “César Chávez Special Resource Study and Environmental Assessment” and submitted to Congress on October 24, 2013, the National Park Service—
-    - **(A)**
-      - **(i)** found that several sites associated with César E. Chávez and the farmworker movement—
-        - **(I)** are suitable for inclusion in the National Park System; and
-        - **(II)** depict a distinct and important aspect of the history of the United States not otherwise adequately represented at existing units of the National Park System; and
-      - **(ii)** recommended that Congress establish a national historical park to honor the role that César E. Chávez played in lifting up the lives of farmworkers; and
-    - **(B)**
-      - **(i)** found that the route of the 1966 march from Delano to Sacramento, California, meets National Historic Landmark criteria;
-      - **(ii)** recommended that the potential for designation of the route as a national historic trail be further explored; and
-      - **(iii)** indicated that the National Park Service could work with partner organizations and agencies to provide for interpretation programs along the route of the 1966 march from Delano to Sacramento, California.
-- **(b)** *Purpose* The purpose of this Act is to establish the César E. Chávez and the Farmworker Movement National Historical Park—
-  - **(1)** to help preserve, protect, and interpret the nationally significant resources associated with César Chávez and the farmworker movement;
-  - **(2)** to interpret and provide for a broader understanding of the extraordinary achievements and contributions to the history of the United States made by César Chávez and the farmworker movement; and
-  - **(3)** to support and enhance the network of sites and resources associated with César Chávez and the farmworker movement.
 
 ## § 2. Purpose
 
