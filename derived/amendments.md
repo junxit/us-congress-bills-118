@@ -1,7 +1,7 @@
 ---
 measure: S. 690
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 47 U.S.C. § 163
+
+> in paragraph (5), as so redesignated, by striking “(3)” and inserting “(4)”; and
+
+| | |
+|---|---|
+| Removed | `(3)` |
+| Inserted | `(4)` |
+
+### 47 U.S.C. § 163
+
+> in paragraph (6), as so redesignated, by striking “(4)” and inserting “(5)”;
+
+| | |
+|---|---|
+| Removed | `(4)` |
+| Inserted | `(5)` |
+
+### 47 U.S.C. § 163
+
+> in subsection (c), by striking “(b)(4)” and inserting “(b)(5)”; and
+
+| | |
+|---|---|
+| Removed | `(b)(4)` |
+| Inserted | `(b)(5)` |
+
+### 47 U.S.C. § 163
+
+> in subsection (d)(3), by striking “(b)(3)” and inserting “(b)(4)”.
+
+| | |
+|---|---|
+| Removed | `(b)(3)` |
+| Inserted | `(b)(4)` |
 
 ## Stated, not applied
 
@@ -33,3 +71,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `47 U.S.C. § 163` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 163` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 163` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 163` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
