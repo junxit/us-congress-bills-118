@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6020
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6020
@@ -28,9 +28,10 @@ Honor Our Living Donors Act
 - Rep. Nadler, Jerrold [D-NY-12] (N000002)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Honor Our Living Donors Act
 - 2024-12-16 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
 - 2024-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7170)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7170)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
