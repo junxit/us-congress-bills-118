@@ -17,23 +17,22 @@ This Act may be cited as the “American Donor Privacy and Foreign Funding Trans
 
 - **(a)** *Reporting requirement* Section 6033 of the Internal Revenue Code of 1986 is amended by redesignating subsection (o) as subsection (p) and by inserting after subsection (n) the following new subsection:
   > - **(o)** *Contributions received from foreign sources*
-  >   - **(1)** *In general* Every organization described in section 501(c) which is required to file an annual return under subsection (a)(1) for any taxable year shall include in such return the following information with respect to contributions from a foreign source during such taxable year:
-  >     - **(A)** Whether the organization accepted any such contributions.
-  >     - **(B)** The aggregate amount of all such contributions received (if any).
-  >     - **(C)** The country of citizenship or principal place of business (as the case may be) of any foreign source making such a contribution to the organization.
-  >     - **(D)** The aggregate amount of contributions received, grouped by source country.
-  >   - **(2)** *Definitions* For purposes of this subsection—
-  >     - **(A)** *Foreign source* The term “foreign source” means—
-  >       - **(i)** any foreign principal (as defined in section 1 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611), except that such term shall not include any individual if it is established that such individual is a citizen of the United States), and
-  >       - **(ii)** any agent of a foreign principal (as defined in such section 1, determined by only treating foreign principals (within the meaning of clause (i) of this subparagraph) as foreign principals).
-  >     - **(B)** *Source country* The term “source country” means the country of citizenship or principal place of business (as the case may be) of a foreign source.
+  >   - **(1)** *In general* Every specified tax exempt organization shall include in the return required to be filed under subsection (a)(1) the following information:
+  >     - **(A)** The aggregate amount of contributions received from foreign nationals (as defined in section 319(b) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30121(b))) during the taxable year.
+  >     - **(B)** The aggregate amount described in subparagraph (A) stated separately with respect to each foreign country with respect to which any such contribution was received.
+  >   - **(2)** *Identification of foreign country of contribution* For purposes of this subsection, the foreign country with respect to which a contribution is received is—
+  >     - **(A)** in the case of a contribution made by an individual, each foreign country of which such individual is a citizen, and
+  >     - **(B)** in the case of any other contribution, the foreign country under the laws of which the person making such contribution was created or organized.
+  >   - **(3)** *Specified tax exempt organization* For purposes of this subsection, the term “specified tax exempt organization” means, with respect to any taxable year, any organization described in section 501(c) which is required to file an annual return under subsection (a)(1) for such taxable year if—
+  >     - **(A)** the gross receipts of such organization for such taxable year equal or exceed $200,000, or
+  >     - **(B)** the assets of such organization (determined as of the close of such taxable year) equal or exceed $500,000.
 
 - **(b)** *Public disclosure* Section 6104 of such Code is amended by adding at the end the following new subsection:
   > - **(e)** *Public disclosure of certain information* The Secretary shall make publicly available in a searchable database the following information:
   >   - **(1)** The information furnished under section 6033(o) of the Internal Revenue Code of 1986.
   >   - **(2)** The name of the organization furnishing the information described in paragraph (1).
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to returns filed for taxable years beginning after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to returns filed for taxable years beginning after the date of the enactment of this Act.
 
 ## § 3. Protecting privacy of donors to tax-exempt organizations
 
@@ -45,7 +44,7 @@ This Act may be cited as the “American Donor Privacy and Foreign Funding Trans
     - **(C)** The Federal Election Commission, acting lawfully pursuant to section 510 of title 36, United States Code.
     - **(D)** An entity acting pursuant to a lawful order of a court or administrative body which has the authority under law to direct the entity to collect or require the submission of the information, but only to the extent permitted by the lawful order of such court or administrative body.
 - **(b)** *Restrictions on release of donor information*
-  - **(1)** *Restrictions* An entity of the Federal government may not disclose to the public information revealing the identification of any donor to a tax-exempt organization.
+  - **(1)** *Restrictions* An entity of the Federal Government may not disclose to the public information revealing the identification of any donor to a tax-exempt organization.
   - **(2)** *Exceptions* Paragraph (1) does not apply to the following:
     - **(A)** The Internal Revenue Service, acting lawfully pursuant to section 6104 of the Internal Revenue Code of 1986 or any successor provision.
     - **(B)** The Secretary of the Senate and the Clerk of the House of Representatives, acting lawfully pursuant to section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604).

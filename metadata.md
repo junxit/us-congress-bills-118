@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8293
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8293
@@ -27,3 +27,10 @@ American Donor Privacy and Foreign Funding Transparency Act
 - 2024-05-08 — Introduced in House
 - 2024-05-08 — Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-08 — Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-05-15 — Committee Consideration and Mark-up Session Held
+- 2024-05-15 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 16.
+- 2024-12-17 — Committee on Oversight and Accountability discharged.
+- 2024-12-17 — Committee on Oversight and Accountability discharged.
+- 2024-12-17 — Placed on the Union Calendar, Calendar No. 731.
+- 2024-12-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-896, Part I.
+- 2024-12-17 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-896, Part I.
