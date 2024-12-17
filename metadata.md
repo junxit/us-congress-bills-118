@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9124
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9124
@@ -77,3 +77,14 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7178)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7178)
 - 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2024-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7316)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-12-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-259.
+- 2025-01-04 — Became Public Law No: 118-259.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
