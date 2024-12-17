@@ -1,7 +1,7 @@
 ---
 measure: S. 4700
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4700
@@ -16,6 +16,10 @@ Improving Federal Financial Management Act
 
 - Sen. Lankford, James [R-OK] (L000575)
 
+## Cosponsors (1)
+
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ Improving Federal Financial Management Act
 
 - 2024-07-11 — Introduced in Senate
 - 2024-07-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-18 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-302.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-302.
+- 2024-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.
