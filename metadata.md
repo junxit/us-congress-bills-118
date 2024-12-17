@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1377
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1377
@@ -22,10 +22,11 @@ Promoting United States Wireless Leadership Act of 2023
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Kuster, Ann M. [D-NH-2] (K000382)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Promoting United States Wireless Leadership Act of 2023
 - 2024-12-16 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7157-7158)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7157-7158)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
