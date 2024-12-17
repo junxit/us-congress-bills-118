@@ -1,7 +1,7 @@
 ---
 measure: S. 2714
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 9413` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9401` | add-at-end | The National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 9413` | insert | The table of contents in section 2(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3388) is amended by inserting after the items relating to title LV the follow… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9401` | add-at-end | The National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9401` | insert | The table of contents in section 2(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3388) is amended by inserting after the items relating to title LV the follow… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
