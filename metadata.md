@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7224
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7224
@@ -22,9 +22,10 @@ To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, an
 - Rep. Cárdenas, Tony [D-CA-29] (C001097)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, an
 - 2024-12-16 — Mr. Bucshon moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7164)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7164)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
