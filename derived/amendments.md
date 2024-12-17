@@ -1,7 +1,7 @@
 ---
 measure: S. 3162
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 278h-1` | amend | Subsection (g) of section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278h-1` | strike | by striking subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278h-1` | redesignate | by redesignating subsection (h) as subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
