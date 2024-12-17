@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4534
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4534
@@ -54,9 +54,10 @@ Women and Lung Cancer Research and Preventive Services Act of 2024
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -77,3 +78,4 @@ Women and Lung Cancer Research and Preventive Services Act of 2024
 - 2024-12-16 — Mr. Bucshon moved to suspend the rules and pass the bill, as amended.
 - 2024-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7166)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7166)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
