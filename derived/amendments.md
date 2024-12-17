@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7938
 congress: 118
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 371` | add-at-end | Section 4 of the Klamath Basin Water Supply Enhancement Act of 2000 (Public Law 106–498) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | Section 4 of the Klamath Basin Water Supply Enhancement Act of 2000 (Public Law 106–498) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

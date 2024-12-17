@@ -30,15 +30,7 @@ This Act may be cited as the “Klamath Basin Water Agreement Support Act of 202
   >   - **(1)** the short-term and long-term reduction and resolution of conflicts relating to water in the Klamath Basin watershed; and
   >   - **(2)** compatibility and utility for protecting natural resources throughout the Klamath Basin watershed, including the protection, preservation, and restoration of Klamath River Tribal fishery resources, particularly through collaboratively developed agreements.
   > - **(f)** *Pumping plant d* The Secretary may enter into 1 or more agreements with the Tulelake Irrigation District to reimburse the Tulelake Irrigation District for not more than 69 percent of the cost incurred by the Tulelake Irrigation District for the operation and maintenance of Pumping Plant D, subject to the condition that the cost results in benefits to the United States.
-  > - **(g)** *Infrastructure*
-  >   - **(1)** *Keno and link river dams* The Secretary of the Interior shall comply with the terms of the agreement entitled “2016 Klamath Power and Facilities Agreement”(“Agreement”), including Attachment A to the Agreement.
-  >   - **(2)** *Replacement of c canal flume*
-  >     - **(A)** *In general* The replacement of the C Canal flume within the Klamath Project shall be considered to be, and shall receive the treatment authorized for, qualified emergency extraordinary operation and maintenance work in accordance with Federal reclamation law (the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.)).
-  >     - **(B)** *Contract*
-  >       - **(i)** *In general* Not later than 180 days after the date of receipt of a request from the Klamath Irrigation District to enter into a contract with that district to amend the contract numbered 16–WC–20–4838, the Secretary shall enter into a contract with the Klamath Irrigation District providing that under the contract entered into under this subparagraph—
-  >         - **(I)** 35 percent of the total repayment obligation is nonreimbursable to the United States; and
-  >         - **(II)** 65 percent of the total repayment obligation shall be repaid to the United States over a period of 50 years.
-  >       - **(ii)** *Inclusion* Although the Secretary shall not condition the agreement to the contract entered into under subparagraph (A) on any other term, the contract may include other terms that are not less favorable to the contractor than contract numbered 16–WC–20–4838.
+  > - **(g)** *Keno and link river dams* The Secretary of the Interior shall comply with the terms of the agreement entitled “2016 Klamath Power and Facilities Agreement”(“Agreement”), including Attachment A to the Agreement.
 
 - **(b)** *Administration; effect*
   - **(1)** *Compliance* In implementing the amendments made by this section, the Secretary of the Interior shall comply with—
