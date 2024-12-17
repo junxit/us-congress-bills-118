@@ -23,23 +23,27 @@ This Act may be cited as the “Federal Emergency Mobilization Accountability (F
 - **(b)** *Plan Development* Not later than 1 year after the date of enactment of this Act, and not less frequently than once every 3 years thereafter, the Administrator shall develop and submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a human capital operating plan to shape and improve the workforce of the Agency.
 - **(c)** *Leading practices* The Administrator shall develop the plan required under subsection (b) in accordance with best practices outlined by the Director of the Office of Personnel Management, the Comptroller General of the United States, and other sources relevant to the Federal workforce.
 - **(d)** *Contents* The plan developed under subsection (b) shall include—
-  - **(1)** performance measures to monitor and evaluate progress towards the human capital goals, including filling staffing gaps of the Agency, closing skills gaps in mission critical occupations, and implementing workforce training and, if applicable, progress towards meeting those goals since the date of submission of the most recent plan under subsection (b), including—
+  - **(1)** performance measures to monitor and evaluate progress towards the human capital goals of the Agency, including filling staffing gaps, closing skills gaps in mission critical occupations, and implementing workforce training and, if applicable, progress towards meeting those goals since the date of submission of the most recent plan under subsection (b), including—
     - **(A)** a process to monitor and evaluate progress toward those goals;
     - **(B)** a discussion of why the Agency has or has not met those goals, including a description of specific barriers; and
     - **(C)** a discussion of the addition or deletion of any specific performance measures;
   - **(2)** details of the types of employees of the Agency, including by hiring authority and cadre;
-  - **(3)** an analysis of the current workforce of the Agency and possible gaps in the current staffing structure of the Agency needed to fulfill the mission of the Agency, including an assessment of—
-    - **(A)** the critical skills, critical and emerging, that will be needed in the workforce of the Agency to support the mission and responsibilities of, and effectively manage, the Agency during the 3-year period following the date of the submission of the plan, including target staffing numbers by cadre, region, and office;
+  - **(3)** a comprehensive analysis of the projected costs associated with implementing the plan;
+  - **(4)** strategies and practices designed to increase cost-efficiency within the workforce operations of the Agency, including reducing overhead costs, improving resource utilization, and avoiding unnecessary expenditures;
+  - **(5)** a detailed analysis of how the Agency determined the current overall staffing goals of the Agency;
+  - **(6)** an analysis of the current workforce of the Agency and possible gaps in the current staffing structure of the Agency needed to fulfill the mission of the Agency, including an assessment of—
+    - **(A)** the critical and emerging skills that will be needed in the workforce of the Agency to support the mission and responsibilities of, and effectively manage, the Agency during the 3-year period following the date of the submission of the plan, including target staffing numbers by cadre, region, and office;
     - **(B)** the skills of the workforce of the Agency, including numbers of employees by cadre, region, and office on the date of submission of the plan;
     - **(C)** projected trends in the workforce of the Agency based on expected losses due to retirement and other attrition, including any known data for the causes of attrition; and
-    - **(D)** the staffing levels of each category of employee of the Agency, including shortages in the workforce of the Agency and in the projected workforce of the Agency that should be addressed to ensure that the Agency has continued access to the critical skills and competencies described in subparagraph (A);
-  - **(4)** a plan of action with specific recommendations for developing and reshaping the workforce of the Agency to address the gaps in critical skills described in paragraph (3)(A), including—
+    - **(D)** the staffing levels of each category of employee of the Agency, including shortages in the workforce of the Agency and in the projected workforce of the Agency that should be addressed to ensure that the Agency has continued access to the critical and emerging skills described in subparagraph (A);
+  - **(7)** a plan of action with specific recommendations for developing and reshaping the workforce of the Agency to address the gaps in critical and emerging skills described in paragraph (6)(A), including—
     - **(A)** specific recruitment and retention goals by cadre and mission critical occupations, including the analysis that the Agency uses to produce those numbers;
     - **(B)** specific strategies for developing, training, deploying, motivating, and retaining the workforce of the Agency and the ability of the workforce of the Agency to fulfill the mission and responsibilities of the Agency, including the program objectives of the Department and the Agency to be achieved through such strategies;
     - **(C)** specific strategies for recruiting and retaining individuals needed to address workforce gaps within specific cadres;
-    - **(D)** specific strategies for the development, training, and coordinated and rapid deployment of the Surge Capacity Force; and
-    - **(E)** any necessary legislative proposals to improve recruitment and retention; and
-  - **(5)** a discussion that—
+    - **(D)** specific strategies for the development, training, and coordinated and rapid deployment of the Surge Capacity Force;
+    - **(E)** specific strategies for identifying, addressing, preventing, and mitigating discriminatory actions or decisions based on political affiliation; and
+    - **(F)** any necessary legislative proposals to improve recruitment and retention; and
+  - **(8)** a discussion that—
     - **(A)** details the number of employees not employed by the Agency serving in the Surge Capacity Force and the qualifications or credentials and training of such individuals;
     - **(B)** includes information on annual data relating to the deployment of the workforce of the Agency following major disasters or emergencies declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) during the 3-year period preceding the date of the submission of the plan;
     - **(C)** details—
@@ -56,3 +60,4 @@ This Act may be cited as the “Federal Emergency Mobilization Accountability (F
 - **(e)** *Report* Not later than 180 days after the date of the submission of the plan required under subsection (b), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
   - **(1)** analyzes whether the plan meets the requirements of this Act; and
   - **(2)** includes necessary recommendations to ensure subsequent plans meet the requirements of this Act.
+- **(f)** *No new funds* No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
