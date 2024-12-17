@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3343
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3343
@@ -20,9 +20,10 @@ Federal Broadband Deployment Tracking Act
 
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Federal Broadband Deployment Tracking Act
 - 2024-12-16 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7156)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7156)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
