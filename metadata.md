@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3208
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3208
@@ -53,3 +53,7 @@ DHS Cybersecurity On-the-Job Training Program Act
 - 2024-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 43 (Roll no. 445). (text: 9/23/2024 CR H5596)
 - 2024-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 43 (Roll no. 445). (text: 9/23/2024 CR H5596)
 - 2024-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-304.
+- 2024-12-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-304.
+- 2024-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 710.
