@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9516
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9516
@@ -47,3 +47,9 @@ Military Families National Parks Access Enhancement Act
 - 2024-12-10 — Placed on the Union Calendar, Calendar No. 690.
 - 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-845, Part I.
 - 2024-12-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-845, Part I.
+- 2024-12-17 — Considered under suspension of the rules. (consideration: CR H7290-7291)
+- 2024-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9516.
+- 2024-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7290)
+- 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7290)
