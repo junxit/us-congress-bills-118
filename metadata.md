@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4955
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4955
@@ -35,9 +35,10 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To name the community-based outpatient clinic of the Department of Veterans Affa
 - 2024-12-16 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7175-7176)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
