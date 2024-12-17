@@ -1,7 +1,7 @@
 ---
 measure: S. 3543
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3543
@@ -38,3 +38,5 @@ Historic Greenwood District—Black Wall Street National Monument Establishment 
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 602.
+- 2024-12-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7079; text: CR S7079)
+- 2024-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
