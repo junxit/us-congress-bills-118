@@ -1,7 +1,7 @@
 ---
 measure: S. 1008
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1008
@@ -16,9 +16,12 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Braun, Mike [R-IN] (B001310)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 
 - 2023-03-28 — Introduced in Senate
 - 2023-03-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2024-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2024-12-17 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell without amendment. Without written report.
+- 2024-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 718.
