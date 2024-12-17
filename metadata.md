@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6394
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6394
@@ -79,10 +79,11 @@ Semiquincentennial Congressional Time Capsule Act
 - Rep. Norcross, Donald [D-NJ-1] (N000188)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Semiquincentennial Congressional Time Capsule Act
 - 2024-12-16 — Mr. Steil moved to suspend the rules and pass the bill, as amended.
 - 2024-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7154-7155)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7154-7155)
+- 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
