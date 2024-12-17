@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6244
 congress: 118
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6244
@@ -70,3 +70,14 @@ To designate the facility of the United States Postal Service located at 1535 Ea
 - 2024-12-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7214)
 - 2024-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7214)
 - 2024-12-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7201)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2024-12-20 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-02 — Became Public Law No: 118-220.
+- 2025-01-02 — Became Public Law No: 118-220.
+- 2025-01-02 — Signed by President.
+- 2025-01-02 — Signed by President.
