@@ -1,7 +1,7 @@
 ---
 measure: S. 131
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | in section 8121(6), by inserting “or other eligible provider” after “physician”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or other eligible provider” after “The employee may have a physician”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or other eligible provider” after “United States and the physician”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “, other eligible providers,” after “osteopathic practitioners”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (18), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (19), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (20), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or other eligible provider” after “physician” each place that term appears; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “(or other eligible providers)” after “physicians”; | the bill names no machine-readable US Code section |
+| — | insert | in section 8121(6), by inserting “or other eligible provider” after “physician”; and | the bill names no machine-readable US Code section |
+| — | insert | in the second sentence, by inserting “or other eligible provider” after “The employee may have a physician”; and | the bill names no machine-readable US Code section |
+| — | insert | in the third sentence, by inserting “or other eligible provider” after “United States and the physician”. | the bill names no machine-readable US Code section |
