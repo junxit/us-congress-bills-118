@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7938
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7938
@@ -39,3 +39,4 @@ Klamath Basin Water Agreement Support Act of 2024
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7265)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7265)
+- 2024-12-18 — Received in the Senate, read twice.
