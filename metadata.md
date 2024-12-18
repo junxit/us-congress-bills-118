@@ -1,7 +1,7 @@
 ---
 measure: S. 4994
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4994
@@ -28,3 +28,5 @@ Vicksburg National Military Park Boundary Modification Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 636.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7151; text: CR S7152)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
