@@ -1,7 +1,7 @@
 ---
 measure: H.R. 215
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 215
@@ -16,7 +16,7 @@ WATER for California
 
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. McCarthy, Kevin [R-CA-20] (M001165)
 - Rep. Calvert, Ken [R-CA-41] (C000059)
@@ -29,6 +29,7 @@ WATER for California
 - Rep. McClintock, Tom [R-CA-5] (M001177)
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 - Rep. Steel, Michelle [R-CA-45] (S001135)
+- Rep. Fong, Vince [R-CA-20] (F000480)
 
 ## Committees (1)
 
@@ -39,3 +40,11 @@ WATER for California
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Introduced in House
 - 2023-01-09 — Referred to the House Committee on Natural Resources.
+- 2023-02-21 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2023-04-11 — Subcommittee Hearings Held
+- 2023-04-28 — Committee Consideration and Mark-up Session Held.
+- 2023-04-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 17.
+- 2023-04-28 — Subcommittee on Water, Wildlife, and Fisheries Discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 751.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-919.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-919.

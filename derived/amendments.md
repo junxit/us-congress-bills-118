@@ -1,7 +1,7 @@
 ---
 measure: H.R. 215
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in paragraph (1), by inserting “or proposed action” after “biological assessment,”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “or proposed action” after “biological assessment,”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “or proposed action” before the semicolon; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or proposed action” before the semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; | the bill names no machine-readable US Code section |
 | — | insert | after paragraph (2), by inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “action agency proposes a proposed action or” before “the consulting agency”; | the bill names no machine-readable US Code section |
