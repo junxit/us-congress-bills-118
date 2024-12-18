@@ -1,7 +1,7 @@
 ---
 measure: S. 2018
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2018
@@ -38,3 +38,5 @@ Connect Our Parks Act
 - 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-154.
 - 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-154.
 - 2024-01-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7145; text: CR S7148-7149)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
