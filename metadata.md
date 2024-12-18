@@ -1,7 +1,7 @@
 ---
 measure: S. 5136
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 5136
@@ -34,3 +34,12 @@ Plum Island Preservation Study Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 645.
+- 2024-12-18 — 
+- 2024-12-18 — Amendment SA 3344 agreed to in Senate by Unanimous Consent.
+- 2024-12-18 — Amendment SA 3344 proposed by Senator Blumenthal. (consideration: CR S7153)
+- 2024-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S7153)
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7156)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2024-12-18 — Senate amendment agreed to: Amendment SA 3344 agreed to in Senate by Unanimous Consent.
+- 2024-12-18 — Senate amendment proposed (on the floor): Amendment SA 3344 proposed by Senator Blumenthal.
+- 2024-12-18 — Senate amendment submitted
