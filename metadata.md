@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 895
 congress: 118
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 895
@@ -28,3 +28,7 @@ A resolution recognizing the second commemoration of the anti-LGBTQ+ attack that
 
 - 2024-11-19 — Introduced in Senate
 - 2024-11-19 — Referred to the Committee on the Judiciary.
+- 2024-12-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2024-12-18 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S7171; text: 11/19/2024 CR S6635-6636)
+- 2024-12-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2024-12-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
