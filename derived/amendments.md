@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6342
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 6803
 
-> in subparagraph (A), by striking “11” and inserting “12”; and
+> in paragraph (5)(A), by striking “11” and inserting “12”; and
 
 | | |
 |---|---|
@@ -41,6 +41,15 @@ to guess them.
 |---|---|
 | Removed | `Three` |
 | Inserted | `Four` |
+
+### 16 U.S.C. § 6803
+
+> in paragraph (8) by striking “Eight” and inserting “Six”.
+
+| | |
+|---|---|
+| Removed | `Eight` |
+| Inserted | `Six` |
 
 ## Stated, not applied
 
