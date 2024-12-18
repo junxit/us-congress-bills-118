@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8931
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8931
@@ -22,9 +22,10 @@ To redesignate Saratoga National Historical Park as Saratoga National Battlefiel
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To redesignate Saratoga National Historical Park as Saratoga National Battlefiel
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7286)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7286)
+- 2024-12-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
