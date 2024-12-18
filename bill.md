@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4235
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,31 +22,33 @@ This Act may be cited as the “Wildfire Technology Demonstration, Evaluation, M
     - **(C)** the United States Fire Administration;
     - **(D)** the Federal Emergency Management Agency;
     - **(E)** the National Aeronautics and Space Administration;
-    - **(F)** the Bureau of Indian Affairs; and
-    - **(G)** any other Federal agency involved in wildfire response.
+    - **(F)** the Bureau of Indian Affairs;
+    - **(G)** the Department of Defense;
+    - **(H)** a State, Tribal, county, or municipal fire department or district operating through the United States Fire Administration or pursuant to an agreement with a Federal agency; and
+    - **(I)** any other Federal agency involved in wildfire response.
   - **(2)** *Covered entity* The term covered entity means—
     - **(A)** a private entity;
     - **(B)** a nonprofit organization; or
     - **(C)** an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
   - **(3)** *Secretaries* The term Secretaries means the Secretary of Agriculture and the Secretary of the Interior, acting jointly.
   - **(4)** *Testbed Pilot Program* The term Testbed Pilot Program means the testbed pilot program developed under subsection (b).
-- **(b)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretaries, in coordination with the heads of the covered agencies, shall establish a testbed pilot program for new and innovative wildfire prevention, detection, communication, and mitigation technologies.
+- **(b)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretaries, in coordination with the heads of the covered agencies, shall establish a testbed pilot program for new and innovative wildfire prevention, detection, communication, and mitigation technologies.
 - **(c)** *Functions* In carrying out the Testbed Pilot Program, the Secretaries shall—
-  - **(1)** incorporate the Testbed Pilot Program into an existing interagency coordinating group on wildfires;
+  - **(1)** incorporate the Testbed Pilot Program into the National Wildfire Coordinating Group;
   - **(2)** in consultation with the heads of covered agencies, identify key technology priority areas with respect to the deployment of wildfire prevention, detection, communication, and mitigation technologies, including—
     - **(A)** hazardous fuels reduction treatments or activities;
     - **(B)** dispatch communications;
     - **(C)** remote sensing and tracking;
     - **(D)** safety equipment; and
     - **(E)** common operating pictures or operational dashboards; and
-  - **(3)** partner each covered entity selected to participate in the Testbed Pilot Program with the appropriate covered agency to coordinate real-time and on-the-ground testing of technology during wildland fire mitigation activities and training.
+  - **(3)** partner with each covered entity selected to participate in the Testbed Pilot Program with the appropriate covered agency to coordinate real-time and on-the-ground testing of technology during wildland fire mitigation activities and training.
 - **(d)** *Applications* To participate in the Testbed Pilot Program, a covered entity shall submit to the Secretaries an application at such time, in such manner, and containing such information as the Secretaries may require, which shall include a proposal to test technologies specific to key technology priority areas identified under subsection (c)(2).
 - **(e)** *Prioritization of emerging technologies* In selecting covered entities to participate in the Testbed Pilot Program, the Secretaries shall give priority to covered entities developing and applying emerging technologies, including artificial intelligence, quantum sensing, computing and quantum-hybrid applications, augmented reality, and 5G private networks and device-to-device communications supporting nomadic mesh networks, for wildfire mitigation.
 - **(f)** *Outreach* The Secretaries, in coordination with the heads of covered agencies, shall make public the key technology priority areas identified under subsection (c)(2) and invite covered entities to apply to test and demonstrate their technologies to address those priority areas.
-- **(g)** *Reports and recommendations* Not later than 1 year after the date of the enactment of this Act, and each year thereafter for the duration of the Testbed Pilot Program, the Secretaries shall submit to the Committees on Agriculture, Natural Resources, and Science, Space, and Technology of the House of Representatives a report that includes the following with respect to the Testbed Pilot Program:
+- **(g)** *Reports and recommendations* Not later than 1 year after the date of the enactment of this Act, and each year thereafter for the duration of the Testbed Pilot Program, the Secretaries shall submit to the Committees on Agriculture, Natural Resources, and Science, Space, and Technology of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry, Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate a report that includes the following with respect to the Testbed Pilot Program:
   - **(1)** A list of participating covered entities.
   - **(2)** A brief description of the technologies tested by such covered entities.
   - **(3)** An estimate of the cost of acquiring the technology tested in the program and applying it at scale.
   - **(4)** Outreach efforts by Federal agencies to covered entities developing wildfire technologies.
   - **(5)** Assessments of, and recommendations relating to, new technologies with potential adoption and application at-scale in Federal land management agencies’ wildfire prevention, detection, communication, and mitigation efforts.
-- **(h)** *Termination* The Testbed Pilot Program shall expire 4 years after the date of its establishment under subsection (b).
+- **(h)** *Sunset* The authority to carry out the Testbed Pilot Program shall terminate on the date that is 7 years after the date of enactment of this Act.
