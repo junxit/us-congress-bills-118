@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9516
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9516
@@ -25,10 +25,11 @@ Military Families National Parks Access Enhancement Act
 - Rep. Graves, Garret [R-LA-6] (G000577)
 - Rep. Curtis, John R. [R-UT-3] (C001114)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Military Families National Parks Access Enhancement Act
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7290)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7290)
+- 2024-12-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
