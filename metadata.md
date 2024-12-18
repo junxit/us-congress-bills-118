@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3396
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3396
@@ -50,12 +50,13 @@ Fire Department Repayment Act of 2023
 - Rep. Mullin, Kevin [D-CA-15] (M001225)
 - Rep. Stansbury, Melanie A. [D-NM-1] (S001218)
 
-## Committees (4)
+## Committees (5)
 
 - House — Science, Space, and Technology Committee
 - House — Armed Services Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ Fire Department Repayment Act of 2023
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7288-7289)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7288-7289)
+- 2024-12-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
