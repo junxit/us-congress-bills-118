@@ -1,7 +1,7 @@
 ---
 measure: S. 1760
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1760
@@ -29,3 +29,5 @@ Apex Project, Nevada Land Transfer and Authorization Act Amendments Act
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-136.
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-136.
 - 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 280.
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7166; text: CR S7166-7167)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
