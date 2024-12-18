@@ -1,7 +1,7 @@
 ---
 measure: S. 5000
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 5000
@@ -29,3 +29,5 @@ A bill to provide for a memorandum of understanding to address the impacts of a 
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 639.
+- 2024-12-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7166; text: CR S7167)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
