@@ -1,7 +1,7 @@
 ---
 measure: H.R. 262
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 262
@@ -33,3 +33,10 @@ ALERT Act
 - 2023-01-10 — Introduced in House
 - 2023-01-10 — Referred to the Committee on Oversight and Accountability, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-01-10 — Referred to the Committee on Oversight and Accountability, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-02-06 — Committee Consideration and Mark-up Session Held
+- 2024-02-06 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 19.
+- 2024-12-18 — Committee on the Judiciary discharged.
+- 2024-12-18 — Committee on the Judiciary discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 739.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-904, Part I.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-904, Part I.

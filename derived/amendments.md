@@ -1,7 +1,7 @@
 ---
 measure: H.R. 262
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Title 5, United States Code, is amended by inserting after chapter 6, the following new chapter: | the bill names no machine-readable US Code section |
-| — | insert | The table of chapters for part I of title 5, United States Code, is amended by inserting after the item relating to chapter 5, the following: | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 658` | insert | Title 5, United States Code, is amended by inserting after chapter 6 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 658` | insert | The table of chapters for part I of title 5, United States Code, is amended by inserting after the item relating to chapter 5, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
