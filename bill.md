@@ -17,184 +17,108 @@ This Act may be cited as the “Chesapeake National Recreation Area Act”.
 
 In this Act:
 
-- **(1)** *Advisory Commission* The term Advisory Commission means the Chesapeake National Recreation Area Advisory Commission established under section 11(a).
-- **(2)** *Bay* The term Bay means—
-  - **(A)** the Chesapeake Bay watershed; and
-  - **(B)** any tidal segment of a tributary of the Chesapeake Bay in any State.
-- **(3)** *Bay Program* The term Bay Program means the Chesapeake Bay Program authorized under section 117 of the Federal Water Pollution Control Act (33 U.S.C. 1267).
-- **(4)** *Chesapeake Gateways* The term Chesapeake Gateways means the Chesapeake Bay Gateways and Watertrails Network authorized under section 502 of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312).
-- **(5)** *Map* The term Map means the map entitled “Chesapeake National Recreation Area Proposed Boundary”, numbered P99/189631, and dated June 2023.
-- **(6)** *National Park Service Site* The term National Park Service site means a unit of the National Park System that is—
-  - **(A)** directly associated with the Bay; and
-  - **(B)** located in 1 or more of the States in the Bay watershed.
-- **(7)** *Partner site* The term “partner site” means land that is subject to a partner site agreement under section 8(b).
-- **(8)** *Recreation area* The term Recreation Area means the Chesapeake National Recreation Area established by section 4(a).
-- **(9)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(10)** *Youth representative* The term youth representative means a member of the Advisory Commission who—
+- **(1)** *Advisory commission* The term Advisory Commission means the Chesapeake National Recreation Area Advisory Commission established under section 9(a).
+- **(2)** *Bay* The term Bay means the Chesapeake Bay, including its tidal tributaries, in Maryland and Virginia.
+- **(3)** *Bay program* The term Bay Program means the Chesapeake Bay Program authorized under section 117 of the Federal Water Pollution Control Act (33 U.S.C. 1267).
+- **(4)** *Chesapeake gateways* The term Chesapeake Gateways means the Chesapeake Bay Gateways and Watertrails Network authorized under section 502 of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312).
+- **(5)** *Map* The term Map means the map entitled “Chesapeake National Recreation Area Proposed Boundary”, numbered P99/189631, and dated June 2023 (5 pages).
+- **(6)** *National recreation area* The term National Recreation Area means the Chesapeake National Recreation Area established by section 3(a).
+- **(7)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(8)** *Youth representative* The term youth representative means a member of the Advisory Commission who—
   - **(A)** has not attained the age of 22 as of the date on which the member is appointed or reappointed; and
   - **(B)** is tasked with representing the interests of children and young adults in the State from which the member is appointed.
 
-## § 3. Purposes
+## § 3. Establishment and boundaries of chesapeake national recreation area
 
-The purposes of this Act are—
+- **(a)** *Establishment*
+  - **(1)** *In general* Subject to paragraph (2), there is established the Chesapeake National Recreation Area in the States of Maryland and Virginia as a unit of the National Park System to preserve, protect, interpret, and provide for the public enjoyment of, and access to, the natural, cultural, historic, and recreational resources relating to the Bay and surrounding areas.
+  - **(2)** *Determination by the secretary* The National Recreation Area shall not be established until the date on which the Secretary determines that a sufficient quantity of land or interests in land has been acquired to constitute a manageable park unit.
+  - **(3)** *Notice* Not later than 30 days after the Secretary makes a determination under paragraph (2), the Secretary shall publish in the Federal Register notice of the establishment of the National Recreation Area.
+- **(b)** *Boundary* The boundary of the National Recreation Area shall include any area acquired by the Secretary from sites depicted on the Map.
+- **(c)** *Availability of map* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+- **(d)** *Revision of fort monroe national monument boundary*
+  - **(1)** *In general* At such time as the Secretary determines that the land identified on the Map within the boundary of Fort Monroe National Monument established by Proclamation 8750, dated November 1, 2011 (54 U.S.C. 320301 note; 76 Fed. Reg. 68625), has been remediated and is appropriate for inclusion in the National Recreation Area—
+    - **(A)** administrative jurisdiction over the land shall be transferred from the Secretary of the Army to the Secretary for inclusion in the National Recreation Area; and
+    - **(B)** the boundary of the Fort Monroe National Monument shall be revised to exclude all land and interests in land within the North Beach area of the Monument (as in existence on the day before the date of enactment of this Act), as generally depicted on the Map.
+  - **(2)** *References to national recreation area* Any reference in any law, regulation, document, record, map, or other paper of the United States to the land described in paragraph (1) shall be considered to be a reference to the National Recreation Area.
+  - **(3)** *Interim administration* Until the date on which administrative jurisdiction over the land is transferred to the Secretary under paragraph (1), the Secretary of the Army shall continue to administer the land described in that paragraph that was under the jurisdiction of the Secretary of the Army as of the day before the date of enactment of this Act in accordance with the memorandum of agreement between the Secretary of the Army and the Secretary entitled “Memorandum of Agreement Between the Department of the Army and the Department of the Interior for Fort Monroe National Monument” and dated December 9, 2016.
+  - **(4)** *Boundary revision* On transfer of administrative jurisdiction over the land to the Secretary under paragraph (1), the boundary of the National Recreation Area shall be revised to include the land transferred under that paragraph, which shall be administered in accordance with the laws applicable to the National Recreation Area.
 
-- **(1)** to recognize the ecological, cultural, and historic diversity of the region in which the Bay is located by promoting the national significance of the Bay and surrounding areas;
-- **(2)** to conserve and protect the significant natural, recreational, historical, and cultural resources relating to the Bay;
-- **(3)** to facilitate public access to the Bay for—
-  - **(A)** recreation;
-  - **(B)** public enjoyment; and
-  - **(C)** the enhancement of sustainable tourism that respects the health of the Bay;
-- **(4)** to encourage engagement and cooperation with communities that neighbor the Bay and communities that include historically underserved and underrepresented populations that have traditionally lacked access to the Bay;
-- **(5)** to promote diversity, equity, and inclusion with respect to the Bay by emphasizing the vital economic, cultural, and ecological contributions of historic and current populations, including, at a minimum, by providing educational and interpretive services to increase public understanding of, and appreciation for—
-  - **(A)** the natural, historical, and cultural resources of the Bay; and
-  - **(B)** traditional practices of the individuals whose livelihoods have been dependent on the land and water resources of the Bay and the surrounding area;
-- **(6)** to facilitate the cooperative management and stewardship of the resources of the Bay; and
-- **(7)** to advance the conservation goals of Chesapeake Gateways and the Bay Program.
+## § 4. Acquisition of land for the chesapeake national recreation area
 
-## § 4. Establishment and boundaries of Chesapeake National Recreation Area
-
-- **(a)** *Establishment* To preserve, protect, interpret, and provide for the public enjoyment of the resources relating to the Bay and surrounding areas, there is established as a unit of the National Park System the Chesapeake National Recreation Area.
-- **(b)** *Boundary* The boundary of the Recreation Area shall be the boundary as depicted on the Map.
-- **(c)** *Administrative, interpretive, and visitor service sites* As soon as practicable after the date of the establishment of the Recreation Area, the Secretary shall—
-  - **(1)** seek to enter into a cooperative agreement for administrative, interpretive, and visitor service uses for the Recreation Area under section 8(a) or a partner site agreement under section 8(b) with the City of Annapolis, Maryland, for the use of the Burtis House;
-  - **(2)** acquire, lease, or enter into a cooperative management agreement with respect to real property for an additional administrative, interpretive, and visitor services center for the Recreation Area, which shall be located within or in the environs of the historic downtown area of the City of Annapolis, Maryland; and
-  - **(3)** acquire, lease, or enter into a cooperative management agreement with respect to real property for an additional interpretive and visitor services center for the Recreation Area, which shall be located within or in the environs of Fort Monroe.
-- **(d)** *Availability of map* The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-- **(e)** *Revision of fort monroe national monument boundary*
-  - **(1)** *In general* The boundary of Fort Monroe National Monument, established by Proclamation 8750, dated November 1, 2011 (54 U.S.C. 320301 note; 76 Fed. Reg. 68625), is revised to exclude all land and interests in land within the North Beach area of the Monument (as in existence on the day before the date of enactment of this Act) that are identified on the Map as part of the Recreation Area.
-  - **(2)** *Administration* Any reference in any law, regulation, document, record, map, or other paper of the United States to the land or interests in land described in paragraph (1) shall be considered to be a reference to the Recreation Area.
-  - **(3)** *Transfer of administrative jurisdiction*
-    - **(A)** *In general* Subject to subparagraph (B) and until the date on which administrative jurisdiction over the land and interests in land are transferred to the Secretary, the Secretary of the Army shall continue to administer the land and interests in land described in paragraph (1) that were under the jurisdiction of the Secretary of the Army as of the day before the date of enactment of this Act in accordance with—
-      - **(i)** the memorandum of agreement between the Secretary of the Army and the Secretary dated December 9, 2016; and
-      - **(ii)** this Act.
-    - **(B)** *Requirements* In carrying out subparagraph (A), the Secretary of the Army shall—
-      - **(i)** consult with the Secretary; and
-      - **(ii)** administer the land and interests in land described in paragraph (1) in a manner consistent with this Act.
-
-## § 5. Acquisition of land for the Chesapeake National Recreation Area
-
-- **(a)** *Within boundary* Subject to subsection (c), the Secretary may acquire land or interests in land within the boundary of the Recreation Area only by—
+- **(a)** *In general* Subject to subsection (c), the Secretary may acquire land or interests in land within the boundary of the National Recreation Area by—
   - **(1)** donation;
   - **(2)** purchase from a willing seller with donated or appropriated funds;
   - **(3)** exchange; or
   - **(4)** transfer from another Federal agency.
-- **(b)** *Outside boundary*
-  - **(1)** *In general* Subject to subsection (c), the Secretary may acquire, using the methods described in subsection (a), land or interests in land located outside the boundary of the Recreation Area, in consultation with the Advisory Commission as described in section 11(b)(2)(B).
-  - **(2)** *Inclusion in Recreation area* On acquisition of land or an interest in land under paragraph (1), the boundary of the Recreation Area shall be modified to reflect the acquisition.
-- **(c)** *Limitation* Any land or interest in land owned by a State or a political subdivision of a State that is within the boundary of the Recreation Area or described in subsection (b)(1) may be acquired only by donation.
-- **(d)** *Condemnation* No land or interest in land may be acquired for the Recreation Area by condemnation unless the owner of the applicable land or interest in land consents to the condemnation.
-- **(e)** *Environmental quality standards* Prior to the acquisition of land or an interest in land under this section, the Secretary shall ensure that the land or interest in land meets all applicable environmental quality standards.
-- **(f)** *Boundary adjustment* As the Secretary determines to be necessary, the Secretary may make minor revisions of the boundary of the Recreation Area by publishing a revised map or other boundary description in the Federal Register.
+- **(b)** *Additional sites* The Secretary, in consultation with the Advisory Commission, may—
+  - **(1)** identify additional sites near or adjacent to the Bay for potential addition to the National Recreation Area; and
+  - **(2)** subject to the availability of appropriations, assess whether sites identified under paragraph (1)—
+    - **(A)** are appropriate for addition to the National Recreation Area; and
+    - **(B)** meet National Park Service criteria applicable to additions to units of the National Park System.
+- **(c)** *Limitation* Any land or interest in land owned by a State or a political subdivision of a State that is within the boundary of the National Recreation Area may be acquired only by donation.
+- **(d)** *Condemnation* No land or interest in land may be acquired for the National Recreation Area by condemnation.
 
-## § 6. Acquisition of land-based resources for the Chesapeake National Recreation Area
+## § 5. Administration
 
-- **(a)** *In general* Subject to subsection (b), the Secretary may acquire land-based resources, including associated docks, piers, and structures extending into adjacent waters, within the boundary of the Recreation Area only by—
-  - **(1)** donation;
-  - **(2)** purchase from a willing seller with donated or appropriated funds;
-  - **(3)** exchange; or
-  - **(4)** transfer from another Federal agency.
-- **(b)** *Environmental quality standards* Prior to the acquisition of a land-based resource under this section, the Secretary shall ensure that the land-based resource meets all applicable environmental quality standards.
-
-## § 7. Administration
-
-- **(a)** *In general* The Secretary shall administer the Recreation Area in accordance with—
+- **(a)** *In general* The Secretary shall administer the National Recreation Area in accordance with—
   - **(1)** this section; and
-  - **(2)** the laws generally applicable to units of the National Park System, including title 54, United States Code.
-- **(b)** *Headquarters* To facilitate coordination of the Recreation Area with Chesapeake Gateways and the Bay Program, the headquarters of the Recreation Area shall be located at the Chesapeake Bay Office of the National Park Service of the Department of the Interior.
-- **(c)** *Commercial and recreational fishing* Nothing in this Act impacts or otherwise affects statutory or regulatory authority with respect to navigation or regulation of commercial or recreational fishing activities or shellfish aquaculture in the Chesapeake Bay or tributaries of the Chesapeake Bay.
-- **(d)** *State jurisdiction* Nothing in this Act enlarges or diminishes the jurisdiction of a State, including the jurisdiction or authority of a State with respect to fish and wildlife management.
-- **(e)** *Coordination*
-  - **(1)** *In general* Consistent with the purposes of the Recreation Area, the Secretary shall seek to coordinate the programming and management of activities of the Recreation Area with the goals of Chesapeake Gateways and the Chesapeake Bay Agreement (as defined in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a))).
-  - **(2)** *Coordination with National Park Service Sites and partner sites* As a component of the management plan required under section 10, the Secretary shall, to the maximum extent practicable, coordinate the development of an implementation plan for onsite interpretation of resources and other means of enhancing public understanding of the Bay at participating National Park Service sites and partner sites to tell the story of the outstanding, remarkable, and nationally significant resources of the Bay.
+  - **(2)** the laws generally applicable to units of the National Park System, including—
+    - **(A)** sections 100101(a), 100751(a), 100752, 100753, and 102101 of title 54, United States Code; and
+    - **(B)** chapters 1003 and 3201 of title 54, United States Code.
+- **(b)** *Headquarters* To facilitate coordination of the National Recreation Area with the Chesapeake Gateways program and the Bay Program, the Secretary may locate the headquarters of the National Recreation Area at the Chesapeake Bay Office of the National Park Service.
+- **(c)** *Administrative, interpretive, and visitor service sites* The Secretary may acquire, in accordance with section 4(a), not more than 10 acres outside the boundary of the National Recreation Area for administrative, interpretive, and visitor service purposes.
+- **(d)** *Commercial and recreational fishing* Nothing in this Act affects statutory or regulatory authority with respect to navigation or regulation of commercial or recreational fishing activities or shellfish aquaculture in the Chesapeake Bay or its tributaries.
+- **(e)** *State jurisdiction* Nothing in this Act enlarges or diminishes the jurisdiction of a State, including the jurisdiction or authority of a State with respect to fish and wildlife management.
+- **(f)** *Coordination*
+  - **(1)** *In general* Consistent with the purposes of the National Recreation Area, the Secretary shall coordinate the management of the National Recreation Area with the Chesapeake Gateways and the Bay Program.
+  - **(2)** *Coordination with national park service sites* As a component of the management plan required under section 8, the Secretary shall, to the maximum extent practicable, coordinate the development of an implementation plan to interpret and enhance public understanding of the outstanding, remarkable, and nationally significant resources of the Bay with units of the National Park System located in the Bay watershed.
 
-## § 8. Agreements and matching funds
+## § 6. Agreements
 
-- **(a)** *Cooperative agreements*
-  - **(1)** *In general* To accomplish the purposes of the Recreation Area, the Secretary may enter into cooperative agreements with a State, a political subdivision of a State, an educational institution, a Tribal government, a nonprofit organization, or other interested party that contributes to—
-    - **(A)** the development of the Recreation Area; or
-    - **(B)** the implementation of the management plan for the Recreation Area prepared under section 10(a).
-  - **(2)** *Matching funds*
-    - **(A)** *In general* The Secretary shall require that any Federal funds made available under an agreement entered into under paragraph (1) shall be matched on a 1-to-1 basis by non-Federal funds.
-    - **(B)** *In-kind contribution* With the approval of the Secretary, the non-Federal share required under subparagraph (A) may be in the form of property, goods, or services from a non-Federal source, fairly valued.
-  - **(3)** *Effect* Nothing in this subsection affects any existing cooperative agreement authority applicable to Chesapeake Gateways.
-- **(b)** *Partner site agreements*
-  - **(1)** *In general* The Secretary, under such terms and conditions as the Secretary considers to be appropriate, may enter into a partner site agreement with an eligible entity described in paragraph (2) that owns or manages an eligible site described in paragraph (3), which shall provide for the inclusion of the partner site in the Recreation Area.
-  - **(2)** *Description of eligible entity* An eligible entity referred to in paragraph (1) is—
-    - **(A)** a Federal entity;
-    - **(B)** a State or local government;
-    - **(C)** a Tribal government;
-    - **(D)** a private nonprofit organization; or
-    - **(E)** a private landowner.
-  - **(3)** *Description of eligible site* An eligible site referred to in paragraph (1) is land that the Secretary has determined—
-    - **(A)** contains a nationally significant natural, recreational, historical, or cultural resource;
-    - **(B)** ensures public access to the applicable resource; and
-    - **(C)** meaningfully contributes to the purposes of the Recreation Area.
-  - **(4)** *Criteria for inclusion in the recreation area* On the establishment of the Advisory Commission, the Secretary shall, establish any additional criteria for inclusion of partner sites in the Recreation Area, taking into consideration the recommendations of the Advisory Commission under section 11(b)(2).
-  - **(5)** *Cooperative management of partner sites* Under a partner site agreement entered into paragraph (1), the Secretary may acquire from, and provide to, the owner or manager of the partner site goods and services to be used in the cooperative management of the applicable partner site.
-  - **(6)** *Prohibition* The Secretary may not transfer administrative responsibilities for the Recreation Area to the owner or operator of a partner site.
-- **(c)** *Terms and conditions of agreements* Any agreement entered into under subsection (a) or (b) may include any terms and conditions that are determined to be necessary by the Secretary to ensure that—
-  - **(1)** in the case of an agreement relating to a partner site, the partner site complies with the terms and conditions of the applicable agreement;
-  - **(2)** the Secretary has the right of access at all reasonable times, and as specified in the applicable agreement, to all public portions of the properties covered by the agreement or grant for the purposes of—
-    - **(A)** conducting visitors through the properties or providing public recreational access;
-    - **(B)** interpreting the properties for the public; and
-    - **(C)** research, inventory, monitoring, and resource management;
-  - **(3)** no changes or alterations may be made to any properties covered by an agreement entered into under subsection (a) or (b) unless the Secretary and the other party to the agreement agree to the changes or alterations; and
-  - **(4)** any conversion, use, or disposal of a project for purposes contrary to the purposes of this Act, as determined by the Secretary, shall entitle the United States to reimbursement in an amount equal to the greater of—
-    - **(A)** the amounts made available to the project by the United States; and
-    - **(B)** the portion of the increased value of the project attributable to the amounts made available under this subsection, as determined at the time of the conversion or disposal.
+The Secretary may enter into an agreement with a State, a political subdivision of a State, a nonprofit organization, or an individual to interpret and restore nationally significant historic, cultural, or recreational resources relating to the Bay if the agreement provides for reasonable public access to the resources covered by the agreement.
 
-## § 9. Chesapeake gateways
+## § 7. Chesapeake gateways
 
-- **(a)** *In general* The Secretary (acting through the Superintendent of the Chesapeake Bay Office of the National Park Service) shall administer Chesapeake Gateways in coordination with the Recreation Area.
-- **(b)** *Permanent authorization* Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312) is amended by striking “to carry out this section $3,000,000” and all that follows through the period at the end and inserting “to carry out activities authorized under this section $6,000,000 for each fiscal year.”.
+- **(a)** *In general* The Secretary shall administer the Chesapeake Gateways in coordination with the National Recreation Area.
+- **(b)** *Permanent authorization* Section 502(c) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312) is amended by striking “is authorized” and all that follows through the period at the end and inserting “are authorized to be appropriated such sums as are necessary to carry out this section.”.
 - **(c)** *Effect* Nothing in this section or an amendment made by this section modifies the eligibility criteria developed under section 502(b)(2) of the Chesapeake Bay Initiative Act of 1998 (54 U.S.C. 320101 note; Public Law 105–312).
 
-## § 10. Management plan
+## § 8. Management plan
 
-- **(a)** *In general* Not later than 3 years after the date on which funds are first made available for the preparation of a management plan for the Recreation Area, the Secretary, in consultation with the Chesapeake Executive Council (as defined in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a))) and the Advisory Commission, shall prepare a management plan for the Recreation Area, in accordance with—
-  - **(1)** section 7(e)(2); and
-  - **(2)** section 100502 of title 54, United States Code.
-- **(b)** *Transportation planning*
-  - **(1)** *Initial sites* As soon as practicable after the date of enactment of this Act, the Secretary, in coordination with the Secretary of Transportation and State transportation agencies, shall conduct transportation planning in accordance with section 100502(3) of title 54, United States Code, with respect to the initial sites depicted on the Map, to minimize traffic burden on the surrounding community by—
-    - **(A)** providing an evaluation of the transportation systems needs;
-    - **(B)** using strategies to effectively manage the transportation system;
-    - **(C)** subject to section 7(c), prioritizing water and trail access to Recreation Area sites; and
-    - **(D)** collecting community feedback on traffic.
-  - **(2)** *Future sites* The Secretary may, in accordance with paragraph (1), conduct additional transportation planning, as determined to be necessary by the Secretary, for any future sites included in the Recreation Area.
-- **(c)** *Cost share* The management plan prepared under subsection (a) shall address costs to be shared by the Secretary and partner sites for necessary capital improvements to, and maintenance and operations of, the Recreation Area.
-- **(d)** *Submission to congress* On completion of the management plan under subsection (a), the Secretary shall submit the management plan to—
-  - **(1)** the Committee on Energy and Natural Resources of the Senate; and
-  - **(2)** the Committee on Natural Resources of the House of Representatives.
+- **(a)** *In general* Not later than 3 years after the date on which funds are first made available for the preparation of a management plan for the National Recreation Area, the Secretary, in consultation with the Chesapeake Executive Council (as defined in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a))) and the Advisory Commission, shall prepare a management plan for the National Recreation Area in accordance with section 100502 of title 54, United States Code.
+- **(b)** *Visitor facilities* In preparing the management plan under subsection (a), the Secretary shall consider the inclusion of visitor facilities for the National Recreation Area in Annapolis, Maryland, and near Fort Monroe.
+- **(c)** *Transportation planning* As part of the management plan prepared under subsection (a), the Secretary, in consultation with State and local governments, shall seek to minimize park-related traffic impacts of the National Recreation Area on nearby communities.
 
-## § 11. Chesapeake national recreation area advisory commission
+## § 9. Chesapeake national recreation area advisory commission
 
 - **(a)** *Establishment* Not later than 180 days after the date of enactment of this Act, the Secretary shall establish an advisory commission, to be known as the “Chesapeake National Recreation Area Advisory Commission”.
-- **(b)** *Duties* The Advisory Commission shall—
-  - **(1)** advise the Secretary on the development and implementation of the management plan required under section 10; and
-  - **(2)** after consultation with the States and other interested parties, recommend to the Secretary criteria and specific recommendations on the Bay for—
-    - **(A)** partner sites; and
-    - **(B)** properties to be added to the boundary of the Recreation Area to be managed by the Secretary, including properties located outside of the existing boundaries of the Recreation Area.
+- **(b)** *Duties and authorizations* The Advisory Commission—
+  - **(1)** shall—
+    - **(A)** make recommendations to the Secretary on the development and implementation of the management plan required under section 8; and
+    - **(B)** after consultation with the States and other interested parties, provide to the Secretary recommendations on the Bay for additional properties on the Bay to be studied for potential addition to the National Recreation Area in accordance with section 4(b); and
+  - **(2)** may establish committees relating to specific National Recreation Area management issues, including education, tourism, transportation, natural resources, cultural and historic resources, and activities to raise revenue for the National Recreation Area, with membership on a committee established under this paragraph to be open to members of the Advisory Commission and individuals that are not members of the Advisory Commission.
 - **(c)** *Applicable law* Except as otherwise provided in this section, the Advisory Commission shall be subject to—
-  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.) (except section 14(b) of that Act); and
+  - **(1)** chapter 10 of title 5, United States Code (commonly known as the “Federal Advisory Committee Act”), except section 1013(b) of that title; and
   - **(2)** all other applicable laws (including regulations).
 - **(d)** *Membership*
   - **(1)** *In general* The Advisory Commission shall be composed of 19 members, appointed by the Secretary, of whom—
-    - **(A)** 9 shall be appointed to represent the State of Maryland, of whom—
-      - **(i)** 4 shall have knowledge of environmental, recreational, cultural or historic resources, environmental justice, grassroots organizing, education, or interpretation;
+    - **(A)** 9 shall be appointed from the State of Maryland, of whom—
+      - **(i)** 4 shall have knowledge of environmental, recreational, cultural, or historic resources, education, or interpretation;
       - **(ii)** 1 shall represent commercial fishing interests on the Bay;
       - **(iii)** 1 shall represent agricultural interests in the watershed of the Bay;
       - **(iv)** 1 shall be a youth representative;
-      - **(v)** 1 shall be selected from among individuals recommended by the Governor of the State of Maryland; and
+      - **(v)** 1 shall be selected after considering recommendations by the Governor of the State of Maryland; and
       - **(vi)** 1 shall be a representative of a federally recognized Indian Tribe or State-recognized Indian Tribe that is traditionally associated with the Bay;
-    - **(B)** 9 shall be appointed to represent the Commonwealth of Virginia, of whom—
-      - **(i)** 4 shall have knowledge of environmental, recreational, cultural or historic resources, environmental justice, grassroots organizing, education, or interpretation;
+    - **(B)** 9 shall be appointed from the State of Virginia, of whom—
+      - **(i)** 4 shall have knowledge of environmental, recreational, cultural, or historic resources, education, or interpretation;
       - **(ii)** 1 shall represent commercial fishing interests on the Bay;
       - **(iii)** 1 shall represent agricultural interests in the watershed of the Bay;
       - **(iv)** 1 shall be a youth representative;
-      - **(v)** 1 shall be selected from among individuals recommended by the Governor of the Commonwealth of Virginia; and
+      - **(v)** 1 shall be selected after considering recommendations by the Governor of the State of Virginia; and
       - **(vi)** 1 shall be a representative of a federally recognized Indian Tribe or State-recognized Indian Tribe that is traditionally associated with the Bay; and
     - **(C)** 1 shall be the Executive Director of the Chesapeake Bay Commission.
-  - **(2)** *Requirement* In appointing the members described in subparagraphs (A)(i) and (B)(i) of paragraph (1), the Secretary shall seek to ensure the broadest practicable representation of the areas of knowledge described in those subparagraphs.
+  - **(2)** *Requirement* In appointing the members described in subparagraphs (A)(i) and (B)(i) of paragraph (1), the Secretary shall seek to ensure representation from communities around the Bay and broad practicable representation of the areas of knowledge described in those subparagraphs.
 - **(e)** *Terms*
   - **(1)** *In general* A member of the Advisory Commission shall be appointed for a term of 3 years.
   - **(2)** *Succession and reappointment* On expiration of the term of a member of the Advisory Commission, the member—
@@ -228,16 +152,6 @@ The purposes of this Act are—
     - **(A)** *In general* Members of the Advisory Commission shall serve without compensation.
     - **(B)** *Travel expenses* Members of the Advisory Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter 1 of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for, or the duties of, the Commission.
   - **(2)** *Staff*
-    - **(A)** *In general* The Secretary may provide the Advisory Commission with any staff or technical assistance that the Secretary, after consultation with the Advisory Commission, determines to be appropriate to enable the Advisory Commission to carry out the duties of the Advisory Commission.
-    - **(B)** *Detail of employees* The Secretary may accept the services of personnel detailed from a State or any political subdivision of a State.
-- **(j)** *Termination*
-  - **(1)** *In general* Unless extended under paragraph (2), the Advisory Commission shall terminate on the date that is 10 years after the date of enactment of this Act.
-  - **(2)** *Extension*
-    - **(A)** *Recommendation* Not later than 8 years after the date of enactment of this Act, the Advisory Commission shall make a recommendation to the Secretary as to whether the Advisory Commission is still necessary to advise on the development of the Recreation Area.
-    - **(B)** *Determination*
-      - **(i)** *In general* If, based on a recommendation under subparagraph (A), the Secretary determines that the Advisory Commission is still necessary, the Secretary may extend the existence of the Advisory Commission for a period of not more than 10 years beyond the date described in paragraph (1).
-      - **(ii)** *Timing* The Secretary shall make a determination to extend the existence of the Advisory Commission under clause (i) not later than 180 days before the date described in paragraph (1).
-
-## § 12. Savings provision
-
-Except as provided in section 4(e), nothing in this Act enlarges or diminishes the authority of any official at, or transfers the administration or management of, any National Park Service site or any partner site to the Recreation Area.
+    - **(A)** *In general* The Secretary may provide the Advisory Commission with any staff or technical assistance that the Secretary, after consultation with the Advisory Commission, determines to be appropriate to enable the Advisory Commission to carry out its duties.
+    - **(B)** *Detail of employees* The Advisory Commission may accept the services of personnel detailed from a State or any political subdivision of a State.
+- **(j)** *Termination* The Advisory Commission shall terminate on the date that is 10 years after the date of enactment of this Act.
