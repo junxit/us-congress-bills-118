@@ -24,39 +24,44 @@ In this Act:
   - **(C)** the Bureau of Land Management;
   - **(D)** the United States Fish and Wildlife Service; and
   - **(E)** the Forest Service.
-- **(3)** *Federal waterway* The term Federal waterway means any portion of a body of water managed partially or wholly by 1 or more of the relevant Secretaries.
+- **(3)** *Federal waterway* The term Federal waterway means waters managed by a Federal land or water management agency.
 - **(4)** *Federal waterway restriction* The term Federal waterway restriction means a restriction on the access or use of a Federal waterway applied under applicable law by 1 or more of the Secretaries.
 - **(5)** *Secretaries* The term Secretaries means—
   - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service; and
   - **(B)** the Secretary of the Interior.
+- **(6)** *Secretary concerned* The term Secretary concerned means—
+  - **(A)** the Secretary of Agriculture, acting through the Chief of the Forest Service, with respect to Federal waterways under the jurisdiction of the Secretary of Agriculture; or
+  - **(B)** the Secretary of the Interior, with respect to Federal waterways under the jurisdiction of the Secretary of the Interior.
 
 ## § 3. Interagency data standardization
 
-Not later than 30 months after the date of enactment of this Act, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of geospatial data relating to public outdoor recreational use of Federal waterways and Federal fishing restrictions.
+Not later than 30 months after the date of enactment of this Act, the Secretaries, in consultation with the Federal Geographic Data Committee, shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of geospatial data relating to public outdoor recreational use of Federal waterways and Federal fishing restrictions.
 
 ## § 4. Data consolidation and publication
 
-- **(a)** *Federal waterway restrictions* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway restrictions—
+- **(a)** *Federal waterway restrictions* Not later than 5 years after the date of enactment of this Act, the Secretary concerned, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway restrictions—
   - **(1)** status information with respect to the conditions under which Federal waterways are open or closed to entry or watercraft, including watercraft inspection or decontamination requirements;
   - **(2)** the dates on which Federal waterways are seasonally closed to entry or watercraft;
   - **(3)** the areas of Federal waterways with restrictions on motorized propulsion, horsepower, or gasoline fuel;
   - **(4)** the areas of Federal waterways with anchoring restrictions, no wake zones, or vessel speed restrictions;
   - **(5)** Federal waterway restrictions on the direction of travel, including upstream or downstream travel; and
-  - **(6)** the types of watercraft that are restricted on each area of a Federal waterway, including the permissibility of—
-    - **(A)** canoes;
+  - **(6)** the uses, including by watercraft, that are restricted on each area of a Federal waterway, including the permissibility of—
+    - **(A)** canoes and other paddlecraft;
     - **(B)** rafts and driftboats;
     - **(C)** motorboats;
     - **(D)** personal watercraft;
     - **(E)** airboats;
     - **(F)** amphibious aircraft;
-    - **(G)** hovercraft; and
-    - **(H)** oversnow vehicles and other motorized vehicles on frozen bodies of water.
-- **(b)** *Federal waterway access and navigation information* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway access and navigation information—
+    - **(G)** hovercraft;
+    - **(H)** oversnow vehicles and other motorized vehicles on frozen bodies of water;
+    - **(I)** swimming; and
+    - **(J)** other applicable recreational activities, as determined to be appropriate by the Secretary concerned.
+- **(b)** *Federal waterway access and navigation information* Not later than 5 years after the date of enactment of this Act, the Secretary concerned, to the maximum extent practicable, shall digitize and make publicly available online, as applicable, geographic information system data that includes, with respect to Federal waterway access and navigation information—
   - **(1)**
-    - **(A)** the location of boat ramps, portages, and fishing access sites under the authority of the Federal land or water management agency; and
+    - **(A)** the location of boat ramps, portages, and designated fishing access sites under the authority of the Secretary concerned; and
     - **(B)** the identification of the dates on which the facilities and sites identified under subparagraph (A) are open or closed, as applicable; and
-  - **(2)** bathymetric information and depth charts.
-- **(c)** *Federal fishing restrictions* Not later than 4 years after the date of enactment of this Act, each of the Secretaries, to the maximum extent practicable, shall digitize and make publicly available online geographic information system data that describes, with respect to Federal fishing restrictions—
+  - **(2)** available bathymetric information and depth charts.
+- **(c)** *Federal fishing restrictions* Not later than 5 years after the date of enactment of this Act, the Secretary concerned, to the maximum extent practicable, shall digitize and make publicly available online geographic information system data that describes, with respect to Federal fishing restrictions—
   - **(1)** the location and geographic boundaries of Federal fishing restrictions on recreational and commercial fishing, including—
     - **(A)** full or partial closures;
     - **(B)** no-take zones; and
@@ -64,23 +69,29 @@ Not later than 30 months after the date of enactment of this Act, the Secretarie
   - **(2)** Federal fishing restrictions on the use of specific types of equipment or bait, such as restrictions on the use of barbed hooks or live bait; and
   - **(3)** Federal requirements with respect to catch and release.
 - **(d)** *Public comment* The Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsections (a) and (b).
-- **(e)** *Updates* The Secretaries, to the maximum extent practicable, shall update—
-  - **(1)** the data described in subsections (a) and (b) not less frequently than 2 times per year; and
+- **(e)** *Updates* The Secretary concerned, to the maximum extent practicable, shall update—
+  - **(1)** the data described in subsections (a) and (b) not less frequently than annually; and
   - **(2)** the data described in subsection (c) in real time as changes go into effect.
 - **(f)** *Exclusion* This section shall not apply to irrigation canals and flowage easements.
 - **(g)** *Disclosure* Any geographic information system data made publicly available under this section shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
 
 ## § 5. Cooperation and coordination
 
-- **(a)** *Community partners and third-Party providers* For purposes of carrying out this Act, the Secretaries may—
+- **(a)** *Community partners and third-Party providers* For purposes of carrying out this Act, the Secretary concerned may—
   - **(1)** coordinate and partner with non-Federal agencies and private sector and nonprofit partners, including—
     - **(A)** State natural resource agencies;
     - **(B)** technology companies;
     - **(C)** geospatial data companies; and
     - **(D)** experts in data science, analytics, and operations research; and
   - **(2)** enter into an agreement with a third party to carry out any provision of this Act.
-- **(b)** *United States Geological Survey* The Secretaries may work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, and publish data on behalf of the Secretaries to meet the requirements of this Act.
-- **(c)** *Requirement* With respect to data developed and distributed under this Act, the Secretaries shall include a notice that any geospatial data are subject to applicable Federal, State, and Tribal regulations.
+- **(b)** *United States Geological Survey* The Secretaries shall work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, and publish data on behalf of the Secretaries to meet the requirements of this Act.
+- **(c)** *Requirement* With respect to data developed and distributed under this Act, the Secretaries shall—
+  - **(1)** develop the data in accordance with applicable Federal, State, and Tribal laws (including regulations); and
+  - **(2)** include a notice that any geospatial data are subject to applicable Federal, State, and Tribal laws (including regulations).
+- **(d)** *Existing efforts* To the extent practicable, the Secretary concerned shall use or incorporate existing applicable data, maps, and resources in carrying out this Act, including data, maps, and resources developed and published under—
+  - **(1)** the Modernizing Access to Our Public Land Act (16 U.S.C. 6851 et seq.);
+  - **(2)** section 103 of division DD of the Consolidated Appropriations Act, 2023 (43 U.S.C. 776); or
+  - **(3)** other applicable law.
 
 ## § 6. Reports
 
@@ -97,16 +108,17 @@ Not later than 1 year after the date of enactment of this Act and annually there
 There are authorized to be appropriated—
 
 - **(1)** to the Secretary of the Interior to carry out this Act—
-  - **(A)** $3,000,000 for fiscal year 2024; and
-  - **(B)** $6,000,000 for each of fiscal years 2025 through 2027; and
+  - **(A)** $3,000,000 for fiscal year 2025; and
+  - **(B)** $6,000,000 for each of fiscal years 2026 through 2029; and
 - **(2)** to the Secretary of Agriculture to carry out this Act—
-  - **(A)** $2,000,000 for fiscal year 2024; and
-  - **(B)** $4,000,000 for each of fiscal years 2025 through 2027.
+  - **(A)** $2,000,000 for fiscal year 2025; and
+  - **(B)** $4,000,000 for each of fiscal years 2026 through 2029.
 
 ## § 8. Effect
 
 Nothing in this Act—
 
 - **(1)** modifies or alters the definition of the term navigable waters under Federal law;
-- **(2)** affects the jurisdiction or authority of State or Federal agencies to regulate navigable waters; or
-- **(3)** modifies or alters the authority or jurisdiction of Federal or State agencies to manage fisheries.
+- **(2)** affects the jurisdiction or authority of State or Federal agencies to regulate navigable waters;
+- **(3)** modifies or alters the authority or jurisdiction of Federal or State agencies to manage fisheries; or
+- **(4)** expands or restricts access to Federal waterways.
