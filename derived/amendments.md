@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7532
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 278h-1` | add-at-end | Chapter 35 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278h-1` | add-at-end | The table of sections for chapter 35 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278h-1` | add-at-end | in paragraph (4), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278h-1` | strike | in subparagraph (H), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 278h-1` | replace | in subparagraph (I), by striking the semicolon and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 278h-1` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278h-1` | redesignate | by redesignating paragraphs (11) and (12) as paragraphs (12) and (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278h-1` | insert | by inserting after paragraph (10) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | repeal | The following are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

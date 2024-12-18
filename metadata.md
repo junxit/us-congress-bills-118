@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7532
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7532
@@ -35,3 +35,8 @@ Federal A.I. Governance and Transparency Act of 2024
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Introduced in House
 - 2024-03-05 — Referred to the House Committee on Oversight and Accountability.
+- 2024-03-07 — Committee Consideration and Mark-up Session Held
+- 2024-03-07 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 36 - 3.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 740.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-905.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-905.
