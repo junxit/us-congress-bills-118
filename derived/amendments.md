@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 46
 congress: 118
-version: Agreed to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
