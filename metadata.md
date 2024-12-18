@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8012
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8012
@@ -93,3 +93,12 @@ Jackie Robinson Ballpark National Commemorative Site Act
 - 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7283)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H7283)
 - 2024-12-18 — Received in the Senate, read twice.
+- 2024-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7287-7288)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2024-12-23 — Message on Senate action sent to the House.
+- 2024-12-27 — Presented to President.
+- 2024-12-27 — Presented to President.
+- 2025-01-04 — Became Public Law No: 118-247.
+- 2025-01-04 — Became Public Law No: 118-247.
+- 2025-01-04 — Signed by President.
+- 2025-01-04 — Signed by President.
