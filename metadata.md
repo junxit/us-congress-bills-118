@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2989
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2989
@@ -16,7 +16,7 @@ Save Our Sequoias Act
 
 - Rep. McCarthy, Kevin [R-CA-20] (M001165)
 
-## Cosponsors (50)
+## Cosponsors (57)
 
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
@@ -68,6 +68,13 @@ Save Our Sequoias Act
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Jackson, Jeff [D-NC-14] (J000308)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Caraveo, Yadira [D-CO-8] (C001134)
+- Rep. Fong, Vince [R-CA-20] (F000480)
 
 ## Committees (2)
 
@@ -80,3 +87,14 @@ Save Our Sequoias Act
 - 2023-04-28 — Introduced in House
 - 2023-04-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-04-28 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-05-08 — Referred to the Subcommittee on Federal Lands.
+- 2023-05-10 — Committee Hearings Held.
+- 2023-05-17 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2023-05-17 — Subcommittee on Federal Lands Discharged.
+- 2023-06-01 — Referred to the Subcommittee on Forestry.
+- 2024-07-24 — ASSUMING FIRST SPONSORSHIP - Mr. Fong asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 2989, a bill originally introduced by Representative McCarthy, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 757.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-927, Part I.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-927, Part I.
