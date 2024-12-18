@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3283
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3283
@@ -34,3 +34,20 @@ Facilitating DIGITAL Applications Act
 - 2023-05-15 — Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-05-15 — Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-05-15 — Referred to the Subcommittee on Communications and Technology.
+- 2023-05-17 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2023-05-17 — Subcommittee Consideration and Mark-up Session Held.
+- 2023-05-24 — Committee Consideration and Mark-up Session Held.
+- 2023-05-24 — Ordered to be Reported by the Yeas and Nays: 51 - 0.
+- 2023-06-01 — Referred to the Subcommittee on Forestry.
+- 2024-06-07 — Reported by the Committee on Energy and Commerce. H. Rept. 118-545, Part I.
+- 2024-06-07 — Reported by the Committee on Energy and Commerce. H. Rept. 118-545, Part I.
+- 2024-07-08 — Referred to the Subcommittee on Federal Lands.
+- 2024-07-09 — Subcommittee Hearings Held
+- 2024-09-19 — Committee Consideration and Mark-up Session Held
+- 2024-09-19 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2024-09-19 — Subcommittee on Federal Lands Discharged
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 746.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-545, Part II.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-545, Part II.
