@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5401
 congress: 118
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5401
@@ -83,3 +83,4 @@ version: Engrossed in House
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2024-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7281)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7281)
+- 2024-12-18 — Received in the Senate.
