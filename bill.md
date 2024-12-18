@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3373
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,3 +16,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(c)** *Period of extension* An extension of time to commence construction of a covered project under subsection (b) shall—
   - **(1)** begin on the date on which the final extension of the period for commencement of construction granted to the licensee under section 13 of the Federal Power Act (16 U.S.C. 806) expires; and
   - **(2)** end on the date that is 4 years after the latest date to which the Federal Energy Regulatory Commission is authorized to extend the period for commencement of construction under that section.
+- **(d)** *Reinstatement of Expired License* If the time period required under section 13 of the Federal Power Act (16 U.S.C. 806) to commence construction of a covered project expires after December 31, 2023, and before the date of enactment of this Act—
+  - **(1)** the Federal Energy Regulatory Commission may reinstate the license for the applicable project effective as of the date of expiration of the license; and
+  - **(2)** the extension authorized under subsection (b) shall take effect on the date of that expiration.
