@@ -1,7 +1,7 @@
 ---
 measure: S. 3312
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,3 +39,11 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278h-1` | replace | in subparagraph (H), by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278h-1` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278h-1` | insert | The National Institute of Standards and Technology Act (15 U.S.C. 278h–1) is amended by inserting after section 22A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting “or data model” after “a data asset”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (23), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 278h-1` | redesignate | by redesignating subparagraph (I) as subparagraph (K); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278h-1` | replace | in subparagraph (H), by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 278h-1` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 271` | insert | The National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.) is amended by inserting after section 22A (15 U.S.C. 278h–1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
