@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1209
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1209
@@ -16,7 +16,7 @@ FOCA Act of 2023
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Cosponsors (79)
+## Cosponsors (122)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
@@ -97,6 +97,49 @@ FOCA Act of 2023
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Pence, Greg [R-IN-6] (P000615)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Steel, Michelle [R-CA-45] (S001135)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Armstrong, Kelly [R-ND-At Large] (A000377)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Collins, Mike [R-GA-10] (C001129)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Kiggans, Jennifer A [R-VA-2] (K000399)
+- Rep. Buck, Ken [R-CO-4] (B001297)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Banks, Jim [R-IN-3] (B001299)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Miller, Carol D. [R-WV-1] (M001205)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
 ## Committees (1)
 
@@ -107,3 +150,8 @@ FOCA Act of 2023
 - 2023-02-27 — Introduced in House
 - 2023-02-27 — Introduced in House
 - 2023-02-27 — Referred to the House Committee on Oversight and Accountability.
+- 2023-07-12 — Committee Consideration and Mark-up Session Held
+- 2023-07-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 20.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 734.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-899.
+- 2024-12-18 — Reported (Amended) by the Committee on Oversight and Accountability. H. Rept. 118-899.

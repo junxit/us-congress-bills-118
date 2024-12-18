@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1209
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fair and Open Competition Act” or the “FOCA Act”.
+This Act may be cited as the “Fair and Open Competition Act of 2023” or the “FOCA Act of 2023”.
 
 ## § 2. Purposes
 
