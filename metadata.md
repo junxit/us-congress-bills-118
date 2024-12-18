@@ -1,7 +1,7 @@
 ---
 measure: S. 2042
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2042
@@ -29,3 +29,5 @@ Sloan Canyon Conservation and Lateral Pipeline Act
 - 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-147.
 - 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-147.
 - 2023-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 299.
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7166; text: CR S7166)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

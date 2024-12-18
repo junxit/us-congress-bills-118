@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2042
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,36 +11,38 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sloan Canyon Conservation and Horizon Lateral Water Pipeline Act”.
+This Act may be cited as the “Sloan Canyon Conservation and Lateral Pipeline Act”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Conservation Area* The term “Conservation Area” means the Sloan Canyon National Conservation Area.
-- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior (acting through the Director of the Bureau of Land Management).
+- **(1)** *Conservation area* The term Conservation Area means the Sloan Canyon National Conservation Area.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior (acting through the Director of the Bureau of Land Management).
 
-## § 3. Sloan Canyon National Conservation Area boundary adjustment
+## § 3. Sloan canyon national conservation area boundary adjustment
 
 - **(a)** *Boundary adjustment*
   - **(1)** *Map* Section 603(4) of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–1(4)) is amended by striking “map entitled “Southern Nevada Public Land Management Act” and dated October 1, 2002” and inserting “map entitled “Proposed Sloan Canyon Expansion” and dated June 7, 2023”.
   - **(2)** *Acreage* Section 604(b) of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–2(b)) is amended by striking “48,438” and inserting “57,728”.
-- **(b)** *Right-of-Way* Section 605 of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–3) is amended by adding at the end the following:
-  > - **(h)** *Horizon lateral pipeline right-of-Way*
-  >   - **(1)** *In general* Notwithstanding sections 202 and 503 of the Federal Land Policy Management Act of 1976 (43 U.S.C. 1712, 1763) and subject to valid existing rights, the Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this subsection as the “Secretary”), shall, not later than 1 year after the date of enactment of this subsection, grant to the Southern Nevada Water Authority (referred to in this subsection as the “Authority”), not subject to the payment of rents or other charges, the temporary and permanent pipeline, powerline, facility, and access road rights-of-way depicted on the map for the purposes of—
+- **(b)** *Right-of-way* Section 605 of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–3) is amended by adding at the end the following:
+  > - **(h)** *Horizon lateral pipeline right-of-way*
+  >   - **(1)** *In general* Notwithstanding sections 202 and 503 of the Federal Land Policy Management Act of 1976 (43 U.S.C. 1712, 1763) and subject to valid existing rights and paragraph (3), the Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this subsection as the “Secretary”), shall, not later than 1 year after the date of enactment of this subsection, grant to the Southern Nevada Water Authority (referred to in this subsection as the “Authority”), not subject to the payment of rents or other charges, the temporary and permanent water pipeline infrastructure, and outside the boundaries of the Conservation Area, powerline, facility, and access road rights-of-way depicted on the map for the purposes of—
   >     - **(A)** performing geotechnical investigations within the rights-of-way; and
   >     - **(B)** constructing and operating water transmission and related facilities.
   >   - **(2)** *Excavation and disposal*
-  >     - **(A)** *In general* The Authority may, without consideration, excavate and use or dispose of sand, gravel, minerals, or other materials necessary to fulfill the purpose of the rights-of-way granted under paragraph (1).
+  >     - **(A)** *In general* The Authority may, without consideration, excavate and use or dispose of sand, gravel, minerals, or other materials from the tunneling of the water pipeline necessary to fulfill the purpose of the rights-of-way granted under paragraph (1).
   >     - **(B)** *Memorandum of understanding* Not later than 30 days after the date on which the rights-of-way are granted under paragraph (1), the Secretary and the Authority shall enter into a memorandum of understanding identifying Federal land on which the Authority may dispose of materials under subparagraph (A) to further the interests of the Bureau of Land Management.
+  >   - **(3)** *Requirements* A right-of-way issued under this subsection shall be subject to the following requirements:
+  >     - **(A)** The Secretary may include reasonable terms and conditions, consistent with section 505 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1765), as are necessary to protect Conservation Area resources.
+  >     - **(B)** Construction of the water pipeline shall not permanently adversely affect conservation area surface resources.
+  >     - **(C)** The right-of-way shall not be located through or under any area designated as wilderness.
 
-- **(c)** *Preservation of Transportation, Utility Corridors, and Management of Conservation Area* Nothing in this Act (including an amendment made by this Act)—
-  - **(1)** includes in the expanded boundary of the Conservation Area under the amendments made by subsection (a) land within a designated utility transmission corridor or a transmission line right-of-way grant approved by the Secretary in a record of decision issued before the date of enactment of this Act;
-  - **(2)** affects the existence, use, operation, maintenance, repair, construction, reconfiguration, expansion, inspection, renewal, reconstruction, alteration, addition, relocation improvement funding, removal, or replacement of any utility facility or appurtenant right-of-way within an existing designated transportation and utility corridor within the expanded boundary of the Conservation Area under the amendments made by subsection (a);
-  - **(3)** precludes the Secretary from authorizing the establishment of a new utility facility right-of-way within an existing designated transportation and utility corridor within the expanded boundary of the Conservation Area under the amendments made by subsection (a)—
-    - **(A)** in accordance with—
-      - **(i)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
-      - **(ii)** any other applicable law; and
-    - **(B)** subject to such terms and conditions as the Secretary determines to be appropriate;
-  - **(4)** prohibits access to, or the repair or replacement of, a transmission line within a right-of-way within the expanded boundary of the Conservation Area under the amendments made by subsection (a) that was issued before the date of enactment of this Act; or
-  - **(5)** except as provided in the amendment made by subsection (b), modifies the management of the Conservation Area pursuant to section 605 of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–3).
+- **(c)** *Preservation of transmission and utility corridors and rights-of-way* The expansion of the Conservation Area boundary under the amendment made by subsection (a)—
+  - **(1)** shall be subject to valid existing rights, including land within a designated utility transmission corridor or a transmission line right-of-way grant approved by the Secretary in a record of decision issued before the date of enactment of this Act;
+  - **(2)** shall not preclude—
+    - **(A)** any activity authorized in accordance with a designated corridor or right-of-way referred to in paragraph (1), including the operation, maintenance, repair, or replacement of any authorized utility facility within the corridor or right-of-way; or
+    - **(B)** the Secretary from authorizing the establishment of a new utility facility right-of-way within an existing designated transportation and utility corridor referred to in paragraph (1) in accordance with—
+      - **(i)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable laws; and
+      - **(ii)** subject to such terms and conditions as the Secretary determines to be appropriate; and
+  - **(3)** except as provided in the amendment made by subsection (b), modifies the management of the Conservation Area pursuant to section 605 of the Sloan Canyon National Conservation Area Act (16 U.S.C. 460qqq–3).
