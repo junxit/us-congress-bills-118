@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4428
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Guidance Clarity Act of 2023”.
+This Act may be cited as the “Guidance Clarity Act”.
 
 ## § 2. Guidance clarity statement required
 
-- **(a)** *Requirement* Each agency, as defined in section 551 of title 5, United States Code, shall include a guidance clarity statement as described in subsection (b) on any guidance issued by that agency under section 553(b)(3)(A) of title 5, United States Code, on and after the date that is 30 days after the date on which the Director of the Office of Management and Budget issues the guidance required under subsection (c).
+- **(a)** *Requirement* Each agency, as defined in section 551 of title 5, United States Code, shall include a guidance clarity statement as described in subsection (b) on any guidance issued by that agency under section 553(b)(4)(A) of title 5, United States Code, on and after the date that is 30 days after the date on which the Director of the Office of Management and Budget issues the guidance required under subsection (c).
 - **(b)** *Guidance clarity statement* A guidance clarity statement required under subsection (a) shall—
   - **(1)** be displayed prominently on the first page of the document; and
   - **(2)** include the following: “The contents of this document do not have the force and effect of law and do not, of themselves, bind the public or the agency. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.”.
