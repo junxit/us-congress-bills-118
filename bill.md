@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Renewing Efficiency in Government by Budgeting Act” or the “REG Budgeting Act”.
+This Act may be cited as the “Renewing Efficiency in Government by Budgeting Act of 2024” or the “REG Budgeting Act of 2024”.
 
 ## § 2. Regulatory budgeting
 
@@ -36,7 +36,7 @@ This Act may be cited as the “Renewing Efficiency in Government by Budgeting A
   >       - **(ii)** publish the report on the website designated under subparagraph (D).
   >     - **(C)** *Prohibition on promulgating certain rules until submission of report to appropriate congressional committees*
   >       - **(i)** *In general* The head of an agency may not finalize a rule that imposes an additional unfunded regulatory cost until the Director submits to the appropriate congressional committees the reports required by subparagraph (A)(i) and subparagraph (B)(i) for the fiscal year in which the rule would be finalized.
-  >       - **(ii)** *Exception* The prohibition under clause (i) shall not apply to any rule with respect to which the President issues an Executive order stating that the rule should take effect because the rule is—
+  >       - **(ii)** *Exception* The prohibition under clause (i) shall not apply to any rule with respect to which the President issues an Executive Order stating that the rule should take effect because the rule is—
   >         - **(I)** necessary—
   >           - **(aa)** because of an emergency, including an imminent threat to health or safety;
   >           - **(bb)** for the enforcement of criminal laws; or
@@ -71,7 +71,7 @@ This Act may be cited as the “Renewing Efficiency in Government by Budgeting A
   >   - **(2)** whether the total amount of additional unfunded regulatory costs imposed by the head of each agency in the prior fiscal year met or exceeded the limit established for such costs under clause (ii) of such subsection;
   >   - **(3)** a detailed statement that—
   >     - **(A)** identifies by how much, and as a result of finalizing which rule or rules, any such limit was exceeded; and
-  >     - **(B)** includes a justification for exceeding any such limit as a result of finalizing such rule or rules;
+  >     - **(B)** includes a justification for exceeding any such limit as a result of finalizing such rule or rules; and
   >   - **(4)** a list of each rule with respect to which the Director determined under subsection (b)(3)(B) that the Director agreed with a determination by the head of an agency to finalize the rule notwithstanding a limit established under subsection (a)(1)(A).
   > - **(e)** *Definitions* In this section:
   >   - **(1)** *Additional unfunded regulatory cost* The term “additional unfunded regulatory cost” means an unfunded regulatory cost that had not been required to be incurred by a State, local, or Tribal government, or the private sector, as a result of a Federal mandate in a rule during any preceding fiscal year.
