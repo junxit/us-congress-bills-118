@@ -1,7 +1,7 @@
 ---
 measure: S. 4596
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4596
@@ -28,3 +28,7 @@ Artificial Intelligence Public Awareness and Education Campaign Act
 
 - 2024-06-20 — Introduced in Senate
 - 2024-06-20 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2024-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2024-12-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2024-12-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.
+- 2024-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 726.
