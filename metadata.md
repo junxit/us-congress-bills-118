@@ -1,7 +1,7 @@
 ---
 measure: S. 4209
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4209
@@ -29,3 +29,5 @@ Katahdin Woods and Waters National Monument Access Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7145; text: CR S7149-7150)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
