@@ -1,7 +1,7 @@
 ---
 measure: S. 1088
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1088
@@ -34,3 +34,5 @@ North Dakota Trust Lands Completion Act of 2023
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-132.
 - 2023-12-12 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-132.
 - 2023-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 276.
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7153; text: CR S7153-7155)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
