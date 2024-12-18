@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8308
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8308
@@ -23,9 +23,10 @@ Nutria Eradication and Control Reauthorization Act of 2024
 - Rep. Garamendi, John [D-CA-8] (G000559)
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Nutria Eradication and Control Reauthorization Act of 2024
 - 2024-12-17 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2024-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7287)
 - 2024-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7287)
+- 2024-12-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
