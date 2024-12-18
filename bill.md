@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3230
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Unfunded Mandates Accountability and Transparency Act”.
+This Act may be cited as the “Unfunded Mandates Accountability and Transparency Act of 2023”.
 
 ## § 2. Regulatory impact analyses for certain rules
 
@@ -120,7 +120,7 @@ Section 208 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1538) is amend
 >   - **(1)** identify areas of noncompliance;
 >   - **(2)** notify the agency; and
 >   - **(3)** request that the agency comply before the agency finalizes the major rule concerned.
-> - **(c)** *Annual statements to Congress on agency compliance* The Administrator shall submit to Congress, including the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives, an annual written report that, for the 1-year period preceding the report—
+> - **(c)** *Annual statements to Congress on agency compliance* The Administrator shall submit to Congress, including the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives, an annual written report that, for the 1-year period preceding the report—
 >   - **(1)** details compliance by each agency with the requirements of this title that relate to major rules for which a regulatory impact analysis is required by section 202, including activities undertaken at the request of the Administrator to improve compliance; and
 >   - **(2)** contains an appendix detailing compliance by each agency with section 204.
 
