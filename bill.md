@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 34
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 

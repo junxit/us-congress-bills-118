@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 34
@@ -26,3 +26,11 @@ Expressing disapproval of the withdrawal by the Secretary of the Interior of app
 - 2023-04-25 — Introduced in House
 - 2023-04-25 — Referred to the House Committee on Natural Resources.
 - 2023-04-25 — Submitted in House
+- 2023-05-08 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2023-05-11 — Subcommittee Hearings Held.
+- 2023-05-17 — Committee Consideration and Mark-up Session Held.
+- 2023-05-17 — Ordered to be Reported by the Yeas and Nays: 17 - 15.
+- 2023-05-17 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 758.
+- 2024-12-18 — Reported by the Committee on Natural Resources. H. Rept. 118-928.
+- 2024-12-18 — Reported by the Committee on Natural Resources. H. Rept. 118-928.
