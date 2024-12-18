@@ -1,7 +1,7 @@
 ---
 measure: S. 4129
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4129
@@ -36,3 +36,5 @@ Theodore Roosevelt Presidential Library Museum Artifacts Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 611.
+- 2024-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7153; text: CR S7156)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
