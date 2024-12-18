@@ -1,7 +1,7 @@
 ---
 measure: S. 4178
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,30 @@ to guess them.
 |---|---|
 | Removed | `the date that is 5 years after the date of the enactment of this section` |
 | Inserted | `December 30, 2035` |
+
+### 15 U.S.C. § 275
+
+> Subsection (c) of such section is amended by striking “under section (b) shall expire on the date that is 5 years after the date of the enactment of this section” and inserting “under subsection (b) shall expire on December 30, 2035”.
+
+| | |
+|---|---|
+| Removed | `under section (b) shall expire on the date that is 5 years after the date of the enactment of this section` |
+| Inserted | `under subsection (b) shall expire on December 30, 2035` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `15 U.S.C. § 271` | insert | The National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.) is amended by inserting after section 22A (15 U.S.C. 278h–1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9411` | add-at-end | Title LI of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9411 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9411` | insert | The table of contents at the beginning of section 2 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and the table of contents at the beginning of title LI of such Act are both amended by inserti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9411` | add-at-end | Title LI of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9411 et seq.), as amended by section 201, is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9411` | insert | The table of contents at the beginning of section 2 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and the table of contents at the beginning of title LI of such Act, as amended by section 201,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 275` | replace | Subsection (b) of section 6 of the National Institute of Standards and Technology Act (15 U.S.C. 275) is amended, in the second sentence, by striking “15” and inserting “30 | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 18931` | add-at-end | Subtitle B of title II of the Research and Development, Competition, and Innovation Act (42 U.S.C. 18931 et seq.; relating to measurement research of the National Institute of Standards and Technology for the future; enacted as part of d… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18931` | insert | The table of contents in section 1 of Public Law 117–167 is amended by inserting after the item relating to section 10235 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
