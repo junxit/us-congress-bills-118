@@ -1,7 +1,7 @@
 ---
 measure: S. 2615
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2615
@@ -33,3 +33,5 @@ Alaska Native Village Municipal Lands Restoration Act of 2023
 - 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-177.
 - 2024-05-16 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-177.
 - 2024-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7165; text: CR S7165)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
