@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4043
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 4282` | insert | Section 302(c)(1) of the Save Our Seas 2.0 Act (33 U.S.C. 4282) is amended by inserting “, the District of Columbia,” before “or Indian Tribes”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4282` | insert | by inserting “States,” before “municipalities”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 4282` | insert | by inserting a comma before “or Indian Tribes”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 4282` | insert | in subsection (d)(1), by inserting “States,” before “units of local government”. | the bill quotes the text inserted but describes where it goes |
