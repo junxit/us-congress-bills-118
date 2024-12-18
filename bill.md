@@ -12,7 +12,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That in the enrollment of the bill H.R. 5009, the Clerk of the House of Representatives shall make the following corrections:
 
 - **(1)** In the table of contents in section 2(b), strike the item relating to section 5705 and insert the following:
-- **(2)** In the table of section 601 regarding basic pay for enlisted members, in the entry relating to a member in pay grade E-5 with over 2 years, strike “3,317.10” and insert “3,466.50”.
+- **(2)** In the table of section 601 regarding basic pay for enlisted members, in the entry relating to a member in pay grade E–5 with over 2 years, strike “3,317.10” and insert “3,466.50”.
 - **(3)** In such table, in the entry relating to a member in such pay grade with over 3 years, strike “3,480.90” and insert “3,637.50”.
 - **(4)** In such table, in the entry relating to a member in such pay grade with over 4 years, strike “3,638.40” and insert “3,802.20”.
 - **(5)** In such table, in the entry relating to a member in such pay grade with over 6 years, strike “3,789.00” and insert “3,959.40”.
