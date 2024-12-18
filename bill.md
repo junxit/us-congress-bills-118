@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5482
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Energy Poverty Prevention and Accountability Act of 2023”.
+This Act may be cited as the “Energy Poverty Prevention and Accountability Act of 2024”.
 
 ## § 2. Sense of Congress
 
@@ -27,26 +27,22 @@ In this Act:
 
 - **(1)** *Agency* The term agency has the meaning given the term in section 551 of title 5, United States Code.
 - **(2)** *Agency action* The term agency action has the meaning given the term in section 551 of title 5, United States Code.
-- **(3)** *Applicable energy rule* The term applicable energy rule means any energy rule that—
-  - **(A)** has an annual effect on the economy of not less than $50,000,000;
-  - **(B)** results in a major increase in costs or prices for any consumer, industry, agency, or geographic region; or
-  - **(C)** has a significant adverse effect on competition, employment, investment, productivity, innovation, or the ability of an enterprise based in the United States to compete with a foreign-based enterprise in a domestic or international market.
-- **(4)** *At-risk community* The term at-risk community means—
+- **(3)** *At-risk community* The term at-risk community means—
   - **(A)** a low-income community;
   - **(B)** a minority community;
   - **(C)** a rural community;
   - **(D)** an elderly community; or
   - **(E)** an American Indian, Alaska Native, or Native Hawaiian community.
-- **(5)** *Elderly community* The term elderly community means a census tract where the majority of the population consists of elderly persons (as “elderly person” is defined in section 891.205 of title 24, Code of Federal Regulations (as in effect on the date of the enactment of this Act)).
-- **(6)** *Energy poverty* The term energy poverty means a condition in which individuals do not have access to affordable and reliable energy to maintain economic security.
-- **(7)** *Energy rule*
-  - **(A)** *In general* The term energy rule means a rule (as defined in section 551 of title 5, United States Code) promulgated by—
+- **(4)** *Elderly community* The term elderly community means a census tract where the majority of the population consists of elderly persons (as “elderly person” is defined in section 891.205 of title 24, Code of Federal Regulations (as in effect on the date of the enactment of this Act)).
+- **(5)** *Energy poverty* The term energy poverty means a condition in which individuals do not have access to affordable and reliable energy to maintain economic security.
+- **(6)** *Energy rule* The term energy rule means a rule (as such term is defined in section 551 of title 5, United States Code)—
+  - **(A)** promulgated by—
     - **(i)** the Administrator of the Environmental Protection Agency;
     - **(ii)** the Secretary of the Interior;
     - **(iii)** the Secretary of Agriculture;
     - **(iv)** the Secretary of Energy; or
-    - **(v)** any other agency the actions of which may affect energy poverty in an at-risk community.
-  - **(B)** *Inclusions* The term energy rule includes any rule described in subparagraph (A) that may result in a change to—
+    - **(v)** any other agency the actions of which may affect energy poverty in an at-risk community; and
+  - **(B)** that may result in a change to—
     - **(i)** electricity prices;
     - **(ii)** home heating prices;
     - **(iii)** gasoline prices;
@@ -54,41 +50,41 @@ In this Act:
     - **(v)** motor vehicle prices;
     - **(vi)** natural gas prices; or
     - **(vii)** household appliance prices.
-- **(8)** *Federal land*
+- **(7)** *Federal land*
   - **(A)** *In general* The term Federal land means—
     - **(i)** National Forest System land;
     - **(ii)** public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702));
     - **(iii)** the outer Continental Shelf (as defined in section 2 of the Outer Continental Shelf Lands Act (43 U.S.C. 1331)); and
     - **(iv)** land managed by the Department of Energy.
   - **(B)** *Inclusion* The term Federal land includes land described in subparagraph (A) for which the rights to the surface estate or subsurface estate are owned by a non-Federal entity.
-- **(9)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
-- **(10)** *Low-income community* The term low-income community means—
+- **(8)** *Indian Tribe* The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+- **(9)** *Low-income community* The term low-income community means—
   - **(A)** a census block group in which the poverty rate for such block group is at least 20 percent;
   - **(B)** in the case of a block group not located within a metropolitan area, the median family income for such block group does not exceed 80 percent of statewide median family income; or
   - **(C)** in the case of a block group located within a metropolitan area, the median family income for such block group does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income (as defined in section 45D(e) of the Internal Revenue Code of 1986 (26 U.S.C. 45D(e)).
-- **(11)** *Minority community* The term minority community means a census tract where the majority of the population consists of minority (as defined in section 104A of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703a)) individuals.
-- **(12)** *Rural community* The term rural community means a community that is located in an area that is outside of an urbanized area (as defined in section 5302 of title 49, United States Code).
-- **(13)** *State renewable portfolio standard* The term State renewable portfolio standard means any State regulation that is designed to increase the use of renewable energy sources, including wind, solar, geothermal, and biomass, to generate electricity.
-- **(14)** *Tribal land* The term Tribal land has the meaning given the term Indian land in section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501).
+- **(10)** *Minority community* The term minority community means a census tract where the majority of the population consists of minority (as defined in section 104A of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703a)) individuals.
+- **(11)** *Rural community* The term rural community means a community that is located in an area that is outside of an urbanized area (as defined in section 5302 of title 49, United States Code).
+- **(12)** *State renewable portfolio standard* The term State renewable portfolio standard means any State regulation that is designed to increase the use of renewable energy sources, including wind, solar, geothermal, and biomass, to generate electricity.
+- **(13)** *Tribal land* The term Tribal land has the meaning given the term Indian land in section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501).
 
 ## § 4. Reports on access to reliable and affordable energy
 
 - **(a)** *Comptroller General* The Comptroller General of the United States, in consultation with each relevant agency, shall—
-  - **(1)** conduct an analysis of Federal energy laws, energy rules, and State renewable portfolio standards to determine how those laws, rules, and standards affected at-risk communities during the preceding fiscal year;
+  - **(1)** conduct an analysis of Federal energy laws, energy rules, and State renewable portfolio standards to determine how those laws, rules, and standards affected at-risk communities during the preceding fiscal year, and if those laws, rules, and standards created disproportionate financial impacts on at-risk communities relative to the general population;
   - **(2)** identify barriers to the ability of at-risk communities to access reliable and affordable energy, including the manner in which the presence of adequate energy transmission infrastructure affects that access; and
   - **(3)** develop criteria to determine whether an at-risk community is experiencing energy poverty.
-- **(b)** *Office of Management and Budget* The Director of the Office of Management and Budget shall review each applicable energy rule to determine if the applicable energy rule imposes disproportionate financial impacts on at-risk communities relative to the general population.
-- **(c)** *Joint report* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States and the Director of the Office of Management and Budget shall jointly submit to Congress a report that—
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
   - **(1)** describes the analysis conducted under subsection (a)(1) and the barriers identified under subsection (a)(2);
   - **(2)** identifies the at-risk communities that are experiencing energy poverty, by location and type; and
   - **(3)** provides recommendations on—
     - **(A)** how to reduce energy poverty in at-risk communities; and
     - **(B)** actions each applicable agency may take to reduce the barriers described in subsection (a)(2), including by—
-      - **(i)** establishing lower fees or lowering other costs;
-      - **(ii)** improving the approval process for rights-of-way on Federal land and Tribal land;
-      - **(iii)** increasing energy production on Federal lands;
-      - **(iv)** encouraging private energy sector investment in Federal land and Tribal land; and
-      - **(v)** improving grid resilience in remote areas.
+      - **(i)** rescinding or modifying energy rules;
+      - **(ii)** establishing lower fees or lowering other costs;
+      - **(iii)** improving the approval process for rights-of-way on Federal land and Tribal land;
+      - **(iv)** increasing energy production on Federal lands;
+      - **(v)** encouraging private energy sector investment in Federal land and Tribal land; and
+      - **(vi)** improving grid resilience in remote areas.
 
 ## § 5. Executive activities supporting at-risk communities
 
@@ -99,8 +95,8 @@ In this Act:
       - **(i)** a declaration of a moratorium on the leasing of Federal land for the drilling, mining, or collection of oil, gas, or coal, or related activities unless such moratorium is authorized by Federal statute; or
       - **(ii)** an action (including non-action with respect to an action directed to be carried out by statute or regulation) that prohibits or delays, with respect to Federal land—
         - **(I)** the issuance of—
-          - **(aa)** new oil and gas lease sales, oil and gas leases, drill permits, or associated approvals, or authorizations of any kind associated with oil and gas leases;
-          - **(bb)** new coal leases (including leases by application in process, renewals, modifications, or expansions of existing leases), permits, approvals, or authorizations;
+          - **(aa)** new oil and gas or geothermal lease sales, oil and gas or geothermal leases, drill permits, or associated approvals, or authorizations of any kind associated with oil and gas or geothermal leases;
+          - **(bb)** new coal leases (including leases by application in process, renewals, modifications, or expansions of existing leases), permits, approvals, or authorizations; or
           - **(cc)** new mineral patents, leases, claims, permits, approvals, or authorizations; or
         - **(II)** a withdrawal of Federal land from—
           - **(aa)** forms of entry, appropriation, or disposal under the public land laws;
@@ -115,7 +111,7 @@ In this Act:
   - **(2)** *Activity to be carried out* Notwithstanding any other provision of law, the President, or a designee of the President, may carry out an activity only if the Secretary of the Interior has fulfilled the activity requirements described in paragraph (3) for that activity.
   - **(3)** *Activity requirements* For each activity, the Secretary of the Interior shall—
     - **(A)** conduct a study to determine if the activity, relative to the general population, is likely to—
-      - **(i)** impose disproportionate costs on at-risk communities; or
+      - **(i)** impose disproportionate financial impacts on at-risk communities; or
       - **(ii)** increase the likelihood that at-risk communities will experience energy poverty and job losses;
     - **(B)** publish the study on a public website of the Department of the Interior; and
     - **(C)** submit to Congress a report on the study that describes the study findings under subparagraph (A).
@@ -132,10 +128,12 @@ In this Act:
       - **(ii)** a determination of which entity, with the consent of that entity, will bear the cost of the study, which may include stakeholders other than the requestor; and
       - **(iii)** such other aspects of the study that the lead agency and the entity that requested the study consider appropriate.
 - **(c)** *Energy poverty statement*
-  - **(1)** *In general* Beginning 30 days after the date on which the Director of the Office of Management and Budget issues guidance under section 6, an agency promulgating any energy rule, including any interpretative rule, general statements of policy, or guidance document shall include an energy poverty statement described in paragraph (2).
+  - **(1)** *In general* Beginning 30 days after the date on which the Director of the Office of Management and Budget issues guidance under section 6, an agency promulgating any energy rule (including an interpretative rule), general statement of policy, development or revision of a resource management plan (or equivalent document), handbook or manual revision, or guidance document shall—
+    - **(A)** certify that the agency has determined the rule, policy, plan, revision, or guidance will not result in short-term or long-term energy poverty in at-risk communities; and
+    - **(B)** include an energy poverty statement described in paragraph (2).
   - **(2)** *Energy poverty statement* An energy poverty statement referred to in paragraph (1) shall—
-    - **(A)** be displayed prominently on the first page of the rule or guidance; and
-    - **(B)** state that the applicable agency certifies that the rule or guidance will not result in energy poverty in at-risk communities.
+    - **(A)** be displayed prominently on the first page of the rule, policy, plan, revision, or guidance document; and
+    - **(B)** include a justification for the determination made under paragraph (1)(A).
 
 ## § 6. OMB implementation guidance
 
