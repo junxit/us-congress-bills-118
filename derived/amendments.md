@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7408
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-45 amendatory instructions. 17 executed, 28 stated and not applied.
+59 amendatory instructions. 19 executed, 40 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -168,6 +168,24 @@ to guess them.
 | Removed | `Wildlife Conservation and Restoration Account` |
 | Inserted | `Subaccount` |
 
+### 16 U.S.C. § 2113a
+
+> in paragraph (4)(B)(i), by striking “National Park Service, or National Wildlife Refuge” and inserting “or National Park Service”;
+
+| | |
+|---|---|
+| Removed | `National Park Service, or National Wildlife Refuge` |
+| Inserted | `or National Park Service` |
+
+### 16 U.S.C. § 2113a
+
+> in clause (ii), by striking “2024” and inserting “2029”;
+
+| | |
+|---|---|
+| Removed | `2024` |
+| Inserted | `2029` |
+
 ### 16 U.S.C. § 1532
 
 > Section 3(3) of the Endangered Species Act of 1973 (16 U.S.C. 1532(3)) is amended by striking “and transplantation, and, in the extraordinary case where population pressures within a given ecosystem cannot be otherwise relieved, may include” and inserting “transplantation, and, at the discretion of the Secretary,”.
@@ -187,6 +205,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 669b` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 777` | insert | by inserting after “(c)” the following: “Wildlife Habitat Conservation and Restoration Subaccount.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 777` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (10) and (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 777` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669c` | insert | by inserting “, after deducting the amount distributed pursuant to section 3(c)(4),” after “Secretary of the Interior shall”; | the bill quotes the text inserted but describes where it goes |
@@ -196,15 +215,26 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 669c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669c` | amend | by amending paragraph (2)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1531` | add-at-end | by adding at the end following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669a` | strike | in paragraph (7), by striking “including fish,”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669a` | strike | in paragraph (7), by striking “including fish,”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669a` | replace | in paragraph (6), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669a` | insert | by inserting “Indian Tribes,” before “wildlife conservation organizations”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 669` | redesignate | by redesignating paragraphs (6) through (11) as paragraphs (7) through (12), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669` | redesignate | by redesignating paragraphs (8) through (12), as so redesignated by subparagraph (A) of this paragraph, as paragraphs (9) through (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 669` | redesignate | in paragraph (10), as so redesignated by section 101(a)(3) of this Act, by striking “or an Indian tribe”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 669` | redesignate | by inserting after paragraph (7), as so redesignated by subparagraph (A) of this paragraph, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 669` | redesignate | in paragraph (10), as so redesignated by section 101(a)(2)(B) of this Act, by striking “or an Indian tribe”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 669` | redesignate | by redesignating section 14 as section 16; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 669` | insert | by inserting after section 13 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | insert | in paragraph (1)(B), by inserting “, Indian tribe,” after “Governor”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | replace | in clause (iii), by striking “; or” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | strike | by striking clause (iv). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | insert | in paragraph (5), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | strike | in paragraph (6), by striking “or Indian tribe”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 2113a` | insert | in paragraph (1)(A), by inserting “, Indian tribe,” after “Governor”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 2113a` | insert | in paragraph (3), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 2113a` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | add-at-end | Section 4(b)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1533(b)(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1539` | add-at-end | Section 10 of the Endangered Species Act of 1973 (16 U.S.C. 1539) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1533` | add-at-end | Section 4(a)(3) of the Endangered Species Act of 1973 (16 U.S.C. 1533(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -213,4 +243,4 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1533` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1533` | replace | in clause (iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1533` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 4701` | repeal | The following sections of division AA of the Consolidated Appropriations Act, 2021 (Public Law 116–260) are repealed: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 4701` | repeal | The following sections of division AA of the Consolidated Appropriations Act, 2021 (Public Law 116–260) are repealed (and by conforming the items in the table of contents accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

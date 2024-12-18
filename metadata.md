@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7408
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7408
@@ -16,7 +16,7 @@ America’s Wildlife Habitat Conservation Act
 
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
 
-## Cosponsors (18)
+## Cosponsors (22)
 
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
@@ -36,6 +36,10 @@ America’s Wildlife Habitat Conservation Act
 - Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Rosendale Sr., Matthew M. [R-MT-2] (R000103)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
 
 ## Committees (2)
 
@@ -48,3 +52,14 @@ America’s Wildlife Habitat Conservation Act
 - 2024-02-20 — Introduced in House
 - 2024-02-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-02-20 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-03-04 — Referred to the Subcommittee on Water, Wildlife, and Fisheries.
+- 2024-04-16 — Committee Consideration and Mark-up Session Held
+- 2024-04-16 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 21 - 17.
+- 2024-04-16 — Subcommittee on Water, Wildlife, and Fisheries Discharged
+- 2024-08-30 — Referred to the Subcommittee on Conservation, Research, and Biotechnology.
+- 2024-08-30 — Referred to the Subcommittee on Forestry.
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Committee on Agriculture discharged.
+- 2024-12-18 — Placed on the Union Calendar, Calendar No. 754.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-922, Part I.
+- 2024-12-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 118-922, Part I.
