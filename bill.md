@@ -19,7 +19,7 @@ This Act may be cited as the “Ensuring Airline Resiliency to Reduce Delays and
 - **(b)** *Operational resiliency strategy* In each operational resiliency strategy developed under subsection (a), a covered carrier shall include a description of—
   - **(1)** the potential impact of severe weather and other reasonably anticipated disruptive events on the operations of the carrier and how the carrier seeks to prevent or limit the impact of such events on passengers;
   - **(2)** the potential impact of severe weather events and other reasonably anticipated disruptive events on—
-    - **(A)** staffing models and the preparedness of the current workforce of the carrier to address such conditions; and
+    - **(A)** staffing models, including the ability of such models to ensure the workforce is able to adequately respond to such events and reschedule passengers, flight crews, operations staff, and other appropriate personnel; and
     - **(B)** the current information and technology systems of the carrier, including crew scheduling systems, and the preparedness of such systems to continue operations after such an event or disruption;
   - **(3)** the preparedness of the carrier to maintain operations and limit or prevent the impact of other potential disruptive events identified by the carrier;
   - **(4)** the extent to which the carrier addresses known cybersecurity risks and information technology deficiencies and vulnerabilities to prevent potential flight disruptions; and
