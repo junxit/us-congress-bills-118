@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 7938
-congress: 118th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Eighteenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7938
@@ -30,7 +30,7 @@ This Act may be cited as the “Klamath Basin Water Agreement Support Act of 202
   >   - **(1)** the short-term and long-term reduction and resolution of conflicts relating to water in the Klamath Basin watershed; and
   >   - **(2)** compatibility and utility for protecting natural resources throughout the Klamath Basin watershed, including the protection, preservation, and restoration of Klamath River Tribal fishery resources, particularly through collaboratively developed agreements.
   > - **(f)** *Pumping plant d* The Secretary may enter into 1 or more agreements with the Tulelake Irrigation District to reimburse the Tulelake Irrigation District for not more than 69 percent of the cost incurred by the Tulelake Irrigation District for the operation and maintenance of Pumping Plant D, subject to the condition that the cost results in benefits to the United States.
-  > - **(g)** *Keno and link river dams* The Secretary of the Interior shall comply with the terms of the agreement entitled “2016 Klamath Power and Facilities Agreement”(“Agreement”), including Attachment A to the Agreement.
+  > - **(g)** *Keno and link river dams* The Secretary of the Interior shall comply with the terms of the agreement entitled “2016 Klamath Power and Facilities Agreement” (“Agreement”), including Attachment A to the Agreement.
 
 - **(b)** *Administration; effect*
   - **(1)** *Compliance* In implementing the amendments made by this section, the Secretary of the Interior shall comply with—
