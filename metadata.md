@@ -1,7 +1,7 @@
 ---
 measure: S. 961
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 961
@@ -29,3 +29,5 @@ Salem Maritime National Historical Park Redesignation and Boundary Study Act
 - 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-152.
 - 2024-01-09 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-152.
 - 2024-01-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
+- 2024-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7145; text: CR S7149)
+- 2024-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
