@@ -15,7 +15,7 @@ This Act may be cited as the “Transparent Telehealth Bills Act of 2024”.
 
 ## § 2. Prohibiting increased payments under a group health plan or group health insurance coverage for telehealth services furnished by a provider located at a facility
 
-- **(a)** *In general* Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. section 1185 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.) is amended by adding at the end the following new section:
   > ## § 726. Prohibition on increased payments for telehealth services furnished by a provider located at a facility
   >
   > - **(a)** *In general* In the case of a telehealth service furnished to a participant or beneficiary of a group health plan or group health insurance coverage by a health care provider located at a health care facility, the total amount recognized by such plan or coverage as payment for such service (including any facility fee or other amount that may be billed separately by such facility in relation to such provider’s furnishing of such service) may not exceed the total amount that would have been recognized by such plan or coverage as payment for such service had such provider not been located at such a facility.
@@ -31,3 +31,13 @@ This Act may be cited as the “Transparent Telehealth Bills Act of 2024”.
   - **(6)** Trends and statistics regarding payment and reimbursement for telehealth services.
   - **(7)** Trends and statistics regarding premiums for such plans and coverage offering telehealth services.
 - **(d)** *Effective date* The amendment made by subsection (a) shall apply to plan years beginning on or after January 1, 2026.
+
+## § 3. Prohibiting health care providers and facilities from imposing certain facility fees for telehealth
+
+- **(a)** *In general* Subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1021 et seq.) is amended by adding at the end the following new part:
+- **(b)** *Enforcement* Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended—
+  - **(1)** in subsection (a)(6), by striking “or (9)” and inserting “(9), or (13)”; and
+  - **(2)** in subsection (c), by adding at the end the following new paragraph:
+    > - **(13)** If a health care provider or facility is found by the Secretary to be in violation of section 901, the Secretary may assess a civil monetary penalty against such provider or facility in an amount not to exceed $10,000 per violation.
+
+- **(c)** *Clerical amendment* The table of contents of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) is amended by inserting after the item relating to section 804 the following new item:
