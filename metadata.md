@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9596
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 9596
@@ -44,3 +44,7 @@ Value Over Cost Act
 - 2024-11-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
 - 2024-11-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
 - 2024-11-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-11-20 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-335.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-335.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 755.

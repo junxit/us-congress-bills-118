@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9596
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
