@@ -1,7 +1,7 @@
 ---
 measure: S. 4974
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4974
@@ -34,3 +34,5 @@ A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreatio
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7218; text: CR S7218)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
