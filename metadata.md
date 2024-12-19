@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1720
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1720
@@ -32,3 +32,10 @@ Ocean Pollution Reduction Act II
 - 2023-03-22 — Introduced in House
 - 2023-03-22 — Introduced in House
 - 2023-03-22 — Referred to the House Committee on Transportation and Infrastructure.
+- 2023-03-23 — Referred to the Subcommittee on Water Resources and Environment.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 57 - 7.
+- 2024-09-18 — Subcommittee on Water Resources and Environment Discharged
+- 2024-12-19 — Placed on the Union Calendar, Calendar No. 759.
+- 2024-12-19 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-929.
+- 2024-12-19 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-929.
