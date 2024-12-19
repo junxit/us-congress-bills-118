@@ -1,7 +1,7 @@
 ---
 measure: S. 3790
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3790
@@ -33,3 +33,5 @@ Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2024
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 608.
+- 2024-12-19 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7218; text: CR S7220)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.

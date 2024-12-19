@@ -1,7 +1,7 @@
 ---
 measure: S. 3790
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,25 +32,3 @@ to guess them.
 |---|---|
 | Removed | `5-year period` |
 | Inserted | `10-year period` |
-
-### 43 U.S.C. § 1629g-1
-
-> Section 1119(b)(3)(B) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (43 U.S.C. 1629g–1(b)(3)(B)) is amended by striking “5-year period” and inserting “10-year period”.
-
-| | |
-|---|---|
-| Removed | `5-year period` |
-| Inserted | `10-year period` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `43 U.S.C. § 1629g-1` | strike | by striking clause (v); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1629g-1` | redesignate | by redesignating clauses (vi) through (x) as clauses (v) through (ix), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1629g-1` | add-at-end | Section 1119 of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (43 U.S.C. 1629g–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
