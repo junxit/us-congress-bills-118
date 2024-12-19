@@ -1,0 +1,12 @@
+---
+legis-num: H.J. RES. 230
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 230
+
+> Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management related to the Record of Decision and Approved Resource Management Plan Amendment for the Miles City Field Office, Montana.
+
+That Congress disapproves the rule submitted by the Bureau of Land Management of the Department of the Interior relating to “Record of Decision and Approved Resource Management Plan Amendment for the Miles City Field Office, Montana” referred to in the notice of availability published on November 27, 2024 (89 Fed. Reg. 93650), and such rule shall have no force or effect.
