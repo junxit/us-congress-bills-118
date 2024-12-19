@@ -35,15 +35,16 @@ This Act may be cited as the “HUD Evaluation and Optimization Commission Act o
   - **(2)** *Subsequent meetings* The Commission shall meet—
     - **(A)** at least once each month; and
     - **(B)** at the call of the Chairperson or the majority of the members of the Commission.
-- **(g)** *Quorum* A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings.
+- **(g)** *Quorum* A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings approved pursuant to subsection (f)(2).
 - **(h)** *Voting* The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
-- **(i)** *Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+- **(i)** *Federal Advisory Committee Act* Chapter 10 of title 5, United States Code (5 U.S.C. 1001 et seq.; relating to Federal Advisory Committees), shall not apply to the Commission.
 
 ## § 3. Duties
 
 - **(a)** *In general* The Commission shall review and determine—
-  - **(1)** the number, design, complexity, utilization, authorization or lack thereof, and potential overlap of the current programs administered by the Department of Housing and Urban Development (in this Act referred to as the “Department”); and
-  - **(2)** the level of effectiveness of the Department and its programs, including identifying how best to optimize the effectiveness of each area of review, to more effectively meet the Department’s mission while reducing waste and mismanagement.
+  - **(1)** the number, design, complexity, utilization, authorization or lack thereof, and potential overlap of the current programs administered by the Department of Housing and Urban Development (in this Act referred to as the “Department”);
+  - **(2)** the level of effectiveness of the Department and its programs, including identifying how best to optimize the effectiveness of each area of review, to more effectively meet the Department’s mission while reducing waste and mismanagement; and
+  - **(3)** the extent to which housing costs are driving inflation and how to reduce inflation in the cost of housing.
 - **(b)** *Analysis and recommendations* The Commission shall analyze the potential performance and cost-efficiency benefits that could be achieved through a reorganization of the Department, including consolidation and realignment of its programs, and shall make recommendations regarding—
   - **(1)** changes to the Department’s organizational structure to better serve program participants, protect taxpayers, and create operational efficiencies;
   - **(2)** improvements in the processes that the Department can execute to better fulfill its statutory obligations and mission to provide decent, safe, sanitary, and affordable housing;
@@ -59,7 +60,7 @@ This Act may be cited as the “HUD Evaluation and Optimization Commission Act o
   - **(2)** *Final report* Not later than 18 months after the date of its initial meeting and upon an affirmative vote of a majority of the members of the Commission, the Commission shall submit to the Congress and make publicly available a final report containing—
     - **(A)** a detailed statement of the findings, conclusions, and recommendations of the Commission under subsections (a) and (b);
     - **(B)** a statement of the assumptions, scenarios, and alternatives considered in reaching such findings, conclusions, and recommendations;
-    - **(C)** proposed legislative language for reauthorization, expiration, termination, or elimination of programs consistent with the final report;
+    - **(C)** proposed legislative language for reauthorization, consolidation, expiration, termination, or elimination of programs consistent with the final report;
     - **(D)** any additional views or recommendations of individual Commission members with attribution and in a separate section of the report;
     - **(E)** a summary of the Commission’s meetings, hearings, and activities;
     - **(F)** a final accounting of the funds the Commission received and expended; and
@@ -110,7 +111,7 @@ This Act may be cited as the “HUD Evaluation and Optimization Commission Act o
   - **(2)** *Treatment of companion measures in the Senate* If following passage of the Commission bill in the Senate, the Senate then receives the Commission bill from the House of Representatives, the House-passed Commission bill shall not be debatable. The vote on passage of the Commission bill in the Senate shall be considered to be the vote on passage of the Commission bill received from the House of Representatives.
   - **(3)** *Vetoes* If the President vetoes the Commission bill, debate on a veto message in the Senate under this section shall be 1 hour equally divided between the majority and minority leaders or their designees.
 - **(g)** *Loss of privilege* The provisions of this section shall cease to apply to the Commission bill if—
-  - **(1)** the Commission fails to produce the final report required under section 3(c)(2) within 20 months from the date of enactment; or
+  - **(1)** the Commission fails to produce the final report required under section 3(c)(2) within 20 months from the date of enactment of this Act; or
   - **(2)** the Commission bill does not pass either House.
 
 ## § 7. Termination
