@@ -11,13 +11,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Review and Evaluation of Strategies for Equal Reservations for Visitor Experiences Federal Land Act” or the “RESERVE Federal Land Act”.
+This Act may be cited as the “Review and Evaluation of Strategies for Equitable Reservations for Visitor Experiences Federal Land Act” or the “RESERVE Federal Land Act”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Booking window* The term booking window, with respect to a reservation system, means the time period during which a reservation or lottery entry is available to the public.
+- **(1)** *Booking window* The term booking window, with respect to a Federal reservation system, means the time period during which a reservation or lottery entry is available to the public.
 - **(2)** *Federal land* The term Federal land means—
   - **(A)** public lands (as defined in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702));
   - **(B)** National Forest System land;
@@ -25,27 +25,34 @@ In this Act:
   - **(D)** units of the National Wildlife Refuge System;
   - **(E)** sites administered by the Bureau of Reclamation; and
   - **(F)** sites administered by the Corps of Engineers.
-- **(3)** *Recreation activity* The term recreation activity includes camping, backpacking, climbing, fishing, hiking, driving, and other recreational opportunities.
-- **(4)** *Reservation system*
-  - **(A)** *In general* The term reservation system means any platform or method used by managers of Federal land to ration recreation activities.
-  - **(B)** *Inclusions* The term reservation system includes reservation, lottery, metering, pricing, merit-based, and other similar rationing methods via online, telephone, paper, in-person, or other methods.
-- **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Federal reservation system*
+  - **(A)** *In general* The term Federal reservation system means any platform or method used by managers of Federal land to manage the quantity, type, distribution, and timing of recreational activities.
+  - **(B)** *Inclusions* The term Federal reservation system includes reservation, permit, lottery, metering, pricing, merit-based, and other similar management methods via online, telephone, paper, in-person, or other methods.
+- **(4)** *Recreational activity* The term recreational activity includes camping, backpacking, climbing, paddling sports, fishing, hiking, driving, and other recreational opportunities.
+- **(5)** *Secretaries* The term Secretaries means—
+  - **(A)** the Secretary of the Interior;
+  - **(B)** the Secretary of Agriculture; and
+  - **(C)** the Secretary of the Army, acting through the Chief of Engineers.
 
-## § 3. National academy of sciences study of reservation systems for recreation activities on Federal land
+## § 3. National academy of sciences study of Federal reservation systems for recreational activities on Federal land
 
 - **(a)** *Study*
-  - **(1)** *In general* The Secretary, in coordination with the Secretary of Agriculture and the Secretary of the Army, acting through the Chief of Engineers, shall, not later than 60 days after the date of enactment of this Act, enter into an agreement with the National Academy of Sciences to carry out a study of reservation systems for recreation activities on Federal land.
-  - **(2)** *Requirements* In carrying out the study under paragraph (1), the National Academy of Sciences shall carry out the following:
-    - **(A)** A comprehensive review of the history of reservation systems, such as recreation.gov, including a review of—
-      - **(i)** the studies that led to the establishment of the applicable reservation system;
-      - **(ii)** the iterations of the applicable reservation system over time to meet the needs of the applicable Federal agency; and
-      - **(iii)** any visitor feedback provided with respect to the applicable reservation system.
+  - **(1)** *In general* The Secretaries, acting jointly, shall, not later than 60 days after the date of enactment of this Act, enter into an agreement with the National Academy of Sciences to carry out a study of Federal reservation systems for recreational activities on Federal land.
+  - **(2)** *Requirements* In carrying out the study under paragraph (1), the National Academy of Sciences shall consult with the Secretaries to carry out the following:
+    - **(A)** A review of the history of Federal reservation systems, such as recreation.gov, including a review of—
+      - **(i)** the considerations, including data, that led to the establishment of the applicable Federal reservation system;
+      - **(ii)** the iterations of the applicable Federal reservation system over time to meet the needs of the applicable Federal agency;
+      - **(iii)** any visitor feedback provided with respect to the applicable Federal reservation system; and
+      - **(iv)** scientific literature or studies examining the efficacy of Federal reservation systems, including user preferences with respect to Federal reservation system design and implementation.
     - **(B)** Based on available data and existing research, answer the following questions:
-      - **(i)** What are the benefits and challenges of implementing reservation systems for visitor management and conservation goals for Federal land?
-      - **(ii)** What data are available to understand demand for recreation on Federal land? How can the data be used to balance visitor management and conservation goals?
-      - **(iii)** What information is available regarding Federal land users and reservation system users? What information is available or needs to be collected regarding demographics and characteristics of successful applicants using the reservation systems?
-      - **(iv)** What best practices should guide reservation system design, including diversity of rationing mechanisms and booking windows, and would promote equal access to recreation activities? What metrics can be used to record outcomes of reservation system design?
-      - **(v)** How have fees been collected for reservation systems over time to meet the needs of the applicable Federal agency? How are the revenues from fees for reservation systems split between, and spent by, Federal land units, Federal agencies, and third-party contractors? How is the fee structure disseminated to users? How could dissemination of information with respect to the fee structure be improved?
-      - **(vi)** What are the odds of success with respect to securing a reservation under reservation systems? How are the odds of success disseminated to users? How could dissemination of information with respect to the odds of success be improved?
-      - **(vii)** How are data, including data collected by contractors, on reservation systems shared with Federal land managers, researchers, and the public? How can transparency be improved to inform the decisionmaking of users of reservation systems?
-- **(b)** *Report* The agreement entered into under subsection (a)(1) shall include a requirement that, not later than 18 months after the date of enactment of this Act, the National Academy of Sciences shall submit to the appropriate committees of Congress a report that describes the results of the study carried out under subsection (a)(1).
+      - **(i)** What are the benefits and challenges of implementing Federal reservation systems to achieve management goals for Federal land, including resource protection, enjoyable visitor experiences, and sustainable operations and facility use?
+      - **(ii)** What data are available, and what additional data are needed, to understand demand for recreation on Federal land? How can the data be used to balance visitor management and conservation goals?
+      - **(iii)** What information is available regarding Federal land users and Federal reservation system users? What information is available or needs to be collected regarding demographics and characteristics of successful and unsuccessful applicants using the Federal reservation systems?
+      - **(iv)** Do Federal reservation systems pose a barrier for certain communities, including international communities, and user groups to access appropriate recreation opportunities on Federal land? If so, what is the nature of any barriers identified?
+      - **(v)** What best practices should be considered in Federal reservation system design, including visitation management system options and booking windows, options to respond to the needs specific to individual Federal land management units, and equitable access to recreational activities? What metrics can be used to record outcomes of Federal reservation system design?
+      - **(vi)** How have fees been collected for Federal reservation systems over time to meet the needs of the applicable Federal agency? How are the revenues from fees for Federal reservation systems split between, and spent by, Federal land units, Federal agencies, and third-party contractors? How is the fee structure disseminated to users? How could dissemination of information with respect to the fee structure be improved?
+      - **(vii)** What are the odds of success with respect to securing a reservation under Federal reservation systems? How are the odds of success disseminated to users? How could dissemination of information with respect to the odds of success be improved?
+      - **(viii)** How are data, including data collected by contractors, on Federal reservation systems shared with Federal land managers, researchers, and the public? How can transparency be improved to inform the decisionmaking of users of Federal reservation systems?
+      - **(ix)** How are Federal reservation systems incorporating and adapting to emerging technologies, such as geofencing, bots, or third-party websites monitoring and reselling reservations? Are Federal reservation systems resilient to cyber threats?
+      - **(x)** How can Federal reservation systems be improved to reduce “no shows” and ensure that recreation sites are being used during periods of high demand? Would an increase in first-come, first-served opportunities increase equitable access to outdoor recreation on Federal land?
+- **(b)** *Report* The agreement entered into under subsection (a)(1) shall include a requirement that, not later than 18 months after the date on which the agreement is entered into, the National Academy of Sciences shall submit to the appropriate committees of Congress a report that describes the results of the study carried out under that subsection.
