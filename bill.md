@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3244
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,24 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Stop Fentanyl Money Laundering Act of 2023”.
 
-## § 2. GAO study on designation of Mexican cartels as Foreign Terrorist Organizations
-
-- **(a)** *Findings* The Congress finds the following:
-  - **(1)** Entities placed on the list of Foreign Terrorist Organizations maintained by the Secretary of State are suspected of engaging in terrorism-related activities.
-  - **(2)** By designating an entity to be placed on the list of Foreign Terrorist Organizations, the United States seeks to limit the entity’s financial, property, and travel interests.
-  - **(3)** Per section 219 of the Immigration and Nationality Act, as amended by section 302 of the Antiterrorism and Effective Death Penalty Act of 1996, the Secretary of State must demonstrate that an entity of concern has met the following three criteria to allow the Secretary to designate the entity as a Foreign Terrorist Organization:
-    - **(A)** The entity is a foreign organization.
-    - **(B)** The entity engages in or retains the capability and intent to engage in terrorism.
-    - **(C)** The entity threatens the security of U.S. nationals or the national defense, foreign relations, or the economic interests of the United States.
-- **(b)** *Study* The Comptroller General of the United States, in consultation with the Secretary of State, shall carry out a study on the implications of the Secretary of State designating Mexican drug cartels as foreign terrorist organizations under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
-- **(c)** *Contents* In carrying out the study required under subsection (b), the Comptroller General shall—
-  - **(1)** review any analyses conducted by Federal agencies pertaining to designating Mexican drug cartels as foreign terror organizations; and
-  - **(2)** consider how such a determination would bolster the Foreign Narcotics Kingpin Designation Act.
-- **(d)** *Report* Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Comptroller General shall issue a report to the Congress containing—
-  - **(1)** all findings and determinations made in carrying out the study required under subsection (b); and
-  - **(2)** a comprehensive analysis of the strategic benefits and potential risks that designating Mexican drug cartels as foreign terrorist organizations would provide in thwarting the current fentanyl crisis, and how the United States could alleviate possible downsides of the designation.
-
-## § 3. Determination with respect to primary money laundering concern of illicit fentanyl and narcotics financing
+## § 2. Determination with respect to primary money laundering concern of illicit fentanyl and narcotics financing
 
 - **(a)** *In general* If the Secretary of the Treasury determines that one or more financial institutions operating outside of the United States, or one or more classes of transactions within, or involving, a jurisdiction outside of the United States, or one or more types of accounts within, or involving, a jurisdiction outside of the United States is of primary money laundering concern in connection with illicit fentanyl and narcotics financing, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law, require domestic financial institutions and domestic financial agencies to take one or more of the special measures described in section 5318A(b) of title 31, United States Code.
 - **(b)** *Classified information* In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Secretary of the Treasury to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
@@ -39,7 +22,7 @@ This Act may be cited as the “Stop Fentanyl Money Laundering Act of 2023”.
 - **(e)** *Injunctions* The Secretary of the Treasury may bring a civil action to enjoin a violation of any order, regulation, special measure, or other requirement imposed under subsection (a) in the same manner and to the same extent as described in section 9714(e) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 31 U.S.C. 5318A note).
 - **(f)** *Definitions* In this section, the terms “domestic financial agency”, “domestic financial institution”, “financial agency”, and “financial institution” have the meanings given those terms as used in section 9714 of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 31 U.S.C. 5318A note).
 
-## § 4. Trade-based money laundering advisory
+## § 3. Trade-based money laundering advisory
 
 Not later than one year following the date of the enactment of this Act, the Financial Crimes Enforcement Network shall update and issue a new advisory to financial institutions on identifying Chinese professional money laundering facilitating the trafficking of fentanyl and other synthetic opioids. Such advisory shall incorporate the following advisories:
 
@@ -47,7 +30,7 @@ Not later than one year following the date of the enactment of this Act, the Fin
 - **(2)** FIN–2010–A001, entitled “Advisory to Financial Institutions on Filing Suspicious Activity Reports regarding Trade-Based Money Laundering”; and
 - **(3)** FIN–2019–A006, entitled “Advisory to Financial Institutions on Illicit Financial Schemes and Methods Related to the Trafficking of Fentanyl and Other Synthetic Opioids”.
 
-## § 5. Treatment of transnational criminal organizations in suspicious transactions
+## § 4. Treatment of transnational criminal organizations in suspicious transactions
 
 - **(a)** *Filing instructions* Not later than 180 days after the date of the enactment of this Act, the Director of the Financial Crimes Enforcement Network shall issue guidance or instructions to United States financial institutions for filing reports on suspicious transactions required by section 5318(g) of title 31, United States Code, related to suspected narcotics trafficking by transnational criminal organizations.
 - **(b)** *Prioritization of reports relating to narcotics trafficking or transnational criminal organizations* The Director shall prioritize research into reports described in subsection (a) that indicate a connection to trafficking of narcotics.
