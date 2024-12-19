@@ -1,7 +1,7 @@
 ---
 measure: S. 4753
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4753
@@ -28,3 +28,7 @@ Energy Permitting Reform Act of 2024
 
 - 2024-07-23 — Introduced in Senate
 - 2024-07-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2024-07-31 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-336.
+- 2024-12-19 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-336.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 756.
