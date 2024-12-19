@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1380
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,27 +13,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Protecting America’s Rock Climbing Act”.
 
-## § 2. Guidance on climbing management in designated wilderness areas
+## § 2. Guidance on climbing
 
-- **(a)** *Climbing guidance required*
-  - **(1)** *In general* Not later than 18 months after the date of the enactment of this Act, the Secretary concerned shall issue guidance on climbing management in designated wilderness areas that recognizes the appropriateness of the allowable activities described in paragraph (2) in such areas, if the allowable activities are undertaken in accordance with—
-    - **(A)** the Wilderness Act (16 U.S.C. 1131 et seq.);
-    - **(B)** other applicable laws (including regulations); and
-    - **(C)** any terms and conditions that are determined to be necessary by the Secretary concerned.
-  - **(2)** *Allowable activities* The allowable activities referred to in paragraph (1) are—
-    - **(A)** recreational climbing;
-    - **(B)** the placement, use, and maintenance of fixed anchors; and
-    - **(C)** the use of other equipment necessary for recreational climbing.
-- **(b)** *Public notice and comment*
-  - **(1)** *Requirement* Except as provided in paragraph (2), prior to taking any significant management action affecting the allowable activities described in subsection (a)(2) on the land described in subsection (c)(1)(B), the Secretary concerned shall provide the public with notice and an opportunity to comment on the proposed action.
-  - **(2)** *Exception with respect to emergency actions* Paragraph (1) shall not apply to an emergency action that has a duration of less than 2 years.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Designated wilderness area* The term “designated wilderness area” means an area—
-    - **(A)** designated as a wilderness area pursuant to the Wilderness Act (16 U.S.C. 1131 et seq.); and
-    - **(B)** located in—
-      - **(i)** National Forest System lands; or
-      - **(ii)** lands under the administrative jurisdiction of the Secretary of the Interior.
-  - **(2)** *Emergency action* The term “emergency action” means a time sensitive action necessary to protect natural resources or public health and safety.
-  - **(3)** *Secretary concerned* The term “Secretary concerned” means—
+- **(a)** *In general* Not later than 18 months after the date of enactment of this Act, each Secretary concerned shall issue guidance for recreational climbing activities on covered Federal land.
+- **(b)** *Applicable law* The guidance issued under subsection (a) shall ensure that recreational climbing activities comply with the laws (including regulations) applicable to the covered Federal land.
+- **(c)** *Wilderness areas* The guidance issued under subsection (a) shall recognize that recreational climbing (including the use, placement, and maintenance of fixed anchors) is an appropriate use within a component of the National Wilderness Preservation System, if undertaken—
+  - **(1)** in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and other applicable laws (including regulations); and
+  - **(2)** subject to any terms and conditions determined by the Secretary concerned to be appropriate.
+- **(d)** *Authorization* The guidance issued under subsection (a) shall describe the requirements, if any, for the placement and maintenance of fixed anchors for recreational climbing in a component of the National Wilderness Preservation System, including any terms and conditions determined by the Secretary concerned to be appropriate, which may be issued programmatically or on a case-by-case basis.
+- **(e)** *Existing routes* The guidance issued under subsection (a) shall include direction providing for the continued use and maintenance of recreational climbing routes (including fixed anchors along the routes) in existence as of the date of enactment of this Act, in accordance with this Act.
+- **(f)** *Public comment* Before finalizing the guidance issued under subsection (a), the Secretary concerned shall provide opportunities for public comment with respect to the guidance.
+- **(g)** *Definitions* In this section:
+  - **(1)** *Covered Federal land* The term “covered Federal land”—
+    - **(A)** means the lands described in subparagraph (A) and (B) of paragraph (2); and
+    - **(B)** includes components of the National Wilderness Preservation System.
+  - **(2)** *Secretary concerned* The term “Secretary concerned” means—
     - **(A)** the Secretary of Agriculture, with respect to National Forest System lands; and
-    - **(B)** the Secretary of the Interior, with respect to lands under the administrative jurisdiction of such Secretary.
+    - **(B)** the Secretary of the Interior, with respect to lands under the jurisdiction of such Secretary.
