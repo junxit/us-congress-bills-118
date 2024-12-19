@@ -1,0 +1,442 @@
+---
+legis-num: S. 5618
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5618
+
+> To promote defense innovation, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Fostering Reform and Government Efficiency in Defense Act” or “FoRGED Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 101. Repeals of existing law to streamline the defense acquisition process
+
+- **(a)** *In general* The following provisions are hereby repealed:
+  - **(1)** Section 3067 of title 10, United States Code.
+  - **(2)** Section 3070 of title 10, United States Code.
+  - **(3)** Section 3072 of title 10, United States Code.
+  - **(4)** Section 874 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 3101).
+  - **(5)** Section 913 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 3101).
+  - **(6)** Section 810 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note prec. 3101).
+  - **(7)** Chapter 205 of title 10, United States Code.
+  - **(8)** Section 8669b of title 10, United States Code.
+  - **(9)** Section 8669c of title 10, United States Code.
+  - **(10)** Section 8688 of title 10, United States Code.
+  - **(11)** Section 8696 of title 10, United States Code.
+  - **(12)** Section 3135 of title 10, United States Code.
+  - **(13)** Section 3138 of title 10, United States Code.
+  - **(14)** Section 843 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. note prec. 3151).
+  - **(15)** Section 3152 of title 10, United States Code.
+  - **(16)** Section 3153 of title 10, United States Code.
+  - **(17)** Section 3154 of title 10, United States Code.
+  - **(18)** Section 1281 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 3153 note).
+  - **(19)** Section 153 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 3201).
+  - **(20)** Subsections (a)–(c) of section 804 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4356).
+  - **(21)** Section 822 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. note prec. 3201).
+  - **(22)** Section 892 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 3201 note).
+  - **(23)** Section 805 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 10 U.S.C. 3201 note).
+  - **(24)** Section 823 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 3204 note).
+  - **(25)** Section 802 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 3206 note).
+  - **(26)** Section 3207 of title 10, United States Code.
+  - **(27)** Section 807 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 3207 note).
+  - **(28)** Section 3208 of title 10, United States Code.
+  - **(29)** Section 3222 of title 10, United States Code.
+  - **(30)** Section 3223 of title 10, United States Code.
+  - **(31)** Section 3224 of title 10, United States Code.
+  - **(32)** Section 3225 of title 10, United States Code.
+  - **(33)** Section 856 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 3241).
+  - **(34)** Section 1513 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 3241).
+  - **(35)** Section 219 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. note prec. 3241).
+  - **(36)** Section 220 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. note prec. 3241).
+  - **(37)** Section 334 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 3241).
+  - **(38)** Section 231 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. note prec. 3241).
+  - **(39)** Section 852 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 10 U.S.C. note prec. 3241).
+  - **(40)** Section 127 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 3241).
+  - **(41)** Subsections (a)–(f) of section 866 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 3241).
+  - **(42)** Section 143 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. note prec. 3241).
+  - **(43)** Section 254 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. note prec. 3241).
+  - **(44)** Section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 3241).
+  - **(45)** Section 890 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 3241).
+  - **(46)** Subsections (a)–(c) of section 130 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. note prec. 3241).
+  - **(47)** Section 851 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. note prec. 3241).
+  - **(48)** Subsection (a)–(c) of section 802 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 10 U.S.C. note prec. 3241).
+  - **(49)** Section 314 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. note prec. 3241).
+  - **(50)** Section 826 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 10 U.S.C. note prec. 3241).
+  - **(51)** Section 806 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 10 U.S.C. note prec. 3241).
+  - **(52)** Section 797 of the Department of Defense Appropriation Act, 1983 (96 Stat. 1865)(as enacted into law by section 101(c) of the Further Continuing Appropriations Act, 1983 (Public Law 97–377; 96 Stat. 1833).
+  - **(53)** Section 3241 of title 10, United States Code.
+  - **(54)** Section 368 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 3303 note).
+  - **(55)** Section 818(a) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 3304 note).
+  - **(56)** Section 3247 of title 10, United States Code.
+  - **(57)** Section 3323 of title 10, United States Code.
+  - **(58)** Section 875 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. note prec. 3344 ).
+  - **(59)** Section 822 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 3344 ).
+  - **(60)** Section 816 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 10 U.S.C. note prec. 3344).
+  - **(61)** Section 809 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 3371).
+  - **(62)** Section 3371 of title 10, United States Code.
+  - **(63)** Section 3373 of title 10, United States Code.
+  - **(64)** Section 3374 of title 10, United States Code.
+  - **(65)** Section 883 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 3372 note).
+  - **(66)** Section 13004 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 10 U.S.C. 3372 note).
+  - **(67)** Section 3375 of title 10, United States Code.
+  - **(68)** Section 3455 of title 10, United States Code.
+  - **(69)** Section 803(a)(3) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 3458).
+  - **(70)** Section 8008 of the Department of Defense Appropriations Act, 1998 (Public Law 105–56; 10 U.S.C. 3501).
+  - **(71)** Section 318 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. note prec. 3671).
+  - **(72)** Section 1018 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. note prec. 3671).
+  - **(73)** Section 3678 of title 10, United States Code.
+  - **(74)** Section 133 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 3678 note).
+  - **(75)** Chapter 258 of title 10, United States Code.
+  - **(76)** Section 308 of the 2002 Supplemental Appropriations Act for Further Recovery From and Response To Terrorist Attacks on the United States (Public Law 107–206, 10 U.S.C. 3678 note).
+  - **(77)** Section 831 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. note prec. 3701).
+  - **(78)** Section 817 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. note prec. 3701).
+  - **(79)** Chapter 273 of title 10, United States Code.
+  - **(80)** Section 891 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 3804 note).
+  - **(81)** Section 231 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4001 note).
+  - **(82)** Section 1544 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4001 note).
+  - **(83)** Section 225 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note).
+  - **(84)** Section 233 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note).
+  - **(85)** Section 236 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note).
+  - **(86)** Section 1513 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4001 note).
+  - **(87)** Section 226 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4001 note).
+  - **(88)** Section 229 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4001 note).
+  - **(89)** Section 380 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4001 note).
+  - **(90)** Section 823 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4001 note).
+  - **(91)** Section 833 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4001 note).
+  - **(92)** Section 220 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4001 note).
+  - **(93)** Section 226 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4001 note).
+  - **(94)** Section 233 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4001 note).
+  - **(95)** Section 236 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4001 note).
+  - **(96)** Section 249 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4001 note).
+  - **(97)** Section 223 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4001 note).
+  - **(98)** Section 228 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4001 note).
+  - **(99)** Section 229 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4001 note).
+  - **(100)** Section 232 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4001 note).
+  - **(101)** Section 227 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4001 note).
+  - **(102)** Section 217 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4001 note).
+  - **(103)** Section 1056 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4001 note).
+  - **(104)** Section 802 of the Cooperative Threat Reduction Act of 1993 (Public Law 103–160; 10 U.S.C. 4001 note).
+  - **(105)** Section 231 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4007 note).
+  - **(106)** Section 1603 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 4007 note).
+  - **(107)** Section 4010 of title 10, United States Code.
+  - **(108)** Section 222 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4014 note).
+  - **(109)** Section 873 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4021 note).
+  - **(110)** Section 13006 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 10 U.S.C. 4022 note).
+  - **(111)** Section 1543 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4025 note).
+  - **(112)** Section 1089 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4025 note).
+  - **(113)** Section 4027 of title 10, United States Code.
+  - **(114)** Section 220 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061).
+  - **(115)** Section 230 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061).
+  - **(116)** Section 225 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 4061).
+  - **(117)** Section 812 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 10 U.S.C. note prec. 4061).
+  - **(118)** Section 4066 of title 10, United States Code.
+  - **(119)** Section 4067 of title 10, United States Code.
+  - **(120)** Section 1708(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4092 note).
+  - **(121)** Section 250 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4093 note).
+  - **(122)** Sectional 1104(f) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 10 U.S.C. 4093 note).
+  - **(123)** Section 4957 of title 10, United States Code.
+  - **(124)** Section 905 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4125 note).
+  - **(125)** Section 235 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 4126 note).
+  - **(126)** Section 227 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 4141).
+  - **(127)** Section 252 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. note prec. 4141).
+  - **(128)** Section 233 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. note prec. 4141).
+  - **(129)** Section 4142 of title 10, United States Code.
+  - **(130)** Section 4143 of title 10, United States Code.
+  - **(131)** Section 843 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4171).
+  - **(132)** Section 839 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 4171).
+  - **(133)** Section 242 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 4172).
+  - **(134)** Section 223 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4172 note).
+  - **(135)** Section 1043 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 4174 note).
+  - **(136)** Section 828 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note prec. 4201).
+  - **(137)** Section 4203 of title 10, United States Code.
+  - **(138)** Section 4204 of title 10, United States Code.
+  - **(139)** Section 1676(b) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4205 note).
+  - **(140)** Section 1683 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4205 note).
+  - **(141)** Section 1685 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4205 note).
+  - **(142)** Section 1686 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4205 note).
+  - **(143)** Section 1688 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4205 note).
+  - **(144)** Section 1681(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4205 note).
+  - **(145)** Section 1687 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 4205 note).
+  - **(146)** Section 1689 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 4205 note).
+  - **(147)** Section 1692 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 4205 note).
+  - **(148)** Section 1618 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(149)** Section 1675 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(150)** Section 1680 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(151)** Section 1681 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(152)** Section 1682 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(153)** Section 1684 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(154)** Section 1684 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(155)** Section 1687 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4205 note).
+  - **(156)** Section 1662 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 10 U.S.C. 4205 note).
+  - **(157)** Section 1663 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 10 U.S.C. 4205 note).
+  - **(158)** Section 235 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 4205 note).
+  - **(159)** Section 237 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 4205 note).
+  - **(160)** Section 223(a)–(d) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 4205 note).
+  - **(161)** Section 233 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 4205 note).
+  - **(162)** Section 223 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 4205 note).
+  - **(163)** Section 234 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 10 U.S.C. 4205 note).
+  - **(164)** Section 232 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 4205 note).
+  - **(165)** Section 234 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 4205 note).
+  - **(166)** Section 224 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 4205 note).
+  - **(167)** Section 234 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 4205 note).
+  - **(168)** Section 3132 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 10 U.S.C. 4205 note).
+  - **(169)** Section 235 of the Cooperative Threat Reduction Act of 1993 (Public Law 103–160; 10 U.S.C. 4205 note).
+  - **(170)** Section 243 of the Cooperative Threat Reduction Act of 1993 (Public Law 103–160; 10 U.S.C. 4205 note).
+  - **(171)** Section 231 of the Armament Retooling and Manufacturing Support Act of 1992 (Public Law 102–484; 10 U.S.C. 4205 note).
+  - **(172)** Section 224 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1988 (Public Law 100–180; 10 U.S.C. 4205 note).
+  - **(173)** Section 227 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1988 (Public Law 100–180; 10 U.S.C. 4205 note).
+  - **(174)** Section 213 of the Barry Goldwater Scholarship and Excellence in Education Act (Public Law 99–661; 10 U.S.C. 4205 note).
+  - **(175)** Section 1252 of the Defense Procurement Reform Act of 1984 (Public Law 98–525; 10 U.S.C. 4205 note).
+  - **(176)** Section 8104 of the Department of Defense Appropriations Act, 1985 (10 U.S.C. 4205 note) (as enacted into law by section 101(h) of the Joint Resolution entitled “Joint Resolution continuing appropriations for the fiscal year 1985, and for other purposes”, approved October 12, 1984 (Public Law 98–473; 98 Stat. 1837).
+  - **(177)** Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1988 (Public Law 100–180; 10 U.S.C. 4205 note).
+  - **(178)** Section 802 of the Military Construction Authorization Act, 1981 (Public Law 96–418; 10 U.S.C. 4205 note).
+  - **(179)** Section 202 of the Department of Defense Authorization Act, 1981 (Public Law 96–342; 10 U.S.C. 4205 note).
+  - **(180)** Section 202 of the Department of Defense Supplemental Appropriation Authorization Act, 1979 (Public Law 96–29; 10 U.S.C. 4205 note).
+  - **(181)** Section 608 of the Military Construction Authorization Act, 1975 (Public Law 93–552; 10 U.S.C. 4205 note).
+  - **(182)** Section 837 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. note prec. 4211).
+  - **(183)** Section 812 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 4211).
+  - **(184)** Section 806 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 10 U.S.C. note prec. 4211).
+  - **(185)** Section 4212 of title 10, United States Code.
+  - **(186)** Section 4214 of title 10, United States Code.
+  - **(187)** Section 818(b)–(f) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. note prec. 4231).
+  - **(188)** Section 4231 of title 10, United States Code.
+  - **(189)** Section 832 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4251 note).
+  - **(190)** Section 802(d)(2) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4251 note).
+  - **(191)** Section 838(a)(3)–(4) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4252 note).
+  - **(192)** Section 1047(d) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 4252 note).
+  - **(193)** Subchapter IV of chapter 322 of title 10, United States Code.
+  - **(194)** Section 814 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 4271 note).
+  - **(195)** Section 925(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 4271 note).
+  - **(196)** Section 802 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 4292 note).
+  - **(197)** Section 4321 of title 10, United States Code.
+  - **(198)** Section 4323 of title 10, United States Code.
+  - **(199)** Section 4325 of title 10, United States Code.
+  - **(200)** Section 4328 of title 10, United States Code.
+  - **(201)** Section 812 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 4325 note).
+  - **(202)** Section 4372 of title 10, United States Code.
+  - **(203)** Section 4373 of title 10, United States Code.
+  - **(204)** Section 4376 of title 10, United States Code.
+  - **(205)** Section 4377 of title 10, United States Code.
+  - **(206)** Section 4402 of title 10, United States Code.
+  - **(207)** Subchapter II of chapter 327 of title 10, United States Code.
+  - **(208)** Section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. note prec. 4501).
+  - **(209)** Section 833 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 4501).
+  - **(210)** Section 831(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 4501).
+  - **(211)** Section 846 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. note prec. 4501).
+  - **(212)** Section 863(a)–(h) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. note prec. 4501).
+  - **(213)** Section 808 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 4501).
+  - **(214)** Section 832 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. note prec. 4501).
+  - **(215)** Section 4505 of title 10, United States Code.
+  - **(216)** Section 4506 of title 10, United States Code.
+  - **(217)** Section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note prec. 4571).
+  - **(218)** Section 938 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. note prec. 4571).
+  - **(219)** Section 1526 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4571 note).
+  - **(220)** Section 221 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4571 note).
+  - **(221)** Section 233 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4571 note).
+  - **(222)** Section 224 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021(Public Law 116–283;10 U.S.C. 4571 note).
+  - **(223)** Section 225 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021(Public Law 116–283;10 U.S.C. 4571 note).
+  - **(224)** Section 835 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021(Public Law 116–283;10 U.S.C. 4571 note).
+  - **(225)** Section 226 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(226)** Section 231 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(227)** Section 254 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(228)** Section 255 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(229)** Section 1651 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(230)** Section 1755 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+  - **(231)** Section 868 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4571 note).
+  - **(232)** Section 1064 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4571 note).
+  - **(233)** Section 1272 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 4571 note).
+  - **(234)** Section 854 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 10 U.S.C. 4571 note).
+  - **(235)** Section 2867 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 4571 note).
+  - **(236)** Section 215 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 4571 note).
+  - **(237)** Section 881 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 4571 note).
+  - **(238)** Section 804 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 4571 note).
+  - **(239)** Chapter 345 of title 10, United States Code.
+  - **(240)** Section 4703 of title 10, United States Code.
+  - **(241)** Section 334 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 113 note).
+  - **(242)** Section 378 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 113 note).
+  - **(243)** Section 846(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4811 note).
+  - **(244)** Section 4813 of title 10, United States Code.
+  - **(245)** Section 4814 of title 10, United States Code.
+  - **(246)** Section 4815 of title 10, United States Code.
+  - **(247)** Section 4816 of title 10, United States Code.
+  - **(248)** Section 4173 of title 10, United States Code.
+  - **(249)** Section 2228 of title 10, United States Code.
+  - **(250)** Section 3249 of title 10, United States Code.
+  - **(251)** Section 932 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2224 note).
+  - **(252)** Section 849 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1487).
+  - **(253)** Section 839 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1876).
+  - **(254)** Section 387(c) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85, 10 U.S.C. 195 note).
+  - **(255)** Section 804 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2402).
+  - **(256)** Section 881 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note prec. 4601).
+  - **(257)** Section 802 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. note prec. 3062).
+  - **(258)** Section 326 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 10 U.S.C. 3201 note).
+  - **(259)** Section 913 of the Department of Defense Authorization Act, 1986 (Public Law 99–145; 10 U.S.C. note prec. 3201).
+  - **(260)** Section 821 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 3451).
+  - **(261)** Section 207(a)–(c) of the Weapon Systems Acquisition Reform Act of 2009 (Public Law 111–23; 10 U.S.C. note prec. 4292).
+  - **(262)** Section 824(a) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 3774 note).
+  - **(263)** Section 805 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 3451).
+  - **(264)** Section 844(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3453 note).
+  - **(265)** Section 328 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2458 note).
+  - **(266)** Section 325 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 2461 note).
+  - **(267)** Section 356 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 2461 note).
+  - **(268)** Section 256 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 4811 note).
+  - **(269)** Section 238(b) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 4841 note).
+  - **(270)** Subtitle D of title II of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3175).
+  - **(271)** Section 8062 of the Department of Defense Appropriations Act, 2004 (Public Law 108–87; 10 U.S.C. 4841 note).
+  - **(272)** Section 214 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 4841 note).
+  - **(273)** Section 227 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4841 note).
+  - **(274)** Section 215 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 4841 note).
+  - **(275)** Section 223 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 4841 note).
+  - **(276)** Section 846 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4811 note).
+  - **(277)** Section 849 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 4811 note).
+  - **(278)** Section 847 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4811 note).
+  - **(279)** Section 844 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 4811 note).
+  - **(280)** Section 8133 of the Department of Defense Appropriations Act, 2000 (Public Law 106–79; 113 Stat. 1267).
+  - **(281)** Section 867 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 221 note).
+  - **(282)** Section 322 of the National Defense Authorization Act for Fiscal Year 2017 (Public 114–328; 10 U.S.C. 2228 note).
+  - **(283)** Section 813 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 3458 note).
+  - **(284)** Section 323 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 4551).
+  - **(285)** Section 218 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 8013 note).
+- **(b)** *Clerical amendments*
+  - **(1)** The table of sections at the beginning of chapter 131 of title 10, United States Code, is amended by striking the item related to section 2228.
+  - **(2)** The table of sections at the beginning of chapter 203 of title 10, United States Code, is amended by striking the items related to sections 3067, 3070, and 3072.
+  - **(3)** The table of sections at the beginning of chapter 207 of title 10, United States Code, is amended by striking the items related to sections 3135 and 3138.
+  - **(4)** The table of sections at the beginning of subchapter I of chapter 209 of title 10, United States Code, is amended by striking the items related to sections 3152, 3153, and 3154.
+  - **(5)** The table of sections at the beginning of chapter 221 of title 10, United States Code, is amended by striking the items related to sections 3207 and 3208.
+  - **(6)** The table of sections at the beginning of chapter 222 of title 10, United States Code, is amended by striking the items related to sections 3222, 3223, 3224, and 3225.
+  - **(7)** The table of sections at the beginning of chapter 223 of title 10, United States Code, is amended by striking the items related to sections 3241, 3247, and 3249.
+  - **(8)** The table of sections at the beginning of chapter 242 of title 10, United States Code, is amended by striking the item related to section 3323.
+  - **(9)** The table of sections at the beginning of chapter 244 of title 10, United States Code, is amended by striking the items related to sections 3371, 3373, 3374, and 3375.
+  - **(10)** The table of sections at the beginning of chapter 247 of title 10, United States Code, is amended by striking the item related to section 3455.
+  - **(11)** The table of sections at the beginning of chapter 257 of title 10, United States Code, is amended by striking the item related to section 3678.
+  - **(12)** The table of sections at the beginning of chapter 301 of title 10, United States Code, is amended by striking the items related to sections 4010 and 4027.
+  - **(13)** The table of sections at the beginning of chapter 303 of title 10, United States Code, is amended by striking the items related to sections 4066, 4067, 4142, and 4143.
+  - **(14)** The table of sections at the beginning of chapter 307 of title 10, United States Code, is amended by striking the item related to section 4173.
+  - **(15)** The table of sections at the beginning of chapter 321 of title 10, United States Code, is amended by striking the items related to sections 4203 and 4204.
+  - **(16)** The table of sections at the beginning of subchapter I of chapter 322 of title 10, United States Code is amended by striking the item related to section 4231.
+  - **(17)** The table of sections at the beginning of subchapter II of chapter 322 of title 10, United States Code is amended by striking the items related to sections 4212 and 4214.
+  - **(18)** The table of subchapters at the beginning of chapter 322 of title 10, United States Code is amended by striking the item related to subchapter IV.
+  - **(19)** The table of sections at the beginning of chapter 323 of title 10, United States Code is amended by striking the item related to sections 4321, 4323, 4325, and 4328.
+  - **(20)** The table of sections at the beginning of chapter 325 of title 10, United States Code is amended by striking the item related to sections 4372, 4373, 4376, and 4377.
+  - **(21)** The table of subchapters at the beginning of chapter 327 of title 10, United States Code is amended by striking the item related to subchapter II.
+  - **(22)** The table of sections at the beginning of subchapter I of chapter 327 of title 10, United States Code is amended by striking the item related to section 4402.
+  - **(23)** The table of sections at the beginning of chapter 341 of title 10, United States Code is amended by striking the items related to sections 4505 and 4506.
+  - **(24)** The table of chapters for part V of title 10, United States Code, is amended by striking the items related to chapters 205, 258, 273, and 345.
+  - **(25)** The table of sections at the beginning of chapter 365 of title 10, United States Code is amended by striking the item related to section 4703.
+  - **(26)** The table of sections at the beginning of chapter 382 of title 10, United States Code is amended by striking the items related to sections 4813, 4814, 4815, and 4816.
+  - **(27)** The table of sections at the beginning of chapter 388 of title 10, United States Code, is amended by striking the item related to section 4957.
+  - **(28)** The table of sections at the beginning of chapter 863 of title 10, United States Code, is amended by striking the items related to sections 8669b, 8669c, 8688, and 8696.
+
+## § 102. Modifications to current defense acquisition requirements
+
+- **(a)** *Modifications to title 40* Section 11101 of title 40, United States Code, is amended by striking paragraph (2) and inserting the following:
+  > - **(2)** *Executive agency* The term executive agency means—
+  >   - **(A)** an executive department specified in section 101 of title 5, other than the Department of Defense;
+  >   - **(B)** an independent establishment as defined in section 104(1) of title 5; and
+  >   - **(C)** a wholly owned Government corporation fully subject to chapter 91 of title 31.
+
+- **(b)** *Modifications to title 10* Title 10, United States Code, is amended—
+  - **(1)** in section 2222—
+    - **(A)** by striking subsections (e) through (g); and
+    - **(B)** by redesignating subsections (h) and (i) as subsections (e) and (f), respectively; and
+    - **(C)** in subsection (f), as redesignated by subparagraph (B) by striking paragraphs (9), (10), and (11);
+  - **(2)** in section 3012(3)(B), by striking “lowest overall cost alternative” and inserting “best value”;
+  - **(3)** in section 3069—
+    - **(A)** in subsection (a), by striking “if that head of an agency” and all that follows through “a complete end item”;
+    - **(B)** by striking subsections (b) through (d); and
+    - **(C)** by redesignating subsection (e) as subsection (b);
+  - **(4)** in section 3204—
+    - **(A)** in subsection (a)—
+      - **(i)** by redesignating paragraphs (2) through (7) as paragraphs (3) through (8), respectively;
+      - **(ii)** by inserting after paragraph (1), the following:
+        > - **(2)** market research indicates that the property or service needed by the agency provides differentiated capabilities, accelerated delivery schedules, or continuous improvements;
+
+    - **(B)** by striking subsections (b), (c), (d), and (g);
+    - **(C)** by redesignating subsections (e) and (f) as subsections (b) and (c), respectively;
+    - **(D)** in subsection (b), as redesignated by subparagraph (C)—
+      - **(i)** in paragraph (1)—
+        - **(I)** in subparagraph (A), by striking “and certifies the accuracy and completeness of the justification” and inserting “in a manner that provides an accurate and complete justification”; and
+        - **(II)** in subparagraph (B)—
+          - **(aa)** by striking “$10,000,000” each place it appears and inserting “$100,000,000”;
+          - **(bb)** in clause (i), by striking “$500,000” and inserting “$10,000,000”; and
+          - **(cc)** in clause (iii), by striking “$75,000,000” and inserting “$500,000,000”;
+      - **(ii)** in paragraph (3), by striking “by subsection (a)(2)” and inserting “by paragraphs (3) or (4)(A) of subsection (a)”; and
+      - **(iii)** in paragraph (4)—
+        - **(I)** in subparagraph (C), by striking “subsection (a)(7)” and inserting “subsection (a)(8)”; and
+        - **(II)** in subparagraph (E), by striking “subsection (a)(4)” and inserting “subsection (a)(5)”; and
+    - **(E)** in paragraph (1) of subsection (c), as redesignated by subparagraph (C)—
+      - **(i)** in subparagraph (A), by striking “subsection (e)(1)” and inserting “subsection (b)(1)”; and
+      - **(ii)** in subparagraph (B), by striking “subsection (a)(2)” and inserting “subsection (a)(3)”;
+  - **(5)** in section 3226—
+    - **(A)** in subsection (a), by striking “and other program purposes conducted pursuant to subsection (b)(6) of such section”; and
+    - **(B)** by striking subsection (d);
+  - **(6)** in section 3243(d)—
+    - **(A)** by striking paragraph (2);
+    - **(B)** by redesignating paragraph (3) as paragraph (2); and
+    - **(C)** in paragraph (1)(B), by striking “subject to paragraph (2),”;
+  - **(7)** in section 3374, by inserting “with significant contract financing” after “undefinitized contractual action” each place it appears.;
+  - **(8)** in section 3601(c)(3)—
+    - **(A)** in subparagraph (A), by striking “Subject to subparagraph (C), in any” and inserting “In any”;
+    - **(B)** in subparagraph (B), by striking “acquire capability” and all that follows through “$50,000,000 during any fiscal year” and inserting “acquire capability in an amount aggregating not more than $3,000,000,000”; and
+    - **(C)** by striking subparagraph (C);
+  - **(9)** in section 3703—
+    - **(A)** in subsection (a)(1)(A), by striking “that results in at least two or more responsive and viable competing bids”;
+    - **(B)** in subsection (c), by striking “or 5 percent” and inserting “or 25 percent”; and
+    - **(C)** in subsection (f), by striking “under subsection (a)(1) from such requirement” and inserting “from such requirement under paragraphs (1) or (2) of subsection (a)”;
+  - **(10)** in section 3705—
+    - **(A)** by striking subsection (b); and
+    - **(B)** by redesignating subsection (c) as subsection (b);
+  - **(11)** by amending section 3774 to read as follows:
+    > ## § 3774. Preference for specially negotiated licenses
+    >
+    > The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system.
+
+  - **(12)** in the table of sections for subchapter I of chapter 275, by striking the item relating to section 3774 and inserting the following new item:
+  - **(13)** in section 3805(c), by striking “15 percent” and inserting “50 percent”;
+  - **(14)** in section 4201—
+    - **(A)** in subsection (a)(2)—
+      - **(i)** in subparagraph (A), by striking “$300,000,000 (based on fiscal year 1990 constant dollars)” and inserting “$1,000,000,000 (based on fiscal year 2024 constant dollars)”; and
+      - **(ii)** in subparagraph (B), by striking “$1,800,000,000 (based on fiscal year 1990 constant dollars)” and inserting “$5,000,000,000 (based on fiscal year 2024 constant dollars)”; and
+    - **(B)** in subsection (b), by adding at the end the following:
+      > - **(3)** An acquisition program for a defense software program as described by section 800 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4571 note).
+
+  - **(15)** in section 4202(a)(2)—
+    - **(A)** by striking subparagraph (B); and
+    - **(B)** redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively;
+  - **(16)** in section 4882, by striking “the President, through the head of any department” each place it appears and inserting “the Secretary of Defense”;
+  - **(17)** in section 4884, by striking “The President” and inserting “The Secretary of Defense”; and
+  - **(18)** in section 8683—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (1), by striking “(1) Appropriations” and inserting “Appropriations”; and
+      - **(ii)** by striking paragraph (2); and
+    - **(B)** in subsection (c), by striking “$10,000,000” and inserting “$50,000,000”.
+- **(c)** *Modifications to National Defense Authorization Acts*
+  - **(1)** Section 229(c)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. 3601 note) is amended by striking “$100,000,000” and inserting “$300,000,000”.
+  - **(2)** Section 890 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 3701) is amended—
+    - **(A)** in subsection (b)(2), by striking “minimal reporting” and inserting “no unique reporting”; and
+    - **(B)** by striking subsection (d).
+  - **(3)** Section 873 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3702 note) is amended—
+    - **(A)** in subsection (a)—
+      - **(i)** by striking “valued at less than $7,500,000”; and
+      - **(ii)** by striking “pursuant to” and all that follows through “Transfer Program,”;
+    - **(B)** in subsection (b), by striking “pursuant to” and all that follows through “Research Program,”;
+    - **(C)** by striking subsections (c) and (f); and
+    - **(D)** by redesignating subsections (d), (e), and (g) as subsection (c), (d), and (e), respectively.
+
+## § 103. Automatic sunset for future statutory reporting requirements
+
+- **(a)** *In general* Chapter 23 of title 10, United States Code, is amended by inserting after section 480 the following new section:
+  > ## § 480a. Reports to Congress: Termination of indefinite-duration reports after five years
+  >
+  > - **(a)** *In general* Any provision of law enacted after the date of the enactment of this section that includes an indefinite-duration report requirement shall cease to be effective, with respect to that requirement, five years after the date of the enactment of that provision of law unless that provision of law expressly states that this section is inapplicable to that requirement or that provision of law.
+  > - **(b)** *Indefinite-Duration report requirement defined* In this section, the term indefinite-duration report requirement means a requirement in any provision of law for the Secretary of Defense (or any other officer or employee of the Department of Defense) to submit to Congress (or any committee of Congress) a periodic report for which the law does not—
+  >   - **(1)** state a specific period of time as the period during which that report is required to be submitted or that provision of law is in effect; or
+  >   - **(2)** state a specific termination date for the requirement to submit the report or for that provision of law.
+  > - **(c)** *Periodic report defined* In this section, the term periodic report means a report required to be submitted on an annual, semiannual, or other regular periodic basis.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 480 the following new item:
