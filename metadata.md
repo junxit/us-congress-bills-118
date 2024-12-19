@@ -1,7 +1,7 @@
 ---
 measure: S. 5105
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5105
@@ -28,3 +28,7 @@ A bill to require a report by the Secretary of Homeland Security regarding the f
 
 - 2024-09-19 — Introduced in Senate
 - 2024-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-323.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-323.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 743.
