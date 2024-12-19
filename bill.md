@@ -15,7 +15,7 @@ This Act may be cited as the “NASA Streamlining Partnerships for Research and 
 
 ## § 2. Authorization for the transfer to NASA of funds from other agencies for scientific or engineering research or education
 
-- **(a)** *In general* Subsection (f) of section 20113 of title 51, United States code, is amended—
+- **(a)** *In general* Subsection (f) of section 20113 of title 51, United States Code, is amended—
   - **(1)** by striking “In the performance of its functions” and inserting the following:
     > - **(1)** *In general* In the performance of its functions
 
