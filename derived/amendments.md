@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8811
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-45 amendatory instructions. 17 executed, 28 stated and not applied.
+48 amendatory instructions. 18 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,7 +44,16 @@ to guess them.
 
 ### 16 U.S.C. § 667h
 
-> Section 104(d)(1) of the America’s Conservation Enhancement Act (16 U.S.C. 667h(d)(1)) is amended by striking “2025” and inserting “2030”.
+> in paragraph (5)(A), by striking “180 days after the date on which the study is completed under subsection (c)” and inserting “90 days after the date of the enactment of the America’s Conservation Enhancement Reauthorization Act of 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)”; and
+
+| | |
+|---|---|
+| Removed | `180 days after the date on which the study is completed under subsection (c)` |
+| Inserted | `90 days after the date of the enactment of the America’s Conservation Enhancement Reauthorization Act of 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)` |
+
+### 16 U.S.C. § 667h
+
+> in subsection (d)(1), by striking “2025” and inserting “2030”.
 
 | | |
 |---|---|
@@ -186,10 +195,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 8356` | insert | in the section heading, by inserting “; black vulture livestock protection program” after “common ravens”; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 8356` | insert | in the section heading, by inserting “; black vulture livestock protection program” after “common ravens” and conforming the table of contents accordingly; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 8356` | redesignate | by redesignating subsections (a) through (c) as paragraphs (1) through (3), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8356` | redesignate | by inserting before paragraph (1) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 8356` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 667h` | strike | in paragraph (1), by striking “after the completion of the study required by subsection (c)”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 3709` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3709` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 3709` | redesignate | in subparagraph (C) (as so redesignated), by inserting “, and should when possible,” after “may”. | the bill quotes the text inserted but describes where it goes |
@@ -201,6 +211,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1852` | replace | by striking subparagraphs (G) and (H) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8204` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “, subject to paragraph (3),” after “Act and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 8204` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 8204` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8205` | strike | in subsection (b), by striking “for the following fiscal year”; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 8205` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 8206` | insert | Section 206(a) of the America’s Conservation Enhancement Act (16 U.S.C. 8206(a)) is amended by inserting “, the Bureau of Land Management,” after “the Forest Service”. | the bill quotes the text inserted but describes where it goes |
