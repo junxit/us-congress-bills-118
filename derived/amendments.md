@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3356
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (a) by striking “preemployment” and inserting “employment”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “a preemployment” and inserting “an employment”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the preemployment” and inserting “the employment”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a) by inserting “and employment” after “preemployment” ; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2) by inserting “operator or” before “operator-applicant’s”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “operator or” before “operator-applicant” each place it appears; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or employment” after “preemployment” each place it appears; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “operator or” before “operator-applicant”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (f); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
