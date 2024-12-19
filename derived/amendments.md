@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4552
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-188 amendatory instructions. 61 executed, 127 stated and not applied.
+187 amendatory instructions. 64 executed, 123 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 6 U.S.C. § 511
 
-> in paragraph (8)(A), as so redesignated, by striking “used” and inserting “owned, managed,”;
+> in paragraph (8)(A), as so redesignated, in the matter preceding clause (i), by striking “used” and inserting “owned, managed,”;
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ to guess them.
 
 ### 6 U.S.C. § 511
 
-> Section 2315 of title 10, United States Code, is amended by striking “section 3552(b)(6)” and inserting “section 3552(b)”.
+> Section 3068(b) of title 10, United States Code, is amended by striking “section 3552(b)(6)” and inserting “section 3552(b)”.
 
 | | |
 |---|---|
@@ -71,7 +71,7 @@ to guess them.
 
 ### 6 U.S.C. § 511
 
-> Section 2339a(e)(5) of title 10, United States Code, is amended by striking “section 3552(b)(6)” and inserting “section 3552(b)”.
+> Section 3252(e)(5) of title 10, United States Code, is amended by striking “section 3552(b)(6)” and inserting “section 3552(b)”.
 
 | | |
 |---|---|
@@ -105,15 +105,6 @@ to guess them.
 | Removed | `section 3542(b)(2)` |
 | Inserted | `section 3552(b)` |
 
-### 10 U.S.C. § 2304
-
-> in section 806(e)(5) (10 U.S.C. 2304 note), by striking “section 3542(b)” and inserting “section 3552(b)”;
-
-| | |
-|---|---|
-| Removed | `section 3542(b)` |
-| Inserted | `section 3552(b)` |
-
 ### 10 U.S.C. § 2223
 
 > in section 931(b)(3) (10 U.S.C. 2223 note), by striking “section 3542(b)(2)” and inserting “section 3552(b)”; and
@@ -134,7 +125,7 @@ to guess them.
 
 ### 44 U.S.C. § 3501
 
-> Section 301(c)(1)(A) of the E-Government Act of 2002 (44 U.S.C. 3501 note) is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
+> Section 301(c)(1)(A) of the E–Government Act of 2002 (44 U.S.C. 3501 note) is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”.
 
 | | |
 |---|---|
@@ -143,16 +134,16 @@ to guess them.
 
 ### 15 U.S.C. § 278g-3
 
-> in subsection (a)(2), by striking “section 3552(b)(5)” and inserting “section 3552(b)”; and
+> in subsection (a)(2), by striking “section 3552(b)(6)” and inserting “section 3552(b)”; and
 
 | | |
 |---|---|
-| Removed | `section 3552(b)(5)` |
+| Removed | `section 3552(b)(6)` |
 | Inserted | `section 3552(b)` |
 
 ### 15 U.S.C. § 278g-3
 
-> in paragraph (3), by striking “section 3532(1)” and inserting “section 3552(b)”; and
+> in paragraph (2), by striking “section 3532(1)” and inserting “section 3552(b)”; and
 
 | | |
 |---|---|
@@ -258,6 +249,15 @@ to guess them.
 | Removed | `official delegated` |
 | Inserted | `Chief Information Security Officer delegated` |
 
+### 6 U.S.C. § 1522
+
+> in clause (iv), as so redesignated, by striking “as determined by the agency;” and inserting “as determined by the agency, considering the agency risk assessment required under subsection (a)(1)(A);”;
+
+| | |
+|---|---|
+| Removed | `as determined by the agency;` |
+| Inserted | `as determined by the agency, considering the agency risk assessment required under subsection (a)(1)(A);` |
+
 ### 15 U.S.C. § 278g-3
 
 > in the section heading, by striking “Annual independent” and inserting “Independent”;
@@ -332,12 +332,12 @@ to guess them.
 
 ### 40 U.S.C. § 11301
 
-> in section 11319(b)(1), in the paragraph heading, by striking “CIOS” and inserting “Chief Information Officers”.
+> in section 11319(b)(1), in the paragraph heading, by striking “cios” and inserting “chief information officers”.
 
 | | |
 |---|---|
-| Removed | `CIOS` |
-| Inserted | `Chief Information Officers` |
+| Removed | `cios` |
+| Inserted | `chief information officers` |
 
 ### 50 U.S.C. § 3100
 
@@ -413,7 +413,7 @@ to guess them.
 
 ### 50 U.S.C. § 3100
 
-> in the matter preceding paragraph (1), by striking “the Administrator” and inserting “the Federal Chief Information Officer”; and
+> in the matter preceding paragraph (1), by striking “the Administrator” and inserting “the Federal Chief Information Officer”;
 
 | | |
 |---|---|
@@ -428,6 +428,15 @@ to guess them.
 |---|---|
 | Removed | `the Office of Electronic Government` |
 | Inserted | `the Office of the Federal Chief Information Officer` |
+
+### 50 U.S.C. § 3100
+
+> in paragraph (17), by striking “E–Government” and inserting “annual”; and
+
+| | |
+|---|---|
+| Removed | `E–Government` |
+| Inserted | `annual` |
 
 ### 50 U.S.C. § 3100
 
@@ -557,20 +566,38 @@ to guess them.
 
 ### 50 U.S.C. § 3100
 
-> Section 3606 of title 44, United States Code, is amended in the section heading by striking “E-Government” and inserting “Annual”.
+> in the section heading by striking “E–Government” and inserting “Annual”;
 
 | | |
 |---|---|
-| Removed | `E-Government` |
+| Removed | `E–Government` |
 | Inserted | `Annual` |
 
 ### 50 U.S.C. § 3100
 
-> in the item relating to section 3606, by striking “E-Government” and inserting “Annual”.
+> in subsection (a), by striking “E–Government” and inserting “annual”; and
 
 | | |
 |---|---|
-| Removed | `E-Government` |
+| Removed | `E–Government` |
+| Inserted | `annual` |
+
+### 50 U.S.C. § 3100
+
+> in subsection (b)(1), by striking “202(f)” and inserting “202(g)”.
+
+| | |
+|---|---|
+| Removed | `202(f)` |
+| Inserted | `202(g)` |
+
+### 50 U.S.C. § 3100
+
+> in the item relating to section 3606, by striking “E–Government” and inserting “Annual”.
+
+| | |
+|---|---|
+| Removed | `E–Government` |
 | Inserted | `Annual` |
 
 ## Stated, not applied
@@ -582,23 +609,23 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 511` | replace | by striking clause (v) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | redesignate | by redesignating clause (vi) as clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | strike | by striking the first subsection designated as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | insert | in paragraph (2) of the second subsection designated as subsection (c), by inserting “an identification of internet accessible information systems and” after “an inventory under this subsection shall include”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | insert | by inserting “the Director of the Cybersecurity and Infrastructure Security Agency, the National Cyber Director, and” before “the Comptroller General”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 511` | replace | in subparagraph (C)(v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | insert | in subsection (a)(3), by inserting “In carrying out these duties, the Chief Information Officer shall consult, as appropriate, with the Chief Data Officer in accordance with the designated functions under section 3520(c).” after “reducti… | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | insert | in subsection (b)(1)(C), by inserting “availability,” after “integrity,”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | insert | in subsection (h)(3), by inserting “security,” after “efficiency,”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 511` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 511` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | replace | by striking clause (v) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | redesignate | by redesignating clause (vi) as clause (vii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | strike | by striking the first subsection designated as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | insert | in paragraph (2) of the second subsection designated as subsection (c), by inserting “an identification of internet accessible information systems and” after “an inventory under this subsection shall include”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | insert | by inserting “the Director of the Cybersecurity and Infrastructure Security Agency, the National Cyber Director, and” before “the Comptroller General”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2000ee-2` | replace | in subparagraph (C)(v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | insert | in subsection (a)(3), by inserting “In carrying out these duties, the Chief Information Officer shall consult, as appropriate, with the Chief Data Officer in accordance with the designated functions under section 3520(c).” after “reducti… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | insert | in subsection (b)(1)(C), by inserting “availability,” after “integrity,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | insert | in subsection (h)(3), by inserting “security,” after “efficiency,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2000ee-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000ee-2` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 511` | redesignate | by redesignating paragraphs (2), (3), (4), (5), (6), and (7) as paragraphs (3), (4), (5), (6), (8), and (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 511` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 511` | redesignate | by inserting after paragraph (6), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -619,27 +646,27 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278g-3` | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (1), (2), and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | redesignate | in paragraph (3), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 278g-3` | redesignate | by inserting after paragraph (3), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278g-3` | insert | in subparagraph (A), by inserting “and the National Cyber Director” after “in coordination with the Director”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 278g-3` | insert | in subparagraph (A), by inserting “and the National Cyber Director” after “in coordination with the Director”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 278g-3` | insert | in subparagraph (B), by inserting “, the scope of the required action (such as applicable software, firmware, or hardware versions),” after “reasons for the required action”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | insert | in subparagraph (D), by inserting “, the National Cyber Director,” after “notify the Director”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 278g-3` | insert | in paragraph (3)(A)(iv), by inserting “, the National Cyber Director,” after “the Secretary provides prior notice to the Director”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 278g-3` | insert | in paragraph (3)(A)(iv), by inserting “, the National Cyber Director” after “the Secretary provides prior notice to the Director”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | amend | by amending subsection (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | redesignate | by redesignating subparagraphs (A), (B), and (C) as subparagraphs (B), (C), and (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | insert | in clause (ii) by inserting “binding” before “operational”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 1522` | strike | in clause (vi), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 1522` | strike | in clause (vi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 1522` | redesignate | in subparagraph (D), as so redesignated, by inserting “and” after the semicolon at the end; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1522` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | insert | in subparagraph (A), by inserting “in accordance with the agency system risk assessment required under paragraph (1)(A)” after “information systems”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1522` | insert | in subparagraph (D), by inserting “, through the use of penetration testing, the vulnerability disclosure program established under section 3559B, and other means,” after “periodically”; | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 1522` | redesignate | by redesignating clauses (iii) and (iv) as (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1522` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1522` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1522` | redesignate | in subparagraph (B), as so redesignated, by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 1522` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1522` | redesignate | in clause (iv), as so redesignated, by striking “as determined by the agency; and” and inserting “as determined by the agency, considering the agency risk assessment required under subsection (a)(1)(A); | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 1522` | insert | in paragraph (5)(A), by inserting “, including penetration testing, as appropriate,” after “shall include testing”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1522` | redesignate | by redesignating paragraphs (7) and (8) as paragraphs (8) and (9), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -649,9 +676,9 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1522` | amend | in subclause (II), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | strike | by striking subclause (III); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | redesignate | by redesignating subclause (IV) as subclause (III); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1522` | redesignate | by redesignating paragraph (2) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1522` | redesignate | by redesignating paragraph (2) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1522` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1522` | redesignate | in paragraph (5), as so redesignated, by striking the period at the end and inserting “, including the reporting procedures established under section 11315(d) of title 40 and subsection (a)(3)(A)(v) of this section”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1522` | redesignate | in paragraph (4), as so redesignated, by striking the period at the end and inserting “, including the reporting procedures established under section 11315(d) of title 40 and subsection (a)(3)(A)(v) of this section.”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | insert | in paragraph (1), by inserting “during which a report is required to be submitted under section 3553(c),” after “Each year”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | insert | in paragraph (2)(A), by inserting “, including by performing, or reviewing the results of, agency penetration testing and analyzing the vulnerability disclosure program of the agency” after “information systems”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -661,6 +688,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278g-3` | replace | in subparagraph (A), as so designated, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278g-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | replace | by striking subsection (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278g-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | insert | in the matter preceding paragraph (1), by inserting “within the Cybersecurity and Infrastructure Security Agency” after “incident center”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1524` | replace | The table of sections for chapter 35 of title 44, United States Code, is amended by striking the item relating to section 3555 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3` | strike | Section 20(d)(3)(B) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)(3)(B)) is amended by striking “annual”. | the bill quotes the text struck but describes what replaces it |
@@ -670,7 +698,7 @@ complete account of the bill's effect, which it is not.
 | `40 U.S.C. § 11301` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | insert | in paragraph (2)(A)(i), by inserting “, including a consideration of the impact on high value assets” after “operational risks”; | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 11301` | replace | in subparagraph (B), by striking the period at the end and inserting “and”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 11301` | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 11301` | insert | in subsection (h), by inserting “, including cybersecurity performances,” after “the performances”; and | the bill quotes the text inserted but describes where it goes |
 | `40 U.S.C. § 11301` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -691,17 +719,12 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 278g-3c` | strike | Section 5 of the IoT Cybersecurity Improvement Act of 2020 (15 U.S.C. 278g–3c) is amended by striking subsections (d) and (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3d` | strike | by striking section 6 (15 U.S.C. 278g–3d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-3e` | strike | by striking section 7 (15 U.S.C. 278g–3e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 3520A(e)(2) of title 44, United States Code, is amended by striking “upon the expiration of the 2-year period that begins on the date the Comptroller General submits the report under paragraph (1) to Congress” and inserting “Dece… | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 1523` | strike | Section 225 of the Federal Cybersecurity Enhancement Act of 2015 (6 U.S.C. 1523) is amended by striking subsections (b) and (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7464` | add-at-end | Section 3554 of title 44, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278g-3b` | add-at-end | Section 3554 of title 44, United States Code, as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1523` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 1523` | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1523` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 1521` | insert | Section 222(3)(B) of the Federal Cybersecurity Enhancement Act of 2015 (6 U.S.C. 1521(3)(B)) is amended by inserting “and the Committee on Oversight and Accountability” before “of the House of Representatives.” | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1521` | insert | Section 222(3)(B) of the Federal Cybersecurity Enhancement Act of 2015 (6 U.S.C. 1521(3)(B)) is amended by inserting “and the Committee on Oversight and Accountability” before “of the House of Representatives”. | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 3501` | add-at-end | Chapter 36 of title 44, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1500` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 1500` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
