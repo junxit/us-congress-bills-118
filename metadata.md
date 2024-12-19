@@ -1,7 +1,7 @@
 ---
 measure: S. 1171
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1171
@@ -16,7 +16,7 @@ Ending Trading and Holdings In Congressional Stocks (ETHICS) Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (20)
+## Cosponsors (23)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
@@ -38,6 +38,9 @@ Ending Trading and Holdings In Congressional Stocks (ETHICS) Act
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -47,3 +50,7 @@ Ending Trading and Holdings In Congressional Stocks (ETHICS) Act
 
 - 2023-04-17 — Introduced in Senate
 - 2023-04-17 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-24 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-309.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-309.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 729.
