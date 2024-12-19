@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5665
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,18 +11,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Promoting Accessibility on Federal Lands Act of 2023”.
+This Act may be cited as the “Promoting Accessibility on Federal Lands Act of 2024”.
 
-## § 2. Comprehensive assessment of accessibility of certain Federal trails, campsites, boat docks, and outdoor recreation facilities
+## § 2. Accessible recreation inventory
 
-- **(a)** *In general* Not later than 180 days after the date on which appropriations are first made available to carry out this section, the Secretary concerned shall—
-  - **(1)** carry out a comprehensive assessment of trails, campsites, boat docks and outdoor recreation facilities on the land described in subparagraphs (A) and (B) of subsection (c)(4) to determine the accessibility of such trails, campsites, boat docks, and outdoor recreation facilities for individuals with disabilities; and
-  - **(2)** make such assessment publicly available on the website of the Department of Agriculture and the Department of the Interior, respectively.
-- **(b)** *Inclusion of current assessments* As part of the comprehensive assessment required under subsection (a)(1), the Secretary concerned may use assessments of trails, campsites, boat docks, and outdoor recreation facilities existing on the date of the enactment of this Act.
-- **(c)** *Definitions* In this section:
-  - **(1)** *Disability* The term disability has the meaning given the term in section 3(1) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102(1)).
-  - **(2)** *National Forest System* The term National Forest System has the meaning given that term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)).
-  - **(3)** *Public land* The term public lands has the meaning given that term in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702).
-  - **(4)** *Secretary concerned* The term Secretary concerned means—
-    - **(A)** the Secretary of Agriculture, with respect to National Forest System lands; and
-    - **(B)** the Secretary of the Interior, with respect to public land.
+- **(a)** *Assessment* Not later than 5 years after the date of the enactment of this Act, the Secretary concerned shall—
+  - **(1)** carry out a comprehensive assessment of outdoor recreation facilities on Federal recreational lands and waters under the jurisdiction of the respective Secretary concerned to determine the accessibility of such outdoor recreation facilities, consistent with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) and section 504 of the Rehabilitation Act (29 U.S.C. 794), including—
+    - **(A)** camp shelters, camping facilities, and camping units;
+    - **(B)** boat launch ramps;
+    - **(C)** hunting, fishing, shooting, or archery ranges or locations;
+    - **(D)** outdoor constructed features;
+    - **(E)** picnic facilities and picnic units; and
+    - **(F)** any other outdoor recreation facilities, as determined by the Secretary concerned; and
+  - **(2)** make information about such opportunities available (including through the use of prominently displayed links) on public websites of—
+    - **(A)** each of the Federal land management agencies; and
+    - **(B)** each relevant unit and subunit of the Federal land management agencies.
+- **(b)** *Inclusion of current assessments* As part of the comprehensive assessment required under subsection (a)(1), to the extent practicable, the Secretary concerned may rely on assessments completed or data gathered prior to the date of the enactment of this Act.
+- **(c)** *Public information* Not later than 7 years after the date of the enactment of this Act, the Secretary concerned shall identify opportunities to create, update, or replace signage and other publicly available information, including web page information, related to accessibility and consistent with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) and section 504 of the Rehabilitation Act (29 U.S.C. 794) at outdoor recreation facilities covered by the assessment required under subsection (a)(1).
+- **(d)** *Definitions* In this section:
+  - **(1)** *Federal land management agency* The term “Federal land management agency” has the meaning give the term in in section 802 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801).
+  - **(2)** *Secretary concerned* The term “Secretary concerned” means—
+    - **(A)** the Secretary of the Interior, with respect to land under the jurisdiction of the Secretary; or
+    - **(B)** the Secretary of Agriculture, with respect to land managed by the Forest Service.
