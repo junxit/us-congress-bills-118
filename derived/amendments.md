@@ -1,7 +1,7 @@
 ---
 measure: S. 5067
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -53,7 +53,7 @@ to guess them.
 
 ### 42 U.S.C. § 5174
 
-> in clause (ii) by striking “Not later than 2 years after the date of enactment of this paragraph, the” and inserting “The”; and
+> in clause (ii), by striking “Not later than 2 years after the date of enactment of this paragraph, the” and inserting “The”; and
 
 | | |
 |---|---|
@@ -62,7 +62,7 @@ to guess them.
 
 ### 42 U.S.C. § 5174
 
-> in clause (iii) by striking “2 years” and inserting “10 years”; and
+> in clause (iii), by striking “2 years” and inserting “10 years”; and
 
 | | |
 |---|---|
@@ -80,11 +80,11 @@ to guess them.
 
 ### 42 U.S.C. § 5174
 
-> by striking “(A) Grant to state.—” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),”; and
+> in the paragraph heading, by striking “(A) Grant to state.—”“assistance” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),”“assistance.— Subject to subsection (g),”; and
 
 | | |
 |---|---|
-| Removed | `(A) Grant to state.—” and all that follows through “subsection (g),` |
+| Removed | `(A) Grant to state.—”“assistance” and all that follows through “subsection (g),` |
 | Inserted | `Subject to subsection (g),` |
 
 ## Stated, not applied

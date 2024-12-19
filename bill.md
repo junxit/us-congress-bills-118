@@ -69,8 +69,8 @@ Section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
     - **(C)** by striking subparagraph (F);
     - **(D)** by redesignating subparagraphs (G), (H), (I), and (J) as subparagraphs (F), (G), (H), and (I), respectively; and
     - **(E)** in subparagraph (I), as so redesignated—
-      - **(i)** in clause (ii) by striking “Not later than 2 years after the date of enactment of this paragraph, the” and inserting “The”; and
-      - **(ii)** in clause (iii) by striking “2 years” and inserting “10 years”; and
+      - **(i)** in clause (ii), by striking “Not later than 2 years after the date of enactment of this paragraph, the” and inserting “The”; and
+      - **(ii)** in clause (iii), by striking “2 years” and inserting “10 years”; and
   - **(2)** in subsection (g)—
     - **(A)** in paragraph (1), by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
     - **(B)** by adding at the end the following:
@@ -83,8 +83,8 @@ Section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 - **(a)** *In general* Section 324(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165b(b)(2)) is amended by adding at the end the following:
   > - **(C)** *Individual assistance* A grantee under section 408(f) may be reimbursed not more than 12 percent of the total award amount under such section.
 
-- **(b)** *Administrative costs* Section 408(f)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174), as amended by section 3(b) of this Act, is further amended—
-  - **(1)** by striking “(A) Grant to state.—” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),”; and
+- **(b)** *Administrative costs* Section 408(f)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(f)(1)), as amended by section 3(b) of this Act, is further amended—
+  - **(1)** in the paragraph heading, by striking “(A) Grant to state.—”“assistance” and all that follows through “subsection (g),” and inserting “Subject to subsection (g),”“assistance.— Subject to subsection (g),”; and
   - **(2)** by striking subparagraph (B).
 
 ## § 6. Funding for online guides for post-disaster assistance
@@ -148,13 +148,13 @@ Title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act 
 Section 403 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b) is amended by adding at the end the following:
 
 > - **(e)** *Sheltering of emergency response personnel*
->   - **(1)** *In general* For any major disaster for which the President has authorized emergency protective measures for an area within the jurisdiction of a State, Indian tribal government, or local government, the Administrator may reimburse the State, Indian tribal government, or local government for costs relating to sheltering emergency response personnel, including individuals that are a part of the same predisaster household as such personnel, in exclusive-use congregate or non-congregate settings if the Governor of the State or chief executive of the Indian tribal government or local government determines that the damage or disruption to such area is of such a magnitude as to disrupt the provision of emergency protective measures within such area.
+>   - **(1)** *In general* For any major disaster for which the President has authorized emergency protective measures for an area within the jurisdiction of a State, Indian tribal government, or local government, the Administrator of the Federal Emergency Management Agency (referred to in this subsection as the “Administrator”) may reimburse the State, Indian tribal government, or local government for costs relating to sheltering emergency response personnel, including individuals that are a part of the same predisaster household as such personnel, in exclusive-use congregate or non-congregate settings if the Governor of the State or chief executive of the Indian tribal government or local government determines that the damage or disruption to such area is of such a magnitude as to disrupt the provision of emergency protective measures within such area.
 >   - **(2)** *Limitation of assistance*
 >     - **(A)** *In general* The Administrator may only reimburse a State, Indian tribal government, or local government for the costs of sheltering emergency response personnel under paragraph (1) for such a period of time as the Administrator determines reasonable based on the individual characteristics of and impacts to the affected area, including the extent of damage, the availability of alternative housing options, the availability of utilities, and disruptions to transportation infrastructure.
 >     - **(B)** *Maximum duration of reimbursement* The period of reimbursement under subparagraph (A) may not exceed the 6-month period beginning on the date on which the incident period ends.
 >   - **(3)** *Definition* In this subsection, the term “emergency response personnel” means—
 >     - **(A)** employees or contracted employees providing law enforcement, fire suppression, rescue, emergency medical, emergency management, or emergency communications services; and
->     - **(B)** elected officials, except members of Congress, responsible for the overseeing or directing emergency response operations or recovery activities.
+>     - **(B)** elected officials, except membersMembers of Congress, responsible for the overseeing or directing emergency response operations or recovery activities.
 
 ## § 10. Improved rental assistance
 
