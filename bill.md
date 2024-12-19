@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4507
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Transparency in Coverage Act of 2023”.
+This Act may be cited as the “Transparency in Coverage Act”.
 
 ## § 2. Promoting group health plan and group health insurance coverage price transparency
 
