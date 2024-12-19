@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8664
 congress: 118
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8664
@@ -21,9 +21,10 @@ DHS Intelligence and Analysis Oversight and Transparency Act
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ DHS Intelligence and Analysis Oversight and Transparency Act
 - 2024-12-18 — Mr. Green (TN) moved to suspend the rules and pass the bill, as amended.
 - 2024-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7343-7344)
 - 2024-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7343-7344)
+- 2024-12-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
