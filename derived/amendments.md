@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5535
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (C)(ii), by inserting “any privilege referred to in subparagraph (A) and” after “including”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (D), by inserting “including the exceptions thereunder,” after “United States Code,”. | the bill names no machine-readable US Code section |
 | — | insert | Section 153(f)(1) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after “financial company,” the following: “other than an insurance company (as defined under section 201(a)(13)),”. | the bill names no machine-readable US Code section |
-| — | insert | Title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents for such Act is amended by inserting after the item relating to section 176 the following: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5343` | insert | Title I of the Financial Stability Act of 2010 (12 U.S.C. 5343(f)(1)) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5343` | insert | The table of contents for the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after the item relating to section 176 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
