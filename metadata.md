@@ -1,7 +1,7 @@
 ---
 measure: S. 2020
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2020
@@ -33,3 +33,5 @@ Deschutes River Conservancy Reauthorization Act of 2023
 - 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-146.
 - 2023-12-20 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-146.
 - 2023-12-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 298.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7218; text: CR S7219)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
