@@ -1,7 +1,7 @@
 ---
 measure: S. 4851
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4851
@@ -28,3 +28,5 @@ Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act of 20
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7218; text: CR S7220)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
