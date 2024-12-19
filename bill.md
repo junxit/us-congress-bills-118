@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 200
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Forest Information Reform Act” or the “FIR Act”.
+This Act may be cited as the “Forest Information Reform Act” or as the “FIR Act”.
 
 ## § 2. No additional consultation required
 
 - **(a)** *Forest Service plans* Section 6(d)(2) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(d)(2)) is amended to read as follows:
-  > - **(2)** *No additional consultation required under certain circumstances* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land management plan approved, amended, or revised under this section when a species is listed, critical habitat is designated, or new information concerning a listed species or critical habitat becomes available.
+  > - **(2)** *No additional consultation required under certain circumstances* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land management plan approved, amended, or revised under this section when—
+  >   - **(A)** a new species is listed or critical habitat is designated under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
+  >   - **(B)** new information reveals effects of the land management plan that may affect a species listed or critical habitat designated under that Act in a manner or to an extent not previously considered.
 
 - **(b)** *Bureau of Land Management plans* Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) is amended by adding at the end the following:
-  > - **(g)** *No additional consultation required under certain circumstances* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land use plan approved, amended, or revised under this section when a species is listed, critical habitat is designated, or new information concerning a listed species or critical habitat becomes available.
+  > - **(g)** *No additional consultation required under certain circumstances* Notwithstanding any other provision of law, the Secretary shall not be required to reinitiate consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)) or section 402.16 of title 50, Code of Federal Regulations (or a successor regulation), on a land use plan approved, amended, or revised under this section when—
+  >   - **(1)** a new species is listed or critical habitat is designated under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
+  >   - **(2)** new information reveals effects of the land use plan that may affect a species listed or critical habitat designated under that Act in a manner or to an extent not previously considered.
