@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2666
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,17 +31,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1396r-8` | strike | in clause (iv), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | replace | in clause (v), by striking at the end the period and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1396r-8` | insert | by inserting after clause (v) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end of the flush left matter at the end the following new sentence: “Information reported with respect to a rebate period under clause (i)(I) relating to average manufacturer price and clause (i)(II) relating to best pri… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | strike | in subclause (IV), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | replace | in subclause (V), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | strike | in subclause (IV), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396r-8` | replace | in subclause (V), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | strike | in subclause (VII), by striking at the end “and”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-8` | replace | in subclause (VIII), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-8` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(k) of the Social Security Act (42 U.S.C. 1396r–8(k)) shall be amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 1847A(c)(2) of the Social Security Act (42 U.S.C. 1395w–3a(c)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1396` | add-at-end | Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396r-8` | add-at-end | Section 1927(k) of the Social Security Act (42 U.S.C. 1396r-8(k)) shall be amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “In calculating” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (L)(iii), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
