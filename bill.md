@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3378
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,4 +19,4 @@ Section 721(k)(2) of the Defense Production Act of 1950 (50 U.S.C. 4565(k)(2)) i
 
 - **(1)** by redesignating subparagraphs (H), (I), and (J) as subparagraphs (I), (J), and (K), respectively; and
 - **(2)** by inserting after subparagraph (G) the following:
-  > - **(H)** The Secretary of Agriculture, on all transactions related to the purchase of agriculture land, agriculture biotechnology, and any other transaction related to the agriculture industry in the United States, as determined by the Secretary of Agriculture.
+  > - **(H)** The Secretary of Agriculture, with respect to all covered transactions involving the purchase of agricultural land, agriculture biotechnology, and any other covered transaction related to the agriculture industry in the United States.
