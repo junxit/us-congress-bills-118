@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6070
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     > - **(E)** for the establishment and use of existing or new electronic tracking and communications sites, including the construction of up to 15 equipment pads, no larger than 150-by-150 feet in size, along existing roads to allow placement and operation of threat emitters;
     > - **(F)** for the use and maintenance of roads in existence as of January 1, 2024, to allow access to threat emitters and repeaters for installation, maintenance, and periodic relocation; and
 
-- **(b)** *Interagency committee* Section 3011(b)(5)(G), as added by paragraph (1) of section 2844(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4351), is further amended—
+- **(b)** *Interagency committee* Section 3011(b)(5)(G) of the Military Lands Withdrawal Act of 1999 (title XXX of the National Defense Authorization Act for Fiscal Year 2000; Public Law 106–65) is amended—
   - **(1)** by amending clause (i) to read as follows:
     > - **(i)** *In general* The Secretary of the Interior and the Secretary of the Air Force shall jointly establish an interagency committee (referred to in this subparagraph as the ‘interagency committee’) to—
     >   - **(I)** facilitate coordination, manage public access needs and requirements, and minimize potential conflict between the Department of the Interior and the Department of the Air Force with respect to joint operating areas within the Desert National Wildlife Refuge; and
@@ -29,8 +29,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** in clause (ii)—
     - **(A)** by inserting “, including a designee of the Director of the United States Fish and Wildlife Service” before the period at the end of subclause (I); and
     - **(B)** by inserting “, including a designee of the Assistant Secretary of the Air Force for Energy, Installations, and Environment” before the period at the end of subclause (II).
-- **(c)** *Additional purpose of intergovernmental executive committee* Section 3011(b)(H)(5)(ii), as added by paragraph (2) of such section 2844(b), is amended in clause (ii)—
+- **(c)** *Additional purpose of intergovernmental executive committee* Section 3011(b)(5)(H)(ii) of the Military Lands Withdrawal Act of 1999 (title XXX of the National Defense Authorization Act for Fiscal Year 2000; Public Law 106–65) is amended—
   - **(1)** by striking “and” at the end of subclause (I);
   - **(2)** by striking the period at the end of subclause (II) and inserting “; and”; and
   - **(3)** by adding at the end the following new subclause:
     > - **(III)** discussing and making recommendations to the interagency committee established under subparagraph (G) with respect to any proposal by the Secretary of the Air Force to undertake any of the activities authorized in paragraph (1) on the joint operating areas within the Desert National Wildlife Refuge.
+
+- **(d)** *Completion of interagency memorandum of understanding*
+  - **(1)** *Deadline* Not later than one year after the date of the enactment of this Act, the Secretary of the Air Force and the Secretary of the Interior shall—
+    - **(A)** enter into a complete new operational memorandum of understanding under paragraph (5)(E) of section 3011(b) of the Military Lands Withdrawal Act of 1999 (title XXX of the National Defense Authorization Act for Fiscal Year 2000; Public Law 106–65); or
+    - **(B)** amend the current memorandum of understanding in effect under that paragraph that will complete the memorandum of understanding.
+  - **(2)** *Access to joint use area for fish and wildlife service* The memorandum of understanding entered into or amended under paragraph (1) shall include one or more provisions to ensure adequate access for the United States Fish and Wildlife Service to the joint use area.
+- **(e)** *Bureau of land management and state of nevada cooperative agreement* Not later than 180 days after the date of enactment of this Act, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the status of the cooperative agreement authorized under section 2905(j)(6) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 3043).
