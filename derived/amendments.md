@@ -1,7 +1,7 @@
 ---
 measure: S. 2160
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 4 executed, 11 stated and not applied.
+10 amendatory instructions. 2 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 43 U.S.C. § 510
-
-> in paragraph (3) (as so redesignated), by striking “et seq.)” and inserting “et seq.))”;
-
-| | |
-|---|---|
-| Removed | `et seq.)` |
-| Inserted | `et seq.))` |
-
-### 43 U.S.C. § 510
-
-> in paragraph (4) (as so redesignated), by striking “mean” and inserting “means”; and
-
-| | |
-|---|---|
-| Removed | `mean` |
-| Inserted | `means` |
 
 ### 43 U.S.C. § 510
 
@@ -69,9 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 510` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), and (7) as paragraphs (2), (3), (4), (5), (6), (7), and (1), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 510` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 510b` | add-at-end | Section 9603 of the Omnibus Public Land Management Act of 2009 (43 U.S.C. 510b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 510` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), and (7) as paragraphs (2), (3), (4), (5), (6), (7), and (1), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 510` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 510b` | replace | by striking “(a)” and all that follows through “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
