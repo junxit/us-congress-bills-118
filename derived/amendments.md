@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3988
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 50 U.S.C. § 1706
+
+> Section 207(b) of the International Emergency Economic Powers Act (50 U.S.C. 1706) is amended by striking “concurrent resolution” each place it appears and inserting “joint resolution”.
+
+| | |
+|---|---|
+| Removed | `concurrent resolution` |
+| Inserted | `joint resolution` |
 
 ## Stated, not applied
 
@@ -31,6 +42,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 1621` | replace | Title II of the National Emergencies Act (50 U.S.C. 1621 et seq.) is amended by striking sections 201 and 202 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1641` | add-at-end | Section 401 of the National Emergencies Act (50 U.S.C. 1641) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1621` | insert | The National Emergencies Act (50 U.S.C. 1621 et seq.) is amended by inserting after title I the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1641` | insert | in the first sentence by inserting “, and make publicly available” after “transmit to Congress”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1641` | insert | in the second sentence by inserting “, and make publicly available,” before “a final report”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1641` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1601` | add-at-end | The National Emergencies Act (50 U.S.C. 1601 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1601` | strike | Title II of the National Emergencies Act (50 U.S.C. 1601 et seq.), as such title appeared the day before the date of enactment of this Act, is amended by striking the heading for such title. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1631` | repeal | Title III of the National Emergencies Act (50 U.S.C. 1631) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3988
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3988
@@ -16,7 +16,7 @@ ARTICLE ONE Act
 
 - Rep. Roy, Chip [R-TX-21] (R000614)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Gallagher, Mike [R-WI-8] (G000579)
@@ -33,6 +33,8 @@ ARTICLE ONE Act
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Brecheen, Josh [R-OK-2] (B001317)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. Good, Bob [R-VA-5] (G000595)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
 
 ## Committees (3)
 
@@ -47,3 +49,14 @@ ARTICLE ONE Act
 - 2023-06-09 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-06-09 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-06-09 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2023-06-12 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2024-09-18 — Committee Consideration and Mark-up Session Held
+- 2024-09-18 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2024-09-18 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2024-12-19 — Committee on Foreign Affairs discharged.
+- 2024-12-19 — Committee on Foreign Affairs discharged.
+- 2024-12-19 — Committee on Rules discharged.
+- 2024-12-19 — Committee on Rules discharged.
+- 2024-12-19 — Placed on the Union Calendar, Calendar No. 764.
+- 2024-12-19 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-934, Part I.
+- 2024-12-19 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 118-934, Part I.
