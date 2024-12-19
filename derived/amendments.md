@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8261
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -314,8 +314,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1395f` | insert | by inserting “, except that this subclause shall not apply in the case of such an encounter with an individual occurring on or after January 1, 2025, if such individual is located in an area that is subject to a moratorium on the enrollm… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395f` | insert | Section 1814(a)(7)(D)(i)(II) of the Social Security Act (42 U.S.C. 1395f(a)(7)(D)(i)(II)), as amended by section 101(f), is further amended by inserting “, provided that, in the case of such an encounter occurring on or after the date th… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395cc-7` | strike | in clause (vi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395cc-7` | replace | in clause (vii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395cc-7` | strike | in clause (iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395cc-7` | replace | in clause (v), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc-7` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395cc-7` | insert | by inserting “and again not later than September 30, 2028,” after “2024,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc-7` | replace | by striking “on the study conducted under paragraph (1).” and inserting the following: | the bill quotes the text struck but describes what replaces it |
