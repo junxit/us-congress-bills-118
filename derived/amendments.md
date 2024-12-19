@@ -1,7 +1,7 @@
 ---
 measure: S. 4511
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

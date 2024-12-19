@@ -21,4 +21,4 @@ Section 710 of title 32, United States Code, is amended by adding at the end the
 >   - **(1)** shall be credited to—
 >     - **(A)** the appropriation, fund, or account used in incurring the obligation; or
 >     - **(B)** an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made; and
->   - **(2)** may only be used by the Department of Defense for the repair, maintenance, or other similar functions related directly to assets used by National Guard units while operating under State active duty status.
+>   - **(2)** may only be used by the Department of Defense for the repair, maintenance, replacement, or other similar functions related directly to assets used by National Guard units while operating under State active duty status.
