@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5527
 congress: 118
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5527
@@ -43,3 +43,7 @@ Modernizing Government Technology Reform Act
 - 2024-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3364-3365)
 - 2024-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3364-3365)
 - 2024-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-07-31 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-332.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters without amendment. With written report No. 118-332.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 752.
