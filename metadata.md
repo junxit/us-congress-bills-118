@@ -1,7 +1,7 @@
 ---
 measure: S. 5133
 congress: 118
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5133
@@ -16,9 +16,10 @@ Improving Senate Confirmation and Vacancy Oversight Act of 2024
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Improving Senate Confirmation and Vacancy Oversight Act of 2024
 
 - 2024-09-19 — Introduced in Senate
 - 2024-09-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2024-09-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-325.
+- 2024-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-325.
+- 2024-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 745.
