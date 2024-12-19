@@ -81,8 +81,8 @@ Section 14711 of title 49, United States Code, is amended by adding at the end t
     > - **(4)** has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between such person and any other motor carrier, freight forwarder, broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration.
 
 - **(d)** *Registration of brokers* Section 13904(a) of title 49, United States Code, is amended—
-  - **(1)** in subsection (1) by striking “and” after the semicolon;
-  - **(2)** in subsection (2) by striking the period and inserting a semicolon; and
+  - **(1)** in paragraph (1) by striking “and” after the semicolon;
+  - **(2)** in paragraph (2) by striking the period and inserting a semicolon; and
   - **(3)** by inserting at the end the following:
     > - **(3)** has designated a principal place of business; and
     > - **(4)** has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between such person and any other motor carrier, freight forwarder, or broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration.
