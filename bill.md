@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2367
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -52,7 +52,7 @@ It is the sense of Congress that it should be a national priority to address the
   >     - **(D)** to construct or make capital improvements to an existing public commercial motor vehicle parking facility to expand parking use and availability, including at a seasonal facility;
   >     - **(E)** to identify, promote, and manage the availability of publicly and privately provided commercial motor vehicle parking, such as through the use of intelligent transportation systems;
   >     - **(F)** to improve the personal safety of commercial motor vehicle drivers at a parking facility as part of a project described in subparagraphs (A) through (D); or
-  >     - **(G)** to improve a parking facility, including through truck stop electrification systems, as part of a project described in subparagraphs (A) through (D).
+  >     - **(G)** to improve a parking facility, including through truck stop electrification systems (as defined in section 101(a)), as part of a project described in subparagraphs (A) through (D).
   > - **(e)** *Application* To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
   >   - **(1)** a description of the proposed project; and
   >   - **(2)** any other information that the Secretary determines to be necessary.
@@ -75,14 +75,16 @@ It is the sense of Congress that it should be a national priority to address the
   >       - **(i)** *In general* Except as provided in clause (ii), not more than 10 percent of the amounts made available for each fiscal year for grants under this section may be used for projects described in subsection (d)(2)(E) that solely identify, promote, and manage the availability of existing commercial motor vehicle parking.
   >       - **(ii)** *Exception* Clause (i) shall not apply to a project described in subsection (d)(2)(E) that is part of a project to expand commercial motor vehicle parking capacity.
   >   - **(3)** *Prohibition*
-  >     - **(A)** *In general* Amounts made available to carry out this section shall not be used for the construction, or development phase activities that would enable the construction, of charging or fueling infrastructure for the propulsion of a vehicle, including a commercial motor vehicle.
+  >     - **(A)** *In general* Amounts made available to carry out this section shall not be used for the construction, improvement, or development phase activities directly related to the construction, improvement, or reopening of charging or fueling infrastructure for the propulsion of a vehicle, including a commercial motor vehicle.
   >     - **(B)** *Savings provision* Nothing in this paragraph limits the use of funds other than funds made available to carry out this section.
   > - **(i)** *Requirements*
-  >   - **(1)** *Publicly accessible parking* Commercial motor vehicle parking constructed, opened, or improved with funds from a grant under this section shall be open and accessible to all commercial motor vehicle drivers.
-  >   - **(2)** *Prohibition on charging fees*
-  >     - **(A)** *In general* No fee may be charged by an eligible entity to a commercial motor vehicle driver to gain access to parking constructed, opened, maintained, or improved with a grant under this section.
+  >   - **(1)** *Publicly accessible parking* Commercial motor vehicle parking constructed, reopened, or improved with funds from a grant under this section shall be open and accessible to all commercial motor vehicle drivers.
+  >   - **(2)** *Prohibition on charging fees* No fee may be charged by an eligible entity to a commercial motor vehicle driver to gain access to parking constructed, reopened, or improved with a grant under this section.
+  >   - **(3)** *Human trafficking notice* An entity carrying out a project to construct, reopen, or improve a parking facility with a grant under this section shall ensure that a notice containing information about human trafficking is prominently displayed in such facility.
+  >   - **(4)** *Suicide prevention notice* An entity carrying out a project to construct, reopen, or improve a parking facility with a grant under this section shall ensure that a notice containing information about suicide prevention, including the 988 suicide hotline, is prominently displayed in such facility.
   > - **(j)** *Treatment of projects* Notwithstanding any other provision of law, a project carried out under this section shall be treated as a project on a Federal-aid highway under this chapter.
   > - **(k)** *Period of availability of funds* Amounts made available for projects under this section shall remain available for a period of 3 years after the last day of the fiscal year in which the amounts are made available.
+  > - **(l)** *Restriction* No eligible entity may use eminent domain for any project funded under this section.
 
 - **(b)** *Clerical amendment* The analysis for chapter 1 of title 23, United States Code, is amended by adding at the end the following:
 
@@ -93,8 +95,8 @@ It is the sense of Congress that it should be a national priority to address the
   - **(2)** evaluates the effectiveness of the projects funded under section 180 of title 23, United States Code, in improving access to commercial motor vehicle parking;
   - **(3)** evaluates the ability of eligible entities that received a grant under section 180 of title 23, United States Code, to sustain the operation of parking facilities constructed with funds provided under that section; and
   - **(4)** reports on the progress being made to provide adequate commercial motor vehicle parking facilities.
-- **(b)** *Results* The Secretary of Transportation shall make the reports under subsection (a) available to the public on the website of the Department of Transportation.
-- **(c)** *Alignment of reports* In carrying out this section, the Secretary of Transportation shall—
+- **(b)** *Results* The Secretary shall make the reports under subsection (a) available to the public on the website of the Department of Transportation.
+- **(c)** *Alignment of reports* In carrying out this section, the Secretary shall—
   - **(1)** consider the results of the commercial motor vehicle parking facilities assessments of States under subsection (f) of section 70202 of title 49, United States Code; and
   - **(2)** seek to align the contents of the reports under subsection (a) and the submission and publication of those reports with the State freight plans developed and updated under that section.
 
