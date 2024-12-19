@@ -13,26 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Cape Fox Land Entitlement Finalization Act of 2024”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** the Cape Fox Corporation is a Village Corporation for the Native Village of Saxman, Alaska, organized pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
-- **(2)** similar to other Village Corporations in southeast Alaska, under section 16 of that Act (43 U.S.C. 1615), Cape Fox could select only 23,040 acres from land withdrawn for the purpose of that selection;
-- **(3)** under section 22(l) of that Act (43 U.S.C. 1621(l))—
-  - **(A)** the Village Corporations in southeast Alaska, other than Cape Fox, were restricted with respect to the selection of land within 2 miles of a home rule city (as that term is used in that Act); and
-  - **(B)** to protect the watersheds in the vicinity, Cape Fox was restricted with respect to the selection of land within 6 miles of the boundary of the home rule city of Ketchikan, Alaska;
-- **(4)** the 6-mile restriction described in paragraph (3)(B) precluded Cape Fox from selecting valuable land, industrial sites, and other commercial property located—
-  - **(A)** within the townships in which the Native Village of Saxman is located, more particularly described as T.75 S., T.76 S., R.91 E., Copper River Meridian; and
-  - **(B)** on surrounding land that is far removed from Ketchikan, Alaska, and its watersheds;
-- **(5)** as a result of the restriction described in paragraph (3)(B), only the remote, mountainous, northeast corner of the property described in paragraph (4)(A), which is nonproductive and has no known economic value, was available for selection by Cape Fox, as required under section 16(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(b));
-- **(6)** land selections by Cape Fox under that Act were further limited by the fact that—
-  - **(A)** the Annette Island Indian Reservation is located within the applicable selection area; and
-  - **(B)** land of that Reservation is unavailable for selection by Cape Fox;
-- **(7)** Cape Fox is the only Village Corporation affected by the restrictions described in paragraphs (3)(B) and (6); and
-- **(8)** the Secretary has advised Congress that the predicament of Cape Fox is sufficiently unique to warrant the legislative remedy provided by this Act.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
@@ -41,14 +22,14 @@ In this Act:
 - **(3)** *Map* The term Map means the map entitled “Cape Fox Village Corporation Final Selection” and dated December 18, 2023.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 4. Waiver of core township requirement for certain land
+## § 3. Waiver of core township requirement for certain land
 
 - **(a)** *In general* Notwithstanding section 16(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(b)), Cape Fox shall not be required to select or receive conveyance of the approximately 185 acres of unconveyed land described in subsection (b) located within the township in which the Native Village of Saxman, Alaska, is located.
 - **(b)** *Land described* The land referred to in subsection (a) is as follows:
   - **(1)** Approximately 40 acres in T. 74 S., R.90 E., sec. 10, SWNE, Copper River Meridian.
   - **(2)** Approximately 144.57 acres in T.75 S., R.91 E., sec. 1, lots 1, 3, and 4, Copper River Meridian.
 
-## § 5. Selection outside exterior selection boundary
+## § 4. Selection outside exterior selection boundary
 
 - **(a)** *Selection and Conveyance of Surface Estate* Not later than 90 days after the date of enactment of this Act, if Cape Fox submits to the Secretary a written notice of selection of the Federal land, the Secretary shall, on receiving that written notice, convey the Federal land to Cape Fox.
 - **(b)** *Conveyance of Subsurface Estate* On conveyance to Cape Fox of the surface estate to the Federal land under subsection (a), the Secretary shall convey to Sealaska Corporation the subsurface estate to that Federal land.
@@ -56,3 +37,7 @@ In this Act:
 - **(d)** *Entitlement fulfilled* The conveyance of Federal land to Cape Fox and the subsurface interest in the Federal land to Sealaska Corporation under subsections (a) and (b), respectively, shall be considered to fulfill the entitlement of—
   - **(1)** Cape Fox under section 16 of the Alaska Native Claims Settlement Act (43 U.S.C. 1615); and
   - **(2)** Sealaska Corporation to any subsurface interest in the Federal land under section 14(f) of that Act (43 U.S.C. 1613(f)).
+
+## § 5. Public access easement
+
+The conveyance of the Federal land under section 4 shall be subject to the reservation of a public easement under section 17(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1616(b)) to allow for access to National Forest System land further inland on Revillagigedo Island from the George Inlet.
