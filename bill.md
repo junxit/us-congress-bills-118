@@ -13,4 +13,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 Section 101 of the Dayton Aviation Heritage Preservation Act of 1992 (16 U.S.C. 410ww) is amended by adding at the end the following:
 
-> - **(d)** *Boundary adjustment* In addition to the sites described in subsections (b) and (c), the boundary of the park is adjusted to include approximately 1 acre of land in Dayton, Ohio, depicted as “Proposed Addition” on the map entitled “Dayton Aviation Heritage National Historical Park Proposed Boundary Addition”and dated February 2023, numbered 362/193,730, and dated June 2024.
+> - **(d)** *Boundary adjustment* In addition to the sites described in subsections (b) and (c), the boundary of the park is adjusted to include approximately 1 acre of land in Dayton, Ohio, depicted as “Proposed Addition” on the map entitled “Dayton Aviation Heritage National Historical Park Proposed Boundary Addition”, numbered 362/193,730, and dated June 2024.

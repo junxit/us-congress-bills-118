@@ -1,7 +1,7 @@
 ---
 measure: S. 2784
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2784
@@ -33,3 +33,5 @@ A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust 
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 591.
+- 2024-12-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7218; text: CR S7220)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
