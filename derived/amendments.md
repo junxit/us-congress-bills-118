@@ -1,7 +1,7 @@
 ---
 measure: S. 4640
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 5 executed, 2 stated and not applied.
+5 amendatory instructions. 4 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 22 U.S.C. § 7105
-
-> in subparagraph (A), by striking “human” and inserting “a severe form of”;
-
-| | |
-|---|---|
-| Removed | `human` |
-| Inserted | `a severe form of` |
 
 ### 22 U.S.C. § 7105
 
@@ -62,7 +53,7 @@ to guess them.
 
 ### 22 U.S.C. § 7105
 
-> in clause (iii), by striking “one percent” and inserting “up to 1 percent”;
+> in clause (iii), by striking “one percent” and inserting “up to 1 percent”; and
 
 | | |
 |---|---|
@@ -79,4 +70,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `22 U.S.C. § 7105` | insert | by inserting “and strengthening program administration and budgeting” after “activities”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 7105` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
