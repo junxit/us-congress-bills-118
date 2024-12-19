@@ -1,7 +1,7 @@
 ---
 measure: S. 623
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 623
@@ -32,3 +32,5 @@ A bill to amend the Alaska Native Claims Settlement Act to exclude certain payme
 - 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-56.
 - 2023-07-11 — Committee on Energy and Natural Resources. Reported by Senator Manchin without amendment. With written report No. 118-56.
 - 2023-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 128.
+- 2024-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7218; text: CR S7218)
+- 2024-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
