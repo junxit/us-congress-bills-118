@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8662
 congress: 118
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8662
@@ -37,3 +37,12 @@ TSA Commuting Fairness Act
 - 2024-08-30 — Placed on the Union Calendar, Calendar No. 533.
 - 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-636.
 - 2024-08-30 — Reported by the Committee on Homeland Security. H. Rept. 118-636.
+- 2024-12-18 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Green (TN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2024-12-18 — Considered under suspension of the rules. (consideration: CR H7344-7345)
+- 2024-12-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8662.
+- 2024-12-18 — Mr. Green (TN) moved to suspend the rules and pass the bill.
+- 2024-12-20 — Considered as unfinished business. (consideration: CR H7413)
+- 2024-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2024-12-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 12/18/2024 CR H7344-7345)
+- 2024-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2024-12-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
