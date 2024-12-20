@@ -1,7 +1,7 @@
 ---
 measure: S. 1553
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1553
@@ -34,3 +34,5 @@ Resiliency for Ranching and Natural Conservation Health Act
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. Without written report.
 - 2024-11-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.
+- 2024-12-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7276; text: CR S7276)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
