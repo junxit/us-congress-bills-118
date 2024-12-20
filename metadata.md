@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10545
 congress: 118
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 10545
@@ -25,9 +25,10 @@ American Relief Act, 2025
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2024-12-20 — [House 118-2-517](votes/house-118-2-0517.md) — On Motion to Suspend the Rules and Pass — **Passed** (366–34)
+- 2024-12-21 — [Senate 118-2-339](votes/senate-118-2-0339.md) — On Passage of the Bill — **Bill Passed** (85–11)
 
 ## Actions
 
@@ -46,3 +47,12 @@ American Relief Act, 2025
 - 2024-12-20 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-12-20 — Senate amendment submitted
 - 2024-12-20 — Senate amendment submitted
+- 2024-12-21 — Became Public Law No: 118-158.
+- 2024-12-21 — Became Public Law No: 118-158.
+- 2024-12-21 — Message on Senate action sent to the House.
+- 2024-12-21 — Passed Senate, under the order of 12/20/2024, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 85 - 11. Record Vote Number: 339. (consideration: CR S7306-7307)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate, under the order of 12/20/2024, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 85 - 11. Record Vote Number: 339.
+- 2024-12-21 — Presented to President.
+- 2024-12-21 — Presented to President.
+- 2024-12-21 — Signed by President.
+- 2024-12-21 — Signed by President.
