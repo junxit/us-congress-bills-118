@@ -1,7 +1,7 @@
 ---
 measure: S. 1348
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1348
@@ -33,3 +33,5 @@ Wyoming Public Lands Initiative Act of 2023
 - 2024-06-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-185.
 - 2024-06-18 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute. With written report No. 118-185.
 - 2024-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
+- 2024-12-20 — Passed Senate with an amendment by Voice Vote. (consideration: CR S7288-7297; text: CR S7288-7292)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
