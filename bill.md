@@ -1,0 +1,20 @@
+---
+legis-num: S. 2
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2
+
+> To amend the Commodity Exchange Act to prohibit political election or contest agreements, contracts, transactions, and swaps.
+
+## § 1. Short title
+
+This Act may be cited as the “Ban Gambling on Elections Act of 2024”.
+
+## § 2. Prohibition on political election or contest agreements, contracts, transactions, and swaps
+
+Section 5c(c)(5) of the Commodity Exchange Act (7 U.S.C. 7a–2(c)(5)) is amended by adding at the end the following:
+
+> - **(D)** *Prohibition relating to political elections or contests* Notwithstanding any other provision of this section, no agreement, contract, transaction, or swap involving any political election or any other political contest (or any index, measure, value, or data related thereto, or occurrence, extent of an occurrence, or contingency based thereon) may be listed or made available for clearing or trading on or through a registered entity.
