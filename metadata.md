@@ -1,7 +1,7 @@
 ---
 measure: S. 5639
 congress: 118
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 5639
