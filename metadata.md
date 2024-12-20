@@ -1,7 +1,7 @@
 ---
 measure: S. 1723
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1723
@@ -16,7 +16,7 @@ Truth and Healing Commission on Indian Boarding School Policies Act of 2024
 
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 
-## Cosponsors (32)
+## Cosponsors (34)
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Smith, Tina [D-MN] (S001203)
@@ -50,6 +50,8 @@ Truth and Healing Commission on Indian Boarding School Policies Act of 2024
 - Sen. Butler, Laphonza R. [D-CA] (B001320)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -63,3 +65,13 @@ Truth and Healing Commission on Indian Boarding School Policies Act of 2024
 - 2024-07-08 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-187.
 - 2024-07-08 — Committee on Indian Affairs. Reported by Senator Schatz with an amendment in the nature of a substitute. With written report No. 118-187.
 - 2024-07-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
+- 2024-12-20 — 
+- 2024-12-20 — Amendment SA 3351 agreed to in Senate by Unanimous Consent.
+- 2024-12-20 — Amendment SA 3351 proposed by Senator Schatz. (consideration: CR S7254-7267)
+- 2024-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S7254-7267)
+- 2024-12-20 — Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S7255-7267)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2024-12-20 — Senate amendment agreed to: Amendment SA 3351 agreed to in Senate by Unanimous Consent.
+- 2024-12-20 — Senate amendment proposed (on the floor): Amendment SA 3351 proposed by Senator Schatz.
+- 2024-12-20 — Senate amendment submitted
+- 2024-12-20 — The committee substitute withdrawn by Unanimous Consent.
