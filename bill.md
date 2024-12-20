@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 10558
+congress: 118th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10558
+
+> To amend the Housing and Community Development Act of 1980 and the Housing Act of 1949 to make financial assistance available to DACA recipients, and for other purposes.
+
+## § 1. DACA recipient eligibility
+
+Section 214(a) of the Housing and Community Development Act of 1980 (42 U.S.C. 1436a) is amended—
+
+- **(1)** in paragraph (6), by striking “or” at the end;
+- **(2)** in paragraph (7), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(8)** an alien who, on the date of the enactment of this Act, is the recipient of deferred action pursuant to the memorandum of the Department of Homeland Security entitled “Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children” issued on June 15, 2012.
