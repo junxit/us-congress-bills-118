@@ -11,12 +11,15 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Establishment of the General George C. Marshall House as an affiliated area
 
-- **(a)** *In general* The General George C. Marshall House, in the Commonwealth of Virginia, is established as an affiliated area of the National Park System to promote public appreciation of the significant historic contributions made by United States military leader and statesman George Catlett Marshall, Jr.
-- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted as the “General George C. Marshall House Property, Leesburg, Virginia” on the map titled “General George C. Marshall House, Proposed Affiliated Area”, numbered 999/189,974, and dated September 2023.
+- **(a)** *In general* The General George C. Marshall House in the Commonwealth of Virginia is established as an affiliated area of the National Park System (referred to in this section as the “affiliated area”) to promote public appreciation of the significant historic contributions made by United States military leader and statesman George Catlett Marshall, Jr.
+- **(b)** *Description of affiliated area* The affiliated area shall consist of the area generally depicted as the “General George C. Marshall House Property, Leesburg, Virginia” on the map entitled “General George C. Marshall House, Proposed Affiliated Area”, numbered 999/189,974, and dated September 2023.
 - **(c)** *Administration* The affiliated area shall be managed in a manner consistent with—
   - **(1)** this section; and
   - **(2)** any law generally applicable to units of the National Park System.
 - **(d)** *Management entity* The George C. Marshall International Center shall be the management entity for the affiliated area.
-- **(e)** *Cooperative agreements* The Secretary of the Interior (referred to in this section as the “Secretary”) may provide technical assistance and enter into cooperative agreements with the management entity for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area.
-- **(f)** *Limited role of the secretary* Nothing in this section authorizes the Secretary to acquire property at the affiliated area or to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
-- **(g)** *Management plan* Not later than 3 years after the date on which funds are made available to carry out this subsection, the Secretary, in consultation with the management entity, shall complete a management plan for the affiliated area in accordance with section 100502 of title 54, United States Code.
+- **(e)** *Agreements* The Secretary of the Interior (referred to in this section as the “Secretary”)—
+  - **(1)** may provide technical assistance and enter into cooperative agreements with the management entity designated by subsection (d) for the purpose of providing financial assistance for the marketing, marking, interpretation, and preservation of the affiliated area; and
+  - **(2)** shall enter into an agreement with the management entity designated by subsection (d) that describes the roles and responsibilities for the management of the affiliated area consistent with the policies and standards that apply to units of the National Park System.
+- **(f)** *Limited role of the secretary* Nothing in this section authorizes the Secretary—
+  - **(1)** to acquire property at the affiliated area; or
+  - **(2)** to assume overall financial responsibility for the operation, maintenance, or management of the affiliated area.
