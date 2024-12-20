@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1890
@@ -33,3 +33,5 @@ Malheur Community Empowerment for the Owyhee Act
 - 2024-09-10 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-222.
 - 2024-09-10 — Committee on Energy and Natural Resources. Reported by Senator Manchin with an amendment in the nature of a substitute and an amendment to the title. With written report No. 118-222.
 - 2024-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 501.
+- 2024-12-20 — Passed Senate with an amendment and an amendment to the Title by Voice Vote. (consideration: CR S7288-7297; text: CR S7292-7297)
+- 2024-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.
