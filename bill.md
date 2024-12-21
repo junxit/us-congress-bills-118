@@ -39,5 +39,6 @@ This Act may be cited as the “Taxpayer Resources Used in Emergencies Accountab
   - **(2)** *Revisions* Not later than 3 years after the date on which the head of a covered agency submits a plan under paragraph (1), and not less frequently than once every 3 years thereafter, the head of each covered agency shall—
     - **(A)** review and, if necessary, revise the plan of the covered agency; and
     - **(B)** submit to the Director any revised plan of the covered agency.
-  - **(3)** *Submission to Congress* Not later than 1 year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Director shall submit to Congress the plans submitted by covered agencies under this subsection.
+  - **(3)** *Submission to Congress* Not later than 1 year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Director shall submit to Congress, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives the plans submitted by covered agencies under this subsection.
 - **(d)** *Unavailability of judicial review* A determination, finding, action, or omission under this section by the Director or the head of a covered agency shall not be subject to judicial review.
+- **(e)** *No additional funds* No additional funds are authorized to be appropriated for the purpose of carrying out this Act.

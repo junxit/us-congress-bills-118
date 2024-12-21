@@ -1,7 +1,7 @@
 ---
 measure: S. 5098
 congress: 118
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 5098
@@ -32,3 +32,5 @@ Taxpayer Resources Used in Emergencies Accountability Act
 - 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-282.
 - 2024-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 118-282.
 - 2024-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.
+- 2024-12-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7313; text: CR S7313)
+- 2024-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
