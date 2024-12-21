@@ -1,7 +1,7 @@
 ---
 measure: S. 3658
 congress: 118
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subsection (a) of section 50702 of title 51, United States Code, is amended by inserting before the end period the following: “, which, not later than 5 years after the date of the enactment of the SAFE Orbit Act, shall organizationally … | the bill names no machine-readable US Code section |
+| — | amend | Section 50701 of title 51, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 507 of title 51, United States Code, is amended by striking the item relating to section 50701 and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Subsection (a) of section 50702 of title 51, United States Code, is amended by inserting before the period at the end the following: “, which, not later than 5 years after the date of the enactment of this Act, shall be elevated by the S… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading, by striking “Director” and inserting “Assistant Secretary”; and | the bill names no machine-readable US Code section |
