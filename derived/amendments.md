@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1256
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,8 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 305(a)(1) of title 38, United States Code, is amended by adding at the end the following new sentence: “An individual appointed to serve as the Under Secretary of Health shall be appointed for a term of five years.”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Not to exceed eight” and inserting “As many”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “as the Secretary determines necessary” after “Health”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) through (g) as subsections (b) through (f), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), as so redesignated, by striking “subsection (e)” and inserting “subsection (d)”. | the bill names no machine-readable US Code section |
