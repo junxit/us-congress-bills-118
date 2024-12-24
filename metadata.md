@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8913
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8913
@@ -16,7 +16,7 @@ Protecting American Students Act
 
 - Rep. Ferguson, A. Drew [R-GA-3] (F000465)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Miller, Carol D. [R-WV-1] (M001205)
@@ -26,6 +26,7 @@ Protecting American Students Act
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
 
 ## Committees (1)
 
@@ -36,3 +37,8 @@ Protecting American Students Act
 - 2024-07-02 — Introduced in House
 - 2024-07-02 — Introduced in House
 - 2024-07-02 — Referred to the House Committee on Ways and Means.
+- 2024-07-09 — Committee Consideration and Mark-up Session Held
+- 2024-07-09 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 13.
+- 2024-12-24 — Placed on the Union Calendar, Calendar No. 798.
+- 2024-12-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-949.
+- 2024-12-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-949.

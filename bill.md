@@ -23,8 +23,8 @@ This Act may be cited as the “Protecting American Students Act”.
 ## § 3. Requirement to report certain information with respect to application of excise tax based on investment income of private colleges and universities
 
 - **(a)** *In general* Section 6033 of the Internal Revenue Code of 1986 is amended by redesignating subsection (o) as subsection (p) and by inserting after subsection (n) the following new subsection:
-  > - **(o)** *Requirement To report certain information with respect to excise tax based on investment income of private colleges and universities* Each applicable educational institution described in section 4968(b) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+  > - **(o)** *Requirement to report certain information with respect to excise tax based on investment income of private colleges and universities* Each applicable educational institution described in section 4968(b) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
   >   - **(1)** the number of students taken into account for purposes of the calculation in paragraph (1)(D) of section 4968(b) (determined before the application of paragraph (3) of such section), and
   >   - **(2)** the number of students taken into account for purposes of the calculation in paragraph (1)(D) of section 4968(b) (determined after the application of paragraph (3) of such section).
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply to taxable years beginning after December 31, 2024.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2024.
