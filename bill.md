@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1089
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -41,3 +41,35 @@ This Act may be cited as the “VA Medical Center Facility Transparency Act”.
 - **(e)** *Definitions* In this section:
   - **(1)** The term appropriate Members of Congress means, with respect to a medical facility of the Department of Veterans Affairs about which a fact sheet is submitted under subsection (a), the Senators representing the State, and the Member, Delegate, or Resident Commissioner of the House of Representatives representing the district, that includes the facility.
   - **(2)** The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+## § 3. Requirement for timely scheduling of appointments at medical facilities of Department of Veterans Affairs
+
+- **(a)** *Requirement* Chapter 17 of title 38, United States Code, is amended—
+  - **(1)** by redesignating section 1706A as section 1706B; and
+  - **(2)** by inserting after section 1706 the following new section:
+    > ## § 1706A. Management of health care: timely scheduling of appointments at Department facilities
+    >
+    > - **(a)** *Requirement for scheduling* In managing the provision of hospital care and medical services at medical facilities of the Department of Veterans Affairs under this chapter, the Secretary shall ensure that whenever a covered veteran contacts the Department by telephone to request the scheduling of an appointment for care or services for the covered veteran at such a facility, the scheduling for the appointment occurs during that telephone call (regardless of the prospective date of the appointment being scheduled).
+    > - **(b)** *Covered veteran defined* In this section, the term “covered veteran” means a veteran who is enrolled in the system of patient enrollment of the Department under section 1705(a) of this title.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by striking the item relating to section 1706A and inserting the following new items:
+- **(c)** *Applicability* The amendments made by subsection (a) shall apply with respect to requests for appointment scheduling occurring on or after the date that is 180 days after the date of the enactment of this Act.
+
+## § 4. Limitation on detail of directors of medical centers of Department of Veterans Affairs to different positions
+
+- **(a)** *Notification*
+  - **(1)** *In general* Not later than 90 days after detailing a director of a medical center of the Department of Veterans Affairs to a different position within the Department, the Secretary of Veterans Affairs shall notify the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of such detail.
+  - **(2)** *Matters To be included* The notification required by paragraph (1) shall include, with respect to a director of a medical center who is detailed to a different position within the Department, the following information:
+    - **(A)** The location at which the director is detailed.
+    - **(B)** The position title of the detail.
+    - **(C)** The estimated time the director is expected to be absent from their duties at the medical center.
+    - **(D)** Such other information as the Secretary may determine appropriate.
+- **(b)** *Appointment of acting director* Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, the Secretary shall appoint an individual as acting director of such medical center with all of the authority and responsibilities of the detailed director.
+- **(c)** *Update on detail* Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, and not less frequently than every 30 days thereafter while the detail is in effect or while the director position at the medical center is vacant, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update regarding the status of the detail.
+- **(d)** *Return to position or reassignment*
+  - **(1)** *In general* Except as provided in paragraph (2), not later than 180 days after detailing a director of a medical center of the Department to a different position within the Department, for a reason other than an ongoing investigation or administrative action with respect to the director, the Secretary shall—
+    - **(A)** return the individual to the position as director of the medical center; or
+    - **(B)** reassign the individual from the position as director of the medical center and begin the process of hiring a new director for such position.
+  - **(2)** *Waiver*
+    - **(A)** *In general* The Secretary may waive the requirement under paragraph (1) with respect to an individual for successive 90-day increments for a total period of not more than 540 days from the original date the individual was detailed away from their position as director of a medical center.
+    - **(B)** *Notification* Not later than 30 days after exercising a waiver under subparagraph (A), the Secretary shall notify Congress of the waiver and provide to Congress information as to why the waiver is necessary.
