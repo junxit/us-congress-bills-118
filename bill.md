@@ -56,4 +56,4 @@ This Act may be cited as the “Education and Workforce Freedom Act”.
   >     - **(C)** any occupational or professional license issued or recognized by a State or the Federal Government (and any certification that satisfies a condition for obtaining such a license), and
   >     - **(D)** any recognized postsecondary credential as defined in section 3(52) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to distributions made after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to distributions made after the date of the enactment of this Act.
