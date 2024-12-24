@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 562
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,11 +15,11 @@ This Act may be cited as the “Improving Veterans Access to Congressional Servi
 
 ## § 2. Use of facilities of the Department of Veterans Affairs by Members of Congress
 
-- **(a)** *In general* Upon request of a Member of Congress and subject to regulations prescribed under subsection (b), the Secretary of Veterans Affairs shall permit the Member to use a facility of the Department of Veterans Affairs for the purposes of meeting with constituents of the Member. The Secretary and the Administrator of General Services shall jointly identify available spaces in facilities of the Department for such purposes.
+- **(a)** *In general* Upon request of a Member of Congress and subject to regulations prescribed under subsection (b), the Secretary of Veterans Affairs shall permit the Member to use a facility of the Department of Veterans Affairs (other than a facility of the National Cemetery Administration) for the purposes of meeting with veterans who are constituents of the Member. The Secretary and the Administrator of General Services shall jointly identify available spaces in facilities of the Department for such purposes.
 - **(b)** *Regulations* Not later than 90 days after the date of enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations regarding such use of a facility of the Department of Veterans Affairs by Members of Congress. Regulations prescribed under this subsection—
   - **(1)** shall require that a space within a facility of the Department provided to a Member under subsection (a) is—
     - **(A)** available during normal business hours;
-    - **(B)** located in an area that is visible and accessible to constituents of the Member; and
+    - **(B)** located in an area that is visible and accessible to veterans who are constituents of the Member; and
     - **(C)** subject to a rate of rent (payable from the Member’s Representational Allowance or the Senator’s Official Personnel and Office Expense Account, as the case may be) that is similar to the rate charged by the Administrator of General Services for office space in the area of the facility;
   - **(2)** may not prohibit a Member from advertising the use by the Member of a space within a facility of the Department under subsection (a);
   - **(3)** shall comply with sections 7321 through 7326 of title 5, United States Code (commonly referred to as the “Hatch Act”) and section 1.218(a)(14) of title 38, Code of Federal Regulations (or successor regulation), by prohibiting activities including—
