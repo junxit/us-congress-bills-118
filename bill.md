@@ -15,7 +15,7 @@ This Act may be cited as the “Strengthening State and Tribal Child Support Enf
 
 ## § 2. Improving the effectiveness of tribal child support enforcement agencies
 
-- **(a)** *Improving the collection of past-Due child support through State and tribal parity in the allowable use of tax information*
+- **(a)** *Improving the collection of past-due child support through State and tribal parity in the allowable use of tax information*
   - **(1)** *Amendment to the Social Security Act* Section 464 of the Social Security Act (42 U.S.C. 664) is amended by adding at the end the following:
     > - **(d)** *Applicability to Indian tribes and tribal organizations receiving a grant under this part* This section, except for the requirement to distribute amounts in accordance with section 457, shall apply to an Indian tribe or tribal organization receiving a grant under section 455(f) in the same manner in which this section applies to a State with a plan approved under this part.
 
@@ -34,21 +34,23 @@ This Act may be cited as the “Strengthening State and Tribal Child Support Enf
           >   - **(ii)** Any child support enforcement agency of an Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.
 
       - **(ii)** in paragraph (8)—
-        - **(I)** in subparagraph (A), by striking “or State or local” and inserting “State, tribal, or local”;
-        - **(II)** by adding the following at the end of subparagraph (B): “The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.”;
-        - **(III)** by striking subparagraph (C) and inserting the following:
+        - **(I)** in subparagraph (A), by striking “or State or local” and inserting “, State, tribal, or local”;
+        - **(II)** in subparagraph (B), by striking “enforced pursuant to a plan described” and all that follows through “of such Act” and inserting “enforced pursuant to the provisions of part D of title IV of the Social Security Act”;
+        - **(III)** by adding at the end of subparagraph (B) the following: “The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.”;
+        - **(IV)** by striking subparagraph (C) and inserting the following:
           > - **(C)** *State, tribal, or local child support enforcement agency* For purposes of this paragraph, the term State, tribal, or local child support enforcement agency has the same meaning as when used in paragraph (6)(D).
 
-        - **(IV)** by striking “and local” in the heading thereof and inserting “tribal, and local”; and
+        - **(V)** by striking “and local” in the heading thereof and inserting “tribal, and local”; and
       - **(iii)** in paragraph (10)(B), by adding at the end the following new clause:
         > - **(iii)** The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
 
-    - **(D)** Section 6103(p) of such Code is amended—
-      - **(i)** in paragraph (4)—
-        - **(I)** by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity” in the matter preceding subparagraph (A) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”,
-        - **(II)** by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity” each place it appears in subparagraph (F) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”, and
-      - **(ii)** in paragraph (9), by striking “or local” and inserting “tribal, or local”.
-    - **(E)** Subsection (c) of section 6402 of such Code is amended by adding at the end the following: “For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.”.
+    - **(D)** Section 6103(p)(4) of such Code is amended—
+      - **(i)** by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity” in the matter preceding subparagraph (A) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”;
+      - **(ii)** by striking “subsection (l)(10)” in subparagraph (F)(i) and inserting “subsection (l)(6), (8), (10)”;
+      - **(iii)** by striking “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity” each place it appears in the matter following subparagraph (F)(iii) and inserting “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity”; and
+      - **(iv)** by inserting “, (8)” after “paragraph (6)(A)” in the matter following subparagraph (F)(iii).
+    - **(E)** Section 6103(p)(9) of such Code is amended by striking “or local” and inserting “tribal, or local”.
+    - **(F)** Section 6402(c) of such Code is amended by adding at the end the following: “For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.”.
 - **(b)** *Reimbursement for reports* Section 453(g) of the Social Security Act (42 U.S.C. 653(g)) is amended—
   - **(1)** in the subsection heading, by striking “State”; and
   - **(2)** by striking “and State” and inserting “, State, and tribal”.
