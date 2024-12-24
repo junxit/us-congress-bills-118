@@ -48,6 +48,6 @@ This Act may be cited as the “USA Workforce Investment Act”.
     >   - **(5)** *States* For purposes of this subsection, the term “State” includes the District of Columbia.
 
   - **(2)** *Conforming amendments*
-    - **(A)** Section 25(e)(1)(C) of such Code is amended by striking “and 25D” and inserting “25D, and 25F”.
+    - **(A)** Section 25(e)(1)(C) of such Code is amended by striking “and 25D” and inserting “, 25D, and 25F”.
     - **(B)** The table of sections for subpart A of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 25E the following new item:
-- **(b)** *Effective date* The amendments made by this subsection shall apply to taxable years ending after December 31, 2024.
+- **(b)** *Effective date* The amendments made by this section shall apply to taxable years ending after December 31, 2024.

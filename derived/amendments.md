@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9461
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 29 U.S.C. § 3152
 
-> Section 25(e)(1)(C) of such Code is amended by striking “and 25D” and inserting “25D, and 25F”.
+> Section 25(e)(1)(C) of such Code is amended by striking “and 25D” and inserting “, 25D, and 25F”.
 
 | | |
 |---|---|
 | Removed | `and 25D` |
-| Inserted | `25D, and 25F` |
+| Inserted | `, 25D, and 25F` |
 
 ## Stated, not applied
 
