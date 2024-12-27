@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8235
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8235
@@ -27,3 +27,11 @@ Rural Physician Workforce Preservation Act
 - 2024-05-02 — Introduced in House
 - 2024-05-02 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2024-05-02 — Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2024-05-08 — Committee Consideration and Mark-up Session Held
+- 2024-05-08 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 16.
+- 2024-05-10 — Referred to the Subcommittee on Health.
+- 2024-12-27 — Committee on Energy and Commerce discharged.
+- 2024-12-27 — Committee on Energy and Commerce discharged.
+- 2024-12-27 — Placed on the Union Calendar, Calendar No. 807.
+- 2024-12-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-960, Part I.
+- 2024-12-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-960, Part I.

@@ -15,7 +15,7 @@ This Act may be cited as the “Rural Physician Workforce Preservation Act”.
 
 ## § 2. Modifying the distribution of certain additional graduate medical education positions under the Medicare program
 
-Section 1886(h) of the Social Security Act (42 U.S.C. 1395ww) is amended—
+Section 1886(h) of the Social Security Act (42 U.S.C. 1395ww(h)) is amended—
 
 - **(1)** in paragraph (9)—
   - **(A)** in subparagraph (B)(ii)(I), by amending such subclause to read as follows:
