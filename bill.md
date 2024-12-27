@@ -15,7 +15,7 @@ This Act may be cited as the “Preserving Emergency Access in Key Sites Act” 
 
 ## § 2. Update to fee schedule for ambulance services provided by critical access hospitals
 
-Section 1834(l)(8) of the Social Security Act (42 U.S.C. 1395m(l)(8)) is amended in the flush left text following subparagraph (B) by inserting “(or, in the case of mountainous terrain or in areas with only secondary roads available, a 15-mile drive)” after “35-mile drive”.
+Section 1834(l)(8) of the Social Security Act (42 U.S.C. 1395m(l)(8)) is amended in the flush left text following subparagraph (B) by inserting “(or, in the case of mountainous terrain or in areas with only secondary roads available, with respect to services furnished on or after January 1, 2026, a 15-mile drive)” after “35-mile drive”.
 
 ## § 3. Treatment of hospitals that met mountainous terrain or secondary roads distance requirement for designation as critical access hospital
 
