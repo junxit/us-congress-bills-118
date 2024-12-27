@@ -17,7 +17,7 @@ This Act may be cited as the “Ensuring Seniors’ Access to Quality Care Act�
 
 - **(a)** *Medicare* Section 1819(f)(2) of the Social Security Act (42 U.S.C. 1395i–3(f)(2)) is amended—
   - **(1)** in subparagraph (B)(iii)—
-    - **(A)** by striking “subparagraphs (C) and (D)” and inserting “subparagraph (C)”; and
+    - **(A)** in the matter preceding subclause (I), by striking “subparagraphs (C) and (D)” and inserting “subparagraph (C)”; and
     - **(B)** in subclause (I)—
       - **(i)** in item (b), by striking “or” at the end;
       - **(ii)** by amending item (c) to read as follows:

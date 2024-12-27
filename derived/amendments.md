@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8244
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395i-3
 
-> by striking “subparagraphs (C) and (D)” and inserting “subparagraph (C)”; and
+> in the matter preceding subclause (I), by striking “subparagraphs (C) and (D)” and inserting “subparagraph (C)”; and
 
 | | |
 |---|---|
