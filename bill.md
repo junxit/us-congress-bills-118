@@ -15,7 +15,7 @@ This Act may be cited as the “Rural Hospital Stabilization Act”.
 
 ## § 2. Rural Hospital Stabilization Pilot Program
 
-Section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4) is amended by adding at the end the following new paragraph:
+Section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)) is amended by adding at the end the following new paragraph:
 
 > - **(8)** *Rural Hospital Stabilization Pilot Program*
 >   - **(A)** *In general* Beginning January 1, 2026, the Secretary, acting through the Director of the Office of Rural Health Policy, shall award grants to—

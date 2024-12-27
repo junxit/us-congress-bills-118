@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8245
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8245
@@ -16,6 +16,10 @@ Rural Hospital Stabilization Act
 
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
 
+## Cosponsors (1)
+
+- Rep. Fong, Vince [R-CA-20] (F000480)
+
 ## Committees (1)
 
 - House — Ways and Means Committee
@@ -25,3 +29,8 @@ Rural Hospital Stabilization Act
 - 2024-05-06 — Introduced in House
 - 2024-05-06 — Introduced in House
 - 2024-05-06 — Referred to the House Committee on Ways and Means.
+- 2024-05-08 — Committee Consideration and Mark-up Session Held
+- 2024-05-08 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 18.
+- 2024-12-27 — Placed on the Union Calendar, Calendar No. 803.
+- 2024-12-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-954.
+- 2024-12-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 118-954.
