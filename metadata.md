@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4563
 congress: 118
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4563
@@ -16,7 +16,7 @@ ACE Act
 
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 
-## Cosponsors (100)
+## Cosponsors (132)
 
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
@@ -118,6 +118,38 @@ ACE Act
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 - Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Flood, Mike [R-NE-1] (F000474)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Cammack, Kat [R-FL-3] (C001039)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Waltz, Michael [R-FL-6] (W000823)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. McCormick, Richard [R-GA-6] (M001218)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Santos, George [R-NY-3] (S001222)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Weber, Randy K., Sr. [R-TX-14] (W000814)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Williams, Brandon [R-NY-22] (W000828)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
 ## Committees (10)
 
@@ -147,3 +179,26 @@ ACE Act
 - 2023-07-11 — Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, Ways and Means, Science, Space, and Technology, Intelligence (Permanent Select), Homeland Security, Education and the Workforce, Financial Services, Oversight and Accountability, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-07-11 — Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, Ways and Means, Science, Space, and Technology, Intelligence (Permanent Select), Homeland Security, Education and the Workforce, Financial Services, Oversight and Accountability, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2023-07-11 — Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.
+- 2023-07-13 — Committee Consideration and Mark-up Session Held
+- 2023-07-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 8 - 4.
+- 2025-01-03 — Committee on Education and the Workforce discharged.
+- 2025-01-03 — Committee on Education and the Workforce discharged.
+- 2025-01-03 — Committee on Financial Services discharged.
+- 2025-01-03 — Committee on Financial Services discharged.
+- 2025-01-03 — Committee on Homeland Security discharged.
+- 2025-01-03 — Committee on Homeland Security discharged.
+- 2025-01-03 — Committee on Intelligence (Permanent) discharged.
+- 2025-01-03 — Committee on Intelligence (Permanent) discharged.
+- 2025-01-03 — Committee on Oversight and Accountability discharged.
+- 2025-01-03 — Committee on Oversight and Accountability discharged.
+- 2025-01-03 — Committee on Rules discharged.
+- 2025-01-03 — Committee on Rules discharged.
+- 2025-01-03 — Committee on Science, Space, and Technology discharged.
+- 2025-01-03 — Committee on Science, Space, and Technology discharged.
+- 2025-01-03 — Committee on Ways and Means discharged.
+- 2025-01-03 — Committee on Ways and Means discharged.
+- 2025-01-03 — Committee on the Judiciary discharged.
+- 2025-01-03 — Committee on the Judiciary discharged.
+- 2025-01-03 — Placed on the Union Calendar, Calendar No. 825.
+- 2025-01-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-978, Part I.
+- 2025-01-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 118-978, Part I.

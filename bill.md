@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4563
 congress: 118th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ The table of contents of this Act is as follows:
 
 Congress finds the following:
 
-- **(1)** According to article 1, section 4 of the Constitution of the United States, the States have the primary role in establishing “(t)he Times, Places and Manners of holding Elections for Senators and Representatives”, while Congress has a purely secondary role in this space and must restrain itself from acting improperly and unconstitutionally.
+- **(1)** According to Article 1, Section 4 of the Constitution of the United States, the States have the primary role in establishing “(t)he Times, Places and Manner of holding Elections for Senators and Representatives”, while Congress has a purely secondary role in this space and must restrain itself from acting improperly and unconstitutionally.
 - **(2)** Federal election legislation should never be the first step and must never impose burdensome, unfunded Federal mandates on State and local elections officials. When Congress does speak, it must devote its efforts only to resolving highly significant and substantial deficiencies to ensure the integrity of our elections. State legislatures are the primary venues to establish rules for governing elections and correct most issues.
 - **(3)** All eligible American voters who wish to participate must have the opportunity to vote, and all lawful votes must be counted.
 - **(4)** States must balance appropriate election administration structures and systems with accessible access to the ballot box.
@@ -30,4 +30,4 @@ Congress finds the following:
 - **(7)** Redistricting decisions are best made at the State level.
 - **(8)** States must maintain the flexibility to determine the best redistricting processes for the particular needs of their citizens.
 - **(9)** Congress has independent authority under the Fourteenth, Fifteenth, Nineteenth, Twenty-Fourth, and Twenty-Sixth Amendments to ensure elections are conducted without unlawful discrimination.
-- **(10)** The Civil Rights Act and the Voting Rights Act, which are not anchored in article 1, section 4 of the Constitution, have seen much success since their passage in 1964 and 1965, and Congress should continue to exercise its constitutional authority in this space as appropriate.
+- **(10)** The Civil Rights Act and the Voting Rights Act, which are not anchored in Article 1, Section 4 of the Constitution, have seen much success since their passage in 1964 and 1965, and Congress should continue to exercise its constitutional authority in this space as appropriate.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4563
 congress: 118
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-211 amendatory instructions. 46 executed, 165 stated and not applied.
+213 amendatory instructions. 46 executed, 167 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -161,12 +161,12 @@ to guess them.
 
 ### 52 U.S.C. § 20923
 
-> in paragraph (1), by striking “at the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code” and inserting “at an annual rate of basic pay equal to the lesser of the amount of $176,300, as adjusted under section 5318 of title 5, United States Code, in the same manner as the annual rate of pay for positions at each level of the Executive Schedule, or 90 percent of the annual rate of pay for a member of the Federal Election Commission (but in no case lower than the rate applicable for the pay period occurring on the date of the enactment of the ACE Act)”;
+> in paragraph (1), by striking “at the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code” and inserting “at an annual rate of basic pay equal to the lesser of the amount of $176,300, as adjusted under section 5318 of title 5, United States Code, in the same manner as the annual rate of pay for positions at each level of the Executive Schedule, or 90 percent of the annual rate of pay for a member of the Federal Election Commission (but in no case lower than the rate applicable for the pay period occurring on the date of the enactment of the American Confidence in Elections Act)”;
 
 | | |
 |---|---|
 | Removed | `at the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code` |
-| Inserted | `at an annual rate of basic pay equal to the lesser of the amount of $176,300, as adjusted under section 5318 of title 5, United States Code, in the same manner as the annual rate of pay for positions at each level of the Executive Schedule, or 90 percent of the annual rate of pay for a member of the Federal Election Commission (but in no case lower than the rate applicable for the pay period occurring on the date of the enactment of the ACE Act)` |
+| Inserted | `at an annual rate of basic pay equal to the lesser of the amount of $176,300, as adjusted under section 5318 of title 5, United States Code, in the same manner as the annual rate of pay for positions at each level of the Executive Schedule, or 90 percent of the annual rate of pay for a member of the Federal Election Commission (but in no case lower than the rate applicable for the pay period occurring on the date of the enactment of the American Confidence in Elections Act)` |
 
 ### 52 U.S.C. § 20923
 
@@ -384,6 +384,15 @@ to guess them.
 | Removed | `equivalent to the compensation paid at level IV of the Executive Schedule (5 U.S.C. 5315)` |
 | Inserted | `at an annual rate of basic pay of $186,300, as adjusted under section 5318 of title 5, United States Code, in the same manner as the annual rate of pay for positions at each level of the Executive Schedule, which may not be varied or suspended by executive action` |
 
+### 52 U.S.C. § 30106
+
+> Section 306(a)(2) of such Act (52 U.S.C. 30106(a)(2)) is amended by striking “shall serve for a single term of 6 years” and inserting “shall be appointed for terms of 6 years”.
+
+| | |
+|---|---|
+| Removed | `shall serve for a single term of 6 years` |
+| Inserted | `shall be appointed for terms of 6 years` |
+
 ### 52 U.S.C. § 30145
 
 > by striking “(a)” and inserting “(a)(1)”; and
@@ -392,24 +401,6 @@ to guess them.
 |---|---|
 | Removed | `(a)` |
 | Inserted | `(a)(1)` |
-
-### 52 U.S.C. § 30116
-
-> in paragraph (4), as so redesignated, by striking “paragraphs (2), (3), and (4)” and inserting “paragraphs (2) and (3)”; and
-
-| | |
-|---|---|
-| Removed | `paragraphs (2), (3), and (4)` |
-| Inserted | `paragraphs (2) and (3)` |
-
-### 52 U.S.C. § 30116
-
-> in paragraph (1), by striking “paragraphs (2), (3), and (4)” and inserting “paragraphs (2) and (3)”.
-
-| | |
-|---|---|
-| Removed | `paragraphs (2), (3), and (4)` |
-| Inserted | `paragraphs (2) and (3)` |
 
 ### 52 U.S.C. § 30101
 
@@ -429,7 +420,7 @@ to guess them.
 | Removed | `Except as provided in subsection (i) and section 315A, no person` |
 | Inserted | `No person` |
 
-### 52 U.S.C. § 30106
+### 52 U.S.C. § 30109
 
 > Sections 307 and 309 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30107 and 30109) are each amended by striking “subpena” each place it appears and inserting “subpoena”.
 
@@ -437,6 +428,15 @@ to guess them.
 |---|---|
 | Removed | `subpena` |
 | Inserted | `subpoena` |
+
+### 52 U.S.C. § 30109
+
+> Section 309(a)(7) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30109(a)(7)) is amended by striking “subpenas” and inserting “subpoenas”.
+
+| | |
+|---|---|
+| Removed | `subpenas` |
+| Inserted | `subpoenas` |
 
 ## Stated, not applied
 
@@ -505,7 +505,7 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 20901` | add-at-end | The table of contents of such Act is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20701` | insert | by inserting “including records and papers of envelopes used to deliver voted ballots by mail and scanned, electronically preserved records of envelopes used to deliver blank ballots or absentee ballot requests or used for any purpose ot… | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 20701` | insert | by inserting after “shall devolve upon such custodian.” the following: “Such records and papers shall be considered public records available for reasonable public inspection, including at a minimum, as defined the law of the State in whi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 21083` | strike | in clause (i)(II), by striking “(other than an applicant to whom clause (ii) applies)”; and | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 21083` | strike | in clause (i)(II), by striking “ (other than an applicant to whom clause (ii) applies)”; and | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 21083` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21801` | add-at-end | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21801 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 21111` | replace | Section 401 of such Act (52 U.S.C. 21111) is amended by striking the period at the end and inserting the following: “, and the requirements of subtitle C with respect to the District of Columbia.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -521,7 +521,10 @@ complete account of the bill's effect, which it is not.
 | `52 U.S.C. § 20922` | insert | in paragraph (2), by inserting “, including any related nonvoting election technology, as defined in section 298C of the Help America Vote Act of 2002” after “hardware and software”; and | the bill quotes the text inserted but describes where it goes |
 | `52 U.S.C. § 20922` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 20925` | add-at-end | Section 205 of the Help America Vote Act of 2002 (52 U.S.C. 20925) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 20981` | add-at-end | Subtitle C of title II of the Help America Vote Act of 2002 (52 U.S.C. 20981 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20981` | redesignate | by redesignating section 248, as redesignated by section 113(a)(1), as section 249; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20981` | redesignate | by adding before section 249 (as redesignated by paragraph (1)) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20981` | redesignate | by redesignating the item relating to section 248, as redesignated by section 113(b)(1), as section 249; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20981` | insert | by inserting after the item relating to section 247, as added by section 113(b)(2), the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | add-at-end | Chapter 29 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | add-at-end | The table of sections for chapter 29 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30121` | strike | in paragraph (1)(C), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -595,20 +598,19 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30145` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30101` | add-at-end | Chapter 29 of title 18, United States Code, as amended by section 161(b), is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 30101` | add-at-end | The table of sections for chapter 28 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30101` | add-at-end | The table of sections for chapter 29 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30106` | strike | Section 306(a)(1) of the Federal Election Campaign Act of 1971 (52 U.S.C. 30106(a)(1)) is amended by striking “the Secretary of the Senate and the Clerk of the House of Representatives or their designees, ex officio and without the right… | the bill quotes the text struck but describes what replaces it |
-| `52 U.S.C. § 30116` | redesignate | by striking paragraph (4) and redesignating paragraph (5) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30126` | strike | The Federal Election Campaign Act of 1971 is amended by striking section 324 (52 U.S.C. 30126). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30117` | strike | The Federal Election Campaign Act of 1971 is amended by striking section 315A (52 U.S.C. 30117). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | strike | by striking subsection (i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | redesignate | by redesignating subsection (j) as subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30104` | strike | by striking subparagraphs (B), (C), and (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 30104` | redesignate | by redesignating subparagraph (E) as subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `52 U.S.C. § 30117` | strike | in subsection (b)(1), by striking “or for any applicable electioneering communication”; and | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 30104` | redesignate | by redesignating subparagraph (E) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 30117` | strike | in subsection (b)(2), by striking “or for any applicable electioneering communication”; and | the bill quotes the text struck but describes what replaces it |
 | `52 U.S.C. § 30117` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `52 U.S.C. § 30116` | redesignate | Section 315 of such Act (52 U.S.C. 30116) is amended by striking subsection (i), as redesignated by paragraph (4)(B)(ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9008` | strike | in subsection (b), by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9008` | strike | by striking subsections (c), (d), (e), (f), (g), and (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “or section 210” and inserting “, section 210”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “1998 or” and inserting “1998,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “1997” and inserting “, or section 502 of the ACE Act”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “1997” and inserting “, or section 502 of the American Confidence in Elections Act”. | the bill names no machine-readable US Code section |
